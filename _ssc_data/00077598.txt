@@ -6,9 +6,9 @@ region: "asia-pacific"
   - "resilience-building,"
 type: "capacity-building"
 location: 
-  - AGO
-  - EGY
-  - BGD
+  - AGO,
+  - EGY,
+  - BGD,
 partners: 
   - nat
 ---

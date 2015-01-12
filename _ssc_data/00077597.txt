@@ -4,7 +4,7 @@ region: "arab-states"
 partners: 
   - nat
 location: 
-  - DZA
+  - DZA,
 type: "knowledge-broker"
 "thematic-focus": 
   - "resilience-building"

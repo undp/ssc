@@ -1,5 +1,7 @@
 ---
 layout: null
 type: capacity-building
+location: 
+  - DZA,
 ---
 Some interesting project stuff.

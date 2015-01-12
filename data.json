@@ -5,8 +5,8 @@ layout: null
     {
         "project_id": "{{ project.relative_path | remove: "_ssc_data/" | remove: ".txt" }}",
         "type": "{{ project.type }}",
-        "partners": "{{project.partners}}",
-        "location": "{{project.location |  split: "," }}",
-        "description": "{{project.content | strip_newlines }}"
+        "partners": "{{ project.partners}}",
+        "location": "{{ project.location }}",
+        "description": "{{ project.content | strip_newlines }}"
     }{% unless forloop.last %}, {% endunless %}
 {% endfor %}]

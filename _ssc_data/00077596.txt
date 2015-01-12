@@ -2,7 +2,7 @@
 published: false
 type: "capacity-building"
 location: 
-  - ARE
+  - ARE,
 "thematic-focus": 
   - "resilience-building"
 region: "arab-states"
