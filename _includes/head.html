@@ -1,3 +1,5 @@
+{% assign base = site.baseurl %}
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,4 +11,12 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+  <script src='{{base}}/ext/jquery.js'></script>
+  <script src='{{base}}/ext/underscore.js'></script>
+  <script src='{{base}}/ext/backbone.js'></script>
+  <script src='{{base}}/ext/backbone.facetr.js'></script>
+  <script src='{{base}}/js/util.js'></script>
+  <script src='{{base}}/js/script.js'></script>
+
 </head>

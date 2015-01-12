@@ -1,8 +1,8 @@
 # Site settings
+baseurl: 
 title: SSC Testing data
 email: js@ppls.io
 description: > # South-South Cooperation data
-baseurl: "" # the subpath of your site, e.g. /blog/
 
 # Build settings
 markdown: kramdown
@@ -22,11 +22,11 @@ prose:
           placeholder: "Select area(s) of focus"
           options:
             - name: "Sustainable development"
-              value: "sustainable-development"
+              value: "sustainable-development,"
             - name: "Resilience building"
-              value: "resilience-building"
+              value: "resilience-building,"
             - name: "Inclusive and effective democratic governance"
-              value: "democratic-governance"
+              value: "democratic-governance,"
       - name: "type"
         field:
           element: "select"
@@ -36,11 +36,11 @@ prose:
             - name: "Not set"
               value: null
             - name: "Capacity Building"
-              value: "capacity-building"
+              value: "cap"
             - name: "Knowledge broker"
-              value: "knowledge-broker"
+              value: "kno"
             - name: "Partnership facilitator"
-              value: "partnership-facilitator"
+              value: "par"
       - name: "location"
         field:
           element: "multiselect"
