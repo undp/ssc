@@ -6,8 +6,7 @@ layout: null
         "file": "{{ project.relative_path }}",
         "type": "{{ project.type }}",
         "partners": "{{project.partners}}",
-        "description": "{{project.content}}",
-        "location": "{{project.location}}"
-
+        "location": "{{project.location}}",
+        "description": "{{project.content}}"
     }{% unless forloop.last %}, {% endunless %}
 {% endfor %}]
