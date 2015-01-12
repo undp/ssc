@@ -3,7 +3,7 @@ layout: null
 ---
 [{% for project in site.collections.ssc_data.docs %}
     {
-        "file": "{{ project.relative_path }}",
+        "project_id": "{{ project.relative_path | remove: "_ssc_data/" | remove: ".txt" }}",
         "type": "{{ project.type }}",
         "partners": "{{project.partners}}",
         "location": "{{project.location}}",
