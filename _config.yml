@@ -29,7 +29,7 @@ prose:
               value: "democratic-governance,"
       - name: "type"
         field:
-          element: "select"
+          element: "multiselect"
           label: "Type of action"
           placeholder: "Choose action"
           options:
