@@ -14,7 +14,8 @@ github_username:  jekyll
 markdown: kramdown
 
 collections:
-- ssc_data
+  ssc_data:
+    output: true
 
 prose:
   rooturl: '_ssc_data'
