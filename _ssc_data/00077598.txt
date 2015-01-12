@@ -1,0 +1,14 @@
+---
+published: false
+region: "asia-pacific"
+"thematic-focus": 
+  - "resilience-building"
+type: "capacity-building"
+location: 
+  - EGY
+  - BGD
+partners: 
+  - nat
+---
+
+Get some clicks going?
