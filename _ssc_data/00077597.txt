@@ -1,0 +1,13 @@
+---
+published: false
+region: "arab-states"
+partners: 
+  - nat
+location: 
+  - DZA
+type: "knowledge-broker"
+"thematic-focus": 
+  - "resilience-building"
+---
+
+What goes in here?
