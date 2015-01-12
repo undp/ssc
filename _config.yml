@@ -25,6 +25,8 @@ prose:
           label: "Type of action"
           placeholder: "Choose action"
           options:
+            - name: "Unknown"
+              value: "unknown"
             - name: "Capacity Building"
               value: "capacity-building"
             - name: "Knowledge broker"
