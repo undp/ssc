@@ -18,7 +18,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "episode"
+          value: null
       - name: "type"
         field:
           element: "select"
