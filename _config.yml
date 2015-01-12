@@ -39,10 +39,12 @@ prose:
               value: "capacity-building"
             - name: "Knowledge broker"
               value: "knowledge-broker"
+            - name: "Partnership facilitator"
+              value: "partnership-facilitator"
       - name: "location"
         field:
           element: "multiselect"
-          label: "Location (country, region, unit, etc)"
+          label: "Location (country, etc)"
           placeholder: "Select location(s)"
           options:
             - name: "Angola"
@@ -425,3 +427,20 @@ prose:
               value: "PNG"
             - name: "Ofc of Info Systems&Technology"
               value: "H48"
+      - name: "region"
+        field:
+          element: "select"
+          label: "Region"
+          placeholder: "Select region"
+          options:
+            - name: "Latin America & Caribbean"
+              value: "lac"
+            - name: "Africa"
+              value: "africa"
+            - name: "Asia & Pacific"
+              value: "asia-pacific"
+            - name: "Arab States"
+              value: "arab-states"
+            - name: "Europe & CIS"
+              value: "europe-cis"
+
