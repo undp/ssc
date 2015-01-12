@@ -1,6 +1,5 @@
 ---
 layout: null
 type: capacity-building
-id: 000083948343
 ---
 Some interesting project stuff.
