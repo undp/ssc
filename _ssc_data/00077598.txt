@@ -2,7 +2,7 @@
 published: false
 region: "asia-pacific"
 "thematic-focus": 
-  - "resilience-building"
+  - "resilience-building,"
 type: "capacity-building"
 location: 
   - EGY
