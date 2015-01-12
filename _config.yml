@@ -12,5 +12,53 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
 collections:
 - ssc_data
+
+prose:
+  rooturl: '_ssc_data'
+  metadata:
+    _ssc_data:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "episode"
+      - name: "author"
+        field:
+          element: "select"
+          label: "Who are you ?"
+          placeholder: "Choose your name"
+          options:
+            - name: "Dimitri"
+              value: "Dimitri"
+            - name: "Julien"
+              value: "Julien"
+            - name: "ImaCrea"
+              value: "ImaCrea"
+            - name: "Louise"
+              value: "Louise"
+            - name: "Ludovic"
+              value: "Ludovic"
+            - name: "Maxime"
+              value: "Maxime"
+            - name: "Olivier"
+              value: "Olivier"
+            - name: "MailTape Crew"
+              value: "MailTape Crew"
+      - name: "type"
+        field:
+          element: "select"
+          label: "Type of action"
+          placeholder: "Choose action"
+          options:
+            - name: "Rough"
+              value: "rough"
+            - name: "Dreamy"
+              value: "dreamy"
+            - name: "Vibrant"
+              value: "vibrant"
+            - name: "Bliss"
+              value: "bliss"
+            - name: "Trippy"
+              value: "trippy"
