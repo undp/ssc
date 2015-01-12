@@ -6,4 +6,4 @@ partners: "WTF goes here?"
 location: Same here
 ---
 
-Some other useful and relevant interesting stuff.
+Some other useful and relevant interesting stuff. Oh yes.
