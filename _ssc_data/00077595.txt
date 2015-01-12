@@ -3,6 +3,7 @@ layout: null
 published: false
 type: "knowledge-broker"
 partners: "WTF goes here?"
-location: "Same here"
+location: Same here
 ---
+
 Some other useful and relevant interesting stuff.
