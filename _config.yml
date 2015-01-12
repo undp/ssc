@@ -33,8 +33,8 @@ prose:
           label: "Type of action"
           placeholder: "Choose action"
           options:
-            - name: "Unknown"
-              value: "unknown"
+            - name: "Not set"
+              value: null
             - name: "Capacity Building"
               value: "capacity-building"
             - name: "Knowledge broker"
@@ -443,4 +443,23 @@ prose:
               value: "arab-states"
             - name: "Europe & CIS"
               value: "europe-cis"
+      - name: "partners"
+        field:
+          element: "multiselect"
+          label: "Partner types"
+          options:
+            - name: "International cooperation / development agencies"
+              value: "international-cooperation-development-agencies"
+            - name: "Regional / inter-governmental organizations"
+              value: "regional-inter-governmental-organizations"
+            - name: "National governments"
+              value: "national-governments"
+            - name: "Sub-national governments"
+              value: "sub-national-governments"
+            - name: "Community Support Organisations"
+              value: "cso"
+            - name: "Academia"
+              value: "academia"
+            - name: "Private sector"
+              value: "private-sector"
 
