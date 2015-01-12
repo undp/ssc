@@ -15,10 +15,18 @@ prose:
   rooturl: '_ssc_data'
   metadata:
     _ssc_data:
-      - name: "layout"
+      - name: "thematic-focus"
         field:
-          element: "hidden"
-          value: null
+          element: "multiselect"
+          label: "Thematic Focus"
+          placeholder: "Select area(s) of focus"
+          options:
+            - name: "Sustainable development"
+              value: "sustainable-development"
+            - name: "Resilience building"
+              value: "resilience-building"
+            - name: "Inclusive and effective democratic governance"
+              value: "democratic-governance"
       - name: "type"
         field:
           element: "select"
