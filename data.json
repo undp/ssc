@@ -5,7 +5,8 @@ layout: null
     {
         "type": "{{ project.type }}",
         "partners": "{{project.partners}}",
-        "description": "{{project.content}}"
+        "description": "{{project.content}}",
+        "location": "{{project.location}}"
 
     }{% unless forloop.last %}, {% endunless %}
 {% endfor %}]
