@@ -1,11 +1,11 @@
 ---
 published: false
-type: "knowledge-broker"
+type: "capacity-building"
 location: 
-  - H59
   - KAZ
 "thematic-focus": 
   - "resilience-building"
+region: "arab-states"
 ---
 
 Something neat
