@@ -6,9 +6,7 @@ location:
 "thematic-focus": 
   - "resilience-building"
 region: "arab-states"
-partners: 
-  - academia
-  - "private-sector"
+
 ---
 
 The description is everuthing I'd hoped it would be.
