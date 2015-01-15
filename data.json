@@ -4,13 +4,14 @@ layout: null
 [{% for project in site.collections.ssc_data.docs %}
     {
         "open_project_id": "{{ project.open_project_id }}",
-        "title": "{{ project.title }}",
-        "objective": "{{ project.objective }}",
-        "thematic_focus": "{{ project.thematic_focus }}",
-        "type": "{{ project.type }}",
-        "location": "{{ project.location }}",
-        "partners": "{{ project.partners }}",
-        "region": "{{ project.region }}",
+        "project_title": "{{ project.project_title }}",
+        "project_objective": "{{ project.project_objective }}",
+        "thematic_focus": "{{ project.thematic_focus | join: ',' }}",
+        "territorial_focus": "{{ project.territorial_focus | join: ',' }}",
+        "type": "{{ project.type | join: ',' }}",
+        "location": "{{ project.location | join: ',' }}",
+        "partners": "{{ project.partners | join: ',' }}",
+        "region": "{{ project.region  | join: ',' }}",
         "description": "{{ project.content | strip_newlines }}",
         "prose_edit_link": "http://prose.io/#onlyjsmith/jekyll-data/edit/gh-pages/{{ project.relative_path }}"
     }{% unless forloop.last %}, {% endunless %}
