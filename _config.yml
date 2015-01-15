@@ -20,11 +20,11 @@ prose:
         field:
           element: 'text'
           label: 'Project ID from open.undp.org'
-      - name: 'title'
+      - name: 'project_title'
         field:
           element: 'text'
           label: 'Project title'
-      - name: 'objective'
+      - name: 'project_objective'
         field:
           element: 'textarea'
           label: 'Project objective'
