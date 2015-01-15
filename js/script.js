@@ -18,7 +18,7 @@ Countries = Backbone.Collection.extend({
 })
 
 Projects = Backbone.Collection.extend({
-  url: '/api/projects.json'
+  url: '{{ site.baseurl }} /api/projects.json'
   // parseLocations: function() {
   //   this.each(function(i) {
   //     i.set('locations', i.get('location').split(/,\s?/));
