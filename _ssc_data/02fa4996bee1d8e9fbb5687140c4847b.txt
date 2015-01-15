@@ -6,7 +6,7 @@ host_location:
   - BOL
 region: 
   - LAC
-partners: 
+partners_type: 
   - INT
   - PVT
 project_title: Participatory Citizenry in Bolivia
