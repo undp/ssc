@@ -1,13 +1,12 @@
 ---
-published: false
-region: "arab-states"
+region: ARB
 partners: 
-  - nat
+  - NAT
 location: 
   - DZA,
-type: "knowledge-broker"
-"thematic-focus": 
-  - "resilience-building"
+type: KNO
+thematic_focus: 
+  - RES
 ---
 
 What goes in here?

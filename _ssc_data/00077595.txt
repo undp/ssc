@@ -1,7 +1,5 @@
 ---
-layout: null
-published: false
-type: "knowledge-broker"
+type: KNO
 location: 
   - DZA,
 ---

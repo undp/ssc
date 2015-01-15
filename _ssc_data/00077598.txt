@@ -1,18 +1,17 @@
 ---
-published: false
-region: "asia-pacific"
-"thematic-focus": 
-  - "sustainable-development,"
-  - "resilience-building,"
-type: "capacity-building"
+region: ASP,
+thematic_focus: 
+  - SUS,
+  - RES,
+type: CAP,
 location: 
   - AGO,
   - EGY,
   - BGD,
 partners: 
-  - nat
+  - NAT,
 ---
 
 Get some clicks going? Can't have an extra line breaks at the end, which is a bit of a problem. Line breaks inside are ok, or not? 
 
-What about now?
+What about now? AND HERE?

@@ -1,8 +1,9 @@
 # Site settings
-baseurl: 
-title: SSC Testing data
+baseurl:
+title: SSC Data
 email: js@ppls.io
 description: > # South-South Cooperation data
+github_username: onlyjsmith
 
 # Build settings
 markdown: kramdown
@@ -15,18 +16,18 @@ prose:
   rooturl: '_ssc_data'
   metadata:
     _ssc_data:
-      - name: "thematic-focus"
+      - name: "thematic_focus"
         field:
           element: "multiselect"
           label: "Thematic Focus"
           placeholder: "Select area(s) of focus"
           options:
             - name: "Sustainable development"
-              value: "sustainable-development,"
+              value: "SUS,"
             - name: "Resilience building"
-              value: "resilience-building,"
+              value: "RES,"
             - name: "Inclusive and effective democratic governance"
-              value: "democratic-governance,"
+              value: "DEM,"
       - name: "type"
         field:
           element: "multiselect"

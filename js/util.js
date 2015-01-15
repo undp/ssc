@@ -13,3 +13,7 @@ util.request = function(url, callback) {
   req.send(null);
 }
 
+
+String.prototype.trim = function() {  
+   return this.replace(/^\s+|\s+$/g,"");  
+} 
