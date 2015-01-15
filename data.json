@@ -9,7 +9,7 @@ layout: null
         "thematic_focus": "{{ project.thematic_focus }}",
         "type": "{{ project.type }}",
         "location": "{{ project.location }}",
-        "partners": "{{ project.partners}}",
+        "partners": "{{ project.partners }}",
         "region": "{{ project.region }}",
         "description": "{{ project.content | strip_newlines }}",
         "prose_edit_link": "http://prose.io/#onlyjsmith/jekyll-data/edit/gh-pages/{{ project.relative_path }}"
