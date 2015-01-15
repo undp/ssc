@@ -1,6 +1,11 @@
 ---
-type: CAP
+type: 
+  - "CAP,"
 location: 
-  - DZA,
+  - "DZA,"
+published: true
+thematic_focus: 
+  - "RES,"
 ---
+
 Get your interest here.

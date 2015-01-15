@@ -4,7 +4,7 @@ type:
   - "RES,"
 location: 
   - "DZA,"
-published: true
+  - "PNG,"
 ---
 
 Some interesting project stuff. Oh yes.
