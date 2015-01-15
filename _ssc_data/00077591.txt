@@ -5,7 +5,6 @@ type:
 location: 
   - "DZA,"
   - "PNG,"
-published: false
 ---
 
 Some interesting project stuff. Oh yes.
