@@ -54,6 +54,18 @@ prose:
               value: "KNO,"
             - name: "Partnership facilitator"
               value: "PAR,"
+      - name: 'scale'
+        field:
+          element: 'select'
+          label: 'Scale of operation'
+          placeholder: 'National, regional or global'
+          options:
+            - name: 'National'
+              value: 'NAT'
+            - name: 'Regional'
+              value: 'REG'
+            - name: 'Global'
+              value: 'GLO'
       - name: "location"
         field:
           element: "multiselect"
