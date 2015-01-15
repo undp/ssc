@@ -60,7 +60,7 @@ class Start
     scale.toLowerCase()
 
   normalise_location: (location) ->
-    _.map(@split(location), (i) =>
+    @host_location = _.map(@split(location), (i) =>
       @match_country_name(i)
     )
 
@@ -75,11 +75,10 @@ class Start
     cleaned = data.split(" ").map( (i) ->
       i.replace(/\W/g, '')
     )
-    _.chain(cleaned)
+    partners = _.chain(cleaned)
     .map((i) => @match_exact_country_name(i))
-    .compact()
-    .uniq()
-    .value()
+    .compact().uniq().value()
+    _.difference(partners, @host_location)
 
   normalise_partner_type: (data) ->
     @split(data)

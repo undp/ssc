@@ -1,5 +1,5 @@
 ---
-open_project_id: 
+open_project_id: ""
 thematic_focus: 
 host_location: 
   - BOL
@@ -18,6 +18,5 @@ undp_role_type:
   - Knowledge broker
 partner_location: 
   - BRA
-  - BOL
 ---
 UNDP provides technical assistance and organizes knowledge exchange between Brazil and Bolivia on the management model of Science and Technology Parks. A Memorandum of Understanding is to be signed between Itaipu and UNDP-ART Bolivia in the near future. Among the priorities for joint action are: reinforcing South-South cooperation between Brazil and Bolivia; supporting Science and Technology Parks in Bolivia; supporting local economic development initiatives in dairy, crafts and wood sectors; promotion of alternative and sustainable energies.

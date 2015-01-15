@@ -1,5 +1,5 @@
 ---
-open_project_id: 
+open_project_id: ""
 thematic_focus: 
   - Resilience building (disaster prevention
   - early recover
@@ -17,7 +17,6 @@ territorial_focus: MIC
 undp_role_type: 
   - Knowledge broker
 partner_location: 
-  - CHN
   - MDA
 ---
 UNDP facilitates knowledge and technology transfer from China to Moldova. Additionally, UNDP will conduct community consultations, make arrangements for maintenance and sustainability, and undertake programme monitoring and evaluation.

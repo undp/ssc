@@ -1,5 +1,5 @@
 ---
-open_project_id: 
+open_project_id: ""
 thematic_focus: 
   - Sustainable development pathways (poverty eradication and sustainable development)
 host_location: 

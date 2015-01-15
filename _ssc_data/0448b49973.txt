@@ -1,5 +1,5 @@
 ---
-open_project_id: 00066680
+open_project_id: "00066680"
 thematic_focus: 
   - Inclusive and effective democratic governance
 host_location: 
