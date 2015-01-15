@@ -81,7 +81,7 @@ class Start
     _.difference(partners, @host_location)
 
   normalise_partner_type: (data) ->
-    @split(data)
+    @split(data).toUnderscore()
 
   split: (data) ->
     return unless data
