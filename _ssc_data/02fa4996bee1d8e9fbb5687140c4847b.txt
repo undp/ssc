@@ -12,8 +12,7 @@ region:
 partners: 
   - INT
   - PVT
-objective: null
-title: Participatory Citizenry in Bolivia
+project_title: Participatory Citizenry in Bolivia
 scale: NAT
 project_objective: null
 project_title: Participatory Citizenry in Bolivia
