@@ -1,17 +1,17 @@
 ---
 published: false
 thematic_focus: 
-  - "DEM,"
+  - "DEM"
 type: 
-  - "CAP,"
-  - "KNO,"
+  - "CAP"
+  - "KNO"
 location: 
-  - "BOL,"
+  - "BOL"
 region: 
-  - "LAC,"
+  - "LAC"
 partners: 
-  - "INT,"
-  - "PVT,"
+  - "INT"
+  - "PVT"
 objective: null
 title: Participatory Citizenry in Bolivia
 ---
