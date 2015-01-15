@@ -1,5 +1,5 @@
 # Site settings
-baseurl: 
+baseurl: "/jekyll-data"
 title: SSC Data
 email: js@ppls.io
 description: > # South-South Cooperation data
