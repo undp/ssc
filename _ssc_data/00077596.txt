@@ -1,0 +1,10 @@
+---
+type: CAP
+location: 
+  - ARE,
+thematic_focus: 
+  - RES
+region: ARB
+
+---
+The description is everuthing I'd hoped it would be.

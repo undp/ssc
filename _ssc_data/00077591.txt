@@ -1,0 +1,10 @@
+---
+type: 
+  - "CAP,"
+  - "RES,"
+location: 
+  - "DZA,"
+  - "PNG,"
+---
+
+Some interesting project stuff. Oh yes.
