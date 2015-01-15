@@ -28,6 +28,20 @@ prose:
         field:
           element: 'textarea'
           label: 'Project objective'
+      - name: 'undp_role_type'
+        field:
+          element: 'multiselect'
+          label: 'UNDP engagement type'
+          placeholder: 'Choose action'
+          options:
+            - name: 'Not set'
+              value: null
+            - name: 'Capacity Building'
+              value: 'CAP'
+            - name: 'Knowledge broker'
+              value: 'KNO'
+            - name: 'Partnership facilitator'
+              value: 'PAR'
       - name: 'thematic_focus'
         field:
           element: 'multiselect'
@@ -46,28 +60,16 @@ prose:
           label: 'Territorial focus'
           placeholder: 'Select area(s) of focus'
           options:
-            - name: 'Small Island Developing States (SIDS)'
-              value: 'SIDS'
-            - name: 'Middle Income Countries (MIC)'
-              value: 'MIC'
-            - name: 'Fragile States'
-              value: 'FS'
             - name: 'Less Developed Countries (LDC)'
               value: 'LDC'
-      - name: 'type'
-        field:
-          element: 'multiselect'
-          label: 'UNDP engagement type'
-          placeholder: 'Choose action'
-          options:
-            - name: 'Not set'
-              value: null
-            - name: 'Capacity Building'
-              value: 'CAP'
-            - name: 'Knowledge broker'
-              value: 'KNO'
-            - name: 'Partnership facilitator'
-              value: 'PAR'
+            - name: 'Middle Income Countries (MIC)'
+              value: 'MIC'
+            - name: 'High Income Countries (HIC)'
+              value: 'HIC'
+            - name: 'Small Island Developing States (SIDS)'
+              value: 'SIDS'
+            - name: 'Fragile States'
+              value: 'FS'
       - name: 'scale'
         field:
           element: 'select'
@@ -99,7 +101,7 @@ prose:
       - name: 'host_location'
         field:
           element: 'multiselect'
-          label: 'Location (country, etc)'
+          label: 'Project location (country, etc)'
           placeholder: 'Select location(s)'
           options:
             - name: 'Angola'
@@ -504,7 +506,7 @@ prose:
       - name: 'partner_location'
         field:
           element: 'multiselect'
-          label: 'Location (country, etc)'
+          label: 'Partner location (country, etc)'
           placeholder: 'Select location(s)'
           options:
             - name: 'Angola'
