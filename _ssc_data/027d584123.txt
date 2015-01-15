@@ -1,0 +1,26 @@
+---
+open_project_id: 00051446
+thematic_focus: 
+  - Resilience building (disaster prevention
+  - early recover
+  - climate change)
+host_location: 
+  - 
+region: 
+  - Asia & Pacific
+partner_type: 
+  - Regional/Inter-governmental organizations
+  - International cooperation/development agencies
+  - National governments
+  - CSOs
+project_title: "Implementing Sustainable Water Resources and Wastewater
+Management in Pacific Island Countries"
+scale: regional
+project_objective: " to improve water resources management and water use efficiency in Pacific Island Countries in order to balance overuse and conflicting uses of scarce freshwater resources through policy and legislative reform and implementation of applicable and effective Integrated Water Resources Management (IWRM) and Water Use Efficiency (WUE) plans'. The participating countries are Governments of The Cook Islands, Federated States of Micronesia, Fiji, Kiribati, Marshall Islands, Nauru, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu"
+territorial_focus: SIDS
+undp_role_type: 
+  - Knowledge broker
+partner_location: 
+---
+UNDP's role in this programme is to assist the participating Pacific countries in the development and dissemination of best practice for building national and local capacity for IWRM; Facilitating transfer of IWRM regional practice from one PIC to another; Identification and documentation of existing small island IWRM practice at different scales;
+and Facilitation of regional coordination on IWRM issues (Knowledge, partnership and capacity)

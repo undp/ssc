@@ -1,0 +1,23 @@
+---
+open_project_id: 
+thematic_focus: 
+  - Resilience building (disaster prevention
+  - early recover
+  - climate change)
+host_location: 
+  - CN
+region: 
+  - Asia & Pacific
+partner_type: 
+  - National governments
+project_title: "Transfer of Renewable Energy Technologies from China and Africa: Moldova Renewable Energy. The objective of the project is to supply Moldova’s social public facilities with hot water by installing solar panels and the systems needed to manage these technologies. Solar panels will be installed in buildings previously fitted with biomass boilers, thereby offering a complete renewable-energy solution"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - Knowledge broker
+partner_location: 
+  - CN
+  - MD
+---
+UNDP facilitates knowledge and technology transfer from China to Moldova. Additionally, UNDP will conduct community consultations, make arrangements for maintenance and sustainability, and undertake programme monitoring and evaluation.

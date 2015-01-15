@@ -43,19 +43,19 @@ function renderTable() {
     data: projects.toJSON(),
     responsive: true,
     columns: [{
-      data: 'role_of_undp',
+      data: 'undp_role_type',
       title: 'Role'
     }, {
       data: 'region',
       title: 'Region'
     }, {
-      data: 'openProjectId',
-      title: 'Project ID'
+      data: 'open_project_id',
+      title: 'Open Project ID'
     }, {
-      data: 'location',
+      data: 'host_location',
       title: 'Location'
     }, {
-      data: 'partner_types',
+      data: 'partner_type',
       title: 'Partners'
     }, ]
   });
