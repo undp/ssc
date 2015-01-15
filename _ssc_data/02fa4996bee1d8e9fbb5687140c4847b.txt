@@ -12,6 +12,10 @@ region:
 partners: 
   - "INT,"
   - "PVT,"
+objective: null
+title: Participatory Citizenry in Bolivia
 ---
 
 UNDP provided technical assistance and capacity building to local organizations of La Paz for the promotion and business development at territorial level. In doing so, experience of Argentina, Peru and Uruguay were transferred, including the best practices in public policies, territorialization mechanisms, innovation and micro finance. As a result, general conditions were established for the public and private articulation for the development of business sector in accordance with the new public and political context.
+  
+UNDP provides technical assistance and organizes knowledge exchange between Brazil and Bolivia on the management model of Science and Technology Parks. A Memorandum of Understanding is to be signed between Itaipu and UNDP-ART Bolivia in the near future. Among the priorities for joint action are: reinforcing South-South cooperation between Brazil and Bolivia; supporting Science and Technology Parks in Bolivia; supporting local economic development initiatives in dairy, crafts and wood sectors; promotion of alternative and sustainable energies.
