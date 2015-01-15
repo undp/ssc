@@ -12,6 +12,8 @@ region:
 partners: 
   - "INT,"
   - "PVT,"
+objective: null
+title: Participatory Citizenry in Bolivia
 ---
 
 UNDP provided technical assistance and capacity building to local organizations of La Paz for the promotion and business development at territorial level. In doing so, experience of Argentina, Peru and Uruguay were transferred, including the best practices in public policies, territorialization mechanisms, innovation and micro finance. As a result, general conditions were established for the public and private articulation for the development of business sector in accordance with the new public and political context.
