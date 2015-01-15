@@ -1,3 +1,8 @@
+---
+---
+var util = {}; // util is on the Window level, since it needs to be accessed by the templates
+{% include util.js %}
+
 Countries = Backbone.Collection.extend({
   initialize: function(p) {
     var that = this;

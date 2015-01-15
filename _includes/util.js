@@ -1,4 +1,3 @@
-util = {};
 // https://gist.github.com/mbostock/1696080
 util.request = function(url, callback) {
   var req = new XMLHttpRequest;
