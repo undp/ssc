@@ -3,7 +3,7 @@ open_project_id:
 thematic_focus: 
   - Inclusive and effective democratic governance
 host_location: 
-  - DO
+  - DOM
 region: 
   - Latin America & Caribbean
 partner_type: 
@@ -15,6 +15,6 @@ territorial_focus: SIDS
 undp_role_type: 
   - Knowledge broker
 partner_location: 
-  - PY
+  - PRY
 ---
 UNDP provided exchange facilitation and knowledge brokering between Dominican Republic and Paraguay on development and implementation of a payment system for social subsidies.

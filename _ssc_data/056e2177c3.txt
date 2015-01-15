@@ -5,7 +5,7 @@ thematic_focus:
   - early recover
   - climate change)
 host_location: 
-  - CN
+  - CHN
 region: 
   - Asia & Pacific
 partner_type: 
@@ -17,7 +17,7 @@ territorial_focus: MIC
 undp_role_type: 
   - Knowledge broker
 partner_location: 
-  - CN
-  - MD
+  - CHN
+  - MDA
 ---
 UNDP facilitates knowledge and technology transfer from China to Moldova. Additionally, UNDP will conduct community consultations, make arrangements for maintenance and sustainability, and undertake programme monitoring and evaluation.

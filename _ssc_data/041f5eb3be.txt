@@ -5,12 +5,12 @@ thematic_focus:
   - early recover
   - climate change)
 host_location: 
-  - AR
-  - IN
-  - LV
-  - LB
-  - PH
-  - SN
+  - ARG
+  - IND
+  - LVA
+  - LBN
+  - PHL
+  - SEN
   - 
 region: 
   - Latin America & Caribbean

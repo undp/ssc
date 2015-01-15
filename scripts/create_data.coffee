@@ -94,13 +94,13 @@ class Start
     matches = _.select(@countries, (i) ->
       i.name.match re
     )
-    matches[0].iso2 if matches.length > 0
+    matches[0].iso3 if matches.length > 0
 
   match_exact_country_name: (term) ->
     matches = _.select(@countries, (i) ->
       re = new RegExp("^#{i.name}$","i")
       term.match re
     )
-    matches[0].iso2 if matches.length > 0
+    matches[0].iso3 if matches.length > 0
 
 s = new Start

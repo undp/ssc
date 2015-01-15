@@ -3,7 +3,7 @@ open_project_id: 00066680
 thematic_focus: 
   - Inclusive and effective democratic governance
 host_location: 
-  - LY
+  - LBY
 region: 
   - Arab States
 partner_type: 

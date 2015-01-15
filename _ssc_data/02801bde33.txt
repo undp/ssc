@@ -3,9 +3,9 @@ open_project_id:
 thematic_focus: 
   - Sustainable development pathways (poverty eradication and sustainable development)
 host_location: 
-  - IN
-  - BR
-  - ZA
+  - IND
+  - BRA
+  - ZAF
 region: 
   - 
 partner_type: 
