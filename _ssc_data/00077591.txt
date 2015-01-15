@@ -1,8 +1,10 @@
 ---
 type: 
-  - CAP, 
-  - RES,
+  - "CAP,"
+  - "RES,"
 location: 
-  - DZA,
+  - "DZA,"
+published: true
 ---
-Some interesting project stuff.
+
+Some interesting project stuff. Oh yes.

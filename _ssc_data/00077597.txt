@@ -3,10 +3,12 @@ region: ARB
 partners: 
   - NAT
 location: 
-  - DZA,
+  - "DZA,"
+  - "NAM,"
 type: KNO
 thematic_focus: 
   - RES
+published: true
 ---
 
 What goes in here?
