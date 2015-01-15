@@ -1,7 +1,7 @@
 ---
 open_project_id: "00075726"
 thematic_focus: 
-  - Inclusive and effective democratic governance
+  - sustainable_development
 host_location: 
   - URY
 region: 
