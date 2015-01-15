@@ -5,7 +5,7 @@ thematic_focus:
 type: 
   - CAP
   - KNO
-location: 
+host_location: 
   - BOL
 region: 
   - LAC
