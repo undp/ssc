@@ -3,15 +3,18 @@ layout: null
 ---
 [{% for project in site.collections.ssc_data.docs %}
     {
+        "project_id": "{{ project.relative_path | remove: "_ssc_data/" | remove: ".txt" }}",
         "open_project_id": "{{ project.open_project_id }}",
         "project_title": "{{ project.project_title }}",
         "project_objective": "{{ project.project_objective }}",
-        "thematic_focus": "{{ project.thematic_focus | join: ',' }}",
         "territorial_focus": "{{ project.territorial_focus | join: ',' }}",
-        "type": "{{ project.type | join: ',' }}",
-        "location": "{{ project.location | join: ',' }}",
-        "partners": "{{ project.partners | join: ',' }}",
+        "thematic_focus": "{{ project.thematic_focus | join: ',' }}",
+        "undp_role_type": "{{ project.undp_role_type | join: ',' }}",
         "region": "{{ project.region  | join: ',' }}",
+        "scale": "{{ project.scale }}",
+        "host_location": "{{ project.host_location | join: ',' }}",
+        "partners": "{{ project.partners | join: ',' }}",
+        "partner_location": "{{ project.partner_location | join: ',' }}",
         "description": "{{ project.content | strip_newlines }}",
         "prose_edit_link": "http://prose.io/#onlyjsmith/jekyll-data/edit/gh-pages/{{ project.relative_path }}"
     }{% unless forloop.last %}, {% endunless %}
