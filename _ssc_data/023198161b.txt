@@ -7,13 +7,13 @@ host_location:
 region: 
   - Latin America & Caribbean
 partner_type: 
-  - National governments
+  - national_governments
 project_title: "Support to the institutional strengthening of the Social Subsidies Administration Unit"
 scale: national
 project_objective: ""
 territorial_focus: SIDS
 undp_role_type: 
-  - Knowledge broker
+  - knowledge_broker
 partner_location: 
   - PRY
 ---

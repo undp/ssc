@@ -7,16 +7,16 @@ host_location:
 region: 
   - Latin America & Caribbean
 partner_type: 
-  - National governments
-  - Sub-national governments
-  - CSOs
+  - national_governments
+  - sub_national_governments
+  - csos
 project_title: "Participatory Citizenry in Bolivia"
 scale: national
 project_objective: ""
 territorial_focus: MIC
 undp_role_type: 
-  - Capacity builder
-  - Knowledge broker
+  - capacity_builder
+  - knowledge_broker
 partner_location: 
   - ARG
   - PER

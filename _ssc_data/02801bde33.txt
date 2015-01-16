@@ -9,14 +9,14 @@ host_location:
 region: 
   - 
 partner_type: 
-  - National governments
-  - Sub-national governments
+  - national_governments
+  - sub_national_governments
 project_title: "The India, Brazil and South Africa Facility for Poverty and Hunger Alleviation (Trust Fund) enhances South-South cooperation for the benefit of the neediest nations of the South. This fund facilitates the execution of human development projects to advance the fight against poverty and hunger in developing countries"
 scale: global
 project_objective: "  to alleviate poverty and hunger in nations of the South; To develop best practices in the fight against poverty and hunger by facilitating the execution of replicable and scalable projects in interested countries of the global south; To pioneer and lead by example the South-South cooperation agenda; To build new partnerships for development. "
 territorial_focus: MIC
 undp_role_type: 
-  - Knowledge broker
+  - knowledge_broker
 partner_location: 
 ---
 UNDP’s Special Unit for South-South Cooperation acts as the fund manager and board of directors’ secretariat

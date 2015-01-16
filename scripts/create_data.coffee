@@ -1,5 +1,6 @@
 fs = require 'fs'
 _ = require 'underscore'
+_.str = require 'underscore.string'
 
 class Start
   constructor: ->
@@ -65,7 +66,9 @@ class Start
     )
 
   normalise_undp_role_type: (data) ->
-    @split(data)
+    _.map(@split(data), (i) ->
+      _.str.underscored(i)
+    )
 
   normalise_thematic_focus: (data) ->
     @split(data)
@@ -81,7 +84,9 @@ class Start
     _.difference(partners, @host_location)
 
   normalise_partner_type: (data) ->
-    @split(data).toUnderscore()
+    _.map(@split(data), (i) ->
+      _.str.underscored(i)
+    )
 
   split: (data) ->
     return unless data

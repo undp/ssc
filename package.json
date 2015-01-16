@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/onlyjsmith/jekyll-data",
   "dependencies": {
-    "underscore": "^1.7.0"
+    "underscore": "^1.7.0",
+    "underscore.string": "^2.4.0"
   }
 }

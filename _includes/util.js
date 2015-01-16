@@ -12,11 +12,3 @@ util.request = function(url, callback) {
   req.send(null);
 }
 
-
-String.prototype.trim = function() {  
-   return this.replace(/^\s+|\s+$/g,"");  
-}
-
-String.prototype.toUnderscore = function(){
-  return this.replace(/([A-Z])/g, function($1){return "_"+$1.toLowerCase();});
-};
