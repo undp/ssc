@@ -18,18 +18,7 @@ Countries = Backbone.Collection.extend({
 })
 
 Projects = Backbone.Collection.extend({
-  url: '{{ site.baseurl }}/api/projects.json'
-  // parseLocations: function() {
-  //   this.each(function(i) {
-  //     i.set('locations', i.get('location').split(/,\s?/));
-  //   });
-  // },
-  // facetBy: function(facetName, value) {
-  //   Facetr(this).facet(facetName).value(value);
-  // },
-  // clearFacets: function() {
-  //   Facetr(this).clearValues();
-  // }
+  url: '{{ site.baseurl }}/data.json'
 });
 
 
