@@ -17,9 +17,9 @@ class Start
 
   processAll: (projects) ->
     _.map projects, (project) =>
-      @process(project)
+      @processEach(project)
 
-  process: (project) ->
+  processEach: (project) ->
     {
       # IDs
       "project_id"        : project.project_id,

@@ -1,11 +1,16 @@
 ---
 ---
 baseurl = "{{ site.baseurl }}"
+app = {}
 
-# Models
+# Models and Collections
+{% include models/project.coffee %}
 {% include collections/countries.coffee %}
 {% include collections/projects.coffee %}
-{% include models/project.coffee %}
+
+# Views
+app.views = {}
+{% include views/app.coffee %}
 
 # Controllers
 {% include routers/router.coffee %}
