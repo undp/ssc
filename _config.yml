@@ -105,6 +105,7 @@ prose:
           element: 'multiselect'
           label: 'Project location (country, etc)'
           placeholder: 'Select location(s)'
+          alterable: true
           options:
             - name: 'Angola'
               value: 'AGO'

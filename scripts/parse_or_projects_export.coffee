@@ -1,28 +1,22 @@
 fs = require 'fs'
 _ = require 'underscore'
 _.str = require 'underscore.string'
+async = require 'async'
 
 Filter = require './filter'
 
 class Start
   constructor: ->
-    fs.readFile('api/countries.json', encoding: 'utf8', (err, data) =>
-      if err then throw err
-      @countries = JSON.parse(data)
-    
-      fs.readFile('api/or_projects_export.json', encoding: 'utf8', (err, data) =>
-        if err then throw err
-        projects = JSON.parse(data)
-        # projects = projects.slice(0, 5) # TESTING QUICKLY
-        processed = @processAll(projects)
-        @writeAll(processed)
-        console.log('done')
-      )
-    )
+    @countries = JSON.parse(fs.readFileSync('api/countries.json', encoding: 'utf8'))
+    @projects  = JSON.parse(fs.readFileSync('api/or_projects_export.json', encoding: 'utf8'))
+    @template  = fs.readFileSync('scripts/project_file_template._', encoding: 'utf8')
+
+    processed = @processAll(@projects)
+    @writeAll(processed)
+    console.log("Processed #{@projects.length} projects - some of them even successfully")
 
   processAll: (projects) ->
     _.map projects, (project) =>
-      console.log project.project_id
       @process(project)
 
   process: (project) ->
@@ -48,14 +42,12 @@ class Start
     }
 
   writeAll: (data) ->
-    # fs.writeFileSync('api/projects.json', JSON.stringify(@processed))
     _.each(data, (project) =>
       @writeEach(project)
     )
 
   writeEach: (project) ->
-    template = fs.readFileSync('scripts/project_file_template._', encoding: 'utf8')
-    compiled = _.template(template)
+    compiled = _.template(@template)
     content = compiled(project)
     fs.writeFileSync "_ssc_data/#{project.project_id}.txt", content
 

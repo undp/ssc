@@ -10,12 +10,12 @@ class Filter
   filter: ->
     _.map(@splitComma(@text), (term) =>
       matched = _.filter(this[@type], (el) ->
-        el.name.match(term)
+        term.match(el.name)
       )
       if matched[0]
         matched[0].short
       else
-        console.log("Can't match: '#{term} for '#{@type} type")
+        console.error("Can't match: '#{term}' for type '#{@type}'")
     )
 
   types: ['region', 'thematic_focus', 'partner_type']
@@ -23,6 +23,7 @@ class Filter
   partner_type: [
       {name:'International cooperation / development agencies', short: 'international_cooperation_development_agencies'}, 
       {name:'International cooperation/development agencies', short: 'international_cooperation_development_agencies'}, 
+      {name:'Development/International cooperation agencies', short: 'international_cooperation_development_agencies'}, 
       {name:'Regional / inter-governmental organizations', short: 'regional_inter_governmental_organizations'}, 
       {name:'Regional/Inter-governmental organizations', short: 'regional_inter_governmental_organizations'}, 
       {name:'National governments', short: 'national_governments'}, 
@@ -44,6 +45,8 @@ class Filter
 
   thematic_focus: [
     {name:'Sustainable development', short: 'sustainable_development'},
+    # {name:'Sustainable development pathways (poverty eradication and sustainable development)', short: 'sustainable_development'},
+    # {name:'Sustainable development pathways (education and culture)', short: 'sustainable_development'},
     {name:'Resilience building', short: 'resilience_building'},
     {name:'Inclusive and effective democratic governance', short: 'inclusive_and_effective_democratic_governance'},
   ]
