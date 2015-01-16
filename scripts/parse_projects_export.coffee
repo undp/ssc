@@ -61,7 +61,7 @@ class Start
 
   normalise_location: (location) ->
     @host_location = _.map(@splitComma(location), (i) =>
-      @match_country_name(i)
+      @match_similar_country_name(i)
     )
 
   normalise_undp_role_type: (data) ->
@@ -79,16 +79,7 @@ class Start
     .compact().uniq().value()
     _.difference(partners, @host_location)
 
-  splitComma: (data) ->
-    return unless data
-    data.split(',').map (i) ->
-      i.replace(/^\s+|\s+$/g,"")
-
-  justWords: (term) ->
-    return unless term
-    term.replace (/\(|\)/g), ""
-
-  match_country_name: (term) ->
+  match_similar_country_name: (term) ->
     re = new RegExp("^" + term,"i")
     matches = _.select(@countries, (i) ->
       i.name.match re
@@ -101,5 +92,15 @@ class Start
       term.match re
     )
     matches[0].iso3 if matches.length > 0
+
+  splitComma: (data) ->
+    return unless data
+    data.split(',').map (i) ->
+      i.replace(/^\s+|\s+$/g,"")
+
+  justWords: (term) ->
+    return unless term
+    term.replace (/\(|\)/g), ""
+
 
 s = new Start
