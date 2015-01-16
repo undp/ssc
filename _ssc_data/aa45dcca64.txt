@@ -8,7 +8,7 @@ region:
   - lac
 partner_type: 
   - regional_inter_governmental_organizations
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Support to the legislative development process and implementation of the consultation rights and the participation of indigenous population in Bolivia"
 scale: national

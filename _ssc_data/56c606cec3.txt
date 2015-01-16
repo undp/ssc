@@ -8,7 +8,7 @@ region:
   - lac
 partner_type: 
   - regional_inter_governmental_organizations
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - cso
 project_title: "Regional Risk Reduction: overseas countries and territories (OCTs) regional risk reduction initiative (R3I)"

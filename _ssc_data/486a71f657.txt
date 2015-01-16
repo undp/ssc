@@ -1,7 +1,7 @@
 ---
 open_project_id: "00062337"
 thematic_focus: 
-  - 
+  - sustainable_development
 host_location: 
   - SAU
 region: 

@@ -1,7 +1,7 @@
 ---
 open_project_id: "00066380"
 thematic_focus: 
-  - 
+  - sustainable_development
 host_location: 
   - BRA
 region: 

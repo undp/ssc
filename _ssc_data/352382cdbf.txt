@@ -1,7 +1,7 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - 
+  - sustainable_development
 host_location: 
   - KHM
 region: 

@@ -1,7 +1,7 @@
 ---
 open_project_id: "00051472"
 thematic_focus: 
-  - 
+  - sustainable_development
 host_location: 
   - BRB
 region: 
@@ -9,7 +9,7 @@ region:
 partner_type: 
   - regional_inter_governmental_organizations
   - national_governments
-  - 
+  - international_cooperation_development_agencies
   - cso
   - private_sector
 project_title: "Youth Innovation (Youth-In): A Caribbean Network for Youth Development"
