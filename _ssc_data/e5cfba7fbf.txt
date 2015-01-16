@@ -1,0 +1,26 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - PAK
+region: 
+  - Asia & Pacific
+partner_type: 
+  - 
+  - national_governments
+project_title: "Strengthening Participatory Federalism and Decentralization"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+  - BRA
+  - ETH
+  - IND
+  - MEX
+  - NGA
+---
+UNDP will support capacity building through the Forum of Federations (FoF) to enable Pakistan to learn from lessons of other member countries of the Federation (e.g. Brazil, Ethiopia, India, Mexico, Nigeria). The FoF is an inter-governmental organization that assists in democracy promotion in fragile states or regions in post-conflict situation through the following activities: (1) building international networks and fostering the exchange of experience; (2) enhancing mutual leaning among practitioners; (3) disseminating knowledge and technical advice. The Forum provides technical expertise on issues of local governance and inter-governmental relations. (knowledge)

@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - PER
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - national_governments
+  - sub_national_governments
+project_title: "Rain Recovery Process for Arequipa Region"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - partnership_facilitator
+  - knowledge_broker
+partner_location: 
+  - BOL
+---
+UNDP facilitates partnership and exchanges between Bolivia and Peru (Arequipa Government) on elaboration of a rain early recovery framework at the provincial and regional level. It also provides technical assistance to the project.

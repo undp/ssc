@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - PNG
+region: 
+  - Asia & Pacific
+partner_type: 
+  - 
+  - national_governments
+project_title: "Anti-Corruption for Development Effectiveness Project"
+scale: national
+project_objective: ""
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - WSM
+---
+UNDP facilitated PNG Government's access to knowledge and network. In 2010, the Government of PNG attended Pacific Regional Consultations on UN Convention Against Corruption (UNCAC) Ratification and Implementation in Apia, Samoa and in Asia-Pacific Anti-Corruption Global Best Practice meetings, which led to PNG’s participation in the UNCAC Review Mechanism

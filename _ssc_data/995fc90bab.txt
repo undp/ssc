@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - SLB
+region: 
+  - Asia & Pacific
+partner_type: 
+  - national_governments
+project_title: "Enhancing resilience of communities in Solomon Islands to the adverse effects of climate change in agriculture and food security"
+scale: national
+project_objective: " The mainstreaming of environmental sustainability and sustainable energy into regional and national policies, panning frameworks and programs; and Pacific communities sustainably using their environment, natural resources and cultural heritage."
+territorial_focus: Fragile State
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+Role of UNDP to be further specified; SSC exchange has not yet happened. It is stated in Outcome 3 that "by the end of the project, there will be an exchange of experience at regional level". Partners are still to be identified. From Solomon's side, the implementing agency is the Ministry of Environment Climate Change, Disaster Management and Meteorology (MECDM).

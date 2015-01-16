@@ -1,0 +1,20 @@
+---
+open_project_id: "00057752"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - SYC
+region: 
+  - Africa
+partner_type: 
+  - 
+  - national_governments
+project_title: "Enhancing the rule of law in Seychelles through the strenghtening of monitoring and oversight capacity of the judiciary"
+scale: national
+project_objective: " to increase the democratic governance and the rule of law in Seychelles by strengthening the capacity of the judicial system. Particularly, it will aim to increase efficiency, transparency and integrity and thus enhance accountability within the justice administration by supporting the development and promotion of efficient and fair trials in compliance with the international norms and standards of criminal justice. The project will improve the overall justice administration system through capacity building for judges, prosecutors and court staff and the establishment of monitoring and evaluation mechanisms."
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+In the Results and Resources Framework, one of the key activities states that UNDP will organize and facilitate a study tour to a neighbouring country to gain insights on the functioning of such country’s system of judicial monitoring and evaluation. (Facilitator)

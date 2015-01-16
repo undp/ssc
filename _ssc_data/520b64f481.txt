@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - TZA
+region: 
+  - Africa
+partner_type: 
+  - national_governments
+  - cso
+project_title: "Sustainable Land Management in Highlands of Kilimanjaro"
+scale: national
+project_objective: " to remove the barriers, through a multi-level approach. At the local level, it will strengthen capacity and incentives for SLM through participatory planning processes involving the local institutions and knowledge systems. This will be complemented by a national level dialogue on SLM which will facilitate national level stakeholders to identify ways to adopt a systematic approach to SLM. The project goal is "Sustainable Land Management provides the basis for economic development, food security and sustainable livelihoods while restoring the ecological integrity of the Kilimanjaro region's ecosystems". The objective will be "to provide land users and managers with the enabling environment (policy, financial, institutional, capacity) for SLM adoption. The outcomes are: 1) The policy, regulatory and institutional framework that support sustainable land management; 2) Markets support expansion of livelihood options in Kilimanjaro to reduce pressure on agriculture and natural resources and increase income: 3) Institutions with capacities and skills to undertake knowledge based sustainable land use planning and adopt methods and technologies for climate change resilient NR supported development: 4) Project managed effectively, lessons used to upscale SLM in the region and the country"
+territorial_focus: LDC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - UGA
+---
+The management and technical team of Sustainable Land Management (SML) Kilimanjaro project conducted a study tour to Uganda in order to learn and share experiences on sound implementation of SLM projects. The team shared relevant lessons and experiences on the successful implementation of the project in Uganda. This initiative for South-South cooperation was necessitated by the current challenges facing the SLM project in Kilimanjaro, in which practices are not being well articulated in national policies, difficulties in enforcement and compliance, and conflicts with existing laws and policies. UNDP facilitated the learning exchange between the two countries.

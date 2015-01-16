@@ -1,0 +1,19 @@
+---
+open_project_id: "00050725"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - ARG
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - national_governments
+project_title: "Technical Assistance Program for SSC Integration (Asistencia Técnica Para La Integración Sur-Sur)"
+scale: national
+project_objective: " to develop technical assistance, activities for South-South integration with particular focus on the MERCOSUR. 3 products: (1). Studies on the new scenarios and other consequences arising from the results of multilateral negotiations, in particular its impact on regional and bilateral negotiations and the processes of trade liberalization and South-South cooperation Integration; (2). Studies to identify the productive specialization of Argentina in MERCOSUR to consolidate the integration process of MERCOSUR and the eradication of asymmetries among State Parties."
+territorial_focus: MIC
+undp_role_type: 
+  - partnership_facilitator
+partner_location: 
+---
+UNDP provides technical assistance and facilitates establishment of partnership among the National Government, the Provincial and Municipal Administrations, entities from the Private Sector, Development agencies, and other national or regional institutions that support the production and transfer of technology. UNDP's goal is to ensure the implementation of the measures adopted by the Government are not superficially implemented, and that substantial changes are envisaged. The outputs of this project are are: 1. Technical assistance to South-South integration i.e.sucess indicators,instrunments supporting integration, working papers, studies, impact assessments,2. Identification of the productive specialization of Argentina in MERCOSUR and studies to support the integration process of MERCOSUR and 3. Analysis of the evolution of commodity markets, food, minerals and fuels. 4. Information on policy and trade negotiations with civil society.

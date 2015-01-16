@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - BOL
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - national_governments
+project_title: "Strengthening capacities of the Ministry of Government in the coordination, following and capacity building for the implementation of citizen security policies"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+---

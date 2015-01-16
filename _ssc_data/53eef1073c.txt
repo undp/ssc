@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - 
+region: 
+  - Arab States, Africa
+partner_type: 
+  - 
+  - national_governments
+  - private_sector
+project_title: "Arab Business Forum for Sustainable Development and Green Economy in the Arab region"
+scale: regional
+project_objective: " to mobilize the role of private sector innovation and finance to support resilience to climate change, nexus of energy-water solutions, and develop new low-carbon sustainable energy solutions that benefit the poor in particular."
+territorial_focus: 
+undp_role_type: 
+  - partnership_facilitator
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+---
+UNDP facilitates partnerships and provides technical assistance through its Arab Climate Resilience Initiative (ACRI). This will include: 1) cooperation on needs assessments and feasibility studies, and exploring private sector finance for joint projects that test innovative technology and finance models, promote early market development, scaled-up private investments and public-private partnerships. 2) a series of High-Level Dialogue among CEOs and business representatives to debate the state of investments for clean technology in the region and means of scaling up (focus on capturing and learning from success stories; gearing innovation and investments in climate resilience, clean energy and water for the benefit of the poor; facilitating south-south cooperation on clean technology investments etc); 3) UNDP-CEBC will produce the analysis of trends and opportunities in clean technology innovation and finance and a regional report assessing the state of private sector innovation and investments in the green economy in the Arab region. 4) Specific regional and country level projects will be identified for joint capacity development and investment activities.

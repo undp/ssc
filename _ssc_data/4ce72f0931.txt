@@ -1,0 +1,19 @@
+---
+open_project_id: "00047179"
+thematic_focus: 
+host_location: 
+  - MDV
+region: 
+  - Asia & Pacific
+partner_type: 
+  - national_governments
+project_title: "UN Coordination Programme in the Maldives"
+scale: national
+project_objective: " to enhance the strategic positioning of the UN system in supporting the country achieve its national development objectives and meets is international development and human rights objectives. It also aims to promote greater coherence, relevance, effectiveness and efficiency in the UN system's development assistance. This project includes support to national development planning, monitoring achievement of the Millennium Development Goal, aid effectiveness, UN Common Programming, gender and human rights mainstreaming, and implementation of harmonized business processes and common services."
+territorial_focus: SIDS
+undp_role_type: 
+  - partnership_facilitator
+  - knowledge_broker
+partner_location: 
+---
+in the project's endeavour to build strategic partnerships with key donors and ensure better utilization of overseas development assistance to better support achievement of MDG's in the country. UNDP could play a key role in bringing together key donors and acting as a facilitator between relevant stakeholders.

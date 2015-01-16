@@ -1,0 +1,25 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - TGO
+region: 
+  - Africa
+partner_type: 
+  - 
+  - 
+  - national_governments
+project_title: "Strengthening the role of conservation of the national system of protected areas in Togo (Renforcement du rôle de conservation du système national d'aires protégées au Togo)"
+scale: national
+project_objective: " to strengthen the management of the system of protected areas Togo to improve the contribution to the conservation of biodiversity through effective approaches to rehabilitation and management of protected areas."
+territorial_focus: Fragile State
+undp_role_type: 
+  - partnership_facilitator
+partner_location: 
+  - BEN
+  - NER
+---
+The Project is funded by West African Economic and Monetary Union. UNDP will help Togo develop prerequisites to be able to join in the coming years the initiative for the conservation of biodiversity led by Burkina Faso, Benin and Niger in partnership EU, WAEMU and UNDP. (facilitator of partnerships)

@@ -1,0 +1,19 @@
+---
+open_project_id: "00037420"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - MUS
+region: 
+  - Africa
+partner_type: 
+  - national_governments
+project_title: "The African Peer Review Mechanism"
+scale: national
+project_objective: " to develop a self-assessment of governance with the assistance of the National Economic and Social Council (NESC) and to formulate the country's Programme of Action (PoA) building on existing policies, programmes and projects while ensuring the participation of all stakeholders in the process. The project will seek to improve the country's governance and socio-economic development, to provide positive reinforcement for the sound aspects and to address identified weaknesses and shortcomings in the various areas of governance and development. Peer learning, through sharing of experiences and reinforcement of successful and best practice is also considered as a major component of the APRM for which the support of the participating countries and development partners will be solicited."
+territorial_focus: SIDS
+undp_role_type: 
+  - capacity_builder
+partner_location: 
+---
+Although detailed documentation is not yet available, it would seem plausible for UNDP to play a key role in the peer learning aspect of the mentioned project

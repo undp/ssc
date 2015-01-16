@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - ROU
+region: 
+  - ECIS
+partner_type: 
+  - national_governments
+project_title: "The New ODA Cooperation Partnership with Romania (2013-2015)"
+scale: national
+project_objective: " to support the Ministry of Foreign Affairs to assume a defined role through improved institutional awareness on ODA issues. The project will help 1) strengthen long-term vision and policy coherence of Romania's international development cooperation; 2) consolidate national instruments for ODA management, delivery, monitoring and reporting; and 3) develop a flexible demand-driven system of SSC to share Romania's transition experience. The project will result in better positioning of Romania as an international donor as well as to the strengthened development cooperation partnership with UNDP."
+territorial_focus: MIC
+undp_role_type: 
+  - capacity_builder
+partner_location: 
+---
+UNDP in this programme will support Romania (MFA) to become fully capable and equipped by 2015 with the appropriate capacity to manage all parts of ODA project management cycle by itself, including planning and design, monitoring, evaluation and communication. (capacity developer)

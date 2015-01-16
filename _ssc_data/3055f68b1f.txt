@@ -1,0 +1,19 @@
+---
+open_project_id: "00060083"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - EGY
+region: 
+  - Arab States
+partner_type: 
+  - national_governments
+project_title: "Enhance Efficiency & Accountability of the Public Sector project is a multi-level intervention where e-Governance solutions are applied in order to increase efficiency and accountability of Public Sector's processes, improve the delivery of services to the citizen, and enhance coordination among different government entities"
+scale: national
+project_objective: " to provide technical support to the national counterpart, the Ministry of State for Administrative Development (MSAD), with regard to the following focus areas: 1) Integration of national databases to enhance inter-agency coordination 2) Modernization of existing Personnel Offices on the model of Human Resources offices, 3) Enhancement of Government to citizen services and establishment of new channels for service provision, 4) Communication strategy to promote the use of e-Government services, 5) Enhancement of MSAD South-South cooperation strategy on e-Government."
+territorial_focus: MIC
+undp_role_type: 
+  - capacity_builder
+partner_location: 
+---
+UNDP will provide capacity building and facilitate knowledge exchange to assist the Government of Egypt to enhance the Ministry of State for Administrative Development (MSAD) South-South Cooperation strategy on e-Government. Knowledge sharing on e-Government with African countries is among MSAD priorities in order to lead the track related to ICT to better service delivery. (Capacity development and knowledge)

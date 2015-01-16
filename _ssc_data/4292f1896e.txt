@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - PAK
+region: 
+  - Asia & Pacific
+partner_type: 
+  - national_governments
+  - cso
+  - academia
+project_title: "Policy Support Programme"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+Policy Support Programme to promote policy reforms through research, dialogue, consensus building, knowledge management and partnerships between the government and academia, policy think tanks, civil society and regional/international experts.

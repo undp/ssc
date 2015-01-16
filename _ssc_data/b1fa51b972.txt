@@ -1,0 +1,20 @@
+---
+open_project_id: "00059442"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - TKM
+region: 
+  - ECIS
+partner_type: 
+  - 
+  - national_governments
+project_title: "Parliamentary Development Support Programme"
+scale: national
+project_objective: " to enhance parliamentary processes and procedures to improve the quality of legislation; and to develop individual capacities of parliament members and professional staff to effectively fulfil their functions."
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+Although specific countries where SSC/TrC occurs with Turkmenistan are not mentioned. However, the document mentions that the UNDP will establish and develop a lesson learned platform for knowledge sharing reasons and cooperation within the region. In addition the document states that the UNDP will draw from the experience from similar parliamentary projects around the region and neighbouring countries to that of Turkmenistan

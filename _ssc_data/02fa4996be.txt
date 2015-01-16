@@ -1,7 +1,7 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - Inclusive and effective democratic governance
+  - inclusive_and_effective_democratic_governance
 host_location: 
   - BOL
 region: 
@@ -9,7 +9,7 @@ region:
 partner_type: 
   - national_governments
   - sub_national_governments
-  - csos
+  - cso
 project_title: "Participatory Citizenry in Bolivia"
 scale: national
 project_objective: ""

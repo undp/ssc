@@ -1,7 +1,7 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - Inclusive and effective democratic governance
+  - inclusive_and_effective_democratic_governance
 host_location: 
   - DOM
 region: 

@@ -11,7 +11,7 @@ class Start
       fs.readFile('api/or_projects_export.json', encoding: 'utf8', (err, data) =>
         if err then throw err
         projects = JSON.parse(data)
-        projects = projects.slice(0, 10) # TESTING QUICKLY
+        # projects = projects.slice(0, 10) # TESTING QUICKLY
         processed = @processAll(projects)
         @writeAll(processed)
         console.log('done')
@@ -71,7 +71,13 @@ class Start
     )
 
   normalise_thematic_focus: (data) ->
-    @split(data)
+    themes = ['Sustainable development', 'Resilience building', 'Inclusive and effective democratic governance']
+    _.map(@split(data), (term) =>
+      matched = _.filter(themes, (theme) ->
+        term.match(theme)
+      )
+      @justWords(_.str.underscored(matched[0]))
+    )
 
   normalise_partner_location: (data) ->
     return unless data
@@ -84,14 +90,22 @@ class Start
     _.difference(partners, @host_location)
 
   normalise_partner_type: (data) ->
-    _.map(@split(data), (i) ->
-      _.str.underscored(i)
+    partner_types = ['International cooperation / development agencies', 'Regional / inter-governmental organizations', 'National governments', 'Sub-national governments', 'CSO', 'Academia', 'Private sector']
+    _.map(@split(data), (term) =>
+      matched = _.filter(partner_types, (type) ->
+        term.match(type)
+      )
+      @justWords(_.str.underscored(matched[0]))
     )
 
   split: (data) ->
     return unless data
     data.split(',').map (i) ->
       i.replace(/^\s+|\s+$/g,"")
+
+  justWords: (term) ->
+    return unless term
+    term.replace (/\(|\)/g), ""
 
   match_country_name: (term) ->
     re = new RegExp("^" + term,"i")

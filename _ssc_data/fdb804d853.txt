@@ -1,0 +1,25 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - CUB
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - 
+  - national_governments
+project_title: "CPP P5 - Country Pilot Partnership on Sustainable Land Management - Supporting Implementation of the Cuban National Programme to Combat Desertification and Drought - Coordination, Monitoring and Evaluation of Cuba Country Pilot Partnership on sustainable Land Management"
+scale: national
+project_objective: ""
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - ARG
+  - PER
+  - HND
+---
+UNDP supported capacity building and transfer of knowledge through the following activities: (1) transfer of methodology for measuring carbon from soil crusts, evaluation methods of biodiversity assessment and living standards of local communities from Argentina to Cuba; (2) exchange of experiences between Cuba and Peru on sustainable land management projects, new ways of introduction of early warning systems against extreme weather events and the ways of extending the results of good sustainable land management practices in areas outside of the project demonstration sites; (3) counseling and methodology transfer for land degradation and national mapping was organized from Cuba to Honduras.

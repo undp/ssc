@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - BOL
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - national_governments
+  - sub_national_governments
+  - cso
+  - academia
+project_title: "Human Development and Social Rights"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - COL
+---
+UNDP provides technical assistance and supports knowledge exchanges between Colombia and Bolivia on decentralization and autonomy in urban contexts. As a result, priorities in urban planning were identified for Bolivian partners; the state of art of urban development and local experiences in urban development were disseminated.

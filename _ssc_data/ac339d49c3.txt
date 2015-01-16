@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - LAO
+region: 
+  - Asia & Pacific
+partner_type: 
+  - 
+  - national_governments
+project_title: "Enabling an Effective Integration of Laos Into Asean III"
+scale: national
+project_objective: " to increase capacity & understanding of Government, private sectors and general public on the preparation and implication of ASEAN/AEC integration."
+territorial_focus: LDC
+undp_role_type: 
+  - capacity_builder
+partner_location: 
+---
+UNDP will provide capacity building for government officials.

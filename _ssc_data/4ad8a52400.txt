@@ -1,0 +1,27 @@
+---
+open_project_id: "00060850"
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - RUS
+region: 
+  - ECIS
+partner_type: 
+  - international_cooperation_/_development_agencies
+  - national_governments
+  - cso
+  - academia
+  - private_sector
+project_title: "Integrated Natural Resource Management in the Baikal Basin Transboundary Ecosystem"
+scale: national
+project_objective: " to spearhead integrated natural resource management of Baikal Lake Basin and Hövsgöl Lake (between the Russian Federation and Mongolia) ensuring ecosystem resilience, reduced water quality threats in the context of sustainable economic development. The project will also support efforts from both national and local governments and civil society to mainstream conservation measures into productive sectors policies and practices by way of strengthening the policy and regulatory framework for mainstreaming biodiversity in order to protect and sustainably utilize the unique aquatic ecosystem stretching from Lake Hövsgöl to Lake Baikal."
+territorial_focus: HIC
+undp_role_type: 
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+  - MNG
+---
+UNDP with strengthen the capacities of both Russia and Mongolian national and local government officials. The pilot project will be implemented on the Russia side and it will share it's experiences with the Mongolian side. Once both countries implement the projects within their countries, UNDP will facilitate the peer-to-peer training and exchange of lessons learned from the project between Russia and Mongolia. (Facilitator role)

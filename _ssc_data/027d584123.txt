@@ -1,18 +1,18 @@
 ---
 open_project_id: "00051446"
 thematic_focus: 
-  - Resilience building (disaster prevention
-  - early recover
-  - climate change)
+  - resilience_building
+  - 
+  - 
 host_location: 
   - 
 region: 
   - Asia & Pacific
 partner_type: 
-  - regional/inter_governmental_organizations
-  - international_cooperation/development_agencies
+  - 
+  - 
   - national_governments
-  - csos
+  - cso
 project_title: "Implementing Sustainable Water Resources and Wastewater
 Management in Pacific Island Countries"
 scale: regional

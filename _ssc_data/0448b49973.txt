@@ -1,13 +1,13 @@
 ---
 open_project_id: "00066680"
 thematic_focus: 
-  - Inclusive and effective democratic governance
+  - inclusive_and_effective_democratic_governance
 host_location: 
   - LBY
 region: 
   - Arab States
 partner_type: 
-  - international_cooperation/development_agencies
+  - 
   - national_governments
 project_title: "Support to Transitional Governance Structures in Libya"
 scale: national

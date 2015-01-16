@@ -1,14 +1,14 @@
 ---
 open_project_id: "00066322"
 thematic_focus: 
-  - Sustainable development pathways (poverty eradication and sustainable development)
+  - sustainable_development
 host_location: 
   - ETH
 region: 
   - Africa
 partner_type: 
   - national_governments
-  - csos
+  - cso
   - private_sector
 project_title: "Support to Local Economic Development (LED) Programme"
 scale: national

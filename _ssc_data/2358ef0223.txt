@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - CHL
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - national_governments
+  - sub_national_governments
+  - cso
+project_title: "Planning for disaster disk reduction"
+scale: national
+project_objective: ""
+territorial_focus: HIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - CUB
+---
+UNDP organized knowledge exchange between Chile and Dominican Republic. Several study visits took place: (1) The Mayor of Talcahuano visited Dominican Republic to present the innovative initiative of the Community Center for Disaster Risk Reduction and the “Participatory guide on orientations to respond to emergencies like earthquakes-tsunamis from the experience of Talcahuano, Chile” (developed by the municipal team of Talcahuano with the support of UNDP Chile and the Regional urban studies of the University of Biobío, with inputs from the Fire department, Red Cross and “A roof for Chile”). (2) A delegation of mayors from Dominican Republic visited the Municipality of Talcahuano to learn the Chilean experience on seismic risk, local emergency response and recovery process; (3) visit of Chilean delegation from the Secretary of Planning of the district of Talcahuano to the municipality of Viñales in Cuba to share experiences in risk management at the local level.

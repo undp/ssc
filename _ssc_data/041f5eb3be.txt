@@ -1,9 +1,9 @@
 ---
 open_project_id: "00048414"
 thematic_focus: 
-  - Resilience building (disaster prevention
-  - early recover
-  - climate change)
+  - resilience_building
+  - 
+  - 
 host_location: 
   - ARG
   - IND
@@ -15,7 +15,7 @@ host_location:
 region: 
   - Latin America & Caribbean
 partner_type: 
-  - international_cooperation/development_agencies
+  - 
   - national_governments
 project_title: "Demonstrating and Promoting Best Techniques and Practices for Reducing Health-Care Waste to Avoid Environmental Releases of Dioxins and Mercury"
 scale: global

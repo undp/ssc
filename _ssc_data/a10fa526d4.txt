@@ -1,0 +1,26 @@
+---
+open_project_id: "00061005"
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - ROU
+region: 
+  - ECIS
+partner_type: 
+  - 
+  - 
+  - national_governments
+  - cso
+  - academia
+  - private_sector
+project_title: "Improving Energy Efficiency in Romania"
+scale: national
+project_objective: " to dismantle the barriers to the implementation of energy efficiency measures among poorer households and in poorer communities in Romania, working to alleviate fuel poverty. The project will act at a national and local level to address energy efficiency needs, develop appropriate policy measures, stimulate an on-going market for locally-produced, energy efficient building materials, build capacity for implementation of energy efficiency measures in poorer regions, and implement real energy efficiency improvements to improve the lives of 110,620 people in Romania and reduce energy-related greenhouse gas emissions by 666,800 tonnes of CO2eq."
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+UNDP Romania will seek to involve other UNDP COs in the former communist countries by seeking out local authorities and representatives of central governments in order to share information through workshops and field visits. The purpose is to demonstrate the value added of the proposed projects activities. This is indicated as an output. (knowledge sharing)

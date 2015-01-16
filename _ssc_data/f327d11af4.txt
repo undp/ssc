@@ -1,0 +1,21 @@
+---
+open_project_id: "00060492"
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - LAO
+region: 
+  - Asia & Pacific
+partner_type: 
+  - national_governments
+project_title: "Improving the Resilience of the Agriculture Sector in Lao PDR to Climate Change Impacts"
+scale: national
+project_objective: " to address impacts of climate change on the agriculture sector, with an emphasis on developing and piloting new adaptation actions and activities within existing agro-ecosystems."
+territorial_focus: LDC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+UNDP facilitate knowledge sharing. Outcome 4: The project will systematically provide quantitative and qualitative data and information on coded ‘lessons learned’ and a website has been established linked to wider dissemination through regional and global networks (ALM, Wiki-adapt, Eldis and the Asia Knowledge Platform). By the end of the project 2 regional conferences on CC+AA are organized by NAFRI for GMS member states (in collaboration with partner organizations) for SE ASIA

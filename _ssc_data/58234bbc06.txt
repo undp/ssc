@@ -1,0 +1,19 @@
+---
+open_project_id: "00060592"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - MDV
+region: 
+  - Asia & Pacific
+partner_type: 
+  - national_governments
+project_title: "Integrated Governance Project"
+scale: national
+project_objective: " to improve different aspects of governance in the country. The project consist of a battery of 14 projects"
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+Although unclear at this point, the most plausible way forward for UNDP would be in the aspect of knowledge sharing and disseminating knowledge regarding best practices in other countries

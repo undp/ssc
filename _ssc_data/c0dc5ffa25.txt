@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - URY
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - national_governments
+  - private_sector
+project_title: "PEEU (Wind Energy program in Uruguay)"
+scale: national
+project_objective: ""
+territorial_focus: HIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+UNDP supported knowledge sharing through a study visit of Cuban delegation (with representatives of the Cuban Finance, Energy and Justice ministries on regulatory frameworks on renewable energies and energy policies) to a wind park in Maldonado, Uruguay

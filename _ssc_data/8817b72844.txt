@@ -1,0 +1,21 @@
+---
+open_project_id: "00059926"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - LBR
+region: 
+  - Africa
+partner_type: 
+  - 
+  - national_governments
+project_title: "Support to the 2010-2012 Liberian Electoral Cycle"
+scale: national
+project_objective: ""
+territorial_focus: Fragile State
+undp_role_type: 
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+---
+UNDP will facilitate knowledge sharing and capacity building through study tours for the National Elections Commission (NEC) staff to countries and institutions in order to provide most relevant examples on improving electoral institutions processes and laws. This will further strengthen the capacity of the NEC staff. (knowlege and capacity)

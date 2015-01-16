@@ -1,0 +1,23 @@
+---
+open_project_id: "00062550"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - MLI
+region: 
+  - Africa
+partner_type: 
+  - 
+  - 
+  - national_governments
+project_title: "Support to Reinforcement of National Capacities (Projet d'Appui au Renforcements de Capacités Nationales (PARC)"
+scale: national
+project_objective: ""
+territorial_focus: Fragile State
+undp_role_type: 
+  - partnership_facilitator
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+---
+UNDP helps strengthen capacity of knowledge acquisition, processing and dissemination (Outcome 3). In this context, partnerships will be established with the Africa Capacity Building Foundation (ACBF), African Development Bank, CERCAP. Forums for knowledge exchange and transfer will be organized. Study visits will be organized to countries with best practices on reinformement of development capacities. (knowlege and capacity)

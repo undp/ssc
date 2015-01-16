@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - 
+region: 
+  - ECIS
+partner_type: 
+  - national_governments
+project_title: "Area-Based Development Programme in Kyrgyzstan"
+scale: national
+project_objective: " to introduce Area-Based development approach and support the establishment of an integrated planning and implementation framework for a comprehensive (multi-sector, multi-level and multi-agency), coordinated, pro-poor and pro-growth approach to sustainable development at rayon and ayil-okmotyus' levels."
+territorial_focus: LDC
+undp_role_type: 
+  - partnership_facilitator
+partner_location: 
+---
+UNDP facilitated partnership between Kyrgyz Republic and Rissua, which co-funds the programme. UNDP implements it (partnership)

@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - URY
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - cso
+project_title: "Contributions to a new model towards youth policy"
+scale: national
+project_objective: ""
+territorial_focus: HIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - PRY
+---
+UNDP facilitated knowledge exchange between Paraguay and Uruguay on Youth Policy developed jointly with the Youth National Institutes of Paraguay and Uruguay.

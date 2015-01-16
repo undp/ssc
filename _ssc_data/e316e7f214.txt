@@ -1,0 +1,28 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - KAZ
+region: 
+  - ECIS
+partner_type: 
+  - 
+  - national_governments
+  - private_sector
+project_title: "Improving the Climate Resiliency of Kazakhstan Wheat and Central Asian Food Security"
+scale: national
+project_objective: " to support regional food security through increased resilience at national and local levels, as well as improve awareness and understanding of the possible implications of climate variability and change on wheat and food security at the regional level. l"
+territorial_focus: MIC
+undp_role_type: 
+  - partnership_facilitator
+partner_location: 
+  - KGZ
+  - TJK
+  - UZB
+  - TKM
+  - AFG
+---
+UNDP will facilitate partnership, engaging Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Turkmenistan and Afghanistan to identify policy makers and develop a common vision and understanding regarding the possible implications of climate variability and change of wheat and food security in the region and to identify actions that can be taken individually or collectively to respond.

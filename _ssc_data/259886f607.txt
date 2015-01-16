@@ -1,0 +1,24 @@
+---
+open_project_id: "00058266"
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - ROU
+region: 
+  - ECIS
+partner_type: 
+  - national_governments
+  - cso
+  - academia
+  - private_sector
+project_title: "Financial Sustainability of Carpathian Protected Areas"
+scale: national
+project_objective: " to secure the financial sustainability of Romania's Carpathian Network of Protected Areas (CNPA) as a model for replication to the entire Carpathian Network of Protected Areas. This objective will be realized through two components: (i) Strengthening the supportive legislative framework and Sustainable Protected Areas Financing Strategy; (ii) Strengthening the institutional and individual capacities of management authorities and other local stakeholders to develop and implement sustainable financing of protected areas."
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+In the project document, UNDP Romania will transfer and disseminate lessons learned and knowledge concerning the project to other neighbouring countries (Carpathian countries). Additionally UNDP will identify other regional and global experiences in order to optimize knowledge exchange between the CNPAs. It will also develop a "virtual learning community" in order to help CNPAs document and experiences and lessons and facilitate the transfer of knowledge to the neighbouring regions (CNPAs).

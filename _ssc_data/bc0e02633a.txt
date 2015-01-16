@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - URY
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - national_governments
+project_title: "Poverty and Environment Initiative"
+scale: national
+project_objective: ""
+territorial_focus: HIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - ECU
+  - BRA
+---
+UNDP facilitated the exchange of experience between Ecuador, Brazil and Uruguay on Public Investment Systems. Several missions/trainings were organized, e.g. mission of Uruguay’s Planning and Budget Office (OPP) to Brazil’s Ministry of Planning. Work Plan was agreed by National Secretariat of Planning and Development of Ecuador (SENPLADES) and OPP Uruguay.

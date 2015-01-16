@@ -1,0 +1,26 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - 
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - 
+  - national_governments
+  - cso
+  - academia
+  - private_sector
+project_title: "Enhancing Resilience to Reduce Vulnerability in the Caribbean Project (ERC) DIM Project"
+scale: regional
+project_objective: " to apply an integrated approach to vulnerability reduction and enhancing resilience to climate change, natural hazards and poverty through enhanced civil protection. It covers Barbados and the Organization of Eastern Caribbean States."
+territorial_focus: 
+undp_role_type: 
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+---
+UNDP facilitated South-South cooperation to enable peer-to-peer learning and capacity development in advancing Early Warning Systems (EWS), hazard mapping and vulnerability assessment towards risk mitigation; and public awareness and education for multiple hazards including tsunamis; support to policy development; and knowledge management for dissemination of lessons and good practices across the wider Caribbean and with the Pacific.

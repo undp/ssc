@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - ZAF
+region: 
+  - Africa
+partner_type: 
+  - national_governments
+project_title: "Strengthening Democratic Governance"
+scale: national
+project_objective: " To strengthen service delivery and democratic governance through interventions to improve oversight & accountability; and utilize global networks and S-S Cooperation to expand local knowledge and facilitate access to good practices"
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+UNDP will act as knowledge broker

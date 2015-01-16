@@ -1,22 +1,20 @@
 ---
 open_project_id: ""
 thematic_focus: 
+  - sustainable_development
 host_location: 
-  - BOL
+  - URY
 region: 
   - Latin America & Caribbean
 partner_type: 
+  - 
   - national_governments
-  - sub_national_governments
-  - csos
-  - private_sector
-project_title: "Participatory Citizenry in Bolivia"
+project_title: "Suppliers Development Programme"
 scale: national
 project_objective: ""
-territorial_focus: MIC
+territorial_focus: HIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
-  - BRA
 ---
-UNDP provides technical assistance and organizes knowledge exchange between Brazil and Bolivia on the management model of Science and Technology Parks. A Memorandum of Understanding is to be signed between Itaipu and UNDP-ART Bolivia in the near future. Among the priorities for joint action are: reinforcing South-South cooperation between Brazil and Bolivia; supporting Science and Technology Parks in Bolivia; supporting local economic development initiatives in dairy, crafts and wood sectors; promotion of alternative and sustainable energies.
+UNDP facilitated the exchange of experience between El Salvador and Uruguay to explore the feasibility of the implementation of the Suppliers Development Programme in Uruguay based on the experience of El Salvador. As a result, a road map was elaborated

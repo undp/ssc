@@ -41,8 +41,11 @@ $(document).ready(function() {
 function renderTable() {
   $('#mr_table').dataTable({
     data: projects.toJSON(),
-    responsive: true,
+    // responsive: true,
     columns: [{
+      data: 'project_id',
+      title: 'id'
+    }, {
       data: 'undp_role_type',
       title: 'Role'
     }, {

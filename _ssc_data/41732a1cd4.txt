@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - MEX
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - national_governments
+project_title: "Mexico-Chile Joint Cooperation Fund"
+scale: national
+project_objective: " Develop capacities and strengthen institutions in areas identified as priority for Mexico and Chile, such as science and technology, education and culture; Identify areas of cooperation in which Mexico and Chile share skills and interests for the benefit of third countries; Financing programs and projects of bilateral and trilateral cooperation through an annual joint budget of 2 million dollars."
+territorial_focus: MIC
+undp_role_type: 
+  - capacity_builder
+partner_location: 
+---
+UNDP will provide technical and administrative assistance to the project.

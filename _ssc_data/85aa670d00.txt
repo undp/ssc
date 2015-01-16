@@ -1,0 +1,23 @@
+---
+open_project_id: "00065578"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - IRQ
+region: 
+  - Arab States
+partner_type: 
+  - 
+  - national_governments
+  - cso
+project_title: "Family Protection, Support, Justice and Security for Survivors of Domestic and Gender Based Violence"
+scale: national
+project_objective: " to support the Government of Iraq's efforts in creating a reintegration and access to justice. This programme aims to enhance the capacity of formal and informal institutions to establish family protections systems and facilitate law enforcement and access to justice for the victims of violence."
+territorial_focus: Fragile State
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - JOR
+  - LBN
+---
+UNDP facilitated knowledge exchange. Filed visits to Jordan were organized for Iraq's key stakeholders from the Government and CSOs to learn the experience of the Family Protection Department in Jordan. Jordanian experts conducted training sessions in Erbil. Additional study tours and extensive training exercises where held for representatives from Iraq, Jordan and Lebanon in order to enhance the opportunity for cooperation and increase synergy in order to build confidence in the system and build ownership

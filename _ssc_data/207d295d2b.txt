@@ -1,0 +1,33 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - BEN
+  - BFA
+  - CPV
+  - 
+  - 
+  - GHA
+  - 
+  - GNB
+  - LBR
+  - MLI
+  - NER
+  - NGA
+  - SEN
+  - SLE
+  - TGO
+region: 
+  - Africa
+partner_type: 
+project_title: "Regional Energy Project for Poverty Reduction- Guided by the 2008-2011UNDP strategic plan and the refocused UNDP strategy in Africa, CD-PGA, both of which make capacity development the driver and the single most important service by UNDP; the regional energy project will focus on strengthening the capacities of institutions to establish enabling policy and institutional frameworks for the delivery of modern energy services to rural and peri-urban populations. The regional project will provide a platform and act as a catalytic delivery mechanism to optimize the deployment of technical, programmatic and policy advisory services required by a number of countries in a manner that they derive benefits that they would not obtain acting alone. In this regard, the project will ensure that strategies and programs are designed within harmonized regional frameworks that enable the creation of sub-regional markets and bring together public authorities, private sector, financiers, development partners, as well as Regional Economical Commissions/Communities (RECs). In addition, the project will build on achievements of the past regional energy project by scaling up models and approaches such as MFPs, now widely recognized for contributing to the empowerment of women and young girls, while at the same time delivering critical energy services to communities. The project will also seek to identify and promote other similar decentralized options in Africa through South-South cooperation, knowledge networking and inter-agency coordination.Regional Energy Project for Poverty Reduction"
+scale: regional
+project_objective: ""
+territorial_focus: 
+undp_role_type: 
+partner_location: 
+---
+UNDP assisted in the establishmented of a MFP newtwork in order to assist the participating countries in exchanging and sharing of information in order to contribute to the capacity building in the areas of policy analysis and advocacy within national programmes, governments and partners.

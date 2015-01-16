@@ -1,0 +1,20 @@
+---
+open_project_id: "00047259"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - MNE
+region: 
+  - ECIS
+partner_type: 
+  - national_governments
+  - cso
+project_title: "Gender Equality Programme"
+scale: national
+project_objective: " to support the Governmental Office of Gender Equality in the effective implementation of the National Action Plan for Gender Equality. UNDP efforts will be concentrated on advocating for gender legislation, integrating gender equality in the national policy priorities and supporting the formulation and implementation of frameworks enabling more favourable development opportunities for women. In addition, support will be provided for gender-disaggregated data processing to facilitate better policy making. Main partners will be Office of Gender Equality, parliamentarian Board for gender equality, Ministry of Justice, Ministry of Labour and Social Welfare, NGOs/CSOs etc.."
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+In this programme, UNDP will facilitate the knowledge transfer on Gender Equality Law implementation between gender mechanisms in Bosnia and Herzegovina (BIH) and Montenegro with the aim to further encourage partnership and contribute to alignment and coherence of best practices and lessons learned capitalizing on each other’s strengths;

@@ -1,0 +1,26 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - 
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - 
+  - national_governments
+  - sub_national_governments
+  - cso
+  - academia
+project_title: "Caribbean Risk Management Initiative (CRMI) is a knowledge network designed to promote best practices and develop capacity in the region in the fields of risk management and climate change adaptation"
+scale: regional
+project_objective: " to provide a platform for sharing the experiences and lessons learned between different sectors, languages and cultural groups across the Caribbean in order to facilitate improved disaster risk reduction. Risk Reduction Management Centres (RRMC), formed under CRMI is a Cuban model of local risk reduction management. The model focuses on informed local decision-making based on coordinated and multi-disciplinary information management, identifying hazards, risks and vulnerabilities."
+territorial_focus: SIDS
+undp_role_type: 
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+---
+In partnership with UNDP Pacific Centre, (1) supports to build linkages between the regions' SIDS in DRR including gender analysis; capacity building; and sharing experiences in addressing DRR and climate change adaptation; (2) supports and coordinates exchange missions in both regions; (3) facilitates training of Pacific weather observers at the Caribbean Institute for Meteorology and Hydrology; and participation in regional fora addressing climate change adaptation and DRR. A guide was published for integrating gender in Disaster Management in SIDS utilizing expertise from the respective Caribbean and Pacific SIDS. (this is a cross-regional initiative)

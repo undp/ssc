@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - LKA
+region: 
+  - Asia & Pacific
+partner_type: 
+  - national_governments
+project_title: "Strengthening Enforcement of Law, Access to Justice and Social Integration in Sri Lanka"
+scale: national
+project_objective: " to strengthen access to justice and the enforcement of law while simutaneously supporting the foundations for longer-term social integration and development."
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+UNDP will assist knowledge management and knowledge sharing, in-country, inter-regionally and internationally, and support technical, institutional and operational capacities of national institutions engaged in the subject. The Programme will assist and facilitate the government to establish and improve relations with external stakeholders, including attempting to establish more south-south cooperation with other regional governments and peer judicial institutions, including information sharing, cooperation and consultation, strengthening national capacity to work with other donors, and participatory planning, monitoring and evaluation

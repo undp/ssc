@@ -1,0 +1,19 @@
+---
+open_project_id: "00057804"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - SAU
+region: 
+  - Arab States
+partner_type: 
+  - national_governments
+project_title: "Support to Developing National Youth Strategy in the Kingdom of Saudi Arabia"
+scale: national
+project_objective: " to enhance participation of youth in national development processes through formulation and adoption of a national strategy for Saudi youth encompassing the varied socio-economic and recreational dimensions pertinent to all partners. This project will provide the needed technical and advisory support to the Ministry of Economy and Planning (MOEP) for the development of the national youth strategy. It will survey and analyse youth concerns and aspirations; it will discuss all the findings in a series of workshops and seminars with a view to develop programmes that address these issues."
+territorial_focus: HIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+UNDP will facilitate working visits and study tours between the Ministry of Economy and Planning (MOEP) and selected countries in order to review actions and gain experiences on how issues relating to youth have been addressed and integrated into development strategies and national programmes.

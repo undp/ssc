@@ -1,0 +1,27 @@
+---
+open_project_id: "00059937"
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - ARM
+region: 
+  - ECIS
+partner_type: 
+  - national_governments
+  - academia
+  - private_sector
+project_title: "Improving Energy Efficiency in the Buildings. The objective of the GEF full size project is to reverse the existing trends and reduce consumption of electrical and thermal energy and associated GHG emissions in new and restored, primarily residential buildings in Armenia. It will do this by creating enabling regulatory environment, skills and capacity among industry professionals to introduce the principles of integrated building design in Armenian construction practices from the stage of building design through construction to maintenance of the buildings. The support to be provided by the project will combine development of a new regulation (EE building codes and certification scheme) with the training of professionals, demonstration of integrated building design and stimulating manufacturing of new EE materials and equipment"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+  - KGZ
+  - UZB
+  - TUR
+---
+UNDP will facilitate capacity building and exchange of best practices and experiences from other countries with similar Energy Efficient building projects in the region such as Kyrgyzstan, Uzbekistan and Turkey. Also to learn good practice building codes and standards work done in other CIS countries. (Facilitator)

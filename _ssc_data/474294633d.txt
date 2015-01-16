@@ -1,0 +1,22 @@
+---
+open_project_id: "00061792"
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - MAR
+region: 
+  - Arab States
+partner_type: 
+  - 
+  - national_governments
+project_title: "Capacity building program on low emissions in Morocco (Programme de renforcement de capacités sur les faibles émissions au Maroc)"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+UNDP will help create and accumulate the knowledge on low carbon emissions, to organize and share it via south-south transfer of know-how in the field (Outcome 4) / Résultat 4 - Un capital des connaissances de développement sobre en émissions carbone est créé, organisé et partagé y compris le transfert sud-sud du savoir faire en la matière (knowledge)

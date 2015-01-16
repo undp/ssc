@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+  - 
+  - 
+host_location: 
+  - CUB
+region: 
+  - Latin America & Caribbean
+partner_type: 
+  - national_governments
+  - academia
+project_title: "Application of a regional approach to the management of marine and coastal protected areas in Cuba’s Southern Archipelagos Region"
+scale: national
+project_objective: ""
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+---
+UNDP facilitated the exchange of experience on implementation of “Sustainable Land Management” between Cuban and Peruvian experts.
