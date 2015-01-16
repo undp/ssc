@@ -12,9 +12,14 @@ partner_type:
   - 
   - 
   - national_governments
+<<<<<<< HEAD
   - cso
 project_title: "Implementing Sustainable Water Resources and Wastewater
 Management in Pacific Island Countries"
+=======
+  - csos
+project_title: "Implementing Sustainable Water Resources and Wastewater Management in Pacific Island Countries"
+>>>>>>> 4c390cc6c65e9ce04dae87cd9e7da3e917923111
 scale: regional
 project_objective: " to improve water resources management and water use efficiency in Pacific Island Countries in order to balance overuse and conflicting uses of scarce freshwater resources through policy and legislative reform and implementation of applicable and effective Integrated Water Resources Management (IWRM) and Water Use Efficiency (WUE) plans'. The participating countries are Governments of The Cook Islands, Federated States of Micronesia, Fiji, Kiribati, Marshall Islands, Nauru, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu"
 territorial_focus: SIDS
