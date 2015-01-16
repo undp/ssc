@@ -8,7 +8,7 @@ host_location:
   - GAB
   - SEN
 region: 
-  - Arab States, Africa
+  - ,
 partner_type: 
   - national_governments
 project_title: "Signing of the Convention of South-South Cooperation Partnership between the 4 countries"

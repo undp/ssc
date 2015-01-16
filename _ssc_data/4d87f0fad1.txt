@@ -7,7 +7,7 @@ thematic_focus:
 host_location: 
   - NPL
 region: 
-  - Asia & Pacific
+  - asia_pacific
 partner_type: 
   - national_governments
 project_title: "Conflict Prevention Project (CCP)"
@@ -18,4 +18,4 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
 ---
-Facilitated by UNDP in Nepal’s Conflict Prevention Project (CPP) and its Timor-Leste counterpart, the Nepali team trained 28 officials of Timor-Leste’s Ministry of Social Solidarity on integrating conflict sensitivity, especially the “Do No Harm" approaches in development programming. UNDP facilitated study tours of Timor-Leste officials to Nepal to share their experience and knowledge on how to mainstream conflict sensitivity into all government ministries in both programming and policy works. (Facilitator)
+Facilitated by UNDP in Nepal’s Conflict Prevention Project (CPP) and its Timor-Leste counterpart, the Nepali team trained 28 officials of Timor-Leste’s Ministry of Social Solidarity on integrating conflict sensitivity, especially the “Do No Harm' approaches in development programming. UNDP facilitated study tours of Timor-Leste officials to Nepal to share their experience and knowledge on how to mainstream conflict sensitivity into all government ministries in both programming and policy works. (Facilitator)

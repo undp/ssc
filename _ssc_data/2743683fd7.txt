@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - BWA
 region: 
-  - Africa
+  - africa
 partner_type: 
   - national_governments
 project_title: "Renewable Energy-based Rural Electrification Programme for Botswana"
 scale: national
-project_objective: " to reduce Botswana’s energy-related CO2 emissions by promoting renewable and low GHG technologies as a substitute for fossil fuel (fuel wood, paraffin and coal) utilized in rural areas. The activities proposed in the project are designed to remove barriers to the wide-scale utilization of renewable energy and low GHG technologies to meet the basic electricity needs of individual households in terms of lighting, power for radio cassette/ TV and income-generating activities. In turn, this project will help with the initiation of the intended renewable energy programme of the Government of Botswana and to encourage the development of the private sector industry in the provision of renewable energy in the country."
+project_objective: "To reduce Botswana’s energy-related CO2 emissions by promoting renewable and low GHG technologies as a substitute for fossil fuel (fuel wood, paraffin and coal) utilized in rural areas. The activities proposed in the project are designed to remove barriers to the wide-scale utilization of renewable energy and low GHG technologies to meet the basic electricity needs of individual households in terms of lighting, power for radio cassette/ TV and income-generating activities. In turn, this project will help with the initiation of the intended renewable energy programme of the Government of Botswana and to encourage the development of the private sector industry in the provision of renewable energy in the country."
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - 
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - national_governments
   - cso
@@ -19,4 +19,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
 ---
-UNDP promoted the exchange agreement between the Dominican Local Economic Development Agencies network and Cuba’s National Agricultural Health Center (CENSA) with the aim of supporting a territorial economic development public policy in Dominican Republic. Transfer of the experience was organized on development and implementation of an integrated technical support programme for the entire dairy chain that included both entities and producers, collectors, local processors as well as national regulatory entities (Dairy National Council, CONALECHE)
+* UNDP promoted the exchange agreement between the Dominican Local Economic Development Agencies network and Cuba’s National Agricultural Health Center (CENSA) with the aim of supporting a territorial economic development public policy in Dominican Republic. Transfer of the experience was organized on development and implementation of an integrated technical support programme for the entire dairy chain that included both entities and producers, collectors, local processors as well as national regulatory entities (Dairy National Council, CONALECHE) * UNDP promoted technical exchange between local economic development actors of El Salvador and Dominican Republic and supported the follow up actions. Exchange visits were organized for El Salvador officials to government institutions and Local Economic Development Agencies of Dominican Republic (microfinance and strategies for local economic development). Participants created a network for sharing information, best practices and support each other's initiatives within the framework of South-South Cooperation. * UNDP promoted technical exchange between actors of El Salvador and Dominican Republic and supported the follow up actions. Exchange visits of El Salvador to government institutions and the Local Economic Development Agencies in Dominican Republic to establish similar pilot projects in El Salvador and the Dominican Republic for Leadership and Economic Empowerment of Women at the local level. The projects would be established through the Local Economic Development Agencies promotion of leadership and small enterprises for women in Local Economic Development Agencies (DELs) of both countries. 
+Gender Focal Points were established and trained in DELS
+Project documents were prepared.

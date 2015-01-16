@@ -5,14 +5,14 @@ thematic_focus:
 host_location: 
   - TUN
 region: 
-  - Arab States
+  - arab_states
 partner_type: 
   - 
   - 
   - national_governments
 project_title: "The Court of Auditors: a tool of transparency and trust in public management (La cour des comptes: outil de transparence et de confiance dans la gestion publique)"
 scale: national
-project_objective: " to support the Court of Auditors incontext of institutional reforms underway to enroll in a system of democratic governance; strengthen human resources and develop a quality system based on international standards of management of public finances."
+project_objective: "To support the Court of Auditors incontext of institutional reforms underway to enroll in a system of democratic governance; strengthen human resources and develop a quality system based on international standards of management of public finances."
 territorial_focus: MIC
 undp_role_type: 
   - partnership_facilitator

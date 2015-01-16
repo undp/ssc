@@ -7,7 +7,7 @@ thematic_focus:
 host_location: 
   - CUB
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - cso
   - academia
@@ -22,4 +22,4 @@ partner_location:
   - MEX
   - CHL
 ---
-UNDP organized capacity building and facilitated the exchange of experience: (1) on climate change practices between Cuba and Mexico through trainings on participatory planning, inter-sectoral relations, communications related to climate change; through participation in the Fifth International Seminar Permanent MEXICO CUBA, exchange of experiences on Environment and Territory: Harmonization of tools and programs in the country for sustainable rural development. (2) on climate chance between Cuba and Chile – through the seminar "Methodology of regional frequency analysis L_ moments to study extreme hydroclimatic events in Cuba"
+UNDP organized capacity building and facilitated the exchange of experience: (1) on climate change practices between Cuba and Mexico through trainings on participatory planning, inter-sectoral relations, communications related to climate change; through participation in the Fifth International Seminar Permanent MEXICO CUBA, exchange of experiences on Environment and Territory: Harmonization of tools and programs in the country for sustainable rural development. (2) on climate chance between Cuba and Chile – through the seminar 'Methodology of regional frequency analysis L_ moments to study extreme hydroclimatic events in Cuba'

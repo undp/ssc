@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - SSD
 region: 
-  - Africa
+  - africa
 partner_type: 
   - national_governments
 project_title: "Support to Planning and Public Financial Management"
 scale: national
-project_objective: " to enhance the capacity of government at the three levels (national, state and county) to draft pro-poor, gender and conflict sensitive medium term and annual work plans and budgets, to strengthen the research capacity of within Ministry of Finance and Economic Planning (MoFEP) and the state ministries of finance to support the development of pro- poor policies and programmes, to to develop capacities within the MoFEP and state ministries of Finance for evaluating the impact of public expenditure and to support capacity development for the senior management of MoFEP in making policy based on evidence."
+project_objective: "To enhance the capacity of government at the three levels (national, state and county) to draft pro-poor, gender and conflict sensitive medium term and annual work plans and budgets, to strengthen the research capacity of within Ministry of Finance and Economic Planning (MoFEP) and the state ministries of finance to support the development of pro- poor policies and programmes, to to develop capacities within the MoFEP and state ministries of Finance for evaluating the impact of public expenditure and to support capacity development for the senior management of MoFEP in making policy based on evidence."
 territorial_focus: Fragile State
 undp_role_type: 
   - capacity_builder

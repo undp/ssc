@@ -7,12 +7,12 @@ thematic_focus:
 host_location: 
   - IND
 region: 
-  - Asia & Pacific
+  - asia_pacific
 partner_type: 
   - national_governments
 project_title: "Climate Change Mitigation and Adaptation"
 scale: national
-project_objective: " to support national efforts in addressing climate change through specific interventions in three project areas: Capacity Building: Supporting Climate Change Planning and Implementation Processes; Climate Change Mitigation: Energy Efficiency in Small and Medium Enterprises in the Steel Re- rolling Sector; Climate Change Adaptation: Reducing Vulnerabilities to Climate Change and Disaster Risk through Integrated Water Management"
+project_objective: "To support national efforts in addressing climate change through specific interventions in three project areas: Capacity Building: Supporting Climate Change Planning and Implementation Processes; Climate Change Mitigation: Energy Efficiency in Small and Medium Enterprises in the Steel Re- rolling Sector; Climate Change Adaptation: Reducing Vulnerabilities to Climate Change and Disaster Risk through Integrated Water Management"
 territorial_focus: MIC
 undp_role_type: 
   - capacity_builder

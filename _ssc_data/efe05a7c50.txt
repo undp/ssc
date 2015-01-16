@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - CUB
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - national_governments
   - sub_national_governments
@@ -28,4 +28,4 @@ partner_location:
   - CHL
   - COL
 ---
-UNDP facilitated the exchange of knowledge: (1) between Nicaragua, Ecuador and Cuba on local production of construction materials; (2) between Mexico and Cuba on production techniques, autonomy of cooperatives, food and agricultural production chains; (3) between Dominican Republic, Curaçao Ecuador, Honduras, Spain, Cuba and Dominican Republic on cooperative sector through participation in "III International Convention on Cooperative and Social Development"; (4) between Mexico, Uruguay, Brazil, Cuba, Costa Rica, Chile, Honduras, Colombia on gender equality in public/private sector through participation in the "Business Forum for Equality", Mexico City.
+UNDP facilitated the exchange of knowledge: (1) between Nicaragua, Ecuador and Cuba on local production of construction materials; (2) between Mexico and Cuba on production techniques, autonomy of cooperatives, food and agricultural production chains; (3) between Dominican Republic, Curaçao Ecuador, Honduras, Spain, Cuba and Dominican Republic on cooperative sector through participation in 'III International Convention on Cooperative and Social Development'; (4) between Mexico, Uruguay, Brazil, Cuba, Costa Rica, Chile, Honduras, Colombia on gender equality in public/private sector through participation in the 'Business Forum for Equality', Mexico City.

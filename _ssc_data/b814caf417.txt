@@ -13,13 +13,13 @@ host_location:
   - MRT
   - 
 region: 
-  - Africa
+  - africa
 partner_type: 
   - 
   - national_governments
 project_title: "Governance, marine resources management policies and poverty reduction in West African Marine Eco Region"
 scale: regional
-project_objective: " to contribute to poverty reduction and food security strengthening for coastal communities in West Africa Marine Eco Region (WAMER)."
+project_objective: "To contribute to poverty reduction and food security strengthening for coastal communities in West Africa Marine Eco Region (WAMER)."
 territorial_focus: LDC, MIC, SIDS
 undp_role_type: 
   - knowledge_broker

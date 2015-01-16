@@ -7,12 +7,12 @@ thematic_focus:
 host_location: 
   - 
 region: 
-  - Asia & Pacific
+  - asia_pacific
 partner_type: 
   - national_governments
 project_title: "Conservation of Iranian Wetlands Project - Phase II (Scale-up)"
 scale: national
-project_objective: " to enhance the effectiveness and sustainability of Iran’s system of wetland protected areas as a tool for conserving globally significant biodiversity"
+project_objective: "To enhance the effectiveness and sustainability of Iran’s system of wetland protected areas as a tool for conserving globally significant biodiversity"
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

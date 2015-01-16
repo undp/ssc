@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - MAR
 region: 
-  - Arab States
+  - arab_states
 partner_type: 
   - national_governments
 project_title: "Support for the Realisation CAP UNDAF 2012-2016 (Appui à la Realisation du CAP UNDAF 2012-2016). Reinforcement of cooperation programmes of UNDP in Morocco"
 scale: national
-project_objective: " to promote and reinforce Morocco's participation in the internationla networks of cooperation and development."
+project_objective: "To promote and reinforce Morocco's participation in the internationla networks of cooperation and development."
 territorial_focus: MIC
 undp_role_type: 
   - capacity_builder

@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - MEX
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - national_governments
 project_title: "Mexico-Chile Joint Cooperation Fund"

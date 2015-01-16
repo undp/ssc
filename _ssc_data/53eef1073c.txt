@@ -5,14 +5,14 @@ thematic_focus:
 host_location: 
   - 
 region: 
-  - Arab States, Africa
+  - ,
 partner_type: 
   - 
   - national_governments
   - private_sector
 project_title: "Arab Business Forum for Sustainable Development and Green Economy in the Arab region"
 scale: regional
-project_objective: " to mobilize the role of private sector innovation and finance to support resilience to climate change, nexus of energy-water solutions, and develop new low-carbon sustainable energy solutions that benefit the poor in particular."
+project_objective: "To mobilize the role of private sector innovation and finance to support resilience to climate change, nexus of energy-water solutions, and develop new low-carbon sustainable energy solutions that benefit the poor in particular."
 territorial_focus: 
 undp_role_type: 
   - partnership_facilitator

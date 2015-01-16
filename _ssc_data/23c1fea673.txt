@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - NGA
 region: 
-  - Africa
+  - africa
 partner_type: 
   - international_cooperation_/_development_agencies
   - national_governments

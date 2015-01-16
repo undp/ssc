@@ -7,7 +7,7 @@ thematic_focus:
 host_location: 
   - CUB
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - academia
 project_title: "CPP P1 - Country Pilot PartnershIp on Sustainable Land Management - Supporting Implementation of the Cuban National Programme to Combat Desertification and Drought - Capacity Building for Planning, Decision Making and Regulatory Systems & Awareness Building / Sustainable Land Management in Severely Degraded Ecosystems"

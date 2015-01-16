@@ -5,13 +5,13 @@ thematic_focus:
 host_location: 
   - EGY
 region: 
-  - Arab States
+  - arab_states
 partner_type: 
   - national_governments
   - cso
 project_title: "Strengthening Transparency & Integrity in Civil Service"
 scale: national
-project_objective: " to strengthen transparency and integrity in the civil service by fostering the capacity of the Governance Centre as the technical arm of the Transparency and Integrity Committee (TIC). The Governance Centre is supposed to become a leading and knowledgeable institution for policy advice, namely in the field of anti-corruption. For this purpose, the project is designed to address the following: a. Develop the Institutional Capacity of the Governance Centre b. Conduct policy analysis to strengthen the institutional framework for transparency and anti-corruption (setting up the ombudsman office, transparency of the national budget, capacity building for local councils, code of conduct for the Egyptian civil service) c. Conduct of evidence-based anti-corruption assessments d. Provide technical assistance for the development of the National Anti-Corruption Strategy e. Strengthen Knowledge Management in the area of prevention and combat of corruption f. Enhance awareness and advocacy for anti-corruption"
+project_objective: "To strengthen transparency and integrity in the civil service by fostering the capacity of the Governance Centre as the technical arm of the Transparency and Integrity Committee (TIC). The Governance Centre is supposed to become a leading and knowledgeable institution for policy advice, namely in the field of anti-corruption. For this purpose, the project is designed to address the following: a. Develop the Institutional Capacity of the Governance Centre b. Conduct policy analysis to strengthen the institutional framework for transparency and anti-corruption (setting up the ombudsman office, transparency of the national budget, capacity building for local councils, code of conduct for the Egyptian civil service) c. Conduct of evidence-based anti-corruption assessments d. Provide technical assistance for the development of the National Anti-Corruption Strategy e. Strengthen Knowledge Management in the area of prevention and combat of corruption f. Enhance awareness and advocacy for anti-corruption"
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

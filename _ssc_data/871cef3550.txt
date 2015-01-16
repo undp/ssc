@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - BRB
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - 
   - national_governments
@@ -14,7 +14,7 @@ partner_type:
   - private_sector
 project_title: "Youth Innovation (Youth-In): A Caribbean Network for Youth Development"
 scale: national
-project_objective: " to establish an integrated programme that facilitates results and delivery of assistance to support Caribbean youth aged 15-29. The project strategically addresses SIDS vulnerabilities, governance capacities and sustainable human development frameworks, integrally linking environmental, economic and social assets. The project will target Caribbean in-and-out of school youth and will be implemented in partnership with private and public sector agencies at regional, national and subnational levels. This project supports strengthening capacities such as youth governance, economic enterprise, environment, creative industries, gender, culture and sports through the innovative use of media, internet-based, social networking modalities and youth empowerment strategies to enhance youth participation and communications across the Caribbean, its diaspora, Latin America and Italy (funder)."
+project_objective: "To establish an integrated programme that facilitates results and delivery of assistance to support Caribbean youth aged 15-29. The project strategically addresses SIDS vulnerabilities, governance capacities and sustainable human development frameworks, integrally linking environmental, economic and social assets. The project will target Caribbean in-and-out of school youth and will be implemented in partnership with private and public sector agencies at regional, national and subnational levels. This project supports strengthening capacities such as youth governance, economic enterprise, environment, creative industries, gender, culture and sports through the innovative use of media, internet-based, social networking modalities and youth empowerment strategies to enhance youth participation and communications across the Caribbean, its diaspora, Latin America and Italy (funder)."
 territorial_focus: SIDS
 undp_role_type: 
   - partnership_facilitator

@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - 
 region: 
-  - Asia & Pacific
+  - asia_pacific
 partner_type: 
   - 
 project_title: "Strengthening institutional capacity of the national parliament in Timor-Leste"

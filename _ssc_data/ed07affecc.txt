@@ -7,12 +7,12 @@ thematic_focus:
 host_location: 
   - TUR
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - private_sector
 project_title: "The Regional Water Partnership Initiative "Every Drop Counts""
 scale: national
-project_objective: " to provide the framework and a joint action plan for water-related programming in the countries of Europe and the CIS, with a particular focus on increased access to safe drinking water, facilitating the use of environmentally sound industrial technologies, and outreach and awareness raising activities to promote responsible water resource management. This Regional Public-Private Sector Partnership Initiative will initially focus on countries including Albania, Armenia, Azerbaijan, Bosnia and Herzegovina, Bulgaria, Croatia, Georgia, Kazakhstan, Kyrgyzstan, FYR of Macedonia, Moldova, Montenegro, Romania, Serbia, Tajikistan, Turkey, Turkmenistan and Uzbekistan as well as Russia, Ukraine and Belarus, that fall under the coverage area of UNDP-RBEC as well as Coca-Cola EMED."
+project_objective: "To provide the framework and a joint action plan for water-related programming in the countries of Europe and the CIS, with a particular focus on increased access to safe drinking water, facilitating the use of environmentally sound industrial technologies, and outreach and awareness raising activities to promote responsible water resource management. This Regional Public-Private Sector Partnership Initiative will initially focus on countries including Albania, Armenia, Azerbaijan, Bosnia and Herzegovina, Bulgaria, Croatia, Georgia, Kazakhstan, Kyrgyzstan, FYR of Macedonia, Moldova, Montenegro, Romania, Serbia, Tajikistan, Turkey, Turkmenistan and Uzbekistan as well as Russia, Ukraine and Belarus, that fall under the coverage area of UNDP-RBEC as well as Coca-Cola EMED."
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

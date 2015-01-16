@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - ALB
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - international_cooperation_/_development_agencies
   - national_governments
@@ -26,4 +26,4 @@ partner_location:
   - BGR
   - HRV
 ---
-UNDP facilitated knowledge exchange and capacity building: (1) UNDP gathered experience with community development projects targeting Roma from Serbia, Montenegro, Kosovo, and Slovakia. Evaluations and methodologies from these experiences were used for the implementation component. (2) a field visit to Bulgaria, Croatia or Serbia (facilitated by UNDP COs) will be organized for representatives of the Technical Secretariat for Roma, representatives of the local government units benefiting from the project and project staff. The aim of the study visit is to exchange experiences and become familiar with the approaches, strategies and methods used in other countries to tackle similar problems as they are part of the "Decade of Roma Inclusion" initiative. This was embedded at output 3.3.2. In 2008 Albania joined the regional initiative "Decade of Roma Inclusion" which aims to close the gap in welfare and living conditions between the Roma and non-Roma populations as well as putting an end to poverty and exclusion that many Roma find themselves in. Based on that Albania developed a national Decade Action Plan that specifics the goals and indicators in the areas of education, employment, health and housing.
+UNDP facilitated knowledge exchange and capacity building: (1) UNDP gathered experience with community development projects targeting Roma from Serbia, Montenegro, Kosovo, and Slovakia. Evaluations and methodologies from these experiences were used for the implementation component. (2) a field visit to Bulgaria, Croatia or Serbia (facilitated by UNDP COs) will be organized for representatives of the Technical Secretariat for Roma, representatives of the local government units benefiting from the project and project staff. The aim of the study visit is to exchange experiences and become familiar with the approaches, strategies and methods used in other countries to tackle similar problems as they are part of the 'Decade of Roma Inclusion' initiative. This was embedded at output 3.3.2. In 2008 Albania joined the regional initiative 'Decade of Roma Inclusion' which aims to close the gap in welfare and living conditions between the Roma and non-Roma populations as well as putting an end to poverty and exclusion that many Roma find themselves in. Based on that Albania developed a national Decade Action Plan that specifics the goals and indicators in the areas of education, employment, health and housing.

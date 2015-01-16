@@ -7,7 +7,7 @@ thematic_focus:
 host_location: 
   - SLB
 region: 
-  - Asia & Pacific
+  - asia_pacific
 partner_type: 
   - national_governments
 project_title: "Enhancing resilience of communities in Solomon Islands to the adverse effects of climate change in agriculture and food security"
@@ -18,4 +18,4 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
 ---
-Role of UNDP to be further specified; SSC exchange has not yet happened. It is stated in Outcome 3 that "by the end of the project, there will be an exchange of experience at regional level". Partners are still to be identified. From Solomon's side, the implementing agency is the Ministry of Environment Climate Change, Disaster Management and Meteorology (MECDM).
+Role of UNDP to be further specified; SSC exchange has not yet happened. It is stated in Outcome 3 that 'by the end of the project, there will be an exchange of experience at regional level'. Partners are still to be identified. From Solomon's side, the implementing agency is the Ministry of Environment Climate Change, Disaster Management and Meteorology (MECDM).

@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - URY
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - cso
 project_title: "Contributions to a new model towards youth policy"

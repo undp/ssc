@@ -5,13 +5,13 @@ thematic_focus:
 host_location: 
   - SDN
 region: 
-  - Africa
+  - africa
 partner_type: 
   - national_governments
   - cso
 project_title: "Enhancing South South Cooperation UNDP Sudan and Central Bank of Sudan Support Micro-finance Development in Somalia (workshop)"
 scale: national
-project_objective: " to introduce the basic principles of Islamic micro-finance and examine best practices in the region. In particular, the workshop will also help in plotting the future course of action for Somalia to institutionalize the micro-finance industry and integrate it in the recovery and development planning of the country. From Somalia, participants are selected from government officials who are engaged in micro-finance policies and active NGOs in the field of micro-finance. The workshop will be attended by representatives from neighbouring countries of Djibouti, Ethiopia and Kenya."
+project_objective: "To introduce the basic principles of Islamic micro-finance and examine best practices in the region. In particular, the workshop will also help in plotting the future course of action for Somalia to institutionalize the micro-finance industry and integrate it in the recovery and development planning of the country. From Somalia, participants are selected from government officials who are engaged in micro-finance policies and active NGOs in the field of micro-finance. The workshop will be attended by representatives from neighbouring countries of Djibouti, Ethiopia and Kenya."
 territorial_focus: Fragile State
 undp_role_type: 
   - knowledge_broker

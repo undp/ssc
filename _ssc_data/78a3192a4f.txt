@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - ETH
 region: 
-  - Africa
+  - africa
 partner_type: 
   - national_governments
 project_title: "South-South Cooperation on strengthening the infrastructure for Peace in Ethiopia. The Government of Ethiopia and UNDP have developed a robust partnership to strengthen the evolving architecture for peace. Central to this partnership is building national standing capabilities or infrastructures for peacebuilding and prevention"

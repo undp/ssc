@@ -7,12 +7,12 @@ thematic_focus:
 host_location: 
   - BLR
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - national_governments
 project_title: "Management of the Niemen River basin with account of adaptation to climate change"
 scale: national
-project_objective: " to improve of the integrated water resources management using the basin approach in the climate change context by the example of the Niemen River 
+project_objective: "To improve of the integrated water resources management using the basin approach in the climate change context by the example of the Niemen River 
 "
 territorial_focus: MIC
 undp_role_type: 

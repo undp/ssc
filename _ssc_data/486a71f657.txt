@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - SAU
 region: 
-  - Arab States
+  - arab_states
 partner_type: 
   - national_governments
 project_title: "Sustainable Development Policy & Planning"
 scale: national
-project_objective: " to support implementation and monitoring of the Ninth National Development Plan (NDP) (2010-14). This is a six-year (2011-2017) capacity building programme for the Ministry of Economy and Planning, aimed at supporting the recently published Ninth National Development Plan (NDP; 2010-14). While Saudi Arabia has witnessed significant progress on development indicators in recent years, a key focus for the Government and this project is on the need for sustainability of development results. As such this project focuses on three major outcomes related to the three pillars of sustainable development, and ten specific outputs for the first phase touching on issues highlighted in specific chapters in the 9th NDP.(1) Mainstreaming Sustainability into Development Policy: monitoring of 9th NDP implementation, design policies to diversify growth through regional development and knowledge economy, production of development reports such as MDG Reports and NHDR; and south-south cooperation. (2) Green Economy: strategies for enhancing efficiency of resource use and clean technologies for energy, water, mining, etc., and south-south cooperation opportunities. (3) Social Empowerment: strategies and policies for poverty reduction, including youth and women employment; research on social subsidies, and social safety nets."
+project_objective: "To support implementation and monitoring of the Ninth National Development Plan (NDP) (2010-14). This is a six-year (2011-2017) capacity building programme for the Ministry of Economy and Planning, aimed at supporting the recently published Ninth National Development Plan (NDP; 2010-14). While Saudi Arabia has witnessed significant progress on development indicators in recent years, a key focus for the Government and this project is on the need for sustainability of development results. As such this project focuses on three major outcomes related to the three pillars of sustainable development, and ten specific outputs for the first phase touching on issues highlighted in specific chapters in the 9th NDP.(1) Mainstreaming Sustainability into Development Policy: monitoring of 9th NDP implementation, design policies to diversify growth through regional development and knowledge economy, production of development reports such as MDG Reports and NHDR; and south-south cooperation. (2) Green Economy: strategies for enhancing efficiency of resource use and clean technologies for energy, water, mining, etc., and south-south cooperation opportunities. (3) Social Empowerment: strategies and policies for poverty reduction, including youth and women employment; research on social subsidies, and social safety nets."
 territorial_focus: HIC
 undp_role_type: 
   - capacity_builder

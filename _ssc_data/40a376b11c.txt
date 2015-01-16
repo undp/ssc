@@ -7,12 +7,12 @@ thematic_focus:
 host_location: 
   - CHN
 region: 
-  - Asia & Pacific
+  - asia_pacific
 partner_type: 
   - national_governments
 project_title: "Transfer of Renewable Energy Technologies from China and Africa: Ghana Renewable Energy Trilateral"
 scale: national
-project_objective: " to increase energy access through off-grid community-based electrification, identified by the Government of Ghana as one of its strategic investment priorities for national development. It will support Ghana as it develops and implements a new Renewable Energy Master Plan, and expands its capacity as a whole to use and manufacture renewable energy technologies."
+project_objective: "To increase energy access through off-grid community-based electrification, identified by the Government of Ghana as one of its strategic investment priorities for national development. It will support Ghana as it develops and implements a new Renewable Energy Master Plan, and expands its capacity as a whole to use and manufacture renewable energy technologies."
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

@@ -5,13 +5,13 @@ thematic_focus:
 host_location: 
   - IRQ
 region: 
-  - Arab States
+  - arab_states
 partner_type: 
   - national_governments
   - cso
 project_title: "Promoting Rule of Law in the Kurdistan Region of Iraq through a Modern, Efficient and Accountable Justice Sector"
 scale: national
-project_objective: " to address the intersecting needs and challenges facing the justice sector in Kurdistan through promoting rule of law and enhancing access to justice mechanisms. The project will focus on capacity development for the justice sector as well as enhancing citizen-government interface to ensure an efficient and responsive court and legal system. The project will focus on two axes; Enhancing the delivery of Justice through support for institutional development and court administration and enhancing access to justice through legal aid and legal empowerment. The project will look to be innovative in incorporating voice and accountability mechanisms, civil society oversight and broad participation and coordination among stakeholders. It will build on existing structures to ensure that what works best is re-adapted and replicated as well as examine and apply lessons learnt in project design and throughout implementation."
+project_objective: "To address the intersecting needs and challenges facing the justice sector in Kurdistan through promoting rule of law and enhancing access to justice mechanisms. The project will focus on capacity development for the justice sector as well as enhancing citizen-government interface to ensure an efficient and responsive court and legal system. The project will focus on two axes; Enhancing the delivery of Justice through support for institutional development and court administration and enhancing access to justice through legal aid and legal empowerment. The project will look to be innovative in incorporating voice and accountability mechanisms, civil society oversight and broad participation and coordination among stakeholders. It will build on existing structures to ensure that what works best is re-adapted and replicated as well as examine and apply lessons learnt in project design and throughout implementation."
 territorial_focus: Fragile State
 undp_role_type: 
   - knowledge_broker

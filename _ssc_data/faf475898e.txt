@@ -7,15 +7,15 @@ thematic_focus:
 host_location: 
   - UKR
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - 
 project_title: "Capacity Building for Low Carbon Growth in Ukraine"
 scale: national
-project_objective: " to support the government of Ukraine in steering the country on a low emission pathway for Ukraine's long-term economic development. The project goal is development of a long-term strategy of low carbon growth of Ukraine, that can be used by government of Ukraine to inform the formulation of its sectoral processes domestically, and internationally."
+project_objective: "To support the government of Ukraine in steering the country on a low emission pathway for Ukraine's long-term economic development. The project goal is development of a long-term strategy of low carbon growth of Ukraine, that can be used by government of Ukraine to inform the formulation of its sectoral processes domestically, and internationally."
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
 ---
-Although UNDP 's role in facilitating SSC/TrC is not directly mentioned, the project directly states that the UNDP will keep overall responsibility for the implementation of the project including all the administrative logistics. Also, the UNDP will develop a "project Lesson-learned Log" that will be regularly updated to ensure on-going learning and adaption within the organization, and to facilitate the preparation of the Lesson-learned Report. The strategic section of the project document mentions that the successful development and implementation of a low carbon growth strategy for Ukraine will serve as a proof of concept and will allow disseminating Ukraine's experience to other countries in the region. The methods used in the process of developing the low carbon growth strategy can be replicated; the lessons learned from the project will be shared with neighbouring countries. In addition, the experience learned from this process will be transferable to other countries with similar level of economic development, in particular amongst middle-income developing countries.
+Although UNDP 's role in facilitating SSC/TrC is not directly mentioned, the project directly states that the UNDP will keep overall responsibility for the implementation of the project including all the administrative logistics. Also, the UNDP will develop a 'project Lesson-learned Log' that will be regularly updated to ensure on-going learning and adaption within the organization, and to facilitate the preparation of the Lesson-learned Report. The strategic section of the project document mentions that the successful development and implementation of a low carbon growth strategy for Ukraine will serve as a proof of concept and will allow disseminating Ukraine's experience to other countries in the region. The methods used in the process of developing the low carbon growth strategy can be replicated; the lessons learned from the project will be shared with neighbouring countries. In addition, the experience learned from this process will be transferable to other countries with similar level of economic development, in particular amongst middle-income developing countries.

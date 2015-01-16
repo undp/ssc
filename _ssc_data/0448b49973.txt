@@ -5,13 +5,13 @@ thematic_focus:
 host_location: 
   - LBY
 region: 
-  - Arab States
+  - arab_states
 partner_type: 
   - 
   - national_governments
 project_title: "Support to Transitional Governance Structures in Libya"
 scale: national
-project_objective: " to provide targeted technical support to assist the Government to build the capacity of transitional governance structures. The project will prioritize initial capacity needs and priority activities in the following areas: • Support the decentralization process in a post-conflict situation; focusing on developing the governance capacities of local institutions in Libya to provide public services and initiate local area development programmes • Support the transitional authorities in implementing rule of law programmes with a view to restore public confidence in rule of law institutions • Support to broad-based processes for public representation and accountability including elections and constitution formulation"
+project_objective: "To provide targeted technical support to assist the Government to build the capacity of transitional governance structures. The project will prioritize initial capacity needs and priority activities in the following areas: • Support the decentralization process in a post-conflict situation; focusing on developing the governance capacities of local institutions in Libya to provide public services and initiate local area development programmes • Support the transitional authorities in implementing rule of law programmes with a view to restore public confidence in rule of law institutions • Support to broad-based processes for public representation and accountability including elections and constitution formulation"
 territorial_focus: Fragile State
 undp_role_type: 
   - partnership_facilitator

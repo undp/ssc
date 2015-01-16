@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - TZA
 region: 
-  - Africa
+  - africa
 partner_type: 
   - 
 project_title: "Pro-poor economic growth and environmentally sustainable development"
 scale: national
-project_objective: " to support the national efforts to reduce income poverty through promoting inclusive, sustainable and employment-enhancing growth by focusing on enhancing Tanzania's institutional capabilities for developing pro-poor growth and environmentally sustainable development policies and strategies. SSC will be facilitated on poverty reduction through regional meetings, twining assignments, workshops and other platforms."
+project_objective: "To support the national efforts to reduce income poverty through promoting inclusive, sustainable and employment-enhancing growth by focusing on enhancing Tanzania's institutional capabilities for developing pro-poor growth and environmentally sustainable development policies and strategies. SSC will be facilitated on poverty reduction through regional meetings, twining assignments, workshops and other platforms."
 territorial_focus: LDC
 undp_role_type: 
   - knowledge_broker

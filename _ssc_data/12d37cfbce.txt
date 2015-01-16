@@ -7,12 +7,12 @@ thematic_focus:
 host_location: 
   - WSM
 region: 
-  - Asia & Pacific
+  - asia_pacific
 partner_type: 
   - national_governments
 project_title: "Integration of Climate Change Risks and Resilience into Forestry Management in Samoa (ICCRIFS)"
 scale: national
-project_objective: " to provide technical advice of specific lowland and upland forestry and biodiversity, water resource management issues, and identification of drought tolerant crop species for agriculture. By addressing climate change and adaptation, the project will be implemented as a nexus of strong linkages between national stakeholders, regional organizations, and development partners. Partnerships with regional agencies, namely Secretariat for the Pacific Community (SPC), SPREP (Secretariat for the Pacific Regional Environment Programme), University of the South Pacific (USP) and Conservation Internationa (CI). 
+project_objective: "To provide technical advice of specific lowland and upland forestry and biodiversity, water resource management issues, and identification of drought tolerant crop species for agriculture. By addressing climate change and adaptation, the project will be implemented as a nexus of strong linkages between national stakeholders, regional organizations, and development partners. Partnerships with regional agencies, namely Secretariat for the Pacific Community (SPC), SPREP (Secretariat for the Pacific Regional Environment Programme), University of the South Pacific (USP) and Conservation Internationa (CI). 
 "
 territorial_focus: SIDS
 undp_role_type: 

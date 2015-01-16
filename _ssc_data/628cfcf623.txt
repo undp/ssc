@@ -5,14 +5,14 @@ thematic_focus:
 host_location: 
   - MNE
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - 
   - national_governments
   - cso
 project_title: "Social Welfare and Child Care System Reform: Enhancing Social Inclusion"
 scale: national
-project_objective: " to build and strengthen the institutional mechanisms and capacities that will enable development of community-based social services. The services will be responsive to the needs of vulnerable groups and will contribute to their social inclusion and quality of life. At national level, necessary steps for the establishment of a Social Innovation Fund (SIF) will be undertaken along with development of the capacities of Ministry of Labour and Social Welfare MLSW to plan, commission and manage decentralisation and introduction of community social services. This will include development of standards for community based services and development of institutional arrangements necessary for setting up community based services. At the local level the project will offer capacity development, expertise, on-going guidance both for all local actors, such as local authorities, CSOs, CSWs and eventually local employment bureaus and, if interested, the business sector, as well as to the service providers themselves, to enable them to provide standardised, quality social services to the vulnerable population.
+project_objective: "To build and strengthen the institutional mechanisms and capacities that will enable development of community-based social services. The services will be responsive to the needs of vulnerable groups and will contribute to their social inclusion and quality of life. At national level, necessary steps for the establishment of a Social Innovation Fund (SIF) will be undertaken along with development of the capacities of Ministry of Labour and Social Welfare MLSW to plan, commission and manage decentralisation and introduction of community social services. This will include development of standards for community based services and development of institutional arrangements necessary for setting up community based services. At the local level the project will offer capacity development, expertise, on-going guidance both for all local actors, such as local authorities, CSOs, CSWs and eventually local employment bureaus and, if interested, the business sector, as well as to the service providers themselves, to enable them to provide standardised, quality social services to the vulnerable population.
 "
 territorial_focus: MIC
 undp_role_type: 

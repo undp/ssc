@@ -7,7 +7,7 @@ thematic_focus:
 host_location: 
   - DOM
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - national_governments
 project_title: "Reducing Conflicting Water Uses in the Binational Artibonite River Basin trough the Development and Adoption of a Multi-focal Area Strategic Action Program"

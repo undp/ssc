@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - PER
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - national_governments
 project_title: "Strengthening the South American Network for textile and commercial standardization of natural fine hair from South American Camelids Alpaca in Argentina, Bolivia and Peru"

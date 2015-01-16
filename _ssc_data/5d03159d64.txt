@@ -13,13 +13,13 @@ host_location:
   - 
   - SRB
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - 
   - national_governments
 project_title: "The South Eastern and Eastern Europe Clearinghouse for the Control of Small Arms and Light Weapons (SEESAC)"
 scale: regional
-project_objective: " to enhance regional cooperation providing information sharing and local standard setting geared toward direct project formulation and implementation."
+project_objective: "To enhance regional cooperation providing information sharing and local standard setting geared toward direct project formulation and implementation."
 territorial_focus: MIC
 undp_role_type: 
   - partnership_facilitator

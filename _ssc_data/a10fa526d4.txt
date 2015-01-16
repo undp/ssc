@@ -7,7 +7,7 @@ thematic_focus:
 host_location: 
   - ROU
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - 
   - 
@@ -17,7 +17,7 @@ partner_type:
   - private_sector
 project_title: "Improving Energy Efficiency in Romania"
 scale: national
-project_objective: " to dismantle the barriers to the implementation of energy efficiency measures among poorer households and in poorer communities in Romania, working to alleviate fuel poverty. The project will act at a national and local level to address energy efficiency needs, develop appropriate policy measures, stimulate an on-going market for locally-produced, energy efficient building materials, build capacity for implementation of energy efficiency measures in poorer regions, and implement real energy efficiency improvements to improve the lives of 110,620 people in Romania and reduce energy-related greenhouse gas emissions by 666,800 tonnes of CO2eq."
+project_objective: "To dismantle the barriers to the implementation of energy efficiency measures among poorer households and in poorer communities in Romania, working to alleviate fuel poverty. The project will act at a national and local level to address energy efficiency needs, develop appropriate policy measures, stimulate an on-going market for locally-produced, energy efficient building materials, build capacity for implementation of energy efficiency measures in poorer regions, and implement real energy efficiency improvements to improve the lives of 110,620 people in Romania and reduce energy-related greenhouse gas emissions by 666,800 tonnes of CO2eq."
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

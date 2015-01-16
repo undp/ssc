@@ -5,13 +5,13 @@ thematic_focus:
 host_location: 
   - URY
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - 
   - national_governments
 project_title: "Support for implementation of the Country Programme 2011-2015"
 scale: national
-project_objective: " to support the implementation, monitoring and evaluation of the Country Programme signed between the Government, UNDP, and its corresponding Action Plan. Support the strategic positioning and consolidation of the Uruguayan Agency for International Cooperation with their respective products and activities under the document signed between the Chairman of the Board of the Uruguay Agency for International Cooperation and the United Nations System of Uruguay 
+project_objective: "To support the implementation, monitoring and evaluation of the Country Programme signed between the Government, UNDP, and its corresponding Action Plan. Support the strategic positioning and consolidation of the Uruguayan Agency for International Cooperation with their respective products and activities under the document signed between the Chairman of the Board of the Uruguay Agency for International Cooperation and the United Nations System of Uruguay 
 "
 territorial_focus: HIC
 undp_role_type: 

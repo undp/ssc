@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - BOL
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - national_governments
 project_title: "Technical Assistance to the Ministry of Government in the formulation of strategies and citizen security projects and conflict prevention"

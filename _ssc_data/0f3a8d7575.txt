@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - 
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - national_governments
 project_title: "Support to Anti-Corruption Efforts in Kosovo"
 scale: national
-project_objective: " to build bridges between local government and young people by utilizing the potential of social media platforms and mobile phone technologies. UNDP will support municipalities in using social media tools to make local government more attractive, approachable and open for youth."
+project_objective: "To build bridges between local government and young people by utilizing the potential of social media platforms and mobile phone technologies. UNDP will support municipalities in using social media tools to make local government more attractive, approachable and open for youth."
 territorial_focus: Fragile State
 undp_role_type: 
   - knowledge_broker

@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - BRA
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - national_governments
 project_title: "Support to the implementation the PFAs (partnership framework agreements) in LAC"
 scale: national
-project_objective: " to support both UNDP offices in their efforts to implement their respective PFAs, taking into account the country specificities and UNDP commitments acquired in the above mentioned PFAs. This engagement will bring innovative and catalytic solutions adapted to each country context, with a focus on building capacity in the CO to build on existing relations and leverage new and innovative partnerships for development and SSC in the case of Brazil, and on supporting the effective implementation of south south and triangular cooperation schemes in the case of Mexico."
+project_objective: "To support both UNDP offices in their efforts to implement their respective PFAs, taking into account the country specificities and UNDP commitments acquired in the above mentioned PFAs. This engagement will bring innovative and catalytic solutions adapted to each country context, with a focus on building capacity in the CO to build on existing relations and leverage new and innovative partnerships for development and SSC in the case of Brazil, and on supporting the effective implementation of south south and triangular cooperation schemes in the case of Mexico."
 territorial_focus: MIC
 undp_role_type: 
   - partnership_facilitator

@@ -32,7 +32,7 @@ class Start
       "project_objective": project.project_objective,
       "scale": @normalise_scale(project.scale),
       "host_location": @normalise_location(project.location),
-      "region": project.region,
+      "region": @normalise_region(project.region),
       # SSC intervention
       "undp_role_type": @normalise_undp_role_type(project.undp_role_type),
       "thematic_focus": @normalise_thematic_focus(project.thematic_focus),
@@ -61,18 +61,36 @@ class Start
     scale.toLowerCase()
 
   normalise_location: (location) ->
-    @host_location = _.map(@split(location), (i) =>
+    @host_location = _.map(@splitComma(location), (i) =>
       @match_country_name(i)
     )
 
+  normalise_region: (region_text) ->
+    return unless region_text
+    regions = [
+      {name: 'Latin America & Caribbean', short: 'lac'},
+      {name: 'Africa', short: 'africa'},
+      {name: 'Asia & Pacific', short: 'asia_pacific'},
+      {name: 'Arab States', short: 'arab_states'},
+      {name: 'Europe & CIS', short: 'europe_cis'},
+      {name: 'ECIS', short: 'europe_cis'}
+    ]
+    _.map(@splitComma(region_text), (term) ->
+      matched = _.filter(regions, (region) ->
+        region.name.match(region_text)
+      )
+      if matched[0]
+        matched[0].short
+    )
+
   normalise_undp_role_type: (data) ->
-    _.map(@split(data), (i) ->
+    _.map(@splitComma(data), (i) ->
       _.str.underscored(i)
     )
 
   normalise_thematic_focus: (data) ->
     themes = ['Sustainable development', 'Resilience building', 'Inclusive and effective democratic governance']
-    _.map(@split(data), (term) =>
+    _.map(@splitComma(data), (term) =>
       matched = _.filter(themes, (theme) ->
         term.match(theme)
       )
@@ -91,14 +109,14 @@ class Start
 
   normalise_partner_type: (data) ->
     partner_types = ['International cooperation / development agencies', 'Regional / inter-governmental organizations', 'National governments', 'Sub-national governments', 'CSO', 'Academia', 'Private sector']
-    _.map(@split(data), (term) =>
+    _.map(@splitComma(data), (term) =>
       matched = _.filter(partner_types, (type) ->
         term.match(type)
       )
       @justWords(_.str.underscored(matched[0]))
     )
 
-  split: (data) ->
+  splitComma: (data) ->
     return unless data
     data.split(',').map (i) ->
       i.replace(/^\s+|\s+$/g,"")

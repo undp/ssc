@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - MLI
 region: 
-  - Africa
+  - africa
 partner_type: 
   - 
   - 

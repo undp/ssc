@@ -5,14 +5,14 @@ thematic_focus:
 host_location: 
   - UKR
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - 
   - 
   - national_governments
 project_title: "Community Based Approach to Local Development"
 scale: national
-project_objective: " to promote sustainable socio-economic development at local level by strengthening participatory governance and encouraging community-based initiatives throughout Ukraine. Specific objectives of the Project are to: promote community based approach to local governanceand sustainable development; enhance energy efficiency at local level; support the creation of the locally owned and managed repository and network of good practices and knowledge on community mobilization and participatory governance."
+project_objective: "To promote sustainable socio-economic development at local level by strengthening participatory governance and encouraging community-based initiatives throughout Ukraine. Specific objectives of the Project are to: promote community based approach to local governanceand sustainable development; enhance energy efficiency at local level; support the creation of the locally owned and managed repository and network of good practices and knowledge on community mobilization and participatory governance."
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

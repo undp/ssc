@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - EGY
 region: 
-  - Arab States
+  - arab_states
 partner_type: 
   - national_governments
 project_title: "Enhance Efficiency & Accountability of the Public Sector project is a multi-level intervention where e-Governance solutions are applied in order to increase efficiency and accountability of Public Sector's processes, improve the delivery of services to the citizen, and enhance coordination among different government entities"
 scale: national
-project_objective: " to provide technical support to the national counterpart, the Ministry of State for Administrative Development (MSAD), with regard to the following focus areas: 1) Integration of national databases to enhance inter-agency coordination 2) Modernization of existing Personnel Offices on the model of Human Resources offices, 3) Enhancement of Government to citizen services and establishment of new channels for service provision, 4) Communication strategy to promote the use of e-Government services, 5) Enhancement of MSAD South-South cooperation strategy on e-Government."
+project_objective: "To provide technical support to the national counterpart, the Ministry of State for Administrative Development (MSAD), with regard to the following focus areas: 1) Integration of national databases to enhance inter-agency coordination 2) Modernization of existing Personnel Offices on the model of Human Resources offices, 3) Enhancement of Government to citizen services and establishment of new channels for service provision, 4) Communication strategy to promote the use of e-Government services, 5) Enhancement of MSAD South-South cooperation strategy on e-Government."
 territorial_focus: MIC
 undp_role_type: 
   - capacity_builder

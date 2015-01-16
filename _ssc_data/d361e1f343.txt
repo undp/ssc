@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - THA
 region: 
-  - Asia & Pacific
+  - asia_pacific
 partner_type: 
   - national_governments
 project_title: "Promoting Energy Efficiency in Commercial Buildings (PEECB) in Thailand"
 scale: national
-project_objective: " to promote and facilitate the widespread application of building energy efficiency technologies and practices in commercial buildings in Thailand, with three key outcomes: 1) Enhance Awareness of the government, building sector, and banks, on EE technologies and practices; 2) Effective implementation of favourable policies that encourage EE technologies and practices for commercial building in Thailand; 3) Replication of demonstration projects within the commercial building sector."
+project_objective: "To promote and facilitate the widespread application of building energy efficiency technologies and practices in commercial buildings in Thailand, with three key outcomes: 1) Enhance Awareness of the government, building sector, and banks, on EE technologies and practices; 2) Effective implementation of favourable policies that encourage EE technologies and practices for commercial building in Thailand; 3) Replication of demonstration projects within the commercial building sector."
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

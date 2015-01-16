@@ -7,7 +7,7 @@ thematic_focus:
 host_location: 
   - UKR
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - international_cooperation_/_development_agencies
   - national_governments
@@ -15,7 +15,7 @@ partner_type:
   - private_sector
 project_title: "Initial Implementation of Accelerated HCFC Phase Out in the CEIT Region"
 scale: national
-project_objective: " to address the ODS focal area’s strategic programme, which is aimed at phasing out of HCFC (from production and consumption) and strengthening of capacities and institutions in participating countries. More specifically, this is in reference with the GEF Focal Area Strategy and Strategic Programming for GEF-4 document on Ozone (GEF/C, 31/10 May 11, 2007), which contains the following main objective: 
+project_objective: "To address the ODS focal area’s strategic programme, which is aimed at phasing out of HCFC (from production and consumption) and strengthening of capacities and institutions in participating countries. More specifically, this is in reference with the GEF Focal Area Strategy and Strategic Programming for GEF-4 document on Ozone (GEF/C, 31/10 May 11, 2007), which contains the following main objective: 
 · For the period of GEF-4, the GEF will assist eligible countries in meeting their HCFC phase out 
 obligations under the Montreal Protocol, and strengthening capacities and institutions in those countries 
 that still are faced with difficulties in meeting their reporting obligations. 

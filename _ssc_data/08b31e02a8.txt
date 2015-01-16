@@ -5,13 +5,13 @@ thematic_focus:
 host_location: 
   - SRB
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - national_governments
   - cso
 project_title: "Strengthening the accountability of the Serbian Parliament"
 scale: national
-project_objective: " to develop the capacity of scrutiny teams; to improve Parliament's outreach to citizens with emphasis on oversight/scrutiny mechanisms and to pilot successful outreach mechanisms in local assemblies; to develop a system for real-time tracking of the State budget expenditure in the Parliament. Objective: to strengthen the oversight/scrutiny function, transparency and efficiency of the National Assembly of the Republic of Serbia and the representative role of local assemblies. The robust monitoring of the executive by the parliament is an indicator of good governance. Besides the parliament's legislative function, it is through oversight that the parliament can ensure a balance of power and assert its role in presenting people's interests."
+project_objective: "To develop the capacity of scrutiny teams; to improve Parliament's outreach to citizens with emphasis on oversight/scrutiny mechanisms and to pilot successful outreach mechanisms in local assemblies; to develop a system for real-time tracking of the State budget expenditure in the Parliament. Objective: to strengthen the oversight/scrutiny function, transparency and efficiency of the National Assembly of the Republic of Serbia and the representative role of local assemblies. The robust monitoring of the executive by the parliament is an indicator of good governance. Besides the parliament's legislative function, it is through oversight that the parliament can ensure a balance of power and assert its role in presenting people's interests."
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

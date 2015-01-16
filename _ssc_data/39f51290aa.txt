@@ -7,7 +7,7 @@ thematic_focus:
 host_location: 
   - GUY
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - 
   - national_governments

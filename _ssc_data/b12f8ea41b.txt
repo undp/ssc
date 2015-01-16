@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - EGY
 region: 
-  - Arab States
+  - arab_states
 partner_type: 
   - national_governments
 project_title: "(Request for proposal) Egyptian Agency for Partnership and Development"
 scale: national
-project_objective: " to effectively and strategically advance South-South cooperation in Egypt. The Egyptian Government took the decision to set up The Egyptian Agency for Partnership and Cooperation (EAPC) in September 2013, under the chairmanship of the Minister of Foreign Affairs."
+project_objective: "To effectively and strategically advance South-South cooperation in Egypt. The Egyptian Government took the decision to set up The Egyptian Agency for Partnership and Cooperation (EAPC) in September 2013, under the chairmanship of the Minister of Foreign Affairs."
 territorial_focus: MIC
 undp_role_type: 
   - capacity_builder

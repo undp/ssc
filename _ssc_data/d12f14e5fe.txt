@@ -7,7 +7,7 @@ thematic_focus:
 host_location: 
   - MNE
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - 
   - national_governments
@@ -15,7 +15,7 @@ partner_type:
   - academia
 project_title: "Strengthening the sustainability of the protected area system of Montenegro"
 scale: national
-project_objective: " to contribute to achieving global environmental benefits by mitigating the threats to the biodiversity contained in at least 108,866 ha of protected areas of Montenegro. This will be achieved by overcoming the barriers that prevent the effective management of the terrestrial protected area system, by extending and enhancing the protection status to at least 21,000 ha, and by creating the enabling conditions for the establishment of a new Marine Protected Area in Montenegro."
+project_objective: "To contribute to achieving global environmental benefits by mitigating the threats to the biodiversity contained in at least 108,866 ha of protected areas of Montenegro. This will be achieved by overcoming the barriers that prevent the effective management of the terrestrial protected area system, by extending and enhancing the protection status to at least 21,000 ha, and by creating the enabling conditions for the establishment of a new Marine Protected Area in Montenegro."
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

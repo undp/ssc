@@ -5,14 +5,14 @@ thematic_focus:
 host_location: 
   - HRV
 region: 
-  - ECIS
+  - europe_cis
 partner_type: 
   - cso
   - academia
   - private_sector
 project_title: "Programme Development of the European Centre for Cross-Sector Partnership (IMPACT)"
 scale: national
-project_objective: " to further develop the capacities of the IMPACT Centre to become a civil society organizations' knowledge centre."
+project_objective: "To further develop the capacities of the IMPACT Centre to become a civil society organizations' knowledge centre."
 territorial_focus: HIC
 undp_role_type: 
   - knowledge_broker

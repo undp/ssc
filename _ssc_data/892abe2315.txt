@@ -11,7 +11,7 @@ host_location:
   - 
   - BRB
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - 
   - 

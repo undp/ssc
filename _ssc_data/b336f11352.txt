@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - ZAF
 region: 
-  - Africa
+  - africa
 partner_type: 
   - national_governments
 project_title: "Enhanced Social Protection Framework"
 scale: national
-project_objective: " to contribute to the government's efforts for enhancing inclusive growth through programmatic interventions that support the realization of government's national development outcomes and its long-term, National Development Plan: Vision for 2030."
+project_objective: "To contribute to the government's efforts for enhancing inclusive growth through programmatic interventions that support the realization of government's national development outcomes and its long-term, National Development Plan: Vision for 2030."
 territorial_focus: MIC
 undp_role_type: 
   - capacity_builder

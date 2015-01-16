@@ -5,12 +5,12 @@ thematic_focus:
 host_location: 
   - IND
 region: 
-  - Asia & Pacific
+  - asia_pacific
 partner_type: 
   - national_governments
 project_title: "Policy and Capacity Development"
 scale: national
-project_objective: " to assist national governments in the global South towards mainstreaming human development in planning processes and policy making. In partnership with the International Centre for Human Development (IC4HD) in India in collaboration with Ministry of Human Resource Development and Indian Institute of Advanced Study (IIAS)"
+project_objective: "To assist national governments in the global South towards mainstreaming human development in planning processes and policy making. In partnership with the International Centre for Human Development (IC4HD) in India in collaboration with Ministry of Human Resource Development and Indian Institute of Advanced Study (IIAS)"
 territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker

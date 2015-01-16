@@ -9,7 +9,7 @@ host_location:
   - 
   - 
 region: 
-  - Latin America & Caribbean
+  - lac
 partner_type: 
   - 
   - national_governments

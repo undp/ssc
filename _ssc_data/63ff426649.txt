@@ -12,11 +12,11 @@ host_location:
   - SLB
   - 
 region: 
-  - Asia & Pacific
+  - asia_pacific
 partner_type: 
 project_title: "Portfolio Learning in International Waters with a Focus on Oceans, Coasts and Islands and Regional Asia/Pacific and Coral Triangle Learning Processes"
 scale: global
-project_objective: " to foster structured learning, information sharing, collaboration and replication across GEF’s International Waters portfolio through the IW:LEARN network, with a particular focus on the Asia Pacific Coral Triangle Initiative, involving the Governments of Indonesia, Malaysia, Papua New Guinea, Philippines, Solomon Islands, Timor Leste. The project incorporates a global component aimed at advancing the oceans, coasts and small island developing states targets of the 2002 Johannesburg Plan of Implementation, and at addressing emerging challenges such as climate change impacts and improved governance of marine areas beyond national jurisdiction."
+project_objective: "To foster structured learning, information sharing, collaboration and replication across GEF’s International Waters portfolio through the IW:LEARN network, with a particular focus on the Asia Pacific Coral Triangle Initiative, involving the Governments of Indonesia, Malaysia, Papua New Guinea, Philippines, Solomon Islands, Timor Leste. The project incorporates a global component aimed at advancing the oceans, coasts and small island developing states targets of the 2002 Johannesburg Plan of Implementation, and at addressing emerging challenges such as climate change impacts and improved governance of marine areas beyond national jurisdiction."
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
