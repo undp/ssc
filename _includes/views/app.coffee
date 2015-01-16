@@ -9,23 +9,24 @@ class app.views.App extends Backbone.View
   render: ->
     compiled = @template()
     @$el.html(compiled)
-    @$el.find('#mr_table').dataTable({
-      data: @collection.toJSON(),
-      responsive: true,
-      columns: [{
-        data: 'undp_role_type',
-        title: 'Role'
-      }, {
-        data: 'region',
-        title: 'Region'
-      }, {
-        data: 'open_project_id',
-        title: 'Project ID'
-      }, {
-        data: 'host_location',
-        title: 'Location'
-      }, {
-        data: 'partner_type',
-        title: 'Partners'
-      }, ]
-    })
+
+    @$el.find('#mr_table').dataTable(@table_options())
+
+  table_options: =>
+    data: @collection.toJSON(),
+    columns: [{
+      data: 'open_project_id',
+      title: 'Open Project ID'
+    }, {
+      data: 'undp_role_type',
+      title: 'Role'
+    }, {
+      data: 'region',
+      title: 'Region'
+    }, {
+      data: 'host_location',
+      title: 'Location'
+    }, {
+      data: 'partner_type',
+      title: 'Partners'
+    }]

@@ -4,6 +4,6 @@ Router = Backbone.Router.extend
   
   # As a place as any to start
   root: ->
-    projects = new Projects(ssc_data)
+    window.projects = new Projects(ssc_data)
     @view = new app.views.App(collection: projects)
 
