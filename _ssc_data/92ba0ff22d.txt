@@ -7,7 +7,7 @@ host_location:
 region: 
   - africa
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "The India-Brazil-South Africa (IBSA) partnership - Project on Leadership Development and Institutional Capacity Building in Sierra Leone"
 scale: national

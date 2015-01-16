@@ -1,13 +1,13 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - PAK
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - private_sector
 project_title: "Barrier Removal to the cost-effective development and implementation of Energy efficiency Standards and Labeling is a regional project being implemented in six countries of Asia region, namely, Pakistan, Bangladesh, Indonesia, China, Thailand, and Vietnam. The regional project management unit (RPMU) is located in China"

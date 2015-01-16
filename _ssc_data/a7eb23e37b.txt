@@ -7,7 +7,7 @@ host_location:
 region: 
   - africa
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Enhancing the rule of law in Seychelles through the strenghtening of monitoring and oversight capacity of the judiciary"
 scale: national

@@ -1,13 +1,13 @@
 ---
 open_project_id: "00047784"
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - RUS
 region: 
   - europe_cis
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
   - cso
   - private_sector

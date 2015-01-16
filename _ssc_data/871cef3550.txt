@@ -1,13 +1,13 @@
 ---
 open_project_id: "00051472"
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - BRB
 region: 
   - lac
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
   - 
   - cso

@@ -1,13 +1,13 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - PAK
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Sustainable Development through Peace Building, Governance and Economic Recovery in Khyber Pakhtunkhwa/FATA"
 scale: national

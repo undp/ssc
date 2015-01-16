@@ -2,14 +2,12 @@
 open_project_id: "00061990"
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - TZA
 region: 
   - africa
 partner_type: 
-  - international_cooperation_/_development_agencies
+  - international_cooperation_development_agencies
   - national_governments
   - cso
   - academia

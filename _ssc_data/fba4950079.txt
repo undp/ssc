@@ -1,13 +1,13 @@
 ---
 open_project_id: "00074217"
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - MEX
 region: 
   - lac
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
 project_title: "Amexcin Cooperation Program"
 scale: national

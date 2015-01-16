@@ -2,8 +2,6 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - COK
   - FJI
@@ -22,8 +20,8 @@ host_location:
 region: 
   - asia_pacific
 partner_type: 
-  - 
-  - 
+  - regional_inter_governmental_organizations
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Pacific Adaptation to Climate Change (PACC) programme involves 14 Pacific island counties"
 scale: regional

@@ -1,13 +1,13 @@
 ---
 open_project_id: "00060163"
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - TKM
 region: 
   - europe_cis
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - cso
 project_title: "Purposeful strengthening and expanding of qualified services on TB diagnostics and treatment in Turkmenistan"

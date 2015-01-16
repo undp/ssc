@@ -7,7 +7,7 @@ host_location:
 region: 
   - arab_states
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Support to Transitional Governance Structures in Libya"
 scale: national

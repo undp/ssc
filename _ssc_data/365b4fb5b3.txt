@@ -1,13 +1,13 @@
 ---
 open_project_id: "00057096"
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - TJK
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
 project_title: "Sustaining agricultural biodiversity in the face of climate change in Tajikistan"
 scale: national

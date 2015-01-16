@@ -7,7 +7,7 @@ host_location:
 region: 
   - lac
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Strengthening South-South Cooperation"
 scale: national

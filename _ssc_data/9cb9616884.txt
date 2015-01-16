@@ -7,7 +7,7 @@ host_location:
 region: 
   - lac
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Joint Programme Conflict Prevention and Peace Building"
 scale: national

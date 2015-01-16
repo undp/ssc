@@ -2,15 +2,13 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - TGO
 region: 
   - africa
 partner_type: 
-  - 
-  - 
+  - regional_inter_governmental_organizations
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Strengthening the role of conservation of the national system of protected areas in Togo (Renforcement du rôle de conservation du système national d'aires protégées au Togo)"
 scale: national

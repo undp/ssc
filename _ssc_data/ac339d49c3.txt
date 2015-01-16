@@ -1,13 +1,13 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - LAO
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
 project_title: "Enabling an Effective Integration of Laos Into Asean III"
 scale: national

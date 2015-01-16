@@ -1,14 +1,14 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - 
 region: 
   - asia_pacific
 partner_type: 
-  - 
-  - 
+  - regional_inter_governmental_organizations
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Capacity development for development effectiveness (CDDE) facility for Asia and Pacific"
 scale: regional

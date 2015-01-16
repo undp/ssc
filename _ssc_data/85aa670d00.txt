@@ -7,7 +7,7 @@ host_location:
 region: 
   - arab_states
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - cso
 project_title: "Family Protection, Support, Justice and Security for Survivors of Domestic and Gender Based Violence"

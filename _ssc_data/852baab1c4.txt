@@ -7,7 +7,7 @@ host_location:
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
 project_title: "Articulating Territorial and Thematic Networks for Local Governance and developpment (ART GOLD) is an umbrella program that provides technques, instruments and financial resources for advancing of decentralization"
 scale: national
 project_objective: ""

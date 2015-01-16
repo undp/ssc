@@ -7,7 +7,7 @@ host_location:
 region: 
   - europe_cis
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Parliamentary Development Support Programme"
 scale: national

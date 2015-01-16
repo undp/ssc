@@ -2,15 +2,13 @@
 open_project_id: "00061005"
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - ROU
 region: 
   - europe_cis
 partner_type: 
-  - 
-  - 
+  - regional_inter_governmental_organizations
+  - international_cooperation_development_agencies
   - national_governments
   - cso
   - academia

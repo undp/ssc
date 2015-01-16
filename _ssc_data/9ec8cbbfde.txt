@@ -2,15 +2,13 @@
 open_project_id: "00063035"
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - UGA
 region: 
   - africa
 partner_type: 
-  - 
-  - 
+  - regional_inter_governmental_organizations
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Ecosystem Based Adaptation in Mountain Ecosystems"
 scale: national

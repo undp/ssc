@@ -7,7 +7,7 @@ host_location:
 region: 
   - lac
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - academia
 project_title: "Promotion of Access to Justice through the implementation of the Criminal Procedure Code"

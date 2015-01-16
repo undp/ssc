@@ -1,13 +1,13 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - JAM
 region: 
   - lac
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Mainstreaming Migration in National Development Strategies Project"
 scale: national

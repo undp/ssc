@@ -1,15 +1,14 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - NER
 region: 
   - africa
 partner_type: 
   - national_governments
-project_title: "Building local capacity to achieve MDG 5 through South / South cooperation (Renforcement des capacités locales pour la réalisation de l'OMD5 à travers la coopération Sud/Sud). To support Niger in achieving MDG 5 UNDP Niger since 2006 has supported the recruitment and placement of UNV surgeons and midwives in nine health districts of the forty - two in the country to strengthen the capacity of maternal health services and reproductive locally
-"
+project_title: "Building local capacity to achieve MDG 5 through South / South cooperation (Renforcement des capacités locales pour la réalisation de l'OMD5 à travers la coopération Sud/Sud). To support Niger in achieving MDG 5 UNDP Niger since 2006 has supported the recruitment and placement of UNV surgeons and midwives in nine health districts of the forty - two in the country to strengthen the capacity of maternal health services and reproductive locally"
 scale: national
 project_objective: ""
 territorial_focus: LDC

@@ -2,14 +2,12 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - CHN
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - cso
   - academia

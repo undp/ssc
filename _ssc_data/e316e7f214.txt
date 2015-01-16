@@ -2,14 +2,12 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - KAZ
 region: 
   - europe_cis
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - private_sector
 project_title: "Improving the Climate Resiliency of Kazakhstan Wheat and Central Asian Food Security"

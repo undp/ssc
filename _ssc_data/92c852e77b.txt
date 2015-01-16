@@ -2,14 +2,12 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - HTI
 region: 
   - lac
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Frontera Verde GEF – Artibonite Project"
 scale: national

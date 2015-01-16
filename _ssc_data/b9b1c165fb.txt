@@ -2,15 +2,13 @@
 open_project_id: "00059392"
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - MNE
 region: 
   - europe_cis
 partner_type: 
-  - 
-  - 
+  - regional_inter_governmental_organizations
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Environment and Security Initiative (ENVSEC) - Transforming Environmental and Security Risks into Cooperation in South East Europe region"
 scale: national

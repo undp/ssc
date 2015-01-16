@@ -2,14 +2,12 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - CUB
 region: 
   - lac
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Mainstreaming and sustaining Biodiversity Conservation in three Productive Sectors of the Sabana Camagüey Ecosystem"
 scale: national

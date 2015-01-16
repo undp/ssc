@@ -2,14 +2,12 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - CUB
 region: 
   - lac
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "CPP P5 - Country Pilot Partnership on Sustainable Land Management - Supporting Implementation of the Cuban National Programme to Combat Desertification and Drought - Coordination, Monitoring and Evaluation of Cuba Country Pilot Partnership on sustainable Land Management"
 scale: national

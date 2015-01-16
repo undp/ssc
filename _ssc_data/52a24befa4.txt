@@ -2,14 +2,12 @@
 open_project_id: "00056497"
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - KEN
 region: 
   - africa
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
 project_title: "Peace Support Operation Training and Institute Capacity Enhancement at the International Peace Support Training Centre (IPSTC)"
 scale: national

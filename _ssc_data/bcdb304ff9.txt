@@ -1,13 +1,13 @@
 ---
 open_project_id: "00058785"
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - SYR
 region: 
   - arab_states
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Integrated Community Development for Up-scaling the MDG's"
 scale: national

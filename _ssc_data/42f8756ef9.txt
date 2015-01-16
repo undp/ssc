@@ -1,13 +1,13 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - 
 region: 
   - lac
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
 project_title: "UNDP Project Youth Innovation (Youth-IN): A Caribbean Network for Youth Development Project in CARICOM and Member States"
 scale: regional

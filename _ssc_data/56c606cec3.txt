@@ -2,14 +2,12 @@
 open_project_id: "00051479"
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - BRB
 region: 
   - lac
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - 
   - national_governments
   - cso

@@ -7,8 +7,8 @@ host_location:
 region: 
   - arab_states
 partner_type: 
-  - 
-  - 
+  - regional_inter_governmental_organizations
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "The Court of Auditors: a tool of transparency and trust in public management (La cour des comptes: outil de transparence et de confiance dans la gestion publique)"
 scale: national

@@ -10,7 +10,7 @@ host_location:
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - academia
 project_title: "South-South cooperation for the implementation of gender sensitive social protection floors at country level project by ILO/SU-SSC (UNDP)"

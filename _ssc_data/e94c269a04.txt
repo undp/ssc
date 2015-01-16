@@ -1,14 +1,14 @@
 ---
 open_project_id: "00062550"
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - MLI
 region: 
   - africa
 partner_type: 
-  - 
-  - 
+  - regional_inter_governmental_organizations
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Support to Reinforcement of National Capacities (Projet d'Appui au Renforcements de Capacités Nationales (PARC)"
 scale: national

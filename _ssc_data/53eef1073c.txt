@@ -1,13 +1,13 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - 
 region: 
-  - ,
+  - arab_states,africa
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
   - private_sector
 project_title: "Arab Business Forum for Sustainable Development and Green Economy in the Arab region"

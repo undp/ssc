@@ -2,14 +2,12 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - AZE
 region: 
   - europe_cis
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Further Strengthening and Expansion of the Mine Action Capacity in Azerbaijan"
 scale: national

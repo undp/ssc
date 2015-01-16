@@ -2,14 +2,12 @@
 open_project_id: "00060592"
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - MUS
 region: 
   - africa
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Integrated Water Management"
 scale: national

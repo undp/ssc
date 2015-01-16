@@ -2,14 +2,12 @@
 open_project_id: "00060850"
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - RUS
 region: 
   - europe_cis
 partner_type: 
-  - international_cooperation_/_development_agencies
+  - international_cooperation_development_agencies
   - national_governments
   - cso
   - academia

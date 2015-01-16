@@ -2,14 +2,12 @@
 open_project_id: "00049750"
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - VNM
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
 project_title: "Building Capacity to Eliminate POPs (Persistent Organic Pollutants) Pesticides Stockpiles in Vietnam"
 scale: national

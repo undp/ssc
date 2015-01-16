@@ -2,14 +2,12 @@
 open_project_id: "00060792"
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - UKR
 region: 
   - europe_cis
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
 project_title: "Transforming the Market for Efficient Lighting"
 scale: national
 project_objective: "To help transform the market towards more energy efficient lighting technologies by removing barriers which will contribute to the goal of reducing greenhouse gas emissions. Actions will be taken by the project to promote a gradual phase-out of inefficient lighting products in residential and public buildings. Global Environmental Facility participation in pilot projects at schools will remove existing barriers in seven pilot cities/municipalities and provide for the replication of defined approaches and measures in other major cities of Ukraine."

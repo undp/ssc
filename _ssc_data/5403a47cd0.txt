@@ -7,7 +7,7 @@ host_location:
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
 project_title: "Strengthening institutional capacity of the national parliament in Timor-Leste"
 scale: national
 project_objective: ""

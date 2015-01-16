@@ -7,7 +7,7 @@ host_location:
 region: 
   - lac
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
 project_title: "Institutional and operational strengthening of the Chamber of Accounts of the Dominican Republic"
 scale: national

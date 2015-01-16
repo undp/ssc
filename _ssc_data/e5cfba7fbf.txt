@@ -7,7 +7,7 @@ host_location:
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
 project_title: "Strengthening Participatory Federalism and Decentralization"
 scale: national

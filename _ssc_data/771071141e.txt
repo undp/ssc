@@ -1,13 +1,13 @@
 ---
 open_project_id: "00059850"
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - ALB
 region: 
   - europe_cis
 partner_type: 
-  - international_cooperation_/_development_agencies
+  - international_cooperation_development_agencies
   - national_governments
   - cso
 project_title: "Empowering Vulnerable Local Communities of Albania"

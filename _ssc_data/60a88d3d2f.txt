@@ -1,13 +1,13 @@
 ---
 open_project_id: "00061038"
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - MYS
 region: 
   - asia_pacific
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - academia
   - private_sector

@@ -2,8 +2,6 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-  - 
-  - 
 host_location: 
   - NPL
 region: 

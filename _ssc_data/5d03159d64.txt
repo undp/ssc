@@ -15,7 +15,7 @@ host_location:
 region: 
   - europe_cis
 partner_type: 
-  - 
+  - regional_inter_governmental_organizations
   - national_governments
 project_title: "The South Eastern and Eastern Europe Clearinghouse for the Control of Small Arms and Light Weapons (SEESAC)"
 scale: regional

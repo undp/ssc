@@ -7,7 +7,7 @@ host_location:
 region: 
   - africa
 partner_type: 
-  - international_cooperation_/_development_agencies
+  - international_cooperation_development_agencies
   - national_governments
   - cso
   - academia

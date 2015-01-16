@@ -1,13 +1,13 @@
 ---
 open_project_id: "00061133"
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - MNE
 region: 
   - europe_cis
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - cso
 project_title: "Social Welfare and Child Care System Reform: Enhancing Social Inclusion"

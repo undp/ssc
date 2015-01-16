@@ -1,7 +1,7 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - sustainable_development
+  - 
 host_location: 
   - CUB
   - SLV
@@ -15,7 +15,7 @@ host_location:
 region: 
   - 
 partner_type: 
-  - 
+  - international_cooperation_development_agencies
   - national_governments
   - private_sector
 project_title: "The Global Fund to Fight AIDS, Tuberculosis and Malaria"
