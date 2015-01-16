@@ -1,0 +1,1 @@
+class Project extends Backbone.Model
