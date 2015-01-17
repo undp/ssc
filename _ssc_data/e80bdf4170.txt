@@ -15,5 +15,6 @@ territorial_focus: LDC, Fragile State, MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 Cayman Islands assessed Montserrat’s emergency telecom needs and defined a solution for the Montserrat’s Disaster Management Coordination Agency and specific emergency telecommunication infrastructures (VHF radios) were re-programmed to allow interconnectivity between the country’s agencies. UNDP manages the project and coordinates activities

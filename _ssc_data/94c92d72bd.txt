@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - partnership_facilitator
 partner_location: 
+published: true
 ---
 UNDP facilitates partnerships by identifying and designing trilateral cooperation projects in the third countries in Africa. (facilitator of partnerships)

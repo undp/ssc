@@ -19,5 +19,6 @@ partner_location:
   - ARG
   - PER
   - HND
+published: true
 ---
 UNDP supported capacity building and transfer of knowledge through the following activities: (1) transfer of methodology for measuring carbon from soil crusts, evaluation methods of biodiversity assessment and living standards of local communities from Argentina to Cuba; (2) exchange of experiences between Cuba and Peru on sustainable land management projects, new ways of introduction of early warning systems against extreme weather events and the ways of extending the results of good sustainable land management practices in areas outside of the project demonstration sites; (3) counseling and methodology transfer for land degradation and national mapping was organized from Cuba to Honduras.

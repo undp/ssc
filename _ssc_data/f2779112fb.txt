@@ -16,5 +16,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - MEX
+published: true
 ---
 UNDP facilitates transfer of knowledge from El Salvador to Haiti. The Programme was first successfully implemented and integrated into public policy in Mexico. Its experience and methodology were then transferred to El Salvador where it also became public policy and the methodology was further shared with Haiti. UNDP organizes the exchange of experiences between the Ministry of Economy from El Salvador and Ministry of Trade and Industry from Haiti for the development of the value chain through the Suppliers Development Programme. 16 consultants from Haiti were trained on the methodology and supporting 34 Haitian enterprises in the pilot phase. 3 values chains have been officially launched in Port au Prince, Cap Haitien and Nippes. 

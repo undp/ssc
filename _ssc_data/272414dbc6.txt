@@ -17,5 +17,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - TUR
+published: true
 ---
 UNDP facilitated partnership and knowledge transfer from Turkey to Kosovo on protected area management and sustainable forest management. Additionally, there are funding opportunities in the EU for regional economic development, human rights and agricultural development. (Partnership)

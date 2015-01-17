@@ -15,5 +15,6 @@ territorial_focus: HIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP provides technical assistance and capacity building for the Slovak experts by seconding the Slovak experts and young professionals on a mid-term or long-term basis to those UNDP Country Offices that would be of special interest to the Slovak government. Slovak - UNDP Trust Fund was created.

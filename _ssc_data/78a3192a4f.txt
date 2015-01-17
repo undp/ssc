@@ -15,5 +15,6 @@ territorial_focus: LDC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP facilitated knowledge sharing between Ethiopian and Ghanaian policy makers and practitioner on strengthening infrastructure for peace. The level of participation from Ethiopia demonstrated the consistent commitment of the government of Ethiopia to peacebuilding as a strategic policy intervention to inclusive and equitable development. (Knowledge)

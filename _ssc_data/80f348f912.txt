@@ -16,5 +16,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP will provide technical assistance and capacity building. The project strengthens the actions of South-South Cooperation (SSC) and triangular cooperation (TrC) through a strategy that seeks to: (i) improve the capacity to promote South-South cooperation and technical capacity within Presidential Agency for International Cooperation, (ii) strengthen the management of knowledge for South-South cooperation and triangular cooperation, and (iii) strengthen the presence of sidential Agency for International Cooperation in the context of CSS and TC strategies in priority regions by the Government

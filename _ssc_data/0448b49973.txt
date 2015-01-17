@@ -17,5 +17,6 @@ undp_role_type:
   - partnership_facilitator
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will facilitate partnerhsip and knowledge exchanges of Libyan officials in the South-South framework. UNDP will assist in gathering best practices and comparative experiences on local governance and decentralization, elections and constitution drafting.

@@ -18,6 +18,7 @@ territorial_focus: SIDS
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP's role in this programme is to assist the participating Pacific countries in the development and dissemination of best practice for building national and local capacity for IWRM; Facilitating transfer of IWRM regional practice from one PIC to another; Identification and documentation of existing small island IWRM practice at different scales;
 and Facilitation of regional coordination on IWRM issues (Knowledge, partnership and capacity)

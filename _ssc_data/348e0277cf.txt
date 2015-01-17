@@ -18,5 +18,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - ECU
+published: true
 ---
 UNDP organized and facilitated knowledge sharing between Bolovia and Ecuador: Bolivia shared with Ecuador’s National Secretariat of Disaster Risk Reduction its experience on establishment of the National Disaster Observatory. As a result, the National Disaster Observatory was created in Ecuador; guidelines for post-disasters recovery were prepared.

@@ -16,5 +16,6 @@ undp_role_type:
   - partnership_facilitator
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will help establish thematic partnership networks in several domaines of local development (south-south, north-south-south, north-south): sharing best practices, think tanks, scientific alliances. Output 3: 3.1.2 Formalisation of international partnerships, establishment and consolidation of partnerships among local authotiees (north-south, south-south). (knowlege and partnership)

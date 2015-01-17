@@ -20,5 +20,6 @@ partner_location:
   - DJI
   - ETH
   - KEN
+published: true
 ---
 This workshop is an example of a good practice of South-South cooperation by taking Sudan Islamic microfinance experience as a model, and links UNDP Somalia with the appropriate knowledge, resources, and micro-finance actors from neighbouring countries such as Djibouti, Ethiopia and Kenya.

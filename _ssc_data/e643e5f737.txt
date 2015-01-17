@@ -16,5 +16,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will act as knowledge broker: the project will foster cooperation and application of the relevant expertise from the new EU member states of similar experience. This would enable provision of the support that fits particularly well with the transition context. In general, it is also government’s preference to benefit from the relevant experience of the EU integration from the new member states of Baltic and Eastern European counterparts.

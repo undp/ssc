@@ -17,5 +17,6 @@ undp_role_type:
   - capacity_builder
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will facilitate knowledge sharing and capacity building through study tours for the National Elections Commission (NEC) staff to countries and institutions in order to provide most relevant examples on improving electoral institutions processes and laws. This will further strengthen the capacity of the NEC staff. (knowlege and capacity)

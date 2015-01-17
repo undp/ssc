@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP manages the budget provided by Brazilian government according to its procedures and rules. Together with CTPD/ABC, it develops the activities mentioned in the work plan and manages the project. In addition, UNDP organizes capacity building initiatives.

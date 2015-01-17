@@ -18,5 +18,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 In the project document, UNDP Romania will transfer and disseminate lessons learned and knowledge concerning the project to other neighbouring countries (Carpathian countries). Additionally UNDP will identify other regional and global experiences in order to optimize knowledge exchange between the CNPAs. It will also develop a 'virtual learning community' in order to help CNPAs document and experiences and lessons and facilitate the transfer of knowledge to the neighbouring regions (CNPAs).

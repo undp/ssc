@@ -15,5 +15,6 @@ project_objective: "To contribute to enhance the development of the cotton indus
 territorial_focus: Fragile State
 undp_role_type: 
 partner_location: 
+published: true
 ---
 Role of UNDP to be defined

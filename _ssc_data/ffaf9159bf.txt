@@ -16,5 +16,6 @@ undp_role_type:
   - capacity_builder
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP assisted in development of technical capacities in the state Ministries of Physical infrastructure strengthened to undertake/oversee public infrastructure investments (Activity result 2.5) by facilitating South‐South cooperation and sharing of experiences through participation of four Ministry of Housing and Public Utilities technical staff in a training event on Urban and Housing Development in Cape Town, South Africa. (capacity and knowledge)

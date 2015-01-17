@@ -24,5 +24,6 @@ partner_location:
   - BOL
   - HND
   - ARG
+published: true
 ---
 UNDP facilitated the exchange of experiences between Ecuador, Peru, Colombia, Chile, Bolivia, Honduras and Argentina on information systems for risk management, vulnerability and mechanisms of risk reduction. As a result, a network of professionals from participating countries was established. An information platform on disaster risks CAPRA (Probabilistic Risk Assessment Program) was established in the Drinking Water Enterprise of the Municipality of Quito (EPMAPS). Training was organized for representatives of this public company to ensure sustainability of the action in time.

@@ -17,5 +17,6 @@ territorial_focus: HIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 Through the Centre for Cross-Sector Partnership, UNDP facilitates knowledge exchange and regional cooperation on empowering grass-root organizations, local governments, and businesses from South East European countries to create enabling legal and institutional framework for partnerships based on international best practices. (Knowledge)

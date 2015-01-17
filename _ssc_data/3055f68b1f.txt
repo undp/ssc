@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP will provide capacity building and facilitate knowledge exchange to assist the Government of Egypt to enhance the Ministry of State for Administrative Development (MSAD) South-South Cooperation strategy on e-Government. Knowledge sharing on e-Government with African countries is among MSAD priorities in order to lead the track related to ICT to better service delivery. (Capacity development and knowledge)

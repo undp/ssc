@@ -17,5 +17,6 @@ undp_role_type:
 partner_location: 
   - ARG
   - BOL
+published: true
 ---
 UNDP provides technical assistance to strengthening of the South American Network for textile and commercial standardization of natural fine hair from South American Camelids Alpaca in Argentina, Bolivia and Peru.

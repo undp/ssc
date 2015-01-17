@@ -19,5 +19,6 @@ partner_location:
   - HUN
   - SVN
   - EST
+published: true
 ---
 UNDP facilitated the knowledge exchange on environmental management at the local level. With this aim, study trips to Hungary, Slovenia and Estonia were organized.

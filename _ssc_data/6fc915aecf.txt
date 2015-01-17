@@ -18,5 +18,6 @@ undp_role_type:
 partner_location: 
   - MEX
   - COL
+published: true
 ---
 UNDP was a knowledge broker between (1) Cuba and Mexico, assisting to develop a joint bio filtration process of distillery stillage alcohol for reducing the pollution load of the waste stream; (2) Cuba, Costa Rica, México, Colombia and Venezuela - as a result, graduate course in Cuba: 'Use of riverine macro invertebrates as indicators of water quality and eutrophication of reservoirs.' was introduced.

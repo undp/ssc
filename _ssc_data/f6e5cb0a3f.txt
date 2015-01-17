@@ -16,5 +16,6 @@ undp_role_type:
   - partnership_facilitator
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP facilitates partnership and dialogue among territories, promotes South South and triangular cooperation for introducing mechanisms of aid efficiency. As a result, international and decentralized cooperation, South South Cooperation will be developed through: identification of national and international partners; organizing exchange visits and sharing of experience; signing of partnership agreements with international cooperation structures (Outcome 5.2.)

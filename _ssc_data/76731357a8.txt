@@ -20,5 +20,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - ZMB
+published: true
 ---
 UNDP facilitates knowledge transfer and provides capacity building. It helps China strengthen the impact of SSC on renewable energies, and brings Zambia a step closer toward its goal of broader rural electrification by removing legal and market barriers to the transfer and use of renewable technologies. (Knowledge and capacity)

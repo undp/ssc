@@ -15,5 +15,6 @@ territorial_focus: Fragile State
 undp_role_type: 
   - partnership_facilitator
 partner_location: 
+published: true
 ---
 Role of UNDP to be further specified; SSC exchange has not yet happened. It is stated in Outcome 3.2 that 'the potential for regional cooperation opportunities is to be assessed'. Possible collaboration partners include other countries willing to discuss and contribute Involvement of Council of Regional Organizations in the Pacific (CROP)for technical support

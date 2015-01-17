@@ -18,5 +18,6 @@ undp_role_type:
 partner_location: 
   - BRA
   - GTM
+published: true
 ---
 UNDP facilitates and coordinates experience exchange activities between the countries. Experts from Brazil and Guatemala visited Argentina and assimilated the creation and implementation of the Consultorios Amigables para la Diversidad Sexual. Activities included meetings and exchange visits with national officials of provincial (San Juan) and municipal agencies (San Martin).

@@ -18,5 +18,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP’s Special Unit for South-South Cooperation acts as the fund manager and board of directors’ secretariat

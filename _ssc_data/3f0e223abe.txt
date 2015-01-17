@@ -17,5 +17,6 @@ undp_role_type:
   - capacity_builder
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will promote innovative partnerhips, provide capacity building and facilitate knowledge exchange. UNDP will also strengthen its own internal capacity to support national policies and SSC initiatives and to support the government in its own institutional strengthening, by providing high technical advice and advocacy, developing toolkits and tested successful knowledge products, and promoting innovative partnerships for development and access to best practices, amongst others. This will be done taking into consideration the characteristics of both countries and stages of SSC institutional capacity, with different emphasis for each country.

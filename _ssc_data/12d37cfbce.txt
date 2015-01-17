@@ -16,5 +16,6 @@ territorial_focus: SIDS
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will support sharing knowledge on adaptation practices through regional and global platforms and events. Indicative activities: (1) incorporation of project lessons learnt in the Adaptation Learning Mechanism (ALM), the SPREP Climate Change Portal, MNRE website and other appropriate web-based platforms; (2) Sharing of project results in relevant regional events related to forestry management and climate change adaptation. Indicator: Project experience and KM materials are presented in at least 2 national workshops, 2 regional events, and in at least 2 international web-based platforms 

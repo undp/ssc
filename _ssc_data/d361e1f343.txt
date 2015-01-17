@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 The regional countries that will participate in SSC/TrC are unspecified. However, UNDP's role in facilitating knowledge sharing as a regional coordinating unit is stated in the document. UNDP/GEF shall provide a format and assist the project team in categorizing, documenting and reporting on lessons learned. These lessons will be shared widely throughout DEDE – and MOEN – to help develop and initiate ongoing projects and new initiatives. Such mechanism for sharing will include newsletter, websites, and technical and general publications.

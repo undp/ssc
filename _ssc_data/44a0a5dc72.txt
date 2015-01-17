@@ -17,5 +17,6 @@ undp_role_type:
   - partnership_facilitator
 partner_location: 
   - ARG
+published: true
 ---
 UNDP facilitates partnership and coordinates SSC between Argentina and Haiti. Through UNDP, Argentina provides technical assistance to the Government of Haiti. UNDP also provides management support for the implementation of some components.

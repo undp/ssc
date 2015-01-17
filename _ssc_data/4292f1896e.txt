@@ -17,5 +17,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 Policy Support Programme to promote policy reforms through research, dialogue, consensus building, knowledge management and partnerships between the government and academia, policy think tanks, civil society and regional/international experts.

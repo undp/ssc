@@ -19,5 +19,6 @@ undp_role_type:
 partner_location: 
   - BEN
   - NER
+published: true
 ---
 The Project is funded by West African Economic and Monetary Union. UNDP will help Togo develop prerequisites to be able to join in the coming years the initiative for the conservation of biodiversity led by Burkina Faso, Benin and Niger in partnership EU, WAEMU and UNDP. (facilitator of partnerships)

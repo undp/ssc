@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 The role of UNDP is to cooperate with the national implementing partner and provide technical assistance in realizing the planning, monitoring and evaluation of this projects. Many of the specific expected results of this comprehensive programme can also draw on lessons learned from good practises of development cooperation from the wider programme coverage UNDP has in over 170 countries. Particularly in developing results based project management and capcaity for monitoring and evaluation of Brazil's SSC efforts. As needed, UNDP will also make available its mechanisms and instruments of building partnerships with other UN and international agencies, private sector and other stakeholders. UNDP will also help ABC in recruitment and procurement of services for the project, give access to UNDP's international information networks as well as the CO network.UNDP assists in the capacity building, information exchange, recruitment of human resources and may engage partner country offices for additional support. UNDP also coordinates with national agencies and other relevant agencies. It has a M&E role, as well as procurement and budgetary obligations. UNDP is part of the Steering committee in charge of monitoring the project's progress.

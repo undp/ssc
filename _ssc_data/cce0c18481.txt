@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
 partner_location: 
   - EST
+published: true
 ---
 Government of Estonia funds the project in Georgia. UNDP role needs to be defined.

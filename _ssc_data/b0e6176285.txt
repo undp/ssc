@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 In this project, UNDP will strengthen national capacities of the Government of Turkey as an emerging donor, through the capacity development of TIKA (the Turkish Agency for Development). UNDP will promote the leadership of Turkey's emerging donor role within the international development architecture and will contribute to the capacity development of TIKA in preparing and managing Turkey's development assistance programmes, in order to increase the effectiveness of Turkish Official Development Assistance (ODA) in line with the 'Paris Declaration Principles'. (Capacity development)

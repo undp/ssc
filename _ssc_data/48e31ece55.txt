@@ -16,5 +16,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - KEN
+published: true
 ---
 UNDP will facilitate access to knowledge. Similar activities within the country or region will be approached to learn from their experiences (e.g. the Weather Information for Development (WIND) initiative in Kenya). Lessons and experiences in other parts of Africa will be assessed for their potential to upscale e.g. using innovative techniques to communicate agrometeorological advisories.

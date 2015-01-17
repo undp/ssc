@@ -18,5 +18,6 @@ undp_role_type:
 partner_location: 
   - UKR
   - ROU
+published: true
 ---
 The UNDP will implement SSC by hiring consultants from local and international sources including neighbouring countries specifically Ukraine and Romania.

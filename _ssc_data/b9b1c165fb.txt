@@ -17,5 +17,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 In this regional programme, UNDP will facilitate the knowledge exchange and lessons learned from the participating countries through SEE networks. (knowledge)

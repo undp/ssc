@@ -16,5 +16,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 In this programme, UNDP will facilitate the knowledge transfer on Gender Equality Law implementation between gender mechanisms in Bosnia and Herzegovina (BIH) and Montenegro with the aim to further encourage partnership and contribute to alignment and coherence of best practices and lessons learned capitalizing on each other’s strengths;

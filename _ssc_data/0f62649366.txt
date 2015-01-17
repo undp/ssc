@@ -18,5 +18,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - BOL
+published: true
 ---
 UNDP facilitates partnership and exchanges between Bolivia and Peru (Arequipa Government) on elaboration of a rain early recovery framework at the provincial and regional level. It also provides technical assistance to the project.

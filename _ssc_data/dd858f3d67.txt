@@ -21,5 +21,6 @@ partner_location:
   - MAR
   - DZA
   - PRT
+published: true
 ---
 The project promotes the court's active contribution of to regional networks to promote the principles of transparency and integrity, through: (1) participation of the Court of Auditors in the meetings and work of INTOSAI; (2) Strengthening partnerships and twinning operations with similar control of the institutions; (3) participation of the Court of Auditors cycles organized training by international organizations and regional International Organisation of Supreme Audit Institutions (INTOSAI) and Arab Organization of Supreme Court Institutions (ARABOSAI); (4) organizing infromation visits to similar supreme audit institutions of Morocco, Algeria, Portugal; (5) organizing a conference on South-South cooperation.

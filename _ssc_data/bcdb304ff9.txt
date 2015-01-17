@@ -16,5 +16,6 @@ territorial_focus: Fragile State
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will utilize South-South Cooperation modalities in the use of expertise and comparative experiences (accordint to ProDoc)

@@ -18,5 +18,6 @@ partner_location:
   - BDI
   - RWA
   - UGA
+published: true
 ---
 UNDP will provide technical assistance in removing barriers to market transformation of energy efficient products and services in Kenya and facilitate this project's replication in to 4 other East African Community (EAC) countries of Burundi, Rwanda, Tanzania and Uganda.

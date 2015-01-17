@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will facilitate the exchange of experience. Output 2: Enhancing biodiversity contribution to Green Economy, sustainable livelihoods and job creation through promotion of tourism, conservation agriculture climate change adaptation methodologies and exchange of experiences among communities through tours and workshops.

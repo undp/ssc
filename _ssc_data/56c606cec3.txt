@@ -20,5 +20,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - CUB
+published: true
 ---
 UNDP will serve as knowledge broker and capacity developer. UNDP Barbados and the OECS Sub-regional Office (SRO) have taken a lead position in advancing disaster risk management among the ten countries served and the Caribbean as a whole. The SRO has been one of the two focal offices along with UNDP Cuba for the CRMI. This five-year US$2.35M initiative has three original objectives, these being: 1) Increased capacity for climate change adaptation, 2) Risk reduction and climate change adaptation integrated into development, 3) Increased investment in climate risk reduction projects. This initiative has focused on knowledge sharing and building linkages across Caribbean institutions; capacity development and advancing the linkages between climate change and disaster risk reduction. (Knowledge broker and capacity developer)

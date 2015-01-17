@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP will provide capacity development. To support the Agency, UNDP in Egypt seeks to contract a Training Institute or company to provide EAPD staff with a solid foundation on Project Cycle Management and Results-Based Management. (Capacity Development)

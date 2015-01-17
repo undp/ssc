@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 In this programme, UNDP will facilitate study tours to a country from the region in order for the Ministry of Justice to make an informed decision on its new setup, a decision which will very much shape future operations of the Ministry.

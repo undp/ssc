@@ -16,5 +16,6 @@ territorial_focus: SIDS
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 In the Results and Resources Framework, one of the key activities states that UNDP will organize and facilitate a study tour to a neighbouring country to gain insights on the functioning of such country’s system of judicial monitoring and evaluation. (Facilitator)

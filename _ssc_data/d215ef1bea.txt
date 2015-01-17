@@ -28,5 +28,6 @@ partner_location:
   - BLR
   - TJK
   - UZB
+published: true
 ---
 In this project, UNDP is to establish a regional information exchange and networking system in order to address barriers associated with incomplete knowledge and awareness related to legislative and policy options for HCTC phase-out and control. The regional networking will assist participating countries (Belarus, Tajikistan, Ukraine and Uzbekistan) share implementation experience, consistency and cross-border impacts related to HCFC control measures. Additionally, the Networking will be implemented through exchanges between countries on implementation experience, consistency and cross border impacts related to import/export issues and related enforcement. It is expected that one cross fertilization workshop will take place per year which will allow for all participants to learn from successes and challenges in order to facilitate(facilitator role)

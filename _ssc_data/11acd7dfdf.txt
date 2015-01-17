@@ -17,5 +17,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - HTI
+published: true
 ---
 UNDP facilitated cooperation and knowledge exchange between Dominican Republic and Haiti, and provided technical support for the design of the binational watershed management plan and the Strategic Action Plan of the Artibonite river. Support to different sector stakeholders from both countries in the identification of common interest development plans, such as the energy and the agriculture sectors, which have expansion and development plans within the watershed. As result of this support, bilateral agreements have been produced. As a result, bilateral dialogue and coordination between the Dominican Republic and Haiti authorities from the Ministries of Environment were strengthened.

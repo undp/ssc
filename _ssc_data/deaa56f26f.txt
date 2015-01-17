@@ -14,5 +14,6 @@ project_objective: "To produce four broad outputs in four broad areas: access to
 territorial_focus: MIC
 undp_role_type: 
 partner_location: 
+published: true
 ---
 Role of UNDP to be defined

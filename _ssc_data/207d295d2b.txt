@@ -27,5 +27,6 @@ project_objective: ""
 territorial_focus: 
 undp_role_type: 
 partner_location: 
+published: true
 ---
 UNDP assisted in the establishmented of a MFP newtwork in order to assist the participating countries in exchanging and sharing of information in order to contribute to the capacity building in the areas of policy analysis and advocacy within national programmes, governments and partners.

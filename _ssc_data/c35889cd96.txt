@@ -16,5 +16,6 @@ undp_role_type:
   - capacity_builder
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will facilitate knowledge exchange and capacity building to promote South-south cooperation on climate change and equity issues. For this purpose, cooperation will be established with government officer training institutes in South Asia, South East Asia and Africa through seminars; workshops; exchange programs and exposure visits (Output 2).

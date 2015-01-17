@@ -16,5 +16,6 @@ undp_role_type:
   - capacity_builder
   - knowledge_broker
 partner_location: 
+published: true
 ---
 In context of SSC, the project will advance strategic partnership with emerging economies. Triangular Partnerships for exchange of learning and experiences on electoral administration and management enhanced for SAARC and other developing countries -Capacities of national and international Election Management Body (EMB) officials enhanced for inclusive voter participation through Election Commission of India and India International Institute of Democracy and Election Management (IIIDEM)

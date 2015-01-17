@@ -19,5 +19,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 In the document, it states that UNDP will actively and explicitly purse SSC as a key element of its value added to Nigeria and response to expressed interest by national partners in potential opportunities for SSC. Areas of interest include trade and investment, fiscal federalism, aid coordination, promotion of peace and conflict resolution, in partnership with relevant international and national institutions. However not targets or indicators on SSC where mentioned in the RRF (Knowledge broker)

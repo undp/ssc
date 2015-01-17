@@ -20,5 +20,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - SRB
+published: true
 ---
 In this programme, UNDP will provide technical assistance to SIF for optimal management and project’s results. Expert with first hand SIF experience will help to utilize the best regional experiences and lessons learnt, advice project management unit how to develop the quality granting mechanism, prepare selection criteria and monitoring and evaluation tools. Further, to learn from the first hand experience, UNDP will facilitate study visit to SIF’s supported projects/services in Serbia. (knowledge and capacity development)

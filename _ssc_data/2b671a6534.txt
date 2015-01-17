@@ -18,5 +18,6 @@ undp_role_type:
 partner_location: 
   - CHN
   - KHM
+published: true
 ---
 UNDP will help develop capacity to eliminate continued importation is needed on both the demand side, to reduce and ultimately eliminate demand for such pesticides, and on the supply side, to eliminate the source of the pesticides. Supply-side management will require bilateral cooperation with neighbouring states, China, Lao PDR and Cambodia. Output 3.4: Bilateral task forces between Vietnamese border provinces and their Chinese counterparts (initially with China, and subsequently, if necessary, with Laos PDR and Cambodia) to eliminate illegal importation of POPs pesticides. (knowledge and partnership)

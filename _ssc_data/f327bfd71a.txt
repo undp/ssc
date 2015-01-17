@@ -17,5 +17,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 How the UNDP will facilitate SSC/TrC is again unspecified. However, the document emphasizes that increased policy dialogue, technical cooperation and sharing of experience between Thailand and selected countries in Africa, Latin America and Asia will occur to support SSC initiatives.

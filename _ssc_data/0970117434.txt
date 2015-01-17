@@ -16,5 +16,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - KHM
+published: true
 ---
 UNDP facilitates knowledge sharing. The UNDP and Khoun Radio team participated in a knowledge sharing event in Cambodia, “Consultation on Indigenous Language Radio and Community Media” on the 13th December 2011 and gave a presentation on government supported community media. The supported community radio project received first prize in the “Excellence on Knowledge Sharing” category at the Regional Bureau for Asia and the Pacific 2011 Director Awards in Delhi.

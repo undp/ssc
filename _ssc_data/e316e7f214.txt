@@ -22,5 +22,6 @@ partner_location:
   - UZB
   - TKM
   - AFG
+published: true
 ---
 UNDP will facilitate partnership, engaging Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Turkmenistan and Afghanistan to identify policy makers and develop a common vision and understanding regarding the possible implications of climate variability and change of wheat and food security in the region and to identify actions that can be taken individually or collectively to respond.

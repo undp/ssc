@@ -16,5 +16,6 @@ territorial_focus: SIDS
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP facilitated information and knowledge exchange on the establishment and functioning of parliamentarian structures for gender equality and for promoting a gender equality agenda at the Congress level. A Parliamentary Group for the Promotion of Gender Equality and Women’s Rights was established. UNDP hosted a one week exchange workshop and promoted further virtual exchange with participants.

@@ -16,5 +16,6 @@ undp_role_type:
   - partnership_facilitator
 partner_location: 
   - KHM
+published: true
 ---
 UNDP facilitates partnership between China and Cambodia, using its relationship with MOFCOM and in-depth knowledge of China's aid history and current priorities to ensure that communication between partners is relevant and targeted. UNDP China also uses its networks within China to connect project partners with the most appropriate Chinese technical expertise. (facilitator of partnerships)

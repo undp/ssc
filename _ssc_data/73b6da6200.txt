@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will assist knowledge management and knowledge sharing, in-country, inter-regionally and internationally, and support technical, institutional and operational capacities of national institutions engaged in the subject. The Programme will assist and facilitate the government to establish and improve relations with external stakeholders, including attempting to establish more south-south cooperation with other regional governments and peer judicial institutions, including information sharing, cooperation and consultation, strengthening national capacity to work with other donors, and participatory planning, monitoring and evaluation

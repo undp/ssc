@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will conduct two study tours to Latin America and the Asia Pacific region, which have been successful in applying the Results Based Management (RBM) models, in order for the Egyptian counterparts to examine the degree to which RBM has fostered a results culture within national entities, increased aid effectiveness and enhanced capacity to achieve development results. (Knowledge facilitator)

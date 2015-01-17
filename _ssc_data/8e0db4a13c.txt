@@ -26,5 +26,6 @@ partner_location:
   - GUY
   - JAM
   - URY
+published: true
 ---
 UNDP will support knowledge transfer from Chile to Guatemala, Honduras, Paraguay, Mali, Lebanon, Costa Rica, Panama, Dominican Republic, El Salvador, Nicaragua, Guyana, Jamaica, Trinidad & Tobago and Uruguay. Using South-South Cooperation strategies, Chile will share its experience on economic and social development, as well as the design, implementation and assessment of public policies. The Fund will also support nutritional initiatives in countries such as Honduras and Guatemala through technical assistance and training; the purpose is to efficiently respond to demands of different nature, in a timely manner while focusing in those areas where the Chilean experience against hunger and poverty may be used as a good practice for other countries.
