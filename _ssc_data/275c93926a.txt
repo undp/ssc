@@ -17,5 +17,6 @@ undp_role_type:
 partner_location: 
   - COL
   - BRA
+published: true
 ---
 UNDP supports the development of mechanisms for export of services in the Export Processing Zones in Colombia, Brazil Program, and Peru.

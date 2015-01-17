@@ -15,5 +15,6 @@ territorial_focus: SIDS
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP facilitated exchange and knowledge brokering to transfer Paraguay’s experience to Dominican Republic on expanding technical capacities of monitoring the social spending and social programs (“Invertir en la Gente' programme ). This project allows for the construction of databases, data analysis, communication, advocacy and citizen oversight of social spending in the national budget.

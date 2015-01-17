@@ -15,5 +15,6 @@ territorial_focus: LDC
 undp_role_type: 
   - partnership_facilitator
 partner_location: 
+published: true
 ---
 UNDP facilitated partnership between Kyrgyz Republic and Rissua, which co-funds the programme. UNDP implements it (partnership)

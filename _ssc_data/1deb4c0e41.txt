@@ -18,5 +18,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - BEN
+published: true
 ---
 UNDP facilitated partnership and knowledge exchange between Haiti, Dominican Republic and Benin, provides technical support in organizing and monitoring of activities. Workshops were organized to present best practices. Main SSC activities: (1) bi-national workshops between Haiti and Dominican Republic on the fight against tuberculosis; (2) participation of three TB departmental coordinators from Haiti in a five-week training on TB-HIV co-infection and TB drug resistant patients in Benin; (3) UNDP has supported Haitian and Dominican Republic National Programmes to fight against TB on the harmonization of the TB case management guidelines between the two countries; (3) UNDP sponsored an operational research on the prevalence of Haitian pregnant women working/leaving/trespassing the border with Dominican Republic; (4) Bi-national workshop on EMTCT (planned for 2014)

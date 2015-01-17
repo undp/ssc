@@ -17,5 +17,6 @@ undp_role_type:
   - partnership_facilitator
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP facilitates partnership, knowledge exchange and capacity building. The programme will seek to enrich the management capacities of the national authorities through the exchange of national experiences, and exchange visits of experts. Countries in the region will be encouraged to exploit opportunities for triangular cooperation for development. Emphasiz will b placed on systematization and dissemination of good practices. (facilitate partnerships and exchange of knowledge)

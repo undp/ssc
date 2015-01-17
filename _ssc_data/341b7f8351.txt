@@ -17,5 +17,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - KHM
+published: true
 ---
 UNDP acts as partnerships facilitator and knowledge broker supporting strategic liaison and coordination with the Government of China and other involved Chinese Institutions. UNDP China works closely with UNDP Cambodia to ensure the achievement of South-South objectives in this trilateral project. UNDP China will also work with the Chinese government on identifying and mobilizing international experts for this trilateral cooperation.

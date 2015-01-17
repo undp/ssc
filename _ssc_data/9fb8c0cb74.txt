@@ -16,5 +16,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - GUM
+published: true
 ---
 UNDP will act as knowledge broker. The project is structured around a partnership between the Georgian parliament and the Eastern European, Baltic and Nordic parliaments; including GUAM countries and those with a similar history to Georgia but now members of the European Union, and countries that are longstanding advanced democracy. The partnerships will provide access to expertise and capacity-development opportunities for both parliamentarians and staff. A target plan will be developed for legislative exchanges and provision of legislative expert advice to Parliament of Georgia in the priority areas of the project.

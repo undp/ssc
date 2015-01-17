@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 SSC/TrC exchange has yet to occur. However, in accordance with the project's objective, the Outcome mentions that the project's results will be used as a precedence to implement integrating a disaster risk reduction strategy into the overall national development agenda. In addition, findings from the project will enable incoming study tours for other selected countries and international agencies for mutual review of mitigation and disaster management experience and demonstration of Uzbekistan's own sustained efforts.

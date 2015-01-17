@@ -18,5 +18,6 @@ partner_location:
   - BRA
   - CHN
   - IND
+published: true
 ---
 In this programme, technical exchanges between Saudi youth, female and male, and counterparts in fellow G20 countries like Brazil, China, India, South Africa, South Korea took place to share development solutions on green economy (South Korea), ICT4D (India), urban development (Brazil), health and development (China) and environmental sustainability (South Africa). UNDP facilitated the exchanges. 

@@ -16,5 +16,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will also facilitate study tours for decision makers and operational staff from all three countries to EUMS. UNDP will facilitate the information exchange between the three countries which allow for the improved border management capacities and strengthened cooperation. The agency has the lead in the consortium composed by several members (national, law-enforcement institutions), and is in charge of selecting a Principle Advisor.

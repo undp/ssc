@@ -17,5 +17,6 @@ undp_role_type:
   - partnership_facilitator
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP facilitates partnership and capacity building. UNDP will a) support CACDRRR in refining the existing capacity development and other strategies to better address regional cooperation in DRR b) organize regional level events to facilitate a dialogue c) organize training for key staff of bordering districts on a variety of subjects d) facilitate refining district DRR Plans at border areas. (Capacity and partnership)

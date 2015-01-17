@@ -19,5 +19,6 @@ partner_location:
   - MYS
   - CHL
   - MEX
+published: true
 ---
 UNDP will assist the Government of Egypt in learning from international best practices from countries that went through the same economic and political transformation such as Malaysia, Chile, and Mexico. UNDP will also organize a regional workshop on anti-corruption with the identification of best practices and lessons learned in Asia and the Middle East with the regards to roles and activities of anti-corruption committees, ombudsmen systems, preventive measures to fight corruption, methods and tools used in dealing with corruption complains and national measurement indexes. This workshop will assist Egypt in identifying such best practices. (knowledge broker)

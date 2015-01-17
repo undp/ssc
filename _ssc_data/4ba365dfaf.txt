@@ -20,5 +20,6 @@ partner_location:
   - CUB
   - ECU
   - NIC
+published: true
 ---
 UNDP facilitated knowledge exchange between Peru, Dominican Republic, Cuba, El Salvador, Costa Rica, Ecuador and Nicaragua on the implementation of evaluation performance framework supported by the Latin American Organization of Supreme Audit Institutions. The exchange allowed participating insitutions to develop a better understanding of the dynamics of the audit processes. As a result, a community of practice was established for exchanging best practices and lessons learned.

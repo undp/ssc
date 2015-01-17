@@ -19,5 +19,6 @@ partner_location:
   - UGA
   - RWA
   - ETH
+published: true
 ---
 UNDP will provide technical assistance and capacity building. In partnership with the Government of Kenya, the project will conduct the study of four regional training centres in Uganda, Kenya, Rwanda, and Ethiopia to review their training capabilities. UNDP Kenya office will manage the project and support the training and capacity enhancement at IPSTC. UNDP is in charge of the overall project management.

@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP will help Vietnam playing more active role in South-South Cooperation to exchange experience and good practices in implementing MDGs with other countries, contributing to formulation and improvement of the nation's social development policies. UNDP provides technical and administrative support, capacity building. It will also provide an institutional framework for monitoring, advocacy and consultancy for social development policy and South-South cooperation (Output target 3) (Capacity developer)

@@ -17,5 +17,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - LTU
+published: true
 ---
 UNDP facilitated knowledge exchange by supporting the creation of a common information platform (Internet database), containing data on water resources management and adaptation to climate change for the Niemen River basin countries: Belarus, Lithuania and Russia (Activity 6).

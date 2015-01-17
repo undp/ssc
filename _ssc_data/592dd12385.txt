@@ -16,5 +16,6 @@ territorial_focus: MIC
 undp_role_type: 
   - partnership_facilitator
 partner_location: 
+published: true
 ---
 UNDP provides technical assistance to the Project Coordination Unit to design tools that enable monitoring of management by objectives. UNDP also promotes coordination and integration between the various actors and agencies involved.

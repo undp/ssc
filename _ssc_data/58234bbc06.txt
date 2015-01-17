@@ -15,5 +15,6 @@ territorial_focus: SIDS
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 Although unclear at this point, the most plausible way forward for UNDP would be in the aspect of knowledge sharing and disseminating knowledge regarding best practices in other countries

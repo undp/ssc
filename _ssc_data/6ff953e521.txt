@@ -16,6 +16,7 @@ undp_role_type:
   - capacity_builder
 partner_location: 
   - TUR
+published: true
 ---
 UNDP will facilitate partnership and capacity building. It will assist the Government in developing policy, institutional framework, strategy and coordination mechanism for engagement with different types of development partners under various cooperation frameworks, including SS, North-South and triangular cooperation modalities. a) support corporate strategic partnerships with Russia and Turkey; b) promote east-east cooperation linkages; c) support innovative models and delivery mechanisms in ODA.
 Additionally, UNDP will support the GOI in strengthening the capacity of staff to engage in development cooperation. (Capacity Building)

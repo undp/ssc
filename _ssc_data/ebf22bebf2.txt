@@ -16,5 +16,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - TUN
+published: true
 ---
 UNDP will act as knowledge broker and facilitate the experience sharing and networking of Egyptian authorities with electoral authorities in other countries. This will be achieved through organizing study tours, attending international conferences on electoral issues and organizing workshops to exchange experiences. Tunisia will be one of the main counterparts for knowledge exchange. (knowledge broker and facilitator)

@@ -21,5 +21,6 @@ partner_location:
   - MWI
   - NER
   - UGA
+published: true
 ---
 UNDP facilitates partnerships and knowledge exchange between Burkina Faso, Burundi, Ethiopia, Guinéa-Bissau, Haiti, Kosovo,  Laos,  Liberia, Madagascar, Malawi, Népal, Niger, Uganda, RDC,  Sénégal,  South Soudan, Tanzania, Timor Leste,  Togo and Haiti. Workshops on aid information, coordination, transparency and the usage of Aid Management Platform (AMP) are regularly organized to facilitate knowledge exchange and transfer and foster partnerships among AMP countries; and to capture user’s feedback to strengthen the AMP application and program. The recurrent “Country Expo” is a popular part of the event, which allows countries to showcase local best practices, and solutions to common issues that may be replicated elsewhere.

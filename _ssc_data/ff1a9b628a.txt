@@ -19,5 +19,6 @@ partner_location:
   - LTU
   - LVA
   - POL
+published: true
 ---
 UNDP will facilitate regional coordination. Successful implementation of the initiative is highly dependent on efficient regional coordination with the key international stakeholders, including the EnvSec Regional Desk for Eastern Europe, UNEP and ENECE. This will be achieved via regular meetings with the Belarusian, Ukrainian and international stakeholders for reviewing the progress, discussing emerging issues, problems and new ideas, and ensuring continuous feedback among the stakeholders. A sub-regional conference for Belarus, Ukraine, Lithuania, Latvia, and Poland will be arranged in Belarus to disseminate the results of the project (Component 3).

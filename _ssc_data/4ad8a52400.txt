@@ -21,5 +21,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - MNG
+published: true
 ---
 UNDP with strengthen the capacities of both Russia and Mongolian national and local government officials. The pilot project will be implemented on the Russia side and it will share it's experiences with the Mongolian side. Once both countries implement the projects within their countries, UNDP will facilitate the peer-to-peer training and exchange of lessons learned from the project between Russia and Mongolia. (Facilitator role)

@@ -17,5 +17,6 @@ undp_role_type:
   - capacity_builder
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP assisted with capacity building and facilitated knowledge exchange between all of the countries involved

@@ -16,5 +16,6 @@ territorial_focus: LDC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 Although specific activities regarding SSC/TrC are not mentioned in the project document, there is however mention that the project results will be disseminated within and beyond the project intervention zone via information sharing networks and forums including the UNDP/GEF networks that involve Senior Personnel of similar and related projects. UNDP/GEF Regional Unit has established an electronic platform for sharing lessons learned among project coordinators. The project will participate in relevant scientific, policy-based and other networks that can benefit project implementation via lessons learned; and will share its own lessons learned with other similar projects. Identification and analyses of lessons learned will be provided and communicated annually. UNDP/GEF will provide a format and assist the project team in categorizing, documenting and reporting on lessons learned.

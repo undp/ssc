@@ -17,5 +17,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - COL
+published: true
 ---
 UNDP as a knowledge broker: experts from Uruguay travelled to Colombia to exchange knowledge in order to support the implementation of a similar programme in Colombia called EQUIPARES.

@@ -17,5 +17,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP implements the project, focusing on capacity building, knowledge exchange between involved countries, and assisting government, manufacturing, distributing, retail, consumer and environmental stakeholders throughout the Asian region to implement the most cost-effective energy efficiency measures available. (knowledge)

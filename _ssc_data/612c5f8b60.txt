@@ -16,5 +16,6 @@ undp_role_type:
   - capacity_builder
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP provides capacity building, exchange facilitation and knowledge brokering between Dominican Republic and Haiti. The two UNDP country offices coordinate this initiative on local economic development and human rights.

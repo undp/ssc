@@ -16,5 +16,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP facilitates sharing of experiences across involved countries

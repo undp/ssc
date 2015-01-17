@@ -16,6 +16,7 @@ undp_role_type:
   - partnership_facilitator
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will assist in strengthening inter-parliamentary relations with Portugese speaking countries and Pacific region countries so 
 as to exchange best practices and learns lessons in the areas of gender mainstreaming, legislative processes and mechanisms, and oversight systems and procedures. 

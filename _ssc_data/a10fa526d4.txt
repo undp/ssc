@@ -20,5 +20,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP Romania will seek to involve other UNDP COs in the former communist countries by seeking out local authorities and representatives of central governments in order to share information through workshops and field visits. The purpose is to demonstrate the value added of the proposed projects activities. This is indicated as an output. (knowledge sharing)

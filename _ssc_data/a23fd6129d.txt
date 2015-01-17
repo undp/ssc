@@ -16,5 +16,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP facilitating SSC/TrC is not directly specified. The document however mentions that the initiative is designed to be replicable nationwide and will be a national youth platform for the region.

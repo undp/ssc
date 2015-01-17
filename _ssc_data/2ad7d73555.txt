@@ -17,5 +17,6 @@ undp_role_type:
   - partnership_facilitator
 partner_location: 
   - GTM
+published: true
 ---
 Trfino region is a sensitive biosphere reserve in northern Central America where the borders of El Salvador, Guatemala, and Honduras meet is a unique example of South-South Cooperation (SSC).

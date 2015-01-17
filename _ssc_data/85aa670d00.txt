@@ -19,5 +19,6 @@ undp_role_type:
 partner_location: 
   - JOR
   - LBN
+published: true
 ---
 UNDP facilitated knowledge exchange. Filed visits to Jordan were organized for Iraq's key stakeholders from the Government and CSOs to learn the experience of the Family Protection Department in Jordan. Jordanian experts conducted training sessions in Erbil. Additional study tours and extensive training exercises where held for representatives from Iraq, Jordan and Lebanon in order to enhance the opportunity for cooperation and increase synergy in order to build confidence in the system and build ownership

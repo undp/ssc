@@ -17,5 +17,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 In this programme, UNDP will facilitate study tours with countries in the same region that have worked on a similar issues. The study tours aims to increase the urban planning capacity of municipalities officials and representatives from the Ministry of Economic Development and NGOs. They will be exposed to best practices and innovative ideas that were used to solve similar urban planning issues in those selected countries.

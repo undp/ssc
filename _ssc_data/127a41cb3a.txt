@@ -15,5 +15,6 @@ territorial_focus: HIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP will facilitate working visits and study tours between the Ministry of Economy and Planning (MOEP) and selected countries in order to review actions and gain experiences on how issues relating to youth have been addressed and integrated into development strategies and national programmes.

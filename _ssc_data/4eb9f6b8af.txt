@@ -17,5 +17,6 @@ undp_role_type:
   - partnership_facilitator
 partner_location: 
   - MEX
+published: true
 ---
 UNDP helps strengthen communication, partnership and advocacy for equitable human development are strengthened in line with the new constitutional reform. UNDP helped reinforce south-south cooperation in this domain with other Maghreb countries (Tunisa and Alger) and National Council for the Evaluation of Social Development Policy (CONEVAL), Mexico. (Parterships and knowledge)

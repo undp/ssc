@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP provides technical assistance to capacity building and knowledge exchange, supporting Ministry of Foreign Affairs and Cooperation (Directorate of Multilateral Cooperation) effort to engage more actively in multilateral cooperation. Morocco's participation in internationlal cooperation networks was promoted and reinforced. To this end, participation of Morocco's delegation from the Ministry of Foreign Affairs and Cooperation (Directorate of Multilateral Cooperation) in South-South conferences was supported by UNDP. (Outcome 2)

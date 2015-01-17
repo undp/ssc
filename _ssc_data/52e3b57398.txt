@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP in this programme will support Romania (MFA) to become fully capable and equipped by 2015 with the appropriate capacity to manage all parts of ODA project management cycle by itself, including planning and design, monitoring, evaluation and communication. (capacity developer)

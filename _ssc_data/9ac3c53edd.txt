@@ -16,5 +16,6 @@ undp_role_type:
   - capacity_builder
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP facilitates knowledge exchange and capacity building. In partnership with State-owned Assets Supervision and Administration Commission of the State Council (SASAC) and Chinese Academy of International Trade and Economic Cooperation (CAITEC), UNDP convened an international expert policy working group to provide policy options for an improved CSR framework, and to conduct extensive case studies to report on the state of CSR in Chinese SOEs operating abroad. (Knowledge and capacity developer)

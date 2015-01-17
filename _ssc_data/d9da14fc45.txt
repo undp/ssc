@@ -16,5 +16,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - MYS
+published: true
 ---
 In this initiative, UNDP will be facilitating the knowledge exchange between the Judiciary of the Maldives and AG Chamber in Malaysia. The AG Chamber will be providing technical support to the Judiciary (Supreme Court) in developing the training curriculum for the Justice Training Centre. (knowledge broker)

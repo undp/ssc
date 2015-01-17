@@ -16,5 +16,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP provided technical support for the creation of a South-South cooperation fund

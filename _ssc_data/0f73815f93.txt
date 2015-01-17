@@ -15,6 +15,7 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 Since a similar project has recently started in Russia UNDP will facilitate the knowledge sharing and exchanges of ideas between 
 Ukraine and Russia during the project execution phase. By doing so it is envisaged that common problems or mistakes can be shared and avoid being replicated by similar projects in neighbouring countries.

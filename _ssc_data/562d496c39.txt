@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP's role in this project is to facilitate study tours and training seminars with other countries emerging from the former USSR who have Social protection programmes and exchange information on how the different models in each country operate in practice. (knowledge facilitator)

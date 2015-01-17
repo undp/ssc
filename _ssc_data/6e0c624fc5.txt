@@ -17,5 +17,6 @@ undp_role_type:
   - capacity_builder
   - knowledge_broker
 partner_location: 
+published: true
 ---
 Through this project, UNDP aims to position Mexico as a centre of excellence for regional cooperation and capacity development by four different means 1) through the documentation of its experiences, 2) through the dissemination of lessons learned, 3) through the development of in-country capacity courses oriented to train other countries, and 4) through the offering of out-country technical assistance.

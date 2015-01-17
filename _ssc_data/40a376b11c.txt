@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 UNDP facilitates transfer of knowledge and technology. It will support research on approaches and best practices in renewable energy technologies. Additionally, UNDP will facilitate creation of the Chinese-Ghanaian network through exchange visits. (knowledge)

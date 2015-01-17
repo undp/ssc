@@ -19,5 +19,6 @@ undp_role_type:
   - capacity_builder
 partner_location: 
   - IND
+published: true
 ---
 UNDP facilitated a landmark agreement between TERI and Afghanistan's Ministry of Rural Rehabilitation and Development (MRRD) to develop capacity, assist in programme design, and provide other institutional support to provide nationwide electricity to Afghanistan's rural population. India brought their regional expertise to help build Afghanistan's rural energy initiatives.

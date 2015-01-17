@@ -16,5 +16,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - BGR
+published: true
 ---
 In this project, UNDP supported the organization of a study tour to Bulgaria for representatives of the Ministry of Social Policy of Ukraine and Committee for Economic Reforms under the leadership of the Vice Prime Minister and Minister of Social Policy if Ukraine to study the Bulgarian experience in reforming the pension system, legalization of employment and wages, as well as in introducing decentralized delivery of social services. Additionally, UNDP supported a visit of the former Vice Prime Ministro of Bulgaria and Minister for Labour and Social Policy of Bulgaria to Ukraine to provide face-to-face advisory services to the Vice Prime Minister, the staff of the Ministry of Social Policy of Ukraine and the Committee for Economic Reforms on a number of issues related to the on-going administrative reforms in the social sector. The visit resulted in the elaboration of a strategic paper with specific recommendations on the process of reforming the social sector.

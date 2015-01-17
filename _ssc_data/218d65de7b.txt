@@ -19,5 +19,6 @@ partner_location:
   - KGZ
   - TKM
   - ARM
+published: true
 ---
 UNDP will provide support to sharing of knowledge and best practices with other related UNDP/GEF projects on energy efficiency in buildings in several countries of Central Asia and the former USSR, including Russia, Uzbekistan, Kyrgyzstan, Turkmenistan, and Armenia.

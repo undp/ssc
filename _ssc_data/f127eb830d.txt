@@ -17,5 +17,6 @@ undp_role_type:
   - partnership_facilitator
   - knowledge_broker
 partner_location: 
+published: true
 ---
 Although unclear it would seem that UNDP can play role in knowledge sharing and act as a facilitator between the participating SIDS.

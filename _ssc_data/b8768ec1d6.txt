@@ -22,5 +22,6 @@ partner_location:
   - UGA
   - KEN
   - NGA
+published: true
 ---
 In this project UNDP will/or have facilitated the knowledge exchange on institutional reform between Tanzania and Zambia, Uganda, Kenya and Nigeria. (knowledge broker)

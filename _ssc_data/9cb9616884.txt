@@ -18,5 +18,6 @@ undp_role_type:
 partner_location: 
   - NIC
   - HND
+published: true
 ---
 UNDP funded and facilitated knowledge exchange: (1) between EL Salvador, Nicaragua Honduras and Panama on local security strategies, and helped implement the South-South Cooperation agreements signed in the COMPROMISO CENTROAMERICA Knowledge Fair in 2010. (2) organized 5 support missions for knowledge transfer: technical staff of the Crime Statistics Integrated System of Panama provides technical assistance on information management and trend analysis to El Salvador

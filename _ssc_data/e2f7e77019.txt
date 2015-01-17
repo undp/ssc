@@ -15,5 +15,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - CUB
+published: true
 ---
 UNDP supported the systematization of experiences within the framework of the initiative of the Sabana Camaguey Ecosystem for its replication in Cuba and other countries in the LAC region with advisory support from the UNDP Regional Centre

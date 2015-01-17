@@ -18,5 +18,6 @@ undp_role_type:
 partner_location: 
   - ARG
   - MEX
+published: true
 ---
 UNDP facilitated the technology transfer for the production of a bio fertilizer between Cuba, Argentina and Mexico

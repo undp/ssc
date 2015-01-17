@@ -16,5 +16,6 @@ territorial_focus: LDC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+published: true
 ---
 KOICA Multilateral Cooperation Officer (KMCO), Ms. Hyungyoung Song will be joining the UNDP Kenya Country Office team in the Inclusive Economic Growth Unit to offer assistance in Green Business and Green Growth. The KOICA Officer will in particular support the green growth agenda and the development and implementation of women’s green business initiative, aiming to support women entrepreneurs in generating income through green goods and services.

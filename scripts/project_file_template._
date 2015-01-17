@@ -16,5 +16,6 @@ undp_role_type: <% _.each(undp_role_type, function(i) { %>
   - <%= i %><% }); %>
 partner_location: <% _.each(partner_location, function(i) { %>
   - <%= i %><% }); %>
+published: true
 ---
 <%= ssc_description %>

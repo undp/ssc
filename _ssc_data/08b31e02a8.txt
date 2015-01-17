@@ -17,5 +17,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - SVN
+published: true
 ---
 In this programme, UNDP's role is to facilitate study tours for representatives of independent institutions and the National Assembly Committee to Slovenia to learn about the linkages and collaboration between independent and other institutions reporting to the National Assembly bodies and the National Assembly itself and to learn about efficient and successful cooperation models in order to fight corruption.

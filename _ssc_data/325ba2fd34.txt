@@ -17,5 +17,6 @@ undp_role_type:
 partner_location: 
   - COL
   - ECU
+published: true
 ---
 UNDP facilitated knowledge exchange between Colombia, Ecuador and Dominical Republic: (1) Vice Ministers from Dominican Republic visited Bogotá, Colombia, for exchanging experiences on the establishment of a National Emergency System; (2) Vice ministers from Dominican Republic visited Ecuador to learn best practices of managing the city’s emergency response system.

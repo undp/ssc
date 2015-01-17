@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - partnership_facilitator
 partner_location: 
+published: true
 ---
 UNDP facilitated partnership among China and Vietnam. Since 2007, they embarked on a programme to promote trade and investment between border provinces. The project has provided hands-on learning opportunities about CBEZs for participating government officials has let it to become a demonstration model for cross- border economic cooperation in other regions of China. At the end of 2012, the Chinese Government approved piloting of CBEZs between neighbouring countries and three cities in Guangxi, Yunnan and Inner-Mongolia. (facilitator of partnerships)

@@ -14,5 +14,6 @@ project_objective: ""
 territorial_focus: MIC
 undp_role_type: 
 partner_location: 
+published: true
 ---
 UNDP provides technical assistance.

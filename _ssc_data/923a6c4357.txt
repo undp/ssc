@@ -16,5 +16,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - IND
+published: true
 ---
 UNDP facilitated knowledge exchange on institutional approaches and mechanisms of integrated natural resources management. With this aim, study tours to India were organized by UNDP. (knowledge)

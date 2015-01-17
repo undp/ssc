@@ -15,5 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - capacity_builder
 partner_location: 
+published: true
 ---
 UNDP will facilitate capacity building initiatives, including international exchange and South-South collaboration (Output 3) (Capacity developer)

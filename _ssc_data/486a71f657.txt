@@ -17,5 +17,6 @@ undp_role_type:
 partner_location: 
   - CHN
   - IND
+published: true
 ---
 As one of the outputs of this programme, UNDP will assist the Government of Saudi Arabia in conducting an assessment of SSC with Africa and Asia strategy for enhancing cooperation and will support the Government in conducting dialogues with South partners like China, and India to share sustainable development models and strategies. (knowledge and capacity)

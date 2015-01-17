@@ -16,5 +16,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - BRA
+published: true
 ---
 Brazil had entered into an agreement with the Government of Timor-Leste since 2002 to support the justice sector, and currently channels technical expertise through a Memorandum of Understanding with the UNDP Justice System Programme which enables the secondment of Brazilian judges, prosecutors, public defenders and administrative staff to the judiciary in Timor-Leste.

@@ -18,5 +18,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - TUR
+published: true
 ---
 UNDP facilitates capacity building and knowledge transfer from Turkey to Haiti and provides capacity development. Main activities: (1) training for trainers was provided by civil servants from the Turkish International Academy for Haiti’s Direction of the Judicial Police on Drugs and Organized Crime (2 weeks in Haiti and 2 weeks in Turkey in January-February 2013); (2) 2 Haitian civil servants from the Ministry of Justice participated in the International Congress of Association for Forensic Science Institutes organized by the Turkish National Police
