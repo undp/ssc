@@ -2,7 +2,6 @@ class app.views.App extends Backbone.View
   el: '#app'
   
   initialize: ->
-    console.log "My collection is #{@collection.length} long"
     @template = _.template($('#appTemplate').html())
     @render()
 
