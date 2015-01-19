@@ -19,5 +19,6 @@ app.views = {}
 $(document).ready ->
   window.projects = new Projects(ssc_data)
   window.connections = new Connections(projects)
-  router = new Router();
-  Backbone.history.start();
+  window.countries = new Countries
+  router = new Router()
+  Backbone.history.start()
