@@ -11,7 +11,8 @@ app = {}
 
 # Views
 app.views = {}
-{% include views/app-view.coffee %}
+{% include views/app-layout.coffee %}
+{% include views/project-view.coffee %}
 
 # Controllers
 {% include routers/router.coffee %}
@@ -20,5 +21,7 @@ $(document).ready ->
   window.projects = new Projects(ssc_data)
   window.connections = new Connections(projects)
   window.countries = new Countries
-  router = new Router()
-  Backbone.history.start()
+  countries.fetch 
+    success: ->
+      window.router = new Router()
+      Backbone.history.start()

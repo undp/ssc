@@ -9,6 +9,7 @@ class Connections
     matrix = []
     @projects.each (project) =>
       @populateEach(project)
+    @
 
   populateEach: (project) =>
     project_matrix = []
@@ -39,20 +40,11 @@ class Connections
         throw err if err
       )
 
-  for: (iso3) ->
-    return unless iso3 && iso3.length == 3
+  for: (iso3, callback) ->
+    throw 'Provide ISO3 country ref' unless iso3 && iso3.length == 3
+    throw 'Provide callback' unless callback
     @db.get(
-      {subject: iso3},
+      {subject: iso3.toUpperCase()},
       (err,list) -> 
-        console.table(list)
-    )
-
-  cooperatesWith: (iso3) ->
-    return unless iso3 && iso3.length == 3
-    @db.get(
-      {subject: iso3},
-      (err, list) ->
-        console.log(_.map(list, (line) ->
-          line.object
-        ))
+        callback(list)
     )

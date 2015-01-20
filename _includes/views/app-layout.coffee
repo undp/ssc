@@ -1,6 +1,12 @@
-class app.views.App extends Backbone.View
-  el: '#app'
+class app.views.AppLayout extends Backbone.View
+
+  events: 
+    'click a.project': 'clicked'
   
+  clicked: (ev) ->
+    ev.preventDefault()
+    router.navigate ev.currentTarget.hash, trigger: true
+
   initialize: ->
     @template = _.template($('#appTemplate').html())
     @itemTemplate = _.template($('#projectListItem').html())
@@ -13,4 +19,3 @@ class app.views.App extends Backbone.View
     @collection.each (project) =>
       $table.append @itemTemplate(project.toJSON())
     @
-
