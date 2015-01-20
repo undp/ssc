@@ -1,0 +1,4 @@
+<tr>
+  <td><a class='project' href="#project/<%= id %>"><%= id %></a></td>
+  <td><%= host_location %></td>
+</tr>

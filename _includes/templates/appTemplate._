@@ -1,0 +1,17 @@
+<h1>Here it is</h1>
+<div id='controls'>
+  Filters, etc
+</div>
+<div id='content'>
+  <table id='projects_table' class='projects'>
+    <thead>
+      <tr>
+        <td>ProjectID</td>
+        <td>Host location</td>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>  
+  <div id='projects_map' style='height: 500px; width: 400px;'></div>
+</div>
