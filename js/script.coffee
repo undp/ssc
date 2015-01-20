@@ -19,10 +19,13 @@ baseurl = "{{ site.baseurl }}"
 
 $(document).ready ->
   app = window.app = {}
-  app.projects = new Projects(ssc_data)
-  _.defer(-> app.connections = new Connections(app.projects))
-  app.countries = new Countries
-  app.countries.fetch 
+  app.projects = new Projects
+  # app.countries = new Countries
+
+  app.projects.fetch
     success: ->
+      # app.connections = new Connections(app.projects)
+      # app.countries.fetch 
+        success: ->
       app.router = new Router()
       Backbone.history.start()
