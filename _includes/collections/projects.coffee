@@ -1,6 +1,10 @@
 class Projects extends Backbone.Collection
   model: Project
 
+  findBySearch: (term) ->
+    @filter (i) ->
+      i.get('project_title').match(term) || i.get('project_objective').match(term)
+
   filterByTheme: (thematic_focus) ->
     @filter (i) ->
       _.include(i.get('thematic_focus'), thematic_focus)
@@ -15,4 +19,4 @@ class Projects extends Backbone.Collection
 
   filterByRole: (role) ->
     @filter (i) ->
-      _.include(i.get('undp_role_type'), undp_role_type)
+      _.include(i.get('undp_role_type'), role)

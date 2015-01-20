@@ -1,8 +1,25 @@
 class ExplorerView extends Backbone.View
+  template: ->  _.template($('#explorerView').html())
+
+  events:
+    'keyup #search_box': 'search'
+
   initialize: ->
-    @template = _.template($('#explorerView').html())
+    @listenTo @collection, 'change', @render
+    # @filterView = new FilterView
     @render()
 
+  search: (ev) ->
+    term = ev.currentTarget.value
+    results = @collection.findBySearch(term)
+    console.log results.length || 0
+
   render: ->
-    compiled = @template()
+    data =
+      filter_state: 'No filters'
+
+    compiled = @template()(data)
     @$el.html(compiled)
+    @contentView = new ContentView(collection: @collection)
+    @$el.find('#content').html(@contentView.render())
+    @$el

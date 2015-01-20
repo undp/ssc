@@ -1,4 +1,7 @@
 Router = Backbone.Router.extend
+  initialize: ->
+    @$appEl ||= $("#app")
+
   routes:
     "": "root"
     "theme/:theme": "byTheme"
@@ -6,33 +9,42 @@ Router = Backbone.Router.extend
     "partner/:partner_type": "byPartner"
     "role/:undp_role": "byRole"
     "project/:id": "project"
+    "search/:term": "search"
   
   root: ->
-    @view.remove() if @view
-    @view = new ExplorerView(collection: app.projects)
+    collection = app.projects
+    @switchView(null, collection)
 
   byTheme: (theme) ->
     filtered = app.projects.filterByTheme(theme)
-    @renderFilteredTable(filtered)
+    collection = new Projects(filtered)
+    @switchView(null, collection)
 
   byLocation: (iso3) ->
     filtered = app.projects.filterByLocation(iso3)
-    @renderFilteredTable(filtered)
+    collection = new Projects(filtered)
+    @switchView(null, collection)
 
   byPartner: (partner_type) ->
     filtered = app.projects.filterByPartner(partner_type)
-    @renderFilteredTable(filtered)
-
-  byRole: (partner_type) ->
-    filtered = app.projects.filterByRole(partner_type)
-    @renderFilteredTable(filtered)
-
-  renderFilteredTable: (filtered) ->
-    @view.remove() if @view
     collection = new Projects(filtered)
-    @view = new AppLayout(collection: collection)
+    @switchView(null, collection)
+
+  byRole: (role) ->
+    filtered = app.projects.filterByRole(role)
+    collection = new Projects(filtered)
+    @switchView(null, collection)
 
   project: (id) ->
     @view.remove() if @view
     project = projects.get(id)
     @view = new ProjectView(model: project)
+    @$appEl.html(@view.render())
+
+  switchView: (view, collection) ->
+    @view.remove() if @view
+    view = ExplorerView unless view
+
+    @view = new view(collection: collection)
+    @$appEl.html(@view.render())
+

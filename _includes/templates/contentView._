@@ -1,0 +1,2 @@
+<h1>LIST or MAP</h1>
+<p><%= collection.length %> projects</p>

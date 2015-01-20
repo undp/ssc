@@ -1,22 +1,21 @@
 ---
 ---
 baseurl = "{{ site.baseurl }}"
-app = {}
 
 # Models and Collections
-{% include models/project.coffee %}
-{% include collections/countries.coffee %}
-{% include collections/projects.coffee %}
-{% include collections/connections.coffee %}
+{% include models/project.coffee %} # Project
+{% include collections/countries.coffee %} # Countries
+{% include collections/projects.coffee %} # Projects
+{% include collections/connections.coffee %} # Connections
 
 # Views
-app.views = {}
-{% include views/app-layout.coffee %}
-{% include views/project-view.coffee %}
-{% include views/explorer-view.coffee %}
+{% include views/app-layout.coffee %} # AppLayout
+{% include views/project-view.coffee %} # ProjectView
+{% include views/explorer-view.coffee %} # ExplorerView
+{% include views/content-view.coffee %} # ContentView
 
 # Controllers
-{% include routers/router.coffee %}
+{% include routers/router.coffee %} # Router
 
 $(document).ready ->
   app = window.app = {}
