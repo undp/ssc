@@ -12,7 +12,7 @@ class ExplorerView extends Backbone.View
   search: (ev) ->
     term = ev.currentTarget.value
     results = @collection.findBySearch(term)
-    console.log results.length || 0
+    console.log "#{results.length || 0} matching projects"
 
   render: ->
     data =
