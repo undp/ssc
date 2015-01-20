@@ -1,4 +1,4 @@
-class app.views.AppLayout extends Backbone.View
+class AppLayout extends Backbone.View
 
   events: 
     'click a.project': 'clicked'

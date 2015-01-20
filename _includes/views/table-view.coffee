@@ -1,4 +1,4 @@
-class app.views.Table extends Backbone.View
+class TableView extends Backbone.View
   el: '#table'
 
   initialize: ->

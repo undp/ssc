@@ -13,15 +13,17 @@ app = {}
 app.views = {}
 {% include views/app-layout.coffee %}
 {% include views/project-view.coffee %}
+{% include views/explorer-view.coffee %}
 
 # Controllers
 {% include routers/router.coffee %}
 
 $(document).ready ->
-  window.projects = new Projects(ssc_data)
-  window.connections = new Connections(projects)
-  window.countries = new Countries
-  countries.fetch 
+  app = window.app = {}
+  app.projects = new Projects(ssc_data)
+  _.defer(-> app.connections = new Connections(app.projects))
+  app.countries = new Countries
+  app.countries.fetch 
     success: ->
-      window.router = new Router()
+      app.router = new Router()
       Backbone.history.start()

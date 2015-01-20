@@ -1,4 +1,4 @@
-class app.views.Project extends Backbone.View
+class ProjectView extends Backbone.View
 
   initialize: ->
     @template = _.template($('#projectView').html())
