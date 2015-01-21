@@ -5,7 +5,8 @@ class Project extends Backbone.Model
 
   initialize: ->
     _.each @joinedFields, (field) =>
-      @set(field, @get(field).split(','))
-  
+      if !_.isArray(@get(field))
+        @set(field, @get(field).split(','))
+
   allLocations: ->
     _.flatten(@get('host_location'), @get('partner_location'))
