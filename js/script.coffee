@@ -18,14 +18,12 @@ baseurl = "{{ site.baseurl }}"
 {% include routers/router.coffee %} # Router
 
 $(document).ready ->
-  app = window.app = {}
   app.projects = new Projects
-  app.countries = new Countries
+  app.countries = new Countries(window.countries)
+  app.indices = new Indices(window.indices)
 
-  app.countries.fetch # TODO: Embed somewhere to avoid making request
+  app.projects.fetch
     success: ->
-    app.projects.fetch
-      success: ->
-          app.faceted = Facetr(app.projects)
-          app.router = new Router()
-          Backbone.history.start()
+        app.facets = new ProjectFacets(app.projects)
+        app.router = new Router()
+        Backbone.history.start()
