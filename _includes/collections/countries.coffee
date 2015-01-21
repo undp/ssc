@@ -1,5 +1,5 @@
 class Countries extends Backbone.Collection
-  url: 'api/countries.json'
+  url: '{{site.baseurl}}/api/countries.json'
 
   initialize: (options) ->
 

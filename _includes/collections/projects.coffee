@@ -1,5 +1,5 @@
 class Projects extends Backbone.Collection
-  url: 'api/projects.json'
+  url: '{{site.baseurl}}/api/projects.json'
   model: Project
 
   findBySearch: (term) ->
