@@ -4,6 +4,7 @@
 <div>STATE: <%= collection.length %></div>
 <li><a href="#all">ALL projects / remove filters</a></li>
 <ul>
+  <h2>LOCATION</h2>
   <li><a href="#location/ury">LOCATION: URY projects</a></li>
   <li><a href="#location/bwa">LOCATION: BWA projects</a></li>
 </ul>

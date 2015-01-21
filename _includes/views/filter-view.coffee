@@ -2,7 +2,7 @@ class FilterView extends Backbone.View
   template: ->  _.template($('#filterView').html())
 
   events: 
-    'keyup #search_box': 'search'
+    'keyup #searchField': 'search'
     'click #clearSearch': 'clearSearch'
 
   initialize: ->
