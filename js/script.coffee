@@ -12,7 +12,6 @@ app = window.app = {}
 {% include collections/indices.coffee %} # Indices
 
 # Views
-{% include views/app-layout.coffee %} # AppLayout
 {% include views/project-view.coffee %} # ProjectView
 {% include views/explorer-view.coffee %} # ExplorerView
 {% include views/search-view.coffee %} # FilterView
