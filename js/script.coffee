@@ -20,12 +20,12 @@ baseurl = "{{ site.baseurl }}"
 $(document).ready ->
   app = window.app = {}
   app.projects = new Projects
-  # app.countries = new Countries
+  app.countries = new Countries
 
   app.projects.fetch
     success: ->
       # app.connections = new Connections(app.projects)
-      # app.countries.fetch 
+      app.countries.fetch 
         success: ->
-      app.router = new Router()
-      Backbone.history.start()
+          app.router = new Router()
+          Backbone.history.start()
