@@ -4,8 +4,8 @@ Router = Backbone.Router.extend
 
   routes:
     "": "root"
-    "theme/:theme": "byTheme"
     "location/:iso3": "byLocation"
+    "theme/:theme": "byTheme"
     "partner/:partner_type": "byPartner"
     "role/:undp_role": "byRole"
     "project/:id": "project"
@@ -15,13 +15,13 @@ Router = Backbone.Router.extend
     collection = app.projects
     @switchView(null, collection)
 
+  byLocation: (iso3) ->
+    app.faceted.clear()
+    app.faceted.facet('host_location').value(iso3.toUpperCase())
+    @switchView(null, app.projects)
+
   byTheme: (theme) ->
     filtered = app.projects.filterByTheme(theme)
-    collection = new Projects(filtered)
-    @switchView(null, collection)
-
-  byLocation: (iso3) ->
-    filtered = app.projects.filterByLocation(iso3)
     collection = new Projects(filtered)
     @switchView(null, collection)
 

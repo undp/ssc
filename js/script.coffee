@@ -21,10 +21,10 @@ $(document).ready ->
   app.projects = new Projects
   app.countries = new Countries
 
-  app.projects.fetch
+  app.countries.fetch # TODO: Embed somewhere to avoid making request
     success: ->
-      # app.connections = new Connections(app.projects)
-      app.countries.fetch 
-        success: ->
+    app.projects.fetch
+      success: ->
+          app.faceted = Facetr(app.projects)
           app.router = new Router()
           Backbone.history.start()

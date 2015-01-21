@@ -2,10 +2,9 @@ class ContentView extends Backbone.View
   template: ->  _.template($('#contentView').html())
 
   initialize: ->
+    @listenTo @collection, 'reset', @render
     @render()
 
   render: ->
-    data = 
-      collection: @collection
-    compiled = @template()(data)
+    compiled = @template()(collection: @collection)
     @$el.html(compiled)
