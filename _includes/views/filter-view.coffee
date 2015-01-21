@@ -9,7 +9,13 @@ class FilterView extends Backbone.View
     @listenTo @collection, 'reset', @render
 
   render: ->
-    compiled = @template()(filterState: 'not stated')
+    facets = app.facets.projects.toJSON()
+    regionFacet = facets.filter((i) -> i.data.name == 'region')[0]
+    compiled = @template()(
+      collection: @collection
+      regionFacet: regionFacet
+      filterState: 'not stated'
+    )
     @$el.html(compiled)
 
   search: (ev) ->

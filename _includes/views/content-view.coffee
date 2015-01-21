@@ -5,7 +5,6 @@ class ContentView extends Backbone.View
     @listenTo @collection, 'reset', @render
 
   render: ->
-    console.log 'and this?'
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)
     @

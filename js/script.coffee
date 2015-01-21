@@ -1,11 +1,15 @@
 ---
 ---
 baseurl = "{{ site.baseurl }}"
+app = window.app = {}
 
 # Models and Collections
 {% include models/project.coffee %} # Project
+{% include models/indice.coffee %} # Indice
+{% include models/country.coffee %} # Indice
 {% include collections/countries.coffee %} # Countries
 {% include collections/projects.coffee %} # Projects
+{% include collections/indices.coffee %} # Indices
 
 # Views
 {% include views/app-layout.coffee %} # AppLayout
@@ -16,6 +20,7 @@ baseurl = "{{ site.baseurl }}"
 
 # Controllers
 {% include routers/router.coffee %} # Router
+{% include controllers/project-facets.coffee %} # ProjectFacets
 
 $(document).ready ->
   app.projects = new Projects

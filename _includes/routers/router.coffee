@@ -5,7 +5,7 @@ Router = Backbone.Router.extend
   routes:
     "": "redirect"
     "all": "all"
-    "location/:iso3": "byLocation"
+    "location/:location": "byLocation"
     "theme/:theme": "byTheme"
     "partner/:partner_type": "byPartner"
     "role/:undp_role": "byRole"
@@ -16,14 +16,16 @@ Router = Backbone.Router.extend
     @navigate 'all', trigger: true
 
   all: ->
-    app.faceted.clear()
-    view = new ExplorerView(collection: app.projects)
-    @switchView(view, app.projects)
+    @explorerFacet()
 
   byLocation: (param) ->
-    facet_name = 'host_location'
-    param = param.toUpperCase()
-    @explorerFacet(facet_name, param)
+    if app.countries.findByIso3(param)
+      facet_name = 'host_location'
+      param = param.toUpperCase()
+      @explorerFacet(facet_name, param)
+    else 
+      facet_name = 'region'
+      @explorerFacet(facet_name, param)
 
   byTheme: (param) ->
     facet_name = 'thematic_focus'
@@ -38,8 +40,8 @@ Router = Backbone.Router.extend
     @explorerFacet(facet_name, param)
 
   explorerFacet: (facet_name, param) ->
-    app.faceted.clear()
-    app.faceted.facet(facet_name).value(param)
+    app.facets.projects.clearValues()
+    app.facets.projects.facet(facet_name).value(param) if facet_name && param
     view = new ExplorerView(collection: app.projects)
     @switchView(view)
 
