@@ -1,10 +1,9 @@
 class ProjectView extends Backbone.View
+  template: -> _.template($('#projectView').html())
 
   initialize: ->
-    @template = _.template($('#projectView').html())
-    @render()
 
   render: ->
-    compiled = @template()
+    compiled = @template()(project: @model.toJSON())
     @$el.html(compiled)
     @

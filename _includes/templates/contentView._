@@ -1,2 +1,9 @@
 <h1>LIST or MAP</h1>
 <p><%= collection.length %> projects</p>
+<ul>
+  <% _.each(collection, function(project){ %>
+    <li>
+      <a href="#project/<%= project.project_id %>"><%= project.project_title %></a>
+    </li>
+  <% }) %>
+</ul>

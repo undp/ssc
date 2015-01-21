@@ -1,8 +1,6 @@
 class Countries extends Backbone.Collection
-  url: 'api/countries.json'
-
-  initialize: (options) ->
-
+  model: Country
+  
   findByIso2: (iso2) ->
     @findWhere(iso2: iso2.toUpperCase())
 

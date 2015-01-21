@@ -1,2 +1,6 @@
 <a href="#/">Home sweet home</a>
 <h1>Details of project</h1>
+<ul>
+  <li><%= project.project_title %></li>
+  <li><%= project.host_location %></li>
+</ul>

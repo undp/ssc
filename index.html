@@ -15,6 +15,11 @@
       {% include templates.html %}
     </div>
 
+    <script type="text/javascript">
+      window.countries = {% include data/countries.json %}
+      window.indices = {% include data/indices.json %}
+    </script>
+
     {% include footer.html %}
   </body>
 </html>

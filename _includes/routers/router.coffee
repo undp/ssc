@@ -3,48 +3,57 @@ Router = Backbone.Router.extend
     @$appEl ||= $("#app")
 
   routes:
-    "": "root"
+    "": "redirect"
+    "all": "all"
+    "location/:location": "byLocation"
     "theme/:theme": "byTheme"
-    "location/:iso3": "byLocation"
     "partner/:partner_type": "byPartner"
     "role/:undp_role": "byRole"
     "project/:id": "project"
     "search/:term": "search"
   
-  root: ->
-    collection = app.projects
-    @switchView(null, collection)
+  redirect: ->
+    @navigate 'all', trigger: true
 
-  byTheme: (theme) ->
-    filtered = app.projects.filterByTheme(theme)
-    collection = new Projects(filtered)
-    @switchView(null, collection)
+  all: ->
+    @explorerFacet()
 
-  byLocation: (iso3) ->
-    filtered = app.projects.filterByLocation(iso3)
-    collection = new Projects(filtered)
-    @switchView(null, collection)
+  byLocation: (param) ->
+    if app.countries.findByIso3(param)
+      facet_name = 'host_location'
+      param = param.toUpperCase()
+      @explorerFacet(facet_name, param)
+    else 
+      facet_name = 'region'
+      @explorerFacet(facet_name, param)
 
-  byPartner: (partner_type) ->
-    filtered = app.projects.filterByPartner(partner_type)
-    collection = new Projects(filtered)
-    @switchView(null, collection)
+  byTheme: (param) ->
+    facet_name = 'thematic_focus'
+    @explorerFacet(facet_name, param)
 
-  byRole: (role) ->
-    filtered = app.projects.filterByRole(role)
-    collection = new Projects(filtered)
-    @switchView(null, collection)
+  byPartner: (param) ->
+    facet_name = 'partner_type'
+    @explorerFacet(facet_name, param)
+
+  byRole: (param) ->
+    facet_name = 'undp_role_type'
+    @explorerFacet(facet_name, param)
+
+  explorerFacet: (facet_name, param) ->
+    app.facets.projects.clearValues()
+    app.facets.projects.facet(facet_name).value(param) if facet_name && param
+    view = new ExplorerView(collection: app.projects)
+    @switchView(view)
 
   project: (id) ->
     @view.remove() if @view
-    project = projects.get(id)
-    @view = new ProjectView(model: project)
-    @$appEl.html(@view.render())
+    project = app.projects.get(id)
+    view = new ProjectView(model: project)
+    @switchView(view)
 
-  switchView: (view, collection) ->
+  switchView: (view) ->
     @view.remove() if @view
-    view = ExplorerView unless view
-
-    @view = new view(collection: collection)
-    @$appEl.html(@view.render())
+    @view = view
+    @view.render()
+    @$appEl.html(@view.$el)
 
