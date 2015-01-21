@@ -4,3 +4,5 @@
   <li><%= project.project_title %></li>
   <li><%= project.host_location %></li>
 </ul>
+
+<a href="<%= project.prose_edit_link %>">Edit</a>

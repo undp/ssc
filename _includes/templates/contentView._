@@ -3,7 +3,9 @@
 <ul>
   <% _.each(collection, function(project){ %>
     <li>
-      <a href="#project/<%= project.project_id %>">[<%= project.project_id %>] <%= project.project_title %></a>
+      <a href="#project/<%= project.project_id %>">
+        <%= project.project_title %> [<%= project.project_id %>] 
+      </a>
     </li>
   <% }) %>
 </ul>
