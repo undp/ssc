@@ -11,6 +11,7 @@ baseurl = "{{ site.baseurl }}"
 {% include views/app-layout.coffee %} # AppLayout
 {% include views/project-view.coffee %} # ProjectView
 {% include views/explorer-view.coffee %} # ExplorerView
+{% include views/filter-view.coffee %} # FilterView
 {% include views/content-view.coffee %} # ContentView
 
 # Controllers

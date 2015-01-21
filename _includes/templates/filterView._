@@ -1,0 +1,12 @@
+<a id='clearSearch' href='#'><h1>SEARCH</h1></a>
+<div><input id='searchField' type='text'></input></div>
+<a href="#all"><h1>FILTERS</h1></a>
+<div>STATE: <%= filterState %></div>
+<ul>
+  <li><a href="#all">ALL projects</a></li>
+  <li><a href="#location/ury">LOCATION: URY projects</a></li>
+  <li><a href="#location/bwa">LOCATION: BWA projects</a></li>
+  <li><a href="#theme/sustainable_development">THEME: sustainable_development projects</a></li>
+  <li><a href="#role/capacity_builder">ROLE: capacity_builder projects</a></li>
+  <li><a href="#partner/national_governments">PARTNER: national_governments projects</a></li>
+</ul>
