@@ -6,7 +6,6 @@ baseurl = "{{ site.baseurl }}"
 {% include models/project.coffee %} # Project
 {% include collections/countries.coffee %} # Countries
 {% include collections/projects.coffee %} # Projects
-{% include collections/connections.coffee %} # Connections
 
 # Views
 {% include views/app-layout.coffee %} # AppLayout
