@@ -11,6 +11,3 @@ class ProjectFacets
     @projects.facet('thematic_focus')
     @projects.facet('undp_role_type')
     @projects.facet('partner_type')
-
-  facetLists: ->
-    regionFacet = facets.filter((i) -> i.data.name == 'region')[0]

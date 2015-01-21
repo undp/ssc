@@ -1,5 +1,3 @@
-<a id='clearSearch' href='#'><h1>SEARCH</h1></a>
-<div><input id='searchField' type='text'></input></div>
 <a href="#all"><h1>FILTERS</h1></a>
 <div>STATE: <%= collection.length %></div>
 <li><a href="#all">ALL projects / remove filters</a></li>
