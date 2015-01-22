@@ -6,10 +6,11 @@ class FilterView extends Backbone.View
 
   render: ->
     facets = app.projects.facetr.toJSON()
-    regionFacet = facets.filter((i) -> i.data.name == 'region')[0]
+    filterFacets = _.groupBy(app.filters.search('af'), (i) ->
+      i.get('type')
+    )
     compiled = @template()(
       collection: @collection
-      regionFacet: regionFacet
-      filterState: 'not stated'
+      filterFacets: filterFacets
     )
     @$el.html(compiled)

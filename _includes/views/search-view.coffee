@@ -11,6 +11,10 @@ class SearchView extends Backbone.View
 
   search: (ev) ->
     term = ev.currentTarget.value
+    results = app.filters.search(term)
+    console.log results.map (i) -> 
+      "#{i.get('type')}: #{i.id}"
+
     # if no filters active then return relevant filter 
     # else search for term within currently filtered projects
 
