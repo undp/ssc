@@ -2,91 +2,109 @@
   {
     "name": "International cooperation / development agencies",
     "short": "international_cooperation_development_agencies",
-    "type": "partner_type"
+    "type": "partner_type",
+    "forFilter": "partner"
   },
   {
     "name": "Regional / inter-governmental organizations",
     "short": "regional_inter_governmental_organizations",
-    "type": "partner_type"
+    "type": "partner_type",
+    "forFilter": "partner"
   },
   {
     "name": "National governments",
     "short": "national_governments",
-    "type": "partner_type"
+    "type": "partner_type",
+    "forFilter": "partner"
   },
   {
     "name": "Sub-national governments",
     "short": "sub_national_governments",
-    "type": "partner_type"
+    "type": "partner_type",
+    "forFilter": "partner"
   },
   {
     "name": "CSO",
     "short": "cso",
-    "type": "partner_type"
+    "type": "partner_type",
+    "forFilter": "partner"
   },
   {
     "name": "Academia",
     "short": "academia",
-    "type": "partner_type"
+    "type": "partner_type",
+    "forFilter": "partner"
   },
   {
     "name": "Private sector",
     "short": "private_sector",
-    "type": "partner_type"
+    "type": "partner_type",
+    "forFilter": "partner"
   },
   {
     "name": "Latin America & Caribbean",
     "short": "lac",
-    "type": "region"
+    "type": "region",
+    "forFilter": "location"
   },
   {
     "name": "Africa",
     "short": "africa",
-    "type": "region"
+    "type": "region",
+    "forFilter": "location"
   },
   {
     "name": "Asia & Pacific",
     "short": "asia_pacific",
-    "type": "region"
+    "type": "region",
+    "forFilter": "location"
   },
   {
     "name": "Arab States",
     "short": "arab_states",
-    "type": "region"
+    "type": "region",
+    "forFilter": "location"
   },
   {
     "name": "Europe & CIS",
     "short": "europe_cis",
-    "type": "region"
+    "type": "region",
+    "forFilter": "location"
   },
   {
     "name": "Sustainable development",
     "short": "sustainable_development",
-    "type": "thematic_focus"
+    "type": "thematic_focus",
+    "forFilter": "theme"
   },
   {
     "name": "Resilience building",
     "short": "resilience_building",
-    "type": "thematic_focus"
+    "type": "thematic_focus",
+    "forFilter": "theme"
   },
   {
     "name": "Democratic governance",
     "short": "inclusive_and_effective_democratic_governance",
-    "type": "thematic_focus"
+    "type": "thematic_focus",
+    "forFilter": "theme"
   },
   {
     "name": "Capacity builder",
     "short": "capacity_builder",
-    "type": "undp_role_type"
+    "type": "undp_role_type",
+    "forFilter": "role"
   },
   {
     "name": "Knowledge broker",
     "short": "knowledge_broker",
-    "type": "undp_role_type"
+    "type": "undp_role_type",
+    "forFilter": "role"
   },
   {
     "name": "Partnership facilitator",
     "short": "partnership_facilitator",
-    "type": "undp_role_type"
+    "type": "undp_role_type",
+    "forFilter": "role"
   }
 ]

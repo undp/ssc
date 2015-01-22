@@ -9,10 +9,8 @@ class Countries extends Backbone.Collection
 
   nameFromIso: (iso) ->
     return unless iso and iso.length > 1 and iso.length < 4
-    try
-      @["nameFromIso#{iso.length}"](iso).get('name')
-    catch
-      throw "Country not found for #{iso}"
+    found = @["nameFromIso#{iso.length}"](iso)
+    found.get('name') if found
 
   isoFromName: (name) ->
     return unless name

@@ -3,14 +3,26 @@ class FilterView extends Backbone.View
 
   initialize: ->
     @listenTo @collection, 'reset', @render
+    @listenTo app.vent, 'search', @search
+    @resetFilterGroups()
+
+  resetFilterGroups: ->
+    @filterGroups = _.groupBy(app.filters.toArray(), (i) ->
+      i.get('forFilter')
+    )
+
+  search: (term) ->
+    if term
+      @filterGroups = _.groupBy(app.filters.search(term), (i) ->
+        i.get('forFilter')
+      )
+    else
+      @resetFilterGroups()
+    @render()
 
   render: ->
-    facets = app.projects.facetr.toJSON()
-    filterFacets = _.groupBy(app.filters.search('af'), (i) ->
-      i.get('type')
-    )
     compiled = @template()(
       collection: @collection
-      filterFacets: filterFacets
+      filterGroups: @filterGroups
     )
     @$el.html(compiled)

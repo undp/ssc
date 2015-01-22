@@ -26,9 +26,14 @@ $(document).ready ->
   app.projects = new Projects
   app.countries = new Countries(window.countries)
   app.filters = new Filters(window.indices)
+  app.vent = {}; app.vent extends Backbone.Events
 
   app.projects.fetch
     success: ->
       app.projects.initFacetr()
       app.router = new Router()
       Backbone.history.start()
+
+app.utils = {}
+app.utils.capitaliseFirstLetter = (string) ->
+  string.charAt(0).toUpperCase() + string.slice(1)

@@ -1,13 +1,15 @@
 <a href="#all"><h1>FILTERS</h1></a>
 <div>STATE: <%= collection.length %></div>
 <li><a href="#all">ALL projects / remove filters</a></li>
-<% _.each(_.keys(filterFacets), function(filterKey){ %>
+<% _.each(_.keys(filterGroups), function(filterKey){ %>
   <ul>
-  <h2><%= filterKey %></h2>
-    <% _.each(filterFacets[filterKey], function(element) { %>
-      <a href="#<%= filterKey %>/<%= element.get('short') %>">
-        <%= element.get('name') %>
-      </a>
+  <h2><%= app.utils.capitaliseFirstLetter(filterKey) %></h2>
+    <% _.each(filterGroups[filterKey], function(element) { %>
+      <li>
+        <a href="#<%= filterKey %>/<%= element.get('short') %>">
+          <%= element.get('name') %>
+        </a>
+      </li>
     <% }) %>
   </ul>  
 <% }) %>
