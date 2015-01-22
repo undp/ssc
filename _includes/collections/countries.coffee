@@ -1,17 +1,23 @@
 class Countries extends Backbone.Collection
   model: Country
   
-  findByIso2: (iso2) ->
+  nameFromIso2: (iso2) ->
     @findWhere(iso2: iso2.toUpperCase())
 
-  findByIso3: (iso3) ->
+  nameFromIso3: (iso3) ->
     @findWhere(iso3: iso3.toUpperCase())
 
-  IsoToName: (iso) ->
-    return unless iso and iso.length
+  nameFromIso: (iso) ->
+    return unless iso and iso.length > 1 and iso.length < 4
     try
-      found = @["findByIso#{iso.length}"](iso)
+      @["nameFromIso#{iso.length}"](iso).get('name')
     catch
-      throw 'Country not found'
-    if found
-      found.get('name')
+      throw "Country not found for #{iso}"
+
+  isoFromName: (name) ->
+    return unless name
+    try
+      @findWhere(name: name).get('iso3')
+    catch e
+      throw "Country not found for #{name}"
+    
