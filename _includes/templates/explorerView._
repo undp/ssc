@@ -1,4 +1,5 @@
-<div id='filters'>
+<div id='controls'>
+  <div id='search'></div>
+  <div id='filters'></div>
 </div>
-<div id='content'>
-</div>
+<div id='content'></div>

@@ -10,6 +10,10 @@ class ExplorerView extends Backbone.View
     compiled = @template()(data)
     @$el.html(compiled)
 
+    @searchView = new SearchView(collection: @collection)
+    @searchView.render()
+    @$el.find('#search').html(@searchView.$el)
+
     @filterView = new FilterView(collection: @collection)
     @filterView.render()
     @$el.find('#filters').html(@filterView.$el)
