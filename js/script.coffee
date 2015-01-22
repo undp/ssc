@@ -4,12 +4,12 @@ baseurl = "{{ site.baseurl }}"
 app = window.app = {}
 
 # Models and Collections
+{% include models/filter.coffee %} # Filter
+{% include models/country.coffee %} # Country
 {% include models/project.coffee %} # Project
-{% include models/indice.coffee %} # Indice
-{% include models/country.coffee %} # Indice
+{% include collections/filters.coffee %} # Filters
 {% include collections/countries.coffee %} # Countries
 {% include collections/projects.coffee %} # Projects
-{% include collections/indices.coffee %} # Indices
 
 # Views
 {% include views/project-view.coffee %} # ProjectView
@@ -25,10 +25,10 @@ app = window.app = {}
 $(document).ready ->
   app.projects = new Projects
   app.countries = new Countries(window.countries)
-  app.indices = new Indices(window.indices)
+  app.filters = new Filters(window.indices)
 
   app.projects.fetch
     success: ->
-        app.facets = new ProjectFacets(app.projects)
-        app.router = new Router()
-        Backbone.history.start()
+      app.projects.initFacetr()
+      app.router = new Router()
+      Backbone.history.start()

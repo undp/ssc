@@ -1,5 +1,5 @@
 class ProjectFacets
-  types: ['location', 'region', 'thematic_focus', 'undp_role_type', 'partner_type']
+  types: ['location', 'region', 'territorial_focus', 'thematic_focus', 'undp_role_type', 'partner_type']
 
   constructor: (collection) ->
     @projects = Facetr(collection)

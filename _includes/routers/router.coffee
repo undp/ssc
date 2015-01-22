@@ -19,7 +19,7 @@ Router = Backbone.Router.extend
     @explorerFacet()
 
   byLocation: (param) ->
-    if app.countries.findByIso3(param)
+    if app.countries.nameFromIso(param)
       facet_name = 'host_location'
       param = param.toUpperCase()
       @explorerFacet(facet_name, param)
@@ -40,8 +40,8 @@ Router = Backbone.Router.extend
     @explorerFacet(facet_name, param)
 
   explorerFacet: (facet_name, param) ->
-    app.facets.projects.clearValues()
-    app.facets.projects.facet(facet_name).value(param) if facet_name && param
+    app.projects.facetr.clearValues()
+    app.projects.facetr.facet(facet_name).value(param) if facet_name && param
     view = new ExplorerView(collection: app.projects)
     @switchView(view)
 

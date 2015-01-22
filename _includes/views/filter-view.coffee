@@ -5,7 +5,7 @@ class FilterView extends Backbone.View
     @listenTo @collection, 'reset', @render
 
   render: ->
-    facets = app.facets.projects.toJSON()
+    facets = app.projects.facetr.toJSON()
     regionFacet = facets.filter((i) -> i.data.name == 'region')[0]
     compiled = @template()(
       collection: @collection

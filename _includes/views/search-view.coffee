@@ -11,6 +11,16 @@ class SearchView extends Backbone.View
 
   search: (ev) ->
     term = ev.currentTarget.value
+    # if no filters active then return relevant filter 
+    # else search for term within currently filtered projects
+
+  searchFilters: (term) ->
+    app.facets.filters
+
+  searchFullText: (term) ->
+    @searchTitle(term)
+
+  searchTitle: (term) ->
     app.facets.projects.removeFilter('searchTitle')
     app.facets.projects.addFilter('searchTitle', (model) ->
       re = new RegExp(term, "i")
