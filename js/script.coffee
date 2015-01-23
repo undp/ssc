@@ -26,6 +26,7 @@ $(document).ready ->
   app.projects = new Projects
   app.countries = new Countries(window.countries)
   app.filters = new Filters(window.indices)
+  app.filters.addCountries()
   app.vent = {}; app.vent extends Backbone.Events
 
   app.projects.fetch

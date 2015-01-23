@@ -6,7 +6,7 @@
   <h2><%= app.utils.capitaliseFirstLetter(filterKey) %></h2>
     <% _.each(filterGroups[filterKey], function(element) { %>
       <li>
-        <a href="#<%= filterKey %>/<%= element.get('short') %>">
+        <a class='filter result' href="#<%= filterKey %>/<%= element.get('short') %>">
           <%= element.get('name') %>
         </a>
       </li>

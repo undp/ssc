@@ -1,6 +1,14 @@
 class Filters extends Backbone.Collection
   model: Filter
 
+  addCountries: ->
+    _.each window.countries, (country) =>
+      @add
+        name: country.name
+        short: country.iso3
+        type: 'country'
+        forFilter: 'location'
+
   nameFromShort: (short) ->
     @get(short).get('name')
 

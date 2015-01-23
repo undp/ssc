@@ -19,8 +19,6 @@ class SearchView extends Backbone.View
     # if no filters active then return relevant filter 
     # else search for term within currently filtered projects
 
-  searchFullText: (term) ->
-    @searchTitle(term)
 
   searchTitle: (term) ->
     app.projects.facetr.removeFilter('searchTitle')

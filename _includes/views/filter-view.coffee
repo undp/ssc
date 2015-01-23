@@ -1,6 +1,12 @@
 class FilterView extends Backbone.View
   template: ->  _.template($('#filterView').html())
 
+  events:
+    'click .filter.result': 'clicked'
+
+  clicked: (ev) ->
+    console.log 'clicked'
+
   initialize: ->
     @listenTo @collection, 'reset', @render
     @listenTo app.vent, 'search', @search
@@ -19,6 +25,14 @@ class FilterView extends Backbone.View
     else
       @resetFilterGroups()
     @render()
+
+  searchTitle: (term) ->
+    app.projects.facetr.removeFilter('searchTitle')
+    app.projects.facetr.addFilter('searchTitle', (model) ->
+      re = new RegExp(term, "i")
+      model.get('project_title').match(re)
+    )
+
 
   render: ->
     compiled = @template()(
