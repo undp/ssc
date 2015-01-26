@@ -1,6 +1,6 @@
 # Site settings
 baseurl: '/jekyll-data'
-title: SSC Data
+title: SSC Geodata
 email: js@ppls.io
 description: > # South-South Cooperation data
 github_username: onlyjsmith

@@ -1,8 +1,35 @@
-<a href="#/">Home sweet home</a>
-<h1>Details of project</h1>
+<a href="#/">< All projects</a>
+<h1><%= project.project_title %></h1>
 <ul>
-  <li><%= project.project_title %></li>
-  <li><%= project.host_location %></li>
+  <li>
+    <% _.each(project.host_location, function(item) { %>
+      <a href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
+    <% }) %>
+
+    <% if (project.partner_location.length > 0) { %>
+      (collaborated with:
+      <% _.each(project.partner_location, function(item) { %>
+        <a href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
+      <% }) %>
+      )
+    <% } %>
+  </li>
+  <li><%= project.ssc_description %></li>
+  <li>
+    <% _.each(project.partner_type, function(item) { %>
+      <a href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
+    <% }) %>
+  </li>
+  <li>
+    <% _.each(project.thematic_focus, function(item) { %>
+      <a href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
+    <% }) %>
+  </li>
+  <li>
+    <% _.each(project.territorial_focus, function(item) { %>
+      <%= item.name %>
+    <% }) %>
+  </li>
 </ul>
 
 <a href="<%= project.prose_edit_link %>">Edit</a>

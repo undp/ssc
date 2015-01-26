@@ -15,7 +15,6 @@ class Projects extends Backbone.Collection
       i.get('project_title').match(term) || i.get('project_objective').match(term)
 
   addStandardFacets: ->
-    console.log 'addStandardFacets'
     @facetr.facet('location').desc()
     @facetr.facet('region').desc()
     @facetr.facet('thematic_focus').desc()
