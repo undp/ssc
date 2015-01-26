@@ -14,18 +14,19 @@
       )
     <% } %>
   </li>
-  <li><%= project.ssc_description %></li>
-  <li>
+  <li><strong>OBJECTIVE:</strong> <%= project.project_objective %></li>
+  <li><strong>SSC ACTIVITY:</strong> <%= project.ssc_description %></li>
+  <li><strong>PARTNER TYPES:</strong> 
     <% _.each(project.partner_type, function(item) { %>
       <a href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
     <% }) %>
   </li>
-  <li>
+  <li><strong>THEMES:</strong> 
     <% _.each(project.thematic_focus, function(item) { %>
       <a href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
     <% }) %>
   </li>
-  <li>
+  <li><strong>TERRITORIAL FOCUS:</strong> 
     <% _.each(project.territorial_focus, function(item) { %>
       <%= item.name %>
     <% }) %>
