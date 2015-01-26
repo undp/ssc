@@ -1,11 +1,18 @@
-<h1>LIST or MAP</h1>
+<p class='content_control toggle'>
+  <a href='#' class='toggle_list_map'>MAP</a>
+   | 
+  <a href='#' class='toggle_list_map'>LIST</a> 
+</p class='toggle'>
 <p><%= collection.length %> projects</p>
-<ul>
-  <% _.each(collection, function(project){ %>
-    <li>
-      <a href="#project/<%= project.project_id %>">
-        <%= project.project_title %> [<%= project.project_id %>] 
-      </a>
-    </li>
-  <% }) %>
-</ul>
+<div id='list'>
+  <ul>
+    <% _.each(collection, function(project){ %>
+      <li>
+        <a href="#project/<%= project.project_id %>">
+          <%= project.project_title %> [<%= project.project_id %>] 
+        </a>
+      </li>
+    <% }) %>
+  </ul>
+</div>
+<div id='map'></div>

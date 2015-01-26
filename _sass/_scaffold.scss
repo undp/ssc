@@ -13,3 +13,13 @@
 .result .active {
   background: pink;
 }
+
+.contentView {
+  height: 600px;
+  overflow: scroll;
+  #list {
+  }
+  .content_control {
+    float: right;
+  }
+}

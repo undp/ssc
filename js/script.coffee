@@ -37,9 +37,6 @@ $(document).ready ->
   # Events
   app.vent = {}; app.vent extends Backbone.Events
 
-  # Map 
-  app.mapStyles = {% include data/map_styles.json %}
-
   app.projects.fetch
     success: ->
       app.projects.initFacetr()
