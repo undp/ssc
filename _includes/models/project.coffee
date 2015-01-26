@@ -9,4 +9,4 @@ class Project extends Backbone.Model
         @set(field, @get(field).split(','))
 
   allLocations: ->
-    _.flatten(@get('host_location'), @get('partner_location'))
+    _.flatten([@get('host_location'), @get('partner_location')])
