@@ -33,7 +33,6 @@ class FilterView extends Backbone.View
       model.get('project_title').match(re)
     )
 
-
   render: ->
     compiled = @template()(
       collection: @collection
