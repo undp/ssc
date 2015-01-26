@@ -11,6 +11,7 @@ Router = Backbone.Router.extend
     "role/:undp_role": "byRole"
     "project/:id": "project"
     "search/:term": "search"
+    "map": "testMap"
   
   redirect: ->
     @navigate 'all', trigger: true
@@ -56,4 +57,7 @@ Router = Backbone.Router.extend
     @view = view
     @view.render()
     @$appEl.html(@view.$el)
+
+  testMap: ->
+    console.log 'thing'
 

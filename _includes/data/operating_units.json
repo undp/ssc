@@ -1,0 +1,1712 @@
+[
+  {
+    "web": "http://www.ao.undp.org/",
+    "name": "Angola",
+    "id": "AGO",
+    "lon": "17.544676",
+    "iso_num": "024",
+    "lat": "-12.295285",
+    "email": "registry.ao@undp.org"
+  },
+  {
+    "web": "http://www.dz.undp.org/",
+    "name": "Algeria",
+    "id": "DZA",
+    "lon": "2.632388",
+    "iso_num": "012",
+    "lat": "28.163239",
+    "email": "registry.dz@undp.org"
+  },
+  {
+    "web": "http://www.eg.undp.org/",
+    "name": "Egypt",
+    "id": "EGY",
+    "lon": "29.790197",
+    "iso_num": "818",
+    "lat": "26.55378",
+    "email": "registry.eg@undp.org"
+  },
+  {
+    "web": "http://www.bd.undp.org/",
+    "name": "Bangladesh",
+    "id": "BGD",
+    "lon": "90.268498",
+    "iso_num": "050",
+    "lat": "23.843232",
+    "email": "communications.bgd@undp.org"
+  },
+  {
+    "web": "http://www.na.undp.org/",
+    "name": "Namibia",
+    "id": "NAM",
+    "lon": "17.218278",
+    "iso_num": "516",
+    "lat": "-22.133246",
+    "email": "registry.namibia@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Bulgaria",
+    "id": "BGR",
+    "lon": "25.231506",
+    "iso_num": "100",
+    "lat": "42.761377",
+    "email": "registry.bg@undp.org"
+  },
+  {
+    "web": "http://www.bo.undp.org/",
+    "name": "Bolivia (Plurinational State of)",
+    "id": "BOL",
+    "lon": "-64.670932",
+    "iso_num": "068",
+    "lat": "-16.71461",
+    "email": "registry.bo@undp.org"
+  },
+  {
+    "web": "http://www.gh.undp.org/",
+    "name": "Ghana",
+    "id": "GHA",
+    "lon": "-1.207301",
+    "iso_num": "288",
+    "lat": "7.177092",
+    "email": "registry.gh@undp.org"
+  },
+  {
+    "web": "http://undp.org.pk/",
+    "name": "Pakistan",
+    "id": "PAK",
+    "lon": "68.790144",
+    "iso_num": "586",
+    "lat": "29.357903",
+    "email": "registry.pk@undp.org"
+  },
+  {
+    "web": "http://www.ps.undp.org/",
+    "name": "Prog for Palestinian People",
+    "id": "PAL",
+    "lon": "35.25",
+    "iso_num": "275",
+    "lat": "32.1",
+    "email": "registry.papp@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Cape Verde",
+    "id": "CPV",
+    "lon": "-23.967785",
+    "iso_num": "132",
+    "lat": "15.978973",
+    "email": "unoffice.cv@one.un.org"
+  },
+  {
+    "web": "http://www.hn.undp.org/",
+    "name": "Honduras",
+    "id": "HND",
+    "lon": "-86.619146",
+    "iso_num": "340",
+    "lat": "14.819222",
+    "email": "UNDPregistry.hn@undp.org"
+  },
+  {
+    "web": "http://www.jo.undp.org/",
+    "name": "Jordan",
+    "id": "JOR",
+    "lon": "36.288613",
+    "iso_num": "400",
+    "lat": "31.312616",
+    "email": "registry.jo@undp.org"
+  },
+  {
+    "web": "http://www.lr.undp.org/",
+    "name": "Liberia",
+    "id": "LBR",
+    "lon": "-9.307914",
+    "iso_num": "430",
+    "lat": "6.448092",
+    "email": "registry.lr@undp.org"
+  },
+  {
+    "web": "http://www.ly.undp.org/",
+    "name": "Libyan Arab Jamahiriya",
+    "id": "LBY",
+    "lon": "18.023287",
+    "iso_num": "434",
+    "lat": "27.043954",
+    "email": "registry.ly@undp.org"
+  },
+  {
+    "web": "http://www.undp.org.my/",
+    "name": "Malaysia",
+    "id": "MYS",
+    "lon": "109.708194",
+    "iso_num": "458",
+    "lat": "3.792367",
+    "email": "registry.my@undp.org"
+  },
+  {
+    "web": "http://www.kp.undp.org/",
+    "name": "Korea, Democratic People's Republic of",
+    "id": "PRK",
+    "lon": "127.181957",
+    "iso_num": "408",
+    "lat": "40.143064",
+    "email": "registry.kp@undp.org"
+  },
+  {
+    "web": "http://www.tz.undp.org/",
+    "name": "Tanzania (United Republic of)",
+    "id": "TZA",
+    "lon": "34.823454",
+    "iso_num": "834",
+    "lat": "-6.270354",
+    "email": "registry.tz@undp.org"
+  },
+  {
+    "web": "http://www.bw.undp.org/",
+    "name": "Botswana",
+    "id": "BWA",
+    "lon": "23.815028",
+    "iso_num": "072",
+    "lat": "-22.182004",
+    "email": "registry.bw@undp.org"
+  },
+  {
+    "web": "http://www.kh.undp.org/",
+    "name": "Cambodia",
+    "id": "KHM",
+    "lon": "104.923981",
+    "iso_num": "116",
+    "lat": "12.716432",
+    "email": "registry.kh@undp.org"
+  },
+  {
+    "web": "http://www.undp.org.tt/",
+    "name": "Trinidad and Tobago",
+    "id": "TTO",
+    "lon": "-61.253177",
+    "iso_num": "780",
+    "lat": "10.468641",
+    "email": "registry.tt@undp.org"
+  },
+  {
+    "web": "http://www.py.undp.org/",
+    "name": "Paraguay",
+    "id": "PRY",
+    "lon": "-58.296144",
+    "iso_num": "600",
+    "lat": "-23.236211",
+    "email": "registry.py@undp.org"
+  },
+  {
+    "web": null,
+    "name": "UN Capital Development  Fund",
+    "id": "H59",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.sa.undp.org/",
+    "name": "Saudi Arabia",
+    "id": "SAU",
+    "lon": "44.545719",
+    "iso_num": "682",
+    "lat": "24.122888",
+    "email": "registry.sa@undp.org"
+  },
+  {
+    "web": "http://www.lb.undp.org/",
+    "name": "Lebanon",
+    "id": "LBN",
+    "lon": "35.888027",
+    "iso_num": "422",
+    "lat": "33.920267",
+    "email": "registry.lb@undp.org"
+  },
+  {
+    "web": "http://www.bf.undp.org/",
+    "name": "Burkina Faso",
+    "id": "BFA",
+    "lon": "-1.740141",
+    "iso_num": "854",
+    "lat": "12.27793",
+    "email": "registry.bf@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Bratislava Regional Center",
+    "id": "SVK",
+    "lon": "17.107",
+    "iso_num": "703",
+    "lat": "48.148",
+    "email": null
+  },
+  {
+    "web": "http://www.mr.undp.org/",
+    "name": "Mauritania",
+    "id": "MRT",
+    "lon": "-10.332298",
+    "iso_num": "478",
+    "lat": "20.259851",
+    "email": "registry.mr@undp.org"
+  },
+  {
+    "web": "http://www.hr.undp.org/",
+    "name": "Croatia",
+    "id": "HRV",
+    "lon": "16.411778",
+    "iso_num": "191",
+    "lat": "45.251162",
+    "email": "registry.hr@undp.org"
+  },
+  {
+    "web": "http://www.pnud.cl/",
+    "name": "Chile",
+    "id": "CHL",
+    "lon": "-70.947023",
+    "iso_num": "152",
+    "lat": "-33.82011",
+    "email": "registry.cl@undp.org"
+  },
+  {
+    "web": "http://www.undp.org.cn/",
+    "name": "China",
+    "id": "CHN",
+    "lon": "103.904056",
+    "iso_num": "156",
+    "lat": "36.567909",
+    "email": "registry.cn@undp.org"
+  },
+  {
+    "web": "http://www.fj.undp.org/",
+    "name": "Micronesia (Federated States of)",
+    "id": "FSM",
+    "lon": "159.404221",
+    "iso_num": "583",
+    "lat": "6.49238",
+    "email": "registry.fj@undp.org"
+  },
+  {
+    "web": "http://www.jm.undp.org/",
+    "name": "Jamaica",
+    "id": "JAM",
+    "lon": "-77.319011",
+    "iso_num": "388",
+    "lat": "18.151419",
+    "email": "registry.jm@undp.org"
+  },
+  {
+    "web": "http://www.pe.undp.org/",
+    "name": "Peru",
+    "id": "PER",
+    "lon": "-75.229543",
+    "iso_num": "604",
+    "lat": "-10.017675",
+    "email": "fo.per@undp.org"
+  },
+  {
+    "web": "http://www.dj.undp.org/",
+    "name": "Djibouti",
+    "id": "DJI",
+    "lon": "42.577765",
+    "iso_num": "262",
+    "lat": "11.749676",
+    "email": "registry.dj@undp.org"
+  },
+  {
+    "web": "http://www.gn.undp.org/",
+    "name": "Guinea",
+    "id": "GIN",
+    "lon": "-11.226411",
+    "iso_num": "324",
+    "lat": "10.81773",
+    "email": "registry.gn@undp.org"
+  },
+  {
+    "web": "http://www.uy.undp.org/",
+    "name": "Uruguay",
+    "id": "URY",
+    "lon": "-56.012396",
+    "iso_num": "858",
+    "lat": "-32.799645",
+    "email": "fouru@undp.org"
+  },
+  {
+    "web": "http://www.th.undp.org/",
+    "name": "Thailand",
+    "id": "THA",
+    "lon": "101.017361",
+    "iso_num": "764",
+    "lat": "15.127036",
+    "email": "info.thailand@undp.org"
+  },
+  {
+    "web": "http://www.mu.undp.org/",
+    "name": "Seychelles",
+    "id": "SYC",
+    "lon": "52.229899",
+    "iso_num": "690",
+    "lat": "-6.35437",
+    "email": "registry.mu@undp.org"
+  },
+  {
+    "web": "http://www.np.undp.org/",
+    "name": "Nepal",
+    "id": "NPL",
+    "lon": "83.938548",
+    "iso_num": "524",
+    "lat": "28.253007",
+    "email": "registry.np@undp.org"
+  },
+  {
+    "web": "http://www.ma.undp.org/",
+    "name": "Morocco",
+    "id": "MAR",
+    "lon": "-6.270405",
+    "iso_num": "504",
+    "lat": "32.310583",
+    "email": "registry.ma@undp.org"
+  },
+  {
+    "web": "http://www.ye.undp.org/",
+    "name": "Yemen",
+    "id": "YEM",
+    "lon": "47.599591",
+    "iso_num": "887",
+    "lat": "15.905517",
+    "email": "registry.ye@undp.org"
+  },
+  {
+    "web": "http://www.ph.undp.org/",
+    "name": "Philippines",
+    "id": "PHL",
+    "lon": "122.878708",
+    "iso_num": "608",
+    "lat": "11.741833",
+    "email": "registry.ph@undp.org"
+  },
+  {
+    "web": "http://www.za.undp.org/",
+    "name": "South Africa",
+    "id": "ZAF",
+    "lon": "24.70926",
+    "iso_num": "710",
+    "lat": "-28.329047",
+    "email": "registry.za@undp.org"
+  },
+  {
+    "web": "http://www.fj.undp.org/",
+    "name": "Kiribati",
+    "id": "KIR",
+    "lon": "-154.458271",
+    "iso_num": "296",
+    "lat": "1.834562",
+    "email": "registry.fj@undp.org"
+  },
+  {
+    "web": "http://www.undp.ro/",
+    "name": "Romania",
+    "id": "ROU",
+    "lon": "24.969259",
+    "iso_num": "642",
+    "lat": "45.843615",
+    "email": null
+  },
+  {
+    "web": "http://www.undp.org.sy/",
+    "name": "Syrian Arab Republic",
+    "id": "SYR",
+    "lon": "38.505132",
+    "iso_num": "760",
+    "lat": "35.013134",
+    "email": "registry.sy@undp.org"
+  },
+  {
+    "web": "http://www.undp.org.ni/",
+    "name": "Nicaragua",
+    "id": "NIC",
+    "lon": "-85.034783",
+    "iso_num": "558",
+    "lat": "12.839906",
+    "email": "registry.ni@undp.org"
+  },
+  {
+    "web": "http://www.kz.undp.org/",
+    "name": "Kazakhstan",
+    "id": "KAZ",
+    "lon": "67.302857",
+    "iso_num": "398",
+    "lat": "48.160272",
+    "email": "registry.kz@undp.org"
+  },
+  {
+    "web": null,
+    "name": "PB/South Korea Liaison Office",
+    "id": "H62",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.ws.undp.org/",
+    "name": "Niue",
+    "id": "NIU",
+    "lon": "-169.868781",
+    "iso_num": "570",
+    "lat": "-19.05231",
+    "email": "registry.ws@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Dominica",
+    "id": "DMA",
+    "lon": "-61.355757",
+    "iso_num": "212",
+    "lat": "15.435595",
+    "email": null
+  },
+  {
+    "web": "http://www.bj.undp.org/",
+    "name": "Benin",
+    "id": "BEN",
+    "lon": "2.461735",
+    "iso_num": "204",
+    "lat": "10.501237",
+    "email": "registry.bj@undp.org"
+  },
+  {
+    "web": "http://www.ng.undp.org/",
+    "name": "Nigeria",
+    "id": "NGA",
+    "lon": "8.105306",
+    "iso_num": "566",
+    "lat": "9.59396",
+    "email": "registry.ng@undp.org"
+  },
+  {
+    "web": "http://www.latinamerica.undp.org/",
+    "name": "Reg Bur Latin Amer & Carib",
+    "id": "H03",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.africa.undp.org/",
+    "name": "Reg Bureau for Africa",
+    "id": "H01",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.zw.undp.org/",
+    "name": "Zimbabwe",
+    "id": "ZWE",
+    "lon": "29.729518",
+    "iso_num": "716",
+    "lat": "-19.379617",
+    "email": "registry.zw@undp.org"
+  },
+  {
+    "web": "http://arabstates.undp.org/",
+    "name": "Reg Bur for Arab States",
+    "id": "H05",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": "rbas-info@undp.org"
+  },
+  {
+    "web": "http://www.lk.undp.org/",
+    "name": "Sri Lanka",
+    "id": "LKA",
+    "lon": "80.704727",
+    "iso_num": "144",
+    "lat": "7.608086",
+    "email": "registry.lk@undp.org"
+  },
+  {
+    "web": "http://www.gy.undp.org/",
+    "name": "Guyana",
+    "id": "GUY",
+    "lon": "-59.1171",
+    "iso_num": "328",
+    "lat": "5.883132",
+    "email": "registry.gy@undp.org"
+  },
+  {
+    "web": "http://www.cr.undp.org/",
+    "name": "Costa Rica",
+    "id": "CRI",
+    "lon": "-84.187942",
+    "iso_num": "188",
+    "lat": "9.970203",
+    "email": "registry.cr@undp.org"
+  },
+  {
+    "web": "http://www.et.undp.org/",
+    "name": "Ethiopia",
+    "id": "ETH",
+    "lon": "39.616176",
+    "iso_num": "231",
+    "lat": "8.633291",
+    "email": "registry.et@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Dakar Regional Service Centre",
+    "id": "R11",
+    "lon": "-17.444",
+    "iso_num": null,
+    "lat": "14.694",
+    "email": "rcd.registry@undp.org"
+  },
+  {
+    "web": "http://www.ne.undp.org/",
+    "name": "Niger",
+    "id": "NER",
+    "lon": "9.397648",
+    "iso_num": "562",
+    "lat": "17.426149",
+    "email": "registry.ne@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Tokelau",
+    "id": "TKL",
+    "lon": "-171.85266",
+    "iso_num": "772",
+    "lat": "-9.195175",
+    "email": null
+  },
+  {
+    "web": "http://www.tm.undp.org/",
+    "name": "Turkmenistan",
+    "id": "TKM",
+    "lon": "59.383984",
+    "iso_num": "795",
+    "lat": "39.122335",
+    "email": "registry.tm@undp.org"
+  },
+  {
+    "web": "http://undpsuriname.org/",
+    "name": "Suriname",
+    "id": "SUR",
+    "lon": "-55.959266",
+    "iso_num": "740",
+    "lat": "4.458473",
+    "email": "registry.sr@undp.org"
+  },
+  {
+    "web": "http://www.pa.undp.org/",
+    "name": "Panama",
+    "id": "PAN",
+    "lon": "-80.102662",
+    "iso_num": "591",
+    "lat": "8.507186",
+    "email": "informacion.pa@undp.org"
+  },
+  {
+    "web": "http://www.td.undp.org/",
+    "name": "Chad",
+    "id": "TCD",
+    "lon": "18.66448",
+    "iso_num": "148",
+    "lat": "15.361167",
+    "email": "registry.td@undp.org"
+  },
+  {
+    "web": "http://www.ge.undp.org/",
+    "name": "Georgia",
+    "id": "GEO",
+    "lon": "43.517446",
+    "iso_num": "268",
+    "lat": "42.176312",
+    "email": "registry.ge@undp.org"
+  },
+  {
+    "web": "http://www.me.undp.org/",
+    "name": "Montenegro",
+    "id": "MNE",
+    "lon": "19.250305",
+    "iso_num": "499",
+    "lat": "42.791593",
+    "email": "registry.me@undp.org"
+  },
+  {
+    "web": "http://www.mn.undp.org/",
+    "name": "Mongolia",
+    "id": "MNG",
+    "lon": "103.083218",
+    "iso_num": "496",
+    "lat": "46.835291",
+    "email": "registry.mn@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Office of Human Resources",
+    "id": "H18",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.fj.undp.org/",
+    "name": "Marshall Islands",
+    "id": "MHL",
+    "lon": "168.626921",
+    "iso_num": "584",
+    "lat": "7.643273",
+    "email": "registry.fj@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Office of the Administrator",
+    "id": "H13",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.bz.undp.org/",
+    "name": "Belize",
+    "id": "BLZ",
+    "lon": "-88.684767",
+    "iso_num": "084",
+    "lat": "17.217666",
+    "email": "undp.belize@undp.org"
+  },
+  {
+    "web": null,
+    "name": "BCPR",
+    "id": "H10",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": null,
+    "name": "Evaluation Office",
+    "id": "H11",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.undp.org.af/",
+    "name": "Afghanistan",
+    "id": "AFG",
+    "lon": "66.026471",
+    "iso_num": "004",
+    "lat": "33.838806",
+    "email": "registry.af@undp.org"
+  },
+  {
+    "web": "http://www.bi.undp.org/",
+    "name": "Burundi",
+    "id": "BDI",
+    "lon": "29.887145",
+    "iso_num": "108",
+    "lat": "-3.356175",
+    "email": "registry.bi@undp.org"
+  },
+  {
+    "web": "http://undp.by/en/",
+    "name": "Belarus",
+    "id": "BLR",
+    "lon": "28.046788",
+    "iso_num": "112",
+    "lat": "53.539998",
+    "email": "dpi_by@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Grenada",
+    "id": "GRD",
+    "lon": "-61.67938",
+    "iso_num": "308",
+    "lat": "12.112925",
+    "email": null
+  },
+  {
+    "web": "http://www.rw.undp.org/",
+    "name": "Rwanda",
+    "id": "RWA",
+    "lon": "29.917652",
+    "iso_num": "646",
+    "lat": "-1.997892",
+    "email": "registry.rw@undp.org"
+  },
+  {
+    "web": "http://www.undp.org.ar/",
+    "name": "Argentina",
+    "id": "ARG",
+    "lon": "-63.839414",
+    "iso_num": "032",
+    "lat": "-31.486376",
+    "email": "registry.ar@undp.org"
+  },
+  {
+    "web": "http://asia-pacific.undp.org/",
+    "name": "Pacific Centre (PC)",
+    "id": "PSC",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": "registry.pacificcentre@undp.org"
+  },
+  {
+    "web": "http://www.tj.undp.org/",
+    "name": "Tajikistan",
+    "id": "TJK",
+    "lon": "71.350363",
+    "iso_num": "762",
+    "lat": "38.860256",
+    "email": "registry.tj@undp.org"
+  },
+  {
+    "web": "http://www.ht.undp.org/",
+    "name": "Haiti",
+    "id": "HTI",
+    "lon": "-72.762477",
+    "iso_num": "332",
+    "lat": "18.870449",
+    "email": "registry.ht@undp.org"
+  },
+  {
+    "web": "http://www.undp.org.mx/",
+    "name": "Mexico",
+    "id": "MEX",
+    "lon": "-102.532885",
+    "iso_num": "484",
+    "lat": "23.950464",
+    "email": "registry.mx@undp.org"
+  },
+  {
+    "web": "http://www.bb.undp.org/",
+    "name": "Saint Lucia",
+    "id": "LCA",
+    "lon": "-60.968711",
+    "iso_num": "662",
+    "lat": "13.897866",
+    "email": "registry.bb@undp.org"
+  },
+  {
+    "web": "http://www.in.undp.org/",
+    "name": "India",
+    "id": "IND",
+    "lon": "79.386009",
+    "iso_num": "356",
+    "lat": "22.326122",
+    "email": "info.in@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Latvia",
+    "id": "LVA",
+    "lon": "24.929424",
+    "iso_num": "428",
+    "lat": "56.857534",
+    "email": null
+  },
+  {
+    "web": "http://www.bt.undp.org/",
+    "name": "Bhutan",
+    "id": "BTN",
+    "lon": "90.429435",
+    "iso_num": "064",
+    "lat": "27.415414",
+    "email": "registry.bt@undp.org"
+  },
+  {
+    "web": "http://www.bb.undp.org/",
+    "name": "Saint Vincent and the Grenadines",
+    "id": "VCT",
+    "lon": "-61.193766",
+    "iso_num": "670",
+    "lat": "13.254811",
+    "email": "registry.bb@undp.org"
+  },
+  {
+    "web": "http://www.vn.undp.org/",
+    "name": "Viet Nam",
+    "id": "VNM",
+    "lon": "108.341384",
+    "iso_num": "704",
+    "lat": "14.287268",
+    "email": "registry.vn@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Antigua and Barbuda",
+    "id": "ATG",
+    "lon": "-61.791237",
+    "iso_num": "028",
+    "lat": "17.279818",
+    "email": null
+  },
+  {
+    "web": "http://www.fj.undp.org/",
+    "name": "Fiji",
+    "id": "FJI",
+    "lon": "171.983227",
+    "iso_num": "242",
+    "lat": "-17.45353",
+    "email": "registry.fj@undp.org"
+  },
+  {
+    "web": null,
+    "name": "PB/Liaison/Copenhagen",
+    "id": "H28",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.mu.undp.org/",
+    "name": "Mauritius",
+    "id": "MUS",
+    "lon": "57.870737",
+    "iso_num": "480",
+    "lat": "-20.251869",
+    "email": "registry.mu@undp.org"
+  },
+  {
+    "web": "http://www.do.undp.org/",
+    "name": "Dominican Republic",
+    "id": "DOM",
+    "lon": "-70.223715",
+    "iso_num": "214",
+    "lat": "18.965607",
+    "email": "registry.do@undp.org"
+  },
+  {
+    "web": null,
+    "name": "PB/Liaison/Tokyo",
+    "id": "H25",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": null,
+    "name": "PB/Liaison/Geneva",
+    "id": "H24",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": null,
+    "name": "PB/Liaison/Brussels",
+    "id": "H27",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": null,
+    "name": "Bureau for Dev. Policy",
+    "id": "H21",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": null,
+    "name": "Operations Support Group",
+    "id": "H20",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": null,
+    "name": "PB",
+    "id": "H23",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": null,
+    "name": "BOM/Ofc of Asst Administrator",
+    "id": "H22",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.id.undp.org/",
+    "name": "Indonesia",
+    "id": "IDN",
+    "lon": "117.300428",
+    "iso_num": "360",
+    "lat": "-2.230214",
+    "email": "registry.id@undp.org"
+  },
+  {
+    "web": "http://www.fj.undp.org/",
+    "name": "Vanuatu",
+    "id": "VUT",
+    "lon": "167.718146",
+    "iso_num": "548",
+    "lat": "-16.255053",
+    "email": "registry.fj@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Equatorial Guinea",
+    "id": "GNQ",
+    "lon": "10.341982",
+    "iso_num": "226",
+    "lat": "1.712339",
+    "email": "registry.gq@undp.org"
+  },
+  {
+    "web": "http://www.cd.undp.org/",
+    "name": "Democratic Republic of Congo",
+    "id": "COD",
+    "lon": "23.275488",
+    "iso_num": "180",
+    "lat": "-2.686476",
+    "email": "registry.cd@undp.com"
+  },
+  {
+    "web": "http://www.cg.undp.org/",
+    "name": "Republic of Congo",
+    "id": "COG",
+    "lon": "15.84101",
+    "iso_num": "178",
+    "lat": "-0.176075",
+    "email": "registry.cg@undp.org"
+  },
+  {
+    "web": "http://www.ga.undp.org/",
+    "name": "Gabon",
+    "id": "GAB",
+    "lon": "11.797236",
+    "iso_num": "266",
+    "lat": "-0.590944",
+    "email": "registry.ga@undp.org"
+  },
+  {
+    "web": "http://www.ws.undp.org/",
+    "name": "Cook Islands",
+    "id": "COK",
+    "lon": "-158.908883",
+    "iso_num": "184",
+    "lat": "-20.934038",
+    "email": "registry.ws@undp.org"
+  },
+  {
+    "web": "http://www.km.undp.org/",
+    "name": "Comoros",
+    "id": "COM",
+    "lon": "43.67592",
+    "iso_num": "174",
+    "lat": "-11.892755",
+    "email": "regitry.km@undp.org"
+  },
+  {
+    "web": "http://www.pnud.org.co/",
+    "name": "Colombia",
+    "id": "COL",
+    "lon": "-73.073369",
+    "iso_num": "170",
+    "lat": "3.901156",
+    "email": "fo.col@undp.org"
+  },
+  {
+    "web": "http://www.fj.undp.org/",
+    "name": "Nauru",
+    "id": "NRU",
+    "lon": "166.92313",
+    "iso_num": "520",
+    "lat": "-0.528742",
+    "email": "registry.fj@undp.org"
+  },
+  {
+    "web": "http://www.md.undp.org/",
+    "name": "Moldova (Republic of)",
+    "id": "MDA",
+    "lon": "28.473931",
+    "iso_num": "498",
+    "lat": "47.193869",
+    "email": "registry.md@undp.org"
+  },
+  {
+    "web": "http://www.mg.undp.org/",
+    "name": "Madagascar",
+    "id": "MDG",
+    "lon": "46.706039",
+    "iso_num": "450",
+    "lat": "-19.373383",
+    "email": "registry.mg@undp.org"
+  },
+  {
+    "web": "http://www.pnud.org.ec/",
+    "name": "Ecuador",
+    "id": "ECU",
+    "lon": "-78.340114",
+    "iso_num": "218",
+    "lat": "-1.142781",
+    "email": "registry.ec@undp.org"
+  },
+  {
+    "web": "http://www.sn.undp.org/",
+    "name": "Senegal",
+    "id": "SEN",
+    "lon": "-14.467654",
+    "iso_num": "686",
+    "lat": "14.366966",
+    "email": "registry.sn@undp.org"
+  },
+  {
+    "web": "http://www.mv.undp.org/",
+    "name": "Maldives",
+    "id": "MDV",
+    "lon": "73.252227",
+    "iso_num": "462",
+    "lat": "3.216335",
+    "email": "registry.mv@undp.org"
+  },
+  {
+    "web": "http://www.tl.undp.org/",
+    "name": "Timor-Leste",
+    "id": "TLS",
+    "lon": "125.853675",
+    "iso_num": "626",
+    "lat": "-8.822976",
+    "email": "registry.tp@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Lithuania",
+    "id": "LTU",
+    "lon": "23.898123",
+    "iso_num": "440",
+    "lat": "55.33567",
+    "email": null
+  },
+  {
+    "web": "http://www.mz.undp.org/",
+    "name": "Mozambique",
+    "id": "MOZ",
+    "lon": "35.788621",
+    "iso_num": "508",
+    "lat": "-17.638842",
+    "email": "registry.mz@undp.org"
+  },
+  {
+    "web": "http://www.zm.undp.org/",
+    "name": "Zambia",
+    "id": "ZMB",
+    "lon": "27.466171",
+    "iso_num": "894",
+    "lat": "-13.927416",
+    "email": "registry.zm@undp.org"
+  },
+  {
+    "web": "http://www.gm.undp.org/",
+    "name": "Gambia",
+    "id": "GMB",
+    "lon": "-15.386643",
+    "iso_num": "270",
+    "lat": "13.452649",
+    "email": "registry.gm@undp.org"
+  },
+  {
+    "web": "http://www.gt.undp.org/",
+    "name": "Guatemala",
+    "id": "GTM",
+    "lon": "-90.356242",
+    "iso_num": "320",
+    "lat": "15.702135",
+    "email": "pnud.gt@undp.org"
+  },
+  {
+    "web": "http://www.ua.undp.org/",
+    "name": "Ukraine",
+    "id": "UKR",
+    "lon": "31.387115",
+    "iso_num": "804",
+    "lat": "49.396606",
+    "email": "registry.ua@undp.org"
+  },
+  {
+    "web": "http://www.cu.undp.org/",
+    "name": "Cuba",
+    "id": "CUB",
+    "lon": "-78.870313",
+    "iso_num": "192",
+    "lat": "21.929528",
+    "email": "registry.cu@undp.org"
+  },
+  {
+    "web": "http://www.pnud.org.ve/",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "id": "VEN",
+    "lon": "-65.647727",
+    "iso_num": "862",
+    "lat": "7.786605",
+    "email": "registry.ve@undp.org"
+  },
+  {
+    "web": "http://asia-pacific.undp.org/",
+    "name": "Reg Bureau for Asia & Pacific",
+    "id": "H04",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.fj.undp.org/",
+    "name": "Palau",
+    "id": "PLW",
+    "lon": "134.568687",
+    "iso_num": "585",
+    "lat": "7.501882",
+    "email": "registry.fj@undp.org"
+  },
+  {
+    "web": "http://www.ke.undp.org/",
+    "name": "Kenya",
+    "id": "KEN",
+    "lon": "37.858021",
+    "iso_num": "404",
+    "lat": "0.529562",
+    "email": "registry.ke@undp.org"
+  },
+  {
+    "web": "http://www.la.undp.org",
+    "name": "Lao People's Democratic Republic",
+    "id": "LAO",
+    "lon": "103.763291",
+    "iso_num": "418",
+    "lat": "18.502744",
+    "email": "info.la@undp.org"
+  },
+  {
+    "web": "http://www.tr.undp.org/",
+    "name": "Turkey",
+    "id": "TUR",
+    "lon": "35.179672",
+    "iso_num": "792",
+    "lat": "39.060595",
+    "email": "registry.tr@undp.org"
+  },
+  {
+    "web": "http://www.undp.org.al/",
+    "name": "Albania",
+    "id": "ALB",
+    "lon": "20.068385",
+    "iso_num": "008",
+    "lat": "41.142285",
+    "email": "registry.al@undp.org"
+  },
+  {
+    "web": "http://www.fj.undp.org/",
+    "name": "Tuvalu",
+    "id": "TUV",
+    "lon": "178.557551",
+    "iso_num": "798",
+    "lat": "-7.827722",
+    "email": "registry.fj@undp.org"
+  },
+  {
+    "web": "http://www.mm.undp.org/",
+    "name": "Myanmar",
+    "id": "MMR",
+    "lon": "96.506921",
+    "iso_num": "104",
+    "lat": "21.154319",
+    "email": "registry.mm@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Cairo Regional Center",
+    "id": "R44",
+    "lon": "31.25",
+    "iso_num": null,
+    "lat": "30.063",
+    "email": null
+  },
+  {
+    "web": "http://www.regionalcentrelac-undp.org/index.php?lang=en",
+    "name": "Panama Regional Center",
+    "id": "R46",
+    "lon": "-79.52",
+    "iso_num": null,
+    "lat": "8.994",
+    "email": "rcpanama@undp.org"
+  },
+  {
+    "web": "http://www.tn.undp.org/",
+    "name": "Tunisia",
+    "id": "TUN",
+    "lon": "8.944619",
+    "iso_num": "788",
+    "lat": "33.9211",
+    "email": "registry.tn@undp.org"
+  },
+  {
+    "web": "http://www.undp.ru/",
+    "name": "Russian Federation",
+    "id": "RUS",
+    "lon": "96.682513",
+    "iso_num": "643",
+    "lat": "61.991755",
+    "email": "registry.ru@undp.org"
+  },
+  {
+    "web": "http://regionalcentrebangkok.undp.or.th/",
+    "name": "Rgnl Center in Bangkok (RCB)",
+    "id": "BRC",
+    "lon": "100.501",
+    "iso_num": null,
+    "lat": "13.754",
+    "email": "registry.th@undp.org"
+  },
+  {
+    "web": "http://www.bb.undp.org/",
+    "name": "Barbados",
+    "id": "BRB",
+    "lon": "-59.561955",
+    "iso_num": "052",
+    "lat": "13.178715",
+    "email": "registry.bb@undp.org"
+  },
+  {
+    "web": "http://www.pnud.org.br/",
+    "name": "Brazil",
+    "id": "BRA",
+    "lon": "-53.08982",
+    "iso_num": "076",
+    "lat": "-10.773109",
+    "email": "0"
+  },
+  {
+    "web": "http://www.rs.undp.org/",
+    "name": "Serbia",
+    "id": "SRB",
+    "lon": "20.805272",
+    "iso_num": "688",
+    "lat": "44.031498",
+    "email": "registry.rs@undp.org"
+  },
+  {
+    "web": "http://www.mk.undp.org/",
+    "name": "The former Yugoslav Republic of Macedonia",
+    "id": "MKD",
+    "lon": "21.697476",
+    "iso_num": "807",
+    "lat": "41.599682",
+    "email": "registry.mk@undp.org"
+  },
+  {
+    "web": "http://www.ws.undp.org/",
+    "name": "Samoa",
+    "id": "WSM",
+    "lon": "-172.159464",
+    "iso_num": "882",
+    "lat": "-13.758364",
+    "email": "registry.ws@undp.org"
+  },
+  {
+    "web": "http://www.az.undp.org/",
+    "name": "Azerbaijan",
+    "id": "AZE",
+    "lon": "47.532767",
+    "iso_num": "031",
+    "lat": "40.292173",
+    "email": "registry.az@undp.org"
+  },
+  {
+    "web": "http://www.gw.undp.org/",
+    "name": "Guinea-Bissau",
+    "id": "GNB",
+    "lon": "-14.965217",
+    "iso_num": "624",
+    "lat": "12.030308",
+    "email": "registry.gw@undp.org"
+  },
+  {
+    "web": "http://www.sz.undp.org/",
+    "name": "Swaziland",
+    "id": "SWZ",
+    "lon": "31.497528",
+    "iso_num": "748",
+    "lat": "-26.562642",
+    "email": "registry.sz@undp.org"
+  },
+  {
+    "web": "http://www.fj.undp.org/",
+    "name": "Tonga",
+    "id": "TON",
+    "lon": "-174.836286",
+    "iso_num": "776",
+    "lat": "-20.40292",
+    "email": "registry.fj@undp.org"
+  },
+  {
+    "web": "http://www.ci.undp.org/",
+    "name": "Côte d'Ivoire",
+    "id": "CIV",
+    "lon": "-5.5319",
+    "iso_num": "384",
+    "lat": "8.461729",
+    "email": "registry.ci@undp.org"
+  },
+  {
+    "web": "http://www.ks.undp.org/",
+    "name": "Kosovo",
+    "id": "KOS",
+    "lon": "20.872",
+    "iso_num": "999",
+    "lat": "42.571",
+    "email": "registry.ks@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Korea (Republic of)",
+    "id": "KOR",
+    "lon": "127.834772",
+    "iso_num": "410",
+    "lat": "36.375089",
+    "email": null
+  },
+  {
+    "web": "http://www.cf.undp.org/",
+    "name": "Central African Republic",
+    "id": "CAF",
+    "lon": "20.482967",
+    "iso_num": "140",
+    "lat": "6.571232",
+    "email": "registry.cf@undp.org"
+  },
+  {
+    "web": "http://www.cy.undp.org/",
+    "name": "Cyprus",
+    "id": "CYP",
+    "lon": "33.221763",
+    "iso_num": "196",
+    "lat": "35.045883",
+    "email": "registry.pff.cy@undp.org"
+  },
+  {
+    "web": null,
+    "name": "United Nations Volunteers",
+    "id": "UNV",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.ba.undp.org/",
+    "name": "Bosnia and Herzegovina",
+    "id": "BIH",
+    "lon": "17.786531",
+    "iso_num": "070",
+    "lat": "44.168115",
+    "email": "registry.ba@undp.org"
+  },
+  {
+    "web": "http://www.so.undp.org/",
+    "name": "Somalia",
+    "id": "SOM",
+    "lon": "47.570422",
+    "iso_num": "706",
+    "lat": "6.016284",
+    "email": "registry.so@undp.org"
+  },
+  {
+    "web": "http://www.uz.undp.org/",
+    "name": "Uzbekistan",
+    "id": "UZB",
+    "lon": "63.169364",
+    "iso_num": "860",
+    "lat": "41.750444",
+    "email": "registry.uz@undp.org"
+  },
+  {
+    "web": "http://www.cm.undp.org/",
+    "name": "Cameroon",
+    "id": "CMR",
+    "lon": "12.743594",
+    "iso_num": "120",
+    "lat": "5.685952",
+    "email": "registry.cm@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Poland",
+    "id": "POL",
+    "lon": "19.400884",
+    "iso_num": "616",
+    "lat": "52.12461",
+    "email": null
+  },
+  {
+    "web": "http://www.kw.undp.org/",
+    "name": "Kuwait",
+    "id": "KWT",
+    "lon": "47.590876",
+    "iso_num": "414",
+    "lat": "29.340791",
+    "email": "registry.kw@undp.org"
+  },
+  {
+    "web": "http://www.er.undp.org/",
+    "name": "Eritrea",
+    "id": "ERI",
+    "lon": "38.841286",
+    "iso_num": "232",
+    "lat": "15.373203",
+    "email": "registry.er@undp.org"
+  },
+  {
+    "web": "http://www.tg.undp.org/",
+    "name": "Togo",
+    "id": "TGO",
+    "lon": "1.023161",
+    "iso_num": "768",
+    "lat": "8.748439",
+    "email": "registry.tg@undp.org"
+  },
+  {
+    "web": "http://www.undp.org.ae",
+    "name": "United Arab Emirates",
+    "id": "ARE",
+    "lon": "54.340734",
+    "iso_num": "784",
+    "lat": "23.903193",
+    "email": "registry.ae@undp.org"
+  },
+  {
+    "web": "http://www.mw.undp.org/",
+    "name": "Malawi",
+    "id": "MWI",
+    "lon": "34.307155",
+    "iso_num": "454",
+    "lat": "-13.216022",
+    "email": "registry.mw@undp.org"
+  },
+  {
+    "web": "http://www.iq.undp.org/",
+    "name": "Iraq",
+    "id": "IRQ",
+    "lon": "43.772135",
+    "iso_num": "368",
+    "lat": "33.048024",
+    "email": "press.iraq@undp.org"
+  },
+  {
+    "web": "http://www.sv.undp.org/",
+    "name": "El Salvador",
+    "id": "SLV",
+    "lon": "-88.866512",
+    "iso_num": "222",
+    "lat": "13.736897",
+    "email": "registry.sv@undp.org"
+  },
+  {
+    "web": "http://www.ml.undp.org/",
+    "name": "Mali",
+    "id": "MLI",
+    "lon": "-2.717947",
+    "iso_num": "466",
+    "lat": "17.682358",
+    "email": "registry.ml@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Sao Tome and Principe",
+    "id": "STP",
+    "lon": "6.736586",
+    "iso_num": "678",
+    "lat": "0.456979",
+    "email": "registry.st@undp.org"
+  },
+  {
+    "web": "http://www.ir.undp.org/",
+    "name": "Iran (Islamic Republic of)",
+    "id": "IRN",
+    "lon": "54.301402",
+    "iso_num": "364",
+    "lat": "32.565771",
+    "email": "communications.ir@undp.org"
+  },
+  {
+    "web": "http://www.ss.undp.org/",
+    "name": "South Sudan",
+    "id": "SSD",
+    "lon": "30.34",
+    "iso_num": "728",
+    "lat": "7.37",
+    "email": "info.ssd@undp.org"
+  },
+  {
+    "web": "http://www.sl.undp.org/",
+    "name": "Sierra Leone",
+    "id": "SLE",
+    "lon": "-11.791922",
+    "iso_num": "694",
+    "lat": "8.560285",
+    "email": "registry.sl@undp.org"
+  },
+  {
+    "web": "http://www.bb.undp.org/",
+    "name": "Saint Kitts and Nevis",
+    "id": "KNA",
+    "lon": "-62.75352",
+    "iso_num": "659",
+    "lat": "17.326191",
+    "email": "registry.bb@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Bahamas",
+    "id": "BHS",
+    "lon": "-76.546622",
+    "iso_num": "044",
+    "lat": "24.201126",
+    "email": null
+  },
+  {
+    "web": "http://www.fj.undp.org/",
+    "name": "Solomon Islands",
+    "id": "SLB",
+    "lon": "159.634315",
+    "iso_num": "090",
+    "lat": "-8.918214",
+    "email": "registry.fj@undp.org"
+  },
+  {
+    "web": "http://www.undp.kg/",
+    "name": "Kyrgyz Republic",
+    "id": "KGZ",
+    "lon": "74.555597",
+    "iso_num": "417",
+    "lat": "41.465055",
+    "email": "registry.kg@undp.org"
+  },
+  {
+    "web": null,
+    "name": "UN Developmt Coordination Unit",
+    "id": "H45",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.ug.undp.org/",
+    "name": "Uganda",
+    "id": "UGA",
+    "lon": "32.386218",
+    "iso_num": "800",
+    "lat": "1.279963",
+    "email": "registry.ug@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Human Development Report Ofc",
+    "id": "H43",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": null,
+    "name": "Regional SC - Johannesburg",
+    "id": "RJB",
+    "lon": "28.044",
+    "iso_num": null,
+    "lat": "-26.202",
+    "email": "registry.rsc.esa@undp.org"
+  },
+  {
+    "web": "http://www.ls.undp.org/",
+    "name": "Lesotho",
+    "id": "LSO",
+    "lon": "28.243011",
+    "iso_num": "426",
+    "lat": "-29.581",
+    "email": "registry.ls@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Spcl Unit for South South Coop",
+    "id": "H42",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  },
+  {
+    "web": "http://www.sd.undp.org/",
+    "name": "Sudan",
+    "id": "SDN",
+    "lon": "29.99",
+    "iso_num": "729",
+    "lat": "15.99",
+    "email": "registry.sd@undp.org"
+  },
+  {
+    "web": "http://www.undp.org.bh/",
+    "name": "Bahrain",
+    "id": "BHR",
+    "lon": "50.559643",
+    "iso_num": "048",
+    "lat": "26.02241",
+    "email": "registry.bh@undp.org"
+  },
+  {
+    "web": "http://www.undp.am/",
+    "name": "Armenia",
+    "id": "ARM",
+    "lon": "44.946824",
+    "iso_num": "051",
+    "lat": "40.28662",
+    "email": "registry.am@undp.org"
+  },
+  {
+    "web": "http://www.pg.undp.org/",
+    "name": "Papua New Guinea",
+    "id": "PNG",
+    "lon": "145.241217",
+    "iso_num": "598",
+    "lat": "-6.478768",
+    "email": "registry.pg@undp.org"
+  },
+  {
+    "web": null,
+    "name": "Ofc of Info Systems&Technology",
+    "id": "H48",
+    "lon": null,
+    "iso_num": null,
+    "lat": null,
+    "email": null
+  }
+]
