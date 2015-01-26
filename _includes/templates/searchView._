@@ -1,4 +1,4 @@
-<a href='#all'><h1>SEARCH</h1></a>
+<a href='#all'><h2>SEARCH</h2></a>
 <div>
   <input id='searchField' type='text'></input>
   <button id='clearSearch'>Clear search</button>

@@ -16,7 +16,7 @@ class ExplorerView extends Backbone.View
 
     @filterView = new FilterView(collection: @collection)
     @filterView.render()
-    @$el.find('#filters').html(@filterView.$el)
+    @$el.find('#filter').html(@filterView.$el)
 
     @contentView = new ContentView(collection: @collection)
     @contentView.render()

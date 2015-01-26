@@ -23,3 +23,11 @@
     float: right;
   }
 }
+
+#search {
+  input[type='text'] {
+    font-size: 22px;
+    width: 98%;
+    box-sizing: border-box;
+  }
+}
