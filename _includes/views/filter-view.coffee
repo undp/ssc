@@ -1,16 +1,25 @@
 class FilterView extends Backbone.View
   template: ->  _.template($('#filterView').html())
 
+
   events:
     'click .filter.result': 'clicked'
 
   clicked: (ev) ->
     console.log 'clicked'
 
-  initialize: ->
+  initialize:  (options) ->
+    @options = options || {}
+    @viewModel = @options.viewModel
+
     @listenTo @collection, 'reset', @render
+    @listenTo @viewModel, 'change', @heard
     @listenTo app.vent, 'search', @search
+
     @resetFilterGroups()
+
+  heard: ->
+    console.log('filter heard')
 
   resetFilterGroups: ->
     @filterGroups = _.groupBy(app.filters.toArray(), (i) ->

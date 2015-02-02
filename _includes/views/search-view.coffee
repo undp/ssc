@@ -1,6 +1,14 @@
 class SearchView extends Backbone.View
   template: ->  _.template($('#searchView').html())
 
+  initialize:  (options) ->
+    @options = options || {}
+    @viewModel = @options.viewModel
+    @listenTo @viewModel, 'change', @heard
+
+  heard: ->
+    console.log('search heard')
+
   events: 
     'keyup #searchField': 'search'
     'click #clearSearch': 'clearSearch'

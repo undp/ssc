@@ -4,21 +4,17 @@ class ExplorerView extends Backbone.View
   initialize: ->
 
   render: ->
-    data =
-      filter_state: 'No filters'
+    @viewModel = new ControlsViewModel
+    @viewModel.set('shape', 'curvy')
 
-    compiled = @template()(data)
+    compiled = @template()(@viewModel)
     @$el.html(compiled)
 
-    @searchView = new SearchView(collection: @collection)
-    @searchView.render()
-    @$el.find('#search').html(@searchView.$el)
+    @controlsView = new ControlsView(collection: @collection, model: @viewModel, viewModel: @viewModel)
+    @controlsView.render()
+    @$el.find('#controls').html(@controlsView.$el)
 
-    @filterView = new FilterView(collection: @collection)
-    @filterView.render()
-    @$el.find('#filter').html(@filterView.$el)
-
-    @contentView = new ContentView(collection: @collection)
+    @contentView = new ContentView(collection: @collection, model: @viewModel)
     @contentView.render()
     @$el.find('#content').html(@contentView.$el)
 

@@ -12,12 +12,16 @@ app = window.app = {}
 {% include collections/countries.coffee %} # Countries
 {% include collections/projects.coffee %} # Projects
 
+# ViewModels
+{% include models/controls-view-model.coffee %} # ControlsViewModel
+
 # Views
 {% include views/project-view.coffee %} # ProjectView
 {% include views/explorer-view.coffee %} # ExplorerView
 {% include views/search-view.coffee %} # FilterView
 {% include views/filter-view.coffee %} # FilterView
 {% include views/content-view.coffee %} # ContentView
+{% include views/controls-view.coffee %} # ControlsView
 
 # Controllers
 {% include routers/router.coffee %} # Router
