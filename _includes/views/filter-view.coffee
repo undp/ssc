@@ -14,7 +14,7 @@ class FilterView extends Backbone.View
 
     @listenTo @collection, 'reset', @render
     @listenTo @viewModel, 'change', @heard
-    @listenTo app.vent, 'search', @search
+    @listenTo app.vent, 'search', @search # TODO: Wrong place to listen for this
 
     @resetFilterGroups()
 

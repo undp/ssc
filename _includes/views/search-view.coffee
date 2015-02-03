@@ -24,7 +24,8 @@ class SearchView extends Backbone.View
     # console.log results.map (i) -> 
     #   "#{i.get('type')}: #{i.id}"
 
-    # if no filters active then return relevant filter 
+    # if no filters active then search all filter 
+    # if @viewModel.activeFilters.length == 0
     # else search for term within currently filtered projects
 
 
