@@ -1,6 +1,8 @@
 class Projects extends Backbone.Collection
   types: ['host_location', 'region', 'territorial_focus', 'thematic_focus', 'undp_role_type', 'partner_type']
+
   url: '{{site.baseurl}}/api/projects.json'
+
   model: Project
 
   initialize: ->

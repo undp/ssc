@@ -1,10 +1,12 @@
 # Site settings
-baseurl: '/jekyll-data'
+# baseurl: '/jekyll-data'
+baseurl: ''
 title: SSC Data
 email: js@ppls.io
 description: South-South Cooperation data
 github_username: onlyjsmith
 host: 0.0.0.0
+exclude: ['data.tsv', 'Gulpfile.js', 'package.json']
 
 
 # Build settings
