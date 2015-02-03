@@ -1,5 +1,4 @@
 ---
-layout: null
 ---
 [{% for project in site.collections.ssc_data.docs %}
     {
