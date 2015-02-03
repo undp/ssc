@@ -4,6 +4,8 @@ title: SSC Data
 email: js@ppls.io
 description: South-South Cooperation data
 github_username: onlyjsmith
+host: 0.0.0.0
+
 
 # Build settings
 markdown: kramdown
