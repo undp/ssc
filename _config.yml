@@ -6,7 +6,7 @@ email: js@ppls.io
 description: South-South Cooperation data
 github_username: onlyjsmith
 host: 0.0.0.0
-exclude: ['data.tsv', 'Gulpfile.js', 'package.json']
+exclude: ['node_modules', 'Gulpfile.js', 'package.json', 'data.tsv']
 
 
 # Build settings
