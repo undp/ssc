@@ -1,7 +1,6 @@
 class ContentView extends Backbone.View
   template: -> _.template($('#contentView').html())
-  className: 'contentView'
-
+  
   events:
     'click .toggle_list_map': 'toggleListMap'
 

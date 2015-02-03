@@ -1,5 +1,7 @@
-<a href='#all'><h2>SEARCH</h2></a>
-<div>
-  <input id='searchField' type='text'></input>
-  <button id='clearSearch'>Clear search</button>
-</div>
+<fieldset>
+  <legend>Search</legend>
+  <div>
+    <input id='searchField' type='text'></input>
+    <button class='button' id='clearSearch'>Clear search</button>
+  </div>
+</fieldset>

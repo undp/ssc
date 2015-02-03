@@ -1,6 +1,8 @@
 class ProjectView extends Backbone.View
   template: -> _.template($('#projectView').html())
 
+  className: 'row'
+
   initialize: ->
 
   render: ->
