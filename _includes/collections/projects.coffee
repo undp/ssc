@@ -42,6 +42,11 @@ class Projects extends Backbone.Collection
 
   addFilter: (facetName, facetValue) =>
     # TODO: Check value if valid for facet
+    # Check not a duplicate
+    return "Can't add duplicate Facet" if _.findWhere(@filterState, 
+      name: facetName
+      value: facetValue
+    )
     @facetr.facet(facetName).value(facetValue)
     @addFilterState(facetName, facetValue)
 
@@ -69,3 +74,4 @@ class Projects extends Backbone.Collection
   clearFilters: =>
     @filterState = []
     app.projects.facetr.clearValues()
+    @trigger 'filters:reset'

@@ -3,6 +3,8 @@ class FilterView extends Backbone.View
 
   events:
     'click .activeFilter': 'removeFilter'
+    'click .addFilter': 'addFilter'
+    'click .resetFilters': 'resetFilters'
 
 
   initialize:  (options) ->
@@ -21,11 +23,21 @@ class FilterView extends Backbone.View
       @resetFilterGroups()
     @render()
 
+  addFilter: (ev) =>
+    ev.preventDefault()
+    data = ev.target.dataset
+    @collection.addFilter(data.filterName, data.filterValue)
+    console.log "added filter for #{data.filterName}:#{data.filterValue}"
+
+
   removeFilter: (ev) =>
     ev.preventDefault()
     data = ev.target.dataset
     @collection.removeFilter(data.filterName, data.filterValue)
     console.log "removed filter for #{data.filterName}:#{data.filterValue}"
+
+  resetFilters: =>
+    @collection.clearFilters()
 
   filterGroups: =>
     _.each(@collection.facetr.facets(), (facet) ->

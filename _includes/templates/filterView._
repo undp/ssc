@@ -2,7 +2,7 @@
   <legend>Filter</legend>
   <div>Current filters: <%= collection.length %></div>
   <% if(activeFilters.length > 0) { %>
-    <a href="#all">Remove filters</a>
+    <a class='resetFilters'>Remove filters</a>
   <% } %>
   <ul class='activeFiltersList'>
     <% _.each(activeFilters, function(filter){ %>
@@ -16,16 +16,18 @@
     <% }) %>
   </ul>
   <% _.each(filterGroups, function(filterGroup){ %>
-    <h3><%= filterGroup.data.name %></h3>
-    <ul>
+    <dl>
+      <dt><%= s.humanize(filterGroup.data.name) %></dt>
       <% _.each(filterGroup.values, function(filterItem){ %>
-        <li>
-          <a href="#<%= filterGroup.data.name %>/<%= filterItem.value %>"
-            class='filterName'>
-            <%= s.humanize(filterItem.value) %> (<%= filterItem.activeCount %>) 
+        <dd class='filterName'>
+          <a class='addFilter'
+            data-filter-name='<%= filterGroup.data.name %>'
+            data-filter-value='<%= filterItem.value %>'>
+            <%= s.humanize(filterItem.value) %> 
+            (<%= filterItem.activeCount %>) 
           </a>
-        </li>
+        </dd>
       <% }) %>
-    </ul>  
+    </dl>  
   <% }) %>
 </fieldset>
