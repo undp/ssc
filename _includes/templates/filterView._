@@ -1,30 +1,31 @@
-<fieldset>
+<fieldset>  
   <legend>Filter</legend>
   <div>Current filters: <%= collection.length %></div>
-  <ul>
+  <% if(activeFilters.length > 0) { %>
+    <a href="#all">Remove filters</a>
+  <% } %>
+  <ul class='activeFiltersList'>
     <% _.each(activeFilters, function(filter){ %>
-      <li>
-        <a href="#" class='activeFilter' 
+      <li class='activeFilter'>
+        <a
           data-filter-name='<%= filter.name %>'
           data-filter-value='<%= filter.value %>'>
-          <%= filter.name %>: <%= filter.value %>
+          <%= s.humanize(filter.value) %>
         </a>
       </li>
     <% }) %>
   </ul>
-  <li><a href="#all">ALL projects / remove filters</a></li>
   <% _.each(filterGroups, function(filterGroup){ %>
     <h3><%= filterGroup.data.name %></h3>
     <ul>
       <% _.each(filterGroup.values, function(filterItem){ %>
         <li>
-          <a href="#<%= filterGroup.data.name %>/<%= filterItem.value %>">
-            <%= filterItem.value %> (<%= filterItem.activeCount %>) 
+          <a href="#<%= filterGroup.data.name %>/<%= filterItem.value %>"
+            class='filterName'>
+            <%= s.humanize(filterItem.value) %> (<%= filterItem.activeCount %>) 
           </a>
         </li>
       <% }) %>
     </ul>  
   <% }) %>
 </fieldset>
-
-

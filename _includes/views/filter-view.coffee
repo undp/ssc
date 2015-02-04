@@ -7,15 +7,10 @@ class FilterView extends Backbone.View
 
   initialize:  (options) ->
     @options = options || {}
-    # @viewModel = @options.viewModel
 
     @listenTo @collection, 'reset', @render
     @listenTo @collection, 'filters:reset', @render
-    # @listenTo @viewModel, 'change', @heard
     @listenTo app.vent, 'search', @search # TODO: Wrong place to listen for this
-
-  # heard: (ev) ->
-  #   console.log('filter event heard')
 
   search: (term) ->
     if term
@@ -28,7 +23,7 @@ class FilterView extends Backbone.View
 
   removeFilter: (ev) =>
     ev.preventDefault()
-    data = ev.currentTarget.dataset
+    data = ev.target.dataset
     @collection.removeFilter(data.filterName, data.filterValue)
     console.log "removed filter for #{data.filterName}:#{data.filterValue}"
 
