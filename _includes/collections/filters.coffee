@@ -5,7 +5,7 @@ class Filters extends Backbone.Collection
     _.each window.countries, (country) =>
       @add
         name: country.name
-        short: country.iso3
+        short: country.iso3.toLowerCase()
         type: 'country'
         forFilter: 'location'
 

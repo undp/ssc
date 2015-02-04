@@ -2,6 +2,7 @@
   <div class='row'>
     <div class='columns medium-12'>
       <ul class="button-group radius">
+        <li><a href="#" class="button toggle_list_map">Stats</a></li>
         <li><a href="#" class="button toggle_list_map">Map</a></li>
         <li><a href="#" class="button toggle_list_map">List</a></li>
       </ul>

@@ -28,15 +28,6 @@ class Projects extends Backbone.Collection
     _.each @types, (type) =>
       @facetr.facet(type).desc()
 
-  # anyFacetSelected: ->
-  #   @selectedFacets().length > 0
-
-  # selectedFacets: ->
-  #   _.chain(@facetr.facets())
-  #     .filter( (facet) -> facet.isSelected() )
-  #     .map( (facet) -> facet.toJSON().data.name )
-  #     .value()
-
   facets: ->
     @facetr.toJSON()
 
@@ -47,7 +38,7 @@ class Projects extends Backbone.Collection
       name: facetName
       value: facetValue
     )
-    @facetr.facet(facetName).value(facetValue)
+    @facetr.facet(facetName).value(facetValue, 'and')
     @addFilterState(facetName, facetValue)
 
   removeFilter: (facetName, facetValue) =>
