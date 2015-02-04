@@ -5,10 +5,12 @@ Router = Backbone.Router.extend
   routes:
     "": "redirect"
     "all": "all"
-    "location/:location": "byLocation"
-    "theme/:theme": "byTheme"
-    "partner/:partner_type": "byPartner"
-    "role/:undp_role": "byRole"
+    "host_location/:location": "byLocation"
+    "region/:location": "byLocation"
+    "thematic_focus/:theme": "byTheme"
+    "territorial_focus/:theme": "byTerritoryFocus"
+    "partner_type/:partner_type": "byPartner"
+    "undp_role_type/:undp_role": "byRole"
     "project/:id": "project"
     "search/:term": "search"
   
@@ -21,7 +23,6 @@ Router = Backbone.Router.extend
   byLocation: (param) ->
     if app.countries.nameFromIso(param)
       facetName = 'host_location'
-      param = param.toUpperCase()
       @renderExplorerFacet(facetName, param)
     else 
       facetName = 'region'
@@ -29,6 +30,10 @@ Router = Backbone.Router.extend
 
   byTheme: (param) ->
     facetName = 'thematic_focus'
+    @renderExplorerFacet(facetName, param)
+
+  byTerritoryFocus: (param) ->
+    facetName = 'territorial_focus'
     @renderExplorerFacet(facetName, param)
 
   byPartner: (param) ->

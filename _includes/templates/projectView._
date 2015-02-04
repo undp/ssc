@@ -4,7 +4,7 @@
   <ul>
     <li>
       <% _.each(project.host_location, function(item) { %>
-        <a href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
+        <span class='label activeFilter' href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></span>
       <% }) %>
 
       <% if (project.partner_location.length > 0) { %>

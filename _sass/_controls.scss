@@ -1,0 +1,15 @@
+// Controls (search and filter panel)
+ul.activeFiltersList {
+  list-style: none;
+  margin-left: 0rem;
+  li.activeFilter:before {
+    content: 'x';
+  }
+}
+
+#filter {
+  .filterName {
+    line-height: 1.2em;
+    margin-bottom: 0.5em;
+  }
+}

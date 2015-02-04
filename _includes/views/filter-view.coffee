@@ -3,26 +3,16 @@ class FilterView extends Backbone.View
 
   events:
     'click .activeFilter': 'removeFilter'
+    'click .addFilter': 'addFilter'
+    'click .resetFilters': 'resetFilters'
 
 
   initialize:  (options) ->
     @options = options || {}
-    @viewModel = @options.viewModel
 
     @listenTo @collection, 'reset', @render
     @listenTo @collection, 'filters:reset', @render
-    @listenTo @viewModel, 'change', @heard
     @listenTo app.vent, 'search', @search # TODO: Wrong place to listen for this
-
-    @resetFilterGroups()
-
-  heard: (ev) ->
-    console.log('filter event heard')
-
-  resetFilterGroups: ->
-    @filterGroups = _.groupBy(app.filters.toArray(), (i) ->
-      i.get('forFilter')
-    )
 
   search: (term) ->
     if term
@@ -33,11 +23,32 @@ class FilterView extends Backbone.View
       @resetFilterGroups()
     @render()
 
+  addFilter: (ev) =>
+    ev.preventDefault()
+    data = ev.target.dataset
+    @collection.addFilter(data.filterName, data.filterValue)
+    console.log "added filter for #{data.filterName}:#{data.filterValue}"
+
+
   removeFilter: (ev) =>
     ev.preventDefault()
-    data = ev.currentTarget.dataset
+    data = ev.target.dataset
     @collection.removeFilter(data.filterName, data.filterValue)
     console.log "removed filter for #{data.filterName}:#{data.filterValue}"
+
+  resetFilters: =>
+    @collection.clearFilters()
+
+  filterGroups: =>
+    _.each(@collection.facetr.facets(), (facet) ->
+      facet.sortByActiveCount()
+    )
+    _.map(@collection.facets(), (facet) ->
+      facet.values = _.filter(facet.values, (i) ->
+        i.activeCount > 0 && i.value != ""
+      )
+      facet
+    )
 
   # searchTitle: (term) ->
   #   app.projects.facetr.removeFilter('searchTitle')
@@ -46,10 +57,10 @@ class FilterView extends Backbone.View
   #     model.get('project_title').match(re)
   #   )
 
-  render: ->
+  render: =>
     compiled = @template()(
       activeFilters: @collection.filterState
       collection: @collection
-      filterGroups: @filterGroups
+      filterGroups: @filterGroups()
     )
     @$el.html(compiled)

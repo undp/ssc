@@ -1,5 +1,12 @@
 class Projects extends Backbone.Collection
-  types: ['host_location', 'region', 'territorial_focus', 'thematic_focus', 'undp_role_type', 'partner_type']
+  types: [
+    'undp_role_type', 
+    'thematic_focus', 
+    'host_location', 
+    'region', 
+    'territorial_focus', 
+    'partner_type'
+  ]
 
   url: '{{site.baseurl}}/api/projects.json'
 
@@ -21,21 +28,17 @@ class Projects extends Backbone.Collection
     _.each @types, (type) =>
       @facetr.facet(type).desc()
 
-  # anyFacetSelected: ->
-  #   @selectedFacets().length > 0
-
-  # selectedFacets: ->
-  #   _.chain(@facetr.facets())
-  #     .filter( (facet) -> facet.isSelected() )
-  #     .map( (facet) -> facet.toJSON().data.name )
-  #     .value()
-
   facets: ->
     @facetr.toJSON()
 
   addFilter: (facetName, facetValue) =>
     # TODO: Check value if valid for facet
-    @facetr.facet(facetName).value(facetValue)
+    # Check not a duplicate
+    return "Can't add duplicate Facet" if _.findWhere(@filterState, 
+      name: facetName
+      value: facetValue
+    )
+    @facetr.facet(facetName).value(facetValue, 'and')
     @addFilterState(facetName, facetValue)
 
   removeFilter: (facetName, facetValue) =>
@@ -62,3 +65,4 @@ class Projects extends Backbone.Collection
   clearFilters: =>
     @filterState = []
     app.projects.facetr.clearValues()
+    @trigger 'filters:reset'

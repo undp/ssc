@@ -1,28 +1,33 @@
-<fieldset>
+<fieldset>  
   <legend>Filter</legend>
   <div>Current filters: <%= collection.length %></div>
-  <ul>
+  <% if(activeFilters.length > 0) { %>
+    <a class='resetFilters'>Remove filters</a>
+  <% } %>
+  <ul class='activeFiltersList'>
     <% _.each(activeFilters, function(filter){ %>
-      <li>
-        <a href="#" class='activeFilter' 
+      <li class='activeFilter'>
+        <a
           data-filter-name='<%= filter.name %>'
           data-filter-value='<%= filter.value %>'>
-          <%= filter.name %>: <%= filter.value %>
+          <%= s.humanize(filter.value) %>
         </a>
       </li>
     <% }) %>
   </ul>
-  <li><a href="#all">ALL projects / remove filters</a></li>
-  <% _.each(_.keys(filterGroups), function(filterKey){ %>
-    <ul>
-    <h2><%= app.utils.capitaliseFirstLetter(filterKey) %></h2>
-      <% _.each(filterGroups[filterKey], function(element) { %>
-        <li>
-          <a class='filter result' href="#<%= filterKey %>/<%= element.get('short') %>">
-            <%= element.get('name') %>
+  <% _.each(filterGroups, function(filterGroup){ %>
+    <dl>
+      <dt><%= s.humanize(filterGroup.data.name) %></dt>
+      <% _.each(filterGroup.values, function(filterItem){ %>
+        <dd class='filterName'>
+          <a class='addFilter'
+            data-filter-name='<%= filterGroup.data.name %>'
+            data-filter-value='<%= filterItem.value %>'>
+            <%= s.humanize(filterItem.value) %> 
+            (<%= filterItem.activeCount %>) 
           </a>
-        </li>
+        </dd>
       <% }) %>
-    </ul>  
+    </dl>  
   <% }) %>
 </fieldset>
