@@ -7,9 +7,10 @@ class Projects extends Backbone.Collection
 
   initialize: ->
     @listenTo @, 'set', @initFacetr
+    @filterState = []
 
   initFacetr: ->
-    @facetr = Facetr(@)
+    @facetr = Facetr(@, 'projects')
     @addStandardFacets()
 
   findBySearch: (term) ->
@@ -20,18 +21,42 @@ class Projects extends Backbone.Collection
     _.each @types, (type) =>
       @facetr.facet(type).desc()
 
-  anyFacetSelected: ->
-    @selectedFacets().length > 0
+  # anyFacetSelected: ->
+  #   @selectedFacets().length > 0
 
-  selectedFacets: ->
-    _.chain(@facetr.facets())
-      .filter( (facet) -> facet.isSelected() )
-      .map( (facet) -> facet.toJSON().data.name )
-      .value()
+  # selectedFacets: ->
+  #   _.chain(@facetr.facets())
+  #     .filter( (facet) -> facet.isSelected() )
+  #     .map( (facet) -> facet.toJSON().data.name )
+  #     .value()
 
-  facetFor: (type) ->
-    throw 'Facet type not in list' unless _.include(@types, type)
-    _.chain(@facetr.toJSON())
-      .filter((i) -> i.data.name == type)
-      .first()
-      .value()
+  facets: ->
+    @facetr.toJSON()
+
+  addFilter: (facetName, facetValue) =>
+    @facetr.facet(facetName).value(facetValue)
+    @addFilterState(facetName, facetValue)
+
+  removeFilter: (facetName, facetValue) =>
+    @facetr.facet(facetName).removeValue(facetValue)
+    @removeFilterState(facetName, facetValue)
+
+  addFilterState: (facetName, facetValue) =>
+    @filterState.push 
+      name: facetName
+      value: facetValue
+    @trigger 'filters:reset'
+    console.log 'added filterState'
+
+  removeFilterState: (facetName, facetValue) =>
+    foundFilter = _.findWhere(@filterState, 
+      name: facetName
+      value: facetValue
+    )
+    @filterState = _.without(@filterState, foundFilter)
+    @trigger 'filters:reset'
+    console.log 'removed filterState'
+
+  clearFilters: =>
+    @filterState = []
+    app.projects.facetr.clearValues()

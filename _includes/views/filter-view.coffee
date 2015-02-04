@@ -1,25 +1,23 @@
 class FilterView extends Backbone.View
   template: ->  _.template($('#filterView').html())
 
-
   events:
-    'click .filter.result': 'clicked'
+    'click .activeFilter': 'removeFilter'
 
-  clicked: (ev) ->
-    console.log 'clicked'
 
   initialize:  (options) ->
     @options = options || {}
     @viewModel = @options.viewModel
 
     @listenTo @collection, 'reset', @render
+    @listenTo @collection, 'filters:reset', @render
     @listenTo @viewModel, 'change', @heard
     @listenTo app.vent, 'search', @search # TODO: Wrong place to listen for this
 
     @resetFilterGroups()
 
-  heard: ->
-    console.log('filter heard')
+  heard: (ev) ->
+    console.log('filter event heard')
 
   resetFilterGroups: ->
     @filterGroups = _.groupBy(app.filters.toArray(), (i) ->
@@ -35,15 +33,22 @@ class FilterView extends Backbone.View
       @resetFilterGroups()
     @render()
 
-  searchTitle: (term) ->
-    app.projects.facetr.removeFilter('searchTitle')
-    app.projects.facetr.addFilter('searchTitle', (model) ->
-      re = new RegExp(term, "i")
-      model.get('project_title').match(re)
-    )
+  removeFilter: (ev) =>
+    ev.preventDefault()
+    data = ev.currentTarget.dataset
+    @collection.removeFilter(data.filterName, data.filterValue)
+    console.log "removed filter for #{data.filterName}:#{data.filterValue}"
+
+  # searchTitle: (term) ->
+  #   app.projects.facetr.removeFilter('searchTitle')
+  #   app.projects.facetr.addFilter('searchTitle', (model) ->
+  #     re = new RegExp(term, "i")
+  #     model.get('project_title').match(re)
+  #   )
 
   render: ->
     compiled = @template()(
+      activeFilters: @collection.filterState
       collection: @collection
       filterGroups: @filterGroups
     )

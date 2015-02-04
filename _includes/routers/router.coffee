@@ -20,28 +20,28 @@ Router = Backbone.Router.extend
 
   byLocation: (param) ->
     if app.countries.nameFromIso(param)
-      facet_name = 'host_location'
+      facetName = 'host_location'
       param = param.toUpperCase()
-      @renderExplorerFacet(facet_name, param)
+      @renderExplorerFacet(facetName, param)
     else 
-      facet_name = 'region'
-      @renderExplorerFacet(facet_name, param)
+      facetName = 'region'
+      @renderExplorerFacet(facetName, param)
 
   byTheme: (param) ->
-    facet_name = 'thematic_focus'
-    @renderExplorerFacet(facet_name, param)
+    facetName = 'thematic_focus'
+    @renderExplorerFacet(facetName, param)
 
   byPartner: (param) ->
-    facet_name = 'partner_type'
-    @renderExplorerFacet(facet_name, param)
+    facetName = 'partner_type'
+    @renderExplorerFacet(facetName, param)
 
   byRole: (param) ->
-    facet_name = 'undp_role_type'
-    @renderExplorerFacet(facet_name, param)
+    facetName = 'undp_role_type'
+    @renderExplorerFacet(facetName, param)
 
-  renderExplorerFacet: (facet_name, param) ->
-    app.projects.facetr.clearValues()
-    app.projects.facetr.facet(facet_name).value(param) if facet_name && param
+  renderExplorerFacet: (facetName, facetValue) ->
+    app.projects.clearFilters()
+    app.projects.addFilter(facetName, facetValue) if facetName && facetValue
     view = new ExplorerView(collection: app.projects)
     @switchView(view)
 
