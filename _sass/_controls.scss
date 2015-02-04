@@ -1,17 +1,9 @@
-#explorer {
-  // max-height: 500px;
-  overflow: scroll;
-}
-
-
+// Controls (search and filter panel)
 ul.activeFiltersList {
   list-style: none;
   margin-left: 0rem;
   li.activeFilter:before {
     content: 'x';
-  }
-  li.activeFilter {
-    cursor: pointer;
   }
 }
 
