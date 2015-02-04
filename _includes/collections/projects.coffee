@@ -34,10 +34,12 @@ class Projects extends Backbone.Collection
     @facetr.toJSON()
 
   addFilter: (facetName, facetValue) =>
+    # TODO: Check value if valid for facet
     @facetr.facet(facetName).value(facetValue)
     @addFilterState(facetName, facetValue)
 
   removeFilter: (facetName, facetValue) =>
+    # TODO: Check value if valid for facet
     @facetr.facet(facetName).removeValue(facetValue)
     @removeFilterState(facetName, facetValue)
 
