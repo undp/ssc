@@ -8,8 +8,7 @@ class Project extends Backbone.Model
       if !_.isArray(@get(field))
         values = @get(field).split(",")
         @set(field, _.map(values, (i) -> 
-          i.trim()
-          
+          s.underscored(i.trim().toLowerCase())
         ))
 
   allLocations: ->

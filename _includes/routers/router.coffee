@@ -10,7 +10,7 @@ Router = Backbone.Router.extend
     "thematic_focus/:theme": "byTheme"
     "territorial_focus/:theme": "byTerritoryFocus"
     "partner_type/:partner_type": "byPartner"
-    "undp_role/:undp_role": "byRole"
+    "undp_role_type/:undp_role": "byRole"
     "project/:id": "project"
     "search/:term": "search"
   
@@ -23,7 +23,6 @@ Router = Backbone.Router.extend
   byLocation: (param) ->
     if app.countries.nameFromIso(param)
       facetName = 'host_location'
-      param = param.toUpperCase()
       @renderExplorerFacet(facetName, param)
     else 
       facetName = 'region'
