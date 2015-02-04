@@ -1,4 +1,5 @@
 <fieldset>  
+  <a class="scrollContents show-for-small-only">Jump to RESULTS </a>
   <legend>Filter</legend>
   <div>Current filters: <%= collection.length %></div>
   <% if(activeFilters.length > 0) { %>
@@ -18,16 +19,48 @@
   <% _.each(filterGroups, function(filterGroup){ %>
     <dl>
       <dt><%= s.humanize(filterGroup.data.name) %></dt>
-      <% _.each(filterGroup.values, function(filterItem){ %>
-        <dd class='filterName'>
-          <a class='addFilter'
-            data-filter-name='<%= filterGroup.data.name %>'
-            data-filter-value='<%= filterItem.value %>'>
-            <%= s.humanize(filterItem.value) %> 
-            (<%= filterItem.activeCount %>) 
-          </a>
-        </dd>
-      <% }) %>
+
+      <% if(filterGroup.data.name == 'host_location') { %>
+        <!-- COUNTRY LOCATIONS -->
+
+
+        <% _.each(filterGroup.values, function(filterItem, index){ %>
+          <% if(filterGroup.data.hideCountries && index == 5){ %>
+            <div class='hiddenCountries'>
+          <% } %>
+  
+          <dd class='filterName'>
+            <a class='addFilter'
+              data-filter-name='<%= filterGroup.data.name %>'
+              data-filter-value='<%= filterItem.value %>'>
+              <%= s.humanize(filterItem.value) %> 
+              (<%= filterItem.activeCount %>) 
+            </a>
+          </dd>
+        <% }) %>
+
+        <% if(filterGroup.data.hideCountries){ %>
+          </div>
+          <a class='toggleHiddenCountries' style='display:none'>fewer...</a>
+          <a class='toggleHiddenCountries'>more...</a>
+        <% } %>
+
+
+      <% } else { %>
+
+        <% _.each(filterGroup.values, function(filterItem){ %>
+          <dd class='filterName'>
+            <a class='addFilter'
+              data-filter-name='<%= filterGroup.data.name %>'
+              data-filter-value='<%= filterItem.value %>'>
+              <%= s.humanize(filterItem.value) %> 
+              (<%= filterItem.activeCount %>) 
+            </a>
+          </dd>
+        <% }) %>
+
+      <% } %>
+
     </dl>  
   <% }) %>
 </fieldset>

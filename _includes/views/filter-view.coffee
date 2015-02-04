@@ -5,7 +5,8 @@ class FilterView extends Backbone.View
     'click .activeFilter': 'removeFilter'
     'click .addFilter': 'addFilter'
     'click .resetFilters': 'resetFilters'
-
+    'click .scrollContents': 'scrollContents'
+    'click .toggleHiddenCountries': 'toggleHiddenCountries'
 
   initialize:  (options) ->
     @options = options || {}
@@ -13,6 +14,21 @@ class FilterView extends Backbone.View
     @listenTo @collection, 'reset', @render
     @listenTo @collection, 'filters:reset', @render
     @listenTo app.vent, 'search', @search # TODO: Wrong place to listen for this
+
+  scrollContents: ->
+    $('html, body').animate({scrollTop: $("#content").offset().top}, 500)
+
+  toggleHiddenCountries: =>
+    @$el.find('.toggleHiddenCountries').toggle()
+    $('.hiddenCountries').toggle()
+
+  render: =>
+    compiled = @template()(
+      activeFilters: @collection.filterState
+      collection: @collection
+      filterGroups: @filterGroups()
+    )
+    @$el.html(compiled)
 
   search: (term) ->
     if term
@@ -40,15 +56,22 @@ class FilterView extends Backbone.View
     @collection.clearFilters()
 
   filterGroups: =>
-    _.each(@collection.facetr.facets(), (facet) ->
+    _.each(@collection.facetr.facets(), (facet) =>
       facet.sortByActiveCount()
     )
-    _.map(@collection.facets(), (facet) ->
-      facet.values = _.filter(facet.values, (i) ->
+    _.map(@collection.facets(), (facet) =>
+      facet.values = _.filter(facet.values, (i) =>
         i.activeCount > 0 && i.value != ""
       )
+      facet = @presentCountryFacet(facet)
       facet
     )
+
+  presentCountryFacet: (facet) ->
+    console.log 'render filters'
+    if facet.data.name == 'host_location' && facet.values.length > 5
+      facet.data.hideCountries = true
+    facet
 
   # searchTitle: (term) ->
   #   app.projects.facetr.removeFilter('searchTitle')
@@ -56,11 +79,3 @@ class FilterView extends Backbone.View
   #     re = new RegExp(term, "i")
   #     model.get('project_title').match(re)
   #   )
-
-  render: =>
-    compiled = @template()(
-      activeFilters: @collection.filterState
-      collection: @collection
-      filterGroups: @filterGroups()
-    )
-    @$el.html(compiled)

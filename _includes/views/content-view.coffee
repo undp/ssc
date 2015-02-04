@@ -3,6 +3,7 @@ class ContentView extends Backbone.View
   
   events:
     'click .toggle_list_map': 'toggleListMap'
+    'click .scrollControls': 'scrollControls'
 
   initialize: ->
     @listenTo @collection, 'reset', @render
@@ -14,6 +15,9 @@ class ContentView extends Backbone.View
     @$el.find("#map").hide()
     _.defer @initializeMap
     @
+
+  scrollControls: ->
+    $('html, body').animate({scrollTop: $("#controls").offset().top}, 500)
 
   initializeMap: =>
     @mapController = new MapController(@$el.find('#map')[0])

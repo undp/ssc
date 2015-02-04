@@ -9,7 +9,9 @@
     </div>
   </div>
   <div class="row">
-    <div class='columns medium-12'><p><%= collection.length %> projects</p>
+    <div class='columns medium-12'>
+      <p><%= collection.length %> projects</p>
+      <a class="scrollControls show-for-small-only">Jump to FILTERS</a>
       <div id='list'>
         <ul>
           <% _.each(collection, function(project){ %>
