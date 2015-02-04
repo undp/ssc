@@ -1,6 +1,17 @@
 <fieldset>
   <legend>Filter</legend>
   <div>Current filters: <%= collection.length %></div>
+  <ul>
+    <% _.each(activeFilters, function(filter){ %>
+      <li>
+        <a href="#" class='activeFilter' 
+          data-filter-name='<%= filter.name %>'
+          data-filter-value='<%= filter.value %>'>
+          <%= filter.name %>: <%= filter.value %>
+        </a>
+      </li>
+    <% }) %>
+  </ul>
   <li><a href="#all">ALL projects / remove filters</a></li>
   <% _.each(_.keys(filterGroups), function(filterKey){ %>
     <ul>
