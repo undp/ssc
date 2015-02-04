@@ -13,16 +13,18 @@
     <% }) %>
   </ul>
   <li><a href="#all">ALL projects / remove filters</a></li>
-  <% _.each(_.keys(filterGroups), function(filterKey){ %>
+  <% _.each(filterGroups, function(filterGroup){ %>
+    <h3><%= filterGroup.data.name %></h3>
     <ul>
-    <h2><%= app.utils.capitaliseFirstLetter(filterKey) %></h2>
-      <% _.each(filterGroups[filterKey], function(element) { %>
+      <% _.each(filterGroup.values, function(filterItem){ %>
         <li>
-          <a class='filter result' href="#<%= filterKey %>/<%= element.get('short') %>">
-            <%= element.get('name') %>
+          <a href="#<%= filterGroup.data.name %>/<%= filterItem.value %>">
+            <%= filterItem.value %> (<%= filterItem.activeCount %>) 
           </a>
         </li>
       <% }) %>
     </ul>  
   <% }) %>
 </fieldset>
+
+

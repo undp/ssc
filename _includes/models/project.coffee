@@ -6,7 +6,11 @@ class Project extends Backbone.Model
   initialize: ->
     _.each @joinedFields, (field) =>
       if !_.isArray(@get(field))
-        @set(field, @get(field).split(','))
+        values = @get(field).split(",")
+        @set(field, _.map(values, (i) -> 
+          i.trim()
+          
+        ))
 
   allLocations: ->
     _.chain([@get('host_location'), @get('partner_location')])

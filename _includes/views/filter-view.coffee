@@ -7,22 +7,15 @@ class FilterView extends Backbone.View
 
   initialize:  (options) ->
     @options = options || {}
-    @viewModel = @options.viewModel
+    # @viewModel = @options.viewModel
 
     @listenTo @collection, 'reset', @render
     @listenTo @collection, 'filters:reset', @render
-    @listenTo @viewModel, 'change', @heard
+    # @listenTo @viewModel, 'change', @heard
     @listenTo app.vent, 'search', @search # TODO: Wrong place to listen for this
 
-    @resetFilterGroups()
-
-  heard: (ev) ->
-    console.log('filter event heard')
-
-  resetFilterGroups: ->
-    @filterGroups = _.groupBy(app.filters.toArray(), (i) ->
-      i.get('forFilter')
-    )
+  # heard: (ev) ->
+  #   console.log('filter event heard')
 
   search: (term) ->
     if term
@@ -39,6 +32,17 @@ class FilterView extends Backbone.View
     @collection.removeFilter(data.filterName, data.filterValue)
     console.log "removed filter for #{data.filterName}:#{data.filterValue}"
 
+  filterGroups: =>
+    _.each(@collection.facetr.facets(), (facet) ->
+      facet.sortByActiveCount()
+    )
+    _.map(@collection.facets(), (facet) ->
+      facet.values = _.filter(facet.values, (i) ->
+        i.activeCount > 0 && i.value != ""
+      )
+      facet
+    )
+
   # searchTitle: (term) ->
   #   app.projects.facetr.removeFilter('searchTitle')
   #   app.projects.facetr.addFilter('searchTitle', (model) ->
@@ -46,10 +50,10 @@ class FilterView extends Backbone.View
   #     model.get('project_title').match(re)
   #   )
 
-  render: ->
+  render: =>
     compiled = @template()(
       activeFilters: @collection.filterState
       collection: @collection
-      filterGroups: @filterGroups
+      filterGroups: @filterGroups()
     )
     @$el.html(compiled)
