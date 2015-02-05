@@ -3,8 +3,6 @@ class ProjectView extends Backbone.View
 
   className: 'row'
 
-  initialize: ->
-
   render: ->
     @presentedModel = new PresentProject(@model)
     compiled = @template()(project: @presentedModel.render())
