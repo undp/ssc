@@ -5,7 +5,8 @@ app.utils.capitaliseFirstLetter = (string) ->
 
 app.utils.resizeIframe = (id) ->
   _.delay ->
-    if document.getElementById(id)
-      newheight = document.getElementById(id).contentWindow.document.body.scrollHeight
-      document.getElementById(id).height= (newheight) + "px"
+    if doc = document.getElementById(id)
+      newheight = doc.contentWindow.document.body.scrollHeight
+      doc.height= (newheight) + "px"
+      $('#contentTruncated').hide()
   , 500
