@@ -5,15 +5,15 @@
       <div class='show-for-small-down'><span class='label'><%= collection.length %></span> projects</div>
       <div class="row">
         <!-- SWITCH VIEW -->
-        <ul class="large-6 columns button-group">
+        <ul class="medium-6 columns button-group">
           <li><a data-view='stats' class="button small changeView">Stats</a></li>
           <li><a data-view='map' class="button small changeView">Map</a></li>
           <li><a data-view='list' class="button small changeView">List</a></li>
         </ul>
 
         <!-- DOWNLOAD LINKS -->
-        <div class="large-6 columns">
-          <button data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="hide-for-touch button small dropdown">
+        <div class="medium-6 columns hide-for-touch">
+          <button data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button small dropdown">
             <i class='fa fa-download'></i> Download
           </button><br>
           <ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true" tabindex="-1">
