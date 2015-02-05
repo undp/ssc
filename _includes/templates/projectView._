@@ -4,13 +4,13 @@
   <ul>
     <li>
       <% _.each(project.host_location, function(item) { %>
-        <a class='activeFilter' href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
+        <%= _.template.partial('filterItem', {item: item, type: 'host_location'}) %>
       <% }) %>
 
       <% if (project.partner_location.length > 0) { %>
         (collaborated with:
         <% _.each(project.partner_location, function(item) { %>
-          <a href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
+          <%= _.template.partial('filterItem', {item: item, type: 'partner_location'}) %>
         <% }) %>
         )
       <% } %>
@@ -19,17 +19,17 @@
     <li><strong>SSC ACTIVITY:</strong> <%= project.ssc_description %></li>
     <li><strong>PARTNER TYPES:</strong> 
       <% _.each(project.partner_type, function(item) { %>
-        <a href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
+        <%= _.template.partial('filterItem', {item: item, type: 'partner_type'}) %>
       <% }) %>
     </li>
     <li><strong>THEMES:</strong> 
       <% _.each(project.thematic_focus, function(item) { %>
-        <a href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
+        <%= _.template.partial('filterItem', {item: item, type: 'thematic_focus'}) %>
       <% }) %>
     </li>
     <li><strong>TERRITORIAL FOCUS:</strong> 
       <% _.each(project.territorial_focus, function(item) { %>
-        <%= item.name %>
+        <%= _.template.partial('filterItem', {item: item, type: 'territorial_focus'}) %>
       <% }) %>
     </li>
   </ul>
