@@ -27,5 +27,5 @@ class ContentView extends Backbone.View
     ev.preventDefault()
     @$el.find('#list').toggle()
     @$el.find('#map').toggle()
-    google.maps.event.trigger(map, 'resize')
+    google.maps.event.trigger(map, 'resize') if @visible == 'map'
 

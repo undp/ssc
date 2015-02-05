@@ -1,7 +1,7 @@
 <fieldset>  
   <a class="scrollContents show-for-small-only"><i class='fa fa-angle-double-down'></i> Jump to RESULTS </a>
   <legend>Filter</legend>
-  <div>Current filters: <%= collection.length %></div>
+  <div><span class='label'><%= collection.length %></span> projects</div>
   <% if(activeFilters.length > 0) { %>
     <a class='resetFilters'>Remove filters</a>
   <% } %>
