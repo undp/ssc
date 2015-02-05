@@ -15,13 +15,6 @@ class FilterView extends Backbone.View
     @listenTo @collection, 'filters:reset', @render
     @listenTo app.vent, 'search', @search # TODO: Wrong place to listen for this
 
-  scrollContents: ->
-    $('html, body').animate({scrollTop: $("#content").offset().top}, 500)
-
-  toggleHiddenCountries: =>
-    @$el.find('.toggleHiddenCountries').toggle()
-    $('.hiddenCountries').toggle()
-
   render: =>
     compiled = @template()(
       activeFilters: @collection.filterState
