@@ -1,7 +1,8 @@
 <div id='content' class='columns medium-12'>
   <div class='row'>
     <div class='columns medium-12'>
-      <a class="scrollControls show-for-small-only"><i class='fa fa-angle-double-up'></i> Jump to FILTERS</a>
+      <a class="scrollControls show-for-small-down"><i class='fa fa-angle-double-up'></i> Jump to FILTERS</a>
+      <div class='show-for-small-down'><span class='label'><%= collection.length %></span> projects</div>
       <div class="row">
         <!-- SWITCH VIEW -->
         <ul class="large-6 columns button-group">
@@ -11,18 +12,22 @@
         </ul>
 
         <!-- DOWNLOAD LINKS -->
-        <a class="hide-for-touch medium-6 columns button small split"><i class='fa fa-download'></i> Download<span data-dropdown="drop"></span></a><br>
-        <ul id="drop" class="f-dropdown" data-dropdown-content>
-          <li><a href="{{ site.baseurl }}/api/projects.csv">All projects</a></li>
-          <li><a href="{{ site.baseurl }}/api/countries.csv">Countries list</a></li>
-        </ul>  
+        <div class="large-6 columns">
+          <button data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="hide-for-touch button small dropdown">
+            <i class='fa fa-download'></i> Download
+          </button><br>
+          <ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true" tabindex="-1">
+            <li><a href="{{ site.baseurl }}/api/projects.csv">All projects</a></li>
+            <li><a href="{{ site.baseurl }}/api/countries.csv">Countries list</a></li>
+          </ul>
+        </div>
+
       </div>
     </div>
   </div>
   <div class="row">
     <div id='map' class='columns medium-12'></div></div>
     <div id='list' class='columns medium-12'>
-      <p><%= collection.length %> projects</p>
       <ul>
         <% _.each(collection, function(project){ %>
           <li>
