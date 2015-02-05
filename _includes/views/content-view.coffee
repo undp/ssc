@@ -2,7 +2,7 @@ class ContentView extends Backbone.View
   template: -> _.template($('#contentView').html())
   
   events:
-    'click .toggle_list_map': 'toggleListMap'
+    'click .changeView': 'changeView'
     'click .scrollControls': 'scrollControls'
 
   initialize: ->
@@ -23,9 +23,21 @@ class ContentView extends Backbone.View
     @mapController = new MapController(@$el.find('#map')[0])
     @map = @mapController.activateMap()
 
-  toggleListMap: (ev) ->
+  changeView: (ev) =>
     ev.preventDefault()
+    @visible = 'map'
+    @freezeContentHeight()
     @$el.find('#list').toggle()
     @$el.find('#map').toggle()
-    google.maps.event.trigger(map, 'resize') if @visible == 'map'
 
+  freezeContentHeight: =>
+    contentDiv = $("#content")
+    fromTop = contentDiv.offset().top
+    contentDiv.height(@$el.find('#map').height() + 380 + 'px')
+    window.scroll(0, fromTop)
+    @resizeMapFrame()
+    
+  resizeMapFrame: =>
+    mapDiv = @$el.find('#map')
+    if @visible == 'map'
+      _.defer -> google.maps.event.trigger(map, 'resize') 
