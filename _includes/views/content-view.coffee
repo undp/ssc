@@ -8,6 +8,7 @@ class ContentView extends Backbone.View
   initialize: ->
     @listenTo @collection, 'reset', @render
     @visible = 'list' unless @visible # TODO: Use a viewModel
+    window.addEventListener("resize", @resizeMapFrame, false)
 
   render: ->
     compiled = @template()(collection: @collection.toJSON())
@@ -36,8 +37,17 @@ class ContentView extends Backbone.View
     contentDiv.height(@$el.find('#map').height() + 380 + 'px')
     window.scroll(0, fromTop)
     @resizeMapFrame()
+
+  resizeThrottler: =>
+    _.throttle =>
+      @resized = false
+      @resizeMapFrame()
+    , 500
     
   resizeMapFrame: =>
     mapDiv = @$el.find('#map')
-    if @visible == 'map'
+    mapDiv.height($(window).height() - 100)
+    
+    if @visible == 'map' && !@resized
+      @resized = true
       _.defer -> google.maps.event.trigger(map, 'resize') 
