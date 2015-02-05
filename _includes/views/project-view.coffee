@@ -3,20 +3,17 @@ class ProjectView extends Backbone.View
 
   className: 'row'
 
-  initialize: ->
-    $(window).on 'resize', @triggerIframeResize
+  events:
+    'click .triggerIframeResize': 'triggerIframeResize'
 
   render: ->
     @presentedModel = new PresentProject(@model)
     compiled = @template()(project: @presentedModel.render())
     @$el.html(compiled)
-    @triggerIframeResize()
     @
 
   triggerIframeResize: ->
-    _.delay ->
-      if doc = document.getElementById('project_iframe')
-        newheight = doc.contentWindow.document.body.scrollHeight
-        doc.height= (newheight) + "px"
-        $('#contentTruncated').hide()
-    , 800
+    if doc = document.getElementById('project_iframe')
+      newheight = doc.contentWindow.document.body.scrollHeight
+      doc.height= (newheight) + "px"
+      $('#contentTruncated').hide()
