@@ -14,4 +14,9 @@ class ProjectView extends Backbone.View
     @
 
   triggerIframeResize: ->
-    app.utils.resizeIframe('project_iframe')
+    _.delay ->
+      if doc = document.getElementById('project_iframe')
+        newheight = doc.contentWindow.document.body.scrollHeight
+        doc.height= (newheight) + "px"
+        $('#contentTruncated').hide()
+    , 800
