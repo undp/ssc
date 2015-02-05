@@ -1,17 +1,27 @@
 <div id='content' class='columns medium-12'>
   <div class='row'>
+    <a class="scrollControls show-for-small-only"><i class='fa fa-angle-double-up'></i> Jump to FILTERS</a>
     <div class='columns medium-12'>
-      <ul class="button-group radius">
-        <li><a href="#" class="button toggle_list_map">Stats</a></li>
-        <li><a href="#" class="button toggle_list_map">Map</a></li>
-        <li><a href="#" class="button toggle_list_map">List</a></li>
-      </ul>
+      <div class="row">
+        <!-- SWITCH VIEW -->
+        <ul class="medium-6 columns button-group">
+          <li><a class="button small toggle_list_map">Stats</a></li>
+          <li><a class="button small toggle_list_map">Map</a></li>
+          <li><a class="button small toggle_list_map">List</a></li>
+        </ul>
+
+        <!-- DOWNLOAD LINKS -->
+        <a class="show-for-medium-up medium-6 columns button small split"><i class='fa fa-download'></i> Download<span data-dropdown="drop"></span></a><br>
+        <ul id="drop" class="f-dropdown" data-dropdown-content>
+          <li><a href="{{ site.baseurl }}/api/projects.csv">All projects</a></li>
+          <li><a href="{{ site.baseurl }}/api/countries.csv">Countries list</a></li>
+        </ul>  
+      </div>
     </div>
   </div>
   <div class="row">
     <div class='columns medium-12'>
       <p><%= collection.length %> projects</p>
-      <a class="scrollControls show-for-small-only"><i class='fa fa-angle-double-up'></i> Jump to FILTERS</a>
       <div id='list'>
         <ul>
           <% _.each(collection, function(project){ %>
