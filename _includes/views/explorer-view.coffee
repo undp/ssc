@@ -5,18 +5,14 @@ class ExplorerView extends Backbone.View
 
   id: 'explorer'
 
-  initialize: ->
-
   render: ->
-    @viewModel = new ControlsViewModel
-
-    compiled = @template()(@viewModel)
+    compiled = @template()()
     @$el.html(compiled)
 
-    @controlsView = new ControlsView(el: @$el.find('#controls'), collection: @collection, viewModel: @viewModel)
+    @controlsView = new ControlsView(el: @$el.find('#controls'), collection: @collection)
     @controlsView.render()
 
-    @contentView = new ContentView(el: @$el.find('#content'), collection: @collection, viewModel: @viewModel)
+    @contentView = new ContentView(el: @$el.find('#content'), collection: @collection)
     @contentView.render()
 
     @

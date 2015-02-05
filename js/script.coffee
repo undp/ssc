@@ -12,9 +12,6 @@ app = window.app = {}
 {% include collections/countries.coffee %} # Countries
 {% include collections/projects.coffee %} # Projects
 
-# ViewModels
-{% include models/controls-view-model.coffee %} # ControlsViewModel
-
 # Views
 {% include views/project-view.coffee %} # ProjectView
 {% include views/explorer-view.coffee %} # ExplorerView
