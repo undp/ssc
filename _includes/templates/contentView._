@@ -1,28 +1,36 @@
 <div id='content' class='columns medium-12'>
   <div class='row'>
     <div class='columns medium-12'>
-      <ul class="button-group radius">
-        <li><a href="#" class="button toggle_list_map">Stats</a></li>
-        <li><a href="#" class="button toggle_list_map">Map</a></li>
-        <li><a href="#" class="button toggle_list_map">List</a></li>
-      </ul>
+      <a class="scrollControls show-for-small-only"><i class='fa fa-angle-double-up'></i> Jump to FILTERS</a>
+      <div class="row">
+        <!-- SWITCH VIEW -->
+        <ul class="large-6 columns button-group">
+          <li><a data-view='stats' class="button small changeView">Stats</a></li>
+          <li><a data-view='map' class="button small changeView">Map</a></li>
+          <li><a data-view='list' class="button small changeView">List</a></li>
+        </ul>
+
+        <!-- DOWNLOAD LINKS -->
+        <a class="hide-for-touch medium-6 columns button small split"><i class='fa fa-download'></i> Download<span data-dropdown="drop"></span></a><br>
+        <ul id="drop" class="f-dropdown" data-dropdown-content>
+          <li><a href="{{ site.baseurl }}/api/projects.csv">All projects</a></li>
+          <li><a href="{{ site.baseurl }}/api/countries.csv">Countries list</a></li>
+        </ul>  
+      </div>
     </div>
   </div>
   <div class="row">
-    <div class='columns medium-12'>
+    <div id='map' class='columns medium-12'></div></div>
+    <div id='list' class='columns medium-12'>
       <p><%= collection.length %> projects</p>
-      <a class="scrollControls show-for-small-only"><i class='fa fa-angle-double-up'></i> Jump to FILTERS</a>
-      <div id='list'>
-        <ul>
-          <% _.each(collection, function(project){ %>
-            <li>
-              <a href="#project/<%= project.project_id %>">
-                <%= project.project_title %> [<%= project.project_id %>] 
-              </a>
-            </li>
-          <% }) %>
-        </ul>
-      </div>
-      <div id='map'></div></div>
+      <ul>
+        <% _.each(collection, function(project){ %>
+          <li>
+            <a href="#project/<%= project.project_id %>">
+              <%= project.project_title %> [<%= project.project_id %>] 
+            </a>
+          </li>
+        <% }) %>
+      </ul>
   </div>
 </div>

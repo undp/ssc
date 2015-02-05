@@ -14,6 +14,7 @@ class ProjectView extends Backbone.View
     @presentedModel = new PresentProject(@model)
     compiled = @template()(project: @presentedModel.render())
     @$el.html(compiled)
+    window.scrollTo(0,0)
     @
 
   filter: (ev) ->

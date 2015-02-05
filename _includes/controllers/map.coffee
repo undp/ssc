@@ -62,6 +62,15 @@ class MapController
       },
       {
         "featureType": "administrative.province",
+        "elementType": "all",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "administrative.province",
         "elementType": "labels",
         "stylers": [
           {
@@ -79,11 +88,47 @@ class MapController
         ]
       },
       {
+        "featureType": "administrative.neighborhood",
+        "elementType": "all",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "administrative.land_parcel",
+        "elementType": "all",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
         "featureType": "landscape",
         "elementType": "all",
         "stylers": [
           {
             "color": "#08304b"
+          }
+        ]
+      },
+      {
+        "featureType": "landscape.man_made",
+        "elementType": "all",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "elementType": "all",
+        "stylers": [
+          {
+            "visibility": "off"
           }
         ]
       },
@@ -96,6 +141,15 @@ class MapController
           },
           {
             "lightness": 5
+          }
+        ]
+      },
+      {
+        "featureType": "road",
+        "elementType": "all",
+        "stylers": [
+          {
+            "visibility": "off"
           }
         ]
       },
