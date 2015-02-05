@@ -1,2 +1,7 @@
+<div>
+  <a href="{{ site.baseurl }}/data.csv">
+    <i class='fa fa-download'></i> Download whole dataset
+  </a>
+</div>
 <div id='controls' class="medium-3 columns">2 columns</div>
 <div id='content' class="medium-9 columns">10 columns</div>
