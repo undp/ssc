@@ -4,7 +4,7 @@
   <ul>
     <li>
       <% _.each(project.host_location, function(item) { %>
-        <span class='label activeFilter' href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></span>
+        <a class='activeFilter' href="#<%= item.forFilter %>/<%= item.short %>"><%= item.name %></a>
       <% }) %>
 
       <% if (project.partner_location.length > 0) { %>
@@ -36,6 +36,12 @@
 
   <a href="<%= project.prose_edit_link %>">Edit</a>
   <% if(project.open_project_id != ""){ %>
-    <iframe id='project_iframe' src="http://open.undp.org/embed.html#widget/project/<%= project.open_project_id %>?stats&documents&outputs" width="100%" height="600px" frameborder="0" marginheight="0" scrolling="no" onLoad="app.utils.resizeIframe('project_iframe');"></iframe>
+    <h2>
+      Project information from 
+      <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a>
+    </h2>
+    <iframe id='project_iframe' src="http://open.undp.org/embed.html#widget/project/<%= project.open_project_id %>?stats&documents&outputs" width="100%" height="200px" frameborder="0" marginheight="0" scrolling="no"></iframe>
+  <% } else { %>
+    <p>No project data on <a href="http://open.undp.org">open.undp.org</a></p>
   <% } %>
 </div>
