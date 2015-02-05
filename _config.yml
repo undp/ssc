@@ -1,5 +1,6 @@
 # Site settings
-baseurl: '/jekyll-data'
+# baseurl: '/jekyll-data'
+baseurl: ''
 title: UNDP SSC Projects Explorer
 email: js@ppls.io
 description: South-South Cooperation data
