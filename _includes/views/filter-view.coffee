@@ -23,6 +23,13 @@ class FilterView extends Backbone.View
     )
     @$el.html(compiled)
 
+  scrollContents: ->
+    $('html, body').animate({scrollTop: $("#content").offset().top}, 500)
+
+  toggleHiddenCountries: =>
+    @$el.find('.toggleHiddenCountries').toggle()
+    $('.hiddenCountries').toggle()
+
   addFilter: (ev) =>
     ev.preventDefault()
     data = ev.target.dataset
