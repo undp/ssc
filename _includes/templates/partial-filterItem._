@@ -1,0 +1,5 @@
+<a class='filter'
+  data-filter-name='<%= type %>'
+  data-filter-value='<%= item.short %>'>
+  <%= item.name %>
+</a>
