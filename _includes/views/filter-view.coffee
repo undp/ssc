@@ -30,32 +30,22 @@ class FilterView extends Backbone.View
     )
     @$el.html(compiled)
 
-  search: (term) ->
-    if term
-      @filterGroups = _.groupBy(app.filters.search(term), (i) ->
-        i.get('forFilter')
-      )
-    else
-      @resetFilterGroups()
-    @render()
-
   addFilter: (ev) =>
     ev.preventDefault()
     data = ev.target.dataset
     @collection.addFilter(data.filterName, data.filterValue)
-    console.log "added filter for #{data.filterName}:#{data.filterValue}"
-
 
   removeFilter: (ev) =>
     ev.preventDefault()
     data = ev.target.dataset
     @collection.removeFilter(data.filterName, data.filterValue)
-    console.log "removed filter for #{data.filterName}:#{data.filterValue}"
 
   resetFilters: =>
     @collection.clearFilters()
 
   filterGroups: =>
+    console.log 'render filters'
+
     _.each(@collection.facetr.facets(), (facet) =>
       facet.sortByActiveCount()
     )
@@ -68,10 +58,18 @@ class FilterView extends Backbone.View
     )
 
   presentCountryFacet: (facet) ->
-    console.log 'render filters'
     if facet.data.name == 'host_location' && facet.values.length > 5
       facet.data.hideCountries = true
     facet
+
+  search: (term) ->
+    if term
+      @filterGroups = _.groupBy(app.filters.search(term), (i) ->
+        i.get('forFilter')
+      )
+    else
+      @resetFilterGroups()
+    @render()
 
   # searchTitle: (term) ->
   #   app.projects.facetr.removeFilter('searchTitle')
