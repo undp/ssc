@@ -24,6 +24,10 @@ class Projects extends Backbone.Collection
     @filter (i) ->
       i.get('project_title').match(term) || i.get('project_objective').match(term)
 
+  # 
+  # FACETS
+  # 
+  
   addStandardFacets: ->
     _.each @types, (type) =>
       @facetr.facet(type).desc()
@@ -51,7 +55,6 @@ class Projects extends Backbone.Collection
       name: facetName
       value: facetValue
     @trigger 'filters:reset'
-    console.log 'added filterState'
 
   removeFilterState: (facetName, facetValue) =>
     foundFilter = _.findWhere(@filterState, 
@@ -60,7 +63,6 @@ class Projects extends Backbone.Collection
     )
     @filterState = _.without(@filterState, foundFilter)
     @trigger 'filters:reset'
-    console.log 'removed filterState'
 
   clearFilters: =>
     @filterState = []
