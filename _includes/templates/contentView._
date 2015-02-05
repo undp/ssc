@@ -11,7 +11,7 @@
   <div class="row">
     <div class='columns medium-12'>
       <p><%= collection.length %> projects</p>
-      <a class="scrollControls show-for-small-only">Jump to FILTERS</a>
+      <a class="scrollControls show-for-small-only"><i class='fa fa-angle-double-up'></i> Jump to FILTERS</a>
       <div id='list'>
         <ul>
           <% _.each(collection, function(project){ %>

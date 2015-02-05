@@ -1,5 +1,5 @@
 <fieldset>  
-  <a class="scrollContents show-for-small-only">Jump to RESULTS </a>
+  <a class="scrollContents show-for-small-only"><i class='fa fa-angle-double-down'></i> Jump to RESULTS </a>
   <legend>Filter</legend>
   <div>Current filters: <%= collection.length %></div>
   <% if(activeFilters.length > 0) { %>

@@ -34,7 +34,8 @@
     </li>
   </ul>
 
-  <a href="<%= project.prose_edit_link %>">Edit</a>
+  <a href="<%= project.prose_edit_link %>"><i class="fa fa-edit"></i> Edit</a>
+
   <% if(project.open_project_id != ""){ %>
     <h2>
       Project information from 
@@ -46,6 +47,6 @@
       <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a>
     </p>
   <% } else { %>
-    <p>No project data on <a href="http://open.undp.org">open.undp.org</a></p>
+    <p>No project data from <a href="http://open.undp.org">open.undp.org</a></p>
   <% } %>
 </div>
