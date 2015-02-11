@@ -1,6 +1,6 @@
 class ContentView extends Backbone.View
   template: -> _.template($('#contentView').html())
-  
+
   events:
     'click .changeView': 'changeView'
     'click .scrollControls': 'scrollControls'
@@ -19,7 +19,6 @@ class ContentView extends Backbone.View
     @
 
   vectorMap: =>
-    console.log 'did?'
     a = {}
     _.each(countries, (i) ->
       a[i.iso2] = Math.floor((Math.random() * 100) + 1)
@@ -36,7 +35,7 @@ class ContentView extends Backbone.View
       # focusOn: region: 'gb'
       onRegionSelected: (ev, code) =>
         console.log(code)
-        @zoomToRegion(code) 
+        @zoomToRegion(code)
     )
     @mapObject = $('#map').vectorMap('get', 'mapObject')
 
@@ -69,11 +68,11 @@ class ContentView extends Backbone.View
   #     @resized = false
   #     @resizeMapFrame()
   #   , 500
-    
+
   # resizeMapFrame: =>
   #   mapDiv = @$el.find('#map')
   #   mapDiv.height($(window).height() - 100)
-    
+
   #   if @visible == 'map' && !@resized
   #     @resized = true
-  #     _.defer -> google.maps.event.trigger(map, 'resize') 
+  #     _.defer -> google.maps.event.trigger(map, 'resize')
