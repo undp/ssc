@@ -13,9 +13,9 @@ Router = Backbone.Router.extend
     app.projects.clearFilters()
 
     if params.filterRef?
-      app.projects.retrieveFiltersFromId(params.filterRef, facetName, facetValue) 
+      app.projects.restoreFilterStateFromId(params.filterRef, facetName, facetValue) 
     else if facetName && facetValue
-      app.projects.addFilter(facetName, facetValue)
+      app.projects.addFilter(name: facetName, value: facetValue)
 
     view = new ExplorerView(collection: app.projects)
     @switchView(view)
@@ -32,4 +32,8 @@ Router = Backbone.Router.extend
     @view.render()
     @$appEl.html(@view.$el)
 
-
+  updateUrlForState: (facetName, facetValue, filterRef) ->
+    url = ""
+    url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
+    url += "?filterRef=#{filterRef}" if filterRef?
+    app.router.navigate(url)

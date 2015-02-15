@@ -35,18 +35,18 @@ class FilterView extends Backbone.View
   addFilter: (ev) =>
     ev.preventDefault()
     data = ev.target.dataset
-    @collection.addFilter(data.filterName, data.filterValue)
+    @collection.addFilter(name: data.filterName, value: data.filterValue)
 
   removeFilter: (ev) =>
     ev.preventDefault()
     data = ev.target.dataset
-    @collection.removeFilter(data.filterName, data.filterValue)
+    @collection.removeFilter(name: data.filterName, value: data.filterValue)
 
   resetFilters: =>
     @collection.clearFilters()
 
   filterGroups: =>
-    console.log 'render filters'
+    # console.log 'render filters'
 
     _.each(@collection.facetr.facets(), (facet) =>
       facet.sortByActiveCount()
@@ -72,10 +72,3 @@ class FilterView extends Backbone.View
     else
       @resetFilterGroups()
     @render()
-
-  # searchTitle: (term) ->
-  #   app.projects.facetr.removeFilter('searchTitle')
-  #   app.projects.facetr.addFilter('searchTitle', (model) ->
-  #     re = new RegExp(term, "i")
-  #     model.get('project_title').match(re)
-  #   )

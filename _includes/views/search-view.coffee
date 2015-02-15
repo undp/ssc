@@ -12,26 +12,26 @@ class SearchView extends Backbone.View
     compiled = @template()()
     @$el.html(compiled)
 
-  search: (ev) ->
-    term = ev.currentTarget.value
-    app.vent.trigger 'search', term
-    # results = app.filters.search(term)
-    # console.log results.map (i) -> 
-    #   "#{i.get('type')}: #{i.id}"
+  # search: (ev) ->
+  #   term = ev.currentTarget.value
+  #   app.vent.trigger 'search', term
+  #   # results = app.filters.search(term)
+  #   # console.log results.map (i) -> 
+  #   #   "#{i.get('type')}: #{i.id}"
 
-    # if no filters active then search all filter 
-    # if @viewModel.activeFilters.length == 0
-    # else search for term within currently filtered projects
+  #   # if no filters active then search all filter 
+  #   # if @viewModel.activeFilters.length == 0
+  #   # else search for term within currently filtered projects
 
 
-  searchTitle: (term) ->
-    app.projects.facetr.removeFilter('searchTitle')
-    app.projects.facetr.addFilter('searchTitle', (model) ->
-      re = new RegExp(term, "i")
-      model.get('project_title').match(re)
-    )
+  # searchTitle: (term) ->
+  #   app.projects.facetr.removeFilter('searchTitle')
+  #   app.projects.facetr.addFilter('searchTitle', (model) ->
+  #     re = new RegExp(term, "i")
+  #     model.get('project_title').match(re)
+  #   )
 
-  clearSearch: (ev) ->
-    ev.preventDefault()
-    @$el.find('#searchField').val('')
-    app.vent.trigger 'search', ''
+  # clearSearch: (ev) ->
+  #   ev.preventDefault()
+  #   @$el.find('#searchField').val('')
+  #   app.vent.trigger 'search', ''

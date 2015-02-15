@@ -8,7 +8,6 @@ app.utils.s4 = ->
 
 app.utils.getUrlParams = ->
   hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&')
-
   _.object(
     _.map(hashes, (rawHash) ->
       hash = rawHash.split('=')

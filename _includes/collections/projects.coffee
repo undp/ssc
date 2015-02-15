@@ -1,5 +1,5 @@
 class Projects extends Backbone.Collection
-  types: [
+  facetTypes: [
     'undp_role_type', 
     'thematic_focus', 
     'host_location', 
@@ -14,8 +14,8 @@ class Projects extends Backbone.Collection
 
   initialize: ->
     @listenTo @, 'set', @initFacetr
-    @listenTo @, 'filters:add', @serialiseFilterRoute
-    @listenTo @, 'filters:remove', @serialiseFilterRoute
+    @listenTo @, 'filters:add', @storeFilterState
+    @listenTo @, 'filters:remove', @storeFilterState
     @filterState = []
 
   initFacetr: ->
@@ -26,45 +26,47 @@ class Projects extends Backbone.Collection
     @filter (i) ->
       i.get('project_title').match(term) || i.get('project_objective').match(term)
 
+
   # 
-  # FACETS
+  # Facets
   # 
-  
   addStandardFacets: ->
-    _.each @types, (type) =>
+    _.each @facetTypes, (type) =>
       @facetr.facet(type).desc()
 
   facets: ->
     @facetr.toJSON()
 
-  addFilter: (facetName, facetValue) =>
+  addFilter: (options) =>
+    {name, value, trigger} = options
     # TODO: Check value if valid for facet
     # Check not a duplicate
     return "Can't add duplicate Facet" if _.findWhere(@filterState, 
-      name: facetName
-      value: facetValue
+      name: name
+      value: value
     )
-    @facetr.facet(facetName).value(facetValue, 'and')
-    @addFilterState(facetName, facetValue)
+    @facetr.facet(name).value(value, 'and')
+    @addFilterState(name, value, trigger)
 
-  addFilterState: (facetName, facetValue) =>
+  addFilterState: (facetName, facetValue, trigger) =>
     @filterState.push 
       name: facetName
       value: facetValue
-    @trigger 'filters:add'
+    @trigger 'filters:add' unless (trigger? and !trigger)
 
-  removeFilter: (facetName, facetValue) =>
+  removeFilter: (options) =>
+    {name, value, trigger} = options
     # TODO: Check value if valid for facet
-    @facetr.facet(facetName).removeValue(facetValue)
-    @removeFilterState(facetName, facetValue)
+    @facetr.facet(name).removeValue(value)
+    @removeFilterState(name, value, trigger)
 
-  removeFilterState: (facetName, facetValue) =>
+  removeFilterState: (facetName, facetValue, trigger) =>
     foundFilter = _.findWhere(@filterState, 
       name: facetName
       value: facetValue
     )
     @filterState = _.without(@filterState, foundFilter)
-    @trigger 'filters:remove'
+    @trigger 'filters:remove' unless (trigger? and !trigger)
 
   clearFilters: =>
     @filterState = []
@@ -73,19 +75,13 @@ class Projects extends Backbone.Collection
 
 
   # 
-  # Serialize Filters
+  # Serialize FilterState
   # 
-  serialiseFilterRoute: ->
-    return @setUrl() if @filterState.length is 0
-    hashState = @filterState[0]
+  storeFilterState: ->
+    return app.router.updateUrlForState() if @filterState.length is 0
+    hashState = @filterState[0] # First filter set
     filterRef = @serializeFilters() 
-    @setUrl(hashState.name, hashState.value, filterRef)
-
-  setUrl: (facetName, facetValue, filterRef) ->
-    url = ""
-    url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
-    url += "?filterRef=#{filterRef}" if filterRef?
-    app.router.navigate(url)
+    app.router.updateUrlForState(hashState.name, hashState.value, filterRef)
 
   serializeFilters: ->
     filterRef = app.utils.uuid()
@@ -94,14 +90,24 @@ class Projects extends Backbone.Collection
     @postRemoteFilterState(filterRef)
     filterRef
 
-  retrieveFiltersFromId: (filterRef, fallbackFacetName, fallbackFacetValue) ->
-    if (found = localStorage.getItem(filterRef))?
-      @getRemoteFilterState(filterRef)
-      name = JSON.parse(found)[0].name
-      value = JSON.parse(found)[0].value
-      @setUrl(name, value, filterRef)
-    else
-      @setUrl(fallbackFacetName, fallbackFacetValue)
+  restoreFilterStateFromId: (filterRef, fallbackFacetName, fallbackFacetValue) ->
+    # if (found = localStorage.getItem(filterRef))?
+    #   name = JSON.parse(found)[0].name
+    #   value = JSON.parse(found)[0].value
+    #   app.router.updateUrlForState(name, value, filterRef)
+    # else
+    @getRemoteFilterState(
+      filterRef: filterRef
+      success: (data) => 
+        retrievedFilterObject = data.results?[0]
+        @restoreFilters(filterRef, retrievedFilterObject)
+      fail: -> app.router.updateUrlForState(fallbackFacetName, fallbackFacetValue)
+    )
+
+  restoreFilters: (filterRef, filterObject) ->
+    _.each filterObject.filterState, (filter) =>
+      @addFilter(name: filter.name, value: filter.value, trigger: false)
+
 
   # 
   # Remote filterState store
@@ -119,24 +125,21 @@ class Projects extends Backbone.Collection
         'X-Parse-REST-API-Key': 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
         'X-Parse-Application-Id': 'vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO'
         "Content-Type":"application/json"
-      success: (data, textStatus, jqXHR) ->
-        console.log("POST HTTP Request Succeeded: " + jqXHR.status);
       error: (jqXHR, textStatus, errorThrown) ->
-        console.log("POST HTTP Request Failed")
+        console.log("Failed posting filterState")
     )
 
-  getRemoteFilterState: (filterRef, deferred) ->
+  getRemoteFilterState: (options) ->
     $.ajax(
       url: "https://api.parse.com/1/classes/filterState"
       type: "GET"
       data:
-        "where":"{\"filterRef\":\"" + filterRef + "\"}"
+        "where":"{\"filterRef\":\"" + options.filterRef + "\"}"
       headers:
         "X-Parse-REST-API-Key":"h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W"
         "X-Parse-Application-Id":"vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO"
       success: (data, textStatus, jqXHR) ->
-        console.log("GET HTTP Request Succeeded: " + jqXHR.status)
-        console.dir(data.results[0])
+        options.success(data)
       error: (jqXHR, textStatus, errorThrown) ->
-        console.log("GET HTTP Request Failed")
+        options.fail()
     )
