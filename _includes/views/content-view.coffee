@@ -8,26 +8,27 @@ class ContentView extends Backbone.View
   initialize: ->
     @listenTo @collection, 'reset', @render
     @visible = 'list' unless @visible # TODO: Use a viewModel
-    # window.addEventListener("resize", @resizeMapFrame, false)
 
   render: ->
+    console.log 'reset collection -> render contentView'
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)
     @$el.find("#list").hide()
     _.defer @vectorMap
-    # _.defer @initializeMap
     @
 
   vectorMap: =>
-    a = {}
-    _.each(countries, (i) ->
-      a[i.iso2] = Math.floor((Math.random() * 100) + 1)
+    console.log 'render map called'
+    values = _.object(
+      _.map(countries, (i) ->
+        [[i.iso2],[Math.floor((Math.random() * 100) + 1)]]
+      )
     )
     $('#map').vectorMap(
       map: 'world_mill_en'
       series:
         regions: [
-          values: a
+          values: values
           scale: ['#C8EEFF', '#0071A4']
           normalizeFunction: 'polynomial'
         ]

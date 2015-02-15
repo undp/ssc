@@ -35,9 +35,6 @@ $(document).ready ->
   app.filters = new Filters(window.indices) # To simplify handling of indices 
   app.filters.addCountries()
 
-  # Events
-  # app.vent = {}; app.vent extends Backbone.Events
-
   app.projects.fetch
     success: ->
       app.projects.initFacetr()

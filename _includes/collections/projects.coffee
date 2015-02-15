@@ -107,6 +107,7 @@ class Projects extends Backbone.Collection
   restoreFilters: (filterRef, filterObject) ->
     _.each filterObject.filterState, (filter) =>
       @addFilter(name: filter.name, value: filter.value, trigger: false)
+    @trigger 'filters:reset'
 
 
   # 

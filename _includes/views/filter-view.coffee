@@ -15,7 +15,6 @@ class FilterView extends Backbone.View
     @listenTo @collection, 'filters:add', @render
     @listenTo @collection, 'filters:remove', @render
     @listenTo @collection, 'filters:reset', @render
-    # @listenTo app.vent, 'search', @search # TODO: Wrong place to listen for this
 
   render: =>
     compiled = @template()(
@@ -46,7 +45,7 @@ class FilterView extends Backbone.View
     @collection.clearFilters()
 
   filterGroups: =>
-    # console.log 'render filters'
+    console.log 'render filters'
 
     _.each(@collection.facetr.facets(), (facet) =>
       facet.sortByActiveCount()
