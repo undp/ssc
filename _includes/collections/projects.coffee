@@ -85,21 +85,58 @@ class Projects extends Backbone.Collection
     url = ""
     url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
     url += "?filterRef=#{filterRef}" if filterRef?
-    console.log "Setting URL for #{facetName}: #{facetValue} and filterRef: #{filterRef}"
     app.router.navigate(url)
 
   serializeFilters: ->
-    uuid = app.utils.uuid()
+    filterRef = app.utils.uuid()
     stringifiedFilters = JSON.stringify(@filterState)
-    localStorage.setItem(uuid, stringifiedFilters)
-    uuid # Return `filterRef`
-    # @postToRemoteService(uuid, stringifiedFilters)
+    localStorage.setItem(filterRef, stringifiedFilters)
+    @postRemoteFilterState(filterRef)
+    filterRef
 
   retrieveFiltersFromId: (filterRef, fallbackFacetName, fallbackFacetValue) ->
     if (found = localStorage.getItem(filterRef))?
-      # @tryGetRemote()
+      @getRemoteFilterState(filterRef)
       name = JSON.parse(found)[0].name
       value = JSON.parse(found)[0].value
       @setUrl(name, value, filterRef)
     else
-      @setUrl(facetName, facetValue)
+      @setUrl(fallbackFacetName, fallbackFacetValue)
+
+  # 
+  # Remote filterState store
+  # 
+  postRemoteFilterState: (filterRef) =>
+    data = 
+      filterRef: filterRef
+      filterState: @filterState
+    
+    $.ajax(
+      url: 'https://api.parse.com/1/classes/filterState'
+      type: 'POST'
+      data: JSON.stringify(data)
+      headers:
+        'X-Parse-REST-API-Key': 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
+        'X-Parse-Application-Id': 'vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO'
+        "Content-Type":"application/json"
+      success: (data, textStatus, jqXHR) ->
+        console.log("POST HTTP Request Succeeded: " + jqXHR.status);
+      error: (jqXHR, textStatus, errorThrown) ->
+        console.log("POST HTTP Request Failed")
+    )
+
+  getRemoteFilterState: (filterRef, deferred) ->
+    $.ajax(
+      url: "https://api.parse.com/1/classes/filterState"
+      type: "GET"
+      data:
+        "where":"{\"filterRef\":\"" + filterRef + "\"}"
+      headers:
+        "X-Parse-REST-API-Key":"h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W"
+        "X-Parse-Application-Id":"vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO"
+      success: (data, textStatus, jqXHR) ->
+        console.log("GET HTTP Request Succeeded: " + jqXHR.status)
+        console.dir(data.results[0])
+      error: (jqXHR, textStatus, errorThrown) ->
+        console.log("GET HTTP Request Failed")
+    )
