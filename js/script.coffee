@@ -25,9 +25,10 @@ app = window.app = {}
 {% include controllers/map.coffee %} # MapController
 
 # Utilities
-{% include util/util.coffee%}
+{% include utils/utils.coffee%}
 
 $(document).ready ->
+
   # Collections
   app.projects = new Projects
   app.countries = new Countries(window.countries)
@@ -35,7 +36,7 @@ $(document).ready ->
   app.filters.addCountries()
 
   # Events
-  app.vent = {}; app.vent extends Backbone.Events
+  # app.vent = {}; app.vent extends Backbone.Events
 
   app.projects.fetch
     success: ->

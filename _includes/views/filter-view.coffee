@@ -12,8 +12,10 @@ class FilterView extends Backbone.View
     @options = options || {}
 
     @listenTo @collection, 'reset', @render
+    @listenTo @collection, 'filters:add', @render
+    @listenTo @collection, 'filters:remove', @render
     @listenTo @collection, 'filters:reset', @render
-    @listenTo app.vent, 'search', @search # TODO: Wrong place to listen for this
+    # @listenTo app.vent, 'search', @search # TODO: Wrong place to listen for this
 
   render: =>
     compiled = @template()(
