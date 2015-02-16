@@ -6,6 +6,7 @@ class ProjectView extends Backbone.View
   events:
     'click .filter': 'filter'
     'click .triggerIframeResize': 'triggerIframeResize'
+    'click .backToResults': 'backToResults'
 
   initialize: ->
     _.template.partial.declare('filterItem', $('#partial-filterItem').html())
@@ -16,6 +17,10 @@ class ProjectView extends Backbone.View
     @$el.html(compiled)
     window.scrollTo(0,0)
     @
+
+  backToResults: (ev) ->
+    ev.preventDefault()
+    app.router.back()
 
   filter: (ev) ->
     ev.preventDefault()
