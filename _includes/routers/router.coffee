@@ -8,6 +8,7 @@ Router = Backbone.Router.extend
     'admin'                  : 'admin'
     ':facetName/:facetValue' : 'explorer'
   
+  # ROUTES
   explorer: (facetName, facetValue) ->
     params = app.utils.getUrlParams()
     console.log 'clearFilters here or not always?'
@@ -28,12 +29,14 @@ Router = Backbone.Router.extend
     view = new ProjectView(model: project)
     @switchView(view)
 
+  # View management
   switchView: (view) ->
     @view.remove() if @view
     @view = view
     @view.render()
     @$appEl.html(@view.$el)
 
+  # Update URL for state
   updateUrlForState: (options) -> # options = {filterRef, facetName, facetValue}
     {filterRef, facetName, facetValue} = options
 

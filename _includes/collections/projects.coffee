@@ -83,7 +83,7 @@ class Projects extends Backbone.Collection
   # 
   storeFilterState: -> # Listens to 'filter:add' and 'filter:remove' events
     return app.router.updateUrlForState() if @filterState.length is 0
-    hashState = @filterState[0] # First filter set
+    hashState = _.first(@filterState)
     filterRef = @serializeFilters(@filterState) 
 
     app.router.updateUrlForState(filterRef: filterRef, facetName: hashState.name, facetValue: hashState.value)
@@ -91,8 +91,8 @@ class Projects extends Backbone.Collection
   serializeFilters: (filterState) -> # Takes filterState, and returns filterRef
     filterRef = app.utils.uuid()
 
-    localStorage.setItem(filterRef, JSON.stringify(filterState))
-    @postRemoteFilterState(filterRef, filterState)
+    @postLocalFilterState(filterRef: filterRef, filterState: filterState)
+    @postRemoteFilterState(filterRef: filterRef, filterState: filterState)
     
     return filterRef
 
@@ -142,23 +142,32 @@ class Projects extends Backbone.Collection
 
 
   # 
-  # Remote filterState store
+  # FilterState stores
   # 
+
+  postLocalFilterState: (options) -> # options = {filterRef, filterState}
+    {filterRef, filterState} = options
+
+    state = JSON.stringify(filterState)
+    localStorage.setItem(filterRef, state)
+  
   postRemoteFilterState: (options) => # options = {filterRef, filterState}
     {filterRef, filterState} = options
 
-    data = 
+    data = JSON.stringify 
       filterRef: filterRef
       filterState: filterState
-    
+
     $.ajax(
       url: API_URL
       type: 'POST'
-      data: JSON.stringify(data)
+      data: data
       headers:
         'X-Parse-REST-API-Key': API_KEY
         'X-Parse-Application-Id': APP_ID
         "Content-Type":"application/json"
+      success: (data, textStatus, jqXHR) ->
+        console.info("Posted filterState to remote store for filterRef: ", filterRef)
       error: (jqXHR, textStatus, errorThrown) ->
         console.info("Failed posting filterState to remote store")
     )
