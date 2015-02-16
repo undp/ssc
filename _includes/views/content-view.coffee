@@ -33,6 +33,7 @@ class ContentView extends Backbone.View
           normalizeFunction: 'polynomial'
         ]
       regionsSelectable: true
+      regionsSelectableOne: true
       # focusOn: region: 'gb'
       onRegionSelected: (ev, code) =>
         console.log(code)
