@@ -1,3 +1,8 @@
+API_KEY = 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
+APP_ID  = 'vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO'
+API_URL = 'https://api.parse.com/1/classes/filterState'
+
+
 class Projects extends Backbone.Collection
   facetTypes: [
     'undp_role_type', 
@@ -34,13 +39,12 @@ class Projects extends Backbone.Collection
     _.each @facetTypes, (type) =>
       @facetr.facet(type).desc()
 
-  facets: ->
+  facets: -> # @facetr.toJSON()
     @facetr.toJSON()
 
   addFilter: (options) =>
     {name, value, trigger} = options
-    # TODO: Check value if valid for facet
-    # Check not a duplicate
+
     return "Can't add duplicate Facet" if _.findWhere(@filterState, 
       name: name
       value: value
@@ -48,7 +52,7 @@ class Projects extends Backbone.Collection
     @facetr.facet(name).value(value, 'and')
     @addFilterState(name, value, trigger)
 
-  addFilterState: (facetName, facetValue, trigger) =>
+  addFilterState: (facetName, facetValue, trigger) => # Triggers filters:add 
     @filterState.push 
       name: facetName
       value: facetValue
@@ -60,7 +64,7 @@ class Projects extends Backbone.Collection
     @facetr.facet(name).removeValue(value)
     @removeFilterState(name, value, trigger)
 
-  removeFilterState: (facetName, facetValue, trigger) =>
+  removeFilterState: (facetName, facetValue, trigger) => # Triggers filters:remove
     foundFilter = _.findWhere(@filterState, 
       name: facetName
       value: facetValue
@@ -68,79 +72,110 @@ class Projects extends Backbone.Collection
     @filterState = _.without(@filterState, foundFilter)
     @trigger 'filters:remove' unless (trigger? and !trigger)
 
-  clearFilters: =>
+  clearFilters: => # Triggers filters:reset 
     @filterState = []
     app.projects.facetr.clearValues()
     @trigger 'filters:reset'
 
 
   # 
-  # Serialize FilterState
+  # SERIALIZE filterState
   # 
-  storeFilterState: ->
+  storeFilterState: -> # Listens to 'filter:add' and 'filter:remove' events
     return app.router.updateUrlForState() if @filterState.length is 0
     hashState = @filterState[0] # First filter set
-    filterRef = @serializeFilters() 
-    app.router.updateUrlForState(hashState.name, hashState.value, filterRef)
+    filterRef = @serializeFilters(@filterState) 
 
-  serializeFilters: ->
+    app.router.updateUrlForState(filterRef: filterRef, facetName: hashState.name, facetValue: hashState.value)
+
+  serializeFilters: (filterState) -> # Takes filterState, and returns filterRef
     filterRef = app.utils.uuid()
-    stringifiedFilters = JSON.stringify(@filterState)
-    localStorage.setItem(filterRef, stringifiedFilters)
-    @postRemoteFilterState(filterRef)
-    filterRef
 
-  restoreFilterStateFromId: (filterRef, fallbackFacetName, fallbackFacetValue) ->
-    # if (found = localStorage.getItem(filterRef))?
-    #   name = JSON.parse(found)[0].name
-    #   value = JSON.parse(found)[0].value
-    #   app.router.updateUrlForState(name, value, filterRef)
-    # else
-    @getRemoteFilterState(
+    localStorage.setItem(filterRef, JSON.stringify(filterState))
+    @postRemoteFilterState(filterRef, filterState)
+    
+    return filterRef
+
+  # 
+  # RETRIEVE and RESTORE filterState
+  # 
+  recreateFilterStateFromRef: (options) -> # options = {filterRef, fallbackName, fallbackValue}
+    {filterRef, fallbackName, fallbackValue} = options
+    return "No filterRef given" unless filterRef
+
+    if localStorageResponse = @retrieveStateFromLocalStorage(options)
+      @rebuildFilterStateFromStoreResponse(localStorageResponse)
+      console.log 'retrieveStateFromLocalStorage successful'
+    else
+    # 2. retrieveStateFromRemoteStorage
+      console.log 'need to try alternative restore strategy'
+    # 3. Reset based on fallbackFacetName and fallbackFacetValue
+
+  retrieveStateFromLocalStorage: (options) ->
+    return unless filterRef = options.filterRef
+
+    if found = localStorage.getItem(filterRef)
+      name: JSON.parse(found)[0].name
+      value: JSON.parse(found)[0].value
+
+  retrieveStateFromRemoteStorage: (options) ->
+    {filterRef, fallbackFacetName, fallbackFacetValue} = options
+
+    @getRemoteFilterState
       filterRef: filterRef
-      success: (data) => 
-        retrievedFilterObject = data.results?[0]
-        @restoreFilters(filterRef, retrievedFilterObject)
-      fail: -> app.router.updateUrlForState(fallbackFacetName, fallbackFacetValue)
-    )
+      successCallback: (data) => 
+        @rebuildFilterStateFromStoreResponse(data.results?[0]) 
+      failCallback: -> app.router.updateUrlForState(facetName: fallbackFacetName, facetValue: fallbackFacetValue)
 
-  restoreFilters: (filterRef, filterObject) ->
-    _.each filterObject.filterState, (filter) =>
+  rebuildFilterStateFromStoreResponse: (filterRef, data) ->
+    if retrievedFilterObject?.length == 0
+      app.router.updateUrlForState(facetName: fallbackFacetName, facetValue: fallbackFacetValue)
+    else
+      @restoreFilter(retrievedFilterObject)
+
+    app.router.updateUrlForState(filterRef: filterRef, facetName: name, facetValue: value)
+
+  restoreFilter: (options) ->
+    _.each options.filterState, (filter) =>
       @addFilter(name: filter.name, value: filter.value, trigger: false)
-    @trigger 'filters:reset'
+    @trigger 'filters:reset'    
 
 
   # 
   # Remote filterState store
   # 
-  postRemoteFilterState: (filterRef) =>
+  postRemoteFilterState: (options) => # options = {filterRef, filterState}
+    {filterRef, filterState} = options
+
     data = 
       filterRef: filterRef
-      filterState: @filterState
+      filterState: filterState
     
     $.ajax(
-      url: 'https://api.parse.com/1/classes/filterState'
+      url: API_URL
       type: 'POST'
       data: JSON.stringify(data)
       headers:
-        'X-Parse-REST-API-Key': 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
-        'X-Parse-Application-Id': 'vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO'
+        'X-Parse-REST-API-Key': API_KEY
+        'X-Parse-Application-Id': APP_ID
         "Content-Type":"application/json"
       error: (jqXHR, textStatus, errorThrown) ->
-        console.log("Failed posting filterState")
+        console.info("Failed posting filterState to remote store")
     )
 
-  getRemoteFilterState: (options) ->
+  getRemoteFilterState: (options) -> # options = {filterRef, successCallback, failCallback}
+    {filterRef, successCallback, failCallback} = options
+
     $.ajax(
-      url: "https://api.parse.com/1/classes/filterState"
+      url: API_URL
       type: "GET"
       data:
-        "where":"{\"filterRef\":\"" + options.filterRef + "\"}"
+        "where":"{\"filterRef\":\"" + filterRef + "\"}"
       headers:
-        "X-Parse-REST-API-Key":"h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W"
-        "X-Parse-Application-Id":"vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO"
+        "X-Parse-REST-API-Key": API_KEY
+        "X-Parse-Application-Id": APP_ID
       success: (data, textStatus, jqXHR) ->
-        options.success(data)
+        successCallback(data)
       error: (jqXHR, textStatus, errorThrown) ->
-        options.fail()
+        failCallback()
     )

@@ -3,18 +3,20 @@ Router = Backbone.Router.extend
     @$appEl ||= $("#app")
 
   routes:
-    ''                       : 'renderExplorerFacet'
+    ''                       : 'explorer'
     'project/:projectId'     : 'project'
     'admin'                  : 'admin'
-    ':facetName/:facetValue' : 'renderExplorerFacet'
+    ':facetName/:facetValue' : 'explorer'
   
-  renderExplorerFacet: (facetName, facetValue) ->
+  explorer: (facetName, facetValue) ->
     params = app.utils.getUrlParams()
+    console.log 'clearFilters here or not always?'
     app.projects.clearFilters()
 
     if params.filterRef?
-      app.projects.restoreFilterStateFromId(params.filterRef, facetName, facetValue) 
-    else if facetName && facetValue
+      app.projects.recreateFilterStateFromRef(filterRef: params.filterRef, fallbackName: facetName, fallbackValue: facetValue) 
+    else if facetName and facetValue
+      # app.projects.clearFilters() # Better in here?
       app.projects.addFilter(name: facetName, value: facetValue)
 
     view = new ExplorerView(collection: app.projects)
@@ -32,7 +34,9 @@ Router = Backbone.Router.extend
     @view.render()
     @$appEl.html(@view.$el)
 
-  updateUrlForState: (facetName, facetValue, filterRef) ->
+  updateUrlForState: (options) -> # options = {filterRef, facetName, facetValue}
+    {filterRef, facetName, facetValue} = options
+
     url = ""
     url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
     url += "?filterRef=#{filterRef}" if filterRef?
