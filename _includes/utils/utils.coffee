@@ -1,7 +1,11 @@
 app.utils = {}
 
-app.utils.uuid = ->
+app.utils.UUID = ->
   @s4() + @s4() + '-' + @s4() + '-' + @s4() + '-' + @s4() + '-' + @s4() + @s4() + @s4()
+
+app.utils.validUUID = (uuid) ->
+  regex = /.{8}\-.{4}\-.{4}\-.{4}\-.{12}/
+  regex.test uuid
 
 app.utils.s4 = ->
   Math.floor((1 + Math.random()) * 0x10000) .toString(16) .substring(1)

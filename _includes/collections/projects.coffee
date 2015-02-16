@@ -89,7 +89,7 @@ class Projects extends Backbone.Collection
     app.router.updateUrlForState(filterRef: filterRef, facetName: hashState.name, facetValue: hashState.value)
 
   serializeFilters: (filterState) -> # Takes filterState, and returns filterRef
-    filterRef = app.utils.uuid()
+    filterRef = app.utils.UUID()
 
     @postLocalFilterState(filterRef: filterRef, filterState: filterState)
     @postRemoteFilterState(filterRef: filterRef, filterState: filterState)
