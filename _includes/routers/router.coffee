@@ -11,13 +11,20 @@ Router = Backbone.Router.extend
   # ROUTES
   explorer: (facetName, facetValue) ->
     params = app.utils.getUrlParams()
-    console.log 'clearFilters here or not always?'
-    app.projects.clearFilters()
 
-    if params.filterRef?
-      app.projects.recreateFilterStateFromRef(filterRef: params.filterRef, fallbackName: facetName, fallbackValue: facetValue) 
+    console.log 'clearFilters here or not always?'
+    # app.projects.clearFilters()
+
+    if params.filterRef? # Try to find from stores (local and remote)
+      options = 
+        filterRef: params.filterRef
+        facetName: facetName
+        facetValue: facetValue
+
+      app.projects.recreateFilterStateFromRef(options) 
+
     else if facetName and facetValue
-      # app.projects.clearFilters() # Better in here?
+      app.projects.clearFilters() # Better in here?
       app.projects.addFilter(name: facetName, value: facetValue)
 
     view = new ExplorerView(collection: app.projects)
@@ -35,12 +42,3 @@ Router = Backbone.Router.extend
     @view = view
     @view.render()
     @$appEl.html(@view.$el)
-
-  # Update URL for state
-  updateUrlForState: (options) -> # options = {filterRef, facetName, facetValue}
-    {filterRef, facetName, facetValue} = options
-
-    url = ""
-    url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
-    url += "?filterRef=#{filterRef}" if filterRef?
-    app.router.navigate(url)

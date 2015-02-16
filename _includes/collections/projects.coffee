@@ -22,6 +22,7 @@ class Projects extends Backbone.Collection
     @listenTo @, 'filters:add', @storeFilterState
     @listenTo @, 'filters:remove', @storeFilterState
     @filterState = []
+    @viewState = ''
 
   initFacetr: ->
     @facetr = Facetr(@, 'projects')
@@ -70,23 +71,26 @@ class Projects extends Backbone.Collection
       value: facetValue
     )
     @filterState = _.without(@filterState, foundFilter)
-    @trigger 'filters:remove' unless (trigger? and !trigger)
+    unless (trigger? and !trigger)
+      console.log 'trigger filters:remove'
+      @trigger 'filters:remove'
 
   clearFilters: => # Triggers filters:reset 
     @filterState = []
-    app.projects.facetr.clearValues()
-    @trigger 'filters:reset'
+    @facetr.clearValues()
+    @storeFilterState()
 
 
   # 
-  # SERIALIZE filterState
+  # SERIALIZE and STORE filterState
   # 
   storeFilterState: -> # Listens to 'filter:add' and 'filter:remove' events
-    return app.router.updateUrlForState() if @filterState.length is 0
+    return @replaceUrlForState() if @filterState.length is 0
     hashState = _.first(@filterState)
     filterRef = @serializeFilters(@filterState) 
+    viewState = @viewState
 
-    app.router.updateUrlForState(filterRef: filterRef, facetName: hashState.name, facetValue: hashState.value)
+    @replaceUrlForState(filterRef: filterRef, facetName: hashState.name, facetValue: hashState.value)
 
   serializeFilters: (filterState) -> # Takes filterState, and returns filterRef
     filterRef = app.utils.UUID()
@@ -99,47 +103,97 @@ class Projects extends Backbone.Collection
   # 
   # RETRIEVE and RESTORE filterState
   # 
-  recreateFilterStateFromRef: (options) -> # options = {filterRef, fallbackName, fallbackValue}
-    {filterRef, fallbackName, fallbackValue} = options
-    return "No filterRef given" unless filterRef
 
-    if localStorageResponse = @retrieveStateFromLocalStorage(options)
-      @rebuildFilterStateFromStoreResponse(localStorageResponse)
-      console.log 'retrieveStateFromLocalStorage successful'
-    else
-    # 2. retrieveStateFromRemoteStorage
-      console.log 'need to try alternative restore strategy'
-    # 3. Reset based on fallbackFacetName and fallbackFacetValue
+  recreateFilterStateFromRef: (options) -> # options = {filterRef, facetName, facetValue}
+    {filterRef, facetName, facetValue} = options
+    return 'Invalid UUID' unless app.utils.validUUID(filterRef)
+
+    # see if local can return something useful
+    if (retrieved = @retrieveStateFromLocalStorage(options))
+      options.filterState = retrieved
+      @restoreStateFromStore(options)
+    else # Check remote - if that fails then fallback
+      console.log 'not found local'
+      failCallback: =>
+        console.log 'Not found remote: using fallbackFacetName and fallbackFacetValue'
+
+      # @restoreStateFromStore(options)
+      # options = 
+      #   filterRef: null
+      #   facetName: facetName
+      #   facetValue: facetValue
+      # @replaceUrlForState(options)
+      # success: restoreStateFromStore, update Url
+    # if not, then try remote
+      # success: restoreState, update Url
+    # if neither, then
+      # just use facetValue and facetName
 
   retrieveStateFromLocalStorage: (options) ->
-    return unless filterRef = options.filterRef
+    return 'No filterRef given' unless filterRef = options.filterRef
 
-    if found = localStorage.getItem(filterRef)
-      name: JSON.parse(found)[0].name
-      value: JSON.parse(found)[0].value
+    retrieved = localStorage.getItem(filterRef)
 
-  retrieveStateFromRemoteStorage: (options) ->
-    {filterRef, fallbackFacetName, fallbackFacetValue} = options
-
-    @getRemoteFilterState
-      filterRef: filterRef
-      successCallback: (data) => 
-        @rebuildFilterStateFromStoreResponse(data.results?[0]) 
-      failCallback: -> app.router.updateUrlForState(facetName: fallbackFacetName, facetValue: fallbackFacetValue)
-
-  rebuildFilterStateFromStoreResponse: (filterRef, data) ->
-    if retrievedFilterObject?.length == 0
-      app.router.updateUrlForState(facetName: fallbackFacetName, facetValue: fallbackFacetValue)
+    if retrieved?
+      return JSON.parse(retrieved)
     else
-      @restoreFilter(retrievedFilterObject)
+      return false
 
-    app.router.updateUrlForState(filterRef: filterRef, facetName: name, facetValue: value)
+  restoreStateFromStore: (options) -> # options = {filterRef, name, value, filterState}
+    @restoreFilterState(options)
+    @replaceUrlForState(options)
 
-  restoreFilter: (options) ->
+  # recreateFilterStateFromRef: (options) -> # options = {filterRef, facetName, facetValue}
+  #   {filterRef, facetName, facetValue} = options
+  #   return "No filterRef given" unless filterRef
+
+  #   if localStorageResponse = @retrieveStateFromLocalStorage(options)
+  #     @rebuildFilterStateFromStoreResponse(localStorageResponse)
+  #     console.log 'retrieveStateFromLocalStorage successful'
+  #   else
+  #   # 2. retrieveStateFromRemoteStorage
+  #     console.log 'need to try alternative restore strategy'
+  #   # 3. Reset based on fallbackFacetName and fallbackFacetValue
+
+  # retrieveStateFromLocalStorage: (options) ->
+  #   return unless filterRef = options.filterRef
+
+  #   if found = localStorage.getItem(filterRef)
+  #     name: JSON.parse(found)[0].name
+  #     value: JSON.parse(found)[0].value
+
+  # retrieveStateFromRemoteStorage: (options) ->
+  #   {filterRef, fallbackFacetName, fallbackFacetValue} = options
+
+  #   @getRemoteFilterState
+  #     filterRef: filterRef
+  #     successCallback: (data) => 
+  #       @rebuildFilterStateFromStoreResponse(data.results?[0]) 
+  #     failCallback: -> @replaceUrlForState(facetName: fallbackFacetName, facetValue: fallbackFacetValue)
+
+  # rebuildFilterStateFromStoreResponse: (filterRef, data) ->
+  #   if retrievedFilterObject?.length == 0
+  #     @replaceUrlForState(facetName: fallbackFacetName, facetValue: fallbackFacetValue)
+  #   else
+  #     @restoreFilter(retrievedFilterObject)
+
+  #   @replaceUrlForState(filterRef: filterRef, facetName: name, facetValue: value)
+
+  restoreFilterState: (options) ->
+    return 'No filterState given' unless options.filterState?
+
     _.each options.filterState, (filter) =>
       @addFilter(name: filter.name, value: filter.value, trigger: false)
     @trigger 'filters:reset'    
 
+  replaceUrlForState: (options) -> # options = {filterRef, facetName, facetValue}
+    return app.router.navigate() if !options?
+
+    {filterRef, facetName, facetValue} = options
+    url = ""
+    url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
+    url += "?filterRef=#{filterRef}" if filterRef?
+    app.router.navigate(url)
 
   # 
   # FilterState stores
