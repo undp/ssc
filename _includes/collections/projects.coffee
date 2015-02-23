@@ -84,12 +84,12 @@ class Projects extends Backbone.Collection
   storeState: -> # Listens to 'filter:add' and 'filter:remove' events
     return @rebuildURL() if @filterState.length is 0
     hashState = _.first(@filterState)
-    stateRef = @saveFilters(filterState: @filterState) 
+    stateRef = @saveState(filterState: @filterState) 
 
     @rebuildURL(stateRef: stateRef, facetName: hashState.name, facetValue: hashState.value)
 
-  saveFilters: (options) -> # Takes filterState, and returns stateRef
-    {filterState, stateRef} = options
+  saveState: (options) -> # Takes filterState, and returns stateRef
+    {stateRef, filterState} = options
     stateRef ?= app.utils.PUID()
 
     @postLocalFilterState(stateRef: stateRef, filterState: filterState)
