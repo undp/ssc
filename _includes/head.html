@@ -8,16 +8,19 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <link rel="shortcut icon" type="image/x-icon" href="images/undp favicon.png">
+  <link rel="apple-touch-icon" href="images/undp webclip 2.png">
+
   <link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/webflow.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/jquery-jvectormap-2.0.1.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
   <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> -->
 
-  <script src='{{base}}/ext/modernizr.min.js'></script>
-
+  <script src='{{base}}/ext/modernizr.js'></script>
   <!--- <script type="text/javascript"
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD47EtV785Bpxt-Ss0PAn5Ef7k4wXVuuu8">
   </script> -->
@@ -31,4 +34,13 @@
   <script src='{{base}}/ext/jquery-jvectormap-world-mill-en.js'></script>
   <script src='{{base}}/ext/webflow.js'></script>
   <script src='{{base}}/js/script.js'></script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-33744920-10', 'auto');
+    ga('send', 'pageview');
+  </script>
 </head>
