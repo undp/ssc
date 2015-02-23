@@ -1,7 +1,12 @@
 app.utils = {}
 
-app.utils.uuid = ->
-  @s4() + @s4() + '-' + @s4() + '-' + @s4() + '-' + @s4() + '-' + @s4() + @s4() + @s4()
+# Create probably unique IDs
+app.utils.PUID = ->
+  @s4() + @s4() + @s4()
+
+app.utils.validPUID = (uuid) ->
+  regex = /.{12}/
+  regex.test uuid
 
 app.utils.s4 = ->
   Math.floor((1 + Math.random()) * 0x10000) .toString(16) .substring(1)

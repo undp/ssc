@@ -1,6 +1,9 @@
 Router = Backbone.Router.extend
   initialize: ->
     @$appEl ||= $("#app")
+    @routesHit = 0
+    # keep count of number of routes handled by your application
+    Backbone.history.on 'route', (-> @routesHit++), @
 
   routes:
     ''                       : 'explorer'
@@ -8,15 +11,23 @@ Router = Backbone.Router.extend
     'admin'                  : 'admin'
     ':facetName/:facetValue' : 'explorer'
   
+  # ROUTES
   explorer: (facetName, facetValue) ->
     params = app.utils.getUrlParams()
-    console.log 'clearFilters here or not always?'
-    app.projects.clearFilters()
 
-    if params.filterRef?
-      app.projects.recreateFilterStateFromRef(filterRef: params.filterRef, fallbackName: facetName, fallbackValue: facetValue) 
+    # TODO: clearFilters here or not always?
+    # app.projects.clearFilters()
+
+    if params.filterRef? # Try to find from stores (local and remote)
+      options = 
+        filterRef: params.filterRef
+        facetName: facetName
+        facetValue: facetValue
+
+      app.projects.rebuildFilterState(options) 
+
     else if facetName and facetValue
-      # app.projects.clearFilters() # Better in here?
+      app.projects.clearFilters() # Better in here?
       app.projects.addFilter(name: facetName, value: facetValue)
 
     view = new ExplorerView(collection: app.projects)
@@ -28,16 +39,17 @@ Router = Backbone.Router.extend
     view = new ProjectView(model: project)
     @switchView(view)
 
+  # View management
   switchView: (view) ->
     @view.remove() if @view
     @view = view
     @view.render()
     @$appEl.html(@view.$el)
 
-  updateUrlForState: (options) -> # options = {filterRef, facetName, facetValue}
-    {filterRef, facetName, facetValue} = options
+  back: ->
+    if @routesHit > 1 # User did not land directly on current page
+      window.history.back()
+    else
+      @navigate '', trigger: true, replace: true
+    return
 
-    url = ""
-    url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
-    url += "?filterRef=#{filterRef}" if filterRef?
-    app.router.navigate(url)

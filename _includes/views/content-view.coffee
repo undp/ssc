@@ -10,7 +10,7 @@ class ContentView extends Backbone.View
     @visible = 'list' unless @visible # TODO: Use a viewModel
 
   render: ->
-    console.log 'reset collection -> render contentView'
+    # TODO: console.log 'reset collection -> render contentView'
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)
     @$el.find("#list").hide()
@@ -18,7 +18,7 @@ class ContentView extends Backbone.View
     @
 
   vectorMap: =>
-    console.log 'render map called'
+    # TODO: console.log 'render map called'
     values = _.object(
       _.map(countries, (i) ->
         [[i.iso2],[Math.floor((Math.random() * 100) + 1)]]
@@ -33,6 +33,7 @@ class ContentView extends Backbone.View
           normalizeFunction: 'polynomial'
         ]
       regionsSelectable: true
+      regionsSelectableOne: true
       # focusOn: region: 'gb'
       onRegionSelected: (ev, code) =>
         console.log(code)

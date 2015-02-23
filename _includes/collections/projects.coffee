@@ -22,6 +22,7 @@ class Projects extends Backbone.Collection
     @listenTo @, 'filters:add', @storeFilterState
     @listenTo @, 'filters:remove', @storeFilterState
     @filterState = []
+    @viewState = ''
 
   initFacetr: ->
     @facetr = Facetr(@, 'projects')
@@ -30,7 +31,6 @@ class Projects extends Backbone.Collection
   findBySearch: (term) ->
     @filter (i) ->
       i.get('project_title').match(term) || i.get('project_objective').match(term)
-
 
   # 
   # Facets
@@ -70,101 +70,137 @@ class Projects extends Backbone.Collection
       value: facetValue
     )
     @filterState = _.without(@filterState, foundFilter)
-    @trigger 'filters:remove' unless (trigger? and !trigger)
+    unless (trigger? and !trigger)
+      console.log 'trigger filters:remove'
+      @trigger 'filters:remove'
 
   clearFilters: => # Triggers filters:reset 
     @filterState = []
-    app.projects.facetr.clearValues()
-    @trigger 'filters:reset'
+    @facetr.clearValues()
+    @storeFilterState()
 
 
   # 
-  # SERIALIZE filterState
+  # SERIALIZE and STORE filterState
   # 
   storeFilterState: -> # Listens to 'filter:add' and 'filter:remove' events
-    return app.router.updateUrlForState() if @filterState.length is 0
-    hashState = @filterState[0] # First filter set
-    filterRef = @serializeFilters(@filterState) 
+    return @rebuildURL() if @filterState.length is 0
+    hashState = _.first(@filterState)
+    filterRef = @saveFilters(filterState: @filterState) 
 
-    app.router.updateUrlForState(filterRef: filterRef, facetName: hashState.name, facetValue: hashState.value)
+    @rebuildURL(filterRef: filterRef, facetName: hashState.name, facetValue: hashState.value)
 
-  serializeFilters: (filterState) -> # Takes filterState, and returns filterRef
-    filterRef = app.utils.uuid()
+  saveFilters: (options) -> # Takes filterState, and returns filterRef
+    {filterState, filterRef} = options
+    filterRef ?= app.utils.PUID()
 
-    localStorage.setItem(filterRef, JSON.stringify(filterState))
-    @postRemoteFilterState(filterRef, filterState)
+    @postLocalFilterState(filterRef: filterRef, filterState: filterState)
+    @postRemoteFilterState(filterRef: filterRef, filterState: filterState)
     
     return filterRef
 
   # 
   # RETRIEVE and RESTORE filterState
   # 
-  recreateFilterStateFromRef: (options) -> # options = {filterRef, fallbackName, fallbackValue}
-    {filterRef, fallbackName, fallbackValue} = options
-    return "No filterRef given" unless filterRef
 
-    if localStorageResponse = @retrieveStateFromLocalStorage(options)
-      @rebuildFilterStateFromStoreResponse(localStorageResponse)
-      console.log 'retrieveStateFromLocalStorage successful'
+  rebuildFilterState: (options) -> # options = {filterRef, facetName, facetValue}
+    {filterRef, facetName, facetValue} = options
+    return "Missing or invalid 'Probably Unique ID'" unless app.utils.validPUID(filterRef)
+
+    # Can find something useful locally?
+    if (data = @findLocal(options))
+      options.filterState = data
+      @restoreState(options)
+    else # Else check remote
+      deferred = $.Deferred()
+
+      @getRemoteFilterState(
+        filterRef: filterRef
+        deferred: deferred
+      ).done( (data) =>
+        options.filterState = data
+        @postLocalFilterState(options)
+        @restoreState(options)
+      ).fail( => 
+        console.info 'Failed to retrieve filterState from remote service'
+        options.filterRef = null
+        @rebuildURL(options)
+      )
+
+
+  findLocal: (options) ->
+    retrieved = localStorage.getItem(options.filterRef)
+
+    if retrieved?
+      return JSON.parse(retrieved)
     else
-    # 2. retrieveStateFromRemoteStorage
-      console.log 'need to try alternative restore strategy'
-    # 3. Reset based on fallbackFacetName and fallbackFacetValue
+      return false
 
-  retrieveStateFromLocalStorage: (options) ->
-    return unless filterRef = options.filterRef
+  findRemote: (options) ->
+    options = 
 
-    if found = localStorage.getItem(filterRef)
-      name: JSON.parse(found)[0].name
-      value: JSON.parse(found)[0].value
+    retrieved = @getRemoteFilterState(options)
 
-  retrieveStateFromRemoteStorage: (options) ->
-    {filterRef, fallbackFacetName, fallbackFacetValue} = options
+  # 
+  # Recreate state and rebuild URL
+  # 
+  restoreState: (options) -> # options = {filterRef, name, value, filterState}
+    @restoreFilters(options)
+    @rebuildURL(options)
 
-    @getRemoteFilterState
-      filterRef: filterRef
-      successCallback: (data) => 
-        @rebuildFilterStateFromStoreResponse(data.results?[0]) 
-      failCallback: -> app.router.updateUrlForState(facetName: fallbackFacetName, facetValue: fallbackFacetValue)
+  restoreFilters: (options) ->
+    return 'No filterState given' unless options.filterState?
 
-  rebuildFilterStateFromStoreResponse: (filterRef, data) ->
-    if retrievedFilterObject?.length == 0
-      app.router.updateUrlForState(facetName: fallbackFacetName, facetValue: fallbackFacetValue)
-    else
-      @restoreFilter(retrievedFilterObject)
-
-    app.router.updateUrlForState(filterRef: filterRef, facetName: name, facetValue: value)
-
-  restoreFilter: (options) ->
     _.each options.filterState, (filter) =>
       @addFilter(name: filter.name, value: filter.value, trigger: false)
     @trigger 'filters:reset'    
 
+  rebuildURL: (options) -> # options = {filterRef, facetName, facetValue}
+    return app.router.navigate() if !options?
+
+    {filterRef, facetName, facetValue} = options
+    url = ""
+    url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
+    url += "?filterRef=#{filterRef}" if filterRef?
+    app.router.navigate(url)
 
   # 
-  # Remote filterState store
+  # FilterState stores
   # 
+
+  postLocalFilterState: (options) -> # options = {filterRef, filterState}
+    {filterRef, filterState} = options
+
+    state = JSON.stringify(filterState)
+    localStorage.setItem(filterRef, state)
+  
+  # Takes filterRef and filterState
+  # Succeeds/fails without needing to inform user
   postRemoteFilterState: (options) => # options = {filterRef, filterState}
     {filterRef, filterState} = options
 
-    data = 
+    data = JSON.stringify 
       filterRef: filterRef
       filterState: filterState
-    
+
     $.ajax(
       url: API_URL
       type: 'POST'
-      data: JSON.stringify(data)
+      data: data
       headers:
         'X-Parse-REST-API-Key': API_KEY
         'X-Parse-Application-Id': APP_ID
         "Content-Type":"application/json"
+      success: (data, textStatus, jqXHR) ->
+        console.info("Posted filterState to remote store for filterRef: ", filterRef)
       error: (jqXHR, textStatus, errorThrown) ->
-        console.info("Failed posting filterState to remote store")
+        console.info("Posting filterState to remote store unsuccessful")
     )
 
-  getRemoteFilterState: (options) -> # options = {filterRef, successCallback, failCallback}
-    {filterRef, successCallback, failCallback} = options
+  # Takes filterRef. 
+  # Resolves with first filterState
+  getRemoteFilterState: (options) -> # options = {filterRef, deferred}
+    {filterRef, deferred} = options
 
     $.ajax(
       url: API_URL
@@ -175,7 +211,13 @@ class Projects extends Backbone.Collection
         "X-Parse-REST-API-Key": API_KEY
         "X-Parse-Application-Id": APP_ID
       success: (data, textStatus, jqXHR) ->
-        successCallback(data)
+        if data.results? and data.results.length > 0
+          deferred.resolve(data.results[0].filterState)
+        else
+          deferred.reject()
       error: (jqXHR, textStatus, errorThrown) ->
-        failCallback()
+        deferred.reject()
     )
+
+    return deferred.promise()
+

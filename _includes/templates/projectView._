@@ -1,5 +1,5 @@
 <div class='column medium-12'>
-  <a href="#">< All projects</a>
+  <a class='backToResults'=>< Back to results</a>
   <h1><%= project.project_title %></h1>
   <ul>
     <li>
