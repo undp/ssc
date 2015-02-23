@@ -110,13 +110,17 @@ class Projects extends Backbone.Collection
   # RETRIEVE and RESTORE filterState
   # 
 
-  retrieveStateData: (options) -> # options = {stateRef, facetName, facetValue}
-    {stateRef, facetName, facetValue} = options
+  retrieveStateData: (options) -> # options = {stateRef, facetName, facetValue, viewState}
+    {stateRef, facetName, facetValue, viewState} = options
 
     unless app.utils.validPUID(stateRef)
       options.stateRef = null
-      options.stateRef = @saveState(options) # Pass null stateRef, saveState returns new ref
-      @rebuildURL(options)
+      options.filterState = [name: facetName, value: facetValue]
+
+      newStateRef = @saveState(options) # Pass null stateRef, saveState returns new ref
+      options.stateRef = newStateRef
+      options.viewState ?= INITIAL_VIEW_STATE
+      @restoreState(options)
 
     # Search locally
     if (retrievedData = @findLocal(options))
@@ -152,7 +156,7 @@ class Projects extends Backbone.Collection
   # 
   # Recreate state and rebuild URL
   # 
-  restoreState: (options) -> # options = {stateRef, facetName, facetvalue}
+  restoreState: (options) -> # options = {stateRef, facetName, facetValue}
     @restoreFilters(options.filterState)
     @restoreView(options.viewState)
     @rebuildURL(options)
