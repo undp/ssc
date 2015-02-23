@@ -1,7 +1,6 @@
 API_KEY = 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
 APP_ID  = 'vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO'
-API_URL = 'https://api.parse.com/1/classes/filterState'
-
+API_URL = 'https://api.parse.com/1/classes/explorerState'
 
 class Projects extends Backbone.Collection
   facetTypes: [
