@@ -39,5 +39,4 @@ $(document).ready ->
       app.projects.initFacetr()
       app.router = new Router()
       Backbone.history.start()
-      $(document).foundation()
 
