@@ -497,16 +497,20 @@ p {
   float: right;
 }
 .headline-value {
-  width: 50%;
+  width: 40%;
   float: left;
   font-size: 74px;
   line-height: 60px;
   font-weight: 700;
-  text-align: center;
+  text-align: right;
 }
 .headline-explainer {
-  width: 50%;
+  width: 60%;
+  padding-left: 10px;
   float: right;
+  color: rgba(102, 194, 255, 0.54);
+  font-size: 23px;
+  line-height: 25px;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -744,6 +748,23 @@ html.w-mod-js *[data-ix="display-none"] {
   }
   .stat-headline {
     font-size: 31px;
+  }
+  .headlines {
+    height: 110px;
+    padding-top: 18px;
+  }
+  .headline-value {
+    width: 50%;
+    font-size: 83px;
+    line-height: 73px;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: -5px;
+  }
+  .headline-explainer {
+    width: 50%;
+    font-size: 22px;
+    line-height: 24px;
   }
 }
 
