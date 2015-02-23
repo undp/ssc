@@ -16,3 +16,13 @@ class Filters extends Backbone.Collection
     @filter (indice) ->
       re = new RegExp term, "i"
       indice.get('name').match re
+
+  validFilters: (filterName, filterValue) ->
+    return true unless filterName? and filterValue?
+    
+    new Backbone.Collection(
+      @where type: filterName
+    ).where(
+      short: filterValue
+    ).length > 0
+

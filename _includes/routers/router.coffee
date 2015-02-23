@@ -13,16 +13,16 @@ Router = Backbone.Router.extend
   
   # ROUTES
   explorer: (facetName, facetValue) ->
-    params = app.utils.getUrlParams()
+    return @rootRoute() unless app.filters.validFilters(facetName, facetValue)
 
-    viewState = params?.viewState
+    params = app.utils.getUrlParams()
 
     if params.stateRef? # Try to find from stores (local and remote)
       options = 
         stateRef: params.stateRef
         facetName: facetName
         facetValue: facetValue
-        viewState: viewState
+        viewState: params?.viewState
 
       app.projects.retrieveStateData(options) 
 
@@ -40,6 +40,9 @@ Router = Backbone.Router.extend
     @switchView(view)
 
   # View management
+  rootRoute: ->
+    @navigate '', trigger: true, replace: true
+
   switchView: (view) ->
     @view.remove() if @view
     @view = view
