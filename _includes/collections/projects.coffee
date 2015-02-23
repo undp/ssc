@@ -92,7 +92,7 @@ class Projects extends Backbone.Collection
     {stateRef, filterState} = options
     stateRef ?= app.utils.PUID()
 
-    @postLocalFilterState(stateRef: stateRef, filterState: filterState)
+    @saveStateLocal(stateRef: stateRef, filterState: filterState)
     @postRemoteFilterState(stateRef: stateRef, filterState: filterState)
     
     return stateRef
@@ -117,7 +117,7 @@ class Projects extends Backbone.Collection
         deferred: deferred
       ).done( (data) =>
         options.filterState = data
-        @postLocalFilterState(options)
+        @saveStateLocal(options)
         @restoreState(options)
       ).fail( => 
         console.info 'Failed to retrieve filterState from remote service'
@@ -166,7 +166,7 @@ class Projects extends Backbone.Collection
   # FilterState stores
   # 
 
-  postLocalFilterState: (options) -> # options = {stateRef, filterState}
+  saveStateLocal: (options) -> # options = {stateRef, filterState}
     {stateRef, filterState} = options
 
     state = JSON.stringify(filterState)
