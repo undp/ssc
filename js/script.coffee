@@ -22,7 +22,6 @@ app = window.app = {}
 
 # Controllers
 {% include routers/router.coffee %} # Router
-{% include controllers/map.coffee %} # MapController
 
 # Utilities
 {% include utils/utils.coffee%}
