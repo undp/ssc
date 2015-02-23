@@ -84,26 +84,26 @@ class Projects extends Backbone.Collection
   storeState: -> # Listens to 'filter:add' and 'filter:remove' events
     return @rebuildURL() if @filterState.length is 0
     hashState = _.first(@filterState)
-    filterRef = @saveFilters(filterState: @filterState) 
+    stateRef = @saveFilters(filterState: @filterState) 
 
-    @rebuildURL(filterRef: filterRef, facetName: hashState.name, facetValue: hashState.value)
+    @rebuildURL(stateRef: stateRef, facetName: hashState.name, facetValue: hashState.value)
 
-  saveFilters: (options) -> # Takes filterState, and returns filterRef
-    {filterState, filterRef} = options
-    filterRef ?= app.utils.PUID()
+  saveFilters: (options) -> # Takes filterState, and returns stateRef
+    {filterState, stateRef} = options
+    stateRef ?= app.utils.PUID()
 
-    @postLocalFilterState(filterRef: filterRef, filterState: filterState)
-    @postRemoteFilterState(filterRef: filterRef, filterState: filterState)
+    @postLocalFilterState(stateRef: stateRef, filterState: filterState)
+    @postRemoteFilterState(stateRef: stateRef, filterState: filterState)
     
-    return filterRef
+    return stateRef
 
   # 
   # RETRIEVE and RESTORE filterState
   # 
 
-  rebuildFilterState: (options) -> # options = {filterRef, facetName, facetValue}
-    {filterRef, facetName, facetValue} = options
-    return "Missing or invalid 'Probably Unique ID'" unless app.utils.validPUID(filterRef)
+  rebuildFilterState: (options) -> # options = {stateRef, facetName, facetValue}
+    {stateRef, facetName, facetValue} = options
+    return "Missing or invalid 'Probably Unique ID'" unless app.utils.validPUID(stateRef)
 
     # Can find something useful locally?
     if (data = @findLocal(options))
@@ -113,7 +113,7 @@ class Projects extends Backbone.Collection
       deferred = $.Deferred()
 
       @getRemoteFilterState(
-        filterRef: filterRef
+        stateRef: stateRef
         deferred: deferred
       ).done( (data) =>
         options.filterState = data
@@ -121,13 +121,13 @@ class Projects extends Backbone.Collection
         @restoreState(options)
       ).fail( => 
         console.info 'Failed to retrieve filterState from remote service'
-        options.filterRef = null
+        options.stateRef = null
         @rebuildURL(options)
       )
 
 
   findLocal: (options) ->
-    retrieved = localStorage.getItem(options.filterRef)
+    retrieved = localStorage.getItem(options.stateRef)
 
     if retrieved?
       return JSON.parse(retrieved)
@@ -142,7 +142,7 @@ class Projects extends Backbone.Collection
   # 
   # Recreate state and rebuild URL
   # 
-  restoreState: (options) -> # options = {filterRef, name, value, filterState}
+  restoreState: (options) -> # options = {stateRef, name, value, filterState}
     @restoreFilters(options)
     @rebuildURL(options)
 
@@ -153,32 +153,32 @@ class Projects extends Backbone.Collection
       @addFilter(name: filter.name, value: filter.value, trigger: false)
     @trigger 'filters:reset'    
 
-  rebuildURL: (options) -> # options = {filterRef, facetName, facetValue}
+  rebuildURL: (options) -> # options = {stateRef, facetName, facetValue}
     return app.router.navigate() if !options?
 
-    {filterRef, facetName, facetValue} = options
+    {stateRef, facetName, facetValue} = options
     url = ""
     url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
-    url += "?filterRef=#{filterRef}" if filterRef?
+    url += "?stateRef=#{stateRef}" if stateRef?
     app.router.navigate(url)
 
   # 
   # FilterState stores
   # 
 
-  postLocalFilterState: (options) -> # options = {filterRef, filterState}
-    {filterRef, filterState} = options
+  postLocalFilterState: (options) -> # options = {stateRef, filterState}
+    {stateRef, filterState} = options
 
     state = JSON.stringify(filterState)
-    localStorage.setItem(filterRef, state)
+    localStorage.setItem(stateRef, state)
   
-  # Takes filterRef and filterState
+  # Takes stateRef and filterState
   # Succeeds/fails without needing to inform user
-  postRemoteFilterState: (options) => # options = {filterRef, filterState}
-    {filterRef, filterState} = options
+  postRemoteFilterState: (options) => # options = {stateRef, filterState}
+    {stateRef, filterState} = options
 
     data = JSON.stringify 
-      filterRef: filterRef
+      stateRef: stateRef
       filterState: filterState
 
     $.ajax(
@@ -190,21 +190,21 @@ class Projects extends Backbone.Collection
         'X-Parse-Application-Id': APP_ID
         "Content-Type":"application/json"
       success: (data, textStatus, jqXHR) ->
-        console.info("Posted filterState to remote store for filterRef: ", filterRef)
+        console.info("Posted filterState to remote store for stateRef: ", stateRef)
       error: (jqXHR, textStatus, errorThrown) ->
         console.info("Posting filterState to remote store unsuccessful")
     )
 
-  # Takes filterRef. 
+  # Takes stateRef. 
   # Resolves with first filterState
-  getRemoteFilterState: (options) -> # options = {filterRef, deferred}
-    {filterRef, deferred} = options
+  getRemoteFilterState: (options) -> # options = {stateRef, deferred}
+    {stateRef, deferred} = options
 
     $.ajax(
       url: API_URL
       type: "GET"
       data:
-        "where":"{\"filterRef\":\"" + filterRef + "\"}"
+        "where":"{\"stateRef\":\"" + stateRef + "\"}"
       headers:
         "X-Parse-REST-API-Key": API_KEY
         "X-Parse-Application-Id": APP_ID
