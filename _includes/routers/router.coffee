@@ -17,16 +17,17 @@ Router = Backbone.Router.extend
 
     viewState = params?.viewState
 
-    if params.filterRef? # Try to find from stores (local and remote)
+    if params.stateRef? # Try to find from stores (local and remote)
       options = 
-        filterRef: params.filterRef
+        stateRef: params.stateRef
         facetName: facetName
         facetValue: facetValue
+        viewState: viewState
 
-      app.projects.rebuildFilterState(options) 
+      app.projects.retrieveStateData(options) 
 
     else if facetName and facetValue
-      app.projects.clearFilters() # Better in here?
+      app.projects.clearFilters() # TODO: Check if clearFilters() needed
       app.projects.addFilter(name: facetName, value: facetValue)
 
     view = new ExplorerView(collection: app.projects)
