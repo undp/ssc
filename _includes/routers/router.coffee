@@ -15,8 +15,7 @@ Router = Backbone.Router.extend
   explorer: (facetName, facetValue) ->
     params = app.utils.getUrlParams()
 
-    # TODO: clearFilters here or not always?
-    # app.projects.clearFilters()
+    viewState = params?.viewState
 
     if params.stateRef? # Try to find from stores (local and remote)
       options = 
