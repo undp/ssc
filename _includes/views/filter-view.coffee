@@ -45,7 +45,7 @@ class FilterView extends Backbone.View
     @collection.clearFilters()
 
   filterGroups: =>
-    console.log 'render filters'
+    # TODO: console.log 'render filters'
 
     _.each(@collection.facetr.facets(), (facet) =>
       facet.sortByActiveCount()

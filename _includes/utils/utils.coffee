@@ -1,10 +1,11 @@
 app.utils = {}
 
-app.utils.UUID = ->
-  @s4() + @s4() + '-' + @s4() + '-' + @s4() + '-' + @s4() + '-' + @s4() + @s4() + @s4()
+# Create probably unique IDs
+app.utils.PUID = ->
+  @s4() + @s4() + @s4()
 
-app.utils.validUUID = (uuid) ->
-  regex = /.{8}\-.{4}\-.{4}\-.{4}\-.{12}/
+app.utils.validPUID = (uuid) ->
+  regex = /.{12}/
   regex.test uuid
 
 app.utils.s4 = ->

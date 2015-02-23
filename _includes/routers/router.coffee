@@ -15,7 +15,7 @@ Router = Backbone.Router.extend
   explorer: (facetName, facetValue) ->
     params = app.utils.getUrlParams()
 
-    console.log 'clearFilters here or not always?'
+    # TODO: clearFilters here or not always?
     # app.projects.clearFilters()
 
     if params.filterRef? # Try to find from stores (local and remote)
@@ -24,7 +24,7 @@ Router = Backbone.Router.extend
         facetName: facetName
         facetValue: facetValue
 
-      app.projects.recreateFilterStateFromRef(options) 
+      app.projects.rebuildFilterState(options) 
 
     else if facetName and facetValue
       app.projects.clearFilters() # Better in here?
@@ -46,16 +46,10 @@ Router = Backbone.Router.extend
     @view.render()
     @$appEl.html(@view.$el)
 
-
   back: ->
-    if @routesHit > 1
-      # more than one route hit -> user did not land to current page directly
+    if @routesHit > 1 # User did not land directly on current page
       window.history.back()
     else
-      # otherwise go to the home page. Use replaceState if available so
-      #the navigation doesn't create an extra history entry
-      @navigate '',
-        trigger: true
-        replace: true
+      @navigate '', trigger: true, replace: true
     return
 
