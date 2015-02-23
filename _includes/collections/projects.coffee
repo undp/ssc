@@ -19,10 +19,9 @@ class Projects extends Backbone.Collection
 
   initialize: ->
     @listenTo @, 'set', @initFacetr
-    @listenTo @, 'filters:add', @storeFilterState
-    @listenTo @, 'filters:remove', @storeFilterState
+    @listenTo @, 'filters:add', @storeState
+    @listenTo @, 'filters:remove', @storeState
     @filterState = []
-    @viewState = ''
 
   initFacetr: ->
     @facetr = Facetr(@, 'projects')
@@ -77,13 +76,13 @@ class Projects extends Backbone.Collection
   clearFilters: => # Triggers filters:reset 
     @filterState = []
     @facetr.clearValues()
-    @storeFilterState()
+    @storeState()
 
 
   # 
   # SERIALIZE and STORE filterState
   # 
-  storeFilterState: -> # Listens to 'filter:add' and 'filter:remove' events
+  storeState: -> # Listens to 'filter:add' and 'filter:remove' events
     return @rebuildURL() if @filterState.length is 0
     hashState = _.first(@filterState)
     filterRef = @saveFilters(filterState: @filterState) 
