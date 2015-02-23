@@ -93,7 +93,7 @@ class Projects extends Backbone.Collection
     stateRef ?= app.utils.PUID()
 
     @saveStateLocal(stateRef: stateRef, filterState: filterState)
-    @postRemoteFilterState(stateRef: stateRef, filterState: filterState)
+    @saveStateRemote(stateRef: stateRef, filterState: filterState)
     
     return stateRef
 
@@ -174,7 +174,7 @@ class Projects extends Backbone.Collection
   
   # Takes stateRef and filterState
   # Succeeds/fails without needing to inform user
-  postRemoteFilterState: (options) => # options = {stateRef, filterState}
+  saveStateRemote: (options) => # options = {stateRef, filterState}
     {stateRef, filterState} = options
 
     data = JSON.stringify 
