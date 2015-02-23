@@ -22,7 +22,6 @@ app = window.app = {}
 
 # Controllers
 {% include routers/router.coffee %} # Router
-{% include controllers/map.coffee %} # MapController
 
 # Utilities
 {% include utils/utils.coffee%}
@@ -40,5 +39,4 @@ $(document).ready ->
       app.projects.initFacetr()
       app.router = new Router()
       Backbone.history.start()
-      $(document).foundation()
 
