@@ -97,7 +97,6 @@ class Projects extends Backbone.Collection
     @rebuildURL(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
 
   saveState: (options) -> # Takes stateData, and returns stateRef
-    console.dir(options)
     {stateRef, filterState, viewState} = options
     stateRef ?= app.utils.PUID()
 
@@ -120,6 +119,7 @@ class Projects extends Backbone.Collection
       newStateRef = @saveState(options) # Pass null stateRef, saveState returns new ref
       options.stateRef = newStateRef
       options.viewState ?= INITIAL_VIEW_STATE
+
       @restoreState(options)
 
     # Search locally
@@ -175,7 +175,7 @@ class Projects extends Backbone.Collection
     return app.router.navigate() if !options?
 
     {stateRef, facetName, facetValue, viewState} = options
-    viewState ?= INITIAL_VIEW_STATE
+    viewState  ?= INITIAL_VIEW_STATE
 
     url = ""
     url = "#{facetName}/#{facetValue}" if facetName? and facetValue?

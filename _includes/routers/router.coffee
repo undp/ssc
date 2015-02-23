@@ -1,8 +1,9 @@
 Router = Backbone.Router.extend
   initialize: ->
     @$appEl ||= $("#app")
+
+    # Keep count of number of routes handled by your application
     @routesHit = 0
-    # keep count of number of routes handled by your application
     Backbone.history.on 'route', (-> @routesHit++), @
 
   routes:
@@ -18,6 +19,7 @@ Router = Backbone.Router.extend
     params = app.utils.getUrlParams()
 
     if params.stateRef? # Try to find from stores (local and remote)
+      
       options = 
         stateRef: params.stateRef
         facetName: facetName
@@ -29,6 +31,9 @@ Router = Backbone.Router.extend
     else if facetName and facetValue
       app.projects.clearFilters() # TODO: Check if clearFilters() needed
       app.projects.addFilter(name: facetName, value: facetValue)
+
+    else
+      app.projects.clearFilters()
 
     view = new ExplorerView(collection: app.projects)
     @switchView(view)
