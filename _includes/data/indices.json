@@ -106,5 +106,35 @@
     "short": "partnership_facilitator",
     "type": "undp_role_type",
     "forFilter": "role"
+  },
+  {
+    "name": "Middle Income Countries",
+    "short": "mic",
+    "type": "territorial_focus",
+    "forFilter": "territorial_focus"
+  },
+  {
+    "name": "Small Island Developing States",
+    "short": "sids",
+    "type": "territorial_focus",
+    "forFilter": "territorial_focus"
+  },
+  {
+    "name": "Fragile States",
+    "short": "fragile_state",
+    "type": "territorial_focus",
+    "forFilter": "territorial_focus"
+  },
+  {
+    "name": "Least Developed Countries",
+    "short": "ldc",
+    "type": "territorial_focus",
+    "forFilter": "territorial_focus"
+  },
+  {
+    "name": "High Income Countries",
+    "short": "hic",
+    "type": "territorial_focus",
+    "forFilter": "territorial_focus"
   }
 ]

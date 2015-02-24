@@ -57,8 +57,7 @@ class FilterView extends Backbone.View
   addFilter: (ev) =>
     ev.preventDefault()
     data = ev.currentTarget.dataset
-  #   @collection.addFilter(name: data.filterName, value: data.filterValue)
-    console.log 'add filter for', data
+    @collection.addFilter(name: data.filterName, value: data.filterValue)
 
   # removeFilter: (ev) =>
   #   ev.preventDefault()
