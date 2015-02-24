@@ -2,12 +2,10 @@ class ContentView extends Backbone.View
   template: -> _.template($('#contentView').html())
 
   events:
-    'click .changeView': 'changeView'
-    'click .scrollControls': 'scrollControls'
+    'click .tab-menu-link': 'selectTabLink'
 
   initialize: ->
     @listenTo @collection, 'reset', @render
-    @visible = 'list' unless @visible # TODO: Use a viewModel
     @render()
 
   render: ->
@@ -17,6 +15,19 @@ class ContentView extends Backbone.View
     # @$el.find("#map").hide()
     # _.defer @vectorMap
     @
+
+  selectTabLink: (ev) =>
+    tabAttr = 'data-w-tab'
+    linkActive = 'w--current'
+    tabActive = 'w--tab-active'
+
+    tab = ev.currentTarget.getAttribute(tabAttr)
+
+    @$el.find('.tab-menu-link').removeClass(linkActive)
+    @$el.find(".tab-menu-link[data-w-tab='#{tab}']").addClass(linkActive)
+
+    @$el.find('.w-tab-pane').removeClass(tabActive)
+    @$el.find(".w-tab-pane[data-w-tab='#{tab}']").addClass(tabActive)
 
   vectorMap: =>
     # TODO: console.log 'render map called'
@@ -44,20 +55,6 @@ class ContentView extends Backbone.View
 
   zoomToRegion: (code) =>
     @mapObject.setFocus(region: code, animate: true)
-
-  scrollControls: ->
-    $('html, body').animate({scrollTop: $("#controls").offset().top}, 500)
-
-  # initializeMap: =>
-  #   @mapController = new MapController(@$el.find('#map')[0])
-  #   @map = @mapController.activateMap()
-
-  changeView: (ev) =>
-    ev.preventDefault()
-    @visible = 'map'
-    # @freezeContentHeight()
-    @$el.find('#list').toggle()
-    @$el.find('#map').toggle()
 
   # freezeContentHeight: =>
   #   contentDiv = $("#content")
