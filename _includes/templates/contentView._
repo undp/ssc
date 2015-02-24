@@ -22,7 +22,7 @@
         </div>
         <div class="w-col w-col-6">
           <div class="stat-block">
-            <div class="block-text">Thematic focus</div>
+            <div class="group-title">Thematic focus</div>
             <div class="w-clearfix bar-chart">
               <div class="bar-chart-element element-1"></div>
               <div class="bar-chart-element element-2"></div>
@@ -31,7 +31,7 @@
             <div class="block-detail-text">Resilience |&nbsp;Governance |&nbsp;Sustainable development</div>
           </div>
           <div class="stat-block">
-            <div class="block-text">UNDP Role type</div>
+            <div class="group-title">UNDP Role type</div>
             <div class="w-clearfix bar-chart">
               <div class="bar-chart-element element-4"></div>
               <div class="bar-chart-element element-5"></div>
@@ -40,7 +40,7 @@
             <div class="block-detail-text">Capacity |&nbsp;Knowledge |&nbsp;Partnership</div>
           </div>
           <div class="stat-block">
-            <div class="block-text">PARTNER&nbsp;TYPE</div>
+            <div class="group-title">PARTNER&nbsp;TYPE</div>
             <div class="w-clearfix bar-chart">
               <div class="bar-chart-element element-7"></div>
               <div class="bar-chart-element element-8"></div>

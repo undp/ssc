@@ -67,21 +67,19 @@ p {
 .explorer-columns {
   height: 450px;
   margin-bottom: 20px;
-  border: 1px solid #e8e8e8;
+  border-style: none solid solid;
+  border-width: 1px;
+  border-color: #e8e8e8;
 }
 .summary {
   margin-top: 0px;
 }
 .controls {
-  overflow-x: hidden;
-  overflow-y: hidden;
   height: 100%;
   padding-right: 0px;
   padding-left: 0px;
 }
 .filters-container {
-  overflow-x: scroll;
-  overflow-y: scroll;
   padding-top: 10px;
   padding-right: 10px;
   padding-left: 10px;
@@ -114,11 +112,11 @@ p {
 .download {
   text-align: center;
 }
-.filter-group.theme {
-  margin-top: 13px;
+.filter-group {
+  margin-top: 15px;
 }
 .group-title {
-  color: #636060;
+  color: rgba(16, 87, 167, 0.59);
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -453,8 +451,9 @@ p {
 }
 .block-text {
   color: dimgray;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 24px;
+  font-weight: 700;
   text-transform: uppercase;
 }
 .block-detail-text {
@@ -606,6 +605,7 @@ html.w-mod-js *[data-ix="display-none"] {
   }
   .item-text {
     width: 80%;
+    font-size: 13px;
   }
   .item-count {
     width: 20%;
@@ -689,7 +689,6 @@ html.w-mod-js *[data-ix="display-none"] {
     display: block;
   }
   .item-text {
-    font-size: 14px;
     line-height: 25px;
   }
   .item-count {
