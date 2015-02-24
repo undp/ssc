@@ -594,6 +594,9 @@ html.w-mod-js *[data-ix="display-none"] {
     border-style: none;
     border-width: 0px;
   }
+  .filters-container {
+    height: auto;
+  }
   .footer {
     height: 100%;
     min-height: 100px;
@@ -666,9 +669,6 @@ html.w-mod-js *[data-ix="display-none"] {
   .controls {
     height: auto;
     min-height: 100px;
-  }
-  .filters-container {
-    height: auto;
   }
   .footer {
     height: 100%;
