@@ -16,7 +16,7 @@
         <li class="w-clearfix group-item"
           data-filter-name='<%= filterGroup.data.name %>'
           data-filter-value='<%= filterItem.value %>'>
-          <div class="item-text"><%= s.humanize(filterItem.value) %></div>
+          <div class="item-text"><%= app.filters.nameFromShort(filterItem.value) %></div>
           <div class="item-count"><%= filterItem.activeCount %></div>
         </li>
       <% }) %>
