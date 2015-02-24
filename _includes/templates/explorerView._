@@ -3,282 +3,282 @@
   <div>South-South and triangular cooperation (SSC and TrC) has emerged as an integral part of the global development cooperation architecture, helping to achieve development results through a variety of cooperation modalities, including knowledge exchanges, technological transfer, funding and neighbourhood initiatives. UNDP’s Strategic Plan (2014-17) positions SSC and TrC as one of the organization’s core ways of working to achieve its vision.</div>
 </div>
 
-    <div class="explorer">
-      <div class="w-row headlines">
-        <div class="w-col w-col-4 w-col-small-4 w-clearfix headline-column">
-          <div class="headline-value">276</div>
-          <div class="headline-explainer">projects ACROSS&nbsp;THE&nbsp;
-            <br>WORLD</div>
-        </div>
-        <div class="w-col w-col-4 w-col-small-4 w-hidden-tiny w-clearfix headline-column secondary-headline">
-          <div class="headline-value">27</div>
-          <div class="headline-explainer">projects INVOLVE&nbsp;
-            <br>MORE&nbsp;THAN&nbsp;4 PARTNERS</div>
-        </div>
-        <div class="w-col w-col-4 w-col-small-4 w-hidden-tiny w-clearfix headline-column secondary-headline">
-          <div class="headline-value">113</div>
-          <div class="headline-explainer">countries ARE&nbsp;WORKING&nbsp;
-            <br>TOGETHER</div>
-        </div>
-      </div>
-      <div class="w-row explorer-columns">
-        <div class="w-col w-col-4 controls">
-          <div class="controls-container">
-            <div class="search">
-              <div class="w-clearfix search-field">
-                <div class="search-field-text">Search projects</div><img class="search-action-icon" src="images/search.svg" width="27" alt="54e774e7942b09583a0ebaca_search.svg">
-              </div>
-            </div>
-            <div class="filters-container">
-              <div class="w-clearfix control-section-title-block" data-ix="showhide-all-filters">
-                <div class="title">Apply search filters</div><img class="filters-disclose" src="images/down4.png" width="26" alt="54e7798d942b09583a0ebb69_down4.png">
-              </div>
-              <div class="filters" id="filters" data-ix="display-none">
-                <div class="filter-group role">
-                  <div class="group-title" data-ix="showhide-filter-groups">UNDP&nbsp;Role</div>
-                  <ul class="w-list-unstyled group-items" data-ix="display-none">
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Knowledge manager</div>
-                      <div class="item-count">2212</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Capacity builder</div>
-                      <div class="item-count">232</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Partnership facilitator</div>
-                      <div class="item-count">15</div>
-                    </li>
-                  </ul>
-                </div>
-                <div class="filter-group theme">
-                  <div class="group-title" data-ix="showhide-filter-groups">Thematic focus</div>
-                  <ul class="w-list-unstyled group-items" data-ix="display-none">
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Resilience</div>
-                      <div class="item-count">2212</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Governance</div>
-                      <div class="item-count">232</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Sustainable development</div>
-                      <div class="item-count">15</div>
-                    </li>
-                  </ul>
-                </div>
-                <div class="filter-group theme">
-                  <div class="group-title" data-ix="showhide-filter-groups">Territorial focus</div>
-                  <ul class="w-list-unstyled group-items" data-ix="display-none">
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">SIDS</div>
-                      <div class="item-count">2212</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">LDCs</div>
-                      <div class="item-count">232</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">MDCs</div>
-                      <div class="item-count">15</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">HICS</div>
-                      <div class="item-count">15</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Fragile states</div>
-                      <div class="item-count">15</div>
-                    </li>
-                  </ul>
-                </div>
-                <div class="filter-group theme">
-                  <div class="group-title" data-ix="showhide-filter-groups">Region</div>
-                  <ul class="w-list-unstyled group-items" data-ix="display-none">
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Africa</div>
-                      <div class="item-count">2212</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Latin&nbsp;America</div>
-                      <div class="item-count">232</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Asia &amp; Pacific</div>
-                      <div class="item-count">15</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Europe &amp; CIS</div>
-                      <div class="item-count">15</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Arab States</div>
-                      <div class="item-count">15</div>
-                    </li>
-                  </ul>
-                </div>
-                <div class="filter-group theme">
-                  <div class="group-title" data-ix="showhide-filter-groups">Location</div>
-                  <ul class="w-list-unstyled group-items" data-ix="display-none">
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Knowledge manager</div>
-                      <div class="item-count">2212</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Capacity builder</div>
-                      <div class="item-count">232</div>
-                    </li>
-                    <li class="w-clearfix group-item">
-                      <div class="item-text">Partnership facilitator</div>
-                      <div class="item-count">15</div>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+<div class="explorer">
+  <div class="w-row headlines">
+    <div class="w-col w-col-4 w-col-small-4 w-clearfix headline-column">
+      <div class="headline-value">276</div>
+      <div class="headline-explainer">projects ACROSS&nbsp;THE&nbsp;
+        <br>WORLD</div>
+    </div>
+    <div class="w-col w-col-4 w-col-small-4 w-hidden-tiny w-clearfix headline-column secondary-headline">
+      <div class="headline-value">27</div>
+      <div class="headline-explainer">projects INVOLVE&nbsp;
+        <br>MORE&nbsp;THAN&nbsp;4 PARTNERS</div>
+    </div>
+    <div class="w-col w-col-4 w-col-small-4 w-hidden-tiny w-clearfix headline-column secondary-headline last-headline">
+      <div class="headline-value">113</div>
+      <div class="headline-explainer">countries ARE&nbsp;WORKING&nbsp;
+        <br>TOGETHER</div>
+    </div>
+  </div>
+  <div class="w-row explorer-columns">
+    <div class="w-col w-col-4 controls">
+      <div class="controls-container">
+        <div class="search-container">
+          <div class="w-clearfix control-section-title-block">
+            <div class="search-field-text">Search projects</div><img class="search-action-icon" src="images/search.svg" width="26" alt="54ec4e3f7a45778d30caf93d_search.svg">
           </div>
         </div>
-        <div class="w-col w-col-8 content">
-          <div class="w-tabs content-tabs" data-duration-in="50" data-duration-out="50">
-            <div class="w-tab-menu tabs-menu">
-              <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="Tab 1">
-                <div>Map</div>
-              </a>
-              <a class="w-tab-link w--current w-inline-block tab-menu-link" data-w-tab="Tab 2">
-                <div>Stats</div>
-              </a>
-              <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="Tab 3">
-                <div>List</div>
-              </a>
-            </div>
-            <div class="w-tab-content">
-              <div class="w-tab-pane tab-content map" data-w-tab="Tab 1"><img src="images/Screenshot 2015-02-19 16.07.17.png" alt="54e60bac8fb8905c20c5a907_Screenshot%202015-02-19%2016.07.17.png">
-              </div>
-              <div class="w-tab-pane w--tab-active tab-content" data-w-tab="Tab 2">
-                <div class="w-row">
-                  <div class="w-col w-col-6">
-                    <div class="stat-headline">
-                      <div>26 projects involve more than 2 countries</div>
-                    </div>
-                  </div>
-                  <div class="w-col w-col-6">
-                    <div class="stat-block">
-                      <div class="block-text">Thematic focus</div>
-                      <div class="w-clearfix bar-chart">
-                        <div class="bar-chart-element element-1"></div>
-                        <div class="bar-chart-element element-2"></div>
-                        <div class="bar-chart-element element-3"></div>
-                      </div>
-                      <div class="block-detail-text">Resilience |&nbsp;Governance |&nbsp;Sustainable development</div>
-                    </div>
-                    <div class="stat-block">
-                      <div class="block-text">UNDP Role type</div>
-                      <div class="w-clearfix bar-chart">
-                        <div class="bar-chart-element element-4"></div>
-                        <div class="bar-chart-element element-5"></div>
-                        <div class="bar-chart-element element-6"></div>
-                      </div>
-                      <div class="block-detail-text">Capacity |&nbsp;Knowledge |&nbsp;Partnership</div>
-                    </div>
-                    <div class="stat-block">
-                      <div class="block-text">PARTNER&nbsp;TYPE</div>
-                      <div class="w-clearfix bar-chart">
-                        <div class="bar-chart-element element-7"></div>
-                        <div class="bar-chart-element element-8"></div>
-                        <div class="bar-chart-element element-9"></div>
-                        <div class="bar-chart-element element-10"></div>
-                        <div class="bar-chart-element element-11"></div>
-                      </div>
-                      <div class="block-detail-text">National govt |&nbsp;International |&nbsp;CSO&nbsp;|&nbsp;Regional |&nbsp;Other</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="w-tab-pane tab-content" data-w-tab="Tab 3">
-                <ul class="results-list">
-                  <li class="results-list-item">
-                    <div class="project-title">Framework support project to South South cooperation strategy</div>
-                    <div class="item-detail">
-                      <div>THEMES: Sustainable development</div>
-                    </div>
-                  </li>
-                  <li class="results-list-item">
-                    <div class="project-title">Implementing Sustainable Water Resources and Wastewater Management in Pacific Island Countries</div>
-                    <div class="item-detail">
-                      <div>THEMES:&nbsp;Resilience building</div>
-                    </div>
-                  </li>
-                  <li class="results-list-item">
-                    <div class="project-title">Support to Local Economic Development (LED) Programme</div>
-                    <div class="item-detail">
-                      <div>THEMES: Sustainable development</div>
-                    </div>
-                  </li>
-                  <li class="results-list-item">
-                    <div class="project-title">Framework support project to South South cooperation strategy</div>
-                    <div class="item-detail">
-                      <div>THEMES: Resilience building</div>
-                    </div>
-                  </li>
-                  <li class="results-list-item">
-                    <div class="project-title">Support to Local Economic Development (LED) Programme</div>
-                    <div class="item-detail">
-                      <div>THEMES: Resilience building</div>
-                    </div>
-                  </li>
-                  <li class="results-list-item">
-                    <div class="project-title">Implementing Sustainable Water Resources and Wastewater Management in Pacific Island Countries</div>
-                    <div class="item-detail">
-                      <div>THEMES: Resilience building</div>
-                    </div>
-                  </li>
-                  <li class="results-list-item">
-                    <div class="project-title">Framework support project to South South cooperation strategy</div>
-                    <div class="item-detail">
-                      <div>THEMES:</div>
-                    </div>
-                  </li>
-                </ul>
-              </div>
-            </div>
+        <div class="filters-container">
+          <div class="w-clearfix control-section-title-block filter" data-ix="showhide-all-filters">
+            <div class="title">Apply search filters</div><img class="filters-disclose" src="images/down4.png" width="26" alt="54e7798d942b09583a0ebb69_down4.png">
           </div>
-          <div class="w-row content-controls">
-            <div class="w-col w-col-6 w-col-stack view-selectors-column">
-              <div class="w-row view-selectors">
-                <div class="w-col w-col-4 w-col-small-4 w-col-tiny-4 view-selector">
-                  <div class="selector-button active">Map</div>
-                </div>
-                <div class="w-col w-col-4 w-col-small-4 w-col-tiny-4 view-selector">
-                  <div class="selector-button">Stats</div>
-                </div>
-                <div class="w-col w-col-4 w-col-small-4 w-col-tiny-4 view-selector">
-                  <div class="selector-button">List</div>
-                </div>
-              </div>
+          <div class="filters" id="filters" data-ix="display-none">
+            <div class="filter-group role">
+              <div class="group-title" data-ix="showhide-filter-groups">UNDP&nbsp;Role</div>
+              <ul class="w-list-unstyled group-items" data-ix="display-none">
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Knowledge manager</div>
+                  <div class="item-count">2212</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Capacity builder</div>
+                  <div class="item-count">232</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Partnership facilitator</div>
+                  <div class="item-count">15</div>
+                </li>
+              </ul>
             </div>
-            <div class="w-col w-col-6 w-col-stack w-hidden-medium w-hidden-small w-hidden-tiny w-clearfix download">
-              <div class="w-dropdown w-clearfix download-dropdown" data-delay="0">
-                <div class="w-dropdown-toggle download-dropdown">
-                  <div class="download-button">DOWNLOAD</div>
-                  <div class="w-icon-dropdown-toggle download-dropdown-icon"></div>
-                </div>
-                <nav class="w-dropdown-list"><a class="w-dropdown-link" href="#">All projects</a><a class="w-dropdown-link" href="#">Country list</a>
-                </nav>
-              </div>
+            <div class="filter-group theme">
+              <div class="group-title" data-ix="showhide-filter-groups">Thematic focus</div>
+              <ul class="w-list-unstyled group-items" data-ix="display-none">
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Resilience</div>
+                  <div class="item-count">2212</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Governance</div>
+                  <div class="item-count">232</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Sustainable development</div>
+                  <div class="item-count">15</div>
+                </li>
+              </ul>
             </div>
-          </div>
-          <div class="content-section">
-            <div class="results-view map"></div>
-            <div class="results-view stats" data-ix="display-none"></div>
-            <div class="results-view list" data-ix="display-none">
-              <ul class="w-list-unstyled">
-                <li></li>
-                <li></li>
-                <li></li>
+            <div class="filter-group theme">
+              <div class="group-title" data-ix="showhide-filter-groups">Territorial focus</div>
+              <ul class="w-list-unstyled group-items" data-ix="display-none">
+                <li class="w-clearfix group-item">
+                  <div class="item-text">SIDS</div>
+                  <div class="item-count">2212</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">LDCs</div>
+                  <div class="item-count">232</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">MDCs</div>
+                  <div class="item-count">15</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">HICS</div>
+                  <div class="item-count">15</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Fragile states</div>
+                  <div class="item-count">15</div>
+                </li>
+              </ul>
+            </div>
+            <div class="filter-group theme">
+              <div class="group-title" data-ix="showhide-filter-groups">Region</div>
+              <ul class="w-list-unstyled group-items" data-ix="display-none">
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Africa</div>
+                  <div class="item-count">2212</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Latin&nbsp;America</div>
+                  <div class="item-count">232</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Asia &amp; Pacific</div>
+                  <div class="item-count">15</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Europe &amp; CIS</div>
+                  <div class="item-count">15</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Arab States</div>
+                  <div class="item-count">15</div>
+                </li>
+              </ul>
+            </div>
+            <div class="filter-group theme">
+              <div class="group-title" data-ix="showhide-filter-groups">Location</div>
+              <ul class="w-list-unstyled group-items" data-ix="display-none">
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Knowledge manager</div>
+                  <div class="item-count">2212</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Capacity builder</div>
+                  <div class="item-count">232</div>
+                </li>
+                <li class="w-clearfix group-item">
+                  <div class="item-text">Partnership facilitator</div>
+                  <div class="item-count">15</div>
+                </li>
               </ul>
             </div>
           </div>
         </div>
       </div>
     </div>
+    <div class="w-col w-col-8 content">
+      <div class="w-tabs content-tabs" data-duration-in="50" data-duration-out="50">
+        <div class="w-tab-menu tabs-menu">
+          <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="Tab 1">
+            <div>Map</div>
+          </a>
+          <a class="w-tab-link w--current w-inline-block tab-menu-link" data-w-tab="Tab 2">
+            <div>Stats</div>
+          </a>
+          <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="Tab 3">
+            <div>List</div>
+          </a>
+        </div>
+        <div class="w-tab-content">
+          <div class="w-tab-pane tab-content map" data-w-tab="Tab 1"><img src="images/Screenshot 2015-02-19 16.07.17.png" alt="54e60bac8fb8905c20c5a907_Screenshot%202015-02-19%2016.07.17.png">
+          </div>
+          <div class="w-tab-pane w--tab-active tab-content" data-w-tab="Tab 2">
+            <div class="w-row">
+              <div class="w-col w-col-6">
+                <div class="stat-headline">
+                  <div>26 projects involve more than 2 countries</div>
+                </div>
+              </div>
+              <div class="w-col w-col-6">
+                <div class="stat-block">
+                  <div class="block-text">Thematic focus</div>
+                  <div class="w-clearfix bar-chart">
+                    <div class="bar-chart-element element-1"></div>
+                    <div class="bar-chart-element element-2"></div>
+                    <div class="bar-chart-element element-3"></div>
+                  </div>
+                  <div class="block-detail-text">Resilience |&nbsp;Governance |&nbsp;Sustainable development</div>
+                </div>
+                <div class="stat-block">
+                  <div class="block-text">UNDP Role type</div>
+                  <div class="w-clearfix bar-chart">
+                    <div class="bar-chart-element element-4"></div>
+                    <div class="bar-chart-element element-5"></div>
+                    <div class="bar-chart-element element-6"></div>
+                  </div>
+                  <div class="block-detail-text">Capacity |&nbsp;Knowledge |&nbsp;Partnership</div>
+                </div>
+                <div class="stat-block">
+                  <div class="block-text">PARTNER&nbsp;TYPE</div>
+                  <div class="w-clearfix bar-chart">
+                    <div class="bar-chart-element element-7"></div>
+                    <div class="bar-chart-element element-8"></div>
+                    <div class="bar-chart-element element-9"></div>
+                    <div class="bar-chart-element element-10"></div>
+                    <div class="bar-chart-element element-11"></div>
+                  </div>
+                  <div class="block-detail-text">National govt |&nbsp;International |&nbsp;CSO&nbsp;|&nbsp;Regional |&nbsp;Other</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="w-tab-pane tab-content" data-w-tab="Tab 3">
+            <ul class="results-list">
+              <li class="results-list-item">
+                <div class="project-title">Framework support project to South South cooperation strategy</div>
+                <div class="item-detail">
+                  <div>THEMES: Sustainable development</div>
+                </div>
+              </li>
+              <li class="results-list-item">
+                <div class="project-title">Implementing Sustainable Water Resources and Wastewater Management in Pacific Island Countries</div>
+                <div class="item-detail">
+                  <div>THEMES:&nbsp;Resilience building</div>
+                </div>
+              </li>
+              <li class="results-list-item">
+                <div class="project-title">Support to Local Economic Development (LED) Programme</div>
+                <div class="item-detail">
+                  <div>THEMES: Sustainable development</div>
+                </div>
+              </li>
+              <li class="results-list-item">
+                <div class="project-title">Framework support project to South South cooperation strategy</div>
+                <div class="item-detail">
+                  <div>THEMES: Resilience building</div>
+                </div>
+              </li>
+              <li class="results-list-item">
+                <div class="project-title">Support to Local Economic Development (LED) Programme</div>
+                <div class="item-detail">
+                  <div>THEMES: Resilience building</div>
+                </div>
+              </li>
+              <li class="results-list-item">
+                <div class="project-title">Implementing Sustainable Water Resources and Wastewater Management in Pacific Island Countries</div>
+                <div class="item-detail">
+                  <div>THEMES: Resilience building</div>
+                </div>
+              </li>
+              <li class="results-list-item">
+                <div class="project-title">Framework support project to South South cooperation strategy</div>
+                <div class="item-detail">
+                  <div>THEMES:</div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="w-row content-controls">
+        <div class="w-col w-col-6 w-col-stack view-selectors-column">
+          <div class="w-row view-selectors">
+            <div class="w-col w-col-4 w-col-small-4 w-col-tiny-4 view-selector">
+              <div class="selector-button active">Map</div>
+            </div>
+            <div class="w-col w-col-4 w-col-small-4 w-col-tiny-4 view-selector">
+              <div class="selector-button">Stats</div>
+            </div>
+            <div class="w-col w-col-4 w-col-small-4 w-col-tiny-4 view-selector">
+              <div class="selector-button">List</div>
+            </div>
+          </div>
+        </div>
+        <div class="w-col w-col-6 w-col-stack w-hidden-medium w-hidden-small w-hidden-tiny w-clearfix download">
+          <div class="w-dropdown w-clearfix download-dropdown" data-delay="0">
+            <div class="w-dropdown-toggle download-dropdown">
+              <div class="download-button">DOWNLOAD</div>
+              <div class="w-icon-dropdown-toggle download-dropdown-icon"></div>
+            </div>
+            <nav class="w-dropdown-list"><a class="w-dropdown-link" href="#">All projects</a><a class="w-dropdown-link" href="#">Country list</a>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <div class="content-section">
+        <div class="results-view map"></div>
+        <div class="results-view stats" data-ix="display-none"></div>
+        <div class="results-view list" data-ix="display-none">
+          <ul class="w-list-unstyled">
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
