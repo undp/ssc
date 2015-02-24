@@ -3,11 +3,12 @@ class FilterView extends Backbone.View
 
   events:
     'click [data-ix="showhide-all-filters"]': 'showHideAllFilters'
-    'click .activeFilter': 'removeFilter'
-    'click .addFilter': 'addFilter'
-    'click .resetFilters': 'resetFilters'
-    'click .scrollContents': 'scrollContents'
-    'click .toggleHiddenCountries': 'toggleHiddenCountries'
+    'click [data-ix="showhide-filter-groups"]': 'showHideFilterGroup'
+    'click .group-item': 'addFilter'
+
+    # 'click .activeFilter': 'removeFilter'
+    # 'click .resetFilters': 'resetFilters'
+
 
   initialize:  (options) ->
     @options = options || {}
@@ -23,34 +24,11 @@ class FilterView extends Backbone.View
     compiled = @template()(
       activeFilters: @collection.filterState
       collection: @collection
-      filterGroups: @filterGroups()
+      filterGroups: @prepareFilterGroups()
     )
     @$el.html(compiled)
 
-  showHideAllFilters: ->
-    @$el.find('.filters').toggle()
-
-  # scrollContents: ->
-  #   $('html, body').animate({scrollTop: $("#content").offset().top}, 500)
-
-  # toggleHiddenCountries: =>
-  #   @$el.find('.toggleHiddenCountries').toggle()
-  #   $('.hiddenCountries').toggle()
-
-  addFilter: (ev) =>
-    ev.preventDefault()
-    data = ev.target.dataset
-    @collection.addFilter(name: data.filterName, value: data.filterValue)
-
-  removeFilter: (ev) =>
-    ev.preventDefault()
-    data = ev.target.dataset
-    @collection.removeFilter(name: data.filterName, value: data.filterValue)
-
-  resetFilters: =>
-    @collection.clearFilters()
-
-  filterGroups: =>
+  prepareFilterGroups: =>
     # TODO: console.log 'render filters'
 
     _.each(@collection.facetr.facets(), (facet) =>
@@ -68,6 +46,29 @@ class FilterView extends Backbone.View
     if facet.data.name == 'host_location' && facet.values.length > 5
       facet.data.hideCountries = true
     facet
+
+
+  showHideAllFilters: ->
+    @$el.find('.filters').toggle()
+
+  showHideFilterGroup: (ev) ->
+    $(ev.target).siblings().toggle()
+
+  addFilter: (ev) =>
+    ev.preventDefault()
+    data = ev.currentTarget.dataset
+  #   @collection.addFilter(name: data.filterName, value: data.filterValue)
+    console.log 'add filter for', data
+
+  # removeFilter: (ev) =>
+  #   ev.preventDefault()
+  #   data = ev.target.dataset
+  #   @collection.removeFilter(name: data.filterName, value: data.filterValue)
+
+  # resetFilters: =>
+  #   @collection.clearFilters()
+
+
 
   search: (term) ->
     if term
