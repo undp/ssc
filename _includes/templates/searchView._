@@ -1,7 +1,3 @@
-<fieldset>
-  <legend>Search</legend>
-  <div>
-    <input id='searchField' type='text'></input>
-    <!-- <button class='button' id='clearSearch'>Clear search</button> -->
-  </div>
-</fieldset>
+<div class="w-clearfix control-section-title-block">
+  <div class="search-field-text">Search projects</div><img class="search-action-icon" src="images/search.svg" width="26" alt="54ec4e3f7a45778d30caf93d_search.svg">
+</div>

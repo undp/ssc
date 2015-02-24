@@ -1,66 +1,26 @@
-<fieldset>  
-  <a class="scrollContents show-for-small-only"><i class='fa fa-angle-double-down'></i> Jump to RESULTS </a>
-  <legend>Filter</legend>
-  <div><span class='label'><%= collection.length %></span> projects</div>
-  <% if(activeFilters.length > 0) { %>
-    <a class='resetFilters'>Remove filters</a>
-  <% } %>
-  <ul class='activeFiltersList'>
-    <% _.each(activeFilters, function(filter){ %>
-      <li class='activeFilter'>
-        <a
-          data-filter-name='<%= filter.name %>'
-          data-filter-value='<%= filter.value %>'>
-          <%= s.humanize(filter.value) %>
-        </a>
-      </li>
-    <% }) %>
-  </ul>
+<div class="w-clearfix control-section-title-block filter" data-ix="showhide-all-filters">
+  <div class="title">Apply filters</div><img class="filters-disclose" src="images/down4.png" width="26" alt="54e7798d942b09583a0ebb69_down4.png">
+</div>
+
+<div class="filters" id="filters" data-ix="display-none">
+
   <% _.each(filterGroups, function(filterGroup){ %>
-    <dl>
-      <dt><%= s.humanize(filterGroup.data.name) %></dt>
 
-      <% if(filterGroup.data.name == 'host_location') { %>
-        <!-- COUNTRY LOCATIONS -->
+  <div class="filter-group">
+    <div class="group-title" data-ix="showhide-filter-groups">
+      <%= s.humanize(filterGroup.data.name) %>
+    </div>
 
-
-        <% _.each(filterGroup.values, function(filterItem, index){ %>
-          <% if(filterGroup.data.hideCountries && index == 5){ %>
-            <div class='hiddenCountries'>
-          <% } %>
-  
-          <dd class='filterName'>
-            <a class='addFilter'
-              data-filter-name='<%= filterGroup.data.name %>'
-              data-filter-value='<%= filterItem.value %>'>
-              <%= s.humanize(filterItem.value) %> 
-              (<%= filterItem.activeCount %>) 
-            </a>
-          </dd>
-        <% }) %>
-
-        <% if(filterGroup.data.hideCountries){ %>
-          </div>
-          <a class='toggleHiddenCountries' style='display:none'>fewer...</a>
-          <a class='toggleHiddenCountries'>more...</a>
-        <% } %>
-
-
-      <% } else { %>
-
-        <% _.each(filterGroup.values, function(filterItem){ %>
-          <dd class='filterName'>
-            <a class='addFilter'
-              data-filter-name='<%= filterGroup.data.name %>'
-              data-filter-value='<%= filterItem.value %>'>
-              <%= s.humanize(filterItem.value) %> 
-              (<%= filterItem.activeCount %>) 
-            </a>
-          </dd>
-        <% }) %>
-
-      <% } %>
-
-    </dl>  
+    <ul class="w-list-unstyled group-items" data-ix="display-none">
+      <% _.each(filterGroup.values, function(filterItem){ %>
+        <li class="w-clearfix group-item"
+          data-filter-name='<%= filterGroup.data.name %>'
+          data-filter-value='<%= filterItem.value %>'>
+          <div class="item-text"><%= s.humanize(filterItem.value) %></div>
+          <div class="item-count"><%= filterItem.activeCount %></div>
+        </li>
+      <% }) %>
+    </ul>
+  </div>
   <% }) %>
-</fieldset>
+</div>

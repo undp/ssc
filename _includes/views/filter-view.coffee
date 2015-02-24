@@ -2,6 +2,7 @@ class FilterView extends Backbone.View
   template: ->  _.template($('#filterView').html())
 
   events:
+    'click [data-ix="showhide-all-filters"]': 'showHideAllFilters'
     'click .activeFilter': 'removeFilter'
     'click .addFilter': 'addFilter'
     'click .resetFilters': 'resetFilters'
@@ -26,12 +27,15 @@ class FilterView extends Backbone.View
     )
     @$el.html(compiled)
 
-  scrollContents: ->
-    $('html, body').animate({scrollTop: $("#content").offset().top}, 500)
+  showHideAllFilters: ->
+    @$el.find('.filters').toggle()
 
-  toggleHiddenCountries: =>
-    @$el.find('.toggleHiddenCountries').toggle()
-    $('.hiddenCountries').toggle()
+  # scrollContents: ->
+  #   $('html, body').animate({scrollTop: $("#content").offset().top}, 500)
+
+  # toggleHiddenCountries: =>
+  #   @$el.find('.toggleHiddenCountries').toggle()
+  #   $('.hiddenCountries').toggle()
 
   addFilter: (ev) =>
     ev.preventDefault()
