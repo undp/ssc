@@ -4,23 +4,7 @@
 </div>
 
 <div class="explorer">
-  <div class="w-row headlines">
-    <div class="w-col w-col-4 w-col-small-4 w-clearfix headline-column">
-      <div class="headline-value">276</div>
-      <div class="headline-explainer">projects ACROSS&nbsp;THE&nbsp;
-        <br>WORLD</div>
-    </div>
-    <div class="w-col w-col-4 w-col-small-4 w-hidden-tiny w-clearfix headline-column secondary-headline">
-      <div class="headline-value">27</div>
-      <div class="headline-explainer">projects INVOLVE&nbsp;
-        <br>MORE&nbsp;THAN&nbsp;4 PARTNERS</div>
-    </div>
-    <div class="w-col w-col-4 w-col-small-4 w-hidden-tiny w-clearfix headline-column secondary-headline last-headline">
-      <div class="headline-value">113</div>
-      <div class="headline-explainer">countries ARE&nbsp;WORKING&nbsp;
-        <br>TOGETHER</div>
-    </div>
-  </div>
+  {% include static_views/headlines.html %}
   <div class="w-row explorer-columns">
     <div class="w-col w-col-4 controls">
       <div class="controls-container">
