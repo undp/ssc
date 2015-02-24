@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve" fill="#000000">
-
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" cx="21" cy="20" r="16"/>
-<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="32.229" y1="32.229" x2="45.5" y2="45.5"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="45px" viewBox="0 0 44 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>search-blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="search" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)" stroke="#6B9CC9">
+            <circle id="Oval" stroke-width="2" sketch:type="MSShapeGroup" cx="16" cy="16" r="16"></circle>
+            <path d="M27.229,28.229 L40.5,41.5" id="Shape" stroke-width="4" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
 </svg>
