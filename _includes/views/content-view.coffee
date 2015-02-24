@@ -8,6 +8,7 @@ class ContentView extends Backbone.View
   initialize: ->
     @listenTo @collection, 'reset', @render
     @visible = 'list' unless @visible # TODO: Use a viewModel
+    @render()
 
   render: ->
     # TODO: console.log 'reset collection -> render contentView'

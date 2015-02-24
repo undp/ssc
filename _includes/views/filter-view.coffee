@@ -16,6 +16,8 @@ class FilterView extends Backbone.View
     @listenTo @collection, 'filters:remove', @render
     @listenTo @collection, 'filters:reset', @render
 
+    @render()
+
   render: =>
     compiled = @template()(
       activeFilters: @collection.filterState

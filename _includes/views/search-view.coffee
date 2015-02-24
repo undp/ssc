@@ -3,6 +3,7 @@ class SearchView extends Backbone.View
 
   initialize:  (options) ->
     @options = options || {}
+    @render()
 
   events: 
     'keyup #searchField': 'search'

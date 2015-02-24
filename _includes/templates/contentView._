@@ -1,41 +1,69 @@
-<div id='content' class='columns medium-12'>
-  <div class='row'>
-    <div class='columns medium-12'>
-      <a class="scrollControls show-for-small-down"><i class='fa fa-angle-double-up'></i> Jump to FILTERS</a>
-      <div class='show-for-small-down'><span class='label'><%= collection.length %></span> projects</div>
-      <div class="row">
-        <!-- SWITCH VIEW -->
-        <ul class="medium-6 columns button-group">
-          <li><a data-view='stats' class="button small changeView">Stats</a></li>
-          <li><a data-view='map' class="button small changeView">Map</a></li>
-          <li><a data-view='list' class="button small changeView">List</a></li>
-        </ul>
-
-        <!-- DOWNLOAD LINKS -->
-        <div class="medium-6 columns hide-for-touch">
-          <button data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button small dropdown">
-            <i class='fa fa-download'></i> Download
-          </button><br>
-          <ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true" tabindex="-1">
-            <li><a href="{{ site.baseurl }}/api/projects.csv">All projects</a></li>
-            <li><a href="{{ site.baseurl }}/api/countries.csv">Countries list</a></li>
-          </ul>
+<div class="w-tabs content-tabs" data-duration-in="50" data-duration-out="50">
+  <div class="w-tab-menu tabs-menu">
+    <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="Map">
+      <div>Map</div>
+    </a>
+    <a class="w-tab-link w--current w-inline-block tab-menu-link" data-w-tab="Stats">
+      <div>Stats</div>
+    </a>
+    <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="List">
+      <div>List</div>
+    </a>
+  </div>
+  <div class="w-tab-content">
+    <div class="w-tab-pane tab-content map" data-w-tab="Map"><img src="images/Screenshot 2015-02-19 16.07.17.png" alt="54e60bac8fb8905c20c5a907_Screenshot%202015-02-19%2016.07.17.png">
+    </div>
+    <div class="w-tab-pane w--tab-active tab-content" data-w-tab="Stats">
+      <div class="w-row">
+        <div class="w-col w-col-6">
+          <div class="stat-headline">
+            <div>26 projects involve more than 2 countries</div>
+          </div>
         </div>
-
+        <div class="w-col w-col-6">
+          <div class="stat-block">
+            <div class="block-text">Thematic focus</div>
+            <div class="w-clearfix bar-chart">
+              <div class="bar-chart-element element-1"></div>
+              <div class="bar-chart-element element-2"></div>
+              <div class="bar-chart-element element-3"></div>
+            </div>
+            <div class="block-detail-text">Resilience |&nbsp;Governance |&nbsp;Sustainable development</div>
+          </div>
+          <div class="stat-block">
+            <div class="block-text">UNDP Role type</div>
+            <div class="w-clearfix bar-chart">
+              <div class="bar-chart-element element-4"></div>
+              <div class="bar-chart-element element-5"></div>
+              <div class="bar-chart-element element-6"></div>
+            </div>
+            <div class="block-detail-text">Capacity |&nbsp;Knowledge |&nbsp;Partnership</div>
+          </div>
+          <div class="stat-block">
+            <div class="block-text">PARTNER&nbsp;TYPE</div>
+            <div class="w-clearfix bar-chart">
+              <div class="bar-chart-element element-7"></div>
+              <div class="bar-chart-element element-8"></div>
+              <div class="bar-chart-element element-9"></div>
+              <div class="bar-chart-element element-10"></div>
+              <div class="bar-chart-element element-11"></div>
+            </div>
+            <div class="block-detail-text">National govt |&nbsp;International |&nbsp;CSO&nbsp;|&nbsp;Regional |&nbsp;Other</div>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="row">
-    <div id='map' class='columns medium-12'></div></div>
-    <div id='list' class='columns medium-12'>
-      <ul>
+    <div class="w-tab-pane tab-content" data-w-tab="List">
+      <ul class="results-list">
         <% _.each(collection, function(project){ %>
-          <li>
-            <a href="#project/<%= project.project_id %>">
-              <%= project.project_title %> [<%= project.project_id %>] 
-            </a>
+          <li class="results-list-item">
+            <div class="project-title"><%= project.project_title %> [<%= project.project_id %>]</div>
+            <div class="item-detail">
+              <div>THEMES: Sustainable development</div>
+            </div>
           </li>
         <% }) %>
       </ul>
+    </div>
   </div>
 </div>

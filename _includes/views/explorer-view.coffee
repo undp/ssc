@@ -13,10 +13,7 @@ class ExplorerView extends Backbone.View
     @$el.html(compiled)
 
     @controlsView = new ControlsView(el: @$el.find('#controls'), collection: @collection)
-    @controlsView.render()
-
     @contentView = new ContentView(el: @$el.find('#content'), collection: @collection)
-    @contentView.render()
 
     @
 
