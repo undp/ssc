@@ -91,9 +91,7 @@ p {
   padding-top: 13px;
   padding-right: 5px;
   padding-left: 20px;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  opacity: 0.15;
+  border-bottom: 1px solid rgba(23, 104, 149, 0.25);
 }
 .view-selector {
   display: block;
@@ -344,18 +342,17 @@ p {
 }
 .tab-menu-link {
   width: 33%;
-  height: 70px;
-  padding-top: 23px;
+  height: 40px;
+  padding-top: 8px;
   background-color: transparent;
   color: rgba(255, 255, 255, 0.61);
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 15px;
   font-weight: 400;
   text-align: center;
   text-transform: uppercase;
 }
 .tab-menu-link.w--current {
-  border-bottom: 4px solid #0c59bc;
+  border-bottom: 4px solid #f76f00;
   background-color: transparent;
   color: white;
 }
@@ -436,12 +433,11 @@ p {
   padding-bottom: 6px;
   float: none;
   border-style: solid;
-  border-width: 0px 0px 1px;
+  border-width: 0px;
   border-color: black black dimgray;
-  opacity: 1;
 }
 .tabs-menu {
-  background-color: #5c91d5;
+  background-color: #f7be00;
 }
 .item-detail {
   color: #c2c2c2;
@@ -484,14 +480,13 @@ p {
   display: inline-block;
   margin-top: 7px;
   float: none;
-  color: dimgray;
-  font-size: 20px;
-  font-weight: 400;
+  color: #176895;
+  font-size: 22px;
+  font-weight: 700;
 }
 .search-action-icon {
   margin-top: 4px;
   float: right;
-  opacity: 1;
 }
 .filters-disclose {
   float: right;
@@ -558,6 +553,20 @@ html.w-mod-js *[data-ix="display-none"] {
     line-height: 24px;
     text-transform: uppercase;
   }
+  .headlines {
+    height: 120px;
+    padding-top: 26px;
+  }
+  .search-field-text {
+    font-size: 18px;
+  }
+  .headline-value {
+    font-size: 50px;
+  }
+  .headline-explainer {
+    font-size: 15px;
+    line-height: 16px;
+  }
 }
 @media (max-width: 767px) {
   body {
@@ -574,10 +583,12 @@ html.w-mod-js *[data-ix="display-none"] {
   .explorer-columns {
     overflow-x: hidden;
     overflow-y: hidden;
-    height: 320px;
+    height: auto;
+    border-style: none;
+    border-width: 0px;
   }
   .filters-container {
-    height: 250px;
+    height: auto;
   }
   .footer {
     height: 100%;
@@ -613,7 +624,7 @@ html.w-mod-js *[data-ix="display-none"] {
   .tab-content {
     overflow-x: scroll;
     overflow-y: scroll;
-    height: 278px;
+    height: auto;
   }
   .tab-content.map {
     height: 100%;
@@ -624,6 +635,14 @@ html.w-mod-js *[data-ix="display-none"] {
     font-size: 32px;
     line-height: 34px;
     letter-spacing: -2px;
+  }
+  .headline-value {
+    font-size: 41px;
+    line-height: 52px;
+  }
+  .headline-explainer {
+    font-size: 13px;
+    line-height: 14px;
   }
 }
 @media (max-width: 479px) {
@@ -640,16 +659,11 @@ html.w-mod-js *[data-ix="display-none"] {
   .logo {
     float: left;
   }
-  .explorer-columns {
-    height: auto;
-    border: 0px none transparent;
-  }
   .controls {
     height: auto;
     min-height: 100px;
   }
   .filters-container {
-    height: auto;
     margin-bottom: 10px;
     padding-right: 0px;
     padding-left: 0px;
@@ -739,6 +753,13 @@ html.w-mod-js *[data-ix="display-none"] {
   }
   .tab-menu-link {
     display: inline-block;
+    height: 60px;
+    padding-top: 19px;
+    font-size: 19px;
+    line-height: 21px;
+  }
+  .tab-menu-link.w--current {
+    padding-left: 30px;
   }
   .project-title {
     font-size: 14px;
