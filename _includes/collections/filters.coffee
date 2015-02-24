@@ -20,6 +20,8 @@ class Filters extends Backbone.Collection
   validFilters: (filterName, filterValue) ->
     return true unless filterName? and filterValue?
     
+    filterName = 'country' if _.contains(['host_location'], filterName)
+
     new Backbone.Collection(
       @where type: filterName
     ).where(
