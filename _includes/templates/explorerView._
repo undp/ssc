@@ -126,20 +126,20 @@
     <div class="w-col w-col-8 content">
       <div class="w-tabs content-tabs" data-duration-in="50" data-duration-out="50">
         <div class="w-tab-menu tabs-menu">
-          <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="Tab 1">
+          <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="Map">
             <div>Map</div>
           </a>
-          <a class="w-tab-link w--current w-inline-block tab-menu-link" data-w-tab="Tab 2">
+          <a class="w-tab-link w--current w-inline-block tab-menu-link" data-w-tab="Stats">
             <div>Stats</div>
           </a>
-          <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="Tab 3">
+          <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="List">
             <div>List</div>
           </a>
         </div>
         <div class="w-tab-content">
-          <div class="w-tab-pane tab-content map" data-w-tab="Tab 1"><img src="images/Screenshot 2015-02-19 16.07.17.png" alt="54e60bac8fb8905c20c5a907_Screenshot%202015-02-19%2016.07.17.png">
+          <div class="w-tab-pane tab-content map" data-w-tab="Map"><img src="images/Screenshot 2015-02-19 16.07.17.png" alt="54e60bac8fb8905c20c5a907_Screenshot%202015-02-19%2016.07.17.png">
           </div>
-          <div class="w-tab-pane w--tab-active tab-content" data-w-tab="Tab 2">
+          <div class="w-tab-pane w--tab-active tab-content" data-w-tab="Stats">
             <div class="w-row">
               <div class="w-col w-col-6">
                 <div class="stat-headline">
@@ -179,7 +179,7 @@
               </div>
             </div>
           </div>
-          <div class="w-tab-pane tab-content" data-w-tab="Tab 3">
+          <div class="w-tab-pane tab-content" data-w-tab="List">
             <ul class="results-list">
               <li class="results-list-item">
                 <div class="project-title">Framework support project to South South cooperation strategy</div>
@@ -225,42 +225,6 @@
               </li>
             </ul>
           </div>
-        </div>
-      </div>
-      <div class="w-row content-controls">
-        <div class="w-col w-col-6 w-col-stack view-selectors-column">
-          <div class="w-row view-selectors">
-            <div class="w-col w-col-4 w-col-small-4 w-col-tiny-4 view-selector">
-              <div class="selector-button active">Map</div>
-            </div>
-            <div class="w-col w-col-4 w-col-small-4 w-col-tiny-4 view-selector">
-              <div class="selector-button">Stats</div>
-            </div>
-            <div class="w-col w-col-4 w-col-small-4 w-col-tiny-4 view-selector">
-              <div class="selector-button">List</div>
-            </div>
-          </div>
-        </div>
-        <div class="w-col w-col-6 w-col-stack w-hidden-medium w-hidden-small w-hidden-tiny w-clearfix download">
-          <div class="w-dropdown w-clearfix download-dropdown" data-delay="0">
-            <div class="w-dropdown-toggle download-dropdown">
-              <div class="download-button">DOWNLOAD</div>
-              <div class="w-icon-dropdown-toggle download-dropdown-icon"></div>
-            </div>
-            <nav class="w-dropdown-list"><a class="w-dropdown-link" href="#">All projects</a><a class="w-dropdown-link" href="#">Country list</a>
-            </nav>
-          </div>
-        </div>
-      </div>
-      <div class="content-section">
-        <div class="results-view map"></div>
-        <div class="results-view stats" data-ix="display-none"></div>
-        <div class="results-view list" data-ix="display-none">
-          <ul class="w-list-unstyled">
-            <li></li>
-            <li></li>
-            <li></li>
-          </ul>
         </div>
       </div>
     </div>
