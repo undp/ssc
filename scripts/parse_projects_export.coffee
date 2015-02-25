@@ -8,7 +8,7 @@ Filter = require './filter'
 class Start
   constructor: ->
     @countries = JSON.parse(fs.readFileSync('api/countries.json', encoding: 'utf8'))
-    @projects  = JSON.parse(fs.readFileSync('api/or_projects_export.json', encoding: 'utf8'))
+    @projects  = JSON.parse(fs.readFileSync('api/refine_projects_export.json', encoding: 'utf8'))
     @template  = fs.readFileSync('scripts/project_file_template._', encoding: 'utf8')
 
     processed = @processAll(@projects)
