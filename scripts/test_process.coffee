@@ -5,15 +5,16 @@ async = require 'async'
 
 Filter = require './lib/ssc_process'
 
-class Process
+class TestThings
   constructor: ->
     @countries = JSON.parse(fs.readFileSync('../_includes/data/countries.json', encoding: 'utf8'))
     @projects  = JSON.parse(fs.readFileSync('./refine_projects_export.json', encoding: 'utf8'))
     @template  = fs.readFileSync('./lib/project_file_template._', encoding: 'utf8')
 
     processed = @processAll(@projects)
-    @writeAll(processed)
-    console.log("Created project files for #{@projects.length} projects - located in '_ssc_data'")
+    # @writeAll(processed)
+    # console.log("Created project files for #{@projects.length} projects - located in '_ssc_data'")
+    console.log 'Finished test processing. Any errors should be above'
 
   processAll: (projects) ->
     _.map projects, (project) =>
@@ -85,7 +86,7 @@ class Process
     matches = _.select(@countries, (i) ->
       i.name.match re
     )
-    console.warn "Can't find match for #{term} [#{@pid}]" if matches.length == 0
+    console.error "Can't find match for #{term} [#{@pid}]" if matches.length == 0
     matches[0].iso3 if matches.length > 0
 
   match_exact_country_name: (term) ->
@@ -104,5 +105,4 @@ class Process
     return unless term
     term.replace (/\(|\)/g), ""
 
-module.export = Process
-s = new Process
+s = new TestThings
