@@ -1,6 +1,6 @@
 _ = require 'underscore'
 
-class Filter
+class Process
   constructor: (type, text) ->
     throw "Incorrect filter type" unless _.include(@types, type)
     return unless text
@@ -60,4 +60,4 @@ class Filter
     return unless term
     term.replace (/\(|\)/g), ""
 
-module.exports = Filter
+module.exports = Process

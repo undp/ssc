@@ -3,23 +3,24 @@ _ = require 'underscore'
 _.str = require 'underscore.string'
 async = require 'async'
 
-Filter = require './filter'
+Filter = require './lib/ssc_process'
 
 class Start
   constructor: ->
-    @countries = JSON.parse(fs.readFileSync('api/countries.json', encoding: 'utf8'))
-    @projects  = JSON.parse(fs.readFileSync('api/refine_projects_export.json', encoding: 'utf8'))
-    @template  = fs.readFileSync('scripts/project_file_template._', encoding: 'utf8')
+    @countries = JSON.parse(fs.readFileSync('../_includes/data/countries.json', encoding: 'utf8'))
+    @projects  = JSON.parse(fs.readFileSync('./refine_projects_export.json', encoding: 'utf8'))
+    @template  = fs.readFileSync('./lib/project_file_template._', encoding: 'utf8')
 
     processed = @processAll(@projects)
     @writeAll(processed)
-    console.log("Processed #{@projects.length} projects - some of them even successfully")
+    console.log("Created project files for #{@projects.length} projects - located in '_ssc_data'")
 
   processAll: (projects) ->
     _.map projects, (project) =>
       @processEach(project)
 
   processEach: (project) ->
+    @pid = project.project_id
     {
       # IDs
       "project_id"        : project.project_id,
@@ -49,7 +50,7 @@ class Start
   writeEach: (project) ->
     compiled = _.template(@template)
     content = compiled(project)
-    fs.writeFileSync "_ssc_data/#{project.project_id}.txt", content
+    fs.writeFileSync "../_ssc_data/#{project.project_id}.txt", content
 
   normalise: (type, text) ->
     return unless text
@@ -84,6 +85,7 @@ class Start
     matches = _.select(@countries, (i) ->
       i.name.match re
     )
+    console.warn "Can't find match for #{term} [#{@pid}]" if matches.length == 0
     matches[0].iso3 if matches.length > 0
 
   match_exact_country_name: (term) ->
