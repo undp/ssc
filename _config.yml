@@ -1,10 +1,14 @@
 # Site settings
 # baseurl: '/jekyll-data'
+
+editor: 
+  github_repo: peoplesized/ssc-dev
+  url: http://prose.io
+
 baseurl: ''
 title: UNDP SSC Projects Explorer
 email: js@ppls.io
 description: South-South Cooperation data
-github_username: onlyjsmith
 host: 0.0.0.0
 exclude: ['node_modules', 'Gulpfile.js', 'package.json']
 
