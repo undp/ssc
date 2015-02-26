@@ -1,5 +1,3 @@
-{% include static_views/intro.html %}
-
 <div class="explorer">
 
   <div id='headlines' class="w-row headlines">
