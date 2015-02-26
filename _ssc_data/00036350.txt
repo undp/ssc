@@ -1,0 +1,20 @@
+---
+open_project_id: "00036350"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - BWA
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: "Renewable Energy-based Rural Electrification Programme for Botswana"
+scale: national
+project_objective: "To reduce Botswana's energy-related CO2 emissions by promoting renewable and low GHG technologies as a substitute for fossil fuel (fuel wood, paraffin and coal) utilized in rural areas. The activities proposed in the project are designed to remove barriers to the wide-scale utilization of renewable energy and low GHG technologies to meet the basic electricity needs of individual households in terms of lighting, power for radio cassette/ TV and income-generating activities. In turn, this project will help with the initiation of the intended renewable energy programme of the Government of Botswana and to encourage the development of the private sector industry in the provision of renewable energy in the country."
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP supported knowledge exchange through dissemination / replication of project's experiences in at least 3 countries of South African Development Community (SADC) region. At the same time, the experiences of at least three countries outside Botswana will be studied and used to steer the Botswana project implementation and design its future action.  At least three trips were organized for a combined group of government and donor representatives (both from  Botswana and outside) to the project area to observe PV systems, with an aim to learn its experience. It is planned that the results of the project will be shared through regional and international seminars and workshops.

@@ -1,0 +1,20 @@
+---
+open_project_id: "00059495"
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - ARG
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: "Sustainable Forest Management in the Gran Chaco"
+scale: national
+project_objective: "To reverse the trends of land degradation in the Gran Chaco by supporting sustainable land management in the productive landscape. This project is part of an initiative funded by the Fund for Global Environment involving the Gran Chaco region of Argentina, Bolivia and Paraguay, called Sustainable Forest Management in the Transboundary Gran Chaco American Ecosystem"
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP will provide techinical support, coordination and facilitation of knowledge exchange 

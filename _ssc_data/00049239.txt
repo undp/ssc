@@ -1,0 +1,21 @@
+---
+open_project_id: "00049239"
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - CUB
+region: 
+  - lac
+partner_type: 
+  - academia
+project_title: "Country Pilot PartnershIp on Sustainable Land Management - Supporting Implementation of the Cuban National Programme to Combat Desertification and Drought"
+scale: national
+project_objective: "Capacity Building for Planning, Decision Making and Regulatory Systems & Awareness Building / Sustainable Land Management in Severely Degraded Ecosystems"
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - ARG
+published: true
+---
+UNDP facilitated the exchange of knowledge between sustainable land management projects (1) in Cuba and Argentina. As a result, measuring  impacts of  the sustainable land management project was implemented in Patagonia; (2) in Dominican Republic and Cuba. As a result, project on measuring  impacts of  the sustainable land management was implemented in Dominican Republic. 

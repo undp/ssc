@@ -1,0 +1,22 @@
+---
+open_project_id: "00064876"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - COL
+region: 
+  - lac
+partner_type: 
+  - national_governments
+  - sub_national_governments
+project_title: "Millennium Development Goals at the Local Level"
+scale: national
+project_objective: "The project's strategy is based on the belief that the fulfillment of the Millennium Development Goals is in the hands of local governments."
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - PER
+published: true
+---
+UNDP provided technical assistance and facilitated knowledge transfer between Colombia and Peru on MDG Acceleration Framework (MAF). As a result, technical assistance was provided to the Ministry of Social Inclusion of Peru for the methodological transfer of the MDG Acceleration Framework (MAF) in the regions of Huancavelica (provinces of Churcampa, Tayacanka and Huancavelica), Amazonas and Libertad (Otuzco provinces and Santiago del Chuco). Resulting of this transfer, an action plan was created for each territory, with monitoring strategies to target actions, budget and activities and identifying bottlenecks to reduce malnutrition in children less than 5 years.

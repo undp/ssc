@@ -1,0 +1,22 @@
+---
+open_project_id: "00069719"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - MAR
+region: 
+  - arab_states
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: "Support for Institutionalizing Public Policy Evaluation (Appui à l'Institutionnalisation de l'Evaluation des Politiques Publiques)"
+scale: national
+project_objective: "To support new constitutional reforms, especially those related to institutionalization of public policy evaluation. "
+territorial_focus: MIC
+undp_role_type: 
+  - facilitator_of_partnerships
+partner_location: 
+  - MEX
+published: true
+---
+UNDP helps strengthen communication, partnership and advocacy for equitable human development in line with the new constitutional reform. UNDP helped reinforce south-south cooperation in this domain with other Maghreb countries (Tunisa and Alger) and National Council for the Evaluation of Social Development Policy (CONEVAL), Mexico.  

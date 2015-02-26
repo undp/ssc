@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - BOL
+region: 
+  - lac
+partner_type: 
+  - national_governments
+  - sub_national_governments
+  - cso
+  - private_sector
+project_title: "Participatory Citizenry in Bolivia"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - BRA
+published: true
+---
+UNDP provides technical assistance and organizes knowledge exchange between Brazil and Bolivia on the management model of Science and Technology Parks. A Memorandum of Understanding is to be signed between Itaipu and UNDP-ART Bolivia. Among the priorities for joint action are: reinforcing South-South cooperation between Brazil and Bolivia; supporting Science and Technology Parks in Bolivia; supporting local economic development initiatives in dairy, crafts and wood sectors; promotion of alternative and sustainable energies.

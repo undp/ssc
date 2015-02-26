@@ -1,0 +1,1560 @@
+[
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Region",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Region",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Arab States / Africa"
+        ],
+        "to": "Arab States, Africa"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [
+        {
+          "expression": "value",
+          "invert": false,
+          "selectError": false,
+          "omitError": false,
+          "name": "Territorial focus (the Where)",
+          "selectBlank": false,
+          "columnName": "Territorial focus (the Where)",
+          "omitBlank": false,
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Small island developing state",
+                "l": "Small island developing state"
+              }
+            },
+            {
+              "v": {
+                "v": "Small Island Developing State",
+                "l": "Small Island Developing State"
+              }
+            },
+            {
+              "v": {
+                "v": "Small island developing state ",
+                "l": "Small island developing state "
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Small island developing state",
+          "Small island developing state ",
+          "Small Island Developing State"
+        ],
+        "to": "Small Island Developing State"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fragile states, LDCs, MIC"
+        ],
+        "to": "Fragile state, LDC, MIC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fragile State"
+        ],
+        "to": "Fragile tate"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fragile tate"
+        ],
+        "to": "Fragile state"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          " (Middle income, LDCs, fragile states)"
+        ],
+        "to": "MIC, LDC, Fragile state"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "(LDCs, Fragile, middle income)"
+        ],
+        "to": "LDC, Fragile state, MIC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "High income country"
+        ],
+        "to": "HIC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Low income country"
+        ],
+        "to": "LDC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Middle income country"
+        ],
+        "to": "MIC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Middle-Income Country"
+        ],
+        "to": "MIC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Middle-Income Country / Least Developing Country"
+        ],
+        "to": "MIC, LDC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Small Island Developing State"
+        ],
+        "to": "SIDS"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Territorial focus (the Where)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Territorial focus (the Where)",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Small island developing state / Middle income state"
+        ],
+        "to": "SIDS, MIC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Capacity builder",
+          "capacity builder"
+        ],
+        "to": "Capacity builder"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Capacity building",
+          "capacity building"
+        ],
+        "to": "Capacity builder"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Knowledge broker",
+          "knowledge broker"
+        ],
+        "to": "Knowledge broker"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "capacity developer"
+        ],
+        "to": "Capacity builder"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Capacity builder"
+        ],
+        "to": "capacity builder"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Capacity builder, knowledge broker"
+        ],
+        "to": "capacity builder, knowledge broker"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Capacity building, knowledge broker"
+        ],
+        "to": "capacity builder, knowledge broker"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "capacity developer, knowledge broker"
+        ],
+        "to": "capacity builder, knowledge broker"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Capaciy developer, knowledge broker"
+        ],
+        "to": "capacity builder, knowledge broker"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "knowledge broker, partership facilitator"
+        ],
+        "to": "knowledge broker, partnership facilitator"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Partnership facilitator"
+        ],
+        "to": "partnership facilitator"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Partnership facilitator, capacity builder"
+        ],
+        "to": "capacity builder, partnership facilitator"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Partnership facilitator, capacity builder, knowledge broker"
+        ],
+        "to": "capacity builder, knowledge broker, partnership facilitator"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "capacity builder, knowledge broker, partnership facilitator"
+        ],
+        "to": "capacity builder, knowledge broker, partnership facilitator"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Partnership facilitator, capacity developer, knowledge broker"
+        ],
+        "to": "capacity developer, knowledge broker, partnership facilitator"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Partnership facilitator, knowledge broker"
+        ],
+        "to": "partnership facilitator, knowledge broker"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Partnership faciltator"
+        ],
+        "to": "partnership faciltator"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "partnership facilitator, knowledge broker",
+          "knowledge broker, partnership facilitator"
+        ],
+        "to": "partnership facilitator, knowledge broker"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "partnership faciltator"
+        ],
+        "to": "partnership facilitator"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "partnership facilitator, knowledge broker"
+        ],
+        "to": "knowledge broker, partnership facilitator"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Knowledge broker"
+        ],
+        "to": "knowledge broker"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Role of UNDP",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Role of UNDP",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "capacity developer, knowledge broker, partnership facilitator"
+        ],
+        "to": "capacity builder, knowledge broker, partnership facilitator"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Partner types",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Partner types",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National governments, Sub-national governments",
+          "National governments, sub-national governments"
+        ],
+        "to": "national governments, sub-national governments"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Country",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "Timor-Lesté",
+          "name": "Country",
+          "caseSensitive": true,
+          "columnName": "Country",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Country",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Timor-Lesté "
+        ],
+        "to": "Timor-Leste"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Country",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "Slovakia",
+          "name": "Country",
+          "caseSensitive": true,
+          "columnName": "Country",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Country",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Slovakia"
+        ],
+        "to": "Slovak Republic"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Country",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "Kyrgyz Republic",
+          "name": "Country",
+          "caseSensitive": true,
+          "columnName": "Country",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Country",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kyrgyz Republic "
+        ],
+        "to": "Kyrgyzstan"
+      }
+    ]
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column Project ID to position 0",
+    "columnName": "Project ID",
+    "index": 0
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Project ID to project_id",
+    "oldColumnName": "Project ID",
+    "newColumnName": "project_id"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column md5_project_title at index 7 based on column Project title using expression grel:md5(value)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "md5_project_title",
+    "columnInsertIndex": 7,
+    "baseColumnName": "Project title",
+    "expression": "grel:md5(value)",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column md5_project_title to position 0",
+    "columnName": "md5_project_title",
+    "index": 0
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column project_id to open_project_id",
+    "oldColumnName": "project_id",
+    "newColumnName": "open_project_id"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column project_id at index 1 based on column md5_project_title using expression grel:if(isNotNull(cells['open_project_id']), cells['open_project_id'].value, \"xxx\" + substring(value,0,8))",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "project_id",
+    "columnInsertIndex": 1,
+    "baseColumnName": "md5_project_title",
+    "expression": "grel:if(isNotNull(cells['open_project_id']), cells['open_project_id'].value, \"xxx\" + substring(value,0,8))",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Partner types",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Partner types",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "International cooperatin / development agencies, National governments, CSOs"
+        ],
+        "to": "International cooperation / development agencies, National governments, CSOs"
+      }
+    ]
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "facets": [
+        {
+          "expression": "value",
+          "invert": false,
+          "selectError": false,
+          "omitError": false,
+          "name": "project_id",
+          "selectBlank": true,
+          "columnName": "project_id",
+          "omitBlank": false,
+          "type": "list",
+          "selection": []
+        }
+      ],
+      "mode": "row-based"
+    }
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Project title to project_title",
+    "oldColumnName": "Project title",
+    "newColumnName": "project_title"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Scale to scale",
+    "oldColumnName": "Scale",
+    "newColumnName": "scale"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Region to region",
+    "oldColumnName": "Region",
+    "newColumnName": "region"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Country to host_location",
+    "oldColumnName": "Country",
+    "newColumnName": "host_location"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column host_location to location",
+    "oldColumnName": "host_location",
+    "newColumnName": "location"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Territorial focus (the Where) to territorial_focus",
+    "oldColumnName": "Territorial focus (the Where)",
+    "newColumnName": "territorial_focus"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Thematic focus area (the What) to thematic_focus",
+    "oldColumnName": "Thematic focus area (the What)",
+    "newColumnName": "thematic_focus"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Project objective to project_objective",
+    "oldColumnName": "Project objective",
+    "newColumnName": "project_objective"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Partner types to partner_type",
+    "oldColumnName": "Partner types",
+    "newColumnName": "partner_type"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Description of SSC activity to ssc_description",
+    "oldColumnName": "Description of SSC activity",
+    "newColumnName": "ssc_description"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Link to project page to project_link",
+    "oldColumnName": "Link to project page",
+    "newColumnName": "project_link"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Role of UNDP to undp_role_type",
+    "oldColumnName": "Role of UNDP",
+    "newColumnName": "undp_role_type"
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "facets": [
+        {
+          "expression": "value",
+          "invert": false,
+          "selectError": false,
+          "omitError": false,
+          "name": "partner_type",
+          "selectBlank": true,
+          "columnName": "partner_type",
+          "omitBlank": false,
+          "type": "list",
+          "selection": []
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column project_objective using expression grel:value.replace(\"Objective: \",\"\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "project_objective",
+    "expression": "grel:value.replace(\"Objective: \",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column project_objective using expression grel:value.replace(/^\\s/,'')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "project_objective",
+    "expression": "grel:value.replace(/^\\s/,'')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column project_objective using expression grel:value.replace(/^t/,'T')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "project_objective",
+    "expression": "grel:value.replace(/^t/,'T')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column md5_project_title",
+    "columnName": "md5_project_title"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column scale to position 3",
+    "columnName": "scale",
+    "index": 3
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column scale to position 2",
+    "columnName": "scale",
+    "index": 2
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column undp_role_type to position 11",
+    "columnName": "undp_role_type",
+    "index": 11
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column undp_role_type to position 10",
+    "columnName": "undp_role_type",
+    "index": 10
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column undp_role_type to position 9",
+    "columnName": "undp_role_type",
+    "index": 9
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column project_title using expression value.trim()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "project_title",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column project_title using expression grel:value.replace(/\\.$/,'')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "project_title",
+    "expression": "grel:value.replace(/\\.$/,'')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column territorial_focus",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "territorial_focus",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LDC, Fragile state, MIC"
+        ],
+        "to": "LDC, Fragile State, MIC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column territorial_focus",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "territorial_focus",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LDC, MIC, Fragile States"
+        ],
+        "to": "LDC, MIC, Fragile State"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column territorial_focus",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "territorial_focus",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fragile state"
+        ],
+        "to": "Fragile State"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column territorial_focus",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "territorial_focus",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fragile state, LDC, MIC"
+        ],
+        "to": "Fragile State, LDC, MIC"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column territorial_focus",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "territorial_focus",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MIC, LDC, Fragile state"
+        ],
+        "to": "MIC, LDC, Fragile State"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column location",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "grel:value.split(',')",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "location",
+          "omitBlank": false,
+          "columnName": "location",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Dominican Republic / El Salvador",
+                "l": "Dominican Republic / El Salvador"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "location",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dominican Republic / El Salvador"
+        ],
+        "to": "Dominican Republic, El Salvador"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column location",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "grel:value.split(',')",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "location",
+          "omitBlank": false,
+          "columnName": "location",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Dominican Republic ",
+                "l": "Dominican Republic "
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "location",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dominican Republic "
+        ],
+        "to": "Dominican Republic"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column location",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "grel:value.split(',')",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "location",
+          "omitBlank": false,
+          "columnName": "location",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Cuba ",
+                "l": "Cuba "
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "location",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cuba "
+        ],
+        "to": "Cuba"
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column location using expression value.trim()",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "grel:value.split(/,\\s?/)",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "location",
+          "omitBlank": false,
+          "columnName": "location",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Timor-Leste ",
+                "l": "Timor-Leste "
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "location",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column location",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "grel:value.split(/,\\s?/)",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "location",
+          "omitBlank": false,
+          "columnName": "location",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Jamaica ",
+                "l": "Jamaica "
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "location",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Jamaica "
+        ],
+        "to": "Jamaica"
+      }
+    ]
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "grel:value.split(/,\\s?/)",
+          "selectError": true,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "undp_role_type",
+          "omitBlank": false,
+          "columnName": "undp_role_type",
+          "type": "list",
+          "selection": []
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column undp_role_type using expression grel:value.replace('partnership facilitator','Facilitator of partnerships')",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "grel:value.split(/,\\s?/)",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "undp_role_type",
+          "omitBlank": false,
+          "columnName": "undp_role_type",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "capacity builder",
+                "l": "capacity builder"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "undp_role_type",
+    "expression": "grel:value.replace('partnership facilitator','Facilitator of partnerships')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column undp_role_type using expression value.trim()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "undp_role_type",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column undp_role_type",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "facilitator",
+          "name": "undp_role_type",
+          "caseSensitive": true,
+          "columnName": "undp_role_type",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "undp_role_type",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "partnership facilitator"
+        ],
+        "to": "Facilitator of partnerships"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column undp_role_type",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "facilitator",
+          "name": "undp_role_type",
+          "caseSensitive": true,
+          "columnName": "undp_role_type",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "undp_role_type",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "knowledge broker, partnership facilitator"
+        ],
+        "to": "knowledge broker, Facilitator of partnerships"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - TKM
+region: 
+  - europe_cis
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: "Parliamentary Development Support Programme"
+scale: national
+project_objective: "To enhance parliamentary processes and procedures to improve the quality of legislation; and to develop individual capacities of parliament members and professional staff to effectively fulfil their functions."
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP will establish and develop a lesson learned platform for knowledge sharing and cooperation within the region. In addition, UNDP will draw from the experience of similar parliamentary projects in the region and neighbouring countries to apply it in Turkmenistan.

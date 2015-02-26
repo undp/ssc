@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - PER
+region: 
+  - lac
+partner_type: 
+  - cso
+project_title: "International comparison on measurement of mass, length and pressure"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - COL
+  - CHL
+  - ECU
+  - PAN
+published: true
+---
+UNDP facilitates knowledge exchange between México, Panamá, Colombia, Chile, Ecuador and Peru. The Program aims to estimate the levels of consistency of one magnitude between the participating laboratories, including diversion and associated uncertainty. The National Metrology Service is going to analyze the situation of the region in order to define the magnitude. For Peru, it becomes increasingly important to establish mutual recognition agreements in the field of measurement and calibration services. This project intends to design a program of the International comparison with Colombia, Panama and Chile to improve measurement capabilities of the region. 

@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - COL
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: "Mitigation Action Plans and Scenarios Project (MAPS)"
+scale: national
+project_objective: "To accelerate political commitment for the formulation and implementation of ambitious mitigation action by building a broad base of support among domestic stakeholders through the development of sound evidence to support climate mitigation. "
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP provided financing and technical assistance for the elaboration of the Colombian Low Carbon Development Strategy. The initiative is driven by South-South-North NGO. Mitigation action plans on transport, waste, mining, energy, buildings/housing, industry and agriculture were developed and agreed upon. A methodology for analysing social, economic and environmental co-benefits of the actions included in the sectorial plans was developed. Additionally, South-South-North has also promoted the exchange of experiences between MAPS countries globally. Colombia's input in this exchange is fundamental as its strategy was identified as one of the most advanced among developing countries.

@@ -1,0 +1,21 @@
+---
+open_project_id: "00061792"
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - MAR
+region: 
+  - arab_states
+partner_type: 
+  - regional_inter_governmental_organizations
+  - national_governments
+project_title: "Capacity building program on low emissions in Morocco (Programme de renforcement de capacités sur les faibles émissions au Maroc)"
+scale: national
+project_objective: "To build Morocco's capacities on low emissions "
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP will help create and accumulate the knowledge on low carbon emissions, to organize and share it via south-south transfer of know-how in the field.

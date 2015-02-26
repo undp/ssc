@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: "Regional risk reduction initiative (RRI)"
+scale: regional / multi-country
+project_objective: ""
+territorial_focus: LDC, Fragile State, MIC
+undp_role_type: 
+  - capacity_builder
+partner_location: 
+published: true
+---
+The British Virgin Islands' Department of Disaster Management provided shelter management training and materials to disaster management agencies which were coordinated by the Fire departments and the Disaster Management Coordination Agency. UNDP  manages the project and coordinates activities.

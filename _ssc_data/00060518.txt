@@ -1,0 +1,23 @@
+---
+open_project_id: "00060518"
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - GUY
+region: 
+  - lac
+partner_type: 
+  - regional_inter_governmental_organizations
+  - national_governments
+project_title: "Guiana Shield Facility"
+scale: national
+project_objective: "To promote GSF as a sustainable financial vehicle for the conservation and sustainable development of the Guiana Shield ecoregion."
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - SUR
+  - A-000
+published: true
+---
+UNDP facilitated the exchange of information and experiences between Guyana and Surinam on climate policies, strategy, stakeholder engagement processes and supported in drafting of the Readiness Preparation Proposal for the Forest Carbon Partnership Facility as part of a broad collaboration between Guyana and Suriname on climate change and REDD+. As a result, Suriname's REDD+ Readiness Preparation Proposal (R-PP) was approved by the World Bank FCPF; UNDP/GSF catalytic financing leveraged USD3.8 million for Suriname to implement the R-PP.

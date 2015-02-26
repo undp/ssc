@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - MAR
+  - MRT
+  - GAB
+  - SEN
+region: 
+  - arab_states,africa
+partner_type: 
+  - national_governments
+project_title: "Convention of South-South Cooperation Partnership"
+scale: regional / multi-country
+project_objective: "The objective of  this convention is to share common mechanisms allowing for improved coordination of international cooperation notable decentralized. Better understanding of the political intervention of  the different partners in support of decentralization and  local development with a view to transfer good practice and mutual learning between neighbouring countries. The UNDP ART GOLD Programme aims to improve and accelerate the process of democratic reforms in African countries through decentralization and local development. Participant countries are Morocco, Senegal, Gabon and Mauritania. The programme facilitates South-South cooperation and sharing of good practices in decentralization, local development and good governance. "
+territorial_focus: MIC, LDC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP organizes sharing of experiences in SSC exchange, expert exchange, setting up of knowledge networks between the
+countries using local level governance and local strategic planning. Missions to Mauritania and Gabon were organized to share experience. Participatory benchmarking exercise of existing trainings in Morocco, Mauritania, Senegal and Gabon. 
