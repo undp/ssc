@@ -16,7 +16,6 @@ territorial_focus: SIDS
 undp_role_type: 
   - knowledge_broker
 partner_location: 
-  - A-SIDS
 published: true
 ---
 The approach used to address the invasive alien species issue will generate knowledge and best practices that can be replicated in other countries, especially SIDS that are undergoing similar threats. UNDP will facilitate this process.
