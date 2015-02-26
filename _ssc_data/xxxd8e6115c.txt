@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - BRA
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: "Support to the implementation the PFAs (partnership framework agreements) in LAC"
+scale: national
+project_objective: "To support both UNDP offices in their efforts to implement their respective PFAs, taking into account the country specificities and UNDP commitments acquired in the above mentioned PFAs. This engagement will bring innovative and catalytic solutions adapted to each country context, with a focus on building capacity in the CO to build on existing relations and leverage new and innovative partnerships for development and SSC in the case of Brazil, and on supporting the effective implementation of south south and triangular cooperation schemes in the case of Mexico. "
+territorial_focus: MIC
+undp_role_type: 
+  - capacity_builder
+  - knowledge_broker
+  - facilitator_of_partnerships
+partner_location: 
+published: true
+---
+UNDP promotes innovative partnerhips, provides capacity building and facilitates knowledge exchange. UNDP also supports national policies and SSC initiatives and thelps the government in its own institutional strengthening, by providing technical advice and advocacy, developing toolkits, testing successful knowledge products, promoting innovative partnerships for development and access to best practices. This is done taking into consideration the countries' characteristics and  institutional capacity for SSC, with different emphasis for each country. 

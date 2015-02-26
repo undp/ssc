@@ -1,0 +1,20 @@
+---
+open_project_id: "00074217"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - MEX
+region: 
+  - lac
+partner_type: 
+  - regional_inter_governmental_organizations
+  - national_governments
+project_title: "Amexcin Cooperation Program"
+scale: national
+project_objective: "To contribute to the consolidation of Mexico as South-South cooperation actor through institutional strengthening and improvement of mechanisms to facilitate knowledge transfer and deployment of cooperative initiatives."
+territorial_focus: MIC
+undp_role_type: 
+  - capacity_builder
+partner_location: 
+published: true
+---

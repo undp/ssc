@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - 
+region: 
+  - lac
+partner_type: 
+project_title: "Human Local Development Programme (PDHL Cuba)"
+scale: regional / multi-country
+project_objective: ""
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP facilitated the systematization of lessons learned and promotion of exchanges of experiences to disseminate the them at the national and regional level in LAC. Main focus is on the experiences and the best practices implemented in the Local Human Development Framework. Workshop was organized in La Habana in order to disseminate the results and the most important evidences of PDHL projects.

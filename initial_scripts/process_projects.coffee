@@ -13,8 +13,8 @@ class Process
 
     console.log "Loaded #{@projects.length} projects"
 
-    # processed = @processAll(@projects)
-    # @writeAll(processed)
+    processed = @processAll(@projects)
+    @writeAll(processed)
     console.log("Created project files for #{@projects.length} projects - located in '_ssc_data'")
 
   processAll: (projects) ->
@@ -83,7 +83,8 @@ class Process
     _.difference(partners, @host_location)
 
   match_similar_country_name: (term) ->
-    re = new RegExp("^" + term,"i")
+    term_escaped = term.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&")
+    re = new RegExp("^" + term_escaped,"i")
     matches = _.select(@countries, (i) ->
       i.name.match re
     )

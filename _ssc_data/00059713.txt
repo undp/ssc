@@ -1,0 +1,21 @@
+---
+open_project_id: "00059713"
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - IRN
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: "MENARID - Institutional Strengthening and Coherence for Integrated Natural Resource Management"
+scale: national
+project_objective: "To strengthen institutions by contributing to the removal of constraints to integrated natural resources management (INRM)"
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - IND
+published: true
+---
+UNDP facilitated knowledge exchange on institutional approaches and mechanisms of integrated natural resources management. With this aim, study tours to India were organized by UNDP. 

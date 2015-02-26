@@ -1,0 +1,28 @@
+---
+open_project_id: "00061982"
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - ECU
+region: 
+  - lac
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+  - sub_national_governments
+  - private_sector
+project_title: "Strengthening capacities at national and local levels about information systems for risk reduction and climate change"
+scale: national
+project_objective: "To monitor, report and verify emissions of greenhouse gases to identify opportunities for National Appropriate Mitigation Actions ( NAMAs) in the context of national development, and support the design of strategies for low-emission development (LED ) and facilitate the adoption of mitigation measures for selected sectors."
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - PER
+  - COL
+  - CHL
+  - HND
+  - ARG
+published: true
+---
+UNDP facilitated the exchange of experiences between Ecuador, Peru, Colombia, Chile, Bolivia, Honduras and Argentina on information systems for risk management, vulnerability and mechanisms of risk reduction. As a result, a network of professionals from participating countries was established.  An information platform on disaster risks CAPRA (Probabilistic Risk Assessment Program) was established in the Drinking Water Enterprise of the Municipality of Quito (EPMAPS). Training was organized for representatives of this public company to ensure sustainability of the action in time. 

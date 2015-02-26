@@ -1,0 +1,25 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: "Regional Programme for Improved Energy Efficiency"
+scale: national
+project_objective: "Regional Programme for Improved Energy Efficiency is a regional programme, supported by UNDP, which covers China, Bangladesh, Indonesia, Pakistan, Thailand and Vietnam. to rapidly accelerate the adoption and implementation of energy standards and labels (ES&L), and bring about energy savings from the use of energy efficient appliances and equipment.  The ES&L strategy is one of the most cost-effective ways of mitigating climate change, since its cost is far below that of supplying new energy. "
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+partner_location: 
+  - BGD
+  - IDN
+  - PAK
+  - THA
+published: true
+---
+UNDP facilitated partnership and knowledge sharing between China, Bangladesh, Indonesia, Pakistan, Thailand and Vietnam. UNDP also assisted in establishing a Regional Energy Efficiency Standards and Labelling Network (REESLM) to help eliminate ineffective practices, reduce financial barriers, and strengthen both policy formulation and enforcement of energy standards and labels.  The RESSLM network is seen as an important step forward towards reducing CO2 emissions in the region.

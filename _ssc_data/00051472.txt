@@ -1,0 +1,25 @@
+---
+open_project_id: "00051472"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - BRB
+region: 
+  - lac
+partner_type: 
+  - regional_inter_governmental_organizations
+  - national_governments
+  - international_cooperation_development_agencies
+  - cso
+  - private_sector
+project_title: "Youth Innovation (Youth-In): A Caribbean Network for Youth Development"
+scale: national
+project_objective: "To establish an integrated programme that facilitates results and delivery of assistance to support Caribbean youth aged 15-29.  The project strategically addresses SIDS vulnerabilities, governance capacities and sustainable human development frameworks, integrally linking environmental, economic and social assets.  The project will target Caribbean in-and-out of school youth and will be implemented in partnership with private and public sector agencies at regional, national and subnational levels.  This project supports strengthening capacities such as youth governance, economic enterprise, environment, creative industries, gender, culture and sports through the innovative use of media, internet-based, social networking modalities and youth empowerment strategies to enhance youth participation and communications across the Caribbean, its diaspora, Latin America and Italy (funder)."
+territorial_focus: SIDS
+undp_role_type: 
+  - facilitator_of_partnerships
+partner_location: 
+  - A-SIDS
+published: true
+---
+UNDP facilitates partnership through the SIDS South-South global partnerships hub, utilizing UNVs Online Volunteer Services to connect development organizations to online volunteers and provide advisory and other technical services as well as opportunities to create links between Caribbean diaspora communities, regional and global NGOs and CSOs volunteers, to innovatively address development challenges. This is a sub-regional project. UNDP's comparative advantage of strong programming links with UNV is used to highlight and strengthen the project goal of improving youth inclusion and participation in Caribbean governance, social, economic, environmental sectoral development. UNV engagement will increase advocacy for SIDS-specific 'volunteerism-for-development' and philanthropic frameworks. 

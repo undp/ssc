@@ -1,0 +1,26 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - BEN
+  - BFA
+  - KHM
+  - LAO
+  - TGO
+region: 
+  - asia_pacific
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+  - academia
+project_title: "South-South cooperation for the implementation of gender sensitive social protection floors at country level project"
+scale: global
+project_objective: "To support countries from the South in the design, implementation, monitoring or harmonization of Social Protection Floor policies or components. It a;so aims to improve access of the population, particularly vulnerable groups, to a basic level of social transfers and services. The project experiences, best practices, lessons learned and other relevant information are said to be documented and disseminated through the internet platforms GESS (an interactive platform on the Global Extension of Social Security) and GSSD (Global South-South Development Academy)."
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP facilitates knowledge exchange between the involved countries. 

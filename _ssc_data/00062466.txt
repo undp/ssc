@@ -1,0 +1,31 @@
+---
+open_project_id: "00062466"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - CHL
+region: 
+  - lac
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: "Fund against Poverty and Hunger"
+scale: national
+project_objective: "To promote policy cooperation of the Government of Chile through the creation and implementation of the international cooperation fund to fight hunger and poverty that promotes cooperation actions through sharing south south Chilean experiences in economic and social issues as well as  the design, implementation and evaluation of public policies with countries of equal or less development. The Fund intends to contribute to the achievement of the Millennium Development Goals (MDG) by promoting South-South Cooperation strategies, sharing the Chilean experience in economic and social issues, as well as the design, implementation and assessment of public policies with countries of the same or lower relative development. The Fund aims to support nutritional initiatives in countries such as Honduras and Guatemala through technical assistance and training; the purpose is to efficiently respond to demands of different nature, in a timely manner while focusing in those areas where the Chilean experience against hunger and poverty may be used as a good practice for other countries.  "
+territorial_focus: HIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - GTM
+  - HND
+  - PRY
+  - MLI
+  - LBN
+  - PAN
+  - NIC
+  - GUY
+  - JAM
+  - URY
+published: true
+---
+UNDP will support knowledge transfer from Chile to Guatemala, Honduras, Paraguay, Mali, Lebanon, Costa Rica, Panama, Dominican Republic, El Salvador, Nicaragua, Guyana, Jamaica, Trinidad & Tobago and Uruguay. Using South-South Cooperation strategies, Chile will share its experience on economic and social development, as well as the design, implementation and assessment of public policies. The Fund will also support nutritional initiatives in countries such as Honduras and Guatemala through technical assistance and training, aiming to efficiently respond to demands of different nature, in a timely manner while focusing in those areas where the Chilean experience against hunger and poverty may be used as a good practice for other countries. 

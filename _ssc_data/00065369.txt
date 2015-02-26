@@ -1,0 +1,28 @@
+---
+open_project_id: "00065369"
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - SEN
+  - CPV
+  - GMB
+  - GIN
+  - GNB
+  - MRT
+  - SEN
+  - SLE
+region: 
+  - africa
+partner_type: 
+  - regional_inter_governmental_organizations
+  - national_governments
+project_title: "Governance, marine resources management policies and poverty reduction in West African Marine Eco Region"
+scale: regional / multi-country
+project_objective: "To contribute to poverty reduction and food security strengthening for coastal communities in West Africa Marine Eco Region (WAMER). "
+territorial_focus: LDC, MIC, SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP will help WAMER countries develop and implement a sub regional action plan to improve governance and promote the adoption of best practices for sustainable use of marine and coastal resources in the ecoregion WAMER. 

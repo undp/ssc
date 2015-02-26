@@ -1,0 +1,23 @@
+---
+open_project_id: "00056926"
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - CUB
+region: 
+  - lac
+partner_type: 
+  - national_governments
+  - cso
+  - academia
+project_title: "Application of a regional approach to the management of marine and coastal protected areas in Cuba's Southern Archipelagos Region"
+scale: national
+project_objective: "The project would contribute to the overall goal of conserving globally important coastal and marine biodiversity in Cuba. Its specific objective would be to ensure that globally significant marine biodiversity is conserved and sustainably used through an extended, strengthened and integrated network of coastal and marine protected areas in the Southern Archipelagos region. This objective will be achieved through four complementary strategies, corresponding to the four operational components or outcomes of the project. "
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - BRA
+published: true
+---
+UNDP facilitated knowledge ecxhange between Brazil and Cuba on the development of family farming, management of water resources, livestock management, soil resource management and food production. As a result, scientific cooperation between Cuba and Brazil was established, Cuban experts were trained in sustainable land management, Cuban producers were trained in production techniques and food security.

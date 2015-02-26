@@ -1,0 +1,19 @@
+---
+open_project_id: "00060432"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - BWA
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: "Inclusive Pro-Poor Development Policies"
+scale: national
+project_objective: "To produce four broad outputs in four broad areas: access to financial services and other productive resources; institutional capacity for pro-poor policies; mainstreaming poverty into development processes; and social Protection"
+territorial_focus: MIC
+undp_role_type: 
+partner_location: 
+published: true
+---
+Role of UNDP to be defined

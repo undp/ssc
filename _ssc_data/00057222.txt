@@ -1,0 +1,21 @@
+---
+open_project_id: "00057222"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - BRA
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: "Capacity Support for South-South Cooperation"
+scale: national
+project_objective: "The project's Objective to provide programmatic and operational framework for widening UNDP support to the Government of Brazil cooperation activities in the SSC, to build up the operational and programmatic arrangements for expeditious delivery of current commitments, as well as ensure a more structured SSC intervention in the future for Brazil that meets development concerns and also is aligned with the recipient countries' needs. The Government of Brazil identified the following priority regions for its SSC interventions: Central and South America and Caribbean (Haiti, Guatemala, Cuba, Argentina, etc.); West and Sub-Saharan Africa (Guinea Bissau, Sao Tome & Principe, Mozambique, Cape Verde, Angola, and the Cotton 4-Burkina Faso, Mali, Benin, and Chad); South East Asia (East Timor), however SSC initiative might include other regions and countries. "
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+partner_location: 
+published: true
+---
+UNDP provides knowledge brokering, connecting the Government of Brazil with a large network of UNDP's global, regional and national offices, centres and bureaus that include regional operational and knowledge teams, global thematic centres and the UNOSSC. This will allow the Government of Brazil to leverage this global network for both programmatic and operations purposes in order to increase effectiveness and efficiency of its SSC projects.  UNDP  also provides support in mapping and strengthening a SSC stakeholders network. Additionally, UNDP provides its knowledge management capacities, including relevant methodologies and tools to construct a Brazilian SSC knowledge bank. 

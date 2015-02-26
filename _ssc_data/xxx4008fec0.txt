@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - CUB
+region: 
+  - lac
+partner_type: 
+  - national_governments
+  - academia
+project_title: "TFPG Bio-products:  “Production and Application of Bio-products in Cultures of the Economic Importance'"
+scale: national
+project_objective: ""
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - ARG
+  - MEX
+published: true
+---
+UNDP facilitated the technology transfer for the production of a bio fertilizer between Cuba, Argentina and Mexico

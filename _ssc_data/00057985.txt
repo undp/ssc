@@ -1,0 +1,32 @@
+---
+open_project_id: "00057985"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - CUB
+region: 
+  - lac
+partner_type: 
+  - national_governments
+  - sub_national_governments
+  - cso
+  - private_sector
+project_title: "Programme of Local Support to the Modernisation of the Farming Sector in Cuba (PALMA Programme)"
+scale: national
+project_objective: "To support modernization of agriculture in Cuba"
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - NIC
+  - ECU
+  - MEX
+  - HND
+  - ESP
+  - URY
+  - BRA
+  - CHL
+  - COL
+published: true
+---
+UNDP facilitated the exchange of knowledge: (1) between Nicaragua, Ecuador and Cuba on local production of construction materials; (2) between Mexico and Cuba on production techniques, autonomy of cooperatives, food and agricultural production chains; (3) between Dominican Republic, Curaçao Ecuador, Honduras, Spain, Cuba and Dominican Republic on cooperative sector through participation in 'III International Convention on Cooperative and Social Development'; (4) between Mexico, Uruguay, Brazil, Cuba, Costa Rica, Chile, Honduras, Colombia on gender equality in public/private sector through participation in the 'Business Forum for Equality', Mexico City.

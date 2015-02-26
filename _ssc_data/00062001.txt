@@ -1,0 +1,22 @@
+---
+open_project_id: "00062001"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - MEX
+region: 
+  - lac
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: "Reinforcing REDD+ Readiness in Mexico and enabling South-South Cooperation"
+scale: national
+project_objective: "Objective (South-south cooperation goals): To position Mexico as a centre of excellence for regional cooperation by four different means: i) through the documentation of its experiences, ii) through the dissemination of lessons learned; iii) through the development of in-country capacity courses oriented to train other countries, and iv) through the offering of out-country technical assistance."
+territorial_focus: MIC
+undp_role_type: 
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+published: true
+---
+Through this project, UNDP aims to position Mexico as a centre of excellence for regional cooperation and capacity development through: 1) documentation of its experiences, 2) dissemination of lessons learned, 3) development of in-country capacity courses oriented to train other countries, and 4) offering of out-country technical assistance.

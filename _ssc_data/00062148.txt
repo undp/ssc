@@ -1,0 +1,21 @@
+---
+open_project_id: "00062148"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - JAM
+region: 
+  - lac
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: "Mainstreaming Migration in National Development Strategies Project"
+scale: national
+project_objective: "To mainstream migration into national development strategies"
+territorial_focus: SIDS
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP provided knowledge brokering and exchange facilitation between Jamaica and Cape Verde. Study tour for Cape Verde Government Mission Team to Jamaica was organized on Development of National Migration Policy and Mainstreaming Migration into National Development Planning & Policy

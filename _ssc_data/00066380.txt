@@ -1,0 +1,21 @@
+---
+open_project_id: "00066380"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - BRA
+region: 
+  - lac
+partner_type: 
+  - national_governments
+  - private_sector
+project_title: "Development support to cotton sector"
+scale: national
+project_objective: "To provide support to the cotton production sector in other developing countries in Africa, Latin America and the Caribeans through SSC. This is done throuhg sharing of technical knowledge on cotton cultivation among participating countries. Expected output: development of the cotton sector of the commodity-producing developing countries, through prospecting, consulting, formulation, implementation and monitoring and evaluation of technical cooperation projects in South-South."
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP facilitates partnerships and knowledge exchange.

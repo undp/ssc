@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - 
+region: 
+  - lac
+partner_type: 
+project_title: "Sabana Camagüey – Mainstreaming and sustaining Biodiversity Conservation in three Productive Sectors of the Sabana Camagüey Ecosystem"
+scale: regional / multi-country
+project_objective: ""
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - CUB
+published: true
+---
+UNDP supported the systematization of experiences within the framework of the initiative of the Sabana Camaguey Ecosystem for its replication in Cuba and other countries in the LAC region with advisory support from UNDP Regional Centre.

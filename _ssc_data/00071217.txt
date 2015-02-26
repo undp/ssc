@@ -1,0 +1,20 @@
+---
+open_project_id: "00071217"
+thematic_focus: 
+  - resilience_building
+host_location: 
+  - ZAF
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: "Climate Change and Greening South Africa's Economy"
+scale: national
+project_objective: "To support Government in realizing its national priorities of greening the South African economy focusing on promoting sustainable energy for all, and enhancing biodiversity management"
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+published: true
+---
+UNDP will facilitate the exchange of experience in enhancing biodiversity contribution to Green Economy, sustainable livelihoods and job creation through promotion of tourism, conservation agriculture climate change adaptation methodologies and exchange of experiences among communities through tours and workshops.

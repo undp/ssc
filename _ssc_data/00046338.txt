@@ -1,0 +1,21 @@
+---
+open_project_id: "00046338"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: "The Greater Tumen Initiative (GTI)"
+scale: national
+project_objective: "GTI is an intergovernmental cooperation mechanism among China, Mongolia, Republic of Korea and the Russian Federation, supported by UNDP."
+territorial_focus: MIC
+undp_role_type: 
+  - facilitator_of_partnerships
+partner_location: 
+  - MNG
+published: true
+---
+UNDP facilitated partnership between China, Mongolia, Republic of Korea and the Russian Federation. At the 14th meeting of the GTI Consultative Commission held in October 2013 in Mongolia, the delegates reaffirmed the importance of GTI in building a regional partnership for common prosperity, and laid down a strategy for transforming the initiative into an independent entity by 2016. The meeting also reviewed GTI progress in areas of strategic importance – transport, trade and investment, tourism, energy and environment – and approved several new projects to advance regional connectivity. 

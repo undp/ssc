@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - PER
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: "82932 Project title was not indicated"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - COL
+  - BRA
+published: true
+---
+UNDP supports the development of mechanisms for export of services in the Export Processing Zones in Colombia, Brazil Program, and Peru.

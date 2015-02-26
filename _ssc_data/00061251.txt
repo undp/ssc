@@ -1,0 +1,26 @@
+---
+open_project_id: "00061251"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - HTI
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: "Aid Effectiveness Project"
+scale: national
+project_objective: "The project aims to strengthen the capacity of the Haitian Government for the management and coordination of aid and also provides support to the Interim Commission for the Reconstruction of Haiti (IHRC)"
+territorial_focus: Fragile State
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - BDI
+  - ETH
+  - MDG
+  - MWI
+  - NER
+  - UGA
+published: true
+---
+UNDP facilitates partnerships and knowledge exchange between Burkina Faso, Burundi, Ethiopia, Guinéa-Bissau, Haiti, Kosovo,  Laos,  Liberia, Madagascar, Malawi, Népal, Niger, Uganda, RDC,  Sénégal,  South Soudan, Tanzania, Timor Leste,  Togo and Haiti. Workshops on aid information, coordination, transparency and the usage of Aid Management Platform (AMP) are regularly organized to facilitate knowledge exchange and transfer and foster partnerships among AMP countries; and to capture user's feedback to strengthen the AMP application and program. The recurrent “Country Expo” is a popular part of the event, which allows countries to showcase local best practices, and solutions to common issues that may be replicated elsewhere.

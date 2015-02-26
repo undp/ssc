@@ -1,0 +1,22 @@
+---
+open_project_id: "00079220"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - HTI
+region: 
+  - lac
+partner_type: 
+  - national_governments
+  - academia
+project_title: "ProHuerta programme"
+scale: national
+project_objective: "To promote family/community vegetable gardens to fight food insecurity and malnutrition"
+territorial_focus: Fragile State
+undp_role_type: 
+  - facilitator_of_partnerships
+partner_location: 
+  - ARG
+published: true
+---
+UNDP facilitates partnership and coordinates SSC between Argentina and Haiti. Through UNDP, Argentina provides technical assistance to the Government of Haiti.  UNDP also provides management support for implementation of some components.

@@ -22,13 +22,10 @@ class Process
 
   partner_type: [
       {name:'International cooperation / development agencies', short: 'international_cooperation_development_agencies'}, 
-      {name:'International cooperation/development agencies', short: 'international_cooperation_development_agencies'}, 
       {name:'Development/International cooperation agencies', short: 'international_cooperation_development_agencies'}, 
-      {name:'Regional / inter-governmental organizations', short: 'regional_inter_governmental_organizations'}, 
-      {name:'Regional/Inter-governmental organizations', short: 'regional_inter_governmental_organizations'}, 
+      {name:'Regional / Inter-governmental organizations', short: 'regional_inter_governmental_organizations'}, 
       {name:'National governments', short: 'national_governments'}, 
       {name:'Sub-national governments', short: 'sub_national_governments'}, 
-      {name:'CSO', short: 'cso'}, 
       {name:'CSOs', short: 'cso'}, 
       {name:'Academia', short: 'academia'}, 
       {name:'Private sector',short: 'private_sector'}

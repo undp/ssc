@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - ARG
+region: 
+  - lac
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: "Joint Support Programme for Social Inclusion and Equity for Sexual Minorities"
+scale: national
+project_objective: ""
+territorial_focus: MIC
+undp_role_type: 
+  - knowledge_broker
+partner_location: 
+  - BRA
+  - GTM
+published: true
+---
+UNDP facilitates and coordinates experience exchange between the countries, including meetings and exchange visits with national officials of provincial (San Juan) and municipal agencies (San Martin). Experts from Brazil and Guatemala visited Argentina and assimilated the creation and implementation of the Consultorios Amigables para la Diversidad Sexual. 

@@ -1,0 +1,22 @@
+---
+open_project_id: "00058898"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+host_location: 
+  - AFG
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: "National Institution Building Project (NIBP)"
+scale: national
+project_objective: "To bolster the Government of Afghanistan's ability to effectively deliver public services to its citizens. NIBP has played a pivotal role in facilitating the partnership with the Government of Azerbaijan, supports the organizational capacity enhancement of select government ministries and entities at the national and sub-national levels in Afghanistan. The project is co-funded by the Government of India"
+territorial_focus: Fragile State
+undp_role_type: 
+  - capacity_builder
+  - knowledge_broker
+partner_location: 
+  - IND
+published: true
+---
+UNDP facilitated capacity building and knowledge sharing as part of its support to South-South Cooperation under the National Institution Building Programme (NIBP). 10 Afghan delegates comprising experts from the Ministry and independent agricultural researchers and entrepreneurs went on a five-day training on mushroom cultivation in Solan, India. 

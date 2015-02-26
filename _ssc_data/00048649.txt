@@ -1,0 +1,20 @@
+---
+open_project_id: "00048649"
+thematic_focus: 
+  - sustainable_development
+host_location: 
+  - ROU
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: "Strengthening the National Institutional and Educational Capacity to Carry Out Official Development Assistance (ODA) Programmes and Projects (SNIECODA)"
+scale: national
+project_objective: "To support Romania's efforts to become a lead donor of development assistance in the priority countries and regions of Romania's international development cooperation policy. It will focus on supporting the MFA to further develop its capacity to implement ODA projects and programs by providing a flexible administrative and implementation mechanism for ODA delivery. Since EU accession in 2007, Romania has been expanding its international development cooperation. Legal and policy frameworks for Official Development Assistance (ODA) have been prepared and stipulate coordinating and monitoring role for the Ministry of Foreign Affairs (MFA). "
+territorial_focus: MIC
+undp_role_type: 
+  - capacity_builder
+partner_location: 
+published: true
+---
+UNDP will support the Ministry of Foreign Affairs of Romania to develop its capacity to implement ODA-funded projects. The programme is intended to support Romania's efforts to become a lead donor of development assistance in the priority (and in-attention) countries and regions of Romania's international development cooperation policy. UNDP will assist the Government of Romania in providing support in the following projects 1) The Ministry of Environment and Forests (MEF) aims at providing training for specialists from Central Asia on protection and sustainable use of the water resources in trans-boundary areas in view of strengthening of the institutional capacities, the transfer of knowledge and experience and the increase of expertise of the Central Asian Authorities regarding the difficult water management with the neighbouring countries; 2) The Ministry of Environment and Forests (MEF) aims at providing a training program to specialists in Eastern Europe, Caucasus region and Central Asia (EECCA region) on drinking water supply, sewerage, urban waste water treatment and integrated water management by enabling capacity building, transfer of knowledge and experience and the implementation of existing EU principles with regard to the integrated water management; 3)  The General Inspectorate of Romanian Gendarmerie will implement the component called “Modernizing the practices of the Carabineer Troops from the Republic of Moldova in Order and Public Safety Management” aiming to train the Moldovan carabineers (Department of Carabineer Troops (DCT) within the Internal Affairs Ministry of the Republic of Moldova) for enhancing their professional skills, knowledge and practices in accordance with the European and international standards.
