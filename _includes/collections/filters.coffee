@@ -10,7 +10,11 @@ class Filters extends Backbone.Collection
         forFilter: 'location'
 
   nameFromShort: (short) ->
-    @get(short).get('name')
+    got = @get(short)
+    if got
+      got.get('name')
+    else
+      throw new Error "Can't find valid indice for #{short}"
 
   search: (term) ->
     @filter (indice) ->
