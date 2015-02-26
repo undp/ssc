@@ -1,26 +1,23 @@
-<div class="w-clearfix control-section-title-block filter" data-ix="showhide-all-filters">
-  <div class="title">Apply filters</div><img class="filters-disclose" src="images/down4.png" width="26" alt="54e7798d942b09583a0ebb69_down4.png">
-</div>
+<a class="w-clearfix w-inline-block control-section-title-block" href="#" data-ix="showhide-all-filters">
+  <div class="title">Apply search filters</div><img class="filters-disclose" src="images/down4.png" width="26" alt="54e7798d942b09583a0ebb69_down4.png">
+</a>
 
-<div class="filters" id="filters" data-ix="display-none">
+<div class="filters" id="filters">
 
   <% _.each(filterGroups, function(filterGroup){ %>
 
   <div class="filter-group">
-    <div class="group-title" data-ix="showhide-filter-groups">
-      <%= s.humanize(filterGroup.data.name) %>
-    </div>
-
-    <ul class="w-list-unstyled group-items" data-ix="display-none">
-      <% _.each(filterGroup.values, function(filterItem){ %>
-        <li class="w-clearfix group-item"
-          data-filter-name='<%= filterGroup.data.name %>'
-          data-filter-value='<%= filterItem.value %>'>
-          <div class="item-text"><%= app.filters.nameFromShort(filterItem.value) %></div>
-          <div class="item-count"><%= filterItem.activeCount %></div>
-        </li>
+    <a class="group-title" href="#" data-ix="showhide-filter-groups"><%= s.humanize(filterGroup.data.name) %></a>
+    <% _.each(filterGroup.values, function(filterItem){ %>
+      <a class="w-clearfix w-inline-block group-item" href="#"
+        data-filter-name='<%= filterGroup.data.name %>'
+        data-filter-value='<%= filterItem.value %>'>
+        <div class="item-text"><%= app.filters.nameFromShort(filterItem.value) %></div>
+        <div class="item-count"><%= filterItem.activeCount %></div>
+      </a>
       <% }) %>
-    </ul>
   </div>
   <% }) %>
 </div>
+
+
