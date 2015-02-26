@@ -15,7 +15,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
-  - A-000
   - MNG
 published: true
 ---

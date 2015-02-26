@@ -102,8 +102,8 @@
     "forFilter": "role"
   },
   {
-    "name": "Partnership facilitator",
-    "short": "partnership_facilitator",
+    "name": "Facilitator of partnerships",
+    "short": "facilitator_of_partnerships",
     "type": "undp_role_type",
     "forFilter": "role"
   },

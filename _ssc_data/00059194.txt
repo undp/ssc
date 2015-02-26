@@ -17,7 +17,6 @@ territorial_focus: MIC
 undp_role_type: 
   - knowledge_broker
 partner_location: 
-  - A-000
 published: true
 ---
 In this programme, UNDP will facilitate and participate in bilateral and multilateral working groups to exchange lessons learnt between complementary PA establishment projects currently underway, including: (a) Delta Bojana River/Buna River as part of the World Bank Montenegro Sustainable Development Project; (b) a cross-border protected area between Bosnia-Herzegovina and Montenegro in the region of Maglic-Bioc-Volujak as part of the UNEP/ENVSEC Enhancing Trans boundary Biodiversity Management in South East Europe project; (c) the ADA-GTZ-SNV Prokletije(Albania) / Bjeshkët e Namuna Cross-border Mountain Range Development Programme. 

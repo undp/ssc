@@ -14,7 +14,6 @@ territorial_focus: SIDS
 undp_role_type: 
   - knowledge_broker
 partner_location: 
-  - A-SIDS
 published: true
 ---
 UNDP provided coordination and hosting support, including identifying and selecting 5 Barbados and Eastern Caribbean social and sustainable development cases to share them. Caribbean SIDS shared country experience, learning and solutions in Youth Business, Social Protection and National Strategic Planning during the fair, which provided a space and stage for dialogue among participants to further strengthen intra-Caribbean SSC cooperation.

@@ -19,7 +19,6 @@ territorial_focus: SIDS
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 
-  - A-SIDS
 published: true
 ---
 UNDP facilitates partnership through the SIDS South-South global partnerships hub, utilizing UNVs Online Volunteer Services to connect development organizations to online volunteers and provide advisory and other technical services as well as opportunities to create links between Caribbean diaspora communities, regional and global NGOs and CSOs volunteers, to innovatively address development challenges. This is a sub-regional project. UNDP's comparative advantage of strong programming links with UNV is used to highlight and strengthen the project goal of improving youth inclusion and participation in Caribbean governance, social, economic, environmental sectoral development. UNV engagement will increase advocacy for SIDS-specific 'volunteerism-for-development' and philanthropic frameworks. 
