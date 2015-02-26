@@ -8,11 +8,13 @@ Filter = require './lib/ssc_process'
 class Process
   constructor: ->
     @countries = JSON.parse(fs.readFileSync('../_includes/data/countries.json', encoding: 'utf8'))
-    @projects  = JSON.parse(fs.readFileSync('./refine_projects_export.json', encoding: 'utf8'))
+    @projects  = JSON.parse(fs.readFileSync('./refine_projects_export.json', encoding: 'utf8')).rows
     @template  = fs.readFileSync('./lib/project_file_template._', encoding: 'utf8')
 
-    processed = @processAll(@projects)
-    @writeAll(processed)
+    console.log "Loaded #{@projects.length} projects"
+
+    # processed = @processAll(@projects)
+    # @writeAll(processed)
     console.log("Created project files for #{@projects.length} projects - located in '_ssc_data'")
 
   processAll: (projects) ->
