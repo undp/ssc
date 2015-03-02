@@ -41,17 +41,11 @@ prose:
           placeholder: Choose action
           options:
             - name: Builder of capacities
-              short: builder_of_capacities
-              type: undp_role_type
-              forFilter: role
+              value: builder_of_capacities
             - name: Knowledge broker
-              short: knowledge_broker
-              type: undp_role_type
-              forFilter: role
+              value: knowledge_broker
             - name: Facilitator of partnerships
-              short: facilitator_of_partnerships
-              type: undp_role_type
-              forFilter: role
+              value: facilitator_of_partnerships
       - name: thematic_focus
         field:
           element: multiselect
@@ -59,17 +53,11 @@ prose:
           placeholder: Select area(s) of focus
           options:
             - name: Sustainable development pathways
-              short: sustainable_development_pathways
-              type: thematic_focus
-              forFilter: theme
+              value: sustainable_development_pathways
             - name: Resilience building
-              short: resilience_building
-              type: thematic_focus
-              forFilter: theme
+              value: resilience_building
             - name: Inclusive and effective democratic governance
-              short: inclusive_and_effective_democratic_governance
-              type: thematic_focus
-              forFilter: theme
+              value: inclusive_and_effective_democratic_governance
       - name: territorial_focus
         field:
           element: multiselect
@@ -77,25 +65,15 @@ prose:
           placeholder: Select area(s) of focus
           options:
             - name: Middle Income Countries
-              short: mic
-              type: territorial_focus
-              forFilter: territorial_focus
+              value: mic
             - name: Small Island Developing States
-              short: sids
-              type: territorial_focus
-              forFilter: territorial_focus
+              value: sids
             - name: Fragile States
-              short: fragile_state
-              type: territorial_focus
-              forFilter: territorial_focus
+              value: fragile_state
             - name: Least Developed Countries
-              short: ldc
-              type: territorial_focus
-              forFilter: territorial_focus
+              value: ldc
             - name: High Income Countries
-              short: hic
-              type: territorial_focus
-              forFilter: territorial_focus
+              value: hic
       - name: scale
         field:
           element: select
@@ -103,17 +81,11 @@ prose:
           placeholder: "National, regional or global"
           options:
             - name: Global
-              short: global
-              type: scale
-              forFilter: scale
+              value: global
             - name: Regional
-              short: regional
-              type: scale
-              forFilter: scale
+              value: regional
             - name: National
-              short: national
-              type: scale
-              forFilter: scale
+              value: national
       - name: region
         field:
           element: multiselect
@@ -121,25 +93,15 @@ prose:
           placeholder: Select region
           options:
             - name: "Latin America & Caribbean"
-              short: lac
-              type: region
-              forFilter: location
+              value: lac
             - name: Africa
-              short: africa
-              type: region
-              forFilter: location
+              value: africa
             - name: "Asia & Pacific"
-              short: asia_pacific
-              type: region
-              forFilter: location
+              value: asia_pacific
             - name: Arab States
-              short: arab_states
-              type: region
-              forFilter: location
+              value: arab_states
             - name: "Europe & CIS"
-              short: europe_cis
-              type: region
-              forFilter: location
+              value: europe_cis
       - name: host_location
         field:
           element: multiselect
@@ -627,30 +589,496 @@ prose:
           label: Partner types
           options:
             - name: International cooperation / development agencies
-              short: international_cooperation_development_agencies
-              type: partner_type
-              forFilter: partner
-            - name: Regional / inter-governmental organizations
-              short: regional_inter_governmental_organizations
-              type: partner_type
-              forFilter: partner
+              value: international_cooperation_development_agencies
+            - name: Regional / Inter-governmental organizations
+              value: regional_inter_governmental_organizations
             - name: National governments
-              short: national_governments
-              type: partner_type
-              forFilter: partner
+              value: national_governments
             - name: Sub-national governments
-              short: sub_national_governments
-              type: partner_type
-              forFilter: partner
+              value: sub_national_governments
             - name: CSO
-              short: cso
-              type: partner_type
-              forFilter: partner
+              value: cso
             - name: Academia
-              short: academia
-              type: partner_type
-              forFilter: partner
+              value: academia
             - name: Private sector
-              short: private_sector
-              type: partner_type
-              forFilter: partner
+              value: private_sector
+      - name: partner_location
+        field:
+          element: multiselect
+          label: "Partner location (country, etc)"
+          placeholder: Select location(s)
+          options:
+            - name: Aruba
+              value: ABW
+            - name: Afghanistan
+              value: AFG
+            - name: Angola
+              value: AGO
+            - name: Anguilla
+              value: AIA
+            - name: Albania
+              value: ALB
+            - name: Andorra
+              value: AND
+            - name: Netherlands Antilles
+              value: ANT
+            - name: United Arab Emirates
+              value: ARE
+            - name: Argentina
+              value: ARG
+            - name: Armenia
+              value: ARM
+            - name: American Samoa
+              value: ASM
+            - name: Antarctica
+              value: ATA
+            - name: French Southern and Antarctic Territories
+              value: ATF
+            - name: Antigua and Barbuda
+              value: ATG
+            - name: Australia
+              value: AUS
+            - name: Austria
+              value: AUT
+            - name: Azerbaijan
+              value: AZE
+            - name: Burundi
+              value: BDI
+            - name: Belgium
+              value: BEL
+            - name: Benin
+              value: BEN
+            - name: Burkina Faso
+              value: BFA
+            - name: Bangladesh
+              value: BGD
+            - name: Bulgaria
+              value: BGR
+            - name: Bahrain
+              value: BHR
+            - name: Bahamas
+              value: BHS
+            - name: Bosnia and Herzegovina
+              value: BIH
+            - name: Belarus
+              value: BLR
+            - name: Belize
+              value: BLZ
+            - name: Bermuda
+              value: BMU
+            - name: Bolivia (Plurinational State of)
+              value: BOL
+            - name: Brazil
+              value: BRA
+            - name: Barbados
+              value: BRB
+            - name: Brunei Darussalam
+              value: BRN
+            - name: Bhutan
+              value: BTN
+            - name: Bouvet Island
+              value: BVT
+            - name: Botswana
+              value: BWA
+            - name: Central African Republic
+              value: CAF
+            - name: Canada
+              value: CAN
+            - name: Cocos Islands
+              value: CCK
+            - name: Switzerland
+              value: CHE
+            - name: Chile
+              value: CHL
+            - name: China
+              value: CHN
+            - name: "Côte d'Ivoire"
+              value: CIV
+            - name: Cameroon
+              value: CMR
+            - name: Democratic Republic of Congo
+              value: COD
+            - name: Republic of Congo
+              value: COG
+            - name: Cook Islands
+              value: COK
+            - name: Colombia
+              value: COL
+            - name: Comoros
+              value: COM
+            - name: Cape Verde
+              value: CPV
+            - name: Costa Rica
+              value: CRI
+            - name: Cuba
+              value: CUB
+            - name: Christmas Island
+              value: CXR
+            - name: Cayman Islands
+              value: CYM
+            - name: Cyprus
+              value: CYP
+            - name: Czech Republic
+              value: CZE
+            - name: Germany
+              value: DEU
+            - name: Djibouti
+              value: DJI
+            - name: Dominica
+              value: DMA
+            - name: Denmark
+              value: DNK
+            - name: Dominican Republic
+              value: DOM
+            - name: Algeria
+              value: DZA
+            - name: Ecuador
+              value: ECU
+            - name: Egypt
+              value: EGY
+            - name: Eritrea
+              value: ERI
+            - name: Western Sahara
+              value: ESH
+            - name: Spain
+              value: ESP
+            - name: Estonia
+              value: EST
+            - name: Ethiopia
+              value: ETH
+            - name: Finland
+              value: FIN
+            - name: Fiji
+              value: FJI
+            - name: Falkland Islands (Malvinas)
+              value: FLK
+            - name: France
+              value: FRA
+            - name: Faroe Islands
+              value: FRO
+            - name: Micronesia (Federated States of)
+              value: FSM
+            - name: Gabon
+              value: GAB
+            - name: United Kingdom
+              value: GBR
+            - name: Georgia
+              value: GEO
+            - name: Ghana
+              value: GHA
+            - name: Gibraltar
+              value: GIB
+            - name: Guinea
+              value: GIN
+            - name: Guadeloupe
+              value: GLP
+            - name: Gambia
+              value: GMB
+            - name: Guinea-Bissau
+              value: GNB
+            - name: Equatorial Guinea
+              value: GNQ
+            - name: Greece
+              value: GRC
+            - name: Grenada
+              value: GRD
+            - name: Greenland
+              value: GRL
+            - name: Guatemala
+              value: GTM
+            - name: French Guiana
+              value: GUF
+            - name: Guam
+              value: GUM
+            - name: Guyana
+              value: GUY
+            - name: "Hong Kong, China (SAR)"
+              value: HKG
+            - name: Heard Island and McDonald Islands
+              value: HMD
+            - name: Honduras
+              value: HND
+            - name: Croatia
+              value: HRV
+            - name: Haiti
+              value: HTI
+            - name: Hungary
+              value: HUN
+            - name: Indonesia
+              value: IDN
+            - name: Isle of Man
+              value: IMY
+            - name: India
+              value: IND
+            - name: British Indian Ocean Territory
+              value: IOT
+            - name: Ireland
+              value: IRL
+            - name: Iran (Islamic Republic of)
+              value: IRN
+            - name: Iraq
+              value: IRQ
+            - name: Iceland
+              value: ISL
+            - name: Israel
+              value: ISR
+            - name: Italy
+              value: ITA
+            - name: Jamaica
+              value: JAM
+            - name: Jordan
+              value: JOR
+            - name: Japan
+              value: JPN
+            - name: Kazakhstan
+              value: KAZ
+            - name: Kenya
+              value: KEN
+            - name: Kyrgyz Republic
+              value: KGZ
+            - name: Cambodia
+              value: KHM
+            - name: Kiribati
+              value: KIR
+            - name: Saint Kitts and Nevis
+              value: KNA
+            - name: Korea (Republic of)
+              value: KOR
+            - name: Kuwait
+              value: KWT
+            - name: "Lao People's Democratic Republic"
+              value: LAO
+            - name: Lebanon
+              value: LBN
+            - name: Liberia
+              value: LBR
+            - name: Libyan Arab Jamahiriya
+              value: LBY
+            - name: Saint Lucia
+              value: LCA
+            - name: Liechtenstein
+              value: LIE
+            - name: Sri Lanka
+              value: LKA
+            - name: Lesotho
+              value: LSO
+            - name: Lithuania
+              value: LTU
+            - name: Luxembourg
+              value: LUX
+            - name: Latvia
+              value: LVA
+            - name: Macao
+              value: MAC
+            - name: Morocco
+              value: MAR
+            - name: Monaco
+              value: MCO
+            - name: Moldova (Republic of)
+              value: MDA
+            - name: Madagascar
+              value: MDG
+            - name: Maldives
+              value: MDV
+            - name: Mexico
+              value: MEX
+            - name: Marshall Islands
+              value: MHL
+            - name: The former Yugoslav Republic of Macedonia
+              value: MKD
+            - name: Mali
+              value: MLI
+            - name: Malta
+              value: MLT
+            - name: Myanmar
+              value: MMR
+            - name: Montenegro
+              value: MNE
+            - name: Mongolia
+              value: MNG
+            - name: Northern Mariana Islands
+              value: MNP
+            - name: Mozambique
+              value: MOZ
+            - name: Mauritania
+              value: MRT
+            - name: Montserrat
+              value: MSR
+            - name: Martinique
+              value: MTQ
+            - name: Mauritius
+              value: MUS
+            - name: Malawi
+              value: MWI
+            - name: Malaysia
+              value: MYS
+            - name: Mayotte
+              value: MYT
+            - name: Namibia
+              value: NAM
+            - name: New Caledonia
+              value: NCL
+            - name: Niger
+              value: NER
+            - name: Norfolk Island
+              value: NFK
+            - name: Nigeria
+              value: NGA
+            - name: Nicaragua
+              value: NIC
+            - name: Niue
+              value: NIU
+            - name: Netherlands
+              value: NLD
+            - name: Norway
+              value: NOR
+            - name: Nepal
+              value: NPL
+            - name: Nauru
+              value: NRU
+            - name: New Zealand
+              value: NZL
+            - name: Oman
+              value: OMN
+            - name: Pakistan
+              value: PAK
+            - name: Panama
+              value: PAN
+            - name: Pitcairn Island
+              value: PCN
+            - name: Peru
+              value: PER
+            - name: Philippines
+              value: PHL
+            - name: Palau
+              value: PLW
+            - name: Papua New Guinea
+              value: PNG
+            - name: Poland
+              value: POL
+            - name: Puerto Rico
+              value: PRI
+            - name: "Korea, Democratic People's Republic of"
+              value: PRK
+            - name: Portugal
+              value: PRT
+            - name: Azores Islands
+              value: PRT
+            - name: Paraguay
+              value: PRY
+            - name: French Polynesia
+              value: PYF
+            - name: Qatar
+              value: QAT
+            - name: Reunion
+              value: REU
+            - name: Romania
+              value: ROU
+            - name: Russian Federation
+              value: RUS
+            - name: Rwanda
+              value: RWA
+            - name: Saudi Arabia
+              value: SAU
+            - name: Sudan
+              value: SDN
+            - name: Senegal
+              value: SEN
+            - name: Singapore
+              value: SGP
+            - name: Svalbard and Jan Mayen Islands
+              value: SJM
+            - name: Solomon Islands
+              value: SLB
+            - name: Sierra Leone
+              value: SLE
+            - name: El Salvador
+              value: SLV
+            - name: San Marino
+              value: SMR
+            - name: Somalia
+              value: SOM
+            - name: Serbia
+              value: SRB
+            - name: Sao Tome and Principe
+              value: STP
+            - name: Suriname
+              value: SUR
+            - name: Slovenia
+              value: SVN
+            - name: Sweden
+              value: SWE
+            - name: Swaziland
+              value: SWZ
+            - name: Seychelles
+              value: SYC
+            - name: Syrian Arab Republic
+              value: SYR
+            - name: Turks and Caicos Islands
+              value: TCA
+            - name: Chad
+              value: TCD
+            - name: Togo
+              value: TGO
+            - name: Thailand
+              value: THA
+            - name: Tajikistan
+              value: TJK
+            - name: Tokelau
+              value: TKL
+            - name: Turkmenistan
+              value: TKM
+            - name: Timor-Leste
+              value: TLS
+            - name: Tonga
+              value: TON
+            - name: Trinidad and Tobago
+              value: TTO
+            - name: Tunisia
+              value: TUN
+            - name: Turkey
+              value: TUR
+            - name: Tuvalu
+              value: TUV
+            - name: Taiwan
+              value: TWN
+            - name: Tanzania (United Republic of)
+              value: TZA
+            - name: Uganda
+              value: UGA
+            - name: Ukraine
+              value: UKR
+            - name: Uruguay
+              value: URY
+            - name: United States
+              value: USA
+            - name: Uzbekistan
+              value: UZB
+            - name: Holy See
+              value: VAT
+            - name: Saint Vincent and the Grenadines
+              value: VCT
+            - name: Venezuela (Bolivarian Republic of)
+              value: VEN
+            - name: British Virgin Islands
+              value: VGB
+            - name: United States Virgin Island
+              value: VIR
+            - name: Viet Nam
+              value: VNM
+            - name: Vanuatu
+              value: VUT
+            - name: Samoa
+              value: WSM
+            - name: Yemen
+              value: YEM
+            - name: South Africa
+              value: ZAF
+            - name: Zambia
+              value: ZMB
+            - name: Zimbabwe
+              value: ZWE
+            - name: Kosovo (SCR 1244)
+              value: KOS
+            - name: South Sudan
+              value: SSD

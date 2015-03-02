@@ -21,6 +21,11 @@ class CreateProseConfig
     content = yaml.dump(newConfig)
     fs.writeFileSync "../_config.yml", content
 
+  formatIndices: (indices) ->
+    _.map indices, (indice) ->
+      name: indice.name
+      value: indice.short
+
   formatCountries: (countries) ->
     _.map countries, (country) ->
       name: country.name
@@ -28,14 +33,14 @@ class CreateProseConfig
 
   process: ->
     data =
-      undp_role_type    : _.where @indices, type: 'undp_role_type'
-      thematic_focus    : _.where @indices, type: 'thematic_focus'
-      territorial_focus : _.where @indices, type: 'territorial_focus'
-      scale             : _.where @indices, type: 'scale'
-      region            : _.where @indices, type: 'region'
+      undp_role_type    : @formatIndices(_.where @indices, type: 'undp_role_type')
+      thematic_focus    : @formatIndices(_.where @indices, type: 'thematic_focus')
+      territorial_focus : @formatIndices(_.where @indices, type: 'territorial_focus')
+      scale             : @formatIndices(_.where @indices, type: 'scale')
+      region            : @formatIndices(_.where @indices, type: 'region')
       host_location     : @formatCountries(_.where @indices, type: 'country')
-      partner_location  : _.where @indices, type: 'country'
-      partner_type      : _.where @indices, type: 'partner_type'
+      partner_location  : @formatCountries(_.where @indices, type: 'country')
+      partner_type      : @formatIndices(_.where @indices, type: 'partner_type')
 
     prose:
       rooturl: '_ssc_data'
@@ -116,14 +121,14 @@ class CreateProseConfig
             label: 'Partner types'
             options:
               data.partner_type
-        # ,
-        #   name: 'partner_location'
-        #   field:
-        #     element: 'multiselect'
-        #     label: 'Partner location (country, etc)'
-        #     placeholder: 'Select location(s)'
-        #     options:
-        #       data.partner_location
+        ,
+          name: 'partner_location'
+          field:
+            element: 'multiselect'
+            label: 'Partner location (country, etc)'
+            placeholder: 'Select location(s)'
+            options:
+              data.partner_location
         ]
 
 new CreateProseConfig
