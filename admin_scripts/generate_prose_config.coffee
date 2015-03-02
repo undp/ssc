@@ -4,8 +4,8 @@ yaml     = require 'js-yaml'
 
 class CreateProseConfig
   constructor: ->
-    @indices = JSON.parse(fs.readFileSync('../_includes/data/indices.json', encoding: 'utf8'))
-    @countryIndices = JSON.parse(fs.readFileSync('../_includes/data/countries.json', encoding: 'utf8'))
+    @indices = JSON.parse(fs.readFileSync(__dirname + '/../_includes/data/indices.json', encoding: 'utf8'))
+    @countryIndices = JSON.parse(fs.readFileSync(__dirname + '/../_includes/data/countries.json', encoding: 'utf8'))
 
     console.log "Loaded indices (#{_.toArray(@indices).length} categories)"
 
@@ -14,11 +14,11 @@ class CreateProseConfig
     console.log("Updated `_config.yml` based on `indices.json`")
 
   write: (data) ->
-    existingConfig = yaml.safeLoad(fs.readFileSync('../_config.yml', 'utf8'))
+    existingConfig = yaml.safeLoad(fs.readFileSync(__dirname + '/../_config.yml', 'utf8'))
     existingConfig.prose?= null
     newConfig = _.extend(existingConfig, data)
     content = yaml.dump(newConfig)
-    fs.writeFileSync "../_config.yml", content
+    fs.writeFileSync(__dirname + '/../_config.yml', content)
 
   formatIndices: (indices) ->
     _.map indices, (indice) ->

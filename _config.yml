@@ -462,8 +462,6 @@ prose:
               value: PRK
             - name: Portugal
               value: PRT
-            - name: Azores Islands
-              value: PRT
             - name: Paraguay
               value: PRY
             - name: French Polynesia
@@ -960,8 +958,6 @@ prose:
             - name: "Korea, Democratic People's Republic of"
               value: PRK
             - name: Portugal
-              value: PRT
-            - name: Azores Islands
               value: PRT
             - name: Paraguay
               value: PRY
