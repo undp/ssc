@@ -1,13 +1,28 @@
 class Filters extends Backbone.Collection
   model: Filter
 
-  addCountries: ->
+  populate: (options) ->
+    throw 'Missing indices' unless options.indices?
+    throw 'Missing countries' unless options.countries?
+    @addIndices(options.indices)
+    @addCountries(options.countries)
+
+  addIndices: (indices) ->
+    _.each indices, (indice) =>
+      _.each indice.values, (indiceEntry) =>
+        @add
+          name: indiceEntry.name
+          short: indiceEntry.short
+          type: indice.type
+          filterTitle: indice.filterTitle
+
+  addCountries: (countries) ->
     _.each window.countries, (country) =>
       @add
         name: country.name
         short: country.iso3.toLowerCase()
         type: 'country'
-        forFilter: 'location'
+        filterTitle: 'location'
 
   nameFromShort: (short) ->
     got = @get(short)

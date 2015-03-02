@@ -33,8 +33,8 @@ $(document).ready ->
   # Collections
   app.projects = new Projects
   app.countries = new Countries(window.countries)
-  app.filters = new Filters(window.indices) # To simplify handling of indices 
-  app.filters.addCountries()
+  app.filters = (new Filters)
+  app.filters.populate(indices: window.indices, countries: window.countries)
 
   app.projects.fetch
     success: ->
