@@ -111,7 +111,6 @@ class CreateProseConfig
             element: 'multiselect'
             label: 'Project location (country, etc)'
             placeholder: 'Select location(s)'
-            alterable: true
             options:
               data.host_location
         ,
