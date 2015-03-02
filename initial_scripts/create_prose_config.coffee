@@ -21,6 +21,11 @@ class CreateProseConfig
     content = yaml.dump(newConfig)
     fs.writeFileSync "../_config.yml", content
 
+  formatCountries: (countries) ->
+    _.map countries, (country) ->
+      name: country.name
+      value: country.iso3
+
   process: ->
     data =
       undp_role_type    : _.where @indices, type: 'undp_role_type'
@@ -28,7 +33,7 @@ class CreateProseConfig
       territorial_focus : _.where @indices, type: 'territorial_focus'
       scale             : _.where @indices, type: 'scale'
       region            : _.where @indices, type: 'region'
-      host_location     : _.where @indices, type: 'country'
+      host_location     : @formatCountries(_.where @indices, type: 'country')
       partner_location  : _.where @indices, type: 'country'
       partner_type      : _.where @indices, type: 'partner_type'
 
