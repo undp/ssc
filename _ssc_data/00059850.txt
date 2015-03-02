@@ -20,7 +20,6 @@ undp_role_type:
 partner_location: 
   - SRB
   - MNE
-  - KOS
   - BGR
   - HRV
 published: true
