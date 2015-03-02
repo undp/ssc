@@ -1770,16 +1770,6 @@
     "type": "country"
   },
   {
-    "terr_id": "17",
-    "name": "Azores Islands",
-    "abbrev": "PRT",
-    "terr_name": "Azores Islands",
-    "lat": "38.332398",
-    "iso3": "PRT",
-    "lon": "-27.303296",
-    "type": "country"
-  },
-  {
     "terr_id": "191",
     "name": "Paraguay",
     "abbrev": "PRY",
