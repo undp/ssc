@@ -12,7 +12,7 @@ partner_type:
 project_title: "Integrated Community Development for Up-scaling the MDG's"
 scale: national
 project_objective: "To improve MDG related service delivery through an integrated community development based approach. This project will provide a framework for the UNCT to demonstrate concrete impact on the ground and enhance local capacity for service delivery to meet the nationally agreed goals and prioritized development needs. The planned interventions also aim at demonstrating how targeted multi-sectoral integrated interventions, especially through enhanced service delivery, can upscale the achievement of the MDGs."
-territorial_focus: Fragile State
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 partner_location: 

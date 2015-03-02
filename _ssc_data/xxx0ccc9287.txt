@@ -12,7 +12,7 @@ partner_type:
 project_title: "Institutional and operational strengthening of the Chamber of Deputies of the Dominican Republic"
 scale: national
 project_objective: ""
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

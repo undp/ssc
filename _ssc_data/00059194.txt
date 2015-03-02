@@ -13,7 +13,7 @@ partner_type:
 project_title: "Catalysing financial sustainability of the protected area system in Montenegro"
 scale: national
 project_objective: "To improve the financial sustainability of protected area (PA) system in Montenegro through enabling legal and policy environment for improvement financial sustainability, securing revenue streams for PA, and development of institutional and individual capacities of PA institutions to raise PA management cost-effectiveness. Results include: a) piloting payment for ecosystem services (PES) scheme in Durmitor, nature-based tourism concession process in Komovi Regional Park, and innovative revenue generation for PA (rafting, canoeing, kayaking, biking, rock climbing, caving,etc); b) development of a national 5-yaer PA funding plan; c) developing institution capacity to raise management cost-effectiveness and improving legal/policy environment for PA financial sustainability."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

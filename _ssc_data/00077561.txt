@@ -12,7 +12,7 @@ partner_type:
 project_title: "Democractic strengthening of Political Organizations"
 scale: national
 project_objective: "The project aims to strengthen political organisations in Bolivia"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

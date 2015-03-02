@@ -12,7 +12,7 @@ partner_type:
 project_title: "Suppliers Development Programme"
 scale: national
 project_objective: ""
-territorial_focus: HIC
+territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

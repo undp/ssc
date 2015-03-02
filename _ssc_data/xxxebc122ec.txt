@@ -11,7 +11,7 @@ partner_type:
 project_title: "Capacity development of Judiciary in the Maldives through South-South Cooperation Modality"
 scale: national
 project_objective: "To provide technical support to the Judiciary (Supreme Court) in developing the training curriculum for the Justice Training Centre."
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

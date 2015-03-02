@@ -11,7 +11,7 @@ partner_type:
 project_title: "Mitigation Action Plans and Scenarios Project (MAPS)"
 scale: national
 project_objective: "To accelerate political commitment for the formulation and implementation of ambitious mitigation action by building a broad base of support among domestic stakeholders through the development of sound evidence to support climate mitigation. "
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

@@ -11,7 +11,7 @@ partner_type:
 project_title: "Strengthening Disaster Risk Management Capacities in Uzbekistan"
 scale: national
 project_objective: "To build upon and expand the UNDP Uzbekistan assistance to paramount institutions empowered to create sustainable mechanisms for disaster risk reduction and to raise the disaster risk reduction capacities of the Ministry of Emergency situations etc. The project will be implemented in phases and will provide a multi dimensional platform to deliver capacity development and assistance. The overall objective will focus on : 1) Strengthening the capacities of Ministry of Emerging Situation and other disaster risk reduction stakeholders in Uzbekistan to migate, reduce the disaster risks and respond in a timely and strategic manner to any major catastrophic life threatening event in Tashkent and other high-risk locations; 2) Expanding community-based disaster risk reduction activities in accordance with national guidelines on preparedness, mitigation and response activities to a natural disaster; 3) Enhancing the capacity of the United Nations country team to create a unified disaster preparedness and response strategy to support Uzbekistan in the event of a catastrophic disaster. "
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

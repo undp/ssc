@@ -12,7 +12,7 @@ partner_type:
 project_title: "Integrated Water Resources Management"
 scale: national
 project_objective: "To address the development of Integrated Water Resource Management (IWRM) mechanisms and Water Use Efficiency strategies, policy and legislative reforms, institutional and human resource capacity building; through the adoption of an integrated and participatory management approach and promoting more effective, appropriate technologies and methodologies as well as the adoption of strategies to deal with extreme and chronic events and of more appropriate resource valuation and pricing policies.There are 6 participating SIDS namely Cape Verde, Comoros, Maldives, Mauritius, Sao Tome and Principe, and Seychelles and each country has a different demo project executed by UNDP and a capacity building component executed by UNEP."
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

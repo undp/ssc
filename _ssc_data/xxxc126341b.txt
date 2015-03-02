@@ -11,7 +11,7 @@ partner_type:
 project_title: "Trilateral Cooperation Cassava Project, Phase II"
 scale: national
 project_objective: "To help moving Cambodian producers (especially smallholders), processors and exporters of cassava up the value chain, by increasing their revenue and generating employment.  It also helps stakeholder to better understand export market requirements. "
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 

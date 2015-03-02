@@ -14,7 +14,7 @@ partner_type:
 project_title: "South-South and Triangular Cooperation for SME Development in Asia"
 scale: national
 project_objective: "To support the strengthening of SME policy formulation and institutional reform as well as institutional support for training, technological exchanges and market access in LDCs and other countries in the region through SSC. The project will utilize the experience of TECHNONET Asia and well as the facilities of the SS-GATE in supporting SMEs and for SME Technology development.  Facilitating SS/TrC for knowledge sharing on SMEs is a core strategy of this project towards scaling up SME development in Asia. "
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 

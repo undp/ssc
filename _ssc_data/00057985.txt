@@ -14,7 +14,7 @@ partner_type:
 project_title: "Programme of Local Support to the Modernisation of the Farming Sector in Cuba (PALMA Programme)"
 scale: national
 project_objective: "To support modernization of agriculture in Cuba"
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

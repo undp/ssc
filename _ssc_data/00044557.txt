@@ -11,7 +11,7 @@ partner_type:
 project_title: "Support to territorial networks for local governance and development (ART GOLD)"
 scale: national
 project_objective: "To strengthen national and local capacities for budgetary and fiscal policies for the poor, and develop them in line with the PRSP and MDGs"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

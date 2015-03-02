@@ -13,7 +13,7 @@ partner_type:
 project_title: "Support to the legislative development process and implementation of the consultation rights and the participation of indigenous population in Bolivia"
 scale: national
 project_objective: "Support the process of legislative development and implementation of the right to consultation and participation of indigenous peoples in Bolivia"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
   - knowledge_broker

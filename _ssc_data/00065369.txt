@@ -19,7 +19,7 @@ partner_type:
 project_title: "Governance, marine resources management policies and poverty reduction in West African Marine Eco Region"
 scale: regional / multi-country
 project_objective: "To contribute to poverty reduction and food security strengthening for coastal communities in West Africa Marine Eco Region (WAMER). "
-territorial_focus: LDC, MIC, SIDS
+territorial_focus: ldc,mic,sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

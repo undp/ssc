@@ -12,7 +12,7 @@ partner_type:
 project_title: "Support for the immediate response and early recovery planning of the negative effects caused by Hurricane Sandy in eastern Cuba"
 scale: national
 project_objective: ""
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

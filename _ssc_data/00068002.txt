@@ -10,7 +10,7 @@ partner_type:
 project_title: "Technical support to conditional transfer"
 scale: national
 project_objective: "To provide technical support  to the Government of Haiti for the formulation and implementation of conditional transfer programs gender sensitive species"
-territorial_focus: Fragile State
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 partner_location: 

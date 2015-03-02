@@ -12,7 +12,7 @@ partner_type:
 project_title: "Volunteer Program"
 scale: national
 project_objective: ""
-territorial_focus: LDC
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 partner_location: 

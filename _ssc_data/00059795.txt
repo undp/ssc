@@ -11,7 +11,7 @@ partner_type:
 project_title: "Energy-Efficient Design and Construction of Residential Buildings"
 scale: national
 project_objective: "To decrease GHG emissions from new residential buildings by transforming practices and markets in the building sector of Kazakhstan towards more energy-efficient design and construction."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

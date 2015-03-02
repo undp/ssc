@@ -11,7 +11,7 @@ partner_type:
 project_title: "A Strong Parliament in a Consolidated Democracy"
 scale: national
 project_objective: "To support the parliament in the four main areas of its constitutional responsibility: law-making, setting policy direction, executive oversight, and representation."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

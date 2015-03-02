@@ -12,7 +12,7 @@ partner_type:
 project_title: "Mainstreaming Migration in National Development Strategies Project"
 scale: national
 project_objective: "To mainstream migration into national development strategies"
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

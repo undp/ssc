@@ -13,7 +13,7 @@ partner_type:
 project_title: "Policy Support Programme"
 scale: national
 project_objective: "To promote policy reforms through research, dialogue, consensus building, knowledge management and partnerships between the government and academia, policy think tanks, civil society and regional/international experts."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

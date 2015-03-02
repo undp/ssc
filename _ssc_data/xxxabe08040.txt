@@ -11,7 +11,7 @@ partner_type:
 project_title: "Strengthening of the Security Government to support violence and crime  prevention, control in Dominican Republic"
 scale: national
 project_objective: ""
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

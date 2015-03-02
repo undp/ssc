@@ -12,7 +12,7 @@ partner_type:
 project_title: "Rain Recovery Process for Arequipa Region"
 scale: national
 project_objective: ""
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

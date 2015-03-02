@@ -13,7 +13,7 @@ partner_type:
 project_title: "Strengthening governance systems in spatial planning to address uncontrolled building and implementation of the new planning legislation"
 scale: national
 project_objective: "To secure capacity for efficient implementation of the Law on spatial planning and construction, and ensuring sustainable planning practices in the northern Montenegro. This is to be achieved through three activities: 1 Sustainable spatial planning and development in Municipalities in Northern Montenegro 2 Efficient implementation of the spatial planning legislation and active participation of civil society 3. Ministry of Sustainable Development and Tourism is capacitated to implement the Strategy on Formalization of Informal Settlements, employing innovative climate change mitigation and adaptation measures in order to increase a stock of legalized objects and increase revenues from this source to local and central budget and decrease energy consumption on a household level"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

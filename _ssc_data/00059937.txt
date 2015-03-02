@@ -13,7 +13,7 @@ partner_type:
 project_title: "Improving Energy Efficiency in Buildings"
 scale: national
 project_objective: "The objective of the GEF full size project is to reverse the existing trends and reduce consumption of electrical and thermal energy and associated GHG emissions in new and restored, primarily residential buildings in Armenia. It will do this by creating enabling regulatory environment, skills and capacity among industry professionals to introduce the principles of integrated building design in Armenian construction practices from the stage of building design through construction to maintenance of the buildings. The support to be provided by the project will combine development of a new regulation (EE building codes and certification scheme) with the training of professionals, demonstration of integrated building design and stimulating manufacturing of new EE materials and equipment. "
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
   - knowledge_broker

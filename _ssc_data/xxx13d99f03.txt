@@ -12,7 +12,7 @@ partner_type:
 project_title: "Bi-national Humboldt Current Large Marine Ecosystem (HCLME) Project"
 scale: national
 project_objective: ""
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

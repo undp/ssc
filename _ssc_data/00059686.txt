@@ -11,7 +11,7 @@ partner_type:
 project_title: "Youth Exchange Programme for the Ministry of Foreign Affairs"
 scale: national
 project_objective: "To benefit from the diplomatic achievements of the Ministry of Foreign Affairs (MOFA) and them in the service of the Kingdom's vision to strengthen the culture of dialogue among nations. In this respect, the project has a set of outputs as follows: 1) participation of the Saudi youth in international forums to enhance their leadership and dialogue skills; 2) encouragement of the youth contribution to the national development process; and 3) promoting youth participation in their local communities."
-territorial_focus: HIC
+territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

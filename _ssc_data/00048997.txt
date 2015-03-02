@@ -12,7 +12,7 @@ partner_type:
 project_title: "Benguela Current Strategic Action Plan Implementation-The BCLME Programme"
 scale: national
 project_objective: "To develop a transboundary intergovernmental management process for the Benguela Current Large Marine Ecosystem. The Programme has been highly successful in developing regional partnerships in support of transboundary LME resource management, and in capturing accurate knowledge on ecosystem functions and trends. Also, the activities supported by the BCLME Programme have made a significant contribution to capacity building and knowledge enhancement and successfully captured vital information necessary for an integrated, ecosystem based approach to LME management. Furthermore, regional collaboration at both the public and private sector levels has been significantly strengthened. A GEF co-sponsored initiative of the governments of Angola, Namibia and South Africa."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 

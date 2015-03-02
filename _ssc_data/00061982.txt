@@ -14,7 +14,7 @@ partner_type:
 project_title: "Strengthening capacities at national and local levels about information systems for risk reduction and climate change"
 scale: national
 project_objective: "To monitor, report and verify emissions of greenhouse gases to identify opportunities for National Appropriate Mitigation Actions ( NAMAs) in the context of national development, and support the design of strategies for low-emission development (LED ) and facilitate the adoption of mitigation measures for selected sectors."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

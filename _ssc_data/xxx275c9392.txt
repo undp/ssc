@@ -11,7 +11,7 @@ partner_type:
 project_title: "82932 Project title was not indicated"
 scale: national
 project_objective: ""
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

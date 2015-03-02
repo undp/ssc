@@ -11,7 +11,7 @@ partner_type:
 project_title: "Democratic Empowerment Project (DEP) of 2013 – 2016"
 scale: national
 project_objective: "To strengthen the capacity of democratic institutions such as the EMBs, political parties, judiciary, police, media and civil society to fulfil their respective mandate especially in relation to the 2015 general elections.   "
-territorial_focus: LDC
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 partner_location: 

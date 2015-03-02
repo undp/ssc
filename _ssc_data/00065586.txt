@@ -11,7 +11,7 @@ partner_type:
 project_title: "Mobilize Social Business to Accelerate Achievement of Timor-Leste MDGs"
 scale: national
 project_objective: "To engage social enterprises will contribute to the reduction of poverty in rural Timor-Leste and generate rural employment and income."
-territorial_focus: Fragile State
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 partner_location: 

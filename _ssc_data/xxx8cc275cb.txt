@@ -13,7 +13,7 @@ partner_type:
 project_title: "Capacity development for  development effectiveness (CDDE) facility for Asia and Pacific"
 scale: regional / multi-country
 project_objective: "To help countries share country level experiences in the Asia-Pacific region to enhance development effectiveness. It also seeks to support wider development effectiveness knowledge with on the ground examples of successes and lessons learned on the demand-driven basis. CDDE has over 1,000 members from 74 countries across Asia and the Pacific, Middle-East, Africa, North America, Latin America, Europeand CIS countries. 27Asia-Pacific countries have so far benefited from the CDDE Facility, including: Afghanistan, Bangladesh, Bhutan, Cambodia, Cook Islands, Fiji, India, Indonesia, Japan, Kiribati, Korea, Kyrgyzstan, Lao PDR, Maldives, Mongolia, Nepal, Pakistan, Papua New Guinea, Philippines, Samoa,Solomon Islands, Sri Lanka, Thailand, Timor-Leste, Tonga, Vanuatu and Vietnam."
-territorial_focus: Fragile State, LDC, MIC
+territorial_focus: fragile_states,ldc,mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

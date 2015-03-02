@@ -11,7 +11,7 @@ partner_type:
 project_title: "China - Cambodia - UNDP Trilateral Cooperation Cassava Project"
 scale: national
 project_objective: "The current project is an extension of Phase I of Trilateral Cooperation Cassava project started in 2012.  to contribute to move Cambodian producers (especially smallholders), processors and exporters of cassava up the value chain, therefore targeting more sustained growth of the sector, increased revenue and, possibly, employment generation. It will seek to help producers, processors and exporters to better assess and understand Chinese market requirements when it comes to imports of commodities from Cambodia, bearing in mind the preferential market access Cambodia is enjoying with China. For the Government of China, this project reflects China's efforts to further deepen and broaden its cooperation with other developing countries pursuant to the Memorandum of Understanding signed between China and UNDP in September 2010."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

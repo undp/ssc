@@ -13,7 +13,7 @@ partner_type:
 project_title: "Planning for disaster disk reduction, Planning for disaster disk reduction, Planning for disaster disk reduction, Planning for disaster disk reduction"
 scale: national
 project_objective: "To enhance national, regional and local capacity for disaster risk management in Chile"
-territorial_focus: HIC
+territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

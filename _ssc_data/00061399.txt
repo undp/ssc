@@ -12,7 +12,7 @@ partner_type:
 project_title: "Scaling up the response - Strengthening Strategy Treatment Tuberculosis in Haiti"
 scale: national
 project_objective: "To build on the progress already made to improve, expand DOTS and reducing the rate of multi-resistant tuberculosis"
-territorial_focus: Fragile State
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

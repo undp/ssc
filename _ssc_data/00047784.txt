@@ -14,7 +14,7 @@ partner_type:
 project_title: "Fostering multi-stakeholder partnerships to achieve MDGs  in the Western CIS and Caucasus  in the framework of UN Global Compact"
 scale: national
 project_objective: "To harness value-creating assets of the private sector for poverty reduction in the Western CIS and Caucasus through promotion of multistakeholder partnerships in the framework of Global Compact.  The target countries include Armenia, Azerbaijan, Georgia, Belarus, Russia, Ukraine and Moldova."
-territorial_focus: HIC
+territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

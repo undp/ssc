@@ -12,7 +12,7 @@ partner_type:
 project_title: "UNDP Project Youth Innovation (Youth-IN): A Caribbean Network for Youth Development Project in CARICOM and Member States"
 scale: regional / multi-country
 project_objective: ""
-territorial_focus: MIC, LDC, Fragile State
+territorial_focus: mic,ldc,fragile_states
 undp_role_type: 
   - knowledge_broker
 partner_location: 

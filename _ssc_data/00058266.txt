@@ -14,7 +14,7 @@ partner_type:
 project_title: "Financial Sustainability of Carpathian Protected Areas"
 scale: national
 project_objective: "To secure the financial sustainability of Romania's Carpathian Network of Protected Areas (CNPA) as a model for replication to the entire Carpathian Network of Protected Areas. This objective will be realized through two components: (i) Strengthening the supportive legislative framework and Sustainable Protected Areas Financing Strategy; (ii) Strengthening the institutional and individual capacities of management authorities and other local stakeholders to develop and implement sustainable financing of protected areas."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

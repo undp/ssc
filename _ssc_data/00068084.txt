@@ -11,7 +11,7 @@ partner_type:
 project_title: "Area-Based Development Programme in Kyrgyzstan"
 scale: national
 project_objective: "To introduce Area-Based development approach and support the establishment of an integrated planning and implementation framework for a comprehensive (multi-sector, multi-level and multi-agency), coordinated, pro-poor and pro-growth approach to sustainable development at rayon and ayil-okmotyus' levels."
-territorial_focus: LDC
+territorial_focus: ldc
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 

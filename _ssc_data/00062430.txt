@@ -11,7 +11,7 @@ partner_type:
 project_title: "Strengthening of the Democratic Process in Egypt"
 scale: national
 project_objective: "To support national efforts to enhance the credibility and sustainability of electoral institutions and processes, with a particular emphasis on capacity development and women's empowerment. The project focuses on four components: public outreach and voter information, upgrading technical and operational capacity of national electoral authorities; Elections Process benefitting from Lessons Learned, and Access of Women and Rural Dwellers to their Citizenship Rights ."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

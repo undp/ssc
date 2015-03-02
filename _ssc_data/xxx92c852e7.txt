@@ -12,7 +12,7 @@ partner_type:
 project_title: "Frontera Verde GEF – Artibonite Project"
 scale: national
 project_objective: ""
-territorial_focus: Fragile State
+territorial_focus: fragile_states
 undp_role_type: 
   - capacity_builder
   - knowledge_broker

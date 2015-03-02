@@ -12,7 +12,7 @@ partner_type:
 project_title: "Country Pilot Partnership on Sustainable Land Management - Supporting Implementation of the Cuban National Programme to Combat Desertification and Drought (CPP 5)"
 scale: national
 project_objective: "Coordination, Monitoring and Evaluation of Cuba Country Pilot Partnership on sustainable Land Management "
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

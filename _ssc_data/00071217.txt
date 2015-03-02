@@ -11,7 +11,7 @@ partner_type:
 project_title: "Climate Change and Greening South Africa's Economy"
 scale: national
 project_objective: "To support Government in realizing its national priorities of greening the South African economy focusing on promoting sustainable energy for all, and enhancing biodiversity management"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

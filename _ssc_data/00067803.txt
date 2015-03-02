@@ -12,7 +12,7 @@ partner_type:
 project_title: "South-South and Triangular Cooperation"
 scale: national
 project_objective: "Objectives: Strengthen South-South and Triangular Cooperation country through strategies to improve capacities for promoting South-South cooperation and technical capacity within the International Cooperation Agency of Colombia. This strategy that seeks to: (i) improve the capacity to promote South-South cooperation and technical capacity within  the Presidential Agency for International Cooperation, (ii) Strengthen the management of knowledge for South-South cooperation and triangular cooperation, and (iii) Strengthen the presence of Presidential Agency for International Cooperation in the context of CSS and TC strategies in priority regions by the Government"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
 partner_location: 

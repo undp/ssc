@@ -11,7 +11,7 @@ partner_type:
 project_title: "Strengthening institutional capacity of the national parliament in Timor-Leste"
 scale: national
 project_objective: "To strengthen parliamentary democracy and institutional capacity of the National Parliament in Timor Leste."
-territorial_focus: Fragile State
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

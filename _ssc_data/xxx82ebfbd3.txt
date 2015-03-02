@@ -17,7 +17,7 @@ partner_type:
 project_title: "Sustainable Land Management  Projects in  Barbados, Dominica, Grenada, St Lucia, St Kitts and Nevis and St Vincent"
 scale: regional / multi-country
 project_objective: ""
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

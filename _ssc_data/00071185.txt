@@ -11,7 +11,7 @@ partner_type:
 project_title: "Strengthening Democratic Governance"
 scale: national
 project_objective: "To strengthen service delivery and democratic governance through interventions to improve oversight & accountability; and utilize global networks and S-S Cooperation to expand local knowledge and facilitate access to good practices"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

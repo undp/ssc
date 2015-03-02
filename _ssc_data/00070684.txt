@@ -12,7 +12,7 @@ partner_type:
 project_title: "Strengthening Participatory Federalism and Decentralization"
 scale: national
 project_objective: "To strengthen participatory federalism & decentralization through support to the Ministry of Inter Provincial Coordination and the Provincial Governments and in accordance with the 18th Constitutional Amendment."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
   - knowledge_broker

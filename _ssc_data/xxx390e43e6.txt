@@ -11,7 +11,7 @@ partner_type:
 project_title: "Trifinio Region: South-South Cooperation within a tri-national horizontal partnership"
 scale: national
 project_objective: "To achieve integral sustainable development in the region Trifinio through the formulation and implementation of policies, plans, sub-regional and inter-city programs and projects; to create regional public policies through the inter-municipal CSS strategy involving managers, technicians, mayors, NGOs, trade and service chambers and with international partners."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 

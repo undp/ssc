@@ -11,7 +11,7 @@ partner_type:
 project_title: "The Greater Tumen Initiative (GTI)"
 scale: national
 project_objective: "GTI is an intergovernmental cooperation mechanism among China, Mongolia, Republic of Korea and the Russian Federation, supported by UNDP."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 

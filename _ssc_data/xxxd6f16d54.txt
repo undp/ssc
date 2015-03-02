@@ -12,7 +12,7 @@ partner_type:
 project_title: "Disaster Preparedness Programme (DIPECHO)"
 scale: national
 project_objective: "by European Commission Humanitarian Office (ECHO)"
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

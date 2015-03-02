@@ -11,7 +11,7 @@ partner_type:
 project_title: "Inclusive Pro-Poor Development Policies"
 scale: national
 project_objective: "To produce four broad outputs in four broad areas: access to financial services and other productive resources; institutional capacity for pro-poor policies; mainstreaming poverty into development processes; and social Protection"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
 partner_location: 
 published: true

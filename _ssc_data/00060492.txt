@@ -11,7 +11,7 @@ partner_type:
 project_title: "Improving the Resilience of the Agriculture Sector in Lao PDR to Climate Change Impacts"
 scale: national
 project_objective: "To address impacts of climate change on the agriculture sector, with an emphasis on developing and piloting new adaptation actions and activities within existing agro-ecosystems."
-territorial_focus: LDC
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 partner_location: 

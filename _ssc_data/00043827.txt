@@ -12,7 +12,7 @@ partner_type:
 project_title: "Mainstreaming and sustaining Biodiversity Conservation in three Productive Sectors of the Sabana Camagüey Ecosystem"
 scale: national
 project_objective: ""
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

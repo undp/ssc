@@ -11,7 +11,7 @@ partner_type:
 project_title: "Reengineering the National Protected Area System"
 scale: national
 project_objective: "To strengthen the financial sustainability of the National System of Protected Areas ( SINAP ) in Dominican Republic."
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

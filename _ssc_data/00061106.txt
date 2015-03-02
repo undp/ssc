@@ -11,7 +11,7 @@ partner_type:
 project_title: "Articulating Territorial and Thematic Networks for Local Governance and developpment (ART GOLD"
 scale: national
 project_objective: "ART GOLD is an umbrella program that provides technques, instruments and financial resources for advancing of decentralization."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

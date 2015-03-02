@@ -12,7 +12,7 @@ partner_type:
 project_title: "Voice Youth Civic Engagement and Participation at Local Level"
 scale: national
 project_objective: "To increase youth participation in local governance and ensure more equitable social service delivery through social partnerships. It is expected that this project will contribute to greater youth participation in policy making processes. This is critical for the overall cohesiveness of society and an essential factor for enhancing inter-ethnic dialogue in the country."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

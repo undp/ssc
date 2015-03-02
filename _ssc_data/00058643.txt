@@ -11,7 +11,7 @@ partner_type:
 project_title: "Reduction and Prevention of pollution from land in the Rio de la Plata and its Maritime Front through implementation of the Strategic Action Programme"
 scale: national
 project_objective: "To advance towards the sustainability of uses and resources of the Rio de la Plata and its Maritime Front through implementation of the strategic action program aimed at the reduction and prevention of pollution from land"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

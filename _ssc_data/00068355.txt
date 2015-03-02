@@ -11,7 +11,7 @@ partner_type:
 project_title: "Integrated Governance Programme"
 scale: national
 project_objective: "To improve different aspects of governance in the country. The project consists of a battery of 14 projects"
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

@@ -11,7 +11,7 @@ partner_type:
 project_title: "Linking Environment and Security in Belarus"
 scale: national
 project_objective: "The project aims to promote environmental sustainability in Belarus taking into consideration the security aspect with a special focus on regional cooperation."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

@@ -13,7 +13,7 @@ partner_type:
 project_title: "Programme Development of the European Centre for Cross-Sector Partnership (IMPACT)"
 scale: national
 project_objective: "To further develop the capacities of the IMPACT Centre to become a civil society organizations' knowledge centre."
-territorial_focus: HIC
+territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

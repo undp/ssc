@@ -20,7 +20,7 @@ partner_type:
 project_title: "The South Eastern and Eastern Europe Clearinghouse for the Control of Small Arms and Light Weapons (SEESAC)"
 scale: regional / multi-country
 project_objective: "To enhance regional cooperation providing information sharing and local standard setting geared toward direct project formulation and implementation. "
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

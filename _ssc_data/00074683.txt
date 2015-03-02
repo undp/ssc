@@ -11,7 +11,7 @@ partner_type:
 project_title: "Effective Public Financial Management"
 scale: national
 project_objective: "To advance strategic partnerships with emerging economies and support democratic electoral management"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
   - knowledge_broker

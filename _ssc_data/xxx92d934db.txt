@@ -11,7 +11,7 @@ partner_type:
 project_title: "Africa Adaptation Programme: a Cross-Practice Approach"
 scale: national
 project_objective: ""
-territorial_focus: LDC
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 partner_location: 

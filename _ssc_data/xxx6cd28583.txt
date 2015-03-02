@@ -11,7 +11,7 @@ partner_type:
 project_title: "Development of small and medium size entreprises for the promotion of economic inclusion and business  competitiveness"
 scale: national
 project_objective: "To strengthen small and medium enterprises to promote economic inclusion and business competitiveness through the methodological transfer of the Supplier Development Program (SDP)."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

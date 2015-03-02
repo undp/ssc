@@ -12,7 +12,7 @@ partner_type:
 project_title: "Quality Management With Equity Programme"
 scale: national
 project_objective: "The programme certifies companies with gender-friendly labour policies"
-territorial_focus: HIC
+territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

@@ -11,7 +11,7 @@ partner_type:
 project_title: "Capacity Enhancement for Intensive International Integration of Viet Nam towards 2020"
 scale: national
 project_objective: "To develop national capacity for formulating and implementing international integration policies that best serve Viet Nam's development needs and the targets of the Socio-Economic Development Strategy 2011-2020."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
 partner_location: 

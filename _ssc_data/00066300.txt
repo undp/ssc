@@ -14,7 +14,7 @@ partner_type:
 project_title: "Initial Implementation of Accelerated HCFC Phase Out in the CEIT Region"
 scale: national
 project_objective: "To address the ODS focal area's strategic programme,  which is aimed at phasing out of HCFC (from production and consumption) and strengthening of capacities and institutions in participating countries. More specifically, this is in reference with the GEF Focal Area Strategy and Strategic Programming for GEF-4 document on Ozone (GEF/C, 31/10 May 11, 2007), which contains the following main objective:  For the period of GEF-4, the GEF will assist eligible countries in meeting their HCFC phase out obligations under the Montreal Protocol, and strengthening capacities and institutions in those countries that still are faced with difficulties in meeting their reporting obligations. More specifically, the project addresses the following two Outcomes of Strategic Program 1 on phasing out HCFCs and strengthening of capacities and institutions for GEF-4:   HCFCs are phased-out according to Montreal Protocol schedule, or faster, in GEF-eligible countries;  GEF-eligible countries meet their reporting obligations under the Montreal Protocol "
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

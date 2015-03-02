@@ -14,7 +14,7 @@ partner_type:
 project_title: "Human Development and Social Rights"
 scale: national
 project_objective: "The project aims to influence public policies promoting strengthening the processes of public debate , the development of institutional capacities and analysis about achieving improvements in Human Development ."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

@@ -14,7 +14,7 @@ partner_type:
 project_title: "Participatory Citizenry in Bolivia"
 scale: national
 project_objective: ""
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

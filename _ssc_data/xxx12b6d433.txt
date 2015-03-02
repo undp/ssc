@@ -12,7 +12,7 @@ partner_type:
 project_title: "Support to the strengthening of the Peruvian Agency of International Cooperation (APCI) new management at national and international levels"
 scale: national
 project_objective: ""
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
 partner_location: 

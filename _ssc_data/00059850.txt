@@ -13,7 +13,7 @@ partner_type:
 project_title: "Empowering Vulnerable Local Communities of Albania"
 scale: national
 project_objective: "(1) support participation of vulnerable communities in local decision making –through identification of priorities and preparation of Community Development Plans. Following the development priorities identified through Community Based Organizations, the programme works closely with local governments to complete a number of community infrastructure projects, such as roads, health centres, kindergartens, community centres etc;(2) To help  vulnerable communities   access their rights, particularly access to public services –through civil registration, community policing, establishing and strengthening network of Roma mediators in areas of health education and child protection as well as  supporting vocational training and employment. 3- To promote policies and institutional strengthening for social inclusion of vulnerable communities through – capacity building and assistance to local and central government institutions and build capacities of Roma and Egyptian NGOs. In 2008 Albania joined the regional initiative 'Decade of Roma Inclusion' which aims to close the gap in welfare and living conditions between the Roma and non-Roma populations as well as putting an end to poverty and exclusion that many Roma find themselves in.  Based on that Albania developed a national Decade Action Plan that specifics the goals and indicators in the areas of education, employment, health and housing."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
   - knowledge_broker

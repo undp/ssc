@@ -12,7 +12,7 @@ partner_type:
 project_title: "Regional Knowledge Sharing Project and Risk Reduction Management Centre (under Caribbean Risk Management Initiative II Project)"
 scale: national
 project_objective: ""
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

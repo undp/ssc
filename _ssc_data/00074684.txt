@@ -11,7 +11,7 @@ partner_type:
 project_title: "Strengthening Climate Change Planning and Implementation"
 scale: national
 project_objective: "Objectives: to support national efforts in addressing climate change through specific interventions in three project areas: Capacity Building: Supporting Climate Change Planning and Implementation Processes; Climate Change Mitigation: Energy Efficiency in Small and Medium Enterprises in the Steel Re- rolling Sector; Climate Change Adaptation: Reducing Vulnerabilities to Climate Change and Disaster Risk through Integrated Water Management"
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
   - knowledge_broker

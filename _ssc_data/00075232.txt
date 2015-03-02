@@ -10,7 +10,7 @@ partner_type:
 project_title: "South South Triangular Cooperation by Government of Iraq"
 scale: national
 project_objective: "To enable the GoI in establishing the institutional arrangement and provide the capacity building to promote the SSC, which can be the foundation of Iraq becoming a donor in the international development field."
-territorial_focus: Fragile State
+territorial_focus: fragile_states
 undp_role_type: 
   - capacity_builder
 partner_location: 

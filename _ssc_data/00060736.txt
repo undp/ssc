@@ -11,7 +11,7 @@ partner_type:
 project_title: "South-South Project to Strengthen the Ministry of Public Health and Population"
 scale: national
 project_objective: "This project falls within the framework of the Memorandum of Understanding between Brazil, Cuba and Haiti, to the strengthening of the health system and epidemiological surveillance in Haiti between the Ministries of Health of Brazil, Cuba and Haiti in the context of reconstruction of that country. It seeks the institutional strengthening of the health authority: Ministry of Public Health and Population of Haiti, strengthening the capacity of epidemiological surveillance, vocational training of Haitian health technicians and training of community health workers. "
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

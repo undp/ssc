@@ -11,7 +11,7 @@ partner_type:
 project_title: "Promotion of the Slovak Transitional Experience"
 scale: national
 project_objective: "To enhance  development cooperation between Slovakia and its target countries with a special focus on sharing the Slovak transitional experience, promotion of the official development aid (ODA) cadre and strengthening of the ODA system in the international context. Among the expected outputs are: Slovak transitional experience and best practices are shared across the region; improved knowledge and skills of public officials involved in IDA activities; increased involvement of Slovak professionals and experts in UNDP regional and country programme activities.Priority countries: Afghanistan, Kenya and Serbia. Other priority countries: Albania, BiH, Macedonia, Montenegro, Belarus, Ukraine, Kazakhstan, Kyrgyzstan, Mongolia, Tajikistan, Uzbekistan and Sudan. "
-territorial_focus: HIC
+territorial_focus: hic
 undp_role_type: 
   - capacity_builder
 partner_location: 

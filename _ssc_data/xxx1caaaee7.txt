@@ -12,7 +12,7 @@ partner_type:
 project_title: "TFPG- Cleaner production:  “Development of the Cleaner Production in the Sugar and Byproducts Industries”"
 scale: national
 project_objective: ""
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

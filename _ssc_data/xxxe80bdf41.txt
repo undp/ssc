@@ -11,7 +11,7 @@ partner_type:
 project_title: "Regional risk reduction initiative (RRI)"
 scale: regional / multi-country
 project_objective: ""
-territorial_focus: LDC, Fragile State, MIC
+territorial_focus: ldc,fragile_states,mic
 undp_role_type: 
   - capacity_builder
 partner_location: 

@@ -11,7 +11,7 @@ partner_type:
 project_title: "Peaceful resolution of territorial conflicts in Guatemala and Colombia / Resolución pacífica de conflictos territoriales en Guatemala y Colombia"
 scale: national
 project_objective: "To recognize the potential for a mutual exchange of best practices and lessons learned in land conflict resolution between Colombia and Guatemala."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

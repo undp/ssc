@@ -10,7 +10,7 @@ partner_type:
 project_title: "First Regional South-South Cooperation fair, Knowledge from the South"
 scale: national
 project_objective: "UNDP Barbados supported the 1st Regional South-South Cooperation (SSC) Fair, Knowledge from the South: Regional Exchange of Solutions, organized by the UNS, and UNDP RSC-LAC, hosted by the Government of Panama"
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

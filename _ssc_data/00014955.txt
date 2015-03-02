@@ -11,7 +11,7 @@ partner_type:
 project_title: "Enhancing the Democratic Rule of Law through Strengthening the Justice System in Timor-Leste (Revised Justice System Programme)"
 scale: national
 project_objective: "To consolidate the Democratic Rule of Law and Peace through a strong Justice System in Timor-Leste (Revised Justice System Programme)"
-territorial_focus: Fragile State
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 partner_location: 

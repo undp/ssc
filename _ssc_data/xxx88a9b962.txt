@@ -11,7 +11,7 @@ partner_type:
 project_title: "UN-REDD Solomon Islands Programme: Support to Initial Readiness"
 scale: national
 project_objective: "To establish the necessary institutional and individual capacities required to develop full REDD+ readiness in the Solomon Islands"
-territorial_focus: Fragile State
+territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 

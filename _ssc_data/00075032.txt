@@ -11,7 +11,7 @@ partner_type:
 project_title: "Strengthening climate information and early warning systems in Western and Central Africa for climate resilient development and adaptation to climate change São Tomé and Príncipe"
 scale: national
 project_objective: "To promote environmentally sustainable and climate-resilient grid-based hydroelectric electricity through an integrated approach in São Tomé and Principe"
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 

@@ -12,7 +12,7 @@ partner_type:
 project_title: "Environmental Bases for Local Food Sustainability Project (BASAL)"
 scale: national
 project_objective: "The project's overall objective is to support adaptation to climate change, contributing to continued and sustainable socio- economic development of the Republic of Cuba."
-territorial_focus: SIDS
+territorial_focus: sids
 undp_role_type: 
   - capacity_builder
   - knowledge_broker

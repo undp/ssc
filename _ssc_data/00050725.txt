@@ -11,7 +11,7 @@ partner_type:
 project_title: "Technical Assistance Program for SSC Integration (Asistencia Técnica Para La Integración Sur-Sur)"
 scale: national
 project_objective: "To develop technical assistance, activities for South-South integration with particular focus on the MERCOSUR. 3 products: (1). Studies on the new scenarios and other consequences arising from the results of multilateral negotiations,  in particular its impact on regional and bilateral negotiations and the processes of trade liberalization and South-South cooperation Integration; (2). Studies to identify the productive specialization of Argentina in MERCOSUR to consolidate the integration process of MERCOSUR and the eradication of asymmetries among State Parties."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 

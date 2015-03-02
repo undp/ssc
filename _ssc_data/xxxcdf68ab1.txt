@@ -11,7 +11,7 @@ partner_type:
 project_title: "China-Africa-UNDP Trilateral Cooperation Project"
 scale: national
 project_objective: "To deploy the combined development strengths, expertise and experience of UNDP and the Chinese Government to maximize the socially and environmentally sustainable development impacts of poverty reduction projects in Africa. The Government of China contributed $1 million for the project."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 

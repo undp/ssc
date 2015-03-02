@@ -11,7 +11,7 @@ partner_type:
 project_title: "Capacity Support for South-South Cooperation"
 scale: national
 project_objective: "The project's Objective to provide programmatic and operational framework for widening UNDP support to the Government of Brazil cooperation activities in the SSC, to build up the operational and programmatic arrangements for expeditious delivery of current commitments, as well as ensure a more structured SSC intervention in the future for Brazil that meets development concerns and also is aligned with the recipient countries' needs. The Government of Brazil identified the following priority regions for its SSC interventions: Central and South America and Caribbean (Haiti, Guatemala, Cuba, Argentina, etc.); West and Sub-Saharan Africa (Guinea Bissau, Sao Tome & Principe, Mozambique, Cape Verde, Angola, and the Cotton 4-Burkina Faso, Mali, Benin, and Chad); South East Asia (East Timor), however SSC initiative might include other regions and countries. "
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

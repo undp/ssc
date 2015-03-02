@@ -13,7 +13,7 @@ partner_type:
 project_title: "Promotion of Access to Justice through the implementation of  the Criminal Procedure Code"
 scale: national
 project_objective: ""
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

@@ -12,7 +12,7 @@ partner_type:
 project_title: "Strategic development, peace and reconcilation networks"
 scale: national
 project_objective: "To contribute to social peace building, human development, democratic governance and reconciliation by supporting and strengthening the national and territorial areas of civil society initiatives and the State."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
 partner_location: 

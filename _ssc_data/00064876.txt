@@ -12,7 +12,7 @@ partner_type:
 project_title: "Millennium Development Goals at the Local Level"
 scale: national
 project_objective: "The project's strategy is based on the belief that the fulfillment of the Millennium Development Goals is in the hands of local governments."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 

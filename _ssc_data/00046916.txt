@@ -11,7 +11,7 @@ partner_type:
 project_title: "Support for the Realisation CAP UNDAF 2012-2016 (Appui à la Realisation du CAP UNDAF 2012-2016)"
 scale: national
 project_objective: "Reinforcement of cooperation programmes of UNDP in Morocco. to promote and reinforce Morocco's participation in the internationla networks of cooperation and development."
-territorial_focus: MIC
+territorial_focus: mic
 undp_role_type: 
   - capacity_builder
 partner_location: 
