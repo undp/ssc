@@ -72,8 +72,8 @@
     "forFilter": "location"
   },
   {
-    "name": "Sustainable development",
-    "short": "sustainable_development",
+    "name": "Sustainable development pathways",
+    "short": "sustainable_development_pathways",
     "type": "thematic_focus",
     "forFilter": "theme"
   },
@@ -84,14 +84,14 @@
     "forFilter": "theme"
   },
   {
-    "name": "Democratic governance",
+    "name": "Inclusive and effective democratic governance",
     "short": "inclusive_and_effective_democratic_governance",
     "type": "thematic_focus",
     "forFilter": "theme"
   },
   {
-    "name": "Capacity builder",
-    "short": "capacity_builder",
+    "name": "Builder of capacities",
+    "short": "builder_of_capacities",
     "type": "undp_role_type",
     "forFilter": "role"
   },
@@ -136,5 +136,23 @@
     "short": "hic",
     "type": "territorial_focus",
     "forFilter": "territorial_focus"
+  },
+  {
+    "name": "Global",
+    "short": "global",
+    "type": "scale",
+    "forFilter": "scale"
+  },
+  {
+    "name": "Regional",
+    "short": "regional",
+    "type": "scale",
+    "forFilter": "scale"
+  },
+  {
+    "name": "National",
+    "short": "national",
+    "type": "scale",
+    "forFilter": "scale"
   }
 ]

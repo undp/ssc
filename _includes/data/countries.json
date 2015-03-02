@@ -6,7 +6,8 @@
     "terr_name": "Aruba",
     "lat": "12.515627",
     "iso3": "ABW",
-    "lon": "-69.975641"
+    "lon": "-69.975641",
+    "type": "country"
   },
   {
     "terr_id": "1",
@@ -15,7 +16,8 @@
     "terr_name": "Afghanistan",
     "lat": "33.838806",
     "iso3": "AFG",
-    "lon": "66.026471"
+    "lon": "66.026471",
+    "type": "country"
   },
   {
     "terr_id": "6",
@@ -24,7 +26,8 @@
     "terr_name": "Angola",
     "lat": "-12.295285",
     "iso3": "AGO",
-    "lon": "17.544676"
+    "lon": "17.544676",
+    "type": "country"
   },
   {
     "terr_id": "7",
@@ -33,7 +36,8 @@
     "terr_name": "Anguilla",
     "lat": "18.222877",
     "iso3": "AIA",
-    "lon": "-63.060077"
+    "lon": "-63.060077",
+    "type": "country"
   },
   {
     "terr_id": "2",
@@ -42,7 +46,8 @@
     "terr_name": "Albania",
     "lat": "41.142285",
     "iso3": "ALB",
-    "lon": "20.068385"
+    "lon": "20.068385",
+    "type": "country"
   },
   {
     "terr_id": "5",
@@ -51,7 +56,8 @@
     "terr_name": "Andorra",
     "lat": "42.548653",
     "iso3": "AND",
-    "lon": "1.576765"
+    "lon": "1.576765",
+    "type": "country"
   },
   {
     "terr_id": "174",
@@ -60,7 +66,8 @@
     "terr_name": "Netherlands Antilles",
     "lat": "12.187805",
     "iso3": "ANT",
-    "lon": "-68.693669"
+    "lon": "-68.693669",
+    "type": "country"
   },
   {
     "terr_id": "254",
@@ -69,7 +76,8 @@
     "terr_name": "United Arab Emirates",
     "lat": "23.903193",
     "iso3": "ARE",
-    "lon": "54.340734"
+    "lon": "54.340734",
+    "type": "country"
   },
   {
     "terr_id": "10",
@@ -78,7 +86,8 @@
     "terr_name": "Argentina",
     "lat": "-31.486376",
     "iso3": "ARG",
-    "lon": "-63.839414"
+    "lon": "-63.839414",
+    "type": "country"
   },
   {
     "terr_id": "11",
@@ -87,7 +96,8 @@
     "terr_name": "Armenia",
     "lat": "40.28662",
     "iso3": "ARM",
-    "lon": "44.946824"
+    "lon": "44.946824",
+    "type": "country"
   },
   {
     "terr_id": "4",
@@ -96,7 +106,8 @@
     "terr_name": "American Samoa",
     "lat": "-14.304407",
     "iso3": "ASM",
-    "lon": "-170.707832"
+    "lon": "-170.707832",
+    "type": "country"
   },
   {
     "terr_id": "8",
@@ -105,7 +116,8 @@
     "terr_name": "Antarctica",
     "lat": "-80.446037",
     "iso3": "ATA",
-    "lon": "21.297686"
+    "lon": "21.297686",
+    "type": "country"
   },
   {
     "terr_id": "85",
@@ -114,7 +126,8 @@
     "terr_name": "French Southern and Antarctic Territories",
     "lat": "-49.191795",
     "iso3": "ATF",
-    "lon": "68.861925"
+    "lon": "68.861925",
+    "type": "country"
   },
   {
     "terr_id": "9",
@@ -123,7 +136,8 @@
     "terr_name": "Antigua and Barbuda",
     "lat": "17.279818",
     "iso3": "ATG",
-    "lon": "-61.791237"
+    "lon": "-61.791237",
+    "type": "country"
   },
   {
     "terr_id": "14",
@@ -132,7 +146,8 @@
     "terr_name": "Australia",
     "lat": "-25.734968",
     "iso3": "AUS",
-    "lon": "134.489562"
+    "lon": "134.489562",
+    "type": "country"
   },
   {
     "terr_id": "15",
@@ -141,7 +156,8 @@
     "terr_name": "Austria",
     "lat": "47.592903",
     "iso3": "AUT",
-    "lon": "14.140193"
+    "lon": "14.140193",
+    "type": "country"
   },
   {
     "terr_id": "16",
@@ -150,7 +166,8 @@
     "terr_name": "Azerbaijan",
     "lat": "40.292173",
     "iso3": "AZE",
-    "lon": "47.532767"
+    "lon": "47.532767",
+    "type": "country"
   },
   {
     "terr_id": "41",
@@ -159,7 +176,8 @@
     "terr_name": "Burundi",
     "lat": "-3.356175",
     "iso3": "BDI",
-    "lon": "29.887145"
+    "lon": "29.887145",
+    "type": "country"
   },
   {
     "terr_id": "25",
@@ -168,7 +186,8 @@
     "terr_name": "Belgium",
     "lat": "50.642851",
     "iso3": "BEL",
-    "lon": "4.663989"
+    "lon": "4.663989",
+    "type": "country"
   },
   {
     "terr_id": "27",
@@ -177,7 +196,8 @@
     "terr_name": "Benin",
     "lat": "10.501237",
     "iso3": "BEN",
-    "lon": "2.461735"
+    "lon": "2.461735",
+    "type": "country"
   },
   {
     "terr_id": "40",
@@ -186,7 +206,8 @@
     "terr_name": "Burkina Faso",
     "lat": "12.27793",
     "iso3": "BFA",
-    "lon": "-1.740141"
+    "lon": "-1.740141",
+    "type": "country"
   },
   {
     "terr_id": "21",
@@ -195,7 +216,8 @@
     "terr_name": "Bangladesh",
     "lat": "23.843232",
     "iso3": "BGD",
-    "lon": "90.268498"
+    "lon": "90.268498",
+    "type": "country"
   },
   {
     "terr_id": "39",
@@ -204,7 +226,8 @@
     "terr_name": "Bulgaria",
     "lat": "42.761377",
     "iso3": "BGR",
-    "lon": "25.231506"
+    "lon": "25.231506",
+    "type": "country"
   },
   {
     "terr_id": "19",
@@ -213,7 +236,8 @@
     "terr_name": "Bahrain",
     "lat": "26.02241",
     "iso3": "BHR",
-    "lon": "50.559643"
+    "lon": "50.559643",
+    "type": "country"
   },
   {
     "terr_id": "18",
@@ -222,7 +246,8 @@
     "terr_name": "Bahamas",
     "lat": "24.201126",
     "iso3": "BHS",
-    "lon": "-76.546622"
+    "lon": "-76.546622",
+    "type": "country"
   },
   {
     "terr_id": "32",
@@ -231,7 +256,8 @@
     "terr_name": "Bosnia-Herzegovina",
     "lat": "44.168115",
     "iso3": "BIH",
-    "lon": "17.786531"
+    "lon": "17.786531",
+    "type": "country"
   },
   {
     "terr_id": "24",
@@ -240,7 +266,8 @@
     "terr_name": "Belarus",
     "lat": "53.539998",
     "iso3": "BLR",
-    "lon": "28.046788"
+    "lon": "28.046788",
+    "type": "country"
   },
   {
     "terr_id": "26",
@@ -249,7 +276,8 @@
     "terr_name": "Belize",
     "lat": "17.217666",
     "iso3": "BLZ",
-    "lon": "-88.684767"
+    "lon": "-88.684767",
+    "type": "country"
   },
   {
     "terr_id": "28",
@@ -258,7 +286,8 @@
     "terr_name": "Bermuda",
     "lat": "32.316086",
     "iso3": "BMU",
-    "lon": "-64.739605"
+    "lon": "-64.739605",
+    "type": "country"
   },
   {
     "terr_id": "31",
@@ -267,7 +296,8 @@
     "terr_name": "Bolivia",
     "lat": "-16.71461",
     "iso3": "BOL",
-    "lon": "-64.670932"
+    "lon": "-64.670932",
+    "type": "country"
   },
   {
     "terr_id": "35",
@@ -276,7 +306,8 @@
     "terr_name": "Brazil",
     "lat": "-10.773109",
     "iso3": "BRA",
-    "lon": "-53.08982"
+    "lon": "-53.08982",
+    "type": "country"
   },
   {
     "terr_id": "22",
@@ -285,7 +316,8 @@
     "terr_name": "Barbados",
     "lat": "13.178715",
     "iso3": "BRB",
-    "lon": "-59.561955"
+    "lon": "-59.561955",
+    "type": "country"
   },
   {
     "terr_id": "38",
@@ -294,7 +326,8 @@
     "terr_name": "Brunei Darussalam",
     "lat": "4.521445",
     "iso3": "BRN",
-    "lon": "114.761099"
+    "lon": "114.761099",
+    "type": "country"
   },
   {
     "terr_id": "29",
@@ -303,7 +336,8 @@
     "terr_name": "Bhutan",
     "lat": "27.415414",
     "iso3": "BTN",
-    "lon": "90.429435"
+    "lon": "90.429435",
+    "type": "country"
   },
   {
     "terr_id": "34",
@@ -312,7 +346,8 @@
     "terr_name": "Bouvet Island",
     "lat": "-54.421903",
     "iso3": "BVT",
-    "lon": "3.412522"
+    "lon": "3.412522",
+    "type": "country"
   },
   {
     "terr_id": "33",
@@ -321,7 +356,8 @@
     "terr_name": "Botswana",
     "lat": "-22.182004",
     "iso3": "BWA",
-    "lon": "23.815028"
+    "lon": "23.815028",
+    "type": "country"
   },
   {
     "terr_id": "47",
@@ -330,7 +366,8 @@
     "terr_name": "Central African Republic",
     "lat": "6.571232",
     "iso3": "CAF",
-    "lon": "20.482967"
+    "lon": "20.482967",
+    "type": "country"
   },
   {
     "terr_id": "44",
@@ -339,7 +376,8 @@
     "terr_name": "Canada",
     "lat": "61.392017",
     "iso3": "CAN",
-    "lon": "-98.265329"
+    "lon": "-98.265329",
+    "type": "country"
   },
   {
     "terr_id": "53",
@@ -348,7 +386,8 @@
     "terr_name": "Cocos (Keeling) Islands",
     "lat": "-12.17125",
     "iso3": "CCK",
-    "lon": "96.836882"
+    "lon": "96.836882",
+    "type": "country"
   },
   {
     "terr_id": "234",
@@ -357,7 +396,8 @@
     "terr_name": "Switzerland",
     "lat": "46.802569",
     "iso3": "CHE",
-    "lon": "8.234429"
+    "lon": "8.234429",
+    "type": "country"
   },
   {
     "terr_id": "49",
@@ -366,7 +406,8 @@
     "terr_name": "Chile",
     "lat": "-33.82011",
     "iso3": "CHL",
-    "lon": "-70.947023"
+    "lon": "-70.947023",
+    "type": "country"
   },
   {
     "terr_id": "50",
@@ -375,7 +416,8 @@
     "terr_name": "China",
     "lat": "36.567909",
     "iso3": "CHN",
-    "lon": "103.904056"
+    "lon": "103.904056",
+    "type": "country"
   },
   {
     "terr_id": "59",
@@ -384,7 +426,8 @@
     "terr_name": "Côte d'Ivoire",
     "lat": "8.461729",
     "iso3": "CIV",
-    "lon": "-5.5319"
+    "lon": "-5.5319",
+    "type": "country"
   },
   {
     "terr_id": "43",
@@ -393,7 +436,8 @@
     "terr_name": "Cameroon",
     "lat": "5.685952",
     "iso3": "CMR",
-    "lon": "12.743594"
+    "lon": "12.743594",
+    "type": "country"
   },
   {
     "terr_id": "65",
@@ -402,7 +446,8 @@
     "terr_name": "Congo, Democratic Republic of",
     "lat": "-2.686476",
     "iso3": "COD",
-    "lon": "23.275488"
+    "lon": "23.275488",
+    "type": "country"
   },
   {
     "terr_id": "56",
@@ -411,7 +456,8 @@
     "terr_name": "Congo, Republic of",
     "lat": "-0.176075",
     "iso3": "COG",
-    "lon": "15.84101"
+    "lon": "15.84101",
+    "type": "country"
   },
   {
     "terr_id": "57",
@@ -420,7 +466,8 @@
     "terr_name": "Cook Islands",
     "lat": "-20.934038",
     "iso3": "COK",
-    "lon": "-158.908883"
+    "lon": "-158.908883",
+    "type": "country"
   },
   {
     "terr_id": "54",
@@ -429,7 +476,8 @@
     "terr_name": "Colombia",
     "lat": "3.901156",
     "iso3": "COL",
-    "lon": "-73.073369"
+    "lon": "-73.073369",
+    "type": "country"
   },
   {
     "terr_id": "55",
@@ -438,7 +486,8 @@
     "terr_name": "Comoros",
     "lat": "-11.892755",
     "iso3": "COM",
-    "lon": "43.67592"
+    "lon": "43.67592",
+    "type": "country"
   },
   {
     "terr_id": "45",
@@ -447,7 +496,8 @@
     "terr_name": "Cape Verde",
     "lat": "15.978973",
     "iso3": "CPV",
-    "lon": "-23.967785"
+    "lon": "-23.967785",
+    "type": "country"
   },
   {
     "terr_id": "58",
@@ -456,7 +506,8 @@
     "terr_name": "Costa Rica",
     "lat": "9.970203",
     "iso3": "CRI",
-    "lon": "-84.187942"
+    "lon": "-84.187942",
+    "type": "country"
   },
   {
     "terr_id": "61",
@@ -465,7 +516,8 @@
     "terr_name": "Cuba",
     "lat": "21.929528",
     "iso3": "CUB",
-    "lon": "-78.870313"
+    "lon": "-78.870313",
+    "type": "country"
   },
   {
     "terr_id": "51",
@@ -474,7 +526,8 @@
     "terr_name": "Christmas Island",
     "lat": "-10.444115",
     "iso3": "CXR",
-    "lon": "105.703697"
+    "lon": "105.703697",
+    "type": "country"
   },
   {
     "terr_id": "46",
@@ -483,7 +536,8 @@
     "terr_name": "Cayman Islands",
     "lat": "19.308663",
     "iso3": "CYM",
-    "lon": "-81.238453"
+    "lon": "-81.238453",
+    "type": "country"
   },
   {
     "terr_id": "62",
@@ -492,7 +546,8 @@
     "terr_name": "Cyprus",
     "lat": "35.045883",
     "iso3": "CYP",
-    "lon": "33.221763"
+    "lon": "33.221763",
+    "type": "country"
   },
   {
     "terr_id": "63",
@@ -501,7 +556,8 @@
     "terr_name": "Czech Republic",
     "lat": "49.742859",
     "iso3": "CZE",
-    "lon": "15.338412"
+    "lon": "15.338412",
+    "type": "country"
   },
   {
     "terr_id": "90",
@@ -510,7 +566,8 @@
     "terr_name": "Germany",
     "lat": "51.106592",
     "iso3": "DEU",
-    "lon": "10.393662"
+    "lon": "10.393662",
+    "type": "country"
   },
   {
     "terr_id": "67",
@@ -519,7 +576,8 @@
     "terr_name": "Djibouti",
     "lat": "11.749676",
     "iso3": "DJI",
-    "lon": "42.577765"
+    "lon": "42.577765",
+    "type": "country"
   },
   {
     "terr_id": "68",
@@ -528,7 +586,8 @@
     "terr_name": "Dominica",
     "lat": "15.435595",
     "iso3": "DMA",
-    "lon": "-61.355757"
+    "lon": "-61.355757",
+    "type": "country"
   },
   {
     "terr_id": "66",
@@ -537,7 +596,8 @@
     "terr_name": "Denmark",
     "lat": "55.963398",
     "iso3": "DNK",
-    "lon": "10.046298"
+    "lon": "10.046298",
+    "type": "country"
   },
   {
     "terr_id": "69",
@@ -546,7 +606,8 @@
     "terr_name": "Dominican Republic",
     "lat": "18.965607",
     "iso3": "DOM",
-    "lon": "-70.223715"
+    "lon": "-70.223715",
+    "type": "country"
   },
   {
     "terr_id": "3",
@@ -555,7 +616,8 @@
     "terr_name": "Algeria",
     "lat": "28.163239",
     "iso3": "DZA",
-    "lon": "2.632388"
+    "lon": "2.632388",
+    "type": "country"
   },
   {
     "terr_id": "70",
@@ -564,7 +626,8 @@
     "terr_name": "Ecuador",
     "lat": "-1.142781",
     "iso3": "ECU",
-    "lon": "-78.340114"
+    "lon": "-78.340114",
+    "type": "country"
   },
   {
     "terr_id": "71",
@@ -573,7 +636,8 @@
     "terr_name": "Egypt, Arab Republic of",
     "lat": "26.55378",
     "iso3": "EGY",
-    "lon": "29.790197"
+    "lon": "29.790197",
+    "type": "country"
   },
   {
     "terr_id": "74",
@@ -582,7 +646,8 @@
     "terr_name": "Eritrea",
     "lat": "15.373203",
     "iso3": "ERI",
-    "lon": "38.841286"
+    "lon": "38.841286",
+    "type": "country"
   },
   {
     "terr_id": "266",
@@ -591,7 +656,8 @@
     "terr_name": "Western Sahara",
     "lat": "24.803991",
     "iso3": "ESH",
-    "lon": "-13.421179"
+    "lon": "-13.421179",
+    "type": "country"
   },
   {
     "terr_id": "226",
@@ -600,7 +666,8 @@
     "terr_name": "Spain",
     "lat": "40.22683",
     "iso3": "ESP",
-    "lon": "-3.649565"
+    "lon": "-3.649565",
+    "type": "country"
   },
   {
     "terr_id": "75",
@@ -609,7 +676,8 @@
     "terr_name": "Estonia",
     "lat": "58.674136",
     "iso3": "EST",
-    "lon": "25.527616"
+    "lon": "25.527616",
+    "type": "country"
   },
   {
     "terr_id": "76",
@@ -618,7 +686,8 @@
     "terr_name": "Ethiopia",
     "lat": "8.633291",
     "iso3": "ETH",
-    "lon": "39.616176"
+    "lon": "39.616176",
+    "type": "country"
   },
   {
     "terr_id": "81",
@@ -627,7 +696,8 @@
     "terr_name": "Finland",
     "lat": "63.741386",
     "iso3": "FIN",
-    "lon": "26.693329"
+    "lon": "26.693329",
+    "type": "country"
   },
   {
     "terr_id": "80",
@@ -636,7 +706,8 @@
     "terr_name": "Fiji",
     "lat": "-17.45353",
     "iso3": "FJI",
-    "lon": "171.983227"
+    "lon": "171.983227",
+    "type": "country"
   },
   {
     "terr_id": "78",
@@ -645,7 +716,8 @@
     "terr_name": "Falkland Islands (Malvinas)",
     "lat": "-51.737117",
     "iso3": "FLK",
-    "lon": "-59.363298"
+    "lon": "-59.363298",
+    "type": "country"
   },
   {
     "terr_id": "82",
@@ -654,7 +726,8 @@
     "terr_name": "France",
     "lat": "46.564502",
     "iso3": "FRA",
-    "lon": "2.551955"
+    "lon": "2.551955",
+    "type": "country"
   },
   {
     "terr_id": "79",
@@ -663,7 +736,8 @@
     "terr_name": "Faroe Islands",
     "lat": "62.031067",
     "iso3": "FRO",
-    "lon": "-6.88411"
+    "lon": "-6.88411",
+    "type": "country"
   },
   {
     "terr_id": "159",
@@ -672,7 +746,8 @@
     "terr_name": "Micronesia (Federated States of)",
     "lat": "6.49238",
     "iso3": "FSM",
-    "lon": "159.404221"
+    "lon": "159.404221",
+    "type": "country"
   },
   {
     "terr_id": "86",
@@ -681,7 +756,8 @@
     "terr_name": "Gabon",
     "lat": "-0.590944",
     "iso3": "GAB",
-    "lon": "11.797236"
+    "lon": "11.797236",
+    "type": "country"
   },
   {
     "terr_id": "251",
@@ -690,7 +766,8 @@
     "terr_name": "United Kingdom",
     "lat": "54.15535",
     "iso3": "GBR",
-    "lon": "-2.895585"
+    "lon": "-2.895585",
+    "type": "country"
   },
   {
     "terr_id": "89",
@@ -699,7 +776,8 @@
     "terr_name": "Georgia",
     "lat": "42.176312",
     "iso3": "GEO",
-    "lon": "43.517446"
+    "lon": "43.517446",
+    "type": "country"
   },
   {
     "terr_id": "91",
@@ -708,7 +786,8 @@
     "terr_name": "Ghana",
     "lat": "7.177092",
     "iso3": "GHA",
-    "lon": "-1.207301"
+    "lon": "-1.207301",
+    "type": "country"
   },
   {
     "terr_id": "92",
@@ -717,7 +796,8 @@
     "terr_name": "Gibraltar",
     "lat": "36.138215",
     "iso3": "GIB",
-    "lon": "-5.344895"
+    "lon": "-5.344895",
+    "type": "country"
   },
   {
     "terr_id": "102",
@@ -726,7 +806,8 @@
     "terr_name": "Guinea",
     "lat": "10.81773",
     "iso3": "GIN",
-    "lon": "-11.226411"
+    "lon": "-11.226411",
+    "type": "country"
   },
   {
     "terr_id": "97",
@@ -735,7 +816,8 @@
     "terr_name": "Guadeloupe",
     "lat": "16.203461",
     "iso3": "GLP",
-    "lon": "-61.536743"
+    "lon": "-61.536743",
+    "type": "country"
   },
   {
     "terr_id": "87",
@@ -744,7 +826,8 @@
     "terr_name": "Gambia, The",
     "lat": "13.452649",
     "iso3": "GMB",
-    "lon": "-15.386643"
+    "lon": "-15.386643",
+    "type": "country"
   },
   {
     "terr_id": "103",
@@ -753,7 +836,8 @@
     "terr_name": "Guinea-Bissau",
     "lat": "12.030308",
     "iso3": "GNB",
-    "lon": "-14.965217"
+    "lon": "-14.965217",
+    "type": "country"
   },
   {
     "terr_id": "73",
@@ -762,7 +846,8 @@
     "terr_name": "Equatorial Guinea",
     "lat": "1.712339",
     "iso3": "GNQ",
-    "lon": "10.341982"
+    "lon": "10.341982",
+    "type": "country"
   },
   {
     "terr_id": "94",
@@ -771,7 +856,8 @@
     "terr_name": "Greece",
     "lat": "39.068537",
     "iso3": "GRC",
-    "lon": "22.959746"
+    "lon": "22.959746",
+    "type": "country"
   },
   {
     "terr_id": "96",
@@ -780,7 +866,8 @@
     "terr_name": "Grenada",
     "lat": "12.112925",
     "iso3": "GRD",
-    "lon": "-61.67938"
+    "lon": "-61.67938",
+    "type": "country"
   },
   {
     "terr_id": "95",
@@ -789,7 +876,8 @@
     "terr_name": "Greenland",
     "lat": "74.720918",
     "iso3": "GRL",
-    "lon": "-41.389501"
+    "lon": "-41.389501",
+    "type": "country"
   },
   {
     "terr_id": "100",
@@ -798,7 +886,8 @@
     "terr_name": "Guatemala",
     "lat": "15.702135",
     "iso3": "GTM",
-    "lon": "-90.356242"
+    "lon": "-90.356242",
+    "type": "country"
   },
   {
     "terr_id": "83",
@@ -807,7 +896,8 @@
     "terr_name": "French Guiana",
     "lat": "3.54517",
     "iso3": "GUF",
-    "lon": "-53.217504"
+    "lon": "-53.217504",
+    "type": "country"
   },
   {
     "terr_id": "98",
@@ -816,7 +906,8 @@
     "terr_name": "Guam",
     "lat": "13.443566",
     "iso3": "GUM",
-    "lon": "144.775596"
+    "lon": "144.775596",
+    "type": "country"
   },
   {
     "terr_id": "104",
@@ -825,7 +916,8 @@
     "terr_name": "Guyana",
     "lat": "5.883132",
     "iso3": "GUY",
-    "lon": "-59.1171"
+    "lon": "-59.1171",
+    "type": "country"
   },
   {
     "terr_id": "109",
@@ -834,7 +926,8 @@
     "terr_name": "Hong Kong",
     "lat": "22.377362",
     "iso3": "HKG",
-    "lon": "114.110058"
+    "lon": "114.110058",
+    "type": "country"
   },
   {
     "terr_id": "106",
@@ -843,7 +936,8 @@
     "terr_name": "Heard Island and McDonald Islands",
     "lat": "-53.091333",
     "iso3": "HMD",
-    "lon": "73.498374"
+    "lon": "73.498374",
+    "type": "country"
   },
   {
     "terr_id": "108",
@@ -852,7 +946,8 @@
     "terr_name": "Honduras",
     "lat": "14.819222",
     "iso3": "HND",
-    "lon": "-86.619146"
+    "lon": "-86.619146",
+    "type": "country"
   },
   {
     "terr_id": "60",
@@ -861,7 +956,8 @@
     "terr_name": "Croatia",
     "lat": "45.251162",
     "iso3": "HRV",
-    "lon": "16.411778"
+    "lon": "16.411778",
+    "type": "country"
   },
   {
     "terr_id": "105",
@@ -870,7 +966,8 @@
     "terr_name": "Haiti",
     "lat": "18.870449",
     "iso3": "HTI",
-    "lon": "-72.762477"
+    "lon": "-72.762477",
+    "type": "country"
   },
   {
     "terr_id": "111",
@@ -879,7 +976,8 @@
     "terr_name": "Hungary",
     "lat": "47.166502",
     "iso3": "HUN",
-    "lon": "19.413448"
+    "lon": "19.413448",
+    "type": "country"
   },
   {
     "terr_id": "114",
@@ -888,7 +986,8 @@
     "terr_name": "Indonesia",
     "lat": "-2.230214",
     "iso3": "IDN",
-    "lon": "117.300428"
+    "lon": "117.300428",
+    "type": "country"
   },
   {
     "terr_id": "118",
@@ -897,7 +996,8 @@
     "terr_name": "Isle of Man",
     "lat": "54.229082",
     "iso3": "IMY",
-    "lon": "-4.525849"
+    "lon": "-4.525849",
+    "type": "country"
   },
   {
     "terr_id": "113",
@@ -906,7 +1006,8 @@
     "terr_name": "India",
     "lat": "22.326122",
     "iso3": "IND",
-    "lon": "79.386009"
+    "lon": "79.386009",
+    "type": "country"
   },
   {
     "terr_id": "36",
@@ -915,7 +1016,8 @@
     "terr_name": "British Indian Ocean Territory",
     "lat": "-7.334266",
     "iso3": "IOT",
-    "lon": "72.434027"
+    "lon": "72.434027",
+    "type": "country"
   },
   {
     "terr_id": "117",
@@ -924,7 +1026,8 @@
     "terr_name": "Ireland",
     "lat": "53.176382",
     "iso3": "IRL",
-    "lon": "-8.150579"
+    "lon": "-8.150579",
+    "type": "country"
   },
   {
     "terr_id": "115",
@@ -933,7 +1036,8 @@
     "terr_name": "Iran (Islamic Republic of)",
     "lat": "32.565771",
     "iso3": "IRN",
-    "lon": "54.301402"
+    "lon": "54.301402",
+    "type": "country"
   },
   {
     "terr_id": "116",
@@ -942,7 +1046,8 @@
     "terr_name": "Iraq",
     "lat": "33.048024",
     "iso3": "IRQ",
-    "lon": "43.772135"
+    "lon": "43.772135",
+    "type": "country"
   },
   {
     "terr_id": "112",
@@ -951,7 +1056,8 @@
     "terr_name": "Iceland",
     "lat": "64.997588",
     "iso3": "ISL",
-    "lon": "-18.605467"
+    "lon": "-18.605467",
+    "type": "country"
   },
   {
     "terr_id": "119",
@@ -960,7 +1066,8 @@
     "terr_name": "Israel",
     "lat": "30.801039",
     "iso3": "ISR",
-    "lon": "34.888721"
+    "lon": "34.888721",
+    "type": "country"
   },
   {
     "terr_id": "120",
@@ -969,7 +1076,8 @@
     "terr_name": "Italy",
     "lat": "42.795782",
     "iso3": "ITA",
-    "lon": "12.071743"
+    "lon": "12.071743",
+    "type": "country"
   },
   {
     "terr_id": "121",
@@ -978,7 +1086,8 @@
     "terr_name": "Jamaica",
     "lat": "18.151419",
     "iso3": "JAM",
-    "lon": "-77.319011"
+    "lon": "-77.319011",
+    "type": "country"
   },
   {
     "terr_id": "126",
@@ -987,7 +1096,8 @@
     "terr_name": "Jordan",
     "lat": "31.312616",
     "iso3": "JOR",
-    "lon": "36.288613"
+    "lon": "36.288613",
+    "type": "country"
   },
   {
     "terr_id": "122",
@@ -996,7 +1106,8 @@
     "terr_name": "Japan",
     "lat": "37.562162",
     "iso3": "JPN",
-    "lon": "137.990745"
+    "lon": "137.990745",
+    "type": "country"
   },
   {
     "terr_id": "128",
@@ -1005,7 +1116,8 @@
     "terr_name": "Kazakhstan",
     "lat": "48.160272",
     "iso3": "KAZ",
-    "lon": "67.302857"
+    "lon": "67.302857",
+    "type": "country"
   },
   {
     "terr_id": "129",
@@ -1014,7 +1126,8 @@
     "terr_name": "Kenya",
     "lat": "0.529562",
     "iso3": "KEN",
-    "lon": "37.858021"
+    "lon": "37.858021",
+    "type": "country"
   },
   {
     "terr_id": "134",
@@ -1023,7 +1136,8 @@
     "terr_name": "Kyrgyz Republic",
     "lat": "41.465055",
     "iso3": "KGZ",
-    "lon": "74.555597"
+    "lon": "74.555597",
+    "type": "country"
   },
   {
     "terr_id": "42",
@@ -1032,7 +1146,8 @@
     "terr_name": "Cambodia",
     "lat": "12.716432",
     "iso3": "KHM",
-    "lon": "104.923981"
+    "lon": "104.923981",
+    "type": "country"
   },
   {
     "terr_id": "131",
@@ -1041,7 +1156,8 @@
     "terr_name": "Kiribati",
     "lat": "1.834562",
     "iso3": "KIR",
-    "lon": "-154.458271"
+    "lon": "-154.458271",
+    "type": "country"
   },
   {
     "terr_id": "205",
@@ -1050,7 +1166,8 @@
     "terr_name": "Saint Kitts and Nevis",
     "lat": "17.326191",
     "iso3": "KNA",
-    "lon": "-62.75352"
+    "lon": "-62.75352",
+    "type": "country"
   },
   {
     "terr_id": "199",
@@ -1059,7 +1176,8 @@
     "terr_name": "Korea, Republic of",
     "lat": "36.375089",
     "iso3": "KOR",
-    "lon": "127.834772"
+    "lon": "127.834772",
+    "type": "country"
   },
   {
     "terr_id": "133",
@@ -1068,7 +1186,8 @@
     "terr_name": "Kuwait",
     "lat": "29.340791",
     "iso3": "KWT",
-    "lon": "47.590876"
+    "lon": "47.590876",
+    "type": "country"
   },
   {
     "terr_id": "135",
@@ -1077,7 +1196,8 @@
     "terr_name": "Lao People's Democratic Republic",
     "lat": "18.502744",
     "iso3": "LAO",
-    "lon": "103.763291"
+    "lon": "103.763291",
+    "type": "country"
   },
   {
     "terr_id": "137",
@@ -1086,7 +1206,8 @@
     "terr_name": "Lebanon",
     "lat": "33.920267",
     "iso3": "LBN",
-    "lon": "35.888027"
+    "lon": "35.888027",
+    "type": "country"
   },
   {
     "terr_id": "140",
@@ -1095,7 +1216,8 @@
     "terr_name": "Liberia",
     "lat": "6.448092",
     "iso3": "LBR",
-    "lon": "-9.307914"
+    "lon": "-9.307914",
+    "type": "country"
   },
   {
     "terr_id": "141",
@@ -1104,7 +1226,8 @@
     "terr_name": "Libyan Arab Jamahiriya",
     "lat": "27.043954",
     "iso3": "LBY",
-    "lon": "18.023287"
+    "lon": "18.023287",
+    "type": "country"
   },
   {
     "terr_id": "206",
@@ -1113,7 +1236,8 @@
     "terr_name": "St. Lucia",
     "lat": "13.897866",
     "iso3": "LCA",
-    "lon": "-60.968711"
+    "lon": "-60.968711",
+    "type": "country"
   },
   {
     "terr_id": "142",
@@ -1122,7 +1246,8 @@
     "terr_name": "Liechtenstein",
     "lat": "47.151849",
     "iso3": "LIE",
-    "lon": "9.554268"
+    "lon": "9.554268",
+    "type": "country"
   },
   {
     "terr_id": "228",
@@ -1131,7 +1256,8 @@
     "terr_name": "Sri Lanka",
     "lat": "7.608086",
     "iso3": "LKA",
-    "lon": "80.704727"
+    "lon": "80.704727",
+    "type": "country"
   },
   {
     "terr_id": "138",
@@ -1140,7 +1266,8 @@
     "terr_name": "Lesotho",
     "lat": "-29.581",
     "iso3": "LSO",
-    "lon": "28.243011"
+    "lon": "28.243011",
+    "type": "country"
   },
   {
     "terr_id": "143",
@@ -1149,7 +1276,8 @@
     "terr_name": "Lithuania",
     "lat": "55.33567",
     "iso3": "LTU",
-    "lon": "23.898123"
+    "lon": "23.898123",
+    "type": "country"
   },
   {
     "terr_id": "144",
@@ -1158,7 +1286,8 @@
     "terr_name": "Luxembourg",
     "lat": "49.77063",
     "iso3": "LUX",
-    "lon": "6.087814"
+    "lon": "6.087814",
+    "type": "country"
   },
   {
     "terr_id": "136",
@@ -1167,7 +1296,8 @@
     "terr_name": "Latvia",
     "lat": "56.857534",
     "iso3": "LVA",
-    "lon": "24.929424"
+    "lon": "24.929424",
+    "type": "country"
   },
   {
     "terr_id": "145",
@@ -1176,7 +1306,8 @@
     "terr_name": "Macao",
     "lat": "22.18332",
     "iso3": "MAC",
-    "lon": "113.550125"
+    "lon": "113.550125",
+    "type": "country"
   },
   {
     "terr_id": "166",
@@ -1185,7 +1316,8 @@
     "terr_name": "Morocco",
     "lat": "32.310583",
     "iso3": "MAR",
-    "lon": "-6.270405"
+    "lon": "-6.270405",
+    "type": "country"
   },
   {
     "terr_id": "162",
@@ -1194,7 +1326,8 @@
     "terr_name": "Monaco",
     "lat": "43.747983",
     "iso3": "MCO",
-    "lon": "7.412822"
+    "lon": "7.412822",
+    "type": "country"
   },
   {
     "terr_id": "161",
@@ -1203,7 +1336,8 @@
     "terr_name": "Moldova",
     "lat": "47.193869",
     "iso3": "MDA",
-    "lon": "28.473931"
+    "lon": "28.473931",
+    "type": "country"
   },
   {
     "terr_id": "146",
@@ -1212,7 +1346,8 @@
     "terr_name": "Madagascar",
     "lat": "-19.373383",
     "iso3": "MDG",
-    "lon": "46.706039"
+    "lon": "46.706039",
+    "type": "country"
   },
   {
     "terr_id": "150",
@@ -1221,7 +1356,8 @@
     "terr_name": "Maldives",
     "lat": "3.216335",
     "iso3": "MDV",
-    "lon": "73.252227"
+    "lon": "73.252227",
+    "type": "country"
   },
   {
     "terr_id": "158",
@@ -1230,7 +1366,8 @@
     "terr_name": "Mexico",
     "lat": "23.950464",
     "iso3": "MEX",
-    "lon": "-102.532885"
+    "lon": "-102.532885",
+    "type": "country"
   },
   {
     "terr_id": "153",
@@ -1239,7 +1376,8 @@
     "terr_name": "Marshall Islands",
     "lat": "7.643273",
     "iso3": "MHL",
-    "lon": "168.626921"
+    "lon": "168.626921",
+    "type": "country"
   },
   {
     "terr_id": "239",
@@ -1248,7 +1386,8 @@
     "terr_name": "Macedonia, Former Yugoslav Republic of",
     "lat": "41.599682",
     "iso3": "MKD",
-    "lon": "21.697476"
+    "lon": "21.697476",
+    "type": "country"
   },
   {
     "terr_id": "151",
@@ -1257,7 +1396,8 @@
     "terr_name": "Mali",
     "lat": "17.682358",
     "iso3": "MLI",
-    "lon": "-2.717947"
+    "lon": "-2.717947",
+    "type": "country"
   },
   {
     "terr_id": "152",
@@ -1266,7 +1406,8 @@
     "terr_name": "Malta",
     "lat": "35.890522",
     "iso3": "MLT",
-    "lon": "14.441923"
+    "lon": "14.441923",
+    "type": "country"
   },
   {
     "terr_id": "168",
@@ -1275,7 +1416,8 @@
     "terr_name": "Myanmar",
     "lat": "21.154319",
     "iso3": "MMR",
-    "lon": "96.506921"
+    "lon": "96.506921",
+    "type": "country"
   },
   {
     "terr_id": "164",
@@ -1284,7 +1426,8 @@
     "terr_name": "Montenegro",
     "lat": "42.791593",
     "iso3": "MNE",
-    "lon": "19.250305"
+    "lon": "19.250305",
+    "type": "country"
   },
   {
     "terr_id": "163",
@@ -1293,7 +1436,8 @@
     "terr_name": "Mongolia",
     "lat": "46.835291",
     "iso3": "MNG",
-    "lon": "103.083218"
+    "lon": "103.083218",
+    "type": "country"
   },
   {
     "terr_id": "182",
@@ -1302,7 +1446,8 @@
     "terr_name": "Northern Mariana Islands",
     "lat": "15.08852",
     "iso3": "MNP",
-    "lon": "145.67922"
+    "lon": "145.67922",
+    "type": "country"
   },
   {
     "terr_id": "167",
@@ -1311,7 +1456,8 @@
     "terr_name": "Mozambique",
     "lat": "-17.638842",
     "iso3": "MOZ",
-    "lon": "35.788621"
+    "lon": "35.788621",
+    "type": "country"
   },
   {
     "terr_id": "155",
@@ -1320,7 +1466,8 @@
     "terr_name": "Mauritania",
     "lat": "20.259851",
     "iso3": "MRT",
-    "lon": "-10.332298"
+    "lon": "-10.332298",
+    "type": "country"
   },
   {
     "terr_id": "165",
@@ -1329,7 +1476,8 @@
     "terr_name": "Montserrat",
     "lat": "16.735366",
     "iso3": "MSR",
-    "lon": "-62.186936"
+    "lon": "-62.186936",
+    "type": "country"
   },
   {
     "terr_id": "154",
@@ -1338,7 +1486,8 @@
     "terr_name": "Martinique",
     "lat": "14.65255",
     "iso3": "MTQ",
-    "lon": "-61.021288"
+    "lon": "-61.021288",
+    "type": "country"
   },
   {
     "terr_id": "156",
@@ -1347,7 +1496,8 @@
     "terr_name": "Mauritius",
     "lat": "-20.251869",
     "iso3": "MUS",
-    "lon": "57.870737"
+    "lon": "57.870737",
+    "type": "country"
   },
   {
     "terr_id": "148",
@@ -1356,7 +1506,8 @@
     "terr_name": "Malawi",
     "lat": "-13.216022",
     "iso3": "MWI",
-    "lon": "34.307155"
+    "lon": "34.307155",
+    "type": "country"
   },
   {
     "terr_id": "149",
@@ -1365,7 +1516,8 @@
     "terr_name": "Malaysia",
     "lat": "3.792367",
     "iso3": "MYS",
-    "lon": "109.708194"
+    "lon": "109.708194",
+    "type": "country"
   },
   {
     "terr_id": "157",
@@ -1374,7 +1526,8 @@
     "terr_name": "Mayotte",
     "lat": "-12.81871",
     "iso3": "MYT",
-    "lon": "45.1387"
+    "lon": "45.1387",
+    "type": "country"
   },
   {
     "terr_id": "169",
@@ -1383,7 +1536,8 @@
     "terr_name": "Namibia",
     "lat": "-22.133246",
     "iso3": "NAM",
-    "lon": "17.218278"
+    "lon": "17.218278",
+    "type": "country"
   },
   {
     "terr_id": "175",
@@ -1392,7 +1546,8 @@
     "terr_name": "New Caledonia",
     "lat": "-21.316337",
     "iso3": "NCL",
-    "lon": "165.715488"
+    "lon": "165.715488",
+    "type": "country"
   },
   {
     "terr_id": "178",
@@ -1401,7 +1556,8 @@
     "terr_name": "Niger",
     "lat": "17.426149",
     "iso3": "NER",
-    "lon": "9.397648"
+    "lon": "9.397648",
+    "type": "country"
   },
   {
     "terr_id": "181",
@@ -1410,7 +1566,8 @@
     "terr_name": "Norfolk Island",
     "lat": "-29.037658",
     "iso3": "NFK",
-    "lon": "167.952597"
+    "lon": "167.952597",
+    "type": "country"
   },
   {
     "terr_id": "179",
@@ -1419,7 +1576,8 @@
     "terr_name": "Nigeria",
     "lat": "9.59396",
     "iso3": "NGA",
-    "lon": "8.105306"
+    "lon": "8.105306",
+    "type": "country"
   },
   {
     "terr_id": "177",
@@ -1428,7 +1586,8 @@
     "terr_name": "Nicaragua",
     "lat": "12.839906",
     "iso3": "NIC",
-    "lon": "-85.034783"
+    "lon": "-85.034783",
+    "type": "country"
   },
   {
     "terr_id": "180",
@@ -1437,7 +1596,8 @@
     "terr_name": "Niue",
     "lat": "-19.05231",
     "iso3": "NIU",
-    "lon": "-169.868781"
+    "lon": "-169.868781",
+    "type": "country"
   },
   {
     "terr_id": "173",
@@ -1446,7 +1606,8 @@
     "terr_name": "Netherlands",
     "lat": "52.249263",
     "iso3": "NLD",
-    "lon": "5.603418"
+    "lon": "5.603418",
+    "type": "country"
   },
   {
     "terr_id": "183",
@@ -1455,7 +1616,8 @@
     "terr_name": "Norway",
     "lat": "61.317147",
     "iso3": "NOR",
-    "lon": "9.245945"
+    "lon": "9.245945",
+    "type": "country"
   },
   {
     "terr_id": "172",
@@ -1464,7 +1626,8 @@
     "terr_name": "Nepal",
     "lat": "28.253007",
     "iso3": "NPL",
-    "lon": "83.938548"
+    "lon": "83.938548",
+    "type": "country"
   },
   {
     "terr_id": "170",
@@ -1473,7 +1636,8 @@
     "terr_name": "Nauru",
     "lat": "-0.528742",
     "iso3": "NRU",
-    "lon": "166.92313"
+    "lon": "166.92313",
+    "type": "country"
   },
   {
     "terr_id": "176",
@@ -1482,7 +1646,8 @@
     "terr_name": "New Zealand",
     "lat": "-41.767715",
     "iso3": "NZL",
-    "lon": "172.989641"
+    "lon": "172.989641",
+    "type": "country"
   },
   {
     "terr_id": "184",
@@ -1491,7 +1656,8 @@
     "terr_name": "Oman",
     "lat": "20.099577",
     "iso3": "OMN",
-    "lon": "56.609501"
+    "lon": "56.609501",
+    "type": "country"
   },
   {
     "terr_id": "185",
@@ -1500,7 +1666,8 @@
     "terr_name": "Pakistan",
     "lat": "29.357903",
     "iso3": "PAK",
-    "lon": "68.790144"
+    "lon": "68.790144",
+    "type": "country"
   },
   {
     "terr_id": "188",
@@ -1509,7 +1676,8 @@
     "terr_name": "Panama",
     "lat": "8.507186",
     "iso3": "PAN",
-    "lon": "-80.102662"
+    "lon": "-80.102662",
+    "type": "country"
   },
   {
     "terr_id": "194",
@@ -1518,7 +1686,8 @@
     "terr_name": "Pitcairn Island",
     "lat": "-24.476532",
     "iso3": "PCN",
-    "lon": "-128.593232"
+    "lon": "-128.593232",
+    "type": "country"
   },
   {
     "terr_id": "192",
@@ -1527,7 +1696,8 @@
     "terr_name": "Peru",
     "lat": "-10.017675",
     "iso3": "PER",
-    "lon": "-75.229543"
+    "lon": "-75.229543",
+    "type": "country"
   },
   {
     "terr_id": "193",
@@ -1536,7 +1706,8 @@
     "terr_name": "Philippines",
     "lat": "11.741833",
     "iso3": "PHL",
-    "lon": "122.878708"
+    "lon": "122.878708",
+    "type": "country"
   },
   {
     "terr_id": "186",
@@ -1545,7 +1716,8 @@
     "terr_name": "Palau",
     "lat": "7.501882",
     "iso3": "PLW",
-    "lon": "134.568687"
+    "lon": "134.568687",
+    "type": "country"
   },
   {
     "terr_id": "189",
@@ -1554,7 +1726,8 @@
     "terr_name": "Papua New Guinea",
     "lat": "-6.478768",
     "iso3": "PNG",
-    "lon": "145.241217"
+    "lon": "145.241217",
+    "type": "country"
   },
   {
     "terr_id": "195",
@@ -1563,7 +1736,8 @@
     "terr_name": "Poland",
     "lat": "52.12461",
     "iso3": "POL",
-    "lon": "19.400884"
+    "lon": "19.400884",
+    "type": "country"
   },
   {
     "terr_id": "197",
@@ -1572,7 +1746,8 @@
     "terr_name": "Puerto Rico",
     "lat": "18.221329",
     "iso3": "PRI",
-    "lon": "-66.462342"
+    "lon": "-66.462342",
+    "type": "country"
   },
   {
     "terr_id": "64",
@@ -1581,7 +1756,8 @@
     "terr_name": "Korea, Democratic People's Republic of",
     "lat": "40.143064",
     "iso3": "PRK",
-    "lon": "127.181957"
+    "lon": "127.181957",
+    "type": "country"
   },
   {
     "terr_id": "196",
@@ -1590,7 +1766,8 @@
     "terr_name": "Portugal",
     "lat": "39.69191",
     "iso3": "PRT",
-    "lon": "-8.151946"
+    "lon": "-8.151946",
+    "type": "country"
   },
   {
     "terr_id": "17",
@@ -1599,7 +1776,8 @@
     "terr_name": "Azores Islands",
     "lat": "38.332398",
     "iso3": "PRT",
-    "lon": "-27.303296"
+    "lon": "-27.303296",
+    "type": "country"
   },
   {
     "terr_id": "191",
@@ -1608,7 +1786,8 @@
     "terr_name": "Paraguay",
     "lat": "-23.236211",
     "iso3": "PRY",
-    "lon": "-58.296144"
+    "lon": "-58.296144",
+    "type": "country"
   },
   {
     "terr_id": "84",
@@ -1617,7 +1796,8 @@
     "terr_name": "French Polynesia",
     "lat": "-14.854976",
     "iso3": "PYF",
-    "lon": "-146.418584"
+    "lon": "-146.418584",
+    "type": "country"
   },
   {
     "terr_id": "198",
@@ -1626,7 +1806,8 @@
     "terr_name": "Qatar",
     "lat": "25.297876",
     "iso3": "QAT",
-    "lon": "51.188069"
+    "lon": "51.188069",
+    "type": "country"
   },
   {
     "terr_id": "200",
@@ -1635,7 +1816,8 @@
     "terr_name": "Reunion",
     "lat": "-21.12166",
     "iso3": "REU",
-    "lon": "55.53818"
+    "lon": "55.53818",
+    "type": "country"
   },
   {
     "terr_id": "201",
@@ -1644,7 +1826,8 @@
     "terr_name": "Romania",
     "lat": "45.843615",
     "iso3": "ROU",
-    "lon": "24.969259"
+    "lon": "24.969259",
+    "type": "country"
   },
   {
     "terr_id": "202",
@@ -1653,7 +1836,8 @@
     "terr_name": "Russian Federation",
     "lat": "61.991755",
     "iso3": "RUS",
-    "lon": "96.682513"
+    "lon": "96.682513",
+    "type": "country"
   },
   {
     "terr_id": "203",
@@ -1662,7 +1846,8 @@
     "terr_name": "Rwanda",
     "lat": "-1.997892",
     "iso3": "RWA",
-    "lon": "29.917652"
+    "lon": "29.917652",
+    "type": "country"
   },
   {
     "terr_id": "212",
@@ -1671,7 +1856,8 @@
     "terr_name": "Saudi Arabia",
     "lat": "24.122888",
     "iso3": "SAU",
-    "lon": "44.545719"
+    "lon": "44.545719",
+    "type": "country"
   },
   {
     "terr_id": "229",
@@ -1680,7 +1866,8 @@
     "terr_name": "Sudan",
     "lat": "15.99",
     "iso3": "SDN",
-    "lon": "29.99"
+    "lon": "29.99",
+    "type": "country"
   },
   {
     "terr_id": "214",
@@ -1689,7 +1876,8 @@
     "terr_name": "Senegal",
     "lat": "14.366966",
     "iso3": "SEN",
-    "lon": "-14.467654"
+    "lon": "-14.467654",
+    "type": "country"
   },
   {
     "terr_id": "219",
@@ -1698,7 +1886,8 @@
     "terr_name": "Singapore",
     "lat": "1.351615",
     "iso3": "SGP",
-    "lon": "103.808051"
+    "lon": "103.808051",
+    "type": "country"
   },
   {
     "terr_id": "231",
@@ -1707,7 +1896,8 @@
     "terr_name": "Svalbard and Jan Mayen Islands",
     "lat": "78.828632",
     "iso3": "SJM",
-    "lon": "18.363468"
+    "lon": "18.363468",
+    "type": "country"
   },
   {
     "terr_id": "222",
@@ -1716,7 +1906,8 @@
     "terr_name": "Solomon Islands",
     "lat": "-8.918214",
     "iso3": "SLB",
-    "lon": "159.634315"
+    "lon": "159.634315",
+    "type": "country"
   },
   {
     "terr_id": "218",
@@ -1725,7 +1916,8 @@
     "terr_name": "Sierra Leone",
     "lat": "8.560285",
     "iso3": "SLE",
-    "lon": "-11.791922"
+    "lon": "-11.791922",
+    "type": "country"
   },
   {
     "terr_id": "72",
@@ -1734,7 +1926,8 @@
     "terr_name": "El Salvador",
     "lat": "13.736897",
     "iso3": "SLV",
-    "lon": "-88.866512"
+    "lon": "-88.866512",
+    "type": "country"
   },
   {
     "terr_id": "210",
@@ -1743,7 +1936,8 @@
     "terr_name": "San Marino",
     "lat": "43.94364",
     "iso3": "SMR",
-    "lon": "12.458633"
+    "lon": "12.458633",
+    "type": "country"
   },
   {
     "terr_id": "223",
@@ -1752,7 +1946,8 @@
     "terr_name": "Somalia",
     "lat": "6.016284",
     "iso3": "SOM",
-    "lon": "47.570422"
+    "lon": "47.570422",
+    "type": "country"
   },
   {
     "terr_id": "216",
@@ -1761,7 +1956,8 @@
     "terr_name": "Serbia",
     "lat": "44.031498",
     "iso3": "SRB",
-    "lon": "20.805272"
+    "lon": "20.805272",
+    "type": "country"
   },
   {
     "terr_id": "211",
@@ -1770,7 +1966,8 @@
     "terr_name": "Sao Tome and Principe",
     "lat": "0.456979",
     "iso3": "STP",
-    "lon": "6.736586"
+    "lon": "6.736586",
+    "type": "country"
   },
   {
     "terr_id": "230",
@@ -1779,7 +1976,8 @@
     "terr_name": "Suriname",
     "lat": "4.458473",
     "iso3": "SUR",
-    "lon": "-55.959266"
+    "lon": "-55.959266",
+    "type": "country"
   },
   {
     "terr_id": "221",
@@ -1788,7 +1986,8 @@
     "terr_name": "Slovenia",
     "lat": "46.123564",
     "iso3": "SVN",
-    "lon": "14.826537"
+    "lon": "14.826537",
+    "type": "country"
   },
   {
     "terr_id": "233",
@@ -1797,7 +1996,8 @@
     "terr_name": "Sweden",
     "lat": "64.877246",
     "iso3": "SWE",
-    "lon": "17.54623"
+    "lon": "17.54623",
+    "type": "country"
   },
   {
     "terr_id": "232",
@@ -1806,7 +2006,8 @@
     "terr_name": "Swaziland",
     "lat": "-26.562642",
     "iso3": "SWZ",
-    "lon": "31.497528"
+    "lon": "31.497528",
+    "type": "country"
   },
   {
     "terr_id": "217",
@@ -1815,7 +2016,8 @@
     "terr_name": "Seychelles",
     "lat": "-6.35437",
     "iso3": "SYC",
-    "lon": "52.229899"
+    "lon": "52.229899",
+    "type": "country"
   },
   {
     "terr_id": "235",
@@ -1824,7 +2026,8 @@
     "terr_name": "Syrian Arab Republic",
     "lat": "35.013134",
     "iso3": "SYR",
-    "lon": "38.505132"
+    "lon": "38.505132",
+    "type": "country"
   },
   {
     "terr_id": "249",
@@ -1833,7 +2036,8 @@
     "terr_name": "Turks and Caicos Islands",
     "lat": "21.836682",
     "iso3": "TCA",
-    "lon": "-71.812947"
+    "lon": "-71.812947",
+    "type": "country"
   },
   {
     "terr_id": "48",
@@ -1842,7 +2046,8 @@
     "terr_name": "Chad",
     "lat": "15.361167",
     "iso3": "TCD",
-    "lon": "18.66448"
+    "lon": "18.66448",
+    "type": "country"
   },
   {
     "terr_id": "241",
@@ -1851,7 +2056,8 @@
     "terr_name": "Togo",
     "lat": "8.748439",
     "iso3": "TGO",
-    "lon": "1.023161"
+    "lon": "1.023161",
+    "type": "country"
   },
   {
     "terr_id": "238",
@@ -1860,7 +2066,8 @@
     "terr_name": "Thailand",
     "lat": "15.127036",
     "iso3": "THA",
-    "lon": "101.017361"
+    "lon": "101.017361",
+    "type": "country"
   },
   {
     "terr_id": "237",
@@ -1869,7 +2076,8 @@
     "terr_name": "Tajikistan",
     "lat": "38.860256",
     "iso3": "TJK",
-    "lon": "71.350363"
+    "lon": "71.350363",
+    "type": "country"
   },
   {
     "terr_id": "242",
@@ -1878,7 +2086,8 @@
     "terr_name": "Tokelau",
     "lat": "-9.195175",
     "iso3": "TKL",
-    "lon": "-171.85266"
+    "lon": "-171.85266",
+    "type": "country"
   },
   {
     "terr_id": "248",
@@ -1887,7 +2096,8 @@
     "terr_name": "Turkmenistan",
     "lat": "39.122335",
     "iso3": "TKM",
-    "lon": "59.383984"
+    "lon": "59.383984",
+    "type": "country"
   },
   {
     "terr_id": "240",
@@ -1896,7 +2106,8 @@
     "terr_name": "Timor-Leste",
     "lat": "-8.822976",
     "iso3": "TLS",
-    "lon": "125.853675"
+    "lon": "125.853675",
+    "type": "country"
   },
   {
     "terr_id": "243",
@@ -1905,7 +2116,8 @@
     "terr_name": "Tonga",
     "lat": "-20.40292",
     "iso3": "TON",
-    "lon": "-174.836286"
+    "lon": "-174.836286",
+    "type": "country"
   },
   {
     "terr_id": "244",
@@ -1914,7 +2126,8 @@
     "terr_name": "Trinidad and Tobago",
     "lat": "10.468641",
     "iso3": "TTO",
-    "lon": "-61.253177"
+    "lon": "-61.253177",
+    "type": "country"
   },
   {
     "terr_id": "246",
@@ -1923,7 +2136,8 @@
     "terr_name": "Tunisia",
     "lat": "33.9211",
     "iso3": "TUN",
-    "lon": "8.944619"
+    "lon": "8.944619",
+    "type": "country"
   },
   {
     "terr_id": "247",
@@ -1932,7 +2146,8 @@
     "terr_name": "Turkey",
     "lat": "39.060595",
     "iso3": "TUR",
-    "lon": "35.179672"
+    "lon": "35.179672",
+    "type": "country"
   },
   {
     "terr_id": "250",
@@ -1941,7 +2156,8 @@
     "terr_name": "Tuvalu",
     "lat": "-7.827722",
     "iso3": "TUV",
-    "lon": "178.557551"
+    "lon": "178.557551",
+    "type": "country"
   },
   {
     "terr_id": "236",
@@ -1950,7 +2166,8 @@
     "terr_name": "Taiwan",
     "lat": "23.754013",
     "iso3": "TWN",
-    "lon": "120.950798"
+    "lon": "120.950798",
+    "type": "country"
   },
   {
     "terr_id": "255",
@@ -1959,7 +2176,8 @@
     "terr_name": "Tanzania",
     "lat": "-6.270354",
     "iso3": "TZA",
-    "lon": "34.823454"
+    "lon": "34.823454",
+    "type": "country"
   },
   {
     "terr_id": "252",
@@ -1968,7 +2186,8 @@
     "terr_name": "Uganda",
     "lat": "1.279963",
     "iso3": "UGA",
-    "lon": "32.386218"
+    "lon": "32.386218",
+    "type": "country"
   },
   {
     "terr_id": "253",
@@ -1977,7 +2196,8 @@
     "terr_name": "Ukraine",
     "lat": "49.396606",
     "iso3": "UKR",
-    "lon": "31.387115"
+    "lon": "31.387115",
+    "type": "country"
   },
   {
     "terr_id": "258",
@@ -1986,7 +2206,8 @@
     "terr_name": "Uruguay",
     "lat": "-32.799645",
     "iso3": "URY",
-    "lon": "-56.012396"
+    "lon": "-56.012396",
+    "type": "country"
   },
   {
     "terr_id": "256",
@@ -1995,7 +2216,8 @@
     "terr_name": "United States",
     "lat": "40.382491",
     "iso3": "USA",
-    "lon": "-100.347172"
+    "lon": "-100.347172",
+    "type": "country"
   },
   {
     "terr_id": "259",
@@ -2004,7 +2226,8 @@
     "terr_name": "Uzbekistan",
     "lat": "41.750444",
     "iso3": "UZB",
-    "lon": "63.169364"
+    "lon": "63.169364",
+    "type": "country"
   },
   {
     "terr_id": "107",
@@ -2013,7 +2236,8 @@
     "terr_name": "Holy See",
     "lat": "41.903365",
     "iso3": "VAT",
-    "lon": "12.452254"
+    "lon": "12.452254",
+    "type": "country"
   },
   {
     "terr_id": "208",
@@ -2022,7 +2246,8 @@
     "terr_name": "Saint Vincent and the Grenadines",
     "lat": "13.254811",
     "iso3": "VCT",
-    "lon": "-61.193766"
+    "lon": "-61.193766",
+    "type": "country"
   },
   {
     "terr_id": "261",
@@ -2031,7 +2256,8 @@
     "terr_name": "Venezuela",
     "lat": "7.786605",
     "iso3": "VEN",
-    "lon": "-65.647727"
+    "lon": "-65.647727",
+    "type": "country"
   },
   {
     "terr_id": "37",
@@ -2040,7 +2266,8 @@
     "terr_name": "British Virgin Islands",
     "lat": "18.444589",
     "iso3": "VGB",
-    "lon": "-64.530423"
+    "lon": "-64.530423",
+    "type": "country"
   },
   {
     "terr_id": "257",
@@ -2049,7 +2276,8 @@
     "terr_name": "United States Virgin Island",
     "lat": "17.905107",
     "iso3": "VIR",
-    "lon": "-64.807034"
+    "lon": "-64.807034",
+    "type": "country"
   },
   {
     "terr_id": "262",
@@ -2058,7 +2286,8 @@
     "terr_name": "Vietnam",
     "lat": "14.287268",
     "iso3": "VNM",
-    "lon": "108.341384"
+    "lon": "108.341384",
+    "type": "country"
   },
   {
     "terr_id": "260",
@@ -2067,7 +2296,8 @@
     "terr_name": "Vanuatu",
     "lat": "-16.255053",
     "iso3": "VUT",
-    "lon": "167.718146"
+    "lon": "167.718146",
+    "type": "country"
   },
   {
     "terr_id": "209",
@@ -2076,7 +2306,8 @@
     "terr_name": "Samoa",
     "lat": "-13.758364",
     "iso3": "WSM",
-    "lon": "-172.159464"
+    "lon": "-172.159464",
+    "type": "country"
   },
   {
     "terr_id": "267",
@@ -2085,7 +2316,8 @@
     "terr_name": "Yemen",
     "lat": "15.905517",
     "iso3": "YEM",
-    "lon": "47.599591"
+    "lon": "47.599591",
+    "type": "country"
   },
   {
     "terr_id": "224",
@@ -2094,7 +2326,8 @@
     "terr_name": "South Africa",
     "lat": "-28.329047",
     "iso3": "ZAF",
-    "lon": "24.70926"
+    "lon": "24.70926",
+    "type": "country"
   },
   {
     "terr_id": "268",
@@ -2103,7 +2336,8 @@
     "terr_name": "Zambia",
     "lat": "-13.927416",
     "iso3": "ZMB",
-    "lon": "27.466171"
+    "lon": "27.466171",
+    "type": "country"
   },
   {
     "terr_id": "269",
@@ -2112,7 +2346,8 @@
     "terr_name": "Zimbabwe",
     "lat": "-19.379617",
     "iso3": "ZWE",
-    "lon": "29.729518"
+    "lon": "29.729518",
+    "type": "country"
   },
   {
     "terr_id": "",
@@ -2121,7 +2356,8 @@
     "terr_name": "Kosovo (SCR 1244)",
     "lat": "42.571",
     "iso3": "KOS",
-    "lon": "20.872"
+    "lon": "20.872",
+    "type": "country"
   },
   {
     "terr_id": "",
@@ -2130,6 +2366,7 @@
     "terr_name": "South Sudan",
     "lat": "7.37",
     "iso3": "SSD",
-    "lon": "30.34"
+    "lon": "30.34",
+    "type": "country"
   }
 ]

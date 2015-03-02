@@ -1,0 +1,76 @@
+prose:
+  rooturl: '_ssc_data'
+  metadata:
+    _ssc_data:
+      - name: 'open_project_id'
+        field:
+          element: 'text'
+          label: 'Project ID from open.undp.org'
+      - name: 'project_title'
+        field:
+          element: 'text'
+          label: 'Project title'
+      - name: 'project_objective'
+        field:
+          element: 'textarea'
+          label: 'Project objective'
+      - name: 'project_link'
+        field:
+          element: 'text'
+          label: 'Project page URL'        
+      - name: 'undp_role_type'
+        field:
+          element: 'multiselect'
+          label: 'UNDP engagement type'
+          placeholder: 'Choose action'
+          options:
+            <%= undp_role_type %>
+      - name: 'thematic_focus'
+        field:
+          element: 'multiselect'
+          label: 'Thematic Focus'
+          placeholder: 'Select area(s) of focus'
+          options:
+            <%= thematic_focus %>
+      - name: 'territorial_focus'
+        field:
+          element: 'multiselect'
+          label: 'Territorial focus'
+          placeholder: 'Select area(s) of focus'
+          options:
+            <%= territorial_focus %>
+      - name: 'scale'
+        field:
+          element: 'select'
+          label: 'Scale of operation'
+          placeholder: 'National, regional or global'
+          options:
+            <%= scale %>
+      - name: 'region'
+        field:
+          element: 'multiselect'
+          label: 'Region'
+          placeholder: 'Select region'
+          options: 
+            <%= region %>
+      - name: 'host_location'
+        field:
+          element: 'multiselect'
+          label: 'Project location (country, etc)'
+          placeholder: 'Select location(s)'
+          alterable: true
+          options:
+            <%= country %>
+      - name: 'partner_type'
+        field:
+          element: 'multiselect'
+          label: 'Partner types'
+          options:
+            <%= partner_type %>
+      - name: 'partner_location'
+        field:
+          element: 'multiselect'
+          label: 'Partner location (country, etc)'
+          placeholder: 'Select location(s)'
+          options:
+            <%= country %>
