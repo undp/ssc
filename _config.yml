@@ -69,7 +69,7 @@ prose:
             - name: Small Island Developing States
               value: sids
             - name: Fragile States
-              value: fragile_state
+              value: fragile_states
             - name: Least Developed Countries
               value: ldc
             - name: High Income Countries

@@ -121,7 +121,7 @@
   },
   {
     "name": "Fragile States",
-    "short": "fragile_state",
+    "short": "fragile_states",
     "type": "territorial_focus",
     "forFilter": "territorial_focus"
   },
