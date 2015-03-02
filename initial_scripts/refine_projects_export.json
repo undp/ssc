@@ -3873,7 +3873,7 @@
     {
       "project_id" : "xxxaa76f6ea",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Cook Islands, Fiji, Micronesia (Federated States of), Marshall Islands, Nauru, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tokelau, Tuvalu, Vanuatu ",
       "region" : "Asia & Pacific",
       "territorial_focus" : "SIDS",
@@ -3888,7 +3888,7 @@
     {
       "project_id" : "xxx999eca2e",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Morocco, Mauritania, Gabon, Senegal",
       "region" : "Arab States, Africa",
       "territorial_focus" : "MIC, LDC",
@@ -3903,7 +3903,7 @@
     {
       "project_id" : "xxx6c96ee80",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Wider Caribbean ",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -3918,7 +3918,7 @@
     {
       "project_id" : "xxx96eb5e2e",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Wider Caribbean ",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -3933,7 +3933,7 @@
     {
       "project_id" : "00051446",
       "open_project_id" : "00051446",
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Pacific Island Countries ",
       "region" : "Asia & Pacific",
       "territorial_focus" : "SIDS",
@@ -3948,7 +3948,7 @@
     {
       "project_id" : "00065369",
       "open_project_id" : "00065369",
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Senegal, Cape Verde, Gambia, Guinea, Guinea-Bissau, Mauritania, Senegal, Sierra Leone",
       "region" : "Africa",
       "territorial_focus" : "LDC, MIC, SIDS",
@@ -3963,7 +3963,7 @@
     {
       "project_id" : "xxx8cc275cb",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "27 Asia-Pacific countries",
       "region" : "Asia & Pacific",
       "territorial_focus" : "Fragile States, LDC, MIC",
@@ -3978,7 +3978,7 @@
     {
       "project_id" : "00051250",
       "open_project_id" : "00051250",
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Montenegro, Moldova (Republic of), Romania, The former Yugoslav Republic of Macedonia, Serbia",
       "region" : "Europe & CIS",
       "territorial_focus" : "MIC",
@@ -3993,7 +3993,7 @@
     {
       "project_id" : "xxxe80bdf41",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Organisation of Eastern Caribbean States ",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : "LDC, Fragile States, MIC",
@@ -4008,7 +4008,7 @@
     {
       "project_id" : "xxxe80bdf41",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Organisation of Eastern Caribbean States ",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : "LDC, Fragile States, MIC",
@@ -4023,7 +4023,7 @@
     {
       "project_id" : "xxx42f8756e",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "CARICOM countries",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : "MIC, LDC, Fragile States",
@@ -4038,7 +4038,7 @@
     {
       "project_id" : "xxx73950184",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Caribbean and Pacific SIDS ",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : "SIDS",
@@ -4053,7 +4053,7 @@
     {
       "project_id" : "xxx82ebfbd3",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Barbados , Dominica, Grenada, Saint Lucia, Saint Kitts and Nevis, Saint Vincent",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : "SIDS",
@@ -4068,7 +4068,7 @@
     {
       "project_id" : "xxx7a51f728",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Cuba, El Salvador, Guatemala, Bolivia, Brazil, Barbados, Trinidad and Tobago, Argentina, Dominican Republic",
       "region" : null,
       "territorial_focus" : null,
@@ -4083,7 +4083,7 @@
     {
       "project_id" : "xxxd6268078",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "LAC countries ",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -4098,7 +4098,7 @@
     {
       "project_id" : "xxxe2f7e770",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "LAC countries ",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -4113,7 +4113,7 @@
     {
       "project_id" : "xxx892abe23",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Chile, Jamaica, Virgin Islands, Trinidad and Tobago, Barbados ",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -4128,7 +4128,7 @@
     {
       "project_id" : "xxx499e2a47",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Arab states",
       "region" : "Arab States, Africa",
       "territorial_focus" : null,
@@ -4143,7 +4143,7 @@
     {
       "project_id" : "xxxb5dced12",
       "open_project_id" : null,
-      "scale" : "Regional / multi-country",
+      "scale" : "Regional",
       "location" : "Benin, Burkina Faso, Cape Verde, Côte d'Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo",
       "region" : "Africa",
       "territorial_focus" : "LDC, MIC, Fragile States",

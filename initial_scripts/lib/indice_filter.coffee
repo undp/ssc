@@ -1,18 +1,18 @@
 fs = require 'fs'
 _  = require 'underscore'
 
-class ProcessFilter
+class FilterIndice
   types: ['region', 'thematic_focus', 'partner_type']
 
   constructor: ->
-    console.log 'created ProcessFilter'
+    console.log 'created FilterIndice'
     @configureTypes()
 
   configureTypes: ->
     @indices = JSON.parse(fs.readFileSync('../_includes/data/indices.json', encoding: 'utf8'))
 
     _.each @types, (type) =>
-      @[type] = _.where(@indices, type: type)
+      @[type] = _.findWhere(@indices, type: type).values
 
   filter: (type, text) ->
     throw 'Incorrect filter type' unless _.include(@types, type)
@@ -25,6 +25,7 @@ class ProcessFilter
       if matched[0]
         matched[0].short
       else
+        console.log @['thematic_focus']
         console.error("Can't match: '#{term}' for type '#{type}'")
     )
 
@@ -37,4 +38,4 @@ class ProcessFilter
     return unless term
     term.replace (/\(|\)/g), ""
 
-module.exports = ProcessFilter
+module.exports = FilterIndice

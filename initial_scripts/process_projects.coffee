@@ -3,14 +3,14 @@ _ = require 'underscore'
 _.str = require 'underscore.string'
 async = require 'async'
 
-ProcessFilter = require './lib/ssc_process'
+IndiceFilter = require './lib/indice_filter'
 
 class Process
   constructor: ->
     @countries     = JSON.parse(fs.readFileSync('../_includes/data/countries.json', encoding: 'utf8'))
     @projects      = JSON.parse(fs.readFileSync('./refine_projects_export.json', encoding: 'utf8')).rows
     @template      = fs.readFileSync('./lib/project_file_template._', encoding: 'utf8')
-    @processFilter = new ProcessFilter
+    @indiceFilter = new IndiceFilter
 
     console.log "Loaded #{@projects.length} projects"
 
@@ -57,7 +57,7 @@ class Process
 
   normalise: (type, text) ->
     return unless text
-    @processFilter.filter(type, text)
+    @indiceFilter.filter(type, text)
 
   normalise_scale: (scale) ->
     return unless scale

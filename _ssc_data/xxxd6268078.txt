@@ -8,7 +8,7 @@ region:
   - lac
 partner_type: 
 project_title: "Human Local Development Programme (PDHL Cuba)"
-scale: regional / multi-country
+scale: regional
 project_objective: ""
 territorial_focus: 
 undp_role_type: 

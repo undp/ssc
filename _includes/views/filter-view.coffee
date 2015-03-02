@@ -72,7 +72,7 @@ class FilterView extends Backbone.View
   search: (term) ->
     if term
       @filterGroups = _.groupBy(app.filters.search(term), (i) ->
-        i.get('forFilter')
+        i.get('filterTitle')
       )
     else
       @resetFilterGroups()

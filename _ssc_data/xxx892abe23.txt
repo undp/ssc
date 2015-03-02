@@ -15,7 +15,7 @@ partner_type:
   - international_cooperation_development_agencies
   - national_governments
 project_title: "Caribbean Risk Management Initiative (CRMI), phase II"
-scale: regional / multi-country
+scale: regional
 project_objective: ""
 territorial_focus: 
 undp_role_type: 

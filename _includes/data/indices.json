@@ -1,158 +1,142 @@
 [
   {
-    "name": "International cooperation / development agencies",
-    "short": "international_cooperation_development_agencies",
     "type": "partner_type",
-    "forFilter": "partner"
+    "filterTitle": "partner",
+    "values": [
+      {
+        "name": "International cooperation / development agencies",
+        "short": "international_cooperation_development_agencies"
+      },
+      {
+        "name": "Regional / Inter-governmental organizations",
+        "short": "regional_inter_governmental_organizations"
+      },
+      {
+        "name": "National governments",
+        "short": "national_governments"
+      },
+      {
+        "name": "Sub-national governments",
+        "short": "sub_national_governments"
+      },
+      {
+        "name": "CSO",
+        "short": "cso"
+      },
+      {
+        "name": "Academia",
+        "short": "academia"
+      },
+      {
+        "name": "Private sector",
+        "short": "private_sector"
+      }
+    ]
   },
   {
-    "name": "Regional / Inter-governmental organizations",
-    "short": "regional_inter_governmental_organizations",
-    "type": "partner_type",
-    "forFilter": "partner"
-  },
-  {
-    "name": "National governments",
-    "short": "national_governments",
-    "type": "partner_type",
-    "forFilter": "partner"
-  },
-  {
-    "name": "Sub-national governments",
-    "short": "sub_national_governments",
-    "type": "partner_type",
-    "forFilter": "partner"
-  },
-  {
-    "name": "CSO",
-    "short": "cso",
-    "type": "partner_type",
-    "forFilter": "partner"
-  },
-  {
-    "name": "Academia",
-    "short": "academia",
-    "type": "partner_type",
-    "forFilter": "partner"
-  },
-  {
-    "name": "Private sector",
-    "short": "private_sector",
-    "type": "partner_type",
-    "forFilter": "partner"
-  },
-  {
-    "name": "Latin America & Caribbean",
-    "short": "lac",
     "type": "region",
-    "forFilter": "location"
+    "filterTitle": "region",
+    "values": [
+      {
+        "name": "Latin America & Caribbean",
+        "short": "lac"
+      },
+      {
+        "name": "Africa",
+        "short": "africa"
+      },
+      {
+        "name": "Asia & Pacific",
+        "short": "asia_pacific"
+      },
+      {
+        "name": "Arab States",
+        "short": "arab_states"
+      },
+      {
+        "name": "Europe & CIS",
+        "short": "europe_cis"
+      }
+    ]
   },
   {
-    "name": "Africa",
-    "short": "africa",
-    "type": "region",
-    "forFilter": "location"
-  },
-  {
-    "name": "Asia & Pacific",
-    "short": "asia_pacific",
-    "type": "region",
-    "forFilter": "location"
-  },
-  {
-    "name": "Arab States",
-    "short": "arab_states",
-    "type": "region",
-    "forFilter": "location"
-  },
-  {
-    "name": "Europe & CIS",
-    "short": "europe_cis",
-    "type": "region",
-    "forFilter": "location"
-  },
-  {
-    "name": "Sustainable development pathways",
-    "short": "sustainable_development_pathways",
     "type": "thematic_focus",
-    "forFilter": "theme"
+    "filterTitle": "theme",
+    "values": [
+      {
+        "name": "Sustainable development pathways",
+        "short": "sustainable_development_pathways"
+      },
+      {
+        "name": "Resilience building",
+        "short": "resilience_building"
+      },
+      {
+        "name": "Inclusive and effective democratic governance",
+        "short": "inclusive_and_effective_democratic_governance"
+      }
+    ]
   },
   {
-    "name": "Resilience building",
-    "short": "resilience_building",
-    "type": "thematic_focus",
-    "forFilter": "theme"
-  },
-  {
-    "name": "Inclusive and effective democratic governance",
-    "short": "inclusive_and_effective_democratic_governance",
-    "type": "thematic_focus",
-    "forFilter": "theme"
-  },
-  {
-    "name": "Builder of capacities",
-    "short": "builder_of_capacities",
     "type": "undp_role_type",
-    "forFilter": "role"
+    "filterTitle": "role",
+    "values": [
+      {
+        "name": "Builder of capacities",
+        "short": "builder_of_capacities"
+      },
+      {
+        "name": "Knowledge broker",
+        "short": "knowledge_broker"
+      },
+      {
+        "name": "Facilitator of partnerships",
+        "short": "facilitator_of_partnerships"
+      }
+    ]
   },
   {
-    "name": "Knowledge broker",
-    "short": "knowledge_broker",
-    "type": "undp_role_type",
-    "forFilter": "role"
-  },
-  {
-    "name": "Facilitator of partnerships",
-    "short": "facilitator_of_partnerships",
-    "type": "undp_role_type",
-    "forFilter": "role"
-  },
-  {
-    "name": "Middle Income Countries",
-    "short": "mic",
     "type": "territorial_focus",
-    "forFilter": "territorial_focus"
+    "filterTitle": "territorial_focus",
+    "values": [
+      {
+        "name": "Middle Income Countries",
+        "short": "mic"
+      },
+      {
+        "name": "Small Island Developing States",
+        "short": "sids"
+      },
+      {
+        "name": "Fragile States",
+        "short": "fragile_states"
+      },
+      {
+        "name": "Least Developed Countries",
+        "short": "ldc"
+      },
+      {
+        "name": "High Income Countries",
+        "short": "hic"
+      }
+    ]
   },
   {
-    "name": "Small Island Developing States",
-    "short": "sids",
-    "type": "territorial_focus",
-    "forFilter": "territorial_focus"
-  },
-  {
-    "name": "Fragile States",
-    "short": "fragile_states",
-    "type": "territorial_focus",
-    "forFilter": "territorial_focus"
-  },
-  {
-    "name": "Least Developed Countries",
-    "short": "ldc",
-    "type": "territorial_focus",
-    "forFilter": "territorial_focus"
-  },
-  {
-    "name": "High Income Countries",
-    "short": "hic",
-    "type": "territorial_focus",
-    "forFilter": "territorial_focus"
-  },
-  {
-    "name": "Global",
-    "short": "global",
     "type": "scale",
-    "forFilter": "scale"
-  },
-  {
-    "name": "Regional",
-    "short": "regional",
-    "type": "scale",
-    "forFilter": "scale"
-  },
-  {
-    "name": "National",
-    "short": "national",
-    "type": "scale",
-    "forFilter": "scale"
+    "filterTitle": "scale",
+    "values": [
+      {
+        "name": "Global",
+        "short": "global"
+      },
+      {
+        "name": "Regional",
+        "short": "regional"
+      },
+      {
+        "name": "National",
+        "short": "national"
+      }
+    ]
   }
 ]
