@@ -5,9 +5,8 @@ yaml     = require 'js-yaml'
 class CreateProseConfig
   constructor: ->
     @indices = JSON.parse(fs.readFileSync('../_includes/data/indices.json', encoding: 'utf8'))
-    countryIndices = JSON.parse(fs.readFileSync('../_includes/data/countries.json', encoding: 'utf8'))
-    
-    @indices.country = countryIndices
+    @countryIndices = JSON.parse(fs.readFileSync('../_includes/data/countries.json', encoding: 'utf8'))
+
     console.log "Loaded indices (#{_.toArray(@indices).length} categories)"
 
     processed = @process()
@@ -33,14 +32,14 @@ class CreateProseConfig
 
   process: ->
     data =
-      undp_role_type    : @formatIndices(@indices['undp_role_type'].values)
-      thematic_focus    : @formatIndices(@indices['thematic_focus'].values)
-      territorial_focus : @formatIndices(@indices['territorial_focus'].values)
-      scale             : @formatIndices(@indices['scale'].values)
-      region            : @formatIndices(@indices['region'].values)
-      host_location     : @formatCountries(@indices['country'])
-      partner_location  : @formatCountries(@indices['country'])
-      partner_type      : @formatIndices(@indices['partner_type'].values)
+      undp_role_type    : @formatIndices(_.findWhere(@indices, type: 'undp_role_type').values)
+      thematic_focus    : @formatIndices(_.findWhere(@indices, type: 'thematic_focus').values)
+      territorial_focus : @formatIndices(_.findWhere(@indices, type: 'territorial_focus').values)
+      scale             : @formatIndices(_.findWhere(@indices, type: 'scale').values)
+      region            : @formatIndices(_.findWhere(@indices, type: 'region').values)
+      host_location     : @formatCountries(@countryIndices)
+      partner_location  : @formatCountries(@countryIndices)
+      partner_type      : @formatIndices(_.findWhere(@indices, type: 'partner_type').values)
 
     prose:
       rooturl: '_ssc_data'
