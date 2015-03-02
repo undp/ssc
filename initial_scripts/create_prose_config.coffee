@@ -32,16 +32,6 @@ class CreateProseConfig
       value: country.iso3
 
   process: ->
-    # data =
-    #   undp_role_type    : @formatIndices(_.where @indices, type: 'undp_role_type')
-    #   thematic_focus    : @formatIndices(_.where @indices, type: 'thematic_focus')
-    #   territorial_focus : @formatIndices(_.where @indices, type: 'territorial_focus')
-    #   scale             : @formatIndices(_.where @indices, type: 'scale')
-    #   region            : @formatIndices(_.where @indices, type: 'region')
-    #   host_location     : @formatCountries(_.where @indices, type: 'country')
-    #   partner_location  : @formatCountries(_.where @indices, type: 'country')
-    #   partner_type      : @formatIndices(_.where @indices, type: 'partner_type')
-
     data =
       undp_role_type    : @formatIndices(@indices['undp_role_type'].values)
       thematic_focus    : @formatIndices(@indices['thematic_focus'].values)
