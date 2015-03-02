@@ -1,6 +1,6 @@
-fs = require 'fs'
-_ = require 'underscore'
-yaml = require 'js-yaml'
+fs       = require 'fs'
+_        = require 'underscore'
+yaml     = require 'js-yaml'
 
 class CreateProseConfig
   constructor: ->
@@ -12,11 +12,14 @@ class CreateProseConfig
 
     processed = @process()
     @write(processed)
-    console.log("Created `_prose.yml` config file")
+    console.log("Updated `_config.yml` based on `indices.json`")
 
   write: (data) ->
-    content = yaml.safeDump(data)
-    fs.writeFileSync "../_prose.yml", content
+    existingConfig = yaml.safeLoad(fs.readFileSync('../_config.yml', 'utf8'))
+    existingConfig.prose?= null
+    newConfig = _.extend(existingConfig, data)
+    content = yaml.dump(newConfig)
+    fs.writeFileSync "../_config.yml", content
 
   process: ->
     data =
@@ -108,14 +111,14 @@ class CreateProseConfig
             label: 'Partner types'
             options:
               data.partner_type
-        ,
-          name: 'partner_location'
-          field:
-            element: 'multiselect'
-            label: 'Partner location (country, etc)'
-            placeholder: 'Select location(s)'
-            options:
-              data.partner_location
+        # ,
+        #   name: 'partner_location'
+        #   field:
+        #     element: 'multiselect'
+        #     label: 'Partner location (country, etc)'
+        #     placeholder: 'Select location(s)'
+        #     options:
+        #       data.partner_location
         ]
 
 new CreateProseConfig
