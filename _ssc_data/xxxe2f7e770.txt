@@ -8,7 +8,7 @@ region:
   - lac
 partner_type: 
 project_title: "Sabana Camagüey – Mainstreaming and sustaining Biodiversity Conservation in three Productive Sectors of the Sabana Camagüey Ecosystem"
-scale: regional / multi-country
+scale: regional
 project_objective: ""
 territorial_focus: 
 undp_role_type: 

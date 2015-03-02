@@ -19,7 +19,7 @@ partner_type:
   - national_governments
   - private_sector
 project_title: "The Global Fund to Fight AIDS, Tuberculosis and Malaria"
-scale: regional / multi-country
+scale: regional
 project_objective: ""
 territorial_focus: 
 undp_role_type: 
