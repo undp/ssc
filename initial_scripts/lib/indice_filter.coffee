@@ -12,7 +12,7 @@ class FilterIndice
     @indices = JSON.parse(fs.readFileSync('../_includes/data/indices.json', encoding: 'utf8'))
 
     _.each @types, (type) =>
-      @[type] = @indices[type].values
+      @[type] = _.findWhere(@indices, type: type).values
 
   filter: (type, text) ->
     throw 'Incorrect filter type' unless _.include(@types, type)
