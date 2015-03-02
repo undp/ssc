@@ -11,7 +11,15 @@ class HeadlinesView extends Backbone.View
   render: ->
     compiled = @template()(
       collection: @collection
+      stats: @calculateStats()
     )
     @$el.html(compiled)
     @
 
+  calculateStats: ->
+    activeCountriesCount: 
+      _.select(_.select(app.projects.facets(), (i) -> 
+        i.data.name =='host_location'
+      )[0].values, (i) -> 
+        i.value != ""
+      ).length
