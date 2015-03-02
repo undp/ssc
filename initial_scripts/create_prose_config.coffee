@@ -14,20 +14,108 @@ class CreateProseConfig
     @write(processed)
     console.log("Created `_prose.yml` config file")
 
-  process: ->
-    data =
-      undp_role_type    : 'undp_role_type'
-      thematic_focus    : 'thematic_focus'
-      territorial_focus : 'territorial_focus'
-      scale             : 'scale'
-      region            : 'region'
-      country           : _.filter(@indices, {})
-      partner_type      : 'partner_type'
-
   write: (data) ->
-    compiled = _.template(@template)
-    content = compiled(data)
+    content = yaml.safeDump(data)
     fs.writeFileSync "../_prose.yml", content
 
+  process: ->
+    data =
+      undp_role_type    : _.where @indices, type: 'undp_role_type'
+      thematic_focus    : _.where @indices, type: 'thematic_focus'
+      territorial_focus : _.where @indices, type: 'territorial_focus'
+      scale             : _.where @indices, type: 'scale'
+      region            : _.where @indices, type: 'region'
+      host_location     : _.where @indices, type: 'country'
+      partner_location  : _.where @indices, type: 'country'
+      partner_type      : _.where @indices, type: 'partner_type'
+
+    prose:
+      rooturl: '_ssc_data'
+      metadata:
+        _ssc_data:[
+          name: 'open_project_id'
+          field:
+            element: 'text'
+            label: 'Project ID from open.undp.org'
+        ,
+          name: 'project_title'
+          field:
+            element: 'text'
+            label: 'Project title'
+        ,
+          name: 'project_objective'
+          field:
+            element: 'textarea'
+            label: 'Project objective'
+        ,
+          name: 'project_link'
+          field:
+            element: 'text'
+            label: 'Project page URL'        
+        ,
+          name: 'undp_role_type'
+          field:
+            element: 'multiselect'
+            label: 'UNDP engagement type'
+            placeholder: 'Choose action'
+            options:
+              data.undp_role_type
+        ,
+          name: 'thematic_focus'
+          field:
+            element: 'multiselect'
+            label: 'Thematic Focus'
+            placeholder: 'Select area(s) of focus'
+            options:
+              data.thematic_focus
+        ,
+          name: 'territorial_focus'
+          field:
+            element: 'multiselect'
+            label: 'Territorial focus'
+            placeholder: 'Select area(s) of focus'
+            options:
+              data.territorial_focus
+        ,
+          name: 'scale'
+          field:
+            element: 'select'
+            label: 'Scale of operation'
+            placeholder: 'National, regional or global'
+            options:
+              data.scale
+        ,
+          name: 'region'
+          field:
+            element: 'multiselect'
+            label: 'Region'
+            placeholder: 'Select region'
+            options: 
+              data.region
+        ,
+          name: 'host_location'
+          field:
+            element: 'multiselect'
+            label: 'Project location (country, etc)'
+            placeholder: 'Select location(s)'
+            alterable: true
+            options:
+              data.host_location
+        ,
+          name: 'partner_type'
+          field:
+            element: 'multiselect'
+            label: 'Partner types'
+            options:
+              data.partner_type
+        ,
+          name: 'partner_location'
+          field:
+            element: 'multiselect'
+            label: 'Partner location (country, etc)'
+            placeholder: 'Select location(s)'
+            options:
+              data.partner_location
+        ]
 
 new CreateProseConfig
