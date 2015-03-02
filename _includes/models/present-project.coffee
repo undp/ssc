@@ -23,7 +23,7 @@ class PresentProject
       
       name: indice.name
       short: item.toLowerCase()
-      forFilter: indice.forFilter
+      filterTitle: indice.filterTitle
 
   processWithoutFilter: (field) ->
     @model.get(field).map (item) ->
