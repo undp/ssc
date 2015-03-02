@@ -1,6 +1,7 @@
-{
-  "partner_type": {
-    "forFilter": "partner",
+[
+  {
+    "type": "partner_type",
+    "filterTitle": "partner",
     "values": [
       {
         "name": "International cooperation / development agencies",
@@ -32,8 +33,9 @@
       }
     ]
   },
-  "region": {
-    "forFilter": "region",
+  {
+    "type": "region",
+    "filterTitle": "region",
     "values": [
       {
         "name": "Latin America & Caribbean",
@@ -57,8 +59,9 @@
       }
     ]
   },
-  "thematic_focus": {
-    "forFilter": "theme",
+  {
+    "type": "thematic_focus",
+    "filterTitle": "theme",
     "values": [
       {
         "name": "Sustainable development pathways",
@@ -74,8 +77,9 @@
       }
     ]
   },
-  "undp_role_type": {
-    "forFilter": "role",
+  {
+    "type": "undp_role_type",
+    "filterTitle": "role",
     "values": [
       {
         "name": "Builder of capacities",
@@ -91,8 +95,9 @@
       }
     ]
   },
-  "territorial_focus": {
-    "forFilter": "territorial_focus",
+  {
+    "type": "territorial_focus",
+    "filterTitle": "territorial_focus",
     "values": [
       {
         "name": "Middle Income Countries",
@@ -116,8 +121,9 @@
       }
     ]
   },
-  "scale": {
-    "forFilter": "scale",
+  {
+    "type": "scale",
+    "filterTitle": "scale",
     "values": [
       {
         "name": "Global",
@@ -133,4 +139,4 @@
       }
     ]
   }
-}
+]
