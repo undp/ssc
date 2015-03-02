@@ -66,11 +66,6 @@ class CreateProseConfig
             element: 'text'
             label: 'Project page URL'        
         ,
-          name: 'ssc_description'
-          field:
-            element: 'textarea'
-            label: 'Description of SSC activity'
-        ,
           name: 'undp_role_type'
           field:
             element: 'multiselect'
