@@ -1,23 +1,27 @@
 fs = require 'fs'
 _  = require 'underscore'
 
-class FilterIndice
+class MatchingTerm
   types: ['region', 'thematic_focus', 'partner_type']
 
   constructor: ->
-    console.log 'created FilterIndice'
     @configureTypes()
 
   configureTypes: ->
-    @indices = JSON.parse(fs.readFileSync('../_includes/data/indices.json', encoding: 'utf8'))
+    @indices = JSON.parse(fs.readFileSync(__dirname + '/../../_includes/data/indices.json', encoding: 'utf8'))
 
     _.each @types, (type) =>
       @[type] = _.findWhere(@indices, type: type).values
 
-  filter: (type, text) ->
-    throw 'Incorrect filter type' unless _.include(@types, type)
+  find: (type, text) ->
     throw 'No search text given' unless text
 
+    if _.include(@types, type)
+      @typeBased(type, text)
+    else
+      @["normalise_#{type}"](text)
+
+  typeBased: (type, text) ->
     _.map(@splitComma(text), (term) =>
       matched = _.filter(this[type], (el) ->
         term.match(el.name)
@@ -29,6 +33,20 @@ class FilterIndice
         console.error("Can't match: '#{term}' for type '#{type}'")
     )
 
+  normalise_scale: (scale) ->
+    return unless scale
+    scale.toLowerCase()
+
+  normalise_undp_role_type: (data) ->
+    _.map(@splitComma(data), (i) ->
+      _.str.underscored(i)
+    )
+
+  normalise_territorial_focus: (data) ->
+    _.map(@splitComma(data), (i) ->
+      _.str.underscored(i)
+    )
+    
   splitComma: (data) ->
     return unless data
     data.split(',').map (i) ->
@@ -38,4 +56,4 @@ class FilterIndice
     return unless term
     term.replace (/\(|\)/g), ""
 
-module.exports = FilterIndice
+module.exports = MatchingTerm

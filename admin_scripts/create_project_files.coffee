@@ -3,14 +3,15 @@ _ = require 'underscore'
 _.str = require 'underscore.string'
 async = require 'async'
 
-IndiceFilter = require './lib/indice_filter'
+MatchingTerm = require './lib/matching_term'
 
 class Process
   constructor: ->
-    @countries     = JSON.parse(fs.readFileSync('../_includes/data/countries.json', encoding: 'utf8'))
-    @projects      = JSON.parse(fs.readFileSync('./source/refine_projects_export.json', encoding: 'utf8')).rows
-    @template      = fs.readFileSync('./lib/project_file_template._', encoding: 'utf8')
-    @indiceFilter = new IndiceFilter
+    @countries     = JSON.parse(fs.readFileSync(__dirname + '/../_includes/data/countries.json', encoding: 'utf8'))
+    @projects      = JSON.parse(fs.readFileSync(__dirname + '/source/refine_projects_export.json', encoding: 'utf8')).rows
+    @template      = fs.readFileSync(__dirname + '/lib/project_file_template._', encoding: 'utf8')
+    # MatchingTerm#find takes `type` and `text` and returns matching term
+    @matchingTerm = new MatchingTerm
 
     console.log "Loaded #{@projects.length} projects"
 
@@ -31,14 +32,14 @@ class Process
       # Project description
       "project_title"     : project.project_title,
       "project_objective" : project.project_objective,
-      "scale"             : @normalise_scale(project.scale),
+      "scale"             : @normalise('scale', project.scale),
       "host_location"     : @normalise_location(project.location),
       "region"            : @normalise('region', project.region),
       # SSC intervention
-      "undp_role_type"    : @normalise_undp_role_type(project.undp_role_type),
+      "undp_role_type"    : @normalise('undp_role_type', project.undp_role_type),
       "thematic_focus"    : @normalise('thematic_focus', project.thematic_focus),
       "ssc_description"   : project.ssc_description,
-      "territorial_focus" : @normalise_territorial_focus(project.territorial_focus),
+      "territorial_focus" : @normalise('territorial_focus', project.territorial_focus),
       "partner_location"  : @normalise_partner_location(project.ssc_description),
       "partner_type"      : @normalise('partner_type', project.partner_type),
       # Links
@@ -53,29 +54,15 @@ class Process
   writeEach: (project) ->
     compiled = _.template(@template)
     content = compiled(project)
-    fs.writeFileSync "../_ssc_data/#{project.project_id}.txt", content
+    fs.writeFileSync(__dirname + "/../_ssc_data/#{project.project_id}.txt", content)
 
   normalise: (type, text) ->
     return unless text
-    @indiceFilter.filter(type, text)
-
-  normalise_scale: (scale) ->
-    return unless scale
-    scale.toLowerCase()
+    @matchingTerm.find(type, text)
 
   normalise_location: (location) ->
     @host_location = _.map(@splitComma(location), (i) =>
       @match_similar_country_name(i)
-    )
-
-  normalise_undp_role_type: (data) ->
-    _.map(@splitComma(data), (i) ->
-      _.str.underscored(i)
-    )
-
-  normalise_territorial_focus: (data) ->
-    _.map(@splitComma(data), (i) ->
-      _.str.underscored(i)
     )
 
   normalise_partner_location: (data) ->
