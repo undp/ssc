@@ -13,7 +13,7 @@ scale: national
 project_objective: "To support both UNDP offices in their efforts to implement their respective PFAs, taking into account the country specificities and UNDP commitments acquired in the above mentioned PFAs. This engagement will bring innovative and catalytic solutions adapted to each country context, with a focus on building capacity in the CO to build on existing relations and leverage new and innovative partnerships for development and SSC in the case of Brazil, and on supporting the effective implementation of south south and triangular cooperation schemes in the case of Mexico. "
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
   - knowledge_broker
   - facilitator_of_partnerships
 partner_location: 

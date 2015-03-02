@@ -15,7 +15,7 @@ scale: national
 project_objective: "Objetive: to improve Thailand's development aid effectiveness and aid policy coherence and coordination through initiatives such as  conducting Thailand's strategic review of international development cooperation during the past decade, developing international cooperation strategies, and conducting policy analysis of Thailand's international cooperation.  National focal points and stakeholders will be strengthened with capacities in Official Development Assistance (ODA) management and for evidence-based policy development.  Harmonized and better national ODA M&E systems will better facilitate knowledge exchange and exchange of best practices on international cooperation.  Global partnerships and knowledge exchange will play key roles for bilateral and multilateral cooperation and  help identify SSC demands and link Thailand with other SSC partners.  The Programme will focus on increasing Thailand's south-south networking and linkages with other international development partners, as well as on improving national policies and capacity for managing SSC and ASEAN integration implications.  Enhanced capacity of national agencies and partners in knowledge management will help Thailand better respond to emerging demand for advocacy and awareness-raising and for facilitating knowledge development. "
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
   - knowledge_broker
 partner_location: 
 published: true

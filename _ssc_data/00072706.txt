@@ -14,7 +14,7 @@ scale: national
 project_objective: "To increase capacity & understanding of Government, private sectors and general public on the preparation and implication of ASEAN/AEC integration."
 territorial_focus: ldc
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
 partner_location: 
 published: true
 ---

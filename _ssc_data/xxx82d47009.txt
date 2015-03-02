@@ -14,7 +14,7 @@ scale: national
 project_objective: ""
 territorial_focus: fragile_states
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
   - knowledge_broker
 partner_location: 
   - TUR

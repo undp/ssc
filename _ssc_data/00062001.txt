@@ -14,7 +14,7 @@ scale: national
 project_objective: "Objective (South-south cooperation goals): To position Mexico as a centre of excellence for regional cooperation by four different means: i) through the documentation of its experiences, ii) through the dissemination of lessons learned; iii) through the development of in-country capacity courses oriented to train other countries, and iv) through the offering of out-country technical assistance."
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
   - knowledge_broker
 partner_location: 
 published: true

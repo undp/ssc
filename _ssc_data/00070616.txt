@@ -16,7 +16,7 @@ scale: national
 project_objective: "Transfer of Renewable Energy Technologies from China and Africa: Zambia Renewable Energy Trilateral.  to introduce solar and hydropower technology in rural Zambia under a partnership between UNDP, MOST, the Ministry of Mines, Energy and Water Development of Zambia, research institutions, the private sector and local communities."
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
   - knowledge_broker
 partner_location: 
   - ZMB

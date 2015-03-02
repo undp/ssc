@@ -13,7 +13,7 @@ scale: national
 project_objective: "To consolidate Brazilian SSC throughout the institutional strengthening of the Brazilian Agency for Cooperation and the improvement of the execution of its programs and projects, within a result-based management orientation. It aims to increase signed contracts between Brazil and other developing countries under technical cooperation by 20%. "
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
 partner_location: 
 published: true
 ---

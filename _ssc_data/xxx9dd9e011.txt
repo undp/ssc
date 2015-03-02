@@ -13,7 +13,7 @@ scale: national
 project_objective: "Develop capacities and strengthen institutions in areas identified as priority for Mexico and Chile, such as science and technology, education and culture; Identify areas of cooperation in which Mexico and Chile share skills and interests for the benefit of third countries; Financing programs and projects of bilateral and trilateral cooperation through an annual joint budget of 2 million dollars."
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
 partner_location: 
 published: true
 ---

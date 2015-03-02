@@ -13,7 +13,7 @@ scale: national
 project_objective: "Reinforcement of cooperation programmes of UNDP in Morocco. to promote and reinforce Morocco's participation in the internationla networks of cooperation and development."
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
 partner_location: 
 published: true
 ---

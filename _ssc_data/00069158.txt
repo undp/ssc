@@ -15,7 +15,7 @@ scale: national
 project_objective: "Support the process of legislative development and implementation of the right to consultation and participation of indigenous peoples in Bolivia"
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
   - knowledge_broker
 partner_location: 
   - PER

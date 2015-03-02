@@ -14,7 +14,7 @@ scale: national
 project_objective: "To support the implementation, monitoring and evaluation of the Country Programme signed between the Government, UNDP, and its corresponding Action Plan. Support the strategic positioning and consolidation of the Uruguayan Agency for International Cooperation with their respective products and activities under the document signed between the Chairman of the Board of the Uruguay Agency for International Cooperation and the United Nations System of Uruguay "
 territorial_focus: hic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
 partner_location: 
 published: true
 ---

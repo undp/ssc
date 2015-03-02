@@ -12,7 +12,7 @@ scale: national
 project_objective: "UNDP's global forum for policy dialogue and South-South learning on development innovations (headquarters in Brasilia, Brazil). to equip policymakers in the developing world with the skills necessary to design, implement and evaluate policies and programmes towards the attainment of high inclusive growth."
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
 partner_location: 
 published: true
 ---

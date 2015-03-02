@@ -13,7 +13,7 @@ scale: national
 project_objective: ""
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
   - knowledge_broker
 partner_location: 
   - PER

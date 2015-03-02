@@ -13,7 +13,7 @@ scale: national
 project_objective: "To help develop capacity of national governments, parliamentarians, CSOs, academia for human development oriented policy making and advocacy. This is expected to deepen the reach of human development paradigm across various actors. South south cooperation will be the preferred modality to achieve this objective."
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
 partner_location: 
 published: true
 ---

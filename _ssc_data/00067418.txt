@@ -13,7 +13,7 @@ scale: national
 project_objective: "To support the government of Indonesia (GOI) in moving forward from the paradigm of donor-recipient relationships to partnerships for development effectiveness.  This project will pilot innovative partnerships including SSC, in line with the Grand Design 2011-2025 and Blue Print 2011-2014 of Indonesia SSC.  It is expected to strengthen the cooperation between GOI and UNDP in programme/project management including on the 'UN Working Together'.  The project will focus on institutional strengthening, policy support and capacity building that lead to the shift in paradigm and develop further international development cooperation agendas, including post-2015 plans. "
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
 partner_location: 
   - TUR
 published: true

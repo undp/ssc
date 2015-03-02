@@ -14,7 +14,7 @@ scale: national
 project_objective: "To strengthen participatory federalism & decentralization through support to the Ministry of Inter Provincial Coordination and the Provincial Governments and in accordance with the 18th Constitutional Amendment."
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
   - knowledge_broker
 partner_location: 
   - BRA

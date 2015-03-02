@@ -17,7 +17,7 @@ scale: regional / multi-country
 project_objective: "CRMI is a knowledge network designed to promote best practices and develop capacity in the region in the fields of risk management and climate change adaptation. to provide a platform for sharing the experiences and lessons learned between different sectors, languages and cultural groups across the Caribbean in order to facilitate improved disaster risk reduction. Risk Reduction Management Centres (RRMC), formed under CRMI is a Cuban model of local risk reduction management. The model focuses on informed local decision-making based on coordinated and multi-disciplinary information management, identifying hazards, risks and vulnerabilities."
 territorial_focus: sids
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
   - knowledge_broker
 partner_location: 
 published: true

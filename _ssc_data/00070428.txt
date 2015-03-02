@@ -13,7 +13,7 @@ scale: national
 project_objective: "Vietnam playing more active role in South-South Cooperation to exchange experience and good practices in implementing MDGs with other countries, contributing to formulation and improvement of the nation's social development policies. UNDP will provide an institutional framework for monitoring, advocacy and consultancy for social development policy and South-South cooperation."
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
 partner_location: 
 published: true
 ---

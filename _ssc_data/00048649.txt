@@ -13,7 +13,7 @@ scale: national
 project_objective: "To support Romania's efforts to become a lead donor of development assistance in the priority countries and regions of Romania's international development cooperation policy. It will focus on supporting the MFA to further develop its capacity to implement ODA projects and programs by providing a flexible administrative and implementation mechanism for ODA delivery. Since EU accession in 2007, Romania has been expanding its international development cooperation. Legal and policy frameworks for Official Development Assistance (ODA) have been prepared and stipulate coordinating and monitoring role for the Ministry of Foreign Affairs (MFA). "
 territorial_focus: mic
 undp_role_type: 
-  - capacity_builder
+  - builder_of_capacities
 partner_location: 
 published: true
 ---
