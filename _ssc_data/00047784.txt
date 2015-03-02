@@ -1,7 +1,7 @@
 ---
 open_project_id: "00047784"
 thematic_focus: 
-  - sustainable_development
+  - sustainable_development_pathways
 host_location: 
   - RUS
 region: 

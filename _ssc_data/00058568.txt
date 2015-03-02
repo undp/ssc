@@ -1,7 +1,7 @@
 ---
 open_project_id: "00058568"
 thematic_focus: 
-  - sustainable_development
+  - sustainable_development_pathways
 host_location: 
   - COL
 region: 

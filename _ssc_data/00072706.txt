@@ -1,7 +1,7 @@
 ---
 open_project_id: "00072706"
 thematic_focus: 
-  - sustainable_development
+  - sustainable_development_pathways
 host_location: 
   - LAO
 region: 

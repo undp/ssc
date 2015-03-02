@@ -1,7 +1,7 @@
 ---
 open_project_id: ""
 thematic_focus: 
-  - sustainable_development
+  - sustainable_development_pathways
 host_location: 
   - MLI
 region: 
