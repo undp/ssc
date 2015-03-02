@@ -11,9 +11,8 @@ class ProcessFilter
   configureTypes: ->
     @indices = JSON.parse(fs.readFileSync('../_includes/data/indices.json', encoding: 'utf8'))
 
-    @partner_type   = _.where @indices, type: 'partner_type'
-    @region         = _.where @indices, type: 'region'
-    @thematic_focus = _.where @indices, type: 'thematic_focus'
+    _.each @types, (type) =>
+      @[type] = _.where(@indices, type: type)
 
   filter: (type, text) ->
     throw 'Incorrect filter type' unless _.include(@types, type)
@@ -26,7 +25,7 @@ class ProcessFilter
       if matched[0]
         matched[0].short
       else
-        console.error("Can't match: '#{term}' for type '#{@type}'")
+        console.error("Can't match: '#{term}' for type '#{type}'")
     )
 
   splitComma: (data) ->

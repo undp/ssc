@@ -38,7 +38,7 @@ class Process
       "undp_role_type"    : @normalise_undp_role_type(project.undp_role_type),
       "thematic_focus"    : @normalise('thematic_focus', project.thematic_focus),
       "ssc_description"   : project.ssc_description,
-      "territorial_focus" : project.territorial_focus,
+      "territorial_focus" : @normalise_territorial_focus(project.territorial_focus),
       "partner_location"  : @normalise_partner_location(project.ssc_description),
       "partner_type"      : @normalise('partner_type', project.partner_type),
       # Links
@@ -69,6 +69,11 @@ class Process
     )
 
   normalise_undp_role_type: (data) ->
+    _.map(@splitComma(data), (i) ->
+      _.str.underscored(i)
+    )
+
+  normalise_territorial_focus: (data) ->
     _.map(@splitComma(data), (i) ->
       _.str.underscored(i)
     )
