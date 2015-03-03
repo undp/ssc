@@ -18,8 +18,4 @@ class HeadlinesView extends Backbone.View
 
   calculateStats: ->
     activeCountriesCount: 
-      _.select(_.select(app.projects.facets(), (i) -> 
-        i.data.name =='host_location'
-      )[0].values, (i) -> 
-        i.value != ""
-      ).length
+      @collection.prepareFilterGroupForType('host_location').length

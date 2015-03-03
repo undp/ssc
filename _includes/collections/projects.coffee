@@ -45,6 +45,12 @@ class Projects extends Backbone.Collection
   facets: -> # @facetr.toJSON()
     @facetr.toJSON()
 
+  facetsObject: ->
+    _.object(
+      _.map @facetr.toJSON(), (facet) ->
+        [facet.data.name, facet.values]
+    )
+
   addFilter: (options) =>
     {name, value, trigger} = options
 
@@ -95,23 +101,18 @@ class Projects extends Backbone.Collection
     @sortFacetsByActiveCount()
 
     _.map(@facets(), (facet) =>
-      @removeEmptyFacetValues(facet)
+      facet.values = @removeEmptyValuesFrom(facet.values)
+      facet
     )
 
-  # prepareFilterGroup: (type) ->
-  #   throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)
-  #   console.log 'prepare filterGroup for', type
-  #   _.chain(@facets())
-  #   .filter((i) ->
-  #     i.data.name == type
-  #   ).map( (i) => @removeEmptyFacetValues(i)
-  #   ).value()
+  prepareFilterGroupForType: (type) ->
+    throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)
+    @removeEmptyValuesFrom(@facetsObject()[type])
 
-  removeEmptyFacetValues: (facet) ->
-    facet.values = _.filter(facet.values, (i) =>
+  removeEmptyValuesFrom: (values) ->
+    _.filter(values, (i) =>
       i.activeCount > 0 && i.value != ""
     )
-    facet
 
   # 
   # SERIALIZE and STORE filterState
