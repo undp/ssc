@@ -1,19 +1,19 @@
 <div class="w-tabs content-tabs" data-duration-in="50" data-duration-out="50">
   <div class="w-tab-menu tabs-menu">
-    <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="Map">
+    <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="map">
       <div>Map</div>
     </a>
-    <a class="w-tab-link w--current w-inline-block tab-menu-link" data-w-tab="Stats">
+    <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="stats">
       <div>Stats</div>
     </a>
-    <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="List">
+    <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="list">
       <div>List</div>
     </a>
   </div>
   <div class="w-tab-content">
-    <div class="w-tab-pane tab-content map" data-w-tab="Map"><img src="images/Screenshot 2015-02-19 16.07.17.png" alt="54e60bac8fb8905c20c5a907_Screenshot%202015-02-19%2016.07.17.png">
+    <div class="w-tab-pane tab-content map" data-w-tab="map"><img src="images/Screenshot 2015-02-19 16.07.17.png" alt="54e60bac8fb8905c20c5a907_Screenshot%202015-02-19%2016.07.17.png">
     </div>
-    <div class="w-tab-pane w--tab-active tab-content" data-w-tab="Stats">
+    <div class="w-tab-pane tab-content" data-w-tab="stats">
       <div class="w-row">
         <div class="w-col w-col-6">
           <div class="stat-headline">
@@ -53,7 +53,7 @@
         </div>
       </div>
     </div>
-    <div class="w-tab-pane tab-content" data-w-tab="List">
+    <div class="w-tab-pane tab-content" data-w-tab="list">
       <div class="results-list">
         <% _.each(collection, function(project){ %>
           <a class="w-clearfix w-inline-block results-list-item">

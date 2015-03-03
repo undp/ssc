@@ -14,14 +14,16 @@ class ContentView extends Backbone.View
     @$el.html(compiled)
     # @$el.find("#map").hide()
     # _.defer @vectorMap
+    @selectTab('list')
     @
 
   selectTabLink: (ev) =>
-    tabAttr = 'data-w-tab'
+    tab = ev.currentTarget.getAttribute('data-w-tab')
+    @selectTab(tab)
+
+  selectTab: (tab) ->
     linkActive = 'w--current'
     tabActive = 'w--tab-active'
-
-    tab = ev.currentTarget.getAttribute(tabAttr)
 
     @$el.find('.tab-menu-link').removeClass(linkActive)
     @$el.find(".tab-menu-link[data-w-tab='#{tab}']").addClass(linkActive)
