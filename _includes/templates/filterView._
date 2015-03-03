@@ -1,4 +1,4 @@
-<a class="w-clearfix w-inline-block control-section-title-block" href data-ix="showhide-all-filters">
+<a href='#' class="w-clearfix w-inline-block control-section-title-block"  data-ix="showhide-all-filters">
   <div class="title">Apply search filters</div><img class="filters-disclose" src="images/down4.png" width="26" alt="54e7798d942b09583a0ebb69_down4.png">
 </a>
 
@@ -7,9 +7,9 @@
   <% _.each(filterGroups, function(filterGroup){ %>
 
   <div class="filter-group">
-    <a class="group-title" data-ix="showhide-filter-groups"><%= s.humanize(filterGroup.data.name) %></a>
+    <a href='#' class="group-title" data-ix="showhide-filter-groups"><%= s.humanize(filterGroup.data.name) %></a>
     <% _.each(filterGroup.values, function(filterItem){ %>
-      <a class="w-clearfix w-inline-block group-item"
+      <a href='#' class="w-clearfix w-inline-block group-item"
         data-filter-name='<%= filterGroup.data.name %>'
         data-filter-value='<%= filterItem.value %>'>
         <div class="item-text"><%= app.filters.nameFromShort(filterItem.value) %></div>

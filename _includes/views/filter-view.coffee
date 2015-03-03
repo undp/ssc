@@ -48,10 +48,12 @@ class FilterView extends Backbone.View
     facet
 
 
-  showHideAllFilters: ->
+  showHideAllFilters: (ev) ->
+    ev.preventDefault()
     @$el.find('.filters').toggle()
 
   showHideFilterGroup: (ev) ->
+    ev.preventDefault()
     $(ev.target).siblings().toggle()
 
   addFilter: (ev) =>
