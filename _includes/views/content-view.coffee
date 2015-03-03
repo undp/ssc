@@ -12,7 +12,7 @@ class ContentView extends Backbone.View
     # TODO: console.log 'reset collection -> render contentView'
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)
-    # _.defer @vectorMap
+    _.defer @vectorMap
     @selectTab('map')
     @
 
@@ -31,18 +31,21 @@ class ContentView extends Backbone.View
     @$el.find(".w-tab-pane[data-w-tab='#{tab}']").addClass(tabActive)
 
   vectorMap: =>
+    @$mapEl = $('.w-tab-pane[data-w-tab="map"]')
+
     # TODO: console.log 'render map called'
     values = _.object(
       _.map(countries, (i) ->
-        [[i.iso2],[Math.floor((Math.random() * 100) + 1)]]
+        [[i.iso3],[Math.floor((Math.random() * 100) + 1)]]
       )
     )
-    $('#map').vectorMap(
+    console.log values
+    @$mapEl.vectorMap(
       map: 'world_mill_en'
       series:
         regions: [
           values: values
-          scale: ['#C8EEFF', '#0071A4']
+          scale: ['red', 'blue']
           normalizeFunction: 'polynomial'
         ]
       regionsSelectable: true
@@ -52,7 +55,7 @@ class ContentView extends Backbone.View
         console.log(code)
         @zoomToRegion(code)
     )
-    @mapObject = $('#map').vectorMap('get', 'mapObject')
+    @mapObject = @$mapEl.vectorMap('get', 'mapObject')
 
   zoomToRegion: (code) =>
     @mapObject.setFocus(region: code, animate: true)

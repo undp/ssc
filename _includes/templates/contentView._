@@ -11,8 +11,7 @@
     </a>
   </div>
   <div class="w-tab-content">
-    <div class="w-tab-pane tab-content map" data-w-tab="map"><img src="images/Screenshot 2015-02-19 16.07.17.png" alt="54e60bac8fb8905c20c5a907_Screenshot%202015-02-19%2016.07.17.png">
-    </div>
+    <div class="w-tab-pane tab-content map" data-w-tab="map"></div>
     <div class="w-tab-pane tab-content" data-w-tab="stats">
       <div class="w-row">
         <div class="w-col w-col-6">
