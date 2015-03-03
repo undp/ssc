@@ -29,24 +29,7 @@ class FilterView extends Backbone.View
     @$el.html(compiled)
 
   prepareFilterGroups: =>
-    # TODO: console.log 'render filters'
-
-    _.each(@collection.facetr.facets(), (facet) =>
-      facet.sortByActiveCount()
-    )
-    _.map(@collection.facets(), (facet) =>
-      facet.values = _.filter(facet.values, (i) =>
-        i.activeCount > 0 && i.value != ""
-      )
-      facet = @presentCountryFacet(facet)
-      facet
-    )
-
-  presentCountryFacet: (facet) ->
-    if facet.data.name == 'host_location' && facet.values.length > 5
-      facet.data.hideCountries = true
-    facet
-
+    @collection.prepareFilterGroups()
 
   showHideAllFilters: (ev) ->
     ev.preventDefault()

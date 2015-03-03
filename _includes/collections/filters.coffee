@@ -21,9 +21,19 @@ class Filters extends Backbone.Collection
       @add
         name: country.name
         short: country.iso3.toLowerCase()
-        type: 'country'
+        type: 'host_location'
         filterTitle: 'location'
 
+  validFilters: (filterName, filterValue) ->
+    return true unless filterName? and filterValue?
+    
+    new Backbone.Collection(
+      @where type: filterName
+    ).where(
+      short: filterValue
+    ).length > 0
+
+  # FIND/SEARCH
   nameFromShort: (short) ->
     got = @get(short)
     if got
@@ -36,14 +46,4 @@ class Filters extends Backbone.Collection
       re = new RegExp term, "i"
       indice.get('name').match re
 
-  validFilters: (filterName, filterValue) ->
-    return true unless filterName? and filterValue?
-    
-    filterName = 'country' if _.contains(['host_location'], filterName)
-
-    new Backbone.Collection(
-      @where type: filterName
-    ).where(
-      short: filterValue
-    ).length > 0
 

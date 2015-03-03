@@ -82,6 +82,36 @@ class Projects extends Backbone.Collection
     @facetr.clearValues()
     @storeState()
 
+  sortFacetsByActiveCount: ->
+    _.each(@facetr.facets(), (facet) =>
+      facet.sortByActiveCount()
+    )
+
+  # 
+  # PREPARE Facets for display
+  # 
+  prepareFilterGroups: ->
+    console.log 'prepare all filterGroups'
+    @sortFacetsByActiveCount()
+
+    _.map(@facets(), (facet) =>
+      @removeEmptyFacetValues(facet)
+    )
+
+  # prepareFilterGroup: (type) ->
+  #   throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)
+  #   console.log 'prepare filterGroup for', type
+  #   _.chain(@facets())
+  #   .filter((i) ->
+  #     i.data.name == type
+  #   ).map( (i) => @removeEmptyFacetValues(i)
+  #   ).value()
+
+  removeEmptyFacetValues: (facet) ->
+    facet.values = _.filter(facet.values, (i) =>
+      i.activeCount > 0 && i.value != ""
+    )
+    facet
 
   # 
   # SERIALIZE and STORE filterState
