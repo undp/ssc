@@ -42,9 +42,9 @@ class CreateProseConfig
       partner_type      : @formatIndices(_.findWhere(@indices, type: 'partner_type').values)
 
     prose:
-      rooturl: '_ssc_data'
+      rooturl: '_ssc_projects'
       metadata:
-        _ssc_data:[
+        _ssc_projects:[
           name: 'open_project_id'
           field:
             element: 'text'

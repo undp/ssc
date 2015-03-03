@@ -15,9 +15,9 @@ collections:
   ssc_data:
     output: true
 prose:
-  rooturl: _ssc_data
+  rooturl: _ssc_projects
   metadata:
-    _ssc_data:
+    _ssc_projects:
       - name: open_project_id
         field:
           element: text

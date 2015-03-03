@@ -18,7 +18,7 @@ class Process
 
     processed = @processAll(@projects)
     @writeAll(processed)
-    console.log("Created project files for #{@projects.length} projects - located in '_ssc_data'")
+    console.log("Created project files for #{@projects.length} projects - located in '_ssc_projects'")
 
   processAll: (projects) ->
     _.map projects, (project) =>
@@ -55,7 +55,7 @@ class Process
   writeEach: (project) ->
     compiled = _.template(@template)
     content = compiled(project)
-    fs.writeFileSync(__dirname + "/../_ssc_data/#{project.project_id}.txt", content)
+    fs.writeFileSync(__dirname + "/../_ssc_projects/#{project.project_id}.txt", content)
 
   normalise: (type, text) ->
     return unless text
