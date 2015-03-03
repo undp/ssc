@@ -12,9 +12,8 @@ class ContentView extends Backbone.View
     # TODO: console.log 'reset collection -> render contentView'
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)
-    # @$el.find("#map").hide()
     # _.defer @vectorMap
-    @selectTab('list')
+    @selectTab('map')
     @
 
   selectTabLink: (ev) =>
