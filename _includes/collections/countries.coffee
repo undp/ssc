@@ -1,5 +1,15 @@
 class Countries extends Backbone.Collection
   model: Country
+
+  search: (term) ->
+    found = @filter (country) ->
+      re = new RegExp(term, 'i')
+      country.get('name').match(re)
+
+    if found.length != 0
+      _.map(found, (i) -> i.toJSON())
+    else
+      "No country match found for '#{term}'"
   
   nameFromIso2: (iso2) ->
     @findWhere(iso2: iso2.toUpperCase())
