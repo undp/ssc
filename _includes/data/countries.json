@@ -1,6 +1,5 @@
 [
   {
-    "terr_id": "12",
     "name": "Aruba",
     "abbrev": "ABW",
     "terr_name": "Aruba",
@@ -10,7 +9,6 @@
     "type": "country"
   },
   {
-    "terr_id": "1",
     "name": "Afghanistan",
     "abbrev": "AFG",
     "terr_name": "Afghanistan",
@@ -20,7 +18,6 @@
     "type": "country"
   },
   {
-    "terr_id": "6",
     "name": "Angola",
     "abbrev": "AGO",
     "terr_name": "Angola",
@@ -30,7 +27,6 @@
     "type": "country"
   },
   {
-    "terr_id": "7",
     "name": "Anguilla",
     "abbrev": "AIA",
     "terr_name": "Anguilla",
@@ -40,7 +36,6 @@
     "type": "country"
   },
   {
-    "terr_id": "2",
     "name": "Albania",
     "abbrev": "ALB",
     "terr_name": "Albania",
@@ -50,7 +45,6 @@
     "type": "country"
   },
   {
-    "terr_id": "5",
     "name": "Andorra",
     "abbrev": "AND",
     "terr_name": "Andorra",
@@ -60,7 +54,6 @@
     "type": "country"
   },
   {
-    "terr_id": "174",
     "name": "Netherlands Antilles",
     "abbrev": "NLD",
     "terr_name": "Netherlands Antilles",
@@ -70,7 +63,6 @@
     "type": "country"
   },
   {
-    "terr_id": "254",
     "name": "United Arab Emirates",
     "abbrev": "ARE",
     "terr_name": "United Arab Emirates",
@@ -80,7 +72,6 @@
     "type": "country"
   },
   {
-    "terr_id": "10",
     "name": "Argentina",
     "abbrev": "ARG",
     "terr_name": "Argentina",
@@ -90,7 +81,6 @@
     "type": "country"
   },
   {
-    "terr_id": "11",
     "name": "Armenia",
     "abbrev": "ARM",
     "terr_name": "Armenia",
@@ -100,7 +90,6 @@
     "type": "country"
   },
   {
-    "terr_id": "4",
     "name": "American Samoa",
     "abbrev": "ASM",
     "terr_name": "American Samoa",
@@ -110,7 +99,6 @@
     "type": "country"
   },
   {
-    "terr_id": "8",
     "name": "Antarctica",
     "abbrev": "ATA",
     "terr_name": "Antarctica",
@@ -120,7 +108,6 @@
     "type": "country"
   },
   {
-    "terr_id": "85",
     "name": "French Southern and Antarctic Territories",
     "abbrev": "FRA",
     "terr_name": "French Southern and Antarctic Territories",
@@ -130,7 +117,6 @@
     "type": "country"
   },
   {
-    "terr_id": "9",
     "name": "Antigua and Barbuda",
     "abbrev": "ATG",
     "terr_name": "Antigua and Barbuda",
@@ -140,7 +126,6 @@
     "type": "country"
   },
   {
-    "terr_id": "14",
     "name": "Australia",
     "abbrev": "AUS",
     "terr_name": "Australia",
@@ -150,7 +135,6 @@
     "type": "country"
   },
   {
-    "terr_id": "15",
     "name": "Austria",
     "abbrev": "AUT",
     "terr_name": "Austria",
@@ -160,7 +144,6 @@
     "type": "country"
   },
   {
-    "terr_id": "16",
     "name": "Azerbaijan",
     "abbrev": "AZE",
     "terr_name": "Azerbaijan",
@@ -170,7 +153,6 @@
     "type": "country"
   },
   {
-    "terr_id": "41",
     "name": "Burundi",
     "abbrev": "BDI",
     "terr_name": "Burundi",
@@ -180,7 +162,6 @@
     "type": "country"
   },
   {
-    "terr_id": "25",
     "name": "Belgium",
     "abbrev": "BEL",
     "terr_name": "Belgium",
@@ -190,7 +171,6 @@
     "type": "country"
   },
   {
-    "terr_id": "27",
     "name": "Benin",
     "abbrev": "BEN",
     "terr_name": "Benin",
@@ -200,7 +180,6 @@
     "type": "country"
   },
   {
-    "terr_id": "40",
     "name": "Burkina Faso",
     "abbrev": "BFA",
     "terr_name": "Burkina Faso",
@@ -210,7 +189,6 @@
     "type": "country"
   },
   {
-    "terr_id": "21",
     "name": "Bangladesh",
     "abbrev": "BGD",
     "terr_name": "Bangladesh",
@@ -220,7 +198,6 @@
     "type": "country"
   },
   {
-    "terr_id": "39",
     "name": "Bulgaria",
     "abbrev": "BGR",
     "terr_name": "Bulgaria",
@@ -230,7 +207,6 @@
     "type": "country"
   },
   {
-    "terr_id": "19",
     "name": "Bahrain",
     "abbrev": "BHR",
     "terr_name": "Bahrain",
@@ -240,7 +216,6 @@
     "type": "country"
   },
   {
-    "terr_id": "18",
     "name": "Bahamas",
     "abbrev": "BHS",
     "terr_name": "Bahamas",
@@ -250,7 +225,6 @@
     "type": "country"
   },
   {
-    "terr_id": "32",
     "name": "Bosnia and Herzegovina",
     "abbrev": "BIH",
     "terr_name": "Bosnia-Herzegovina",
@@ -260,7 +234,6 @@
     "type": "country"
   },
   {
-    "terr_id": "24",
     "name": "Belarus",
     "abbrev": "BLR",
     "terr_name": "Belarus",
@@ -270,7 +243,6 @@
     "type": "country"
   },
   {
-    "terr_id": "26",
     "name": "Belize",
     "abbrev": "BLZ",
     "terr_name": "Belize",
@@ -280,7 +252,6 @@
     "type": "country"
   },
   {
-    "terr_id": "28",
     "name": "Bermuda",
     "abbrev": "BMU",
     "terr_name": "Bermuda",
@@ -290,7 +261,6 @@
     "type": "country"
   },
   {
-    "terr_id": "31",
     "name": "Bolivia (Plurinational State of)",
     "abbrev": "BOL",
     "terr_name": "Bolivia",
@@ -300,7 +270,6 @@
     "type": "country"
   },
   {
-    "terr_id": "35",
     "name": "Brazil",
     "abbrev": "BRA",
     "terr_name": "Brazil",
@@ -310,7 +279,6 @@
     "type": "country"
   },
   {
-    "terr_id": "22",
     "name": "Barbados",
     "abbrev": "BRB",
     "terr_name": "Barbados",
@@ -320,7 +288,6 @@
     "type": "country"
   },
   {
-    "terr_id": "38",
     "name": "Brunei Darussalam",
     "abbrev": "BRN",
     "terr_name": "Brunei Darussalam",
@@ -330,7 +297,6 @@
     "type": "country"
   },
   {
-    "terr_id": "29",
     "name": "Bhutan",
     "abbrev": "BTN",
     "terr_name": "Bhutan",
@@ -340,7 +306,6 @@
     "type": "country"
   },
   {
-    "terr_id": "34",
     "name": "Bouvet Island",
     "abbrev": "NOR",
     "terr_name": "Bouvet Island",
@@ -350,7 +315,6 @@
     "type": "country"
   },
   {
-    "terr_id": "33",
     "name": "Botswana",
     "abbrev": "BWA",
     "terr_name": "Botswana",
@@ -360,7 +324,6 @@
     "type": "country"
   },
   {
-    "terr_id": "47",
     "name": "Central African Republic",
     "abbrev": "CAF",
     "terr_name": "Central African Republic",
@@ -370,7 +333,6 @@
     "type": "country"
   },
   {
-    "terr_id": "44",
     "name": "Canada",
     "abbrev": "CAN",
     "terr_name": "Canada",
@@ -380,7 +342,6 @@
     "type": "country"
   },
   {
-    "terr_id": "53",
     "name": "Cocos Islands",
     "abbrev": "AUS",
     "terr_name": "Cocos (Keeling) Islands",
@@ -390,7 +351,6 @@
     "type": "country"
   },
   {
-    "terr_id": "234",
     "name": "Switzerland",
     "abbrev": "CHE",
     "terr_name": "Switzerland",
@@ -400,7 +360,6 @@
     "type": "country"
   },
   {
-    "terr_id": "49",
     "name": "Chile",
     "abbrev": "CHL",
     "terr_name": "Chile",
@@ -410,7 +369,6 @@
     "type": "country"
   },
   {
-    "terr_id": "50",
     "name": "China",
     "abbrev": "CHN",
     "terr_name": "China",
@@ -420,7 +378,6 @@
     "type": "country"
   },
   {
-    "terr_id": "59",
     "name": "Côte d'Ivoire",
     "abbrev": "CIV",
     "terr_name": "Côte d'Ivoire",
@@ -430,7 +387,6 @@
     "type": "country"
   },
   {
-    "terr_id": "43",
     "name": "Cameroon",
     "abbrev": "CMR",
     "terr_name": "Cameroon",
@@ -440,7 +396,6 @@
     "type": "country"
   },
   {
-    "terr_id": "65",
     "name": "Democratic Republic of Congo",
     "abbrev": "COD",
     "terr_name": "Congo, Democratic Republic of",
@@ -450,7 +405,6 @@
     "type": "country"
   },
   {
-    "terr_id": "56",
     "name": "Republic of Congo",
     "abbrev": "COG",
     "terr_name": "Congo, Republic of",
@@ -460,7 +414,6 @@
     "type": "country"
   },
   {
-    "terr_id": "57",
     "name": "Cook Islands",
     "abbrev": "NZL",
     "terr_name": "Cook Islands",
@@ -470,7 +423,6 @@
     "type": "country"
   },
   {
-    "terr_id": "54",
     "name": "Colombia",
     "abbrev": "COL",
     "terr_name": "Colombia",
@@ -480,7 +432,6 @@
     "type": "country"
   },
   {
-    "terr_id": "55",
     "name": "Comoros",
     "abbrev": "COM",
     "terr_name": "Comoros",
@@ -490,7 +441,6 @@
     "type": "country"
   },
   {
-    "terr_id": "45",
     "name": "Cape Verde",
     "abbrev": "CPV",
     "terr_name": "Cape Verde",
@@ -500,7 +450,6 @@
     "type": "country"
   },
   {
-    "terr_id": "58",
     "name": "Costa Rica",
     "abbrev": "CRI",
     "terr_name": "Costa Rica",
@@ -510,7 +459,6 @@
     "type": "country"
   },
   {
-    "terr_id": "61",
     "name": "Cuba",
     "abbrev": "CUB",
     "terr_name": "Cuba",
@@ -520,7 +468,6 @@
     "type": "country"
   },
   {
-    "terr_id": "51",
     "name": "Christmas Island",
     "abbrev": "AUS",
     "terr_name": "Christmas Island",
@@ -530,7 +477,6 @@
     "type": "country"
   },
   {
-    "terr_id": "46",
     "name": "Cayman Islands",
     "abbrev": "GBR",
     "terr_name": "Cayman Islands",
@@ -540,7 +486,6 @@
     "type": "country"
   },
   {
-    "terr_id": "62",
     "name": "Cyprus",
     "abbrev": "CYP",
     "terr_name": "Cyprus",
@@ -550,7 +495,6 @@
     "type": "country"
   },
   {
-    "terr_id": "63",
     "name": "Czech Republic",
     "abbrev": "CZE",
     "terr_name": "Czech Republic",
@@ -560,7 +504,6 @@
     "type": "country"
   },
   {
-    "terr_id": "90",
     "name": "Germany",
     "abbrev": "DEU",
     "terr_name": "Germany",
@@ -570,7 +513,6 @@
     "type": "country"
   },
   {
-    "terr_id": "67",
     "name": "Djibouti",
     "abbrev": "DJI",
     "terr_name": "Djibouti",
@@ -580,7 +522,6 @@
     "type": "country"
   },
   {
-    "terr_id": "68",
     "name": "Dominica",
     "abbrev": "DMA",
     "terr_name": "Dominica",
@@ -590,7 +531,6 @@
     "type": "country"
   },
   {
-    "terr_id": "66",
     "name": "Denmark",
     "abbrev": "DNK",
     "terr_name": "Denmark",
@@ -600,7 +540,6 @@
     "type": "country"
   },
   {
-    "terr_id": "69",
     "name": "Dominican Republic",
     "abbrev": "DOM",
     "terr_name": "Dominican Republic",
@@ -610,7 +549,6 @@
     "type": "country"
   },
   {
-    "terr_id": "3",
     "name": "Algeria",
     "abbrev": "DZA",
     "terr_name": "Algeria",
@@ -620,7 +558,6 @@
     "type": "country"
   },
   {
-    "terr_id": "70",
     "name": "Ecuador",
     "abbrev": "ECU",
     "terr_name": "Ecuador",
@@ -630,7 +567,6 @@
     "type": "country"
   },
   {
-    "terr_id": "71",
     "name": "Egypt",
     "abbrev": "EGY",
     "terr_name": "Egypt, Arab Republic of",
@@ -640,7 +576,6 @@
     "type": "country"
   },
   {
-    "terr_id": "74",
     "name": "Eritrea",
     "abbrev": "ERI",
     "terr_name": "Eritrea",
@@ -650,7 +585,6 @@
     "type": "country"
   },
   {
-    "terr_id": "266",
     "name": "Western Sahara",
     "abbrev": "ESH",
     "terr_name": "Western Sahara",
@@ -660,7 +594,6 @@
     "type": "country"
   },
   {
-    "terr_id": "226",
     "name": "Spain",
     "abbrev": "ESP",
     "terr_name": "Spain",
@@ -670,7 +603,6 @@
     "type": "country"
   },
   {
-    "terr_id": "75",
     "name": "Estonia",
     "abbrev": "EST",
     "terr_name": "Estonia",
@@ -680,7 +612,6 @@
     "type": "country"
   },
   {
-    "terr_id": "76",
     "name": "Ethiopia",
     "abbrev": "ETH",
     "terr_name": "Ethiopia",
@@ -690,7 +621,6 @@
     "type": "country"
   },
   {
-    "terr_id": "81",
     "name": "Finland",
     "abbrev": "FIN",
     "terr_name": "Finland",
@@ -700,7 +630,6 @@
     "type": "country"
   },
   {
-    "terr_id": "80",
     "name": "Fiji",
     "abbrev": "FJI",
     "terr_name": "Fiji",
@@ -710,7 +639,6 @@
     "type": "country"
   },
   {
-    "terr_id": "78",
     "name": "Falkland Islands (Malvinas)",
     "abbrev": "GBR",
     "terr_name": "Falkland Islands (Malvinas)",
@@ -720,7 +648,6 @@
     "type": "country"
   },
   {
-    "terr_id": "82",
     "name": "France",
     "abbrev": "FRA",
     "terr_name": "France",
@@ -730,7 +657,6 @@
     "type": "country"
   },
   {
-    "terr_id": "79",
     "name": "Faroe Islands",
     "abbrev": "DNK",
     "terr_name": "Faroe Islands",
@@ -740,7 +666,6 @@
     "type": "country"
   },
   {
-    "terr_id": "159",
     "name": "Micronesia (Federated States of)",
     "abbrev": "FSM",
     "terr_name": "Micronesia (Federated States of)",
@@ -750,7 +675,6 @@
     "type": "country"
   },
   {
-    "terr_id": "86",
     "name": "Gabon",
     "abbrev": "GAB",
     "terr_name": "Gabon",
@@ -760,7 +684,6 @@
     "type": "country"
   },
   {
-    "terr_id": "251",
     "name": "United Kingdom",
     "abbrev": "GBR",
     "terr_name": "United Kingdom",
@@ -770,7 +693,6 @@
     "type": "country"
   },
   {
-    "terr_id": "89",
     "name": "Georgia",
     "abbrev": "GEO",
     "terr_name": "Georgia",
@@ -780,7 +702,6 @@
     "type": "country"
   },
   {
-    "terr_id": "91",
     "name": "Ghana",
     "abbrev": "GHA",
     "terr_name": "Ghana",
@@ -790,7 +711,6 @@
     "type": "country"
   },
   {
-    "terr_id": "92",
     "name": "Gibraltar",
     "abbrev": "GBR",
     "terr_name": "Gibraltar",
@@ -800,7 +720,6 @@
     "type": "country"
   },
   {
-    "terr_id": "102",
     "name": "Guinea",
     "abbrev": "GIN",
     "terr_name": "Guinea",
@@ -810,7 +729,6 @@
     "type": "country"
   },
   {
-    "terr_id": "97",
     "name": "Guadeloupe",
     "abbrev": "FRA",
     "terr_name": "Guadeloupe",
@@ -820,7 +738,6 @@
     "type": "country"
   },
   {
-    "terr_id": "87",
     "name": "Gambia",
     "abbrev": "GMB",
     "terr_name": "Gambia, The",
@@ -830,7 +747,6 @@
     "type": "country"
   },
   {
-    "terr_id": "103",
     "name": "Guinea-Bissau",
     "abbrev": "GNB",
     "terr_name": "Guinea-Bissau",
@@ -840,7 +756,6 @@
     "type": "country"
   },
   {
-    "terr_id": "73",
     "name": "Equatorial Guinea",
     "abbrev": "GNQ",
     "terr_name": "Equatorial Guinea",
@@ -850,7 +765,6 @@
     "type": "country"
   },
   {
-    "terr_id": "94",
     "name": "Greece",
     "abbrev": "GRC",
     "terr_name": "Greece",
@@ -860,7 +774,6 @@
     "type": "country"
   },
   {
-    "terr_id": "96",
     "name": "Grenada",
     "abbrev": "GRD",
     "terr_name": "Grenada",
@@ -870,7 +783,6 @@
     "type": "country"
   },
   {
-    "terr_id": "95",
     "name": "Greenland",
     "abbrev": "DNK",
     "terr_name": "Greenland",
@@ -880,7 +792,6 @@
     "type": "country"
   },
   {
-    "terr_id": "100",
     "name": "Guatemala",
     "abbrev": "GTM",
     "terr_name": "Guatemala",
@@ -890,7 +801,6 @@
     "type": "country"
   },
   {
-    "terr_id": "83",
     "name": "French Guiana",
     "abbrev": "FRA",
     "terr_name": "French Guiana",
@@ -900,7 +810,6 @@
     "type": "country"
   },
   {
-    "terr_id": "98",
     "name": "Guam",
     "abbrev": "GUM",
     "terr_name": "Guam",
@@ -910,7 +819,6 @@
     "type": "country"
   },
   {
-    "terr_id": "104",
     "name": "Guyana",
     "abbrev": "GUY",
     "terr_name": "Guyana",
@@ -920,7 +828,6 @@
     "type": "country"
   },
   {
-    "terr_id": "109",
     "name": "Hong Kong, China (SAR)",
     "abbrev": "CHN",
     "terr_name": "Hong Kong",
@@ -930,7 +837,6 @@
     "type": "country"
   },
   {
-    "terr_id": "106",
     "name": "Heard Island and McDonald Islands",
     "abbrev": "AUS",
     "terr_name": "Heard Island and McDonald Islands",
@@ -940,7 +846,6 @@
     "type": "country"
   },
   {
-    "terr_id": "108",
     "name": "Honduras",
     "abbrev": "HND",
     "terr_name": "Honduras",
@@ -950,7 +855,6 @@
     "type": "country"
   },
   {
-    "terr_id": "60",
     "name": "Croatia",
     "abbrev": "HRV",
     "terr_name": "Croatia",
@@ -960,7 +864,6 @@
     "type": "country"
   },
   {
-    "terr_id": "105",
     "name": "Haiti",
     "abbrev": "HTI",
     "terr_name": "Haiti",
@@ -970,7 +873,6 @@
     "type": "country"
   },
   {
-    "terr_id": "111",
     "name": "Hungary",
     "abbrev": "HUN",
     "terr_name": "Hungary",
@@ -980,7 +882,6 @@
     "type": "country"
   },
   {
-    "terr_id": "114",
     "name": "Indonesia",
     "abbrev": "IDN",
     "terr_name": "Indonesia",
@@ -990,7 +891,6 @@
     "type": "country"
   },
   {
-    "terr_id": "118",
     "name": "Isle of Man",
     "abbrev": "GBR",
     "terr_name": "Isle of Man",
@@ -1000,7 +900,6 @@
     "type": "country"
   },
   {
-    "terr_id": "113",
     "name": "India",
     "abbrev": "IND",
     "terr_name": "India",
@@ -1010,7 +909,6 @@
     "type": "country"
   },
   {
-    "terr_id": "36",
     "name": "British Indian Ocean Territory",
     "abbrev": "IOT",
     "terr_name": "British Indian Ocean Territory",
@@ -1020,7 +918,6 @@
     "type": "country"
   },
   {
-    "terr_id": "117",
     "name": "Ireland",
     "abbrev": "IRL",
     "terr_name": "Ireland",
@@ -1030,7 +927,6 @@
     "type": "country"
   },
   {
-    "terr_id": "115",
     "name": "Iran (Islamic Republic of)",
     "abbrev": "IRN",
     "terr_name": "Iran (Islamic Republic of)",
@@ -1040,7 +936,6 @@
     "type": "country"
   },
   {
-    "terr_id": "116",
     "name": "Iraq",
     "abbrev": "IRQ",
     "terr_name": "Iraq",
@@ -1050,7 +945,6 @@
     "type": "country"
   },
   {
-    "terr_id": "112",
     "name": "Iceland",
     "abbrev": "ISL",
     "terr_name": "Iceland",
@@ -1060,7 +954,6 @@
     "type": "country"
   },
   {
-    "terr_id": "119",
     "name": "Israel",
     "abbrev": "ISR",
     "terr_name": "Israel",
@@ -1070,7 +963,6 @@
     "type": "country"
   },
   {
-    "terr_id": "120",
     "name": "Italy",
     "abbrev": "ITA",
     "terr_name": "Italy",
@@ -1080,7 +972,6 @@
     "type": "country"
   },
   {
-    "terr_id": "121",
     "name": "Jamaica",
     "abbrev": "JAM",
     "terr_name": "Jamaica",
@@ -1090,7 +981,6 @@
     "type": "country"
   },
   {
-    "terr_id": "126",
     "name": "Jordan",
     "abbrev": "JOR",
     "terr_name": "Jordan",
@@ -1100,7 +990,6 @@
     "type": "country"
   },
   {
-    "terr_id": "122",
     "name": "Japan",
     "abbrev": "JPN",
     "terr_name": "Japan",
@@ -1110,7 +999,6 @@
     "type": "country"
   },
   {
-    "terr_id": "128",
     "name": "Kazakhstan",
     "abbrev": "KAZ",
     "terr_name": "Kazakhstan",
@@ -1120,7 +1008,6 @@
     "type": "country"
   },
   {
-    "terr_id": "129",
     "name": "Kenya",
     "abbrev": "KEN",
     "terr_name": "Kenya",
@@ -1130,7 +1017,6 @@
     "type": "country"
   },
   {
-    "terr_id": "134",
     "name": "Kyrgyz Republic",
     "abbrev": "KGZ",
     "terr_name": "Kyrgyz Republic",
@@ -1140,7 +1026,6 @@
     "type": "country"
   },
   {
-    "terr_id": "42",
     "name": "Cambodia",
     "abbrev": "KHM",
     "terr_name": "Cambodia",
@@ -1150,7 +1035,6 @@
     "type": "country"
   },
   {
-    "terr_id": "131",
     "name": "Kiribati",
     "abbrev": "KIR",
     "terr_name": "Kiribati",
@@ -1160,7 +1044,6 @@
     "type": "country"
   },
   {
-    "terr_id": "205",
     "name": "Saint Kitts and Nevis",
     "abbrev": "KNA",
     "terr_name": "Saint Kitts and Nevis",
@@ -1170,7 +1053,6 @@
     "type": "country"
   },
   {
-    "terr_id": "199",
     "name": "Korea (Republic of)",
     "abbrev": "KOR",
     "terr_name": "Korea, Republic of",
@@ -1180,7 +1062,6 @@
     "type": "country"
   },
   {
-    "terr_id": "133",
     "name": "Kuwait",
     "abbrev": "KWT",
     "terr_name": "Kuwait",
@@ -1190,7 +1071,6 @@
     "type": "country"
   },
   {
-    "terr_id": "135",
     "name": "Lao People's Democratic Republic",
     "abbrev": "LAO",
     "terr_name": "Lao People's Democratic Republic",
@@ -1200,7 +1080,6 @@
     "type": "country"
   },
   {
-    "terr_id": "137",
     "name": "Lebanon",
     "abbrev": "LBN",
     "terr_name": "Lebanon",
@@ -1210,7 +1089,6 @@
     "type": "country"
   },
   {
-    "terr_id": "140",
     "name": "Liberia",
     "abbrev": "LBR",
     "terr_name": "Liberia",
@@ -1220,7 +1098,6 @@
     "type": "country"
   },
   {
-    "terr_id": "141",
     "name": "Libyan Arab Jamahiriya",
     "abbrev": "LBY",
     "terr_name": "Libyan Arab Jamahiriya",
@@ -1230,7 +1107,6 @@
     "type": "country"
   },
   {
-    "terr_id": "206",
     "name": "Saint Lucia",
     "abbrev": "LCA",
     "terr_name": "St. Lucia",
@@ -1240,7 +1116,6 @@
     "type": "country"
   },
   {
-    "terr_id": "142",
     "name": "Liechtenstein",
     "abbrev": "LIE",
     "terr_name": "Liechtenstein",
@@ -1250,7 +1125,6 @@
     "type": "country"
   },
   {
-    "terr_id": "228",
     "name": "Sri Lanka",
     "abbrev": "LKA",
     "terr_name": "Sri Lanka",
@@ -1260,7 +1134,6 @@
     "type": "country"
   },
   {
-    "terr_id": "138",
     "name": "Lesotho",
     "abbrev": "LSO",
     "terr_name": "Lesotho",
@@ -1270,7 +1143,6 @@
     "type": "country"
   },
   {
-    "terr_id": "143",
     "name": "Lithuania",
     "abbrev": "LTU",
     "terr_name": "Lithuania",
@@ -1280,7 +1152,6 @@
     "type": "country"
   },
   {
-    "terr_id": "144",
     "name": "Luxembourg",
     "abbrev": "LUX",
     "terr_name": "Luxembourg",
@@ -1290,7 +1161,6 @@
     "type": "country"
   },
   {
-    "terr_id": "136",
     "name": "Latvia",
     "abbrev": "LVA",
     "terr_name": "Latvia",
@@ -1300,7 +1170,6 @@
     "type": "country"
   },
   {
-    "terr_id": "145",
     "name": "Macao",
     "abbrev": "CHN",
     "terr_name": "Macao",
@@ -1310,7 +1179,6 @@
     "type": "country"
   },
   {
-    "terr_id": "166",
     "name": "Morocco",
     "abbrev": "MAR",
     "terr_name": "Morocco",
@@ -1320,7 +1188,6 @@
     "type": "country"
   },
   {
-    "terr_id": "162",
     "name": "Monaco",
     "abbrev": "MCO",
     "terr_name": "Monaco",
@@ -1330,7 +1197,6 @@
     "type": "country"
   },
   {
-    "terr_id": "161",
     "name": "Moldova (Republic of)",
     "abbrev": "MDA",
     "terr_name": "Moldova",
@@ -1340,7 +1206,6 @@
     "type": "country"
   },
   {
-    "terr_id": "146",
     "name": "Madagascar",
     "abbrev": "MDG",
     "terr_name": "Madagascar",
@@ -1350,7 +1215,6 @@
     "type": "country"
   },
   {
-    "terr_id": "150",
     "name": "Maldives",
     "abbrev": "MDV",
     "terr_name": "Maldives",
@@ -1360,7 +1224,6 @@
     "type": "country"
   },
   {
-    "terr_id": "158",
     "name": "Mexico",
     "abbrev": "MEX",
     "terr_name": "Mexico",
@@ -1370,7 +1233,6 @@
     "type": "country"
   },
   {
-    "terr_id": "153",
     "name": "Marshall Islands",
     "abbrev": "MHL",
     "terr_name": "Marshall Islands",
@@ -1380,17 +1242,15 @@
     "type": "country"
   },
   {
-    "terr_id": "239",
-    "name": "The former Yugoslav Republic of Macedonia",
+    "name": "Macedonia (Republic of)",
     "abbrev": "MKD",
-    "terr_name": "Macedonia, Former Yugoslav Republic of",
+    "terr_name": "Republic of Macedonia",
     "lat": "41.599682",
     "iso3": "MKD",
     "lon": "21.697476",
     "type": "country"
   },
   {
-    "terr_id": "151",
     "name": "Mali",
     "abbrev": "MLI",
     "terr_name": "Mali",
@@ -1400,7 +1260,6 @@
     "type": "country"
   },
   {
-    "terr_id": "152",
     "name": "Malta",
     "abbrev": "MLT",
     "terr_name": "Malta",
@@ -1410,7 +1269,6 @@
     "type": "country"
   },
   {
-    "terr_id": "168",
     "name": "Myanmar",
     "abbrev": "MMR",
     "terr_name": "Myanmar",
@@ -1420,7 +1278,6 @@
     "type": "country"
   },
   {
-    "terr_id": "164",
     "name": "Montenegro",
     "abbrev": "MNE",
     "terr_name": "Montenegro",
@@ -1430,7 +1287,6 @@
     "type": "country"
   },
   {
-    "terr_id": "163",
     "name": "Mongolia",
     "abbrev": "MNG",
     "terr_name": "Mongolia",
@@ -1440,7 +1296,6 @@
     "type": "country"
   },
   {
-    "terr_id": "182",
     "name": "Northern Mariana Islands",
     "abbrev": "USA",
     "terr_name": "Northern Mariana Islands",
@@ -1450,7 +1305,6 @@
     "type": "country"
   },
   {
-    "terr_id": "167",
     "name": "Mozambique",
     "abbrev": "MOZ",
     "terr_name": "Mozambique",
@@ -1460,7 +1314,6 @@
     "type": "country"
   },
   {
-    "terr_id": "155",
     "name": "Mauritania",
     "abbrev": "MRT",
     "terr_name": "Mauritania",
@@ -1470,7 +1323,6 @@
     "type": "country"
   },
   {
-    "terr_id": "165",
     "name": "Montserrat",
     "abbrev": "GBR",
     "terr_name": "Montserrat",
@@ -1480,7 +1332,6 @@
     "type": "country"
   },
   {
-    "terr_id": "154",
     "name": "Martinique",
     "abbrev": "FRA",
     "terr_name": "Martinique",
@@ -1490,7 +1341,6 @@
     "type": "country"
   },
   {
-    "terr_id": "156",
     "name": "Mauritius",
     "abbrev": "MUS",
     "terr_name": "Mauritius",
@@ -1500,7 +1350,6 @@
     "type": "country"
   },
   {
-    "terr_id": "148",
     "name": "Malawi",
     "abbrev": "MWI",
     "terr_name": "Malawi",
@@ -1510,7 +1359,6 @@
     "type": "country"
   },
   {
-    "terr_id": "149",
     "name": "Malaysia",
     "abbrev": "MYS",
     "terr_name": "Malaysia",
@@ -1520,7 +1368,6 @@
     "type": "country"
   },
   {
-    "terr_id": "157",
     "name": "Mayotte",
     "abbrev": "FRA",
     "terr_name": "Mayotte",
@@ -1530,7 +1377,6 @@
     "type": "country"
   },
   {
-    "terr_id": "169",
     "name": "Namibia",
     "abbrev": "NAM",
     "terr_name": "Namibia",
@@ -1540,7 +1386,6 @@
     "type": "country"
   },
   {
-    "terr_id": "175",
     "name": "New Caledonia",
     "abbrev": "FRA",
     "terr_name": "New Caledonia",
@@ -1550,7 +1395,6 @@
     "type": "country"
   },
   {
-    "terr_id": "178",
     "name": "Niger",
     "abbrev": "NER",
     "terr_name": "Niger",
@@ -1560,7 +1404,6 @@
     "type": "country"
   },
   {
-    "terr_id": "181",
     "name": "Norfolk Island",
     "abbrev": "AUS",
     "terr_name": "Norfolk Island",
@@ -1570,7 +1413,6 @@
     "type": "country"
   },
   {
-    "terr_id": "179",
     "name": "Nigeria",
     "abbrev": "NGA",
     "terr_name": "Nigeria",
@@ -1580,7 +1422,6 @@
     "type": "country"
   },
   {
-    "terr_id": "177",
     "name": "Nicaragua",
     "abbrev": "NIC",
     "terr_name": "Nicaragua",
@@ -1592,7 +1433,7 @@
   {
     "terr_id": "180",
     "name": "Niue",
-    "abbrev": "NZL",
+    "abbrev": "NIU",
     "terr_name": "Niue",
     "lat": "-19.05231",
     "iso3": "NIU",
@@ -1600,7 +1441,6 @@
     "type": "country"
   },
   {
-    "terr_id": "173",
     "name": "Netherlands",
     "abbrev": "NLD",
     "terr_name": "Netherlands",
@@ -1610,7 +1450,6 @@
     "type": "country"
   },
   {
-    "terr_id": "183",
     "name": "Norway",
     "abbrev": "NOR",
     "terr_name": "Norway",
@@ -1620,7 +1459,6 @@
     "type": "country"
   },
   {
-    "terr_id": "172",
     "name": "Nepal",
     "abbrev": "NPL",
     "terr_name": "Nepal",
@@ -1630,7 +1468,6 @@
     "type": "country"
   },
   {
-    "terr_id": "170",
     "name": "Nauru",
     "abbrev": "NRU",
     "terr_name": "Nauru",
@@ -1640,7 +1477,6 @@
     "type": "country"
   },
   {
-    "terr_id": "176",
     "name": "New Zealand",
     "abbrev": "NZL",
     "terr_name": "New Zealand",
@@ -1650,7 +1486,6 @@
     "type": "country"
   },
   {
-    "terr_id": "184",
     "name": "Oman",
     "abbrev": "OMN",
     "terr_name": "Oman",
@@ -1660,7 +1495,6 @@
     "type": "country"
   },
   {
-    "terr_id": "185",
     "name": "Pakistan",
     "abbrev": "PAK",
     "terr_name": "Pakistan",
@@ -1670,7 +1504,6 @@
     "type": "country"
   },
   {
-    "terr_id": "188",
     "name": "Panama",
     "abbrev": "PAN",
     "terr_name": "Panama",
@@ -1680,7 +1513,6 @@
     "type": "country"
   },
   {
-    "terr_id": "194",
     "name": "Pitcairn Island",
     "abbrev": "GBR",
     "terr_name": "Pitcairn Island",
@@ -1690,7 +1522,6 @@
     "type": "country"
   },
   {
-    "terr_id": "192",
     "name": "Peru",
     "abbrev": "PER",
     "terr_name": "Peru",
@@ -1700,7 +1531,6 @@
     "type": "country"
   },
   {
-    "terr_id": "193",
     "name": "Philippines",
     "abbrev": "PHL",
     "terr_name": "Philippines",
@@ -1710,7 +1540,6 @@
     "type": "country"
   },
   {
-    "terr_id": "186",
     "name": "Palau",
     "abbrev": "PLW",
     "terr_name": "Palau",
@@ -1720,7 +1549,6 @@
     "type": "country"
   },
   {
-    "terr_id": "189",
     "name": "Papua New Guinea",
     "abbrev": "PNG",
     "terr_name": "Papua New Guinea",
@@ -1730,7 +1558,6 @@
     "type": "country"
   },
   {
-    "terr_id": "195",
     "name": "Poland",
     "abbrev": "POL",
     "terr_name": "Poland",
@@ -1740,7 +1567,6 @@
     "type": "country"
   },
   {
-    "terr_id": "197",
     "name": "Puerto Rico",
     "abbrev": "USA",
     "terr_name": "Puerto Rico",
@@ -1750,7 +1576,6 @@
     "type": "country"
   },
   {
-    "terr_id": "64",
     "name": "Korea, Democratic People's Republic of",
     "abbrev": "PRK",
     "terr_name": "Korea, Democratic People's Republic of",
@@ -1760,7 +1585,6 @@
     "type": "country"
   },
   {
-    "terr_id": "196",
     "name": "Portugal",
     "abbrev": "PRT",
     "terr_name": "Portugal",
@@ -1770,7 +1594,6 @@
     "type": "country"
   },
   {
-    "terr_id": "191",
     "name": "Paraguay",
     "abbrev": "PRY",
     "terr_name": "Paraguay",
@@ -1780,7 +1603,6 @@
     "type": "country"
   },
   {
-    "terr_id": "84",
     "name": "French Polynesia",
     "abbrev": "FRA",
     "terr_name": "French Polynesia",
@@ -1790,7 +1612,6 @@
     "type": "country"
   },
   {
-    "terr_id": "198",
     "name": "Qatar",
     "abbrev": "QAT",
     "terr_name": "Qatar",
@@ -1800,7 +1621,6 @@
     "type": "country"
   },
   {
-    "terr_id": "200",
     "name": "Reunion",
     "abbrev": "FRA",
     "terr_name": "Reunion",
@@ -1810,7 +1630,6 @@
     "type": "country"
   },
   {
-    "terr_id": "201",
     "name": "Romania",
     "abbrev": "ROU",
     "terr_name": "Romania",
@@ -1820,7 +1639,6 @@
     "type": "country"
   },
   {
-    "terr_id": "202",
     "name": "Russian Federation",
     "abbrev": "RUS",
     "terr_name": "Russian Federation",
@@ -1830,7 +1648,6 @@
     "type": "country"
   },
   {
-    "terr_id": "203",
     "name": "Rwanda",
     "abbrev": "RWA",
     "terr_name": "Rwanda",
@@ -1840,7 +1657,6 @@
     "type": "country"
   },
   {
-    "terr_id": "212",
     "name": "Saudi Arabia",
     "abbrev": "SAU",
     "terr_name": "Saudi Arabia",
@@ -1850,7 +1666,6 @@
     "type": "country"
   },
   {
-    "terr_id": "229",
     "name": "Sudan",
     "abbrev": "SDN",
     "terr_name": "Sudan",
@@ -1860,7 +1675,6 @@
     "type": "country"
   },
   {
-    "terr_id": "214",
     "name": "Senegal",
     "abbrev": "SEN",
     "terr_name": "Senegal",
@@ -1870,7 +1684,6 @@
     "type": "country"
   },
   {
-    "terr_id": "219",
     "name": "Singapore",
     "abbrev": "SGP",
     "terr_name": "Singapore",
@@ -1880,7 +1693,6 @@
     "type": "country"
   },
   {
-    "terr_id": "231",
     "name": "Svalbard and Jan Mayen Islands",
     "abbrev": "NOR",
     "terr_name": "Svalbard and Jan Mayen Islands",
@@ -1890,7 +1702,6 @@
     "type": "country"
   },
   {
-    "terr_id": "222",
     "name": "Solomon Islands",
     "abbrev": "SLB",
     "terr_name": "Solomon Islands",
@@ -1900,7 +1711,6 @@
     "type": "country"
   },
   {
-    "terr_id": "218",
     "name": "Sierra Leone",
     "abbrev": "SLE",
     "terr_name": "Sierra Leone",
@@ -1910,7 +1720,6 @@
     "type": "country"
   },
   {
-    "terr_id": "72",
     "name": "El Salvador",
     "abbrev": "SLV",
     "terr_name": "El Salvador",
@@ -1920,7 +1729,6 @@
     "type": "country"
   },
   {
-    "terr_id": "210",
     "name": "San Marino",
     "abbrev": "SMR",
     "terr_name": "San Marino",
@@ -1930,7 +1738,6 @@
     "type": "country"
   },
   {
-    "terr_id": "223",
     "name": "Somalia",
     "abbrev": "SOM",
     "terr_name": "Somalia",
@@ -1940,7 +1747,6 @@
     "type": "country"
   },
   {
-    "terr_id": "216",
     "name": "Serbia",
     "abbrev": "SRB",
     "terr_name": "Serbia",
@@ -1950,7 +1756,6 @@
     "type": "country"
   },
   {
-    "terr_id": "211",
     "name": "Sao Tome and Principe",
     "abbrev": "STP",
     "terr_name": "Sao Tome and Principe",
@@ -1960,7 +1765,6 @@
     "type": "country"
   },
   {
-    "terr_id": "230",
     "name": "Suriname",
     "abbrev": "SUR",
     "terr_name": "Suriname",
@@ -1970,7 +1774,6 @@
     "type": "country"
   },
   {
-    "terr_id": "221",
     "name": "Slovenia",
     "abbrev": "SVN",
     "terr_name": "Slovenia",
@@ -1980,7 +1783,6 @@
     "type": "country"
   },
   {
-    "terr_id": "233",
     "name": "Sweden",
     "abbrev": "SWE",
     "terr_name": "Sweden",
@@ -1990,7 +1792,6 @@
     "type": "country"
   },
   {
-    "terr_id": "232",
     "name": "Swaziland",
     "abbrev": "SWZ",
     "terr_name": "Swaziland",
@@ -2000,7 +1801,6 @@
     "type": "country"
   },
   {
-    "terr_id": "217",
     "name": "Seychelles",
     "abbrev": "SYC",
     "terr_name": "Seychelles",
@@ -2010,7 +1810,6 @@
     "type": "country"
   },
   {
-    "terr_id": "235",
     "name": "Syrian Arab Republic",
     "abbrev": "SYR",
     "terr_name": "Syrian Arab Republic",
@@ -2020,7 +1819,6 @@
     "type": "country"
   },
   {
-    "terr_id": "249",
     "name": "Turks and Caicos Islands",
     "abbrev": "GBR",
     "terr_name": "Turks and Caicos Islands",
@@ -2030,7 +1828,6 @@
     "type": "country"
   },
   {
-    "terr_id": "48",
     "name": "Chad",
     "abbrev": "TCD",
     "terr_name": "Chad",
@@ -2040,7 +1837,6 @@
     "type": "country"
   },
   {
-    "terr_id": "241",
     "name": "Togo",
     "abbrev": "TGO",
     "terr_name": "Togo",
@@ -2050,7 +1846,6 @@
     "type": "country"
   },
   {
-    "terr_id": "238",
     "name": "Thailand",
     "abbrev": "THA",
     "terr_name": "Thailand",
@@ -2060,7 +1855,6 @@
     "type": "country"
   },
   {
-    "terr_id": "237",
     "name": "Tajikistan",
     "abbrev": "TJK",
     "terr_name": "Tajikistan",
@@ -2080,7 +1874,6 @@
     "type": "country"
   },
   {
-    "terr_id": "248",
     "name": "Turkmenistan",
     "abbrev": "TKM",
     "terr_name": "Turkmenistan",
@@ -2090,7 +1883,6 @@
     "type": "country"
   },
   {
-    "terr_id": "240",
     "name": "Timor-Leste",
     "abbrev": "TLS",
     "terr_name": "Timor-Leste",
@@ -2100,7 +1892,6 @@
     "type": "country"
   },
   {
-    "terr_id": "243",
     "name": "Tonga",
     "abbrev": "TON",
     "terr_name": "Tonga",
@@ -2110,7 +1901,6 @@
     "type": "country"
   },
   {
-    "terr_id": "244",
     "name": "Trinidad and Tobago",
     "abbrev": "TTO",
     "terr_name": "Trinidad and Tobago",
@@ -2120,7 +1910,6 @@
     "type": "country"
   },
   {
-    "terr_id": "246",
     "name": "Tunisia",
     "abbrev": "TUN",
     "terr_name": "Tunisia",
@@ -2130,7 +1919,6 @@
     "type": "country"
   },
   {
-    "terr_id": "247",
     "name": "Turkey",
     "abbrev": "TUR",
     "terr_name": "Turkey",
@@ -2140,7 +1928,6 @@
     "type": "country"
   },
   {
-    "terr_id": "250",
     "name": "Tuvalu",
     "abbrev": "TUV",
     "terr_name": "Tuvalu",
@@ -2150,7 +1937,6 @@
     "type": "country"
   },
   {
-    "terr_id": "236",
     "name": "Taiwan",
     "abbrev": "CHN",
     "terr_name": "Taiwan",
@@ -2160,7 +1946,6 @@
     "type": "country"
   },
   {
-    "terr_id": "255",
     "name": "Tanzania (United Republic of)",
     "abbrev": "TZA",
     "terr_name": "Tanzania",
@@ -2170,7 +1955,6 @@
     "type": "country"
   },
   {
-    "terr_id": "252",
     "name": "Uganda",
     "abbrev": "UGA",
     "terr_name": "Uganda",
@@ -2180,7 +1964,6 @@
     "type": "country"
   },
   {
-    "terr_id": "253",
     "name": "Ukraine",
     "abbrev": "UKR",
     "terr_name": "Ukraine",
@@ -2190,7 +1973,6 @@
     "type": "country"
   },
   {
-    "terr_id": "258",
     "name": "Uruguay",
     "abbrev": "URY",
     "terr_name": "Uruguay",
@@ -2200,7 +1982,6 @@
     "type": "country"
   },
   {
-    "terr_id": "256",
     "name": "United States",
     "abbrev": "USA",
     "terr_name": "United States",
@@ -2210,7 +1991,6 @@
     "type": "country"
   },
   {
-    "terr_id": "259",
     "name": "Uzbekistan",
     "abbrev": "UZB",
     "terr_name": "Uzbekistan",
@@ -2220,7 +2000,6 @@
     "type": "country"
   },
   {
-    "terr_id": "107",
     "name": "Holy See",
     "abbrev": "VAT",
     "terr_name": "Holy See",
@@ -2230,7 +2009,6 @@
     "type": "country"
   },
   {
-    "terr_id": "208",
     "name": "Saint Vincent and the Grenadines",
     "abbrev": "VCT",
     "terr_name": "Saint Vincent and the Grenadines",
@@ -2240,7 +2018,6 @@
     "type": "country"
   },
   {
-    "terr_id": "261",
     "name": "Venezuela (Bolivarian Republic of)",
     "abbrev": "VEN",
     "terr_name": "Venezuela",
@@ -2250,7 +2027,6 @@
     "type": "country"
   },
   {
-    "terr_id": "37",
     "name": "British Virgin Islands",
     "abbrev": "GBR",
     "terr_name": "British Virgin Islands",
@@ -2260,7 +2036,6 @@
     "type": "country"
   },
   {
-    "terr_id": "257",
     "name": "United States Virgin Island",
     "abbrev": "USA",
     "terr_name": "United States Virgin Island",
@@ -2270,7 +2045,6 @@
     "type": "country"
   },
   {
-    "terr_id": "262",
     "name": "Viet Nam",
     "abbrev": "VNM",
     "terr_name": "Vietnam",
@@ -2280,7 +2054,6 @@
     "type": "country"
   },
   {
-    "terr_id": "260",
     "name": "Vanuatu",
     "abbrev": "VUT",
     "terr_name": "Vanuatu",
@@ -2290,7 +2063,6 @@
     "type": "country"
   },
   {
-    "terr_id": "209",
     "name": "Samoa",
     "abbrev": "WSM",
     "terr_name": "Samoa",
@@ -2300,7 +2072,6 @@
     "type": "country"
   },
   {
-    "terr_id": "267",
     "name": "Yemen",
     "abbrev": "YEM",
     "terr_name": "Yemen",
@@ -2310,7 +2081,6 @@
     "type": "country"
   },
   {
-    "terr_id": "224",
     "name": "South Africa",
     "abbrev": "ZAF",
     "terr_name": "South Africa",
@@ -2320,7 +2090,6 @@
     "type": "country"
   },
   {
-    "terr_id": "268",
     "name": "Zambia",
     "abbrev": "ZMB",
     "terr_name": "Zambia",
@@ -2330,7 +2099,6 @@
     "type": "country"
   },
   {
-    "terr_id": "269",
     "name": "Zimbabwe",
     "abbrev": "ZWE",
     "terr_name": "Zimbabwe",
@@ -2340,7 +2108,6 @@
     "type": "country"
   },
   {
-    "terr_id": "",
     "name": "Kosovo (SCR 1244)",
     "abbrev": "KOS",
     "terr_name": "Kosovo (SCR 1244)",
@@ -2350,13 +2117,30 @@
     "type": "country"
   },
   {
-    "terr_id": "",
     "name": "South Sudan",
     "abbrev": "SSD",
     "terr_name": "South Sudan",
     "lat": "7.37",
     "iso3": "SSD",
     "lon": "30.34",
+    "type": "country"
+  },
+  {
+    "name": "Slovak Republic",
+    "abbrev": "SVK",
+    "terr_name": "Slovak Republic",
+    "lat": "48.7",
+    "iso3": "SVK",
+    "lon": "19.59",
+    "type": "country"
+  },
+  {
+    "name": "Kyrgyz Republic",
+    "abbrev": "KGZ",
+    "terr_name": "Kyrgyz Republic",
+    "lat": "41.50",
+    "iso3": "KGZ",
+    "lon": "75.28",
     "type": "country"
   }
 ]
