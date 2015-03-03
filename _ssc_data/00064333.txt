@@ -3,7 +3,7 @@ open_project_id: "00064333"
 thematic_focus: 
   - sustainable_development_pathways
 host_location: 
-  - 
+  - KGZ
 region: 
   - europe_cis
 partner_type: 

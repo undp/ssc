@@ -3,7 +3,7 @@ open_project_id: "00056491"
 thematic_focus: 
   - sustainable_development_pathways
 host_location: 
-  - 
+  - SVK
 region: 
   - 
 partner_type: 

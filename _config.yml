@@ -384,7 +384,7 @@ prose:
               value: MEX
             - name: Marshall Islands
               value: MHL
-            - name: The former Yugoslav Republic of Macedonia
+            - name: Macedonia (Republic of)
               value: MKD
             - name: Mali
               value: MLI
@@ -580,6 +580,10 @@ prose:
               value: KOS
             - name: South Sudan
               value: SSD
+            - name: Slovak Republic
+              value: SVK
+            - name: Kyrgyz Republic
+              value: KGZ
       - name: partner_type
         field:
           element: multiselect
@@ -881,7 +885,7 @@ prose:
               value: MEX
             - name: Marshall Islands
               value: MHL
-            - name: The former Yugoslav Republic of Macedonia
+            - name: Macedonia (Republic of)
               value: MKD
             - name: Mali
               value: MLI
@@ -1077,3 +1081,7 @@ prose:
               value: KOS
             - name: South Sudan
               value: SSD
+            - name: Slovak Republic
+              value: SVK
+            - name: Kyrgyz Republic
+              value: KGZ

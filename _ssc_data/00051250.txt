@@ -8,7 +8,7 @@ host_location:
   - BGR
   - HRV
   - MNE
-  - MDA
+  - 
   - ROU
   - MKD
   - SRB

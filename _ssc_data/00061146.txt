@@ -3,7 +3,7 @@ open_project_id: "00061146"
 thematic_focus: 
   - resilience_building
 host_location: 
-  - 
+  - MDA
 region: 
   - europe_cis
 partner_type: 
