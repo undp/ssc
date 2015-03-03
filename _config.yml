@@ -12,7 +12,7 @@ exclude:
   - package.json
 markdown: kramdown
 collections:
-  ssc_data:
+  ssc_projects:
     output: true
 prose:
   rooturl: _ssc_projects
