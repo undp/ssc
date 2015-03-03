@@ -35,10 +35,9 @@ $(document).ready ->
   app.countries = new Countries(window.countries)
   app.filters = (new Filters)
   app.filters.populate(indices: window.indices, countries: window.countries)
+  app.router = new Router()
 
   app.projects.fetch
     success: ->
       app.projects.initFacetr()
-      app.router = new Router()
       Backbone.history.start()
-
