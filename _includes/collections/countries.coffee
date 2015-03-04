@@ -8,7 +8,7 @@ class Countries extends Backbone.Collection
 
     return console.info("No country match found for '#{term}'") unless found?
     found
-      
+
   searchForTermInField: (term, field) =>
     results = @filter (country) ->
       re = new RegExp(term, 'i')
@@ -19,11 +19,17 @@ class Countries extends Backbone.Collection
     else
       _.map(results, (i) -> i.toJSON())
 
+  searchByShort: (mapShort) ->
+    @findWhere(map_short: mapShort.toUpperCase())
+
   nameFromIso3: (iso3) ->
     @findWhere(iso3: iso3.toUpperCase())
 
   nameFromMapShort: (mapShort) ->
-    @findWhere(map_short: mapShort.toUpperCase())
+    @findWhere(map_short: mapShort.toUpperCase())?.get('name')
+
+  shortFromIso3: (iso3) ->
+    @findWhere(iso3: iso3.toUpperCase())?.get('map_short')
 
   isoFromName: (name) ->
     return unless name
