@@ -3,22 +3,21 @@ class Countries extends Backbone.Collection
 
   search: (term) ->
     found = @searchForTermInField(term, 'name') || 
-            @searchForTermInField(term, 'terr_name')
+            @searchForTermInField(term, 'terr_name') ||
+            @searchForTermInField(term, 'map_name')
 
-    if found?
-      _.map(found, (i) -> i.toJSON()) 
-    else
-      console.info "No country match found for '#{term}'" 
-  
+    return console.info("No country match found for '#{term}'") unless found?
+    found
+      
   searchForTermInField: (term, field) =>
     results = @filter (country) ->
       re = new RegExp(term, 'i')
-      country.get(field).match(re)
+      country.get(field)?.match(re)
 
     if results.length == 0
       null
     else
-      results
+      _.map(results, (i) -> i.toJSON())
 
   nameFromIso2: (iso2) ->
     @findWhere(iso2: iso2.toUpperCase())
