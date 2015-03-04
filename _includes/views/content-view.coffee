@@ -5,22 +5,28 @@ class ContentView extends Backbone.View
     'click .tab-menu-link': 'selectTabLink'
 
   initialize: ->
-    @listenTo @collection, 'reset', @render
-    @map = new MapView(contentView: @, collection: @collection)
+    @childViews =
+      map   : new MapView(parentView: @, collection: @collection)
+      stats : new StatsView(parentView: @, collection: @collection)
+      list  : new ListView(parentView: @, collection: @collection)
+
     @render()
 
   render: ->
-    # TODO: console.log 'reset collection -> render contentView'
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)
-    @selectTab('map')
+
+    _.each @childViews, (view) -> view.render()
+
+    @setActiveTab('map') # TODO: Refer to viewModel
     @
 
   selectTabLink: (ev) =>
+    ev.preventDefault()
     tab = ev.currentTarget.getAttribute('data-w-tab')
-    @selectTab(tab)
+    @setActiveTab(tab)
 
-  selectTab: (tab) ->
+  setActiveTab: (tab) ->
     linkActive = 'w--current'
     tabActive = 'w--tab-active'
 

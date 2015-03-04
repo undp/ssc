@@ -1,0 +1,13 @@
+<div class="results-list">
+  <% _.each(collection, function(project){ %>
+    <a class="w-clearfix w-inline-block results-list-item">
+      <div class="list-detail-icon"><img src="images/document blue.svg" width="100%" alt="54ef4c79c09fb76b2c4eb651_document%20blue.svg">
+      </div>
+      <div class="item-detail">
+        <div class="project-title"><%= project.project_title %> [<%= project.project_id %>]</div>
+        <div class="project-themes">THEMES: Sustainable development</div>
+      </div>
+    </a>
+
+  <% }) %>
+</div>
