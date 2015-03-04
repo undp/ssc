@@ -2,37 +2,55 @@ class MapView extends Backbone.View
   initialize: (options) ->
     throw "Missing contentView" unless options.contentView?
     _.defer @vectorMap # TODO: Replace with better map init event
-    console.log @collection
 
   vectorMap: =>
-    console.log 'doing map thing'
     @$mapEl = $('.w-tab-pane[data-w-tab="map"]')
 
     # TODO: console.log 'render map called'
-    values = _.object(
-      _.map(countries, (i) ->
-        [[i.iso3],[Math.floor((Math.random() * 100) + 1)]]
-      )
+    values = {}
+    _.each(countries, (i) ->
+      values[i.map_short] = _.random(0,10)
     )
 
     @$mapEl.vectorMap(
       map: 'world_mill_en'
+      backgroundColor: 'white'
       series:
         regions: [
           values: values
-          scale: ['red', 'blue']
+          scale: ['#C8EEFF', '#0071A4']
           normalizeFunction: 'polynomial'
         ]
-      regionsSelectable: true
+      # regionsSelectable: true
       regionsSelectableOne: true
-      onRegionSelected: (ev, code) =>
-        console.log(code)
-        @zoomToRegion(code)
+      regionStyle:
+        selected:
+          fill: '#f7be00'
+      onRegionClick: (ev, code) =>
+        @zoom(code)
     )
     @mapObject = @$mapEl.vectorMap('get', 'mapObject')
+    window.m = @
+    window.mo = m.mapObject
+    @maxScale = @mapObject.scale
 
-  zoomToRegion: (code) =>
-    @mapObject.setFocus(region: code, animate: true)
+  zoom: (code) =>
+    if @selectedRegionCode == code
+      @selectedRegionCode = ''
+      @mapObject.clearSelectedRegions()
+      @resetZoom()
+    else
+      @mapObject.clearSelectedRegions()
+      @mapObject.setSelectedRegions(code)
+      @mapObject.setFocus(region: code, animate: true)
+      @selectedRegionCode = code
+
+  resetZoom: ->
+    @mapObject.setFocus 
+      scale: @maxScale
+      x: 0
+      y: 0
+      animate: true
 
   prepareDataForMap: =>
     mapData = {}
