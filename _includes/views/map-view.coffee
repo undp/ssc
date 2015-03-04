@@ -1,10 +1,11 @@
 class MapView extends Backbone.View
+
   initialize: (options) ->
-    throw "Missing contentView" unless options.contentView?
+    throw "Missing parentView" unless options.parentView?
     _.defer @vectorMap # TODO: Replace with better map init event
 
   vectorMap: =>
-    @$mapEl = $('.w-tab-pane[data-w-tab="map"]')
+    @$el = $('.w-tab-pane[data-w-tab="map"]')
 
     # TODO: console.log 'render map called'
     @values = {}
@@ -12,7 +13,7 @@ class MapView extends Backbone.View
       @values[i.map_short] = _.random(0,10)
     )
 
-    @$mapEl.vectorMap(
+    @$el.vectorMap(
       map: 'world_mill_en'
       backgroundColor: 'white'
       series:
@@ -29,7 +30,7 @@ class MapView extends Backbone.View
         @clickRegion(code)
       onRegionOver: (ev, code) =>
     )
-    @mapObject = @$mapEl.vectorMap('get', 'mapObject')
+    @mapObject = @$el.vectorMap('get', 'mapObject')
     window.m = @
     window.mo = m.mapObject
     @maxScale = @mapObject.scale

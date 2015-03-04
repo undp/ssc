@@ -53,6 +53,7 @@ class Projects extends Backbone.Collection
 
   addFilter: (options) =>
     {name, value, trigger} = options
+    trigger ?= true
 
     return "Can't add duplicate Facet" if _.findWhere(@filterState, 
       name: name
@@ -65,11 +66,15 @@ class Projects extends Backbone.Collection
     @filterState.push 
       name: facetName
       value: facetValue
-    @trigger 'filters:add' unless (trigger? and !trigger)
+    @trigger 'filters:add' unless !trigger
 
   removeFilter: (options) =>
     {name, value, trigger} = options
     # TODO: Check value if valid for facet, i.e. is it an active filter?
+    return "Can't remove non-existent Facet" unless _.findWhere(@filterState, 
+      name: name
+      value: value
+    )
     @facetr.facet(name).removeValue(value)
     @removeFilterState(name, value, trigger)
 
@@ -79,9 +84,8 @@ class Projects extends Backbone.Collection
       value: facetValue
     )
     @filterState = _.without(@filterState, foundFilter)
-    unless (trigger? and !trigger)
-      console.log 'trigger filters:remove'
-      @trigger 'filters:remove'
+
+    @trigger 'filters:remove' unless !trigger
 
   clearFilters: => # Triggers filters:reset 
     @resetState()
@@ -97,7 +101,6 @@ class Projects extends Backbone.Collection
   # PREPARE Facets for display
   # 
   prepareFilterGroups: ->
-    console.log 'prepare all filterGroups'
     @sortFacetsByActiveCount()
 
     _.map(@facets(), (facet) =>

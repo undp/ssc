@@ -1,8 +1,8 @@
 <div class="controls-container">
-  <div id='searchView' class="search-container">
+  <div class="search-container">
     <!-- searchView._ -->
   </div>
-  <div id='filterView' class="filters-container">
+  <div class="filters-container">
     <!-- filterView._ -->
   </div>
 </div>
