@@ -18,6 +18,7 @@ app = window.app = {}
 {% include views/search-view.coffee %} # FilterView
 {% include views/filter-view.coffee %} # FilterView
 {% include views/content-view.coffee %} # ContentView
+{% include views/map-view.coffee %} # MapView
 {% include views/controls-view.coffee %} # ControlsView
 {% include views/headlines-view.coffee %} # HeadlinesView
 

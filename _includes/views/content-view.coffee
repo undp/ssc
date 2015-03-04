@@ -6,13 +6,13 @@ class ContentView extends Backbone.View
 
   initialize: ->
     @listenTo @collection, 'reset', @render
+    @map = new MapView(contentView: @, collection: @collection)
     @render()
 
   render: ->
     # TODO: console.log 'reset collection -> render contentView'
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)
-    _.defer @vectorMap
     @selectTab('map')
     @
 
@@ -30,53 +30,3 @@ class ContentView extends Backbone.View
     @$el.find('.w-tab-pane').removeClass(tabActive)
     @$el.find(".w-tab-pane[data-w-tab='#{tab}']").addClass(tabActive)
 
-  vectorMap: =>
-    @$mapEl = $('.w-tab-pane[data-w-tab="map"]')
-
-    # TODO: console.log 'render map called'
-    values = _.object(
-      _.map(countries, (i) ->
-        [[i.iso3],[Math.floor((Math.random() * 100) + 1)]]
-      )
-    )
-    console.log values
-    @$mapEl.vectorMap(
-      map: 'world_mill_en'
-      series:
-        regions: [
-          values: values
-          scale: ['red', 'blue']
-          normalizeFunction: 'polynomial'
-        ]
-      regionsSelectable: true
-      regionsSelectableOne: true
-      # focusOn: region: 'gb'
-      onRegionSelected: (ev, code) =>
-        console.log(code)
-        @zoomToRegion(code)
-    )
-    @mapObject = @$mapEl.vectorMap('get', 'mapObject')
-
-  zoomToRegion: (code) =>
-    @mapObject.setFocus(region: code, animate: true)
-
-  # freezeContentHeight: =>
-  #   contentDiv = $("#content")
-  #   fromTop = contentDiv.offset().top
-  #   contentDiv.height(@$el.find('#map').height() + 380 + 'px')
-  #   window.scroll(0, fromTop)
-  #   @resizeMapFrame()
-
-  # resizeThrottler: =>
-  #   _.throttle =>
-  #     @resized = false
-  #     @resizeMapFrame()
-  #   , 500
-
-  # resizeMapFrame: =>
-  #   mapDiv = @$el.find('#map')
-  #   mapDiv.height($(window).height() - 100)
-
-  #   if @visible == 'map' && !@resized
-  #     @resized = true
-  #     _.defer -> google.maps.event.trigger(map, 'resize')
