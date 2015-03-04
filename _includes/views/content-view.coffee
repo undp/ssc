@@ -60,23 +60,6 @@ class ContentView extends Backbone.View
   zoomToRegion: (code) =>
     @mapObject.setFocus(region: code, animate: true)
 
-  # freezeContentHeight: =>
-  #   contentDiv = $("#content")
-  #   fromTop = contentDiv.offset().top
-  #   contentDiv.height(@$el.find('#map').height() + 380 + 'px')
-  #   window.scroll(0, fromTop)
-  #   @resizeMapFrame()
 
-  # resizeThrottler: =>
-  #   _.throttle =>
-  #     @resized = false
-  #     @resizeMapFrame()
-  #   , 500
 
-  # resizeMapFrame: =>
-  #   mapDiv = @$el.find('#map')
-  #   mapDiv.height($(window).height() - 100)
 
-  #   if @visible == 'map' && !@resized
-  #     @resized = true
-  #     _.defer -> google.maps.event.trigger(map, 'resize')
