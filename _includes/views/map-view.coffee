@@ -26,7 +26,7 @@ class MapView extends Backbone.View
         selected:
           fill: '#f7be00'
       onRegionClick: (ev, code) =>
-        @zoom(code)
+        @clickRegion(code)
       onRegionOver: (ev, code) =>
     )
     @mapObject = @$mapEl.vectorMap('get', 'mapObject')
@@ -34,17 +34,37 @@ class MapView extends Backbone.View
     window.mo = m.mapObject
     @maxScale = @mapObject.scale
 
-  zoom: (code) =>
-    if @selectedRegionCode == code
-      @selectedRegionCode = ''
-      @mapObject.clearSelectedRegions()
-      @resetZoom()
+  clickRegion: (code) =>
+    if @selectedRegionCode == code # TODO: Too unreliable as a check - need to refer to viewModel
+      @deselectRegion(code)
     else
-      @mapObject.clearSelectedRegions()
-      @mapObject.tip.hide()
-      @mapObject.setSelectedRegions(code)
-      @mapObject.setFocus(regions: [code], animate: true)
-      @selectedRegionCode = code
+      @selectRegion(code)
+
+  selectRegion: (code) =>
+    @mapObject.clearSelectedRegions()
+    @mapObject.tip.hide()
+    @mapObject.setSelectedRegions(code)
+    @mapObject.setFocus(regions: [code], animate: true)
+    @selectedRegionCode = code
+
+    # TODO: Use events instead?
+    country = app.countries.nameFromMapShort(code)
+    if country?
+      id = country.id.toLowerCase()
+      @collection.addFilter(name: 'host_location', value: id)
+
+    @mapObject.resize()
+    
+  deselectRegion: (code) =>
+    @selectedRegionCode = ''
+    @mapObject.clearSelectedRegions()
+    @resetZoom()
+
+    # TODO: Use events instead?
+    country = app.countries.nameFromMapShort(code)
+    if country?
+      id = country.id.toLowerCase()
+      @collection.removeFilter(name: 'host_location', value: id)
 
   resetZoom: ->
     @mapObject.setFocus 

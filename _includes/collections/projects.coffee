@@ -69,7 +69,7 @@ class Projects extends Backbone.Collection
 
   removeFilter: (options) =>
     {name, value, trigger} = options
-    # TODO: Check value if valid for facet
+    # TODO: Check value if valid for facet, i.e. is it an active filter?
     @facetr.facet(name).removeValue(value)
     @removeFilterState(name, value, trigger)
 

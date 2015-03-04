@@ -22,6 +22,9 @@ class Countries extends Backbone.Collection
   nameFromIso3: (iso3) ->
     @findWhere(iso3: iso3.toUpperCase())
 
+  nameFromMapShort: (mapShort) ->
+    @findWhere(map_short: mapShort.toUpperCase())
+
   isoFromName: (name) ->
     return unless name
     try
