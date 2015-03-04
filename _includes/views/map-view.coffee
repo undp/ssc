@@ -8,10 +8,9 @@ class MapView extends Backbone.View
     @$el = $('.w-tab-pane[data-w-tab="map"]')
 
     # TODO: console.log 'render map called'
-    @values = {}
-    _.each(countries, (i) =>
-      @values[i.map_short] = _.random(0,10)
-    )
+    @values = @prepareDataForMap()
+    console.dir @values
+
 
     @$el.vectorMap(
       map: 'world_mill_en'
@@ -49,7 +48,7 @@ class MapView extends Backbone.View
     @selectedRegionCode = code
 
     # TODO: Use events instead?
-    country = app.countries.nameFromMapShort(code)
+    country = app.countries.searchByShort(code)
     if country?
       id = country.id.toLowerCase()
       @collection.addFilter(name: 'host_location', value: id)
@@ -62,7 +61,7 @@ class MapView extends Backbone.View
     @resetZoom()
 
     # TODO: Use events instead?
-    country = app.countries.nameFromMapShort(code)
+    country = app.countries.searchByShort(code)
     if country?
       id = country.id.toLowerCase()
       @collection.removeFilter(name: 'host_location', value: id)
@@ -74,14 +73,20 @@ class MapView extends Backbone.View
       y: 0
       animate: true
 
-  prepareDataForMap: =>
-    mapData = {}
-    locationData = @collection.prepareFilterGroupForType('host_location')
-    locationData.forEach( (i) =>
-      mapData[i.value.toUpperCase()] = 
-        activeCount: i.activeCount
-        fillKey: _.keys(@fills)[_.random(0, _.keys(@fills).length)]
-    )
-    mapData
+  prepareDataForMap: ->
+    locationCounts = @collection.prepareFilterGroupForType('host_location')
 
-  calculateFillColours: (value, upper, lower) ->
+    data = {}
+    app.countries.map( (country) ->
+      iso3 = country.get('iso3').toLowerCase()
+      map_short = country.get('map_short')
+
+      hasValue = _.findWhere(locationCounts, value: iso3)
+      activeCount = hasValue?.activeCount || 0
+      
+      data[map_short] = activeCount
+    )
+    data
+
+
+
