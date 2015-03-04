@@ -7,9 +7,9 @@ class MapView extends Backbone.View
     @$mapEl = $('.w-tab-pane[data-w-tab="map"]')
 
     # TODO: console.log 'render map called'
-    values = {}
-    _.each(countries, (i) ->
-      values[i.map_short] = _.random(0,10)
+    @values = {}
+    _.each(countries, (i) =>
+      @values[i.map_short] = _.random(0,10)
     )
 
     @$mapEl.vectorMap(
@@ -17,11 +17,10 @@ class MapView extends Backbone.View
       backgroundColor: 'white'
       series:
         regions: [
-          values: values
-          scale: ['#C8EEFF', '#0071A4']
+          values: @values
+          scale: ['#95B9D7', '#1057A7']
           normalizeFunction: 'polynomial'
         ]
-      # regionsSelectable: true
       regionsSelectableOne: true
       regionStyle:
         selected:
