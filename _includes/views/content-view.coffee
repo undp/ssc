@@ -60,6 +60,16 @@ class ContentView extends Backbone.View
   zoomToRegion: (code) =>
     @mapObject.setFocus(region: code, animate: true)
 
+  prepareDataForMap: =>
+    mapData = {}
+    locationData = @collection.prepareFilterGroupForType('host_location')
+    locationData.forEach( (i) =>
+      mapData[i.value.toUpperCase()] = 
+        activeCount: i.activeCount
+        fillKey: _.keys(@fills)[_.random(0, _.keys(@fills).length)]
+    )
+    mapData
 
+  calculateFillColours: (value, upper, lower) ->
 
 
