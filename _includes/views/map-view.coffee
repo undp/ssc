@@ -28,6 +28,7 @@ class MapView extends Backbone.View
           fill: '#f7be00'
       onRegionClick: (ev, code) =>
         @zoom(code)
+      onRegionOver: (ev, code) =>
     )
     @mapObject = @$mapEl.vectorMap('get', 'mapObject')
     window.m = @
@@ -41,8 +42,9 @@ class MapView extends Backbone.View
       @resetZoom()
     else
       @mapObject.clearSelectedRegions()
+      @mapObject.tip.hide()
       @mapObject.setSelectedRegions(code)
-      @mapObject.setFocus(region: code, animate: true)
+      @mapObject.setFocus(regions: [code], animate: true)
       @selectedRegionCode = code
 
   resetZoom: ->
