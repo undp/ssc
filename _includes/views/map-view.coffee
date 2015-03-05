@@ -2,15 +2,17 @@ class MapView extends Backbone.View
 
   initialize: (options) ->
     throw "Missing parentView" unless options.parentView?
-    _.defer @vectorMap # TODO: Replace with better map init event
 
-  vectorMap: =>
+    @listenTo @collection, 'reset', @updateValues
+    @listenTo @collection, 'filters:add', @updateValues
+    @listenTo @collection, 'filters:remove', @updateValues
+    @listenTo @collection, 'filters:reset', @updateValues
+
+    _.defer @createMap # TODO: Replace with better map init event
+
+  createMap: =>
     @$el = $('.w-tab-pane[data-w-tab="map"]')
-
-    # TODO: console.log 'render map called'
     @values = @prepareDataForMap()
-    console.dir @values
-
 
     @$el.vectorMap(
       map: 'world_mill_en'
@@ -30,9 +32,12 @@ class MapView extends Backbone.View
       onRegionOver: (ev, code) =>
     )
     @mapObject = @$el.vectorMap('get', 'mapObject')
+    @maxScale = @mapObject.scale # TODO: Handle zoom and resizing better
     window.m = @
-    window.mo = m.mapObject
-    @maxScale = @mapObject.scale
+
+  updateValues: ->
+    @values = @prepareDataForMap()
+    @mapObject.series.regions[0].setValues(@values)
 
   clickRegion: (code) =>
     if @selectedRegionCode == code # TODO: Too unreliable as a check - need to refer to viewModel
