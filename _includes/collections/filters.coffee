@@ -17,7 +17,7 @@ class Filters extends Backbone.Collection
           filterTitle: indice.filterTitle
 
   addCountries: (countries) ->
-    _.each window.countries, (country) =>
+    _.each countries, (country) =>
       @add
         name: country.name
         short: country.iso3.toLowerCase()

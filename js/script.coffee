@@ -12,6 +12,9 @@ app = window.app = {}
 {% include collections/countries.coffee %} # Countries
 {% include collections/projects.coffee %} # Projects
 
+# ViewModels
+{% include models/explorer-view-model.coffee %} # ExplorerViewModel
+
 # Views
 {% include views/project-view.coffee %} # ProjectView
 {% include views/explorer-view.coffee %} # ExplorerView
@@ -32,15 +35,16 @@ app = window.app = {}
 {% include utils/utils.coffee%}
 
 $(document).ready ->
-
   # Collections
   app.projects = new Projects
-  app.countries = new Countries(window.countries)
-  app.filters = (new Filters)
-  app.filters.populate(indices: window.indices, countries: window.countries)
-  app.router = new Router()
+  app.countries = new Countries(preloadData.countries)
+  app.filters = new Filters
+  app.filters.populate(
+    indices: preloadData.indices
+    countries: preloadData.countries # TODO: Avoid duplication with above
+  )
 
   app.projects.fetch
     success: ->
-      app.projects.initFacetr()
+      app.router = new Router()
       Backbone.history.start()

@@ -16,8 +16,9 @@
     </div>
 
     <script type="text/javascript">
-      window.countries = {% include data/countries.json %}
-      window.indices = {% include data/indices.json %}
+      window.preloadData = {};
+      preloadData.countries = {% include data/countries.json %};
+      preloadData.indices = {% include data/indices.json %};
     </script>
 
     {% include footer.html %}
