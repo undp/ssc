@@ -1,6 +1,7 @@
 Router = Backbone.Router.extend
   initialize: ->
     @$appEl ||= $("#app")
+    @viewModel ?= new ExplorerViewModel
 
     # Keep count of number of routes handled by your application
     @routesHit = 0

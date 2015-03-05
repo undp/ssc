@@ -56,6 +56,8 @@ class Projects extends Backbone.Collection
     {name, value, trigger} = options
     trigger ?= true
 
+    console.warn "TODO: Need to check facet is valid (esp. if country)"
+
     return "Can't add duplicate Facet" if _.findWhere(@filterState, 
       name: name
       value: value
