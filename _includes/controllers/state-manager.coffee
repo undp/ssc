@@ -2,27 +2,13 @@
   # SERIALIZE and STORE state
   # 
 
-class StateManager
+class StateManager extends Backbone.Model
   initialize: (options) ->
-    throw 'No collection' unless options.collection?
-    @collection = options.collection
-    
-    @listenTo @collection, 'filters:add', @storeState
-    @listenTo @collection, 'filters:remove', @storeState    
+    throw 'No collection to manage' unless options.manageCollection?
+    @manageCollection = options.manageCollection
 
-  storeState: -> # Listens to 'filter:add' and 'filter:remove' events
-    return @_rebuildURL() if @filterState.length is 0
-    primaryFilter = _.first(@filterState)
-    stateRef = @_persistState(
-      filterState: @filterState
-      viewState: @viewState
-    ) 
-
-    @_rebuildURL(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
-
-  # 
-  # RETRIEVE and RESTORE filterState
-  # 
+    @listenTo @manageCollection, 'filters:add', @_storeState
+    @listenTo @manageCollection, 'filters:remove', @_storeState    
 
   retrieveStateData: (options) -> # options = {stateRef, facetName, facetValue, viewState}
     {stateRef, facetName, facetValue, viewState} = options
@@ -59,6 +45,16 @@ class StateManager
         @_rebuildURL(options)
       )
 
+  _storeState: -> # Listens to 'filter:add' and 'filter:remove' events
+    return @_rebuildURL() if @manageCollection.filterState.length is 0
+    primaryFilter = _.first(@manageCollection.filterState)
+    stateRef = @_persistState(
+      filterState: @manageCollection.filterState
+      viewState: @viewState
+    ) 
+
+    @_rebuildURL(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
+
   _persistState: (options) -> # Takes stateData, and returns stateRef
     {stateRef, filterState, viewState} = options
     stateRef ?= app.utils.PUID()
@@ -87,7 +83,7 @@ class StateManager
     return 'No filterState given' unless filterState?
 
     _.each filterState, (filter) =>
-      @addFilter(name: filter.name, value: filter.value, trigger: false)
+      @manageCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
     @trigger 'filters:reset'    
 
   _rebuildURL: (options) -> # options = {stateRef, facetName, facetValue, viewState}
