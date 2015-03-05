@@ -12,7 +12,8 @@ app = window.app = {}
 {% include collections/countries.coffee %} # Countries
 {% include collections/projects.coffee %} # Projects
 
-# ViewModels
+# Controllers and ViewModels
+{% include controllers/state-manager.coffee %} # StateManager
 {% include models/explorer-view-model.coffee %} # ExplorerViewModel
 
 # Views
@@ -46,5 +47,6 @@ $(document).ready ->
 
   app.projects.fetch
     success: ->
+      app.state = new StateManager(@)
       app.router = new Router()
       Backbone.history.start()
