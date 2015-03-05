@@ -3,7 +3,10 @@
   # 
 
 class StateManager
-  initialize: (@collection) ->
+  initialize: (options) ->
+    throw 'No collection' unless options.collection?
+    @collection = options.collection
+    
     @listenTo @collection, 'filters:add', @storeState
     @listenTo @collection, 'filters:remove', @storeState    
 

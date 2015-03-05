@@ -47,6 +47,6 @@ $(document).ready ->
 
   app.projects.fetch
     success: ->
-      app.state = new StateManager(@)
+      app.state = new StateManager(collection: @)
       app.router = new Router()
       Backbone.history.start()
