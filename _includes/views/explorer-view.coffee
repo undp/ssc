@@ -1,6 +1,9 @@
 class ExplorerView extends Backbone.View
   template: ->  _.template($('#explorerView').html())
 
+  initialize: ->
+    @viewModel ?= new ExplorerViewModel
+
   render: ->
     compiled = @template()()
     @$el.html(compiled)
