@@ -18,18 +18,18 @@ class Projects extends Backbone.Collection
   model: Project
 
   initialize: ->
-    @listenTo @, 'add', @initFacetr
-    @listenTo @, 'set', @initFacetr
+    @listenTo @, 'add', @_initFacetr
+    @listenTo @, 'set', @_initFacetr
 
-    @resetState()
+    @_resetState()
 
-  resetState: ->
+  _resetState: ->
     @filterState = [] # TODO: Probably move from this Collection to a ViewModel
     @viewState = INITIAL_VIEW_STATE # TODO: Definitely move from this Collection to a ViewModel
 
-  initFacetr: ->
+  _initFacetr: ->
     @facetr ||= Facetr(@, 'projects')
-    @addStandardFacets() unless @facets().length == @facetTypes.length
+    @_addStandardFacets() unless @_facets().length == @facetTypes.length
 
   findBySearch: (term) ->
     @filter (i) ->
@@ -38,14 +38,14 @@ class Projects extends Backbone.Collection
   # 
   # Facets
   # 
-  addStandardFacets: ->
+  _addStandardFacets: ->
     _.each @facetTypes, (type) =>
       @facetr.facet(type).desc()
 
-  facets: -> # @facetr.toJSON()
+  _facets: -> # @facetr.toJSON()
     @facetr.toJSON()
 
-  facetsObject: ->
+  _facetsObject: ->
     _.object(
       _.map @facetr.toJSON(), (facet) ->
         [facet.data.name, facet.values]
@@ -62,9 +62,9 @@ class Projects extends Backbone.Collection
       value: value
     )
     @facetr.facet(name).value(value, 'and')
-    @addFilterState(name, value, trigger)
+    @_addFilterState(name, value, trigger)
 
-  addFilterState: (facetName, facetValue, trigger) => # Triggers filters:add 
+  _addFilterState: (facetName, facetValue, trigger) => # Triggers filters:add 
     @filterState.push 
       name: facetName
       value: facetValue
@@ -78,9 +78,9 @@ class Projects extends Backbone.Collection
       value: value
     )
     @facetr.facet(name).removeValue(value)
-    @removeFilterState(name, value, trigger)
+    @_removeFilterState(name, value, trigger)
 
-  removeFilterState: (facetName, facetValue, trigger) => # Triggers filters:remove
+  _removeFilterState: (facetName, facetValue, trigger) => # Triggers filters:remove
     foundFilter = _.findWhere(@filterState, 
       name: facetName
       value: facetValue
@@ -90,31 +90,31 @@ class Projects extends Backbone.Collection
     @trigger 'filters:remove' unless !trigger
 
   clearFilters: => # Triggers filters:reset 
-    @resetState()
+    @_resetState()
     @facetr.clearValues()
     @trigger 'filters:remove'
 
-  sortFacetsByActiveCount: ->
+  _sortFacetsByActiveCount: ->
     _.each(@facetr.facets(), (facet) =>
       facet.sortByActiveCount()
     )
 
   # 
-  # PREPARE Facets for display
+  # PREPARE _Facets for display
   # 
   prepareFilterGroups: ->
-    @sortFacetsByActiveCount()
+    @_sortFacetsByActiveCount()
 
-    _.map(@facets(), (facet) =>
-      facet.values = @removeEmptyValuesFrom(facet.values)
+    _.map(@_facets(), (facet) =>
+      facet.values = @_removeEmptyValuesFrom(facet.values)
       facet
     )
 
   prepareFilterGroupForType: (type) ->
     throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)
-    @removeEmptyValuesFrom(@facetsObject()[type])
+    @_removeEmptyValuesFrom(@_facetsObject()[type])
 
-  removeEmptyValuesFrom: (values) ->
+  _removeEmptyValuesFrom: (values) ->
     _.filter(values, (i) =>
       i.activeCount > 0 && i.value != ""
     )
