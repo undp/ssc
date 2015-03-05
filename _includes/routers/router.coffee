@@ -26,7 +26,7 @@ Router = Backbone.Router.extend
         facetValue: facetValue
         viewState: params?.viewState
 
-      app.projects.retrieveStateData(options) 
+      app.state.retrieveStateData(options) 
 
     else if facetName and facetValue
       app.projects.clearFilters() # TODO: Check if clearFilters() needed
