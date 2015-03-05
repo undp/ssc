@@ -18,6 +18,7 @@ class Projects extends Backbone.Collection
   model: Project
 
   initialize: ->
+    @listenTo @, 'add', @initFacetr
     @listenTo @, 'set', @initFacetr
     @listenTo @, 'filters:add', @storeState
     @listenTo @, 'filters:remove', @storeState
@@ -28,8 +29,8 @@ class Projects extends Backbone.Collection
     @viewState = INITIAL_VIEW_STATE # TODO: Definitely move from this Collection to a ViewModel
 
   initFacetr: ->
-    @facetr = Facetr(@, 'projects')
-    @addStandardFacets()
+    @facetr ||= Facetr(@, 'projects')
+    @addStandardFacets() unless @facets().length == @facetTypes.length
 
   findBySearch: (term) ->
     @filter (i) ->
