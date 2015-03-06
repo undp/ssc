@@ -12,11 +12,11 @@ class HeadlinesView extends Backbone.View
   render: ->
     compiled = @template()(
       collection: @collection
-      stats: @calculateStats()
+      stats: @_calculateStats()
     )
     @$el.html(compiled)
     @
 
-  calculateStats: ->
+  _calculateStats: ->
     activeCountriesCount: 
       @collection.prepareFilterGroupForType('host_location').length

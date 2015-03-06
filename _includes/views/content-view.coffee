@@ -2,7 +2,7 @@ class ContentView extends Backbone.View
   template: -> _.template($('#contentView').html())
 
   events:
-    'click .tab-menu-link': 'selectTabLink'
+    'click .tab-menu-link': '_selectTabLink'
 
   initialize: ->
     @childViews =
@@ -18,15 +18,15 @@ class ContentView extends Backbone.View
 
     _.each @childViews, (view) -> view.render()
 
-    @setActiveTab('map') # TODO: Refer to viewModel
+    @_setActiveTab('map') # TODO: Refer to viewModel
     @
 
-  selectTabLink: (ev) =>
+  _selectTabLink: (ev) =>
     ev.preventDefault()
     tab = ev.currentTarget.getAttribute('data-w-tab')
-    @setActiveTab(tab)
+    @_setActiveTab(tab)
 
-  setActiveTab: (tab) ->
+  _setActiveTab: (tab) ->
     linkActive = 'w--current'
     tabActive = 'w--tab-active'
 

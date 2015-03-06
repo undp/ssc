@@ -4,9 +4,9 @@ class ProjectView extends Backbone.View
   className: 'row'
 
   events:
-    'click .filter': 'filter'
-    'click .triggerIframeResize': 'triggerIframeResize'
-    'click .backToResults': 'backToResults'
+    'click .filter': '_filter'
+    'click .triggerIframeResize': '_triggerIframeResize'
+    'click .backToResults': '_backToResults'
 
   initialize: ->
     _.template.partial.declare('filterItem', $('#partial-filterItem').html())
@@ -18,16 +18,16 @@ class ProjectView extends Backbone.View
     window.scrollTo(0,0)
     @
 
-  backToResults: (ev) ->
+  _backToResults: (ev) ->
     ev.preventDefault()
     app.router.back()
 
-  filter: (ev) ->
+  _filter: (ev) ->
     ev.preventDefault()
     data = ev.target.dataset
     console.log "Show all: filtering type #{data.filterName} for value #{data.filterValue}"
 
-  triggerIframeResize: ->
+  _triggerIframeResize: ->
     if doc = document.getElementById('project_iframe')
       newheight = doc.contentWindow.document.body.scrollHeight
       doc.height= (newheight) + "px"

@@ -3,16 +3,16 @@ class MapView extends Backbone.View
   initialize: (options) ->
     throw "Missing parentView" unless options.parentView?
 
-    @listenTo @collection, 'reset', @updateValues
-    @listenTo @collection, 'filters:add', @updateValues
-    @listenTo @collection, 'filters:remove', @updateValues
-    @listenTo @collection, 'filters:reset', @updateValues
+    @listenTo @collection, 'reset', @_updateValues
+    @listenTo @collection, 'filters:add', @_updateValues
+    @listenTo @collection, 'filters:remove', @_updateValues
+    @listenTo @collection, 'filters:reset', @_updateValues
 
-    _.defer @createMap # TODO: Replace with better map init event
+    _.defer @_createMap # TODO: Replace with better map init event
 
-  createMap: =>
+  _createMap: =>
     @$el = $('.w-tab-pane[data-w-tab="map"]')
-    @values = @prepareDataForMap()
+    @values = @_prepareDataForMap()
 
     @$el.vectorMap(
       map: 'world_mill_en'
@@ -28,24 +28,24 @@ class MapView extends Backbone.View
         selected:
           fill: '#f7be00'
       onRegionClick: (ev, code) =>
-        @clickRegion(code)
+        @_clickRegion(code)
       onRegionOver: (ev, code) =>
     )
     @mapObject = @$el.vectorMap('get', 'mapObject')
     @maxScale = @mapObject.scale # TODO: Handle zoom and resizing better
     window.m = @
 
-  updateValues: ->
-    @values = @prepareDataForMap()
+  _updateValues: ->
+    @values = @_prepareDataForMap()
     @mapObject.series.regions[0].setValues(@values)
 
-  clickRegion: (code) =>
+  _clickRegion: (code) =>
     if @selectedRegionCode == code # TODO: Too unreliable as a check - need to refer to viewModel
-      @deselectRegion(code)
+      @_deselectRegion(code)
     else
-      @selectRegion(code)
+      @_selectRegion(code)
 
-  selectRegion: (code) =>
+  _selectRegion: (code) =>
     @mapObject.clearSelectedRegions()
     @mapObject.tip.hide()
     @mapObject.setSelectedRegions(code)
@@ -60,10 +60,10 @@ class MapView extends Backbone.View
 
     @mapObject.resize()
     
-  deselectRegion: (code) =>
+  _deselectRegion: (code) =>
     @selectedRegionCode = ''
     @mapObject.clearSelectedRegions()
-    @resetZoom()
+    @_resetZoom()
 
     # TODO: Use events instead?
     country = app.countries.searchByShort(code)
@@ -71,14 +71,14 @@ class MapView extends Backbone.View
       id = country.id.toLowerCase()
       @collection.removeFilter(name: 'host_location', value: id)
 
-  resetZoom: ->
+  _resetZoom: ->
     @mapObject.setFocus 
       scale: @maxScale
       x: 0
       y: 0
       animate: true
 
-  prepareDataForMap: ->
+  _prepareDataForMap: ->
     locationCounts = @collection.prepareFilterGroupForType('host_location')
 
     data = {}

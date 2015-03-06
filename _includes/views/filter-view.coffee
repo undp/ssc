@@ -2,9 +2,9 @@ class FilterView extends Backbone.View
   template: ->  _.template($('#filterView').html())
 
   events:
-    'click [data-ix="showhide-all-filters"]': 'showHideAllFilters'
-    'click [data-ix="showhide-filter-groups"]': 'showHideFilterGroup'
-    'click .group-item': 'addFilter'
+    'click [data-ix="showhide-all-filters"]': '_showHideAllFilters'
+    'click [data-ix="showhide-filter-groups"]': '_showHideFilterGroup'
+    'click .group-item': '_addFilter'
 
     # 'click .activeFilter': 'removeFilter'
     # 'click .resetFilters': 'resetFilters'
@@ -24,22 +24,22 @@ class FilterView extends Backbone.View
     compiled = @template()(
       activeFilters: @collection.filterState
       collection: @collection
-      filterGroups: @prepareFilterGroups()
+      filterGroups: @_prepareFilterGroups()
     )
     @$el.html(compiled)
 
-  prepareFilterGroups: =>
+  _prepareFilterGroups: =>
     @collection.prepareFilterGroups()
 
-  showHideAllFilters: (ev) ->
+  _showHideAllFilters: (ev) ->
     ev.preventDefault()
     @$el.find('.filters').toggle()
 
-  showHideFilterGroup: (ev) ->
+  _showHideFilterGroup: (ev) ->
     ev.preventDefault()
     $(ev.target).siblings().toggle()
 
-  addFilter: (ev) =>
+  _addFilter: (ev) =>
     ev.preventDefault()
     data = ev.currentTarget.dataset
     @collection.addFilter(name: data.filterName, value: data.filterValue)
@@ -52,13 +52,11 @@ class FilterView extends Backbone.View
   # resetFilters: =>
   #   @collection.clearFilters()
 
-
-
-  search: (term) ->
-    if term
-      @filterGroups = _.groupBy(app.filters.search(term), (i) ->
-        i.get('filterTitle')
-      )
-    else
-      @resetFilterGroups()
-    @render()
+  # search: (term) ->
+  #   if term
+  #     @filterGroups = _.groupBy(app.filters.search(term), (i) ->
+  #       i.get('filterTitle')
+  #     )
+  #   else
+  #     @resetFilterGroups()
+  #   @render()
