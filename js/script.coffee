@@ -14,7 +14,6 @@ app = window.app = {}
 
 # Controllers and ViewModels
 {% include controllers/state-manager.coffee %} # StateManager
-{% include models/explorer-view-model.coffee %} # ExplorerViewModel
 
 # Views
 {% include views/project-view.coffee %} # ProjectView
