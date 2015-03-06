@@ -4,6 +4,9 @@ class Project extends Backbone.Model
   joinedFields: ['host_location', 'undp_role_type', 'thematic_focus', 'territorial_focus', 'partner_location', 'partner_type', 'region']
 
   initialize: ->
+    @_addArrayFields()
+
+  _addArrayFields: ->
     _.each @joinedFields, (field) =>
       if !_.isArray(@get(field))
         values = @get(field).split(",")
@@ -11,8 +14,8 @@ class Project extends Backbone.Model
           s.underscored(i.trim().toLowerCase())
         ))
 
-  allLocations: ->
-    _.chain([@get('host_location'), @get('partner_location')])
-      .flatten()
-      .compact()
-      .value()
+  # allLocations: ->
+  #   _.chain([@get('host_location'), @get('partner_location')])
+  #     .flatten()
+  #     .compact()
+  #     .value()
