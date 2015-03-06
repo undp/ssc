@@ -25,12 +25,36 @@ class Router
     # Parse URL and recreate state
   updateUrlForState: (state) ->
 
+===
+
+# ContentView (+children)
+#   - listenTo Projects Collection
+#   - render changes
+
+ControlsView (+children)
+  - listenTo Projects Collection
+  - render filters based from Projects
+  - use FiltersCollection to translate terms
 
 
-@collection.addFilter()
-@collection.removeFilter()
-@collection.clearFilters()
+1. user adds/removes/clear a filter
+  - add/remove/clear filter to collection
+  - re-render all affected pieces
+  - update filterState
+  - persist state
 
-@state.addFilter() ->
-  @collection.addFilter()
-  @storeFilterState()
+  @state.addFilter('host_location', 'afg')
+  @state.setView('map')
+
+
+
+2. user changes view
+  - change view displayed
+  - update viewState
+  - persist state
+
+3.user arrives via URL
+  - parse URL
+  - retrieve persistedState if possible
+  - otherwise navigate to best guess
+  - 
