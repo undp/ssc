@@ -133,6 +133,7 @@ p {
 }
 .group-item {
   display: block;
+  padding: 2px 4px;
 }
 .group-item.active {
   background-color: #d1deed;
@@ -526,7 +527,7 @@ p {
 .search-container {
   padding-right: 10px;
   padding-left: 10px;
-  border-bottom: 1px solid rgba(23, 104, 149, 0.12);
+  border-bottom: 1px solid rgba(23, 104, 149, 0.14);
 }
 .list-detail-icon {
   display: block;

@@ -18,7 +18,8 @@ class ContentView extends Backbone.View
 
     _.each(@childViews, (view) -> view.render())
 
-    @_setActiveTab('map') # TODO: Refer to viewModel
+    activeTab = app.state.viewState
+    @_setActiveTab(activeTab)
     @
 
   _selectTabLink: (ev) =>
@@ -35,4 +36,6 @@ class ContentView extends Backbone.View
 
     @$el.find('.w-tab-pane').removeClass(tabActive)
     @$el.find(".w-tab-pane[data-w-tab='#{tab}']").addClass(tabActive)
+
+    app.state.trigger 'view:changed', tab
 

@@ -9,7 +9,8 @@
   <div class="filter-group">
     <a href='#' class="group-title" data-ix="showhide-filter-groups"><%= s.humanize(filterGroup.data.name) %></a>
     <% _.each(filterGroup.values, function(filterItem){ %>
-      <a href='#' class="w-clearfix w-inline-block group-item"
+      <a href='#' class="w-clearfix w-inline-block group-item" 
+        data-active-filter='<%= filterItem.active %>'
         data-filter-name='<%= filterGroup.data.name %>'
         data-filter-value='<%= filterItem.value %>'>
         <div class="item-text"><%= app.filters.nameFromShort(filterItem.value) %></div>

@@ -4,9 +4,8 @@ class FilterView extends Backbone.View
   events:
     'click [data-ix="showhide-all-filters"]': '_showHideAllFilters'
     'click [data-ix="showhide-filter-groups"]': '_showHideFilterGroup'
-    'click .group-item': '_addFilter'
-
-    # 'click .activeFilter': 'removeFilter'
+    'click .group-item[data-active-filter="false"]': '_addFilter'
+    'click .group-item[data-active-filter="true"]': '_removeFilter'
     # 'click .resetFilters': 'resetFilters'
 
 
@@ -44,10 +43,10 @@ class FilterView extends Backbone.View
     data = ev.currentTarget.dataset
     @collection.addFilter(name: data.filterName, value: data.filterValue)
 
-  # removeFilter: (ev) =>
-  #   ev.preventDefault()
-  #   data = ev.target.dataset
-  #   @collection.removeFilter(name: data.filterName, value: data.filterValue)
+  _removeFilter: (ev) =>
+    ev.preventDefault()
+    data = ev.currentTarget.dataset
+    @collection.removeFilter(name: data.filterName, value: data.filterValue)
 
   # resetFilters: =>
   #   @collection.clearFilters()
