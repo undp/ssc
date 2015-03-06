@@ -8,13 +8,39 @@ INITIAL_VIEW_STATE = 'list'
 # 
 
 class StateManager
-  initialize: (options) ->
+  constructor: (options) ->
+    console.log 'created'
     _.extend @, Backbone.Events
     throw 'No collection to manage' unless options.observedCollection?
     @observedCollection = options.observedCollection
-
     @listenTo @observedCollection, 'filters:add', @_storeState
     @listenTo @observedCollection, 'filters:remove', @_storeState    
+    # @listenTo @observedCollection, 'filters:change', @_storeState # TODO: Replace 'add' & 'remove' with single 'change' filters event
+
+    @persistState = new PersistState
+    @filterState = [] # TODO: Probably move from this Collection to a ViewModel
+    @viewState = ''
+    @_resetState()
+
+  _storeState: =>
+    @persistState.storeStateData(filterState: @filterState, viewState: @viewState)
+    console.log 'stored state using PersistState#storeStateData'
+
+  _resetState: ->
+    @filterState = [] # TODO: Probably move from this Collection to a ViewModel
+    @viewState = INITIAL_VIEW_STATE # TODO: Definitely move from this Collection to a ViewModel
+
+class PersistState
+
+  storeStateData: (stateObject) -> # Listens to 'filter:add' and 'filter:remove' events
+    return @_rebuildURL() unless stateObject? and stateObject.filterState.length isnt 0
+    primaryFilter = _.first(stateObject.filterState)
+    stateRef = @_persistState(
+      filterState: stateObject.filterState
+      viewState: stateObject.viewState
+    ) 
+
+    @_rebuildURL(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
 
   retrieveStateData: (options) -> # options = {stateRef, facetName, facetValue, viewState}
     {stateRef, facetName, facetValue, viewState} = options
@@ -51,16 +77,6 @@ class StateManager
         @_rebuildURL(options)
       )
 
-  _storeState: -> # Listens to 'filter:add' and 'filter:remove' events
-    return @_rebuildURL() if @observedCollection.filterState.length is 0
-    primaryFilter = _.first(@observedCollection.filterState)
-    stateRef = @_persistState(
-      filterState: @observedCollection.filterState
-      viewState: @viewState
-    ) 
-
-    @_rebuildURL(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
-
   _persistState: (options) -> # Takes stateData, and returns stateRef
     {stateRef, filterState, viewState} = options
     stateRef ?= app.utils.PUID()
@@ -89,7 +105,8 @@ class StateManager
     return 'No filterState given' unless filterState?
 
     _.each filterState, (filter) =>
-      @observedCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
+      console.error 'Rebuilding filters - need access to collection'
+      # @observedCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
     @trigger 'filters:reset'    
 
   _rebuildURL: (options) -> # options = {stateRef, facetName, facetValue, viewState}
