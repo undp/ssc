@@ -1,12 +1,12 @@
-class FacetManager
+ProjectsFacets =
 
-  initialize: (options) ->
-    _.extend @, Backbone.Events
-    throw 'Missing collection' unless options.collection?
-    @collection = options.collection
-    @listenTo @collection, 'add', @_initFacetr
-    @listenTo @collection, 'set', @_initFacetr
+  initializeFacets: (options) ->
+    @listenTo @, 'add', @_initializeFacetr
+    @listenTo @, 'set', @_initializeFacetr
 
+
+    @filterState = [] # TODO: Probably move from this Collection to a ViewModel
+    @viewState = ''
     @_resetState()
 
   facetTypes: [
@@ -18,7 +18,7 @@ class FacetManager
     'partner_type'
   ]
 
-  addFilter: (options) =>
+  addFilter: (options) ->
     {name, value, trigger} = options
     trigger ?= true
 
@@ -31,7 +31,7 @@ class FacetManager
     @facetr.facet(name).value(value, 'and')
     @_addFilterState(name, value, trigger)
 
-  removeFilter: (options) =>
+  removeFilter: (options) ->
     {name, value, trigger} = options
     # TODO: Check value if valid for facet, i.e. is it an active filter?
     return "Can't remove non-existent Facet" unless _.findWhere(@filterState,
@@ -41,7 +41,7 @@ class FacetManager
     @facetr.facet(name).removeValue(value)
     @_removeFilterState(name, value, trigger)
 
-  clearFilters: => # Triggers filters:reset
+  clearFilters: -> # Triggers filters:reset
     @_resetState()
     @facetr.clearValues()
     @trigger 'filters:remove'
@@ -62,8 +62,8 @@ class FacetManager
     @filterState = [] # TODO: Probably move from this Collection to a ViewModel
     @viewState = INITIAL_VIEW_STATE # TODO: Definitely move from this Collection to a ViewModel
 
-  _initFacetr: ->
-    @facetr ||= Facetr(@collection, 'projects')
+  _initializeFacetr: ->
+    @facetr ||= Facetr(@, 'projects')
     @_addStandardFacets() unless @_facets().length == @facetTypes.length
 
   _addStandardFacets: ->
@@ -79,13 +79,13 @@ class FacetManager
         [facet.data.name, facet.values]
     )
 
-  _addFilterState: (facetName, facetValue, trigger) => # Triggers filters:add
+  _addFilterState: (facetName, facetValue, trigger) -> # Triggers filters:add
     @filterState.push
       name: facetName
       value: facetValue
     @trigger 'filters:add' unless !trigger
 
-  _removeFilterState: (facetName, facetValue, trigger) => # Triggers filters:remove
+  _removeFilterState: (facetName, facetValue, trigger) -> # Triggers filters:remove
     foundFilter = _.findWhere(@filterState,
       name: facetName
       value: facetValue

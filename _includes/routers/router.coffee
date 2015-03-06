@@ -36,11 +36,11 @@ Router = Backbone.Router.extend
       app.state.retrieveStateData(options) 
 
     else if facetName and facetValue
-      app.projects._facetManager.clearFilters() # TODO: Check if clearFilters() needed
-      app.projects._facetManager.addFilter(name: facetName, value: facetValue)
+      app.projects.clearFilters() # TODO: Check if clearFilters() needed
+      app.projects.addFilter(name: facetName, value: facetValue)
 
     else
-      app.projects._facetManager.clearFilters()
+      app.projects.clearFilters()
 
     view = new ExplorerView(collection: app.projects)
     @_switchView(view)

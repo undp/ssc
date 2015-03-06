@@ -5,7 +5,8 @@ class Projects extends Backbone.Collection
   model: Project
 
   initialize: ->
-    @_facetManager ||= new FacetManager(collection: @)
+    _.extend @, ProjectsFacets
+    @initializeFacets()
 
   search: (term) ->
     @filter (i) ->
