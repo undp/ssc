@@ -4,25 +4,8 @@ class Filters extends Backbone.Collection
   populate: (options) ->
     throw 'Missing indices' unless options.indices?
     throw 'Missing countries' unless options.countries?
-    @addIndices(options.indices)
-    @addCountries(options.countries)
-
-  addIndices: (indices) ->
-    _.each indices, (indice) =>
-      _.each indice.values, (indiceEntry) =>
-        @add
-          name: indiceEntry.name
-          short: indiceEntry.short
-          type: indice.type
-          filterTitle: indice.filterTitle
-
-  addCountries: (countries) ->
-    _.each countries, (country) =>
-      @add
-        name: country.name
-        short: country.iso3.toLowerCase()
-        type: 'host_location'
-        filterTitle: 'location'
+    @_addIndices(options.indices)
+    @_addCountries(options.countries)
 
   validFilters: (filterName, filterValue) ->
     return true unless filterName? and filterValue?
@@ -46,4 +29,19 @@ class Filters extends Backbone.Collection
       re = new RegExp term, "i"
       indice.get('name').match re
 
+  _addIndices: (indices) ->
+    _.each indices, (indice) =>
+      _.each indice.values, (indiceEntry) =>
+        @add
+          name: indiceEntry.name
+          short: indiceEntry.short
+          type: indice.type
+          filterTitle: indice.filterTitle
 
+  _addCountries: (countries) ->
+    _.each countries, (country) =>
+      @add
+        name: country.name
+        short: country.iso3.toLowerCase()
+        type: 'host_location'
+        filterTitle: 'location'
