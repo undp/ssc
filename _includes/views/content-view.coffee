@@ -6,7 +6,7 @@ class ContentView extends Backbone.View
 
   initialize: ->
     @childViews =
-      map   : new MapView(parentView: @, collection: @collection)
+      map   : new MapView(collection: @collection)
       stats : new StatsView(parentView: @, collection: @collection)
       list  : new ListView(parentView: @, collection: @collection)
 
@@ -16,7 +16,7 @@ class ContentView extends Backbone.View
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)
 
-    _.each @childViews, (view) -> view.render()
+    _.each(@childViews, (view) -> view.render())
 
     @_setActiveTab('map') # TODO: Refer to viewModel
     @

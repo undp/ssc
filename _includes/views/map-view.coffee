@@ -1,8 +1,6 @@
 class MapView extends Backbone.View
 
-  initialize: (options) ->
-    throw "Missing parentView" unless options.parentView?
-
+  initialize: ->
     @listenTo @collection, 'reset', @_updateValues
     @listenTo @collection, 'filters:add', @_updateValues
     @listenTo @collection, 'filters:remove', @_updateValues
