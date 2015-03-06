@@ -1,4 +1,4 @@
-<div class="w-col w-col-4 w-col-small-4 w-clearfix headline-column">
+<div class="w-col w-col-4 w-col-small-4 w-clearfix headline-column reset">
   <div class="headline-value"><%= collection.length %></div>
   <div class="headline-explainer">projects across the world</div>
 </div>

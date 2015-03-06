@@ -1,6 +1,9 @@
 class HeadlinesView extends Backbone.View
   template: ->  _.template($('#headlinesView').html())
 
+  events: 
+    'click .reset': '_resetFilters'
+
   initialize: ->
     @listenTo @collection, 'reset', @render
     @listenTo @collection, 'filters:add', @render
@@ -20,3 +23,6 @@ class HeadlinesView extends Backbone.View
   _calculateStats: ->
     activeCountriesCount: 
       @collection.prepareFilterGroupForType('host_location').length
+
+  _resetFilters: =>
+    @collection.clearFilters()
