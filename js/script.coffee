@@ -4,29 +4,30 @@ baseurl = "{{ site.baseurl }}"
 app = window.app = {}
 
 # Models and Collections
-{% include models/filter.coffee %} # Filter
-{% include models/country.coffee %} # Country
-{% include models/project.coffee %} # Project
-{% include models/present-project.coffee %} # PresentProject
-{% include collections/filters.coffee %} # Filters
-{% include collections/countries.coffee %} # Countries
-{% include collections/projects.coffee %} # Projects
-{% include collections/projects-facets.coffee %} # ProjectsFacets (mixin)
+{% include models/filter.coffee %}
+{% include models/country.coffee %}
+{% include models/project.coffee %}
+{% include models/present-project.coffee %}
+{% include collections/filters.coffee %}
+{% include collections/countries.coffee %}
+{% include collections/projects.coffee %}
+{% include collections/projects-facets.coffee %} # Mixin
 
 # Controllers and ViewModels
-{% include controllers/state-manager.coffee %} # StateManager
+{% include controllers/state-manager.coffee %}
+{% include controllers/persist-state.coffee %} # Mixin
 
 # Views
-{% include views/project-view.coffee %} # ProjectView
-{% include views/explorer-view.coffee %} # ExplorerView
-{% include views/search-view.coffee %} # FilterView
-{% include views/filter-view.coffee %} # FilterView
-{% include views/content-view.coffee %} # ContentView
-{% include views/map-view.coffee %} # MapView
-{% include views/stats-view.coffee %} # StatsView
-{% include views/list-view.coffee %} # ListView
-{% include views/controls-view.coffee %} # ControlsView
-{% include views/headlines-view.coffee %} # HeadlinesView
+{% include views/project-view.coffee %}
+{% include views/explorer-view.coffee %}
+{% include views/search-view.coffee %}
+{% include views/filter-view.coffee %}
+{% include views/content-view.coffee %}
+{% include views/map-view.coffee %}
+{% include views/stats-view.coffee %}
+{% include views/list-view.coffee %}
+{% include views/controls-view.coffee %}
+{% include views/headlines-view.coffee %}
 
 
 # Controllers
