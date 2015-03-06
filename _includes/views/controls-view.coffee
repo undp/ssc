@@ -1,8 +1,7 @@
 class ControlsView extends Backbone.View
   template: -> _.template($('#controlsView').html())
 
-  initialize:  (options) ->
-    @options = options || {}
+  initialize: ->
     @render()
 
   render: ->
