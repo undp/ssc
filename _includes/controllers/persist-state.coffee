@@ -10,7 +10,7 @@ class PersistState
 
     @_rebuildURL(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
 
-  retrieveStateData: (options) -> # options = {stateRef, facetName, facetValue, viewState}
+  retrieveStateData: (options) -> # options = {stateRef, facetName, facetValue, viewState, observedCollection}
     {stateRef, facetName, facetValue, viewState} = options
 
     unless app.utils.validPUID(stateRef)
@@ -65,17 +65,18 @@ class PersistState
   # 
   # Recreate state and rebuild URL
   # 
-  _restoreState: (options) -> # options = {stateRef, facetName, facetValue}
-    @_restoreFilters(options.filterState)
+  _restoreState: (options) -> # options = {stateRef, facetName, facetValue, observedCollection}
+    @_restoreFilters(options)
     @_rebuildURL(options)
 
-  _restoreFilters: (filterState) ->
-    return 'No filterState given' unless filterState?
+  _restoreFilters: (options) ->
+    {filterState, observedCollection} = options
+    return 'No filterState provided' unless filterState? 
+    return 'No observedCollection provided' unless observedCollection?
 
     _.each filterState, (filter) =>
-      console.error 'Rebuilding filters - need access to collection'
-      # @observedCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
-    @trigger 'filters:reset'    
+      observedCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
+    observedCollection.trigger 'filters:reset' # TODO: Coupling
 
   _rebuildURL: (options) -> # options = {stateRef, facetName, facetValue, viewState}
     return app.router.navigate() if !options?

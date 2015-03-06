@@ -4,45 +4,38 @@ ProjectsFacets =
     @listenTo @, 'add', @_initializeFacetr
     @listenTo @, 'set', @_initializeFacetr
 
-
-    @filterState = [] # TODO: Probably move from this Collection to a ViewModel
-    @viewState = ''
-    @_resetState()
-
   facetTypes: [
-    'undp_role_type',
-    'thematic_focus',
-    'host_location',
-    'region',
-    'territorial_focus',
+    'undp_role_type'
+    'thematic_focus'
+    'region'
+    'territorial_focus'
     'partner_type'
+    'host_location'
   ]
 
   addFilter: (options) ->
     {name, value, trigger} = options
     trigger ?= true
 
-    console.warn "TODO: Need to check facet is valid (esp. if country)"
-
-    return "Can't add duplicate Facet" if _.findWhere(@filterState,
-      name: name
-      value: value
-    )
-    @facetr.facet(name).value(value, 'and')
-    @_addFilterState(name, value, trigger)
+    if app.state.addFilterState(name, value, trigger)
+      console.warn "TODO: Need to check facet is valid (esp. if country)"
+      @facetr.facet(name).value(value, 'and')
+    else
+      return "Can't add duplicate Facet" 
 
   removeFilter: (options) ->
     {name, value, trigger} = options
-    # TODO: Check value if valid for facet, i.e. is it an active filter?
-    return "Can't remove non-existent Facet" unless _.findWhere(@filterState,
-      name: name
-      value: value
-    )
-    @facetr.facet(name).removeValue(value)
-    @_removeFilterState(name, value, trigger)
+    trigger ?= true
+
+    if app.state.removeFilterState(name, value, trigger)
+
+      @facetr.facet(name).removeValue(value)
+    else# TODO: Check value if valid for facet, i.e. is it an active filter?
+      return "Can't remove non-existent Facet" 
+    
 
   clearFilters: -> # Triggers filters:reset
-    @_resetState()
+    app.state.resetState() # TODO: Coupling?
     @facetr.clearValues()
     @trigger 'filters:remove'
 
@@ -50,17 +43,13 @@ ProjectsFacets =
     @_sortFacetsByActiveCount()
 
     _.map(@_facets(), (facet) =>
-      facet.values = @_removeEmptyValuesFrom(facet.values)
+      facet.values = @prepareFilterGroupForType(facet.data.name)
       facet
     )
 
   prepareFilterGroupForType: (type) ->
     throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)
     @_removeEmptyValuesFrom(@_facetsObject()[type])
-
-  _resetState: ->
-    @filterState = [] # TODO: Probably move from this Collection to a ViewModel
-    @viewState = INITIAL_VIEW_STATE # TODO: Definitely move from this Collection to a ViewModel
 
   _initializeFacetr: ->
     @facetr ||= Facetr(@, 'projects')
@@ -78,21 +67,6 @@ ProjectsFacets =
       _.map @facetr.toJSON(), (facet) ->
         [facet.data.name, facet.values]
     )
-
-  _addFilterState: (facetName, facetValue, trigger) -> # Triggers filters:add
-    @filterState.push
-      name: facetName
-      value: facetValue
-    @trigger 'filters:add' unless !trigger
-
-  _removeFilterState: (facetName, facetValue, trigger) -> # Triggers filters:remove
-    foundFilter = _.findWhere(@filterState,
-      name: facetName
-      value: facetValue
-    )
-    @filterState = _.without(@filterState, foundFilter)
-
-    @trigger 'filters:remove' unless !trigger
 
   _sortFacetsByActiveCount: ->
     _.each(@facetr.facets(), (facet) =>
