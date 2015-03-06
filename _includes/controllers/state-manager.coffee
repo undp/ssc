@@ -10,11 +10,11 @@ INITIAL_VIEW_STATE = 'list'
 class StateManager
   initialize: (options) ->
     _.extend @, Backbone.Events
-    throw 'No collection to manage' unless options.manageCollection?
-    @manageCollection = options.manageCollection
+    throw 'No collection to manage' unless options.observedCollection?
+    @observedCollection = options.observedCollection
 
-    @listenTo @manageCollection, 'filters:add', @_storeState
-    @listenTo @manageCollection, 'filters:remove', @_storeState    
+    @listenTo @observedCollection, 'filters:add', @_storeState
+    @listenTo @observedCollection, 'filters:remove', @_storeState    
 
   retrieveStateData: (options) -> # options = {stateRef, facetName, facetValue, viewState}
     {stateRef, facetName, facetValue, viewState} = options
@@ -52,10 +52,10 @@ class StateManager
       )
 
   _storeState: -> # Listens to 'filter:add' and 'filter:remove' events
-    return @_rebuildURL() if @manageCollection.filterState.length is 0
-    primaryFilter = _.first(@manageCollection.filterState)
+    return @_rebuildURL() if @observedCollection.filterState.length is 0
+    primaryFilter = _.first(@observedCollection.filterState)
     stateRef = @_persistState(
-      filterState: @manageCollection.filterState
+      filterState: @observedCollection.filterState
       viewState: @viewState
     ) 
 
@@ -89,7 +89,7 @@ class StateManager
     return 'No filterState given' unless filterState?
 
     _.each filterState, (filter) =>
-      @manageCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
+      @observedCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
     @trigger 'filters:reset'    
 
   _rebuildURL: (options) -> # options = {stateRef, facetName, facetValue, viewState}
