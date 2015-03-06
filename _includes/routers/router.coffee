@@ -7,14 +7,21 @@ Router = Backbone.Router.extend
     Backbone.history.on 'route', (-> @routesHit++), @
 
   routes:
-    ''                       : 'explorer'
-    'project/:projectId'     : 'project'
+    ''                       : '_explorer'
+    'project/:projectId'     : '_project'
     'admin'                  : 'admin'
-    ':facetName/:facetValue' : 'explorer'
+    ':facetName/:facetValue' : '_explorer'
   
+  back: ->
+    if @routesHit > 1 # User did not land directly on current page
+      window.history.back()
+    else
+      @navigate '', trigger: true, replace: true
+    return
+
   # ROUTES
-  explorer: (facetName, facetValue) ->
-    return @rootRoute() unless app.filters.validFilters(facetName, facetValue)
+  _explorer: (facetName, facetValue) ->
+    return @_rootRoute() unless app.filters.validFilters(facetName, facetValue)
 
     params = app.utils.getUrlParams()
 
@@ -36,28 +43,21 @@ Router = Backbone.Router.extend
       app.projects._facetManager.clearFilters()
 
     view = new ExplorerView(collection: app.projects)
-    @switchView(view)
+    @_switchView(view)
 
-  project: (id) ->
+  _project: (id) ->
     @view.remove() if @view
     project = app.projects.get(id)
     view = new ProjectView(model: project)
-    @switchView(view)
+    @_switchView(view)
 
   # View management
-  rootRoute: ->
+  _rootRoute: ->
     @navigate '', trigger: true, replace: true
 
-  switchView: (view) ->
+  _switchView: (view) ->
     @view.remove() if @view
     @view = view
     @view.render()
     @$appEl.html(@view.$el)
-
-  back: ->
-    if @routesHit > 1 # User did not land directly on current page
-      window.history.back()
-    else
-      @navigate '', trigger: true, replace: true
-    return
 

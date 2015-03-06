@@ -39,7 +39,7 @@ class Filters extends Backbone.Collection
     if got
       got.get('name')
     else
-      throw new Error "Can't find valid indice for #{short}"
+      throw new Error "Can't find valid Filter for '#{short}'"
 
   search: (term) ->
     @filter (indice) ->
