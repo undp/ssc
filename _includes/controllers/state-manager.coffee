@@ -2,8 +2,9 @@
   # SERIALIZE and STORE state
   # 
 
-class StateManager extends Backbone.Model
+class StateManager
   initialize: (options) ->
+    _.extend @, Backbone.Events
     throw 'No collection to manage' unless options.manageCollection?
     @manageCollection = options.manageCollection
 
