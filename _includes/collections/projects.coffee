@@ -12,3 +12,9 @@ class Projects extends Backbone.Collection
     @filter (i) ->
       i.get('project_title').match(term) || 
       i.get('project_objective').match(term)
+
+  getLocations: ->
+    _.chain(@pluck('host_location'))
+      .flatten()
+      .uniq()
+      .value()
