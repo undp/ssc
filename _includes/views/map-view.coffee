@@ -10,14 +10,14 @@ class MapView extends Backbone.View
 
   _createMap: =>
     @$el = $('.w-tab-pane[data-w-tab="map"]')
-    @values = @_prepareDataForMap()
+    values = @_prepareDataForMap()
 
     @$el.vectorMap(
       map: 'world_mill_en'
       backgroundColor: 'white'
       series:
         regions: [
-          values: @values
+          values: values
           scale: ['#95B9D7', '#1057A7']
           normalizeFunction: 'polynomial'
         ]
@@ -34,8 +34,8 @@ class MapView extends Backbone.View
     window.m = @
 
   _updateValues: ->
-    @values = @_prepareDataForMap()
-    @mapObject.series.regions[0].setValues(@values)
+    values = @_prepareDataForMap()
+    @mapObject.series.regions[0].setValues(values)
 
   _clickRegion: (code) =>
     if @selectedRegionCode == code # TODO: Too unreliable as a check - need to refer to viewModel
