@@ -3,10 +3,10 @@
   <div class="headline-explainer">projects across the world</div>
 </div>
 <div class="w-col w-col-4 w-col-small-4 w-hidden-tiny w-clearfix headline-column secondary-headline">
-  <div class="headline-value">27</div>
-  <div class="headline-explainer">projects involve more than 4 partners</div>
-</div>
-<div class="w-col w-col-4 w-col-small-4 w-hidden-tiny w-clearfix headline-column secondary-headline last-headline">
   <div class="headline-value"><%= stats.activeCountriesCount %></div>
   <div class="headline-explainer">countries are working together</div>
+</div>
+<div class="w-col w-col-4 w-col-small-4 w-hidden-tiny w-clearfix headline-column secondary-headline last-headline">
+  <div class="headline-value">27</div>
+  <div class="headline-explainer">notes</div>
 </div>
