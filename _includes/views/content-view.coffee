@@ -22,6 +22,10 @@ class ContentView extends Backbone.View
     @_setActiveTab(activeTab)
     @
 
+  remove: ->
+    _.each(@childViews, (view) -> view.remove())
+    Backbone.View.prototype.remove.apply(this, arguments);
+
   _renderChildViews: ->
     _.each(@childViews, (view) -> view.render())
 

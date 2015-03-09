@@ -13,6 +13,7 @@ class ExplorerView extends Backbone.View
     @
 
   remove: ->
+    @headlinesView.remove() if @headlinesView
     @filterView.remove() if @filterView
     @contentView.remove() if @contentView
-
+    Backbone.View.prototype.remove.apply(this, arguments);
