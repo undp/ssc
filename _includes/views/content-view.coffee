@@ -12,7 +12,6 @@ class ContentView extends Backbone.View
       stats : new StatsView(el: @$el.find('.tab-content[data-w-tab="stats"]'), collection: @collection)
       list  : new ListView(el: @$el.find('.tab-content[data-w-tab="list"]'), collection: @collection)
 
-
   render: ->
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)

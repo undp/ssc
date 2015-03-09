@@ -10,7 +10,6 @@ class ExplorerView extends Backbone.View
     @headlinesView = new HeadlinesView(el: @$el.find('#headlines'), collection: @collection)
     @controlsView = new ControlsView(el: @$el.find('#controls'), collection: @collection)
     @contentView = new ContentView(el: @$el.find('#content'), collection: @collection)
-
     @
 
   remove: ->
