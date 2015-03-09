@@ -336,7 +336,7 @@ p {
   height: 449px;
 }
 .tab-content {
-  height: 413px;
+  height: 410px;
   padding: 10px;
 }
 .tab-content.map {
@@ -371,9 +371,9 @@ p {
   text-decoration: none;
 }
 .project-title {
-  color: #6b9cc9;
-  font-size: 16px;
-  font-weight: 700;
+  color: #383838;
+  font-size: 15px;
+  font-weight: 400;
 }
 .bar-chart {
   height: 20px;
@@ -527,11 +527,14 @@ p {
 .search-container {
   padding-right: 10px;
   padding-left: 10px;
-  border-bottom: 1px solid rgba(23, 104, 149, 0.14);
+  border-bottom: 1px solid rgba(23, 104, 149, 0.13);
+}
+.project-themes {
+  font-size: 13px;
+  font-weight: 700;
 }
 .list-detail-icon {
-  display: block;
-  width: 5%;
+  width: 3%;
   float: left;
   opacity: 0.25;
 }

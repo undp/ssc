@@ -25,6 +25,8 @@ class Router
     # Parse URL and recreate state
   updateUrlForState: (state) ->
 
+
+# TODO: Remove notes and whole file!
 ===
 
 # ContentView (+children)

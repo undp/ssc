@@ -8,16 +8,21 @@ class MapView extends Backbone.View
 
     _.defer @_createMap # TODO: Replace with better map init event
 
+  render: ->
+    @_updateValues() if @mapObject?
+
+  setActive: ->
+    @mapObject?.updateSize()
+
   _createMap: =>
-    @$el = $('.w-tab-pane[data-w-tab="map"]')
-    @values = @_prepareDataForMap()
+    values = @_prepareDataForMap()
 
     @$el.vectorMap(
       map: 'world_mill_en'
       backgroundColor: 'white'
       series:
         regions: [
-          values: @values
+          values: values
           scale: ['#95B9D7', '#1057A7']
           normalizeFunction: 'polynomial'
         ]
@@ -31,11 +36,11 @@ class MapView extends Backbone.View
     )
     @mapObject = @$el.vectorMap('get', 'mapObject')
     @maxScale = @mapObject.scale # TODO: Handle zoom and resizing better
-    window.m = @
+    window.m = @ # TODO: Remove debugging global
 
   _updateValues: ->
-    @values = @_prepareDataForMap()
-    @mapObject.series.regions[0].setValues(@values)
+    values = @_prepareDataForMap()
+    @mapObject.series.regions[0].setValues(values)
 
   _clickRegion: (code) =>
     if @selectedRegionCode == code # TODO: Too unreliable as a check - need to refer to viewModel
@@ -50,7 +55,7 @@ class MapView extends Backbone.View
     @mapObject.setFocus(regions: [code], animate: true)
     @selectedRegionCode = code
 
-    # TODO: Use events instead?
+    # TODO: Use events instead to add/remove filters?
     country = app.countries.searchByShort(code)
     if country?
       id = country.id.toLowerCase()
@@ -63,7 +68,7 @@ class MapView extends Backbone.View
     @mapObject.clearSelectedRegions()
     @_resetZoom()
 
-    # TODO: Use events instead?
+    # TODO: Use events instead to add/remove filters?
     country = app.countries.searchByShort(code)
     if country?
       id = country.id.toLowerCase()

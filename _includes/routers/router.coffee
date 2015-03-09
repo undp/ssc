@@ -25,7 +25,8 @@ Router = Backbone.Router.extend
 
     params = app.utils.getUrlParams()
 
-    if params.stateRef? # Try to find from stores (local and remote)
+    
+    if params.stateRef? # Try to find State from stores (local and remote)
       
       options = 
         stateRef: params.stateRef
@@ -35,18 +36,17 @@ Router = Backbone.Router.extend
 
       app.state.retrieveStateData(options) 
 
-    else if facetName and facetValue
+    else if facetName and facetValue # Use given primary facet name and value
       app.projects.clearFilters() # TODO: Check if clearFilters() needed
       app.projects.addFilter(name: facetName, value: facetValue)
 
-    else
+    else # Start from scratch
       app.projects.clearFilters()
 
     view = new ExplorerView(collection: app.projects)
     @_switchView(view)
 
   _project: (id) ->
-    @view.remove() if @view
     project = app.projects.get(id)
     view = new ProjectView(model: project)
     @_switchView(view)

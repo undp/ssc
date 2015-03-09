@@ -1,4 +1,4 @@
-<div class='column medium-12'>
+<div class=''>
   <a class='backToResults'=>< Back to results</a>
   <h1><%= project.project_title %></h1>
   <ul>
@@ -38,7 +38,7 @@
 
   <% if(project.open_project_id != ""){ %>
     <h2>
-      Project information from 
+      Additional project information from 
       <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a>
     </h2>
     <iframe id='project_iframe' src="http://open.undp.org/embed.html#widget/project/<%= project.open_project_id %>?stats&documents&outputs" width="100%" height="200px" frameborder="0" marginheight="0" scrolling="no"></iframe>
