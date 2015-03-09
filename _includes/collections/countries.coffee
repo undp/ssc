@@ -30,8 +30,12 @@ class Countries extends Backbone.Collection
   # nameFromMapShort: (mapShort) ->
   #   @findWhere(map_short: mapShort.toUpperCase())?.get('name')
 
-  # shortFromIso3: (iso3) ->
-  #   @findWhere(iso3: iso3.toUpperCase())?.get('map_short')
+  mapShortFromIso3: (iso3) ->
+    found = @findWhere(iso3: iso3.toUpperCase())
+    if found?
+      found?.get('map_short') || console.warn "No mapShort code found for #{found.get('name')}"
+    else
+      console.warn "No Country found for #{iso3}"
 
   # isoFromName: (name) ->
   #   return unless name
