@@ -5,22 +5,26 @@ class ContentView extends Backbone.View
     'click .tab-menu-link': '_selectTabLink'
 
   initialize: ->
-    @childViews =
-      map   : new MapView(collection: @collection)
-      stats : new StatsView(parentView: @, collection: @collection)
-      list  : new ListView(parentView: @, collection: @collection)
-
     @render()
+
+    @childViews =
+      map   : new MapView(el: @$el.find('.tab-content[data-w-tab="map"]'), collection: @collection)
+      stats : new StatsView(el: @$el.find('.tab-content[data-w-tab="stats"]'), collection: @collection)
+      list  : new ListView(el: @$el.find('.tab-content[data-w-tab="list"]'), collection: @collection)
+
 
   render: ->
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)
 
-    _.each(@childViews, (view) -> view.render())
+    _.defer => @_renderChildViews() # TODO: Replace defer until contentView rendered for event bindings
 
     activeTab = app.state.viewState
     @_setActiveTab(activeTab)
     @
+
+  _renderChildViews: ->
+    _.each(@childViews, (view) -> view.render())
 
   _selectTabLink: (ev) =>
     ev.preventDefault()
@@ -37,5 +41,7 @@ class ContentView extends Backbone.View
     @$el.find('.w-tab-pane').removeClass(tabActive)
     @$el.find(".w-tab-pane[data-w-tab='#{tab}']").addClass(tabActive)
 
-    app.state.trigger 'view:changed', tab
+    if @childViews? and @childViews[tab].setActive?
+      @childViews[tab].setActive() 
+    app.state.trigger 'view:changed', tab # StateManager
 

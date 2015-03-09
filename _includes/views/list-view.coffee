@@ -4,14 +4,10 @@ class ListView extends Backbone.View
   events: 
     'click .results-list-item': '_showProject'
 
-  initialize: (options) ->
-    throw "Missing parentView" unless options.parentView?
-    {@parentView} = options
-
+  initialize: ->
     @listenTo @collection, 'reset', @render
-    
+  
   render: ->
-    @$el = @parentView.$el.find('.tab-content[data-w-tab="list"]')
     compiled = @template()(collection: @collection.toJSON())
     @$el.html(compiled)
     @

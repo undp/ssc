@@ -8,8 +8,13 @@ class MapView extends Backbone.View
 
     _.defer @_createMap # TODO: Replace with better map init event
 
+  render: ->
+    @_updateValues() if @mapObject?
+
+  setActive: ->
+    @mapObject?.updateSize()
+
   _createMap: =>
-    @$el = $('.w-tab-pane[data-w-tab="map"]')
     values = @_prepareDataForMap()
 
     @$el.vectorMap(
@@ -31,7 +36,7 @@ class MapView extends Backbone.View
     )
     @mapObject = @$el.vectorMap('get', 'mapObject')
     @maxScale = @mapObject.scale # TODO: Handle zoom and resizing better
-    window.m = @
+    window.m = @ # TODO: Remove debugging global
 
   _updateValues: ->
     values = @_prepareDataForMap()
