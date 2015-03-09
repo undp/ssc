@@ -1,6 +1,6 @@
 class Projects extends Backbone.Collection
 
-  url: '{{site.baseurl}}/api/projects_slim.json'
+  url: '{{site.baseurl}}/api/projects.json'
 
   model: Project
 
