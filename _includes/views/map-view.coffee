@@ -50,7 +50,7 @@ class MapView extends Backbone.View
     @mapObject.setFocus(regions: [code], animate: true)
     @selectedRegionCode = code
 
-    # TODO: Use events instead?
+    # TODO: Use events instead to add/remove filters?
     country = app.countries.searchByShort(code)
     if country?
       id = country.id.toLowerCase()
@@ -63,7 +63,7 @@ class MapView extends Backbone.View
     @mapObject.clearSelectedRegions()
     @_resetZoom()
 
-    # TODO: Use events instead?
+    # TODO: Use events instead to add/remove filters?
     country = app.countries.searchByShort(code)
     if country?
       id = country.id.toLowerCase()
