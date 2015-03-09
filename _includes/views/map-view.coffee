@@ -32,7 +32,7 @@ class MapView extends Backbone.View
       series:
         regions: [
           values: values
-          scale: ['#95B9D7', '#1057A7']
+          scale: ['#EEEEEE', '#1057A7']
           normalizeFunction: 'polynomial'
         ]
       regionsSelectableOne: true
@@ -41,7 +41,10 @@ class MapView extends Backbone.View
           fill: '#f7be00'
       onRegionClick: (ev, code) =>
         @_clickRegion(code)
-      onRegionOver: (ev, code) =>
+      onRegionTipShow: (e, el, code) ->
+        countryIso3 = app.countries.iso3FromMapShort(code)
+        activeCount = app.projects.projectCountForFacetValue('host_location', countryIso3)
+        el.html("#{el.html()} (#{activeCount} projects)")
     )
     @mapObject = @$el.vectorMap('get', 'mapObject')
     @maxScale = @mapObject.scale # TODO: Handle zoom and resizing better
@@ -61,7 +64,7 @@ class MapView extends Backbone.View
     @mapObject.clearSelectedRegions()
     @mapObject.tip.hide()
     @mapObject.setSelectedRegions(code)
-    @mapObject.setFocus(regions: [code], animate: true)
+    # @mapObject.setFocus(regions: [code], animate: true)
     @selectedRegionCode = code
 
     # TODO: Use events instead to add/remove filters?

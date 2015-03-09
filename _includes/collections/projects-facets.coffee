@@ -52,6 +52,13 @@ ProjectsFacets =
     throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)
     @_removeEmptyValuesFrom(@_facetsObject()[type])
 
+  projectCountForFacetValue: (type, value) ->
+    throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)
+    throw 'Invalid value' unless value?
+
+    facet = @_facetsObject()[type]
+    _.findWhere(facet, {value: value.toLowerCase()})?.activeCount || 0
+
   _initializeFacetr: ->
     @facetr ||= Facetr(@, 'projects')
     @_addStandardFacets() unless @_facets().length == @facetTypes.length

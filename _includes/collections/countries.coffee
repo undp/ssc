@@ -37,6 +37,13 @@ class Countries extends Backbone.Collection
     else
       console.warn "No Country found for #{iso3}"
 
+  iso3FromMapShort: (mapShort) ->
+    found = @findWhere(map_short: mapShort.toUpperCase())
+    if found?
+      found?.get('iso3') || console.warn "No iso3 code found for #{found.get('name')}"
+    else
+      console.warn "No Country found for #{mapShort}"
+
   # isoFromName: (name) ->
   #   return unless name
   #   try
