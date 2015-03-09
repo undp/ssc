@@ -35,6 +35,7 @@ ProjectsFacets =
     
 
   clearFilters: -> # Triggers filters:reset
+    return if app.state.filterState.length is 0
     app.state.resetState() # TODO: Coupling?
     @facetr.clearValues()
     @trigger 'filters:remove'

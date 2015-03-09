@@ -1,18 +1,27 @@
 class MapView extends Backbone.View
 
   initialize: ->
-    @listenTo @collection, 'reset', @_updateValues
-    @listenTo @collection, 'filters:add', @_updateValues
-    @listenTo @collection, 'filters:remove', @_updateValues
-    @listenTo @collection, 'filters:reset', @_updateValues
-
-    _.defer @_createMap # TODO: Replace with better map init event
+    @listenTo @collection, 'reset', @render
+    @listenTo @collection, 'filters:add', @render
+    @listenTo @collection, 'filters:remove', @render
+    @listenTo @collection, 'filters:reset', @render
 
   render: ->
-    @_updateValues() if @mapObject?
+    return unless @mapObject?
+    @_updateValues()
+    @_zoomToActiveRegions()
+    @mapObject.updateSize()
 
   setActive: ->
-    @mapObject?.updateSize()
+    @_createMap() unless @mapObject?
+    @mapObject.updateSize()
+
+  _zoomToActiveRegions: ->
+    activeRegions = _.map(@collection.getLocations(), (location) ->
+      app.countries.mapShortFromIso3(location)
+    )
+
+    @mapObject.setFocus(regions: activeRegions, animate: true)
 
   _createMap: =>
     values = @_prepareDataForMap()

@@ -37,7 +37,7 @@ Router = Backbone.Router.extend
       app.state.retrieveStateData(options) 
 
     else if facetName and facetValue # Use given primary facet name and value
-      app.projects.clearFilters() # TODO: Check if clearFilters() needed
+      app.projects.clearFilters()
       app.projects.addFilter(name: facetName, value: facetValue)
 
     else # Start from scratch
