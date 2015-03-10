@@ -6,6 +6,8 @@ class MapView extends Backbone.View
     @listenTo @collection, 'filters:remove', @render
     @listenTo @collection, 'filters:reset', @render
 
+    @countries = new MapCountries(preloadData.countries)
+
   render: ->
     return unless @mapObject?
     @_updateValues()
@@ -17,8 +19,8 @@ class MapView extends Backbone.View
     @mapObject.updateSize()
 
   _zoomToActiveRegions: ->
-    activeRegions = _.map(@collection.getLocations(), (location) ->
-      app.countries.mapShortFromIso3(location)
+    activeRegions = _.map(@collection.getLocations(), (location) =>
+      @countries.mapShortFromIso3(location)
     )
 
     @mapObject.setFocus(regions: activeRegions, animate: true)
@@ -41,8 +43,8 @@ class MapView extends Backbone.View
           fill: '#f7be00'
       onRegionClick: (ev, code) =>
         @_clickRegion(code)
-      onRegionTipShow: (e, el, code) ->
-        countryIso3 = app.countries.iso3FromMapShort(code)
+      onRegionTipShow: (e, el, code) =>
+        countryIso3 = @countries.iso3FromMapShort(code)
         activeCount = app.projects.projectCountForFacetValue('host_location', countryIso3)
         el.html("#{el.html()} (#{activeCount} projects)") if activeCount isnt 0
     )
@@ -67,7 +69,7 @@ class MapView extends Backbone.View
     # @mapObject.setFocus(regions: [code], animate: true)
     @selectedRegionCode = code
 
-    country = app.countries.iso3FromMapShort(code)
+    country = @countries.iso3FromMapShort(code)
     @collection.addFilter(name: 'host_location', value: country.toLowerCase()) if country?
 
     @mapObject.resize()
@@ -77,7 +79,7 @@ class MapView extends Backbone.View
     @mapObject.clearSelectedRegions()
     @_resetZoom()
 
-    country = app.countries.iso3FromMapShort(code)
+    country = @countries.iso3FromMapShort(code)
     @collection.removeFilter(name: 'host_location', value: country.toLowerCase()) if country?
 
   _resetZoom: ->
@@ -91,7 +93,7 @@ class MapView extends Backbone.View
     locationCounts = @collection.prepareFilterGroupForType('host_location')
 
     data = {}
-    app.countries.map( (country) ->
+    @countries.map( (country) ->
       iso3 = country.get('iso3').toLowerCase()
       map_short = country.get('map_short')
 

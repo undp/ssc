@@ -5,11 +5,11 @@ app = window.app = {}
 
 # Models and Collections
 {% include models/filter.coffee %}
-{% include models/country.coffee %}
+{% include models/map-country.coffee %}
 {% include models/project.coffee %}
 {% include models/present-project.coffee %}
 {% include collections/filters.coffee %}
-{% include collections/countries.coffee %}
+{% include collections/map-countries.coffee %}
 {% include collections/projects.coffee %}
 {% include collections/projects-facets.coffee %} # Mixin
 
@@ -39,7 +39,6 @@ app = window.app = {}
 $(document).ready ->
   # Collections
   app.projects = new Projects
-  app.countries = new Countries(preloadData.countries)
   app.filters = new Filters
   app.filters.populate(
     indices: preloadData.indices
