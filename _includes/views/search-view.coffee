@@ -6,36 +6,50 @@ class SearchView extends Backbone.View
     @render()
 
   events: 
-    'click .view-mode': 'startSearch'
-    'keyup .search-field-input': 'searchTerm'
-    'blur .input-mode': 'cancelSearch'
+    'click .view-mode': '_startSearch'
+    'keyup .search-field-input': '_searchTerm'
+    'blur .input-mode': '_cancelSearch'
 
   render: ->
     compiled = @template()()
     @$el.html(compiled)
 
-  startSearch: (ev) =>
+  _startSearch: (ev) =>
     ev.preventDefault()
-    @activateSearch()
+    @_activateSearch()
 
-  cancelSearch: (ev) ->
+  _cancelSearch: (ev) ->
     ev.preventDefault()
     input = @$el.find('.search-field-input')
     input.val('')
-    @deactivateSearch()
+    @_deactivateSearch()
 
-  activateSearch: ->
+  _activateSearch: ->
     @$el.find('.view-mode').hide()
     @$el.find('.input-mode').show()
     @$el.find('.search-field-input').focus()
 
-  deactivateSearch: ->
+  _deactivateSearch: ->
     @$el.find('.input-mode').hide()
     @$el.find('.view-mode').show()
 
-  searchTerm: (ev) =>
+  _searchTerm: (ev) =>
     term = ev.currentTarget.value
-    # if term.length > 1
+    return unless term.length > 1
+
+    filterGroups = @collection.prepareFilterGroups()
+
+    _.each filterGroups, (group) => 
+      group.values = @_filterValueObjects(group.values, term)
+
+    filterGroups # TODO: @next Take these results and replace existing FilterView collection
+    
+  _filterValueObjects: (valueObjects, term) ->
+    _.filter(valueObjects, (object) => @_valueObjectMatchesTerm(object, term))
+
+  _valueObjectMatchesTerm: (valueObject, term) ->
+      re = new RegExp(term, 'i')
+      re.test valueObject.long
       # filterResults = app.projects.filterFacets(term)
       # projectResults = app.projects.search(term)
       # ControlsView displays a SearchFacetsResultsView
