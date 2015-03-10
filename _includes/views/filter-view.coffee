@@ -49,7 +49,8 @@ class FilterView extends Backbone.View
     data = ev.currentTarget.dataset
     @collection.removeFilter(name: data.filterName, value: data.filterValue)
 
-  _resetFilters: =>
+  _resetFilters: (ev) =>
+    ev.preventDefault()
     @collection.clearFilters()
 
   # search: (term) ->

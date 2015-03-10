@@ -2,7 +2,7 @@
   <div class="filter-headlines">
     <div class="primary-filter"><%= stats.primaryFilterTitle %></div>
     <% if(stats.hasSecondaryFilters){ %>
-    <div class="secondary-filter-summary">+ <%= stats.secondaryFilterCount %> other filters</div>
+    <div class="w-hidden-medium w-hidden-small w-hidden-tiny secondary-filter-summary">+ <%= stats.secondaryFilterCount %> other filters</div>
     <% } %>
   </div>
   <div class="w-clearfix count-headlines">

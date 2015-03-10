@@ -522,12 +522,12 @@ p {
 }
 .primary-filter {
   margin-top: 14px;
-  font-size: 38px;
-  line-height: 40px;
+  font-size: 29px;
+  line-height: 35px;
   font-weight: 700;
 }
 .filter-headlines {
-  max-width: 550px;
+  max-width: 680px;
   padding-left: 20px;
   float: left;
 }
@@ -602,6 +602,10 @@ html.w-mod-js *[data-ix="display-none"] {
   .search-field-text {
     font-size: 18px;
   }
+  .primary-filter {
+    max-width: 504px;
+    margin-top: 11px;
+  }
 }
 @media (max-width: 767px) {
   body {
@@ -635,9 +639,11 @@ html.w-mod-js *[data-ix="display-none"] {
   .item-text {
     width: 80%;
     font-size: 13px;
+    line-height: 15px;
   }
   .item-count {
     width: 20%;
+    line-height: 15px;
   }
   .footer-link {
     height: 20px;
@@ -714,11 +720,8 @@ html.w-mod-js *[data-ix="display-none"] {
   .group-items {
     display: block;
   }
-  .item-text {
-    line-height: 25px;
-  }
   .item-count {
-    line-height: 25px;
+    line-height: 13px;
   }
   .copyright {
     display: block;
@@ -809,6 +812,7 @@ html.w-mod-js *[data-ix="display-none"] {
     border-right-width: 0px;
   }
   .primary-filter {
+    max-width: 194px;
     font-size: 18px;
     line-height: 20px;
   }
