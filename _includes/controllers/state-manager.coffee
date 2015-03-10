@@ -28,18 +28,9 @@ class StateManager
     options.observedCollection = @observedCollection
     @persistState.retrieveStateData(options)
 
-  _storeState: =>
-    @persistState.storeStateData(filterState: @filterState, viewState: @viewState)
-    console.log 'stored state using PersistState#storeStateData'
-
   resetState: ->
     @filterState = []
     @viewState = INITIAL_VIEW_STATE
-
-  _viewChanged: (view) ->
-    @viewState = view
-    @_storeState()
-
 
   addFilterState: (facetName, facetValue, trigger) -> # Triggers filters:add
     return false if _.findWhere(@filterState,
@@ -79,3 +70,9 @@ class StateManager
       'filterType': filterType
     )
 
+  _storeState: =>
+    @persistState.storeStateData(filterState: @filterState, viewState: @viewState)
+
+  _viewChanged: (view) ->
+    @viewState = view
+    @_storeState()

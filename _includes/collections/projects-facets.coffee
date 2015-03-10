@@ -30,7 +30,7 @@ ProjectsFacets =
     if app.state.removeFilterState(name, value, trigger)
 
       @facetr.facet(name).removeValue(value)
-    else# TODO: Check value if valid for facet, i.e. is it an active filter?
+    else # TODO: Check value if valid for facet, i.e. is it an active filter?
       return "Can't remove non-existent Facet" 
     
   clearFilters: -> # Triggers filters:reset
