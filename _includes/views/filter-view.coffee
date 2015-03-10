@@ -33,7 +33,7 @@ class FilterView extends Backbone.View
 
   _showHideAllFilters: (ev) ->
     ev.preventDefault()
-    @$el.find('.filters').toggle()
+    @$el.find('.toggle-filter-controls').toggle()
 
   _showHideFilterGroup: (ev) ->
     ev.preventDefault()

@@ -653,6 +653,9 @@ html.w-mod-js *[data-ix="display-none"] {
     padding-right: 15px;
     padding-left: 15px;
   }
+  .active-filters {
+    display: none;
+  }
   .results-view {
     height: 284px;
   }
@@ -677,6 +680,9 @@ html.w-mod-js *[data-ix="display-none"] {
     font-size: 32px;
     line-height: 34px;
     letter-spacing: -2px;
+  }
+  .reset-filters {
+    display: none;
   }
   .filter-headlines {
     overflow-x: hidden;
@@ -813,8 +819,11 @@ html.w-mod-js *[data-ix="display-none"] {
   }
   .primary-filter {
     max-width: 194px;
-    font-size: 18px;
-    line-height: 20px;
+    font-size: 20px;
+    line-height: 22px;
+  }
+  .filter-headlines {
+    padding-left: 14px;
   }
 }
 
