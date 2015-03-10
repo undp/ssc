@@ -1,5 +1,6 @@
 <a href='#' class="w-clearfix w-inline-block control-section-title-block"  data-ix="showhide-all-filters">
-  <div class="title">Apply search filters</div><img class="filters-disclose" src="images/down.svg" width="26" alt="54e7798d942b09583a0ebb69_down.svg">
+  <div class="title">Apply search filters</div>
+  <img class="filters-disclose" src="images/down.svg" width="26" alt="54e7798d942b09583a0ebb69_down.svg">
 </a>
 
 <% if(activeFilters.length != 0){ %>

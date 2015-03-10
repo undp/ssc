@@ -9,17 +9,25 @@ body {
 }
 
 .search-field-input {
-  font-size: 20px;
+  font-size: 22px;
+  font-weight: 700;
   border: 0;
   height: 29px;
   color: #F6BD2B;
-  padding-left: 7px;
   &:focus {
     outline: none;
   }
 }
 
 // FilterView
+img.filters-disclose {
+  transform: rotate(270deg);
+  &.displayed {
+    transform: rotate(0deg);
+  }
+}
+
+
 a.group-item[data-active-filter='true'] {
   .item-text {
     color: rgb(118, 118, 118);
