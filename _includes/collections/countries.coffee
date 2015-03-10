@@ -1,9 +1,6 @@
 class Countries extends Backbone.Collection
   model: Country
 
-  searchByShort: (mapShort) ->
-    @findWhere(map_short: mapShort.toUpperCase())
-
   search: (term) ->
     found = @_searchForTermInField(term, 'name') || 
             @_searchForTermInField(term, 'terr_name') ||
