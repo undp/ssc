@@ -67,7 +67,7 @@ class MapView extends Backbone.View
     @mapObject.clearSelectedRegions()
     @mapObject.tip.hide()
     @mapObject.setSelectedRegions(code)
-    # @mapObject.setFocus(regions: [code], animate: true)
+    # @mapObject.setFocus(regions: [code], animate: true) # TODO: Restore or remove map#setFocus
     @selectedRegionCode = code
 
     country = @countries.iso3FromMapShort(code)

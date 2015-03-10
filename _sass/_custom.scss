@@ -28,9 +28,7 @@ img.filters-disclose {
 }
 
 a.group-item[data-active-filter='true'] {
-  .item-text {
-    color: rgb(118, 118, 118);
-  }
+  opacity: 0.3
 }
 
 // ContentView
