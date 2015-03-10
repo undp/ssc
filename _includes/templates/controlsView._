@@ -5,7 +5,7 @@
   <div class="filters-container filters">
     <!-- filterView._ -->
   </div>
-  <div class="filters-container search-results">
+  <div class="filters-container searched-filters">
     <!-- filterView._ -->
   </div>
 </div>

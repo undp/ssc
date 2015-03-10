@@ -43,7 +43,8 @@ class SearchView extends Backbone.View
       group.values = @_filterValueObjects(group.values, term)
 
     filterGroups # TODO: @next Take these results and replace existing FilterView collection
-    
+    @collection.trigger 'search', filterGroups
+
   _filterValueObjects: (valueObjects, term) ->
     _.filter(valueObjects, (object) => @_valueObjectMatchesTerm(object, term))
 
