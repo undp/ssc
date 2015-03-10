@@ -51,6 +51,7 @@ class StateManager
       name: facetName
       value: facetValue
 
+    @trackFilter('add', facetName, facetValue)
     @trigger 'filters:add' unless !trigger
 
   removeFilterState: (facetName, facetValue, trigger) -> # Triggers filters:remove
@@ -60,5 +61,21 @@ class StateManager
     )
 
     @filterState = _.without(@filterState, foundFilter)
-
+    @trackFilter('remove', facetName, facetValue)
     @trigger 'filters:remove' unless !trigger
+
+  trackFilter: (action, facetName, facetValue) ->
+    if action is 'add' and @filterState.length == 1
+      filterType = 'primary filter'
+    else if action is 'add'
+      filterType = 'secondary filter'
+    else
+      filterType = 'any filter'
+
+    mixpanel.track('filterAction',
+      'action': action
+      'filterName': facetName,
+      'filterValue': facetValue
+      'filterType': filterType
+    )
+
