@@ -58,27 +58,17 @@ ProjectsFacets =
     facet = @_facetsObject()[type]
     _.findWhere(facet, {value: value.toLowerCase()})?.activeCount || 0
 
-  filterFacets: (term) ->
-    return unless term?
+  filterFacets: (searchTerm) ->
+    return unless searchTerm?
 
-    matches = @_searchByLongName(term)
-    matches.push(term) if app.filters.findWhere(short: term)?
+    activeFilters = @prepareFilterGroups()
+    @_createFilterGroups(@_findMatches(searchTerm))
 
-    console.log matches
+  _findMatches: (searchTerm) ->
+    app.filters.search(searchTerm)
 
-    _.map matches, (match) =>
-      facetsObject = _.clone(@_facetsObject())
-      @_searchShortTerms(match, facetsObject)
-
-  _searchShortTerms: (term, facetsObject) ->
-    _.map(facetsObject, (facetValues, facetName) ->
-      values = _.filter(facetValues, (facetItem) ->
-        re = new RegExp term
-        true if facetItem.value.match(re) 
-      )
-      facetsObject[facetName] = values
-    )
-    facetsObject
+  _createFilterGroups: (filterObjects) ->
+    collection = new Backbone.Collection(filterObjects)
 
   _searchByLongName: (term, facetsObject) ->
     new Backbone.Collection(app.filters.search(term)).pluck('short')

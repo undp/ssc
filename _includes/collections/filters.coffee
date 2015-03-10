@@ -28,7 +28,7 @@ class Filters extends Backbone.Collection
   search: (term) ->
     @filter (indice) =>
       re = new RegExp term, "i"
-      indice.get('name').match re
+      indice.get('name').match(re)
 
   _addIndices: (indices) ->
     _.each indices, (indice) =>
