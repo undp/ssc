@@ -6,7 +6,8 @@ class FilterView extends Backbone.View
     'click [data-ix="showhide-filter-groups"]': '_showHideFilterGroup'
     'click .group-item[data-active-filter="false"]': '_addFilter'
     'click .group-item[data-active-filter="true"]': '_removeFilter'
-    # 'click .resetFilters': 'resetFilters'
+    'click .active-filter': '_removeFilter'
+    'click .reset-filters': '_resetFilters'
 
 
   initialize:  (options) ->
@@ -21,7 +22,7 @@ class FilterView extends Backbone.View
 
   render: =>
     compiled = @template()(
-      activeFilters: @collection.filterState
+      activeFilters: app.state.filterState
       collection: @collection
       filterGroups: @_prepareFilterGroups()
     )
@@ -32,7 +33,7 @@ class FilterView extends Backbone.View
 
   _showHideAllFilters: (ev) ->
     ev.preventDefault()
-    @$el.find('.filters').toggle()
+    @$el.find('.toggle-filter-controls').toggle()
 
   _showHideFilterGroup: (ev) ->
     ev.preventDefault()
@@ -48,8 +49,9 @@ class FilterView extends Backbone.View
     data = ev.currentTarget.dataset
     @collection.removeFilter(name: data.filterName, value: data.filterValue)
 
-  # resetFilters: =>
-  #   @collection.clearFilters()
+  _resetFilters: (ev) =>
+    ev.preventDefault()
+    @collection.clearFilters()
 
   # search: (term) ->
   #   if term

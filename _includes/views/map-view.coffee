@@ -44,7 +44,7 @@ class MapView extends Backbone.View
       onRegionTipShow: (e, el, code) ->
         countryIso3 = app.countries.iso3FromMapShort(code)
         activeCount = app.projects.projectCountForFacetValue('host_location', countryIso3)
-        el.html("#{el.html()} (#{activeCount} projects)")
+        el.html("#{el.html()} (#{activeCount} projects)") if activeCount isnt 0
     )
     @mapObject = @$el.vectorMap('get', 'mapObject')
     @maxScale = @mapObject.scale # TODO: Handle zoom and resizing better

@@ -5,10 +5,10 @@ ProjectsFacets =
     @listenTo @, 'set', @_initializeFacetr
 
   facetTypes: [
-    'undp_role_type'
-    'thematic_focus'
     'region'
     'territorial_focus'
+    'thematic_focus'
+    'undp_role_type'
     'partner_type'
     'host_location'
   ]

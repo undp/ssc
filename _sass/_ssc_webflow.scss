@@ -133,11 +133,9 @@ p {
 }
 .group-item {
   display: block;
-  padding: 2px 4px;
-}
-.group-item.active {
-  background-color: #d1deed;
-  color: #1057a7;
+  padding-top: 2px;
+  padding-right: 4px;
+  padding-bottom: 2px;
 }
 .item-text {
   width: 87%;
@@ -251,9 +249,14 @@ p {
   font-weight: 700;
 }
 .active-filters {
+  margin-right: 10px;
+  margin-bottom: 0px;
+  margin-left: 10px;
   padding-top: 5px;
   padding-right: 5px;
   padding-left: 5px;
+  border: 2px dashed #e3e3e3;
+  background-color: whitesmoke;
 }
 .title {
   width: auto;
@@ -282,11 +285,13 @@ p {
 .active-filter {
   margin-right: 5px;
   margin-bottom: 5px;
-  padding: 4px 9px;
+  padding: 2px 5px;
   float: left;
+  border-radius: 2px;
   background-color: rgba(175, 194, 219, 0.4);
   color: #0c59bc;
   font-size: 13px;
+  text-decoration: none;
 }
 .results-view {
   height: 420px;
@@ -371,7 +376,8 @@ p {
   text-decoration: none;
 }
 .project-title {
-  color: #383838;
+  margin-top: 3px;
+  color: #1057a7;
   font-size: 15px;
   font-weight: 400;
 }
@@ -432,15 +438,6 @@ p {
   margin-top: 3px;
   padding: 6px 7px 18px 9px;
 }
-.search-field {
-  display: inline-block;
-  width: 270px;
-  padding-bottom: 6px;
-  float: none;
-  border-style: solid;
-  border-width: 0px;
-  border-color: black black dimgray;
-}
 .tabs-menu {
   background-color: #f7be00;
 }
@@ -460,13 +457,6 @@ p {
   letter-spacing: -2px;
   text-transform: none;
 }
-.block-text {
-  color: dimgray;
-  font-size: 14px;
-  line-height: 24px;
-  font-weight: 700;
-  text-transform: uppercase;
-}
 .block-detail-text {
   color: #b3b3b3;
   font-size: 13px;
@@ -478,10 +468,7 @@ p {
   padding-left: 10px;
 }
 .headlines {
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-  padding-top: 37px;
+  height: 90px;
   background-color: #1057a7;
   color: white;
 }
@@ -499,44 +486,72 @@ p {
 .filters-disclose {
   float: right;
 }
-.headline-value {
-  width: 40%;
-  float: left;
-  font-size: 74px;
-  line-height: 60px;
-  font-weight: 700;
-  text-align: right;
-}
-.headline-explainer {
-  width: 60%;
-  padding-left: 10px;
-  float: right;
-  color: rgba(102, 194, 255, 0.54);
-  font-size: 23px;
-  line-height: 25px;
-  font-weight: 700;
-  text-transform: uppercase;
-}
 .headline-column {
+  display: block;
   border-right-style: solid;
   border-right-width: 1px;
-}
-.headline-column.secondary-headline.last-headline {
-  border-right-style: none;
 }
 .search-container {
   padding-right: 10px;
   padding-left: 10px;
-  border-bottom: 1px solid rgba(23, 104, 149, 0.13);
-}
-.project-themes {
-  font-size: 13px;
-  font-weight: 700;
+  border-bottom: 1px solid rgba(23, 104, 149, 0.15);
 }
 .list-detail-icon {
   width: 3%;
   float: left;
   opacity: 0.25;
+}
+.close {
+  margin-left: 10px;
+  float: left;
+  color: #bec4cc;
+}
+.filter-name {
+  float: left;
+}
+.reset-filters {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  color: #bababa;
+  font-size: 12px;
+  text-align: right;
+  text-decoration: none;
+}
+.primary-filter {
+  margin-top: 14px;
+  font-size: 29px;
+  line-height: 35px;
+  font-weight: 700;
+}
+.filter-headlines {
+  max-width: 680px;
+  padding-left: 20px;
+  float: left;
+}
+.count-headlines {
+  float: right;
+}
+.count-block {
+  display: inline-block;
+  margin-top: 14px;
+  padding-right: 15px;
+  padding-left: 15px;
+  float: left;
+  border-left: 1px solid #c2c2c2;
+}
+.count-value {
+  font-size: 38px;
+  line-height: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+.count-type {
+  color: #6b9cc9;
+  font-size: 18px;
+  text-align: center;
 }
 html.w-mod-js *[data-ix="display-none"] {
   display: none;
@@ -578,28 +593,18 @@ html.w-mod-js *[data-ix="display-none"] {
   .results-list-item {
     width: 100%;
   }
+  .project-title {
+    margin-top: 0px;
+  }
   .item-detail {
     width: 95%;
-  }
-  .block-text {
-    color: dimgray;
-    font-size: 18px;
-    line-height: 24px;
-    text-transform: uppercase;
-  }
-  .headlines {
-    height: 120px;
-    padding-top: 26px;
   }
   .search-field-text {
     font-size: 18px;
   }
-  .headline-value {
-    font-size: 50px;
-  }
-  .headline-explainer {
-    font-size: 15px;
-    line-height: 16px;
+  .primary-filter {
+    max-width: 504px;
+    margin-top: 11px;
   }
 }
 @media (max-width: 767px) {
@@ -634,9 +639,11 @@ html.w-mod-js *[data-ix="display-none"] {
   .item-text {
     width: 80%;
     font-size: 13px;
+    line-height: 15px;
   }
   .item-count {
     width: 20%;
+    line-height: 15px;
   }
   .footer-link {
     height: 20px;
@@ -645,6 +652,9 @@ html.w-mod-js *[data-ix="display-none"] {
   .footer-content {
     padding-right: 15px;
     padding-left: 15px;
+  }
+  .active-filters {
+    display: none;
   }
   .results-view {
     height: 284px;
@@ -671,13 +681,13 @@ html.w-mod-js *[data-ix="display-none"] {
     line-height: 34px;
     letter-spacing: -2px;
   }
-  .headline-value {
-    font-size: 41px;
-    line-height: 52px;
+  .reset-filters {
+    display: none;
   }
-  .headline-explainer {
-    font-size: 13px;
-    line-height: 14px;
+  .filter-headlines {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    max-width: 470px;
   }
 }
 @media (max-width: 479px) {
@@ -716,11 +726,8 @@ html.w-mod-js *[data-ix="display-none"] {
   .group-items {
     display: block;
   }
-  .item-text {
-    line-height: 25px;
-  }
   .item-count {
-    line-height: 25px;
+    line-height: 13px;
   }
   .copyright {
     display: block;
@@ -750,8 +757,8 @@ html.w-mod-js *[data-ix="display-none"] {
     line-height: 26px;
   }
   .active-filters {
-    display: block;
-    padding: 3px;
+    margin-right: 0px;
+    margin-left: 0px;
   }
   .filters {
     display: none;
@@ -799,36 +806,24 @@ html.w-mod-js *[data-ix="display-none"] {
   .project-title {
     font-size: 14px;
   }
-  .search-field {
-    margin-bottom: 0px;
-  }
   .stat-headline {
     font-size: 51px;
     line-height: 54px;
   }
-  .headlines {
-    height: 110px;
-    padding-top: 18px;
-  }
   .search-action-icon {
     margin-top: 5px;
-  }
-  .headline-value {
-    width: 50%;
-    font-size: 83px;
-    line-height: 73px;
-    font-weight: 700;
-    text-align: center;
-    letter-spacing: -5px;
-  }
-  .headline-explainer {
-    width: 50%;
-    font-size: 21px;
-    line-height: 24px;
   }
   .headline-column {
     border-right-style: none;
     border-right-width: 0px;
+  }
+  .primary-filter {
+    max-width: 194px;
+    font-size: 20px;
+    line-height: 22px;
+  }
+  .filter-headlines {
+    padding-left: 14px;
   }
 }
 
