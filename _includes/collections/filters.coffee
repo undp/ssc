@@ -19,13 +19,14 @@ class Filters extends Backbone.Collection
   # FIND/SEARCH
   nameFromShort: (short) ->
     got = @get(short)
-    if got
+    if got?
       got.get('name')
     else
-      throw new Error "Can't find valid Filter for '#{short}'"
+      console.info "Can't find valid Filter for '#{short}'"
+      false
 
   search: (term) ->
-    @filter (indice) ->
+    @filter (indice) =>
       re = new RegExp term, "i"
       indice.get('name').match re
 
@@ -44,4 +45,4 @@ class Filters extends Backbone.Collection
         name: country.name
         short: country.iso3.toLowerCase()
         type: 'host_location'
-        filterTitle: 'location'
+        filterTitle: 'Country'

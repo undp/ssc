@@ -9,6 +9,6 @@ class ControlsView extends Backbone.View
     @$el.html(compiled)
 
     @searchView = new SearchView(el: @$el.find('.search-container'), collection: @collection)
-    @filterView = new FilterView(el: @$el.find('.filters-container'), collection: @collection)
-
+    @filterView = new FilterView(el: @$el.find('.filters-container.filters'), collection: @collection)
+    # @searchResultsView = new SearchResultsView(el: @$el.find('.filters-container.search-results'))
     @

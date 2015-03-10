@@ -23,7 +23,6 @@
 <div class="filters toggle-filter-controls" id="filters">
 
   <% _.each(filterGroups, function(filterGroup){ %>
-
   <div class="filter-group">
     <a href='#' class="group-title" data-ix="showhide-filter-groups"><%= s.humanize(filterGroup.data.name) %></a>
     <% _.each(filterGroup.values, function(filterItem){ %>

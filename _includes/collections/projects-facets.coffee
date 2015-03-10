@@ -33,7 +33,6 @@ ProjectsFacets =
     else# TODO: Check value if valid for facet, i.e. is it an active filter?
       return "Can't remove non-existent Facet" 
     
-
   clearFilters: -> # Triggers filters:reset
     return if app.state.filterState.length is 0
     app.state.resetState() # TODO: Coupling?
@@ -58,6 +57,31 @@ ProjectsFacets =
 
     facet = @_facetsObject()[type]
     _.findWhere(facet, {value: value.toLowerCase()})?.activeCount || 0
+
+  filterFacets: (term) ->
+    return unless term?
+
+    matches = @_searchByLongName(term)
+    matches.push(term) if app.filters.findWhere(short: term)?
+
+    console.log matches
+
+    _.map matches, (match) =>
+      facetsObject = _.clone(@_facetsObject())
+      @_searchShortTerms(match, facetsObject)
+
+  _searchShortTerms: (term, facetsObject) ->
+    _.map(facetsObject, (facetValues, facetName) ->
+      values = _.filter(facetValues, (facetItem) ->
+        re = new RegExp term
+        true if facetItem.value.match(re) 
+      )
+      facetsObject[facetName] = values
+    )
+    facetsObject
+
+  _searchByLongName: (term, facetsObject) ->
+    new Backbone.Collection(app.filters.search(term)).pluck('short')
 
   _initializeFacetr: ->
     @facetr ||= Facetr(@, 'projects')

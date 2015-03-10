@@ -53,12 +53,3 @@ class FilterView extends Backbone.View
   _resetFilters: (ev) =>
     ev.preventDefault()
     @collection.clearFilters()
-
-  # search: (term) ->
-  #   if term
-  #     @filterGroups = _.groupBy(app.filters.search(term), (i) ->
-  #       i.get('filterTitle')
-  #     )
-  #   else
-  #     @resetFilterGroups()
-  #   @render()
