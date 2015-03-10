@@ -26,7 +26,6 @@ Router = Backbone.Router.extend
     params = app.utils.getUrlParams()
 
     if params.stateRef? # Try to find State from stores (local and remote)
-      
       options = 
         stateRef: params.stateRef
         facetName: facetName

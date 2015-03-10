@@ -1,3 +1,4 @@
+# Mixin for Projects Collection
 ProjectsFacets =
 
   initializeFacets: (options) ->
