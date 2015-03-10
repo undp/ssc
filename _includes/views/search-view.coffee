@@ -6,16 +6,26 @@ class SearchView extends Backbone.View
     @render()
 
   events: 
-    'click .view-mode': 'search'
-    'click .input-mode > .search-action-icon ': 'clearSearch'
+    'click .view-mode': 'startSearch'
+    'click .input-mode > .search-action-icon ': 'cancelSearch'
+    'keyup .search-field-input': 'searchTerm'
 
   render: ->
     compiled = @template()()
     @$el.html(compiled)
 
-  search: (ev) =>
+  startSearch: (ev) =>
     ev.preventDefault()
     @activateSearch()
+
+  cancelSearch: (ev) ->
+    ev.preventDefault()
+    input = @$el.find('.search-field-input')
+    if input.val() is ''
+      @deactivateSearch()
+    else
+      @$el.find('.search-field-input').val('')
+      input.focus()
 
   activateSearch: ->
     @$el.find('.view-mode').hide()
@@ -26,7 +36,12 @@ class SearchView extends Backbone.View
     @$el.find('.input-mode').hide()
     @$el.find('.view-mode').show()
 
-  #   term = ev.currentTarget.value
+  searchTerm: (ev) =>
+    term = ev.currentTarget.value
+    if term.length > 1
+      console.log 'Search for ', term
+
+  #   app.vent.trigger 'search', ''
   #   app.vent.trigger 'search', term
   #   # results = app.filters.search(term)
   #   # console.log results.map (i) -> 
@@ -43,9 +58,3 @@ class SearchView extends Backbone.View
   #     re = new RegExp(term, "i")
   #     model.get('project_title').match(re)
   #   )
-
-  clearSearch: (ev) ->
-    ev.preventDefault()
-    @$el.find('.search-field-input').val('')
-    @deactivateSearch()
-  #   app.vent.trigger 'search', ''
