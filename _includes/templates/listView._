@@ -5,7 +5,6 @@
       </div>
       <div class="item-detail">
         <div class="project-title"><%= project.project_title %> [<%= project.project_id %>]</div>
-        <div class="project-themes">THEMES: Sustainable development</div>
       </div>
     </a>
 
