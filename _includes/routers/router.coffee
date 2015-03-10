@@ -8,8 +8,7 @@ Router = Backbone.Router.extend
 
   routes:
     ''                       : '_explorer'
-    'project/:projectId'     : '_project'
-    'admin'                  : 'admin'
+    'admin'                  : '_admin'
     ':facetName/:facetValue' : '_explorer'
   
   back: ->
@@ -21,11 +20,11 @@ Router = Backbone.Router.extend
 
   # ROUTES
   _explorer: (facetName, facetValue) ->
+    return @_project(facetValue) if facetName == 'project'
     return @_rootRoute() unless app.filters.validFilters(facetName, facetValue)
 
     params = app.utils.getUrlParams()
 
-    
     if params.stateRef? # Try to find State from stores (local and remote)
       
       options = 
@@ -50,6 +49,9 @@ Router = Backbone.Router.extend
     project = app.projects.get(id)
     view = new ProjectView(model: project)
     @_switchView(view)
+
+  _admin: ->
+    console.log 'admin'
 
   # View management
   _rootRoute: ->
