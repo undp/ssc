@@ -1,11 +1,10 @@
 class Filters extends Backbone.Collection
   model: Filter
 
-  populate: (options) ->
-    throw 'Missing indices' unless options.indices?
-    throw 'Missing countries' unless options.countries?
-    @_addIndices(options.indices)
-    @_addCountries(options.countries)
+  initialize: ->
+    # preloadData is bootstrapped into index.html
+    @_addIndices(preloadData.indices)
+    @_addCountries(preloadData.countries)
 
   validFilters: (filterName, filterValue) ->
     return true unless filterName? and filterValue?

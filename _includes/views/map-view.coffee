@@ -6,7 +6,8 @@ class MapView extends Backbone.View
     @listenTo @collection, 'filters:remove', @render
     @listenTo @collection, 'filters:reset', @render
 
-    @countries = new MapCountries(preloadData.countries)
+    # `preloadData` is bootstrapped into index.html
+    @countries = new MapCountries(preloadData.countries) 
 
   render: ->
     return unless @mapObject?

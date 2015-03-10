@@ -40,10 +40,6 @@ $(document).ready ->
   # Collections
   app.projects = new Projects
   app.filters = new Filters
-  app.filters.populate(
-    indices: preloadData.indices
-    countries: preloadData.countries # TODO: Avoid duplication with above
-  )
 
   app.projects.fetch
     success: (collection) ->
