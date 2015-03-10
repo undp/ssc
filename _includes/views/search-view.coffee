@@ -7,8 +7,8 @@ class SearchView extends Backbone.View
 
   events: 
     'click .view-mode': 'startSearch'
-    'click .input-mode > .search-action-icon ': 'cancelSearch'
     'keyup .search-field-input': 'searchTerm'
+    'blur .input-mode': 'cancelSearch'
 
   render: ->
     compiled = @template()()
@@ -21,11 +21,8 @@ class SearchView extends Backbone.View
   cancelSearch: (ev) ->
     ev.preventDefault()
     input = @$el.find('.search-field-input')
-    if input.val() is ''
-      @deactivateSearch()
-    else
-      @$el.find('.search-field-input').val('')
-      input.focus()
+    input.val('')
+    @deactivateSearch()
 
   activateSearch: ->
     @$el.find('.view-mode').hide()
@@ -39,13 +36,10 @@ class SearchView extends Backbone.View
   searchTerm: (ev) =>
     term = ev.currentTarget.value
     if term.length > 1
-      console.log 'Search for ', term
+      results = app.filters.search(term)
+      console.log results.map (i) -> 
+        "#{i.get('type')}: #{i.id}"
 
-  #   app.vent.trigger 'search', ''
-  #   app.vent.trigger 'search', term
-  #   # results = app.filters.search(term)
-  #   # console.log results.map (i) -> 
-  #   #   "#{i.get('type')}: #{i.id}"
 
   #   # if no filters active then search all filter 
   #   # if @viewModel.activeFilters.length == 0
