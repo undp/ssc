@@ -22,14 +22,6 @@ class Countries extends Backbone.Collection
     else
       _.map(results, (i) -> i.toJSON())
 
-  # TODO: Remove unused methods
-  
-  # nameFromIso3: (iso3) ->
-  #   @findWhere(iso3: iso3.toUpperCase())
-
-  # nameFromMapShort: (mapShort) ->
-  #   @findWhere(map_short: mapShort.toUpperCase())?.get('name')
-
   mapShortFromIso3: (iso3) ->
     found = @findWhere(iso3: iso3.toUpperCase())
     if found?
@@ -43,11 +35,3 @@ class Countries extends Backbone.Collection
       found?.get('iso3') || console.warn "No iso3 code found for #{found.get('name')}"
     else
       console.warn "No Country found for #{mapShort}"
-
-  # isoFromName: (name) ->
-  #   return unless name
-  #   try
-  #     @findWhere(name: name).get('iso3')
-  #   catch e
-  #     throw "Country not found for #{name}"
-  #   
