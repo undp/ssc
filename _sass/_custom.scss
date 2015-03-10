@@ -1,21 +1,35 @@
+// Avoid grey boxes on iOS touch events
 body {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
-.tab-menu-link {
-  margin-right: -2px; // Avoids tabs being > 33% width
+// SearchView
+.input-mode {
+  display: none;
 }
 
-.w-tab-content { overflow: scroll; }
+.search-field-input {
+  font-size: 20px;
+  border: 0;
+  height: 29px;
+  color: #F6BD2B;
+  padding-left: 7px;
+  &:focus {
+    outline: none;
+  }
+}
 
+// FilterView
 a.group-item[data-active-filter='true'] {
   .item-text {
     color: rgb(118, 118, 118);
   }
 }
 
-.ellipsis {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+// ContentView
+.tab-menu-link {
+  margin-right: -2px; // Avoids tabs being > 33% width
 }
+
+.w-tab-content { overflow: scroll; }
+
