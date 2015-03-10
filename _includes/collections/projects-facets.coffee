@@ -49,7 +49,11 @@ ProjectsFacets =
 
   prepareFilterGroupForType: (type) ->
     throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)
-    @_removeEmptyValuesFrom(@_facetsObject()[type])
+    filterGroup = @_removeEmptyValuesFrom(@_facetsObject()[type])
+    # Convert values from short to long names
+    _.map filterGroup, (filterItem) ->
+      filterItem.long = app.filters.nameFromShort(filterItem.value)
+      filterItem
 
   projectCountForFacetValue: (type, value) ->
     throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)

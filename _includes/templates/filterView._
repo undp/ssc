@@ -6,12 +6,12 @@
 <% if(activeFilters.length != 0){ %>
 
   <div class="w-clearfix active-filters toggle-filter-controls">
-    <% _.each(activeFilters, function(filter){ %>
+    <% _.each(activeFilters, function(filterItem){ %>
       <a class="w-clearfix w-inline-block active-filter" href="#"
-        data-filter-name='<%= filter.name %>'
-        data-filter-value='<%= filter.value %>' 
+        data-filter-name='<%= filterItem.name %>'
+        data-filter-value='<%= filterItem.value %>' 
       >
-        <div class="filter-name"><%= app.filters.nameFromShort(filter.value) %> </div>
+        <div class="filter-name"><%= filterItem.long %> </div>
         <div class="close">x</div>
       </a>
     <% }) %>
@@ -30,7 +30,7 @@
         data-active-filter='<%= filterItem.active %>'
         data-filter-name='<%= filterGroup.data.name %>'
         data-filter-value='<%= filterItem.value %>'>
-        <div class="item-text"><%= app.filters.nameFromShort(filterItem.value) %></div>
+        <div class="item-text"><%= filterItem.long %></div>
         <div class="item-count"><%= filterItem.activeCount %></div>
       </a>
       <% }) %>

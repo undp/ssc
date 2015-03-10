@@ -22,11 +22,16 @@ class FilterView extends Backbone.View
 
   render: =>
     compiled = @template()(
-      activeFilters: app.state.filterState
+      activeFilters: @_prepareActiveFilters()
       collection: @collection
       filterGroups: @_prepareFilterGroups()
     )
     @$el.html(compiled)
+
+  _prepareActiveFilters: =>
+    _.map app.state.filterState, (filter) ->
+      filter.long = app.filters.nameFromShort(filter.value)
+      filter
 
   _prepareFilterGroups: =>
     @collection.prepareFilterGroups()
