@@ -2,8 +2,7 @@
 ProjectsFacets =
 
   initializeFacets: (options) ->
-    @listenTo @, 'add', @_initializeFacetr
-    @listenTo @, 'set', @_initializeFacetr
+    @listenTo @, 'reset', @_initializeFacetr
 
   facetTypes: [
     'region'

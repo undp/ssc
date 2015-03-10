@@ -42,6 +42,7 @@ $(document).ready ->
   app.filters = new Filters
 
   app.projects.fetch
+    reset: true
     success: (collection) ->
       app.state = new StateManager(observedCollection: collection)
       app.router = new Router()
