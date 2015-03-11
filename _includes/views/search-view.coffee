@@ -2,6 +2,7 @@ class SearchView extends Backbone.View
   template: ->  _.template($('#searchView').html())
 
   initialize: ->
+    @listenTo app.state, 'filters:add', @_cancelSearch
     @render()
 
   events: 
@@ -18,7 +19,7 @@ class SearchView extends Backbone.View
     @_activateSearch()
 
   _cancelSearch: (ev) ->
-    ev.preventDefault()
+    ev.preventDefault() if ev.preventDefault?
     @_resetSearchField()
     @_deactivateSearch()
     @collection.trigger('search:stopped')

@@ -9,14 +9,14 @@ class ListView extends Backbone.View
   
   render: (options) ->
     collectionToRender = options?.collection || @collection.toJSON()
-    console.log collectionToRender
     compiled = @template()(collection: collectionToRender)
     @$el.html(compiled)
     @
 
   _searchedAndFoundProjects: (results) =>
+    @_receivedFoundProjects = true
     collectionToRender = new Backbone.Collection(results).toJSON()
     @render(collection: collectionToRender)
 
   _hideFoundProjects: =>
-    @render()
+    @render() if @_receivedFoundProjects

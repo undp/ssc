@@ -15,9 +15,9 @@ class FilterView extends Backbone.View
     @listenTo @collection, 'search:stopped', @_hideFilterSearchResults
 
     @listenTo @collection, 'reset', @render
-    @listenTo @collection, 'filters:add', @render
-    @listenTo @collection, 'filters:remove', @render
-    @listenTo @collection, 'filters:reset', @render
+    @listenTo app.state, 'filters:add', @render
+    @listenTo app.state, 'filters:remove', @render
+    @listenTo app.state, 'filters:reset', @render
 
     @render()
 
@@ -63,7 +63,8 @@ class FilterView extends Backbone.View
     @collection.clearFilters()
 
   _showFilterSearchResults: (results) =>
+    @_receivedSearchResults = true
     @render(searchResults: true, filterGroups: results) 
 
-  _hideFilterSearchResults: ->
-    @render() # Render original filterGroups
+  _hideFilterSearchResults: =>
+    @render() if @_receivedSearchResults? # Render original filterGroups
