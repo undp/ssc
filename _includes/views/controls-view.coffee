@@ -14,5 +14,5 @@ class ControlsView extends Backbone.View
 
   remove: ->
     @_searchView.remove() if @_searchView?
-    @_filterView.remove() @_filterView?
+    @_filterView.remove() if @_filterView?
     Backbone.View.prototype.remove.apply(this, arguments)
