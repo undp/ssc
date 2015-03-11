@@ -30,6 +30,7 @@ class FilterView extends Backbone.View
       activeFilters: @_prepareActiveFilters()
       collection: @collection
       filterGroups: filterGroups
+      searchResults: options?.searchResults
     )
     @$el.html(compiled)
 
@@ -65,7 +66,7 @@ class FilterView extends Backbone.View
     @collection.clearFilters()
 
   _showFilterSearchResults: (results) =>
-    @render(filterGroups: results) 
+    @render(searchResults: true, filterGroups: results) 
 
   _hideFilterSearchResults: ->
     @render() # Render original filterGroups
