@@ -14,7 +14,7 @@ class FilterView extends Backbone.View
     throw 'Missing parentView' unless options.parentView?
     {@parentView} = options
 
-    @listenTo @parentView, 'search:found', @_showFilterSearchResults
+    @listenTo @parentView, 'search:foundFilters', @_showFilterSearchResults
     @listenTo @parentView, 'search:stopped', @_hideFilterSearchResults
 
     @listenTo @collection, 'reset', @render

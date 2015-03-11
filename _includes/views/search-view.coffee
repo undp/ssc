@@ -41,13 +41,15 @@ class SearchView extends Backbone.View
   _searchForTerm: (ev) =>
     term = ev.currentTarget.value
     return unless term.length > 1
+    @_searchFilterGroups(term)
 
+  _searchFilterGroups: (term) =>
     filterGroups = @collection.prepareFilterGroups()
 
     _.each filterGroups, (group) => 
       group.values = @_filterValueObjects(group.values, term)
 
-    @parentView.trigger('search:found', filterGroups)
+    @parentView.trigger('search:foundFilters', filterGroups)
 
   _filterValueObjects: (valueObjects, term) ->
     _.filter(valueObjects, (object) => @_valueObjectMatchesTerm(object, term))
