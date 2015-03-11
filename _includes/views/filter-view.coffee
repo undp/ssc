@@ -65,9 +65,7 @@ class FilterView extends Backbone.View
     @collection.clearFilters()
 
   _showFilterSearchResults: (results) =>
-    console.log "search found some results"
-    @render(filterGroups: results)
+    @render(filterGroups: results) 
 
   _hideFilterSearchResults: ->
-    console.log 'search stopped: no idea what now!'
-    @render()
+    @render() # Render original filterGroups

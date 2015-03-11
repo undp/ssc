@@ -42,6 +42,12 @@ class SearchView extends Backbone.View
     term = ev.currentTarget.value
     return unless term.length > 1
     @_searchFilterGroups(term)
+    @_searchProjects(term)
+
+  _searchProjects: (term) =>
+    projectsFound = @collection.search(term)
+    if projectsFound?.length > 0
+      @parentView.trigger('search:foundProjects', projectsFound)
 
   _searchFilterGroups: (term) =>
     filterGroups = @collection.prepareFilterGroups()
