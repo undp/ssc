@@ -336,12 +336,14 @@ p {
 }
 .tab-content {
   height: 410px;
-  padding: 10px;
 }
 .tab-content.map {
   padding-top: 0px;
   padding-right: 0px;
   padding-left: 0px;
+}
+.tab-content.stats {
+  padding: 10px;
 }
 .tab-menu-link {
   width: 33%;
@@ -371,7 +373,7 @@ p {
 }
 .project-title {
   margin-top: 3px;
-  color: #1057a7;
+  color: #176895;
   font-size: 15px;
   font-weight: 400;
 }
@@ -442,7 +444,6 @@ p {
   color: #c2c2c2;
 }
 .stat-headline {
-  padding-right: 30px;
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   color: #d4d4d4;
   font-size: 60px;
@@ -488,7 +489,7 @@ p {
 .search-container {
   padding-right: 10px;
   padding-left: 10px;
-  border-bottom: 1px solid rgba(23, 104, 149, 0.15);
+  border-bottom: 1px solid rgba(23, 104, 149, 0.13);
 }
 .list-detail-icon {
   width: 3%;
