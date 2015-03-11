@@ -27,6 +27,12 @@ img.filters-disclose {
   }
 }
 
+.filters[data-search-results='true'] {
+  .item-text {
+    color: #F6BD2B;
+  }
+}
+
 a.group-item[data-active-filter='true'] {
   opacity: 0.3
 }
