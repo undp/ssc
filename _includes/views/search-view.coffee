@@ -2,27 +2,32 @@ class SearchView extends Backbone.View
   template: ->  _.template($('#searchView').html())
 
   initialize:  (options) ->
-    @options = options || {}
+    throw 'Missing parentView' unless options.parentView?
+    {@parentView} = options
     @render()
 
   events: 
-    'click .view-mode': '_startSearch'
-    'keyup .search-field-input': '_searchTerm'
-    'blur .input-mode': '_cancelSearch'
+    'click .view-mode': '_prepareForSearch'
+    'click .input-mode > .search-action-icon': '_cancelSearch'
+    'keyup .search-field-input': '_searchForTerm'
 
   render: ->
     compiled = @template()()
     @$el.html(compiled)
 
-  _startSearch: (ev) =>
+  _prepareForSearch: (ev) =>
     ev.preventDefault()
     @_activateSearch()
 
   _cancelSearch: (ev) ->
     ev.preventDefault()
+    @_resetSearchField()
+    @_deactivateSearch()
+    @parentView.trigger('search:stopped')
+
+  _resetSearchField: =>
     input = @$el.find('.search-field-input')
     input.val('')
-    @_deactivateSearch()
 
   _activateSearch: ->
     @$el.find('.view-mode').hide()
@@ -33,7 +38,7 @@ class SearchView extends Backbone.View
     @$el.find('.input-mode').hide()
     @$el.find('.view-mode').show()
 
-  _searchTerm: (ev) =>
+  _searchForTerm: (ev) =>
     term = ev.currentTarget.value
     return unless term.length > 1
 
@@ -42,8 +47,7 @@ class SearchView extends Backbone.View
     _.each filterGroups, (group) => 
       group.values = @_filterValueObjects(group.values, term)
 
-    filterGroups # TODO: @next Take these results and replace existing FilterView collection
-    @collection.trigger 'search', filterGroups
+    @parentView.trigger('search:found', filterGroups)
 
   _filterValueObjects: (valueObjects, term) ->
     _.filter(valueObjects, (object) => @_valueObjectMatchesTerm(object, term))

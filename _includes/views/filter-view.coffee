@@ -11,7 +11,11 @@ class FilterView extends Backbone.View
 
 
   initialize:  (options) ->
-    @options = options || {}
+    throw 'Missing parentView' unless options.parentView?
+    {@parentView} = options
+
+    @listenTo @parentView, 'search:found', @_showFilterSearchResults
+    @listenTo @parentView, 'search:stopped', @_hideFilterSearchResults
 
     @listenTo @collection, 'reset', @render
     @listenTo @collection, 'filters:add', @render
@@ -20,11 +24,12 @@ class FilterView extends Backbone.View
 
     @render()
 
-  render: =>
+  render: (options) =>
+    filterGroups = options?.filterGroups || @_prepareFilterGroups()
     compiled = @template()(
       activeFilters: @_prepareActiveFilters()
       collection: @collection
-      filterGroups: @_prepareFilterGroups()
+      filterGroups: filterGroups
     )
     @$el.html(compiled)
 
@@ -58,3 +63,11 @@ class FilterView extends Backbone.View
   _resetFilters: (ev) =>
     ev.preventDefault()
     @collection.clearFilters()
+
+  _showFilterSearchResults: (results) =>
+    console.log "search found some results"
+    @render(filterGroups: results)
+
+  _hideFilterSearchResults: ->
+    console.log 'search stopped: no idea what now!'
+    @render()
