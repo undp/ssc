@@ -10,8 +10,9 @@ class Projects extends Backbone.Collection
 
   search: (term) ->
     @filter (i) ->
-      i.get('project_title').match(term) || 
-      i.get('project_objective').match(term)
+      re = new RegExp(term, 'i')
+      re.test(i.get('project_title')) || 
+      re.test(i.get('project_objective'))
 
   getLocations: ->
     _.chain(@pluck('host_location'))
