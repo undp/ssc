@@ -28,8 +28,6 @@ app = window.app = {}
 {% include views/list-view.coffee %}
 {% include views/controls-view.coffee %}
 {% include views/headlines-view.coffee %}
-{% include views/searched-filters-view.coffee %}
-
 
 # Controllers
 {% include routers/router.coffee %} # Router

@@ -250,13 +250,7 @@ p {
 }
 .active-filters {
   margin-right: 10px;
-  margin-bottom: 0px;
   margin-left: 10px;
-  padding-top: 5px;
-  padding-right: 5px;
-  padding-left: 5px;
-  border: 2px dashed #e3e3e3;
-  background-color: whitesmoke;
 }
 .title {
   width: auto;
@@ -288,7 +282,7 @@ p {
   padding: 2px 5px;
   float: left;
   border-radius: 2px;
-  background-color: rgba(175, 194, 219, 0.4);
+  background-color: #f7be00;
   color: #0c59bc;
   font-size: 13px;
   text-decoration: none;
@@ -504,10 +498,11 @@ p {
 .close {
   margin-left: 10px;
   float: left;
-  color: #bec4cc;
+  color: #ff821c;
 }
 .filter-name {
   float: left;
+  color: white;
 }
 .reset-filters {
   display: inline-block;
