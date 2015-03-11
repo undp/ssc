@@ -7,28 +7,25 @@ INITIAL_VIEW_STATE = 'list' # TODO: @prod replace with 'map'
 # SERIALIZE and STORE state
 # 
 
-class StateManager
-  constructor: (options) ->
-    _.extend @, Backbone.Events
-    throw 'No collection to manage' unless options.observedCollection?
-    @observedCollection = options.observedCollection
+class ExplorerViewModel extends Backbone.Model
+  initialize: ->
 
     @listenTo @, 'filters:changed', @_storeState
-    @listenTo @, 'view:changed', @_viewChanged
+    @listenTo @, 'change:viewState', @_viewChanged
 
-    @persistState = new PersistState
+    @stateStore = new StateStore
 
     @filterState = []
-    @viewState = ''
+    # @viewState = ''
     @resetState()
 
   retrieveStateData: (options) ->
-    options.observedCollection = @observedCollection
-    @persistState.retrieveStateData(options)
+    options.collection = @collection
+    @stateStore.retrieveStateData(options)
 
   resetState: ->
     @filterState = []
-    @viewState = INITIAL_VIEW_STATE
+    @set 'viewState', INITIAL_VIEW_STATE
 
   addFilterState: (facetName, facetValue, trigger) -> # Triggers filters:changed
     return false if _.findWhere(@filterState,
@@ -69,8 +66,9 @@ class StateManager
     )
 
   _storeState: =>
-    @persistState.storeStateData(filterState: @filterState, viewState: @viewState)
+    @stateStore.storeStateData(filterState: @filterState, viewState: @get('viewState'))
 
   _viewChanged: (view) ->
+    console.log 'viewState changed', view
     @viewState = view
     @_storeState()

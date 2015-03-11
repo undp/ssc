@@ -1,4 +1,4 @@
-class PersistState
+class StateStore
 
   storeStateData: (stateObject) -> # Listens to 'filter:add' and 'filter:remove' events
     return @_rebuildURL() unless stateObject? and stateObject.filterState.length isnt 0

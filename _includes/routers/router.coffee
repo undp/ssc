@@ -27,10 +27,10 @@ Router = Backbone.Router.extend
 
     if params.stateRef? # Try to find State from stores (local and remote)
       options = 
-        stateRef: params.stateRef
         facetName: facetName
         facetValue: facetValue
-        viewState: params?.viewState
+        stateRef: params.stateRef
+        viewState: params.viewState
 
       app.state.retrieveStateData(options) 
 
@@ -56,9 +56,9 @@ Router = Backbone.Router.extend
   _rootRoute: ->
     @navigate '', trigger: true, replace: true
 
-  _switchView: (view) ->
+  _switchView: (newView) ->
     @view.remove() if @view
-    @view = view
+    @view = newView
     @view.render()
     @$appEl.html(@view.$el)
 
