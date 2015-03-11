@@ -51,8 +51,10 @@ class SearchView extends Backbone.View
   _valueObjectMatchesTerm: (valueObject, term) ->
       re = new RegExp(term, 'i')
       re.test valueObject.long
+      # TODO: @next Add the Projects search action
       # filterResults = app.projects.filterFacets(term)
       # projectResults = app.projects.search(term)
+      
       # ControlsView displays a SearchFacetsResultsView
       # ContentView displays a filtered list of projects matching the title/objective
       # Store search state and term in State object - can go 'back' from a ProjectShowView
