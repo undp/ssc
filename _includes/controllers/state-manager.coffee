@@ -12,10 +12,8 @@ class StateManager
     _.extend @, Backbone.Events
     throw 'No collection to manage' unless options.observedCollection?
     @observedCollection = options.observedCollection
-    @listenTo @observedCollection, 'filters:add', @_storeState
-    @listenTo @observedCollection, 'filters:remove', @_storeState
-    # @listenTo @observedCollection, 'filters:change', @_storeState # TODO: Replace 'add' & 'remove' with single 'change' filters event
 
+    @listenTo @, 'filters:changed', @_storeState
     @listenTo @, 'view:changed', @_viewChanged
 
     @persistState = new PersistState
@@ -32,7 +30,7 @@ class StateManager
     @filterState = []
     @viewState = INITIAL_VIEW_STATE
 
-  addFilterState: (facetName, facetValue, trigger) -> # Triggers filters:add
+  addFilterState: (facetName, facetValue, trigger) -> # Triggers filters:changed
     return false if _.findWhere(@filterState,
       name: facetName
       value: facetValue
@@ -43,9 +41,9 @@ class StateManager
       value: facetValue
 
     @trackFilter('add', facetName, facetValue)
-    @trigger 'filters:add' unless !trigger
+    @trigger 'filters:changed' unless !trigger
 
-  removeFilterState: (facetName, facetValue, trigger) -> # Triggers filters:remove
+  removeFilterState: (facetName, facetValue, trigger) -> # Triggers filters:changed
     return false unless foundFilter = _.findWhere(@filterState,
       name: facetName
       value: facetValue
@@ -53,7 +51,7 @@ class StateManager
 
     @filterState = _.without(@filterState, foundFilter)
     @trackFilter('remove', facetName, facetValue)
-    @trigger 'filters:remove' unless !trigger
+    @trigger 'filters:changed' unless !trigger
 
   trackFilter: (action, facetName, facetValue) ->
     if action is 'add' and @filterState.length == 1

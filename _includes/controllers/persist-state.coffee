@@ -76,7 +76,7 @@ class PersistState
 
     _.each filterState, (filter) =>
       observedCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
-    observedCollection.trigger 'filters:reset' # TODO: Coupling
+    app.state.trigger 'filters:changed' # TODO: Coupling
 
   _rebuildURL: (options) -> # options = {stateRef, facetName, facetValue, viewState}
     return app.router.navigate() if !options?

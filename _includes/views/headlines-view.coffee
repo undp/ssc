@@ -6,9 +6,7 @@ class HeadlinesView extends Backbone.View
 
   initialize: ->
     @listenTo @collection, 'reset', @render
-    @listenTo @collection, 'filters:add', @render
-    @listenTo @collection, 'filters:remove', @render
-    @listenTo @collection, 'filters:reset', @render
+    @listenTo app.state, 'filters:changed', @render
 
     @render()
 

@@ -2,7 +2,7 @@ class SearchView extends Backbone.View
   template: ->  _.template($('#searchView').html())
 
   initialize: ->
-    @listenTo app.state, 'filters:add', @_cancelSearch
+    @listenTo app.state, 'filters:changed', @render
     @render()
 
   events: 

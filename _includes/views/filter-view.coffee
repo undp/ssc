@@ -15,9 +15,7 @@ class FilterView extends Backbone.View
     @listenTo @collection, 'search:stopped', @_hideFilterSearchResults
 
     @listenTo @collection, 'reset', @render
-    @listenTo app.state, 'filters:add', @render
-    @listenTo app.state, 'filters:remove', @render
-    @listenTo app.state, 'filters:reset', @render
+    @listenTo app.state, 'filters:changed', @render
 
     @render()
 

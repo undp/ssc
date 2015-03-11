@@ -37,7 +37,7 @@ ProjectsFacets =
     return if app.state.filterState.length is 0
     app.state.resetState() # TODO: Coupling?
     @facetr.clearValues()
-    @trigger 'filters:remove'
+    @trigger 'filters:changed'
 
   prepareFilterGroups: -> # TODO: This is for display, so could be in a Presenter
     @_sortFacetsByActiveCount()
