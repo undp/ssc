@@ -2,10 +2,7 @@
   <div class="search-container">
     <!-- searchView._ -->
   </div>
-  <div class="filters-container filters">
-    <!-- filterView._ -->
-  </div>
-  <div class="filters-container searched-filters">
+  <div class="filters-container">
     <!-- filterView._ -->
   </div>
 </div>
