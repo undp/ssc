@@ -1,9 +1,7 @@
 class SearchView extends Backbone.View
   template: ->  _.template($('#searchView').html())
 
-  initialize:  (options) ->
-    throw 'Missing parentView' unless options.parentView?
-    {@parentView} = options
+  initialize: ->
     @render()
 
   events: 
@@ -23,7 +21,7 @@ class SearchView extends Backbone.View
     ev.preventDefault()
     @_resetSearchField()
     @_deactivateSearch()
-    @parentView.trigger('search:stopped')
+    @collection.trigger('search:stopped')
 
   _resetSearchField: =>
     input = @$el.find('.search-field-input')
@@ -47,15 +45,16 @@ class SearchView extends Backbone.View
   _searchProjects: (term) =>
     projectsFound = @collection.search(term)
     if projectsFound?.length > 0
-      @parentView.trigger('search:foundProjects', projectsFound)
+      # NOTE: The event below is called on @collection
+      @collection.trigger('search:foundProjects', projectsFound) 
 
   _searchFilterGroups: (term) =>
     filterGroups = @collection.prepareFilterGroups()
 
     _.each filterGroups, (group) => 
       group.values = @_filterValueObjects(group.values, term)
-
-    @parentView.trigger('search:foundFilters', filterGroups)
+    # NOTE: The event below is called on @collection
+    @collection.trigger('search:foundFilters', filterGroups)
 
   _filterValueObjects: (valueObjects, term) ->
     _.filter(valueObjects, (object) => @_valueObjectMatchesTerm(object, term))

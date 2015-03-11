@@ -10,12 +10,9 @@ class FilterView extends Backbone.View
     'click .reset-filters': '_resetFilters'
 
 
-  initialize:  (options) ->
-    throw 'Missing parentView' unless options.parentView?
-    {@parentView} = options
-
-    @listenTo @parentView, 'search:foundFilters', @_showFilterSearchResults
-    @listenTo @parentView, 'search:stopped', @_hideFilterSearchResults
+  initialize:  () ->
+    @listenTo @collection, 'search:foundFilters', @_showFilterSearchResults
+    @listenTo @collection, 'search:stopped', @_hideFilterSearchResults
 
     @listenTo @collection, 'reset', @render
     @listenTo @collection, 'filters:add', @render
