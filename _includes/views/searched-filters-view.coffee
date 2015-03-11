@@ -17,4 +17,4 @@ class SearchedFiltersView extends Backbone.View
     @collection.prepareFilterGroups()
 
   _searchForTerm: (found) ->
-    console.log 'nasty', found
+    console.warn 'This is a nasty event listener', found
