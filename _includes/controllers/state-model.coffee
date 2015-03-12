@@ -15,14 +15,11 @@ class StateModel extends Backbone.Model
     projectId   : null
 
   initialize: ->
-    @listenTo @, 'state:reset', @_resetState
     @listenTo @, 'all', @_storeOnChangeEvent
-    @_stateStore = new StateStore(stateModel: @) # Mixin/Utility class
+    @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
   _storeOnChangeEvent: (eventType,b,c) ->
-    @_storeState() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
-
-  writeStateToUrl: ->
+    @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
 
   readStateFromUrl: ->
     console.log 'DEV: Reading URL disabled'
@@ -43,21 +40,28 @@ class StateModel extends Backbone.Model
     # else # Start from scratch
     #   @clearFilters()
 
-  _storeState: (ev) =>
-    @_stateStore.store()
 
-  _resetState: =>
+
+  # 
+  # MANAGE STATE ATTRIBUTES (other than FILTERS)
+  # 
+
+  _resetState: => # TODO: Remove unused
     @clear().set(@defaults)
-
-  clearFilters: ->
-    @set 'filterState', []
-    @collection.clearFilters()
 
   setContentView: (view) =>
     @set 'viewState', view
 
   setProjectShowId: (projectId) =>
     @set 'projectId', projectId
+
+  # 
+  # MANAGE FILTERS
+  # 
+
+  clearFilters: ->
+    @set 'filterState', []
+    @collection.clearFilters()
 
   addFilter: (options) =>
     {facetName, facetValue} = options
