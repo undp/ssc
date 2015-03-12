@@ -17,12 +17,11 @@ class StateModel extends Backbone.Model
 
   initialize: ->
     @listenTo @, 'state:reset', @_resetState
-    @listenTo @, 'all', @_allChanges
+    @listenTo @, 'all', @_storeOnChangeEvent
     @_stateStore = new StateStore # Mixin/Utility class
 
-  _allChanges: (eventType,b,c) ->
-    console.log 'Type is:', eventType.match(/change\:?.*/)
-    # console.log eventType,b,c
+  _storeOnChangeEvent: (eventType,b,c) ->
+    @_storeState() if (/change\:?.*/).test(eventType)
 
   writeStateToUrl: ->
 

@@ -45,8 +45,9 @@ class SearchView extends Backbone.View
 
   _searchForTerm: (ev) =>
     term = ev.currentTarget.value
-    return unless term.length > 1
     @state.set('searchTerm', term)
+
+    return unless term.length > 1
     @_searchFilters(term)
     @_searchProjects(term)
 
