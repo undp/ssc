@@ -4,13 +4,17 @@ class SearchView extends Backbone.View
   initialize: ->
     @state = app.state
 
-    @listenTo @state, 'change', @render # TODO: One of these is not needed
+    @listenTo @state, 'change:filterState', @render
     @render()
 
   events: 
     'click .view-mode': '_prepareForSearch'
     'click .input-mode > .search-action-icon': '_cancelSearch'
     'keyup .search-field-input': '_searchForTerm'
+    'keyup :input': '_checkForEscape'
+
+  _checkForEscape: (e) ->
+    @_cancelSearch() if e.keyCode == 27
 
   render: ->
     compiled = @template()()
@@ -21,10 +25,10 @@ class SearchView extends Backbone.View
     @_activateSearch()
 
   _cancelSearch: (ev) ->
-    ev.preventDefault() if ev.preventDefault?
+    ev.preventDefault() if ev?.preventDefault?
     @_resetSearchField()
     @_deactivateSearch()
-    @collection.trigger('search:stopped')
+    @state.trigger('search:stopped')
 
   _resetSearchField: =>
     input = @$el.find('.search-field-input')
@@ -42,13 +46,13 @@ class SearchView extends Backbone.View
   _searchForTerm: (ev) =>
     term = ev.currentTarget.value
     return unless term.length > 1
+    @state.set('searchTerm', term)
     @_searchFilters(term)
     @_searchProjects(term)
 
   _searchProjects: (term) =>
     projectsFound = @collection.search(term)
     if projectsFound?.length > 0
-      # NOTE: The event below is called on @collection
       @state.trigger('search:foundProjects', projectsFound) 
 
   _searchFilters: (term) =>
@@ -56,7 +60,6 @@ class SearchView extends Backbone.View
 
     _.each filterGroups, (group) => 
       group.values = @_filterValueObjects(group.values, term)
-    # NOTE: The event below is called on @collection
     @state.trigger('search:foundFilters', filterGroups)
 
   _filterValueObjects: (valueObjects, term) ->

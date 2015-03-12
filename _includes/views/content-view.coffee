@@ -6,6 +6,9 @@ class ContentView extends Backbone.View
 
   initialize: ->
     @state = app.state
+
+    @listenTo @state, 'search:foundProjects', @_displayProjectSearchResults
+    @listenTo @state, 'search:stopped', @_restoreToPreviousView
     @render()
 
     @childViews =
@@ -17,10 +20,12 @@ class ContentView extends Backbone.View
     compiled = @template()()
     @$el.html(compiled)
 
-    _.defer => @_renderChildViews() # TODO: Replace `defer` until contentView rendered, but keep event bindings
+    _.defer => 
+      @_renderChildViews() # TODO: Replace `defer` until contentView rendered, but keep event bindings
 
     activeTab = @state.get('viewState')
     @_setActiveTab(activeTab)
+
     @
 
   remove: ->
@@ -49,4 +54,10 @@ class ContentView extends Backbone.View
     if @childViews? and @childViews[tab].setActive?
       @childViews[tab].setActive() 
     
+  _displayProjectSearchResults: =>
+    @_setActiveTab('list')
+
+  _restoreToPreviousView: =>
+    activeTab = @state.get('viewState')
+    @_setActiveTab(activeTab)
 
