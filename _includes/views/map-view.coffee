@@ -4,27 +4,26 @@ class MapView extends Backbone.View
     @state = app.state
 
     @listenTo @collection, 'reset', @render
-    @listenTo @state, 'filters:changed', @render
 
     # `preloadData` is bootstrapped into index.html
     @countries = new MapCountries(preloadData.countries) 
 
   render: ->
-    return unless @mapObject?
+    @_createMap() unless @_mapObject?
     @_updateValues()
-    @_zoomToActiveRegions()
-    @mapObject.updateSize()
+    # @_zoomToActiveRegions()
+    @_mapObject.updateSize()
 
   setActive: ->
-    @_createMap() unless @mapObject?
-    @mapObject.updateSize()
+    @_createMap() unless @_mapObject?
+    @_mapObject.updateSize()
 
   _zoomToActiveRegions: ->
     activeRegions = _.map(@collection.getLocations(), (location) =>
       @countries.mapShortFromIso3(location)
     )
 
-    @mapObject.setFocus(regions: activeRegions, animate: true)
+    @_mapObject.setFocus(regions: activeRegions, animate: true)
 
   _createMap: =>
     values = @_prepareDataForMap()
@@ -49,13 +48,13 @@ class MapView extends Backbone.View
         activeCount = app.projects.projectCountForFacetValue('host_location', countryIso3)
         el.html("#{el.html()} (#{activeCount} projects)") if activeCount isnt 0
     )
-    @mapObject = @$el.vectorMap('get', 'mapObject')
-    @maxScale = @mapObject.scale # TODO: Handle zoom and resizing better
+    @_mapObject = @$el.vectorMap('get', 'mapObject')
+    @maxScale = @_mapObject.scale # TODO: Handle zoom and resizing better
     window.m = @ # TODO: Remove debugging global
 
   _updateValues: ->
     values = @_prepareDataForMap()
-    @mapObject.series.regions[0].setValues(values)
+    @_mapObject.series.regions[0].setValues(values)
 
   _clickRegion: (code) =>
     if @selectedRegionCode == code # TODO: Too unreliable as a check - need to refer to viewModel
@@ -64,27 +63,27 @@ class MapView extends Backbone.View
       @_selectRegion(code)
 
   _selectRegion: (code) =>
-    @mapObject.clearSelectedRegions()
-    @mapObject.tip.hide()
-    @mapObject.setSelectedRegions(code)
-    # @mapObject.setFocus(regions: [code], animate: true) # TODO: Restore or remove map#setFocus
+    @_mapObject.clearSelectedRegions()
+    @_mapObject.tip.hide()
+    @_mapObject.setSelectedRegions(code)
+    # @_mapObject.setFocus(regions: [code], animate: true) # TODO: Restore or remove map#setFocus
     @selectedRegionCode = code
 
     country = @countries.iso3FromMapShort(code)
-    @collection.addFilter(name: 'host_location', value: country.toLowerCase()) if country?
+    @state.addFilter(facetName: 'host_location', facetValue: country.toLowerCase()) if country?
 
-    @mapObject.resize()
+    @_mapObject.resize()
     
   _deselectRegion: (code) =>
     @selectedRegionCode = ''
-    @mapObject.clearSelectedRegions()
+    @_mapObject.clearSelectedRegions()
     @_resetZoom()
 
     country = @countries.iso3FromMapShort(code)
-    @collection.removeFilter(name: 'host_location', value: country.toLowerCase()) if country?
+    @state.removeFilter(facetName: 'host_location', facetValue: country.toLowerCase()) if country?
 
   _resetZoom: ->
-    @mapObject.setFocus 
+    @_mapObject.setFocus 
       scale: @maxScale
       x: 0
       y: 0

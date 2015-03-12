@@ -5,6 +5,7 @@ class ContentView extends Backbone.View
     'click .tab-menu-link': '_selectTabLink'
 
   initialize: ->
+    @state = app.state
     @render()
 
     @childViews =
@@ -18,7 +19,7 @@ class ContentView extends Backbone.View
 
     _.defer => @_renderChildViews() # TODO: Replace `defer` until contentView rendered, but keep event bindings
 
-    activeTab = app.state.viewState
+    activeTab = @state.get('viewState')
     @_setActiveTab(activeTab)
     @
 
@@ -32,6 +33,7 @@ class ContentView extends Backbone.View
   _selectTabLink: (ev) =>
     ev.preventDefault()
     tab = ev.currentTarget.getAttribute('data-w-tab')
+    @state.setView tab
     @_setActiveTab(tab)
 
   _setActiveTab: (tab) ->
@@ -46,5 +48,5 @@ class ContentView extends Backbone.View
 
     if @childViews? and @childViews[tab].setActive?
       @childViews[tab].setActive() 
-    app.state.trigger 'view:changed', tab # StateManager
+    
 

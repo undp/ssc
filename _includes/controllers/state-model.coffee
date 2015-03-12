@@ -17,8 +17,12 @@ class StateModel extends Backbone.Model
 
   initialize: ->
     @listenTo @, 'state:reset', @_resetState
-    @listenTo @, 'all', @_storeState
+    @listenTo @, 'all', @_allChanges
     @_stateStore = new StateStore # Mixin/Utility class
+
+  _allChanges: (eventType,b,c) ->
+    console.log 'Type is:', eventType.match(/change\:?.*/)
+    # console.log eventType,b,c
 
   writeStateToUrl: ->
 
@@ -49,8 +53,11 @@ class StateModel extends Backbone.Model
     @clear().set(@defaults)
 
   clearFilters: ->
-    @collection.clearFilters()
     @set 'filterState', []
+    @collection.clearFilters()
+
+  setView: (view) =>
+    @set 'viewState', view
 
   addFilter: (options) =>
     {facetName, facetValue} = options
