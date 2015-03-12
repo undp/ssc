@@ -7,7 +7,7 @@ INITIAL_VIEW_STATE = 'list' # TODO: @prod replace with 'map'
 # SERIALIZE and STORE state
 # 
 
-class ExplorerViewModel extends Backbone.Model
+class ExplorerStateModel extends Backbone.Model
   initialize: ->
 
     @listenTo @, 'filters:changed', @_storeState
@@ -16,7 +16,6 @@ class ExplorerViewModel extends Backbone.Model
     @stateStore = new StateStore
 
     @filterState = []
-    # @viewState = ''
     @resetState()
 
   retrieveStateData: (options) ->
