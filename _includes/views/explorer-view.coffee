@@ -26,6 +26,7 @@ class ExplorerView extends Backbone.View
   _showProject: (projectId) =>
     project = @collection.get(projectId)
     throw 'No Project model' unless project
+    @state.setProjectShowId(projectId)
     @_projectShowView = new ProjectView(model: project)
     @_projectShowView.render()
     @$el.html(@_projectShowView.$el)
@@ -33,4 +34,5 @@ class ExplorerView extends Backbone.View
   _projectIndex: =>
     return unless @_projectShowView
     @_projectShowView.remove() 
+    @state.setProjectShowId(null)
     @render()

@@ -3,14 +3,13 @@ class SearchView extends Backbone.View
 
   initialize: ->
     @state = app.state
-
     @listenTo @state, 'search:start', @_activateSearch
     @render()
 
   events: 
     'click .view-mode': '_prepareForSearch'
     'click .input-mode > .search-action-icon': '_cancelSearch'
-    'keyup .search-field-input': '_searchForTerm'
+    'keyup .search-field-input': '_handleSearch'
     'keyup :input': '_checkForEscape'
 
   _checkForEscape: (e) ->
@@ -43,13 +42,12 @@ class SearchView extends Backbone.View
     @$el.find('.input-mode').hide()
     @$el.find('.view-mode').show()
 
-  _searchForTerm: (ev) =>
-    term = ev.currentTarget.value
-    @state.set('searchTerm', term)
-
-    return unless term.length > 1
-    @_searchFilters(term)
-    @_searchProjects(term)
+  _handleSearch: (ev) =>
+    searchTerm = ev?.currentTarget.value
+    @state.set('searchTerm', searchTerm)
+    return unless searchTerm.length > 1
+    @_searchFilters(searchTerm)
+    @_searchProjects(searchTerm)
 
   _searchProjects: (term) =>
     projectsFound = @collection.search(term)

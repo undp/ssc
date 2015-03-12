@@ -56,6 +56,9 @@ class StateModel extends Backbone.Model
   setContentView: (view) =>
     @set 'viewState', view
 
+  setProjectShowId: (projectId) =>
+    @set 'projectId', projectId
+
   addFilter: (options) =>
     {facetName, facetValue} = options
     throw "Can't add duplice Facet" if @_facetAlreadyActive(facetName, facetValue)
