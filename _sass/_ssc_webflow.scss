@@ -250,6 +250,7 @@ p {
 }
 .active-filters {
   margin-right: 10px;
+  margin-bottom: 10px;
   margin-left: 10px;
 }
 .title {
@@ -260,6 +261,9 @@ p {
   font-size: 22px;
 }
 .filters {
+  overflow-x: scroll;
+  overflow-y: scroll;
+  height: 265px;
   padding-right: 10px;
   padding-left: 10px;
 }
@@ -490,7 +494,7 @@ p {
 .search-container {
   padding-right: 10px;
   padding-left: 10px;
-  border-bottom: 1px solid rgba(23, 104, 149, 0.13);
+  border-bottom: 1px solid rgba(23, 104, 149, 0.12);
 }
 .list-detail-icon {
   width: 3%;
@@ -509,9 +513,6 @@ p {
 .reset-filters {
   display: inline-block;
   width: 100%;
-  margin-bottom: 10px;
-  padding-right: 10px;
-  padding-left: 10px;
   color: #bababa;
   font-size: 12px;
   text-align: right;
@@ -653,9 +654,6 @@ html.w-mod-js *[data-ix="display-none"] {
     padding-right: 15px;
     padding-left: 15px;
   }
-  .active-filters {
-    display: none;
-  }
   .results-view {
     height: 284px;
   }
@@ -680,9 +678,6 @@ html.w-mod-js *[data-ix="display-none"] {
     font-size: 32px;
     line-height: 34px;
     letter-spacing: -2px;
-  }
-  .reset-filters {
-    display: none;
   }
   .filter-headlines {
     overflow-x: hidden;

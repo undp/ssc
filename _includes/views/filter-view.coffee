@@ -2,8 +2,8 @@ class FilterView extends Backbone.View
   template: ->  _.template($('#filterView').html())
 
   events:
-    'click [data-ix="showhide-all-filters"]': '_showHideAllFilters'
-    'click [data-ix="showhide-filter-groups"]': '_showHideFilterGroup'
+    'click #filters': '_showHideAllFilters'
+    'click .filter-group': '_showHideFilterGroup'
     'click .group-item[data-active-filter="false"]': '_addFilter'
     'click .group-item[data-active-filter="true"]': '_removeFilter'
     'click .active-filter': '_removeFilter'
@@ -26,7 +26,7 @@ class FilterView extends Backbone.View
       activeFilters: @_prepareActiveFilters()
       collection: @collection
       filterGroups: filterGroups
-      searchResults: options?.searchResults
+      hasSearchResults: options?.hasSearchResults
     )
     @$el.html(compiled)
 
@@ -63,7 +63,7 @@ class FilterView extends Backbone.View
 
   _showFilterSearchResults: (results) =>
     @_receivedSearchResults = true
-    @render(searchResults: true, filterGroups: results) 
+    @render(hasSearchResults: true, filterGroups: results) 
 
   _hideFilterSearchResults: =>
     @render() if @_receivedSearchResults? # Render original filterGroups
