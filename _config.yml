@@ -10,6 +10,7 @@ exclude:
   - node_modules
   - Gulpfile.js
   - package.json
+  - 'api/projects.json'
 markdown: kramdown
 collections:
   ssc_projects:
