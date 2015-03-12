@@ -19,10 +19,3 @@ class Projects extends Backbone.Collection
       .flatten()
       .uniq()
       .value()
-
-  _projectsForLocation: (location) ->
-    return unless location?
-    location = location.toLowerCase()
-
-    @filter (project) ->
-      _.include(project.get('host_location'), location)
