@@ -17,7 +17,6 @@ class FilterView extends Backbone.View
     @listenTo @state, 'search:stopped', @_hideFilterSearchResults
 
     @listenTo @collection, 'reset', @render
-    @listenTo app.state, 'filters:changed', @render
 
     @render()
 
@@ -32,7 +31,7 @@ class FilterView extends Backbone.View
     @$el.html(compiled)
 
   _prepareActiveFilters: =>
-    _.map app.state.filterState, (filter) ->
+    _.map @state.get('filterState'), (filter) ->
       filter.long = app.filters.nameFromShort(filter.value)
       filter
 

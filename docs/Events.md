@@ -5,3 +5,4 @@
 ## Content
 `content:projectShow`
 `content:projectIndex`
+`content:viewMap`

@@ -4,8 +4,7 @@ class SearchView extends Backbone.View
   initialize: ->
     @state = app.state
 
-    @listenTo @state, 'filters:changed', @render # TODO: One of these is not needed
-    @listenTo @state, 'search:stopped', @render # TODO: One of these is not needed
+    @listenTo @state, 'change', @render # TODO: One of these is not needed
     @render()
 
   events: 
