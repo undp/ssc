@@ -8,35 +8,48 @@ INITIAL_VIEW_STATE = 'map' # TODO: @prod Ensure this is 'map'
 # 
 
 class StateModel extends Backbone.Model
+  defaults:
+    filterState : []
+    viewState   : INITIAL_VIEW_STATE
+    searchState : ''
+    modeState   : 'index'
+    projectId   : ''
+
   initialize: ->
     @listenTo @, 'state:reset', @_resetState
+    @listenTo @, 'all', @_someChange
     @_stateStore = new StateStore # Mixin/Utility class
-    @_resetState()
+
+
+  _someChange: (a,b,c) ->
+    console.log 'Some change: ', a,b,c
 
   writeStateToUrl: ->
 
   readStateFromUrl: ->
 
-    params = app.utils.getUrlParams()
-    if params.stateRef? # Try to find State from stores (local and remote)
-      options = 
-        facetName: facetName
-        facetValue: facetValue
-        stateRef: params.stateRef
-        viewState: params.viewState
+    # params = app.utils.getUrlParams()
+    # if params.stateRef? # Try to find State from stores (local and remote)
+    #   options = 
+    #     facetName: facetName
+    #     facetValue: facetValue
+    #     stateRef: params.stateRef
+    #     viewState: params.viewState
 
-      @retrieveStateData(options) 
+    #   @retrieveStateData(options) 
 
-    else if facetName and facetValue # Use given primary facet name and value
-      @clearFilters()
-      @addFilter(name: facetName, value: facetValue)
+    # else if facetName and facetValue # Use given primary facet name and value
+    #   @clearFilters()
+    #   @addFilter(name: facetName, value: facetValue)
 
-    else # Start from scratch
-      @clearFilters()
+    # else # Start from scratch
+    #   @clearFilters()
 
-  _resetState: ->
-    @set 'filterState', []
-    @set 'viewState', INITIAL_VIEW_STATE
+  _storeState: =>
+    @_stateStore.store()
+
+  _resetState: =>
+    @clear().set(@defaults)
 
   clearFilters: ->
     @collection.clearFilters()
@@ -44,33 +57,30 @@ class StateModel extends Backbone.Model
 
   addFilter: (options) =>
     {facetName, facetValue} = options
-
-    # return false unless @collection.facetAvailable(facetName, facetValue)
     throw "Can't add duplice Facet" if @_facetAlreadyActive(facetName, facetValue)
-
     @collection.addFilter(facetName, facetValue)
     @_addFilterState(facetName, facetValue)
 
   _addFilterState: (facetName, facetValue) -> # Triggers filters:changed
-    filterState = @get 'filterState'
-    @set 'filterState', filterState.push
+    stateClone = _.clone(@get('filterState'))
+    stateClone.push(
       name: facetName
       value: facetValue
-
+    )
     @_trackFilterActions('add', facetName, facetValue)
+    @set('filterState', stateClone)
 
   removeFilter: (options) ->
     {facetName, facetValue} = options
-
+    throw "Can't remove non-existent Facet" unless @_facetAlreadyActive(facetName, facetValue)
     @collection.removeFilter(facetName, facetValue)
     @_removeFilterState(facetName, facetValue)
 
   _removeFilterState: (facetName, facetValue) -> # Triggers filters:changed
-    throw "Can't remove non-existent Facet" unless foundFilter = @_facetAlreadyActive(facetName, facetValue)
+    foundFilter = @_facetAlreadyActive(facetName, facetValue)
 
-    @set 'filterState', _.without(@get('filterState'), foundFilter)
+    @set('filterState', _.without(@get('filterState'), foundFilter))
     @_trackFilterActions('remove', facetName, facetValue)
-    # @trigger 'filters:changed' unless !trigger
 
   _facetAlreadyActive: (facetName, facetValue) ->
     _.findWhere(@get('filterState'),
@@ -92,7 +102,4 @@ class StateModel extends Backbone.Model
       'filterValue': facetValue
       'filterType': filterType
     )
-
-  _storeState: =>
-    @_stateStore.store()
 

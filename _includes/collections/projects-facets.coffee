@@ -4,6 +4,10 @@ ProjectsFacets =
   initializeFacets: (options) ->
     @listenTo @, 'reset', @_initializeFacetr
 
+  _initializeFacetr: ->
+    @facetr ||= Facetr(@, 'projects')
+    @_addStandardFacets() unless (@_facets().length == @facetTypes.length)
+
   facetTypes: [
     'region'
     'territorial_focus'
@@ -14,18 +18,13 @@ ProjectsFacets =
   ]
 
   addFilter: (facetName, facetValue) ->
-
-    console.warn "TODO: Need to check facet is valid (esp. if country)"
-    @facetr.facet(options.facetName).value(options.facetValue, 'and')
+    @facetr.facet(facetName).value(facetValue, 'and')
 
   removeFilter: (facetName, facetValue) ->
     @facetr.facet(facetName).removeValue(facetValue)
     
-  clearFilters: -> # Triggers filters:changed
-    return if app.state.filterState.length is 0
-    app.state.trigger 'state:reset' # TODO: Coupling?
+  clearFilters: ->
     @facetr.clearValues()
-    # @trigger 'filters:changed'
 
   prepareFilterGroups: -> # TODO: This is for display, so could be in a Presenter
     @_sortFacetsByActiveCount()
@@ -35,20 +34,20 @@ ProjectsFacets =
       facet
     )
 
-  prepareFilterGroupForType: (type) ->
-    throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)
-    filterGroup = @_removeEmptyValuesFrom(@_facetsObject()[type])
+  prepareFilterGroupForType: (facetName) ->
+    throw 'Invalid filterGroup facetName given' unless _.include(@facetTypes, facetName)
+    filterGroup = @_removeEmptyValuesFrom(@_facetsObject()[facetName])
     # Convert values from short to long names
     _.map filterGroup, (filterItem) ->
       filterItem.long = app.filters.nameFromShort(filterItem.value)
       filterItem
 
-  projectCountForFacetValue: (type, value) ->
-    throw 'Invalid filterGroup type given' unless _.include(@facetTypes, type)
-    throw 'Invalid value' unless value?
+  projectCountForFacetValue: (facetName, facetValue) ->
+    throw 'Invalid filterGroup facetName given' unless _.include(@facetTypes, facetName)
+    throw 'Invalid facetValue' unless facetValue?
 
-    facet = @_facetsObject()[type]
-    _.findWhere(facet, {value: value.toLowerCase()})?.activeCount || 0
+    facet = @_facetsObject()[facetName]
+    _.findWhere(facet, {value: facetValue.toLowerCase()})?.activeCount || 0
 
   filterFacets: (searchTerm) ->
     return unless searchTerm?
@@ -65,16 +64,11 @@ ProjectsFacets =
   _searchByLongName: (term, facetsObject) ->
     new Backbone.Collection(app.filters.search(term)).pluck('short')
 
-  _initializeFacetr: ->
-    @facetr ||= Facetr(@, 'projects')
-    @_addStandardFacets() unless @_facets().length == @facetTypes.length
-
   _addStandardFacets: ->
     _.each @facetTypes, (type) =>
       @facetr.facet(type).desc()
 
-  _facets: -> # @facetr.toJSON()
-    @facetr.toJSON()
+  _facets: -> @facetr.toJSON()
 
   _facetsObject: ->
     _.object(
