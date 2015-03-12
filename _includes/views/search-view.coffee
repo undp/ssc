@@ -50,7 +50,6 @@ class SearchView extends Backbone.View
     @_searchTerm(searchTerm)
 
   _searchTerm: (searchTerm) =>
-    return unless searchTerm.length > 1
     @_searchFilters(searchTerm)
     @_searchProjects(searchTerm)
 
