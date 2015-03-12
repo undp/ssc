@@ -17,12 +17,7 @@ class StateModel extends Backbone.Model
 
   initialize: ->
     @listenTo @, 'state:reset', @_resetState
-    @listenTo @, 'all', @_someChange
     @_stateStore = new StateStore # Mixin/Utility class
-
-
-  _someChange: (a,b,c) ->
-    console.log 'Some change: ', a,b,c
 
   writeStateToUrl: ->
 
