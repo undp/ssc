@@ -12,7 +12,6 @@ class StateModel extends Backbone.Model
     filterState : []
     viewState   : INITIAL_VIEW_STATE
     searchTerm  : null
-    modeState   : 'index'
     projectId   : null
 
   initialize: ->
@@ -21,7 +20,7 @@ class StateModel extends Backbone.Model
     @_stateStore = new StateStore # Mixin/Utility class
 
   _storeOnChangeEvent: (eventType,b,c) ->
-    @_storeState() if (/change\:?.*/).test(eventType)
+    @_storeState() if (/change\:.*/).test(eventType)
 
   writeStateToUrl: ->
 
@@ -45,7 +44,6 @@ class StateModel extends Backbone.Model
     #   @clearFilters()
 
   _storeState: (ev) =>
-    console.log 'Check if anything changed before storing - possibly by checking event type', ev
     @_stateStore.store()
 
   _resetState: =>

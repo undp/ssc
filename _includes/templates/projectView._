@@ -1,4 +1,4 @@
-<div class=''>
+<div class="w-tabs content-tabs">
   <a class='backToResults'=>< Back to results</a>
   <h1><%= project.project_title %></h1>
   <ul>

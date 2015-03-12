@@ -1,6 +1,9 @@
 class ListView extends Backbone.View
   template: -> _.template($('#listView').html())
 
+  events:
+    'click .results-list-item': '_showProject'
+
   initialize: ->
     @state = app.state
 
@@ -14,6 +17,11 @@ class ListView extends Backbone.View
     compiled = @template()(collection: collectionToRender)
     @$el.html(compiled)
     @
+
+  _showProject: (ev) =>
+    ev.preventDefault()
+    projectId = ev.currentTarget.dataset?.projectId
+    @state.trigger 'content:projectShow', projectId
 
   _searchedAndFoundProjects: (results) =>
     @_receivedFoundProjects = true

@@ -1,6 +1,6 @@
 <div class="results-list">
   <% _.each(collection, function(project){ %>
-    <a href='#project/<%= project.project_id %>' class="w-clearfix w-inline-block results-list-item">
+    <a href='#project/<%= project.project_id %>' class="w-clearfix w-inline-block results-list-item" data-project-id='<%= project.project_id %>'>
       <div class="list-detail-icon"><img src="images/document blue.svg" width="100%" alt="54ef4c79c09fb76b2c4eb651_document%20blue.svg">
       </div>
       <div class="item-detail">

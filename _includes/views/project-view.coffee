@@ -9,6 +9,7 @@ class ProjectView extends Backbone.View
     'click .backToResults': '_backToResults'
 
   initialize: ->
+    @state = app.state
     _.template.partial.declare('filterItem', $('#partial-filterItem').html())
 
   render: ->
@@ -18,9 +19,9 @@ class ProjectView extends Backbone.View
     window.scrollTo(0,0)
     @
 
-  _backToResults: (ev) ->
+  _backToResults: (ev) =>
     ev.preventDefault()
-    app.router.back()
+    @state.trigger 'content:projectIndex'
 
   _filter: (ev) ->
     ev.preventDefault()

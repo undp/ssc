@@ -12,7 +12,6 @@ Router = Backbone.Router.extend
   
   # ROUTES
   _explorer: (action, value) ->
-    return @_projectShow(value) if action == 'project'
     return @_rootRoute() unless app.filters.validFilters(action, value)
 
     app.state.readStateFromUrl()

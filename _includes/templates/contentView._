@@ -1,4 +1,4 @@
-<div class="w-tabs content-tabs" data-duration-in="50" data-duration-out="50">
+<div class="w-tabs content-tabs">
   <div class="w-tab-menu tabs-menu">
     <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="map">
       <div>Map</div>
