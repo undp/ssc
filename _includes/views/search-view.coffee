@@ -9,7 +9,7 @@ class SearchView extends Backbone.View
   events: 
     'click .view-mode': '_prepareForSearch'
     'click .input-mode > .search-action-icon': '_cancelSearch'
-    'keyup .search-field-input': '_handleSearch'
+    'keyup .search-field-input': '_handleSearchInput'
     'keyup :input': '_checkForEscape'
 
   _checkForEscape: (e) ->
@@ -18,6 +18,7 @@ class SearchView extends Backbone.View
   render: ->
     compiled = @template()()
     @$el.html(compiled)
+    @state.set('_searchTerm', null) if @state.get('searchTerm')
 
   _prepareForSearch: (ev) =>
     ev.preventDefault()
@@ -42,9 +43,12 @@ class SearchView extends Backbone.View
     @$el.find('.input-mode').hide()
     @$el.find('.view-mode').show()
 
-  _handleSearch: (ev) =>
+  _handleSearchInput: (ev) =>
     searchTerm = ev?.currentTarget.value
     @state.set('searchTerm', searchTerm)
+    @_searchTerm(searchTerm)
+
+  _searchTerm: (searchTerm) =>
     return unless searchTerm.length > 1
     @_searchFilters(searchTerm)
     @_searchProjects(searchTerm)
@@ -67,4 +71,3 @@ class SearchView extends Backbone.View
   _valueObjectMatchesTerm: (valueObject, term) ->
       re = new RegExp(term, 'i')
       re.test valueObject.long
-
