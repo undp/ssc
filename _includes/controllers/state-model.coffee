@@ -20,7 +20,7 @@ class StateModel extends Backbone.Model
     @_stateStore = new StateStore(stateModel: @) # Mixin/Utility class
 
   _storeOnChangeEvent: (eventType,b,c) ->
-    @_storeState() if (/change\:.*/).test(eventType)
+    @_storeState() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
 
   writeStateToUrl: ->
 

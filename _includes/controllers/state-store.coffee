@@ -1,21 +1,40 @@
 class StateStore
   constructor: (options) ->
     throw 'Missing StateModel' unless options?.stateModel
-    {@stateModel} = options
+    @state = options.stateModel
+
+  _updateUrl: (options) ->
+    {replace} = options
+
+    facetName = @_primaryFacet()?.name
+    facetValue = @_primaryFacet()?.value
+    viewState = @state.get('viewState')
+    stateRef = @state.get('stateRef')
+
+    url = "#/"
+    url = "##{facetName}/#{facetValue}" if facetName? and facetValue?
+    url += "?viewState=#{viewState}" if facetName?
+    url += "&stateRef=#{stateRef}" if stateRef?
+    app.router.navigate(url, trigger: false, replace: replace)
+
+  _primaryFacet: ->
+    @state.get('filterState')[0]
 
   # 
   # STORE
   # 
-  store: ->
-    console.warn 'DEV: Storing disabled'
-    # return @_updateUrl() unless @StateModel? and @stateModel.filterState.length isnt 0
-    primaryFilter = _.first(stateObject.filterState)
-    stateRef = @_persistState(
-      filterState: stateObject.filterState
-      viewState: stateObject.viewState
-    )
+  store: =>
+    if @state.get('filterState').length > 0
+      stateRef = @_persistState(
+        filterState: @state.get('filterState')
+        viewState: @state.get('viewState')
+      )
+      console.log 'Stored at:', stateRef
+    else
+      stateRef = null
 
-    # @_updateUrl(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
+    @state.set('stateRef', stateRef)
+    @_updateUrl(replace: true)
 
   _persistState: (options) -> # Takes stateData, and returns stateRef
     {stateRef, filterState, viewState} = options
@@ -137,14 +156,4 @@ class StateStore
 
     return deferred.promise()
 
-  _updateUrl: (options) -> # options = {stateRef, facetName, facetValue, viewState}
-    return app.router.navigate() if !options?
 
-    {stateRef, facetName, facetValue, viewState} = options
-    viewState  ?= INITIAL_VIEW_STATE
-
-    url = ""
-    url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
-    url += "?viewState=#{viewState}"
-    url += "&stateRef=#{stateRef}" if stateRef?
-    app.router.navigate(url)
