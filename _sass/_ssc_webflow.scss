@@ -367,6 +367,7 @@ p {
 }
 .results-list-item {
   display: block;
+  min-height: 40px;
   padding: 8px;
   border-bottom: 1px solid #ebebeb;
   text-decoration: none;
@@ -548,6 +549,9 @@ p {
   color: #6b9cc9;
   font-size: 18px;
   text-align: center;
+}
+.project-id {
+  font-weight: 400;
 }
 html.w-mod-js *[data-ix="display-none"] {
   display: none;

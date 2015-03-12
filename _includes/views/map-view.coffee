@@ -71,7 +71,7 @@ class MapView extends Backbone.View
     country = @countries.iso3FromMapShort(code)
     @state.addFilter(facetName: 'host_location', facetValue: country.toLowerCase()) if country?
 
-    @_mapObject.resize()
+    # @_mapObject.resize()
     
   _deselectRegion: (code) =>
     @selectedRegionCode = ''

@@ -4,6 +4,7 @@ class SearchView extends Backbone.View
   initialize: ->
     @state = app.state
     @listenTo @state, 'search:start', @_activateSearch
+    @listenTo @state, 'change:filterState', @_cancelSearch
     @render()
 
   events: 

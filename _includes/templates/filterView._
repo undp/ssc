@@ -1,40 +1,43 @@
-<a href='#' class="w-clearfix w-inline-block control-section-title-block"  data-ix="showhide-all-filters">
-  <div class="title">Filter</div>
-  <img class="filters-disclose" src="images/down.svg" width="26" alt="54e7798d942b09583a0ebb69_down.svg">
-</a>
+<div class="filter-head-block">
+  <a href='#' class="w-clearfix w-inline-block control-section-title-block"  data-ix="showhide-all-filters">
+    <div class="title">Filter</div>
+    <img class="filters-disclose" src="images/down.svg" width="26" alt="54e7798d942b09583a0ebb69_down.svg">
+  </a>
 
-<% if(activeFilters.length != 0){ %>
+  <% if(activeFilters.length != 0){ %>
 
-  <div class="w-clearfix active-filters toggle-filter-controls">
-    <% _.each(activeFilters, function(filterItem){ %>
-      <a class="w-clearfix w-inline-block active-filter" href="#"
-        data-filter-name='<%= filterItem.name %>'
-        data-filter-value='<%= filterItem.value %>' 
-      >
-        <div class="filter-name"><%= filterItem.long %> </div>
-        <div class="close">x</div>
-      </a>
-    <% }) %>
-  </div>
-  
-  <a class="reset-filters toggle-filter-controls" href="#">Remove all filters</a>
-<% } %>
+    <div class="w-clearfix active-filters toggle-filter-controls">
+      <% _.each(activeFilters, function(filterItem){ %>
+        <a class="w-clearfix w-inline-block active-filter" href="#"
+          data-filter-name='<%= filterItem.name %>'
+          data-filter-value='<%= filterItem.value %>' 
+        >
+          <div class="filter-name"><%= filterItem.long %> </div>
+          <div class="close">x</div>
+        </a>
+      <% }) %>
+    </div>
+    
+    <a class="reset-filters toggle-filter-controls" href="#">Remove all filters</a>
+  <% } %>
+</div>
 
 <div class="filters toggle-filter-controls" id="filters" data-search-results='<%= searchResults %>'>
 
   <% _.each(filterGroups, function(filterGroup){ %>
   <div class="filter-group">
     <a href='#' class="group-title" data-ix="showhide-filter-groups"><%= s.humanize(filterGroup.data.name) %></a>
-    <% _.each(filterGroup.values, function(filterItem){ %>
-      <a href='#' class="w-clearfix w-inline-block group-item" 
-        data-active-filter='<%= filterItem.active %>'
-        data-filter-name='<%= filterGroup.data.name %>'
-        data-filter-value='<%= filterItem.value %>'>
-        <div class="item-text"><%= filterItem.long %></div>
-        <div class="item-count"><%= filterItem.activeCount %></div>
-      </a>
-      <% }) %>
+    <div class="group-items">
+      <% _.each(filterGroup.values, function(filterItem){ %>
+        <a href='#' class="w-clearfix w-inline-block group-item" 
+          data-active-filter='<%= filterItem.active %>'
+          data-filter-name='<%= filterGroup.data.name %>'
+          data-filter-value='<%= filterItem.value %>'>
+          <div class="item-text"><%= filterItem.long %></div>
+          <div class="item-count"><%= filterItem.activeCount %></div>
+        </a>
+        <% }) %>
+      </div>
   </div>
   <% }) %>
 </div>
-
