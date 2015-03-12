@@ -27,7 +27,8 @@ class ProjectView extends Backbone.View
     data = ev.target.dataset
     console.log "Show all: filtering type #{data.filterName} for value #{data.filterValue}"
 
-  _triggerIframeResize: ->
+  _triggerIframeResize: (ev) ->
+    ev.preventDefault()
     if doc = document.getElementById('project_iframe')
       newheight = doc.contentWindow.document.body.scrollHeight
       doc.height= (newheight) + "px"

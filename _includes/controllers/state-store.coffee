@@ -1,6 +1,6 @@
 class StateStore
 
-  storeStateData: (stateObject) -> # Listens to 'filter:add' and 'filter:remove' events
+  store: (stateObject) -> # Listens to 'filter:add' and 'filter:remove' events
     return @_rebuildURL() unless stateObject? and stateObject.filterState.length isnt 0
     primaryFilter = _.first(stateObject.filterState)
     stateRef = @_persistState(
@@ -10,7 +10,7 @@ class StateStore
 
     @_rebuildURL(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
 
-  retrieveStateData: (options) -> # options = {stateRef, facetName, facetValue, viewState, observedCollection}
+  retrieve: (options) -> # options = {stateRef, facetName, facetValue, viewState, observedCollection}
     {stateRef, facetName, facetValue, viewState} = options
 
     unless app.utils.validPUID(stateRef)
@@ -76,7 +76,7 @@ class StateStore
 
     _.each filterState, (filter) =>
       observedCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
-    # app.state.trigger 'filters:changed' # TODO: Coupling - causes feedback loops and resetting of filterRef?
+
 
   _rebuildURL: (options) -> # options = {stateRef, facetName, facetValue, viewState}
     return app.router.navigate() if !options?

@@ -2,10 +2,12 @@ class ListView extends Backbone.View
   template: -> _.template($('#listView').html())
 
   initialize: ->
-    @listenTo @collection, 'reset', @render
-    @listenTo @collection, 'search:foundProjects', @_searchedAndFoundProjects
-    @listenTo @collection, 'search:stopped', @_hideFoundProjects
+    @state = app.state
 
+    @listenTo @collection, 'reset', @render
+    
+    @listenTo @state, 'search:foundProjects', @_searchedAndFoundProjects
+    @listenTo @state, 'search:stopped', @_hideFoundProjects
   
   render: (options) ->
     collectionToRender = options?.collection || @collection.toJSON()

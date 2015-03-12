@@ -13,31 +13,19 @@ ProjectsFacets =
     'host_location'
   ]
 
-  addFilter: (options) ->
-    {name, value, trigger} = options
-    trigger ?= true
+  addFilter: (facetName, facetValue) ->
 
-    if app.state.addFilterState(name, value, trigger)
-      console.warn "TODO: Need to check facet is valid (esp. if country)"
-      @facetr.facet(name).value(value, 'and')
-    else
-      return "Can't add duplicate Facet" 
+    console.warn "TODO: Need to check facet is valid (esp. if country)"
+    @facetr.facet(options.facetName).value(options.facetValue, 'and')
 
-  removeFilter: (options) ->
-    {name, value, trigger} = options
-    trigger ?= true
-
-    if app.state.removeFilterState(name, value, trigger)
-
-      @facetr.facet(name).removeValue(value)
-    else # TODO: Check value if valid for facet, i.e. is it an active filter?
-      return "Can't remove non-existent Facet" 
+  removeFilter: (facetName, facetValue) ->
+    @facetr.facet(facetName).removeValue(facetValue)
     
-  clearFilters: -> # Triggers filters:reset
+  clearFilters: -> # Triggers filters:changed
     return if app.state.filterState.length is 0
-    app.state.resetState() # TODO: Coupling?
+    app.state.trigger 'state:reset' # TODO: Coupling?
     @facetr.clearValues()
-    @trigger 'filters:changed'
+    # @trigger 'filters:changed'
 
   prepareFilterGroups: -> # TODO: This is for display, so could be in a Presenter
     @_sortFacetsByActiveCount()

@@ -11,11 +11,11 @@ app = window.app = {}
 {% include collections/filters.coffee %}
 {% include collections/map-countries.coffee %}
 {% include collections/projects.coffee %}
-{% include collections/projects-facets.coffee %} # Mixin
+{% include collections/projects-facets.coffee %} # Mixin on Projects Collection
 
 # Controllers and ViewModels
 {% include controllers/state-model.coffee %}
-{% include controllers/state-store.coffee %} # Mixin
+{% include controllers/state-store.coffee %} # Mixin on StateModel
 
 # Views
 {% include views/project-view.coffee %}
@@ -43,6 +43,6 @@ $(document).ready ->
   app.projects.fetch
     reset: true
     success: (collection) ->
-      app.state = new StateModel(collection: collection)
+      app.state = new StateModel({}, collection: collection)
       app.router = new Router()
       Backbone.history.start()

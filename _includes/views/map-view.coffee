@@ -1,8 +1,10 @@
 class MapView extends Backbone.View
 
   initialize: ->
+    @state = app.state
+
     @listenTo @collection, 'reset', @render
-    @listenTo app.state, 'filters:changed', @render
+    @listenTo @state, 'filters:changed', @render
 
     # `preloadData` is bootstrapped into index.html
     @countries = new MapCountries(preloadData.countries) 

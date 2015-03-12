@@ -13,10 +13,10 @@ class ContentView extends Backbone.View
       list  : new ListView(el: @$el.find('.tab-content[data-w-tab="list"]'), collection: @collection)
 
   render: ->
-    compiled = @template()(collection: @collection.toJSON())
+    compiled = @template()()
     @$el.html(compiled)
 
-    _.defer => @_renderChildViews() # TODO: Replace defer until contentView rendered for event bindings
+    _.defer => @_renderChildViews() # TODO: Replace `defer` until contentView rendered, but keep event bindings
 
     activeTab = app.state.viewState
     @_setActiveTab(activeTab)

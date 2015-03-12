@@ -11,8 +11,10 @@ class FilterView extends Backbone.View
 
 
   initialize:  () ->
-    @listenTo @collection, 'search:foundFilters', @_showFilterSearchResults
-    @listenTo @collection, 'search:stopped', @_hideFilterSearchResults
+    @state = app.state
+
+    @listenTo @state, 'search:foundFilters', @_showFilterSearchResults
+    @listenTo @state, 'search:stopped', @_hideFilterSearchResults
 
     @listenTo @collection, 'reset', @render
     @listenTo app.state, 'filters:changed', @render
@@ -49,12 +51,12 @@ class FilterView extends Backbone.View
   _addFilter: (ev) =>
     ev.preventDefault()
     data = ev.currentTarget.dataset
-    @collection.addFilter(name: data.filterName, value: data.filterValue)
+    @state.addFilter(facetName: data.filterName, facetValue: data.filterValue)
 
   _removeFilter: (ev) =>
     ev.preventDefault()
     data = ev.currentTarget.dataset
-    @collection.removeFilter(name: data.filterName, value: data.filterValue)
+    @state.removeFilter(name: data.filterName, value: data.filterValue)
 
   _resetFilters: (ev) =>
     ev.preventDefault()

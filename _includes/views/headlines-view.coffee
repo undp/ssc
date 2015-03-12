@@ -19,7 +19,7 @@ class HeadlinesView extends Backbone.View
     @
 
   _calculateStats: ->
-    filterState = app.state.filterState
+    filterState = app.state.get('filterState')
 
     activeCountriesCount: 
       @collection.prepareFilterGroupForType('host_location').length

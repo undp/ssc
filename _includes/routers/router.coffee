@@ -2,51 +2,24 @@ Router = Backbone.Router.extend
   initialize: ->
     @$appEl ||= $("#app")
 
-    # Keep count of number of routes handled by your application
-    @routesHit = 0
-    Backbone.history.on 'route', (-> @routesHit++), @
+    @_routesHit = 0
+    Backbone.history.on 'route', (-> @_routesHit++), @ # TODO: Still needed if handling ProjectShow as a view not a page?
 
   routes:
-    ''                       : '_explorer'
-    'admin'                  : '_admin'
+    ''               : '_explorer'
+    'admin'          : '_admin'
     ':action/:value' : '_explorer'
   
-  back: ->
-    if @routesHit > 1 # User did not land directly on current page
-      window.history.back()
-    else
-      @navigate '', trigger: true, replace: true
-    return
+
 
   # ROUTES
   _explorer: (action, value) ->
-    return @_project(value) if action == 'project'
+    return @_projectShow(value) if action == 'project'
     return @_rootRoute() unless app.filters.validFilters(action, value)
 
-    params = app.utils.getUrlParams()
+    app.state.readStateFromUrl()
 
-    if params.stateRef? # Try to find State from stores (local and remote)
-      options = 
-        facetName: facetName
-        facetValue: facetValue
-        stateRef: params.stateRef
-        viewState: params.viewState
-
-      app.state.retrieveStateData(options) 
-
-    else if facetName and facetValue # Use given primary facet name and value
-      app.projects.clearFilters()
-      app.projects.addFilter(name: facetName, value: facetValue)
-
-    else # Start from scratch
-      app.projects.clearFilters()
-
-    view = new ExplorerView(collection: app.projects)
-    @_switchView(view)
-
-  _project: (id) ->
-    project = app.projects.get(id)
-    view = new ProjectView(model: project)
+    view = new ExplorerView
     @_switchView(view)
 
   _admin: ->
@@ -62,3 +35,10 @@ Router = Backbone.Router.extend
     @view.render()
     @$appEl.html(@view.$el)
 
+  # Back simpler
+  back: ->
+    if @_routesHit > 1 # User did not land directly on current page
+      window.history.back()
+    else
+      console.log 'Check for a state in the URL, else -> _rootRoute'
+      @navigate '', trigger: true, replace: true
