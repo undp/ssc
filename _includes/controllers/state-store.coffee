@@ -1,51 +1,38 @@
 class StateStore
+  constructor: (options) ->
+    throw 'Missing StateModel' unless options?.stateModel
+    @state = options.stateModel
 
-  store: (stateObject) -> # Listens to 'filter:add' and 'filter:remove' events
-    console.warn 'DEV: Storing disabled'
-    return @_rebuildURL() unless stateObject? and stateObject.filterState.length isnt 0
-    primaryFilter = _.first(stateObject.filterState)
-    stateRef = @_persistState(
-      filterState: stateObject.filterState
-      viewState: stateObject.viewState
-    ) 
+  _updateUrl: ->
+    facetName = @_primaryFacet()?.name
+    facetValue = @_primaryFacet()?.value
+    viewState = @state.get('viewState')
+    stateRef = @state.get('stateRef')
 
-    @_rebuildURL(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
+    url = "#/"
+    url = "##{facetName}/#{facetValue}" if facetName? and facetValue?
+    url += "?viewState=#{viewState}" if facetName?
+    url += "&stateRef=#{stateRef}" if stateRef?
+    app.router.navigate(url, trigger: false)
 
-  retrieve: (options) -> # options = {stateRef, facetName, facetValue, viewState, observedCollection}
-    console.warn 'DEV: Retrieving disabled'
-    {stateRef, facetName, facetValue, viewState} = options
+  _primaryFacet: ->
+    @state.get('filterState')[0]
 
-    unless app.utils.validPUID(stateRef)
-      options.stateRef = null
-      options.filterState = [name: facetName, value: facetValue]
-
-      newStateRef = @_persistState(options) # Pass null stateRef, _persistState returns new ref
-      options.stateRef = newStateRef
-      options.viewState ?= INITIAL_VIEW_STATE
-
-      @_restoreState(options)
-
-    # Search locally
-    if (retrievedData = @_findLocal(options))
-      options.filterState = retrievedData.filterState
-      options.viewState = retrievedData.viewState
-      @_restoreState(options)
-    else # Else search remote
-      deferred = $.Deferred()
-
-      @_getRemoteFilterState(
-        stateRef: stateRef
-        deferred: deferred
-      ).done( (retrievedData) =>
-        options.filterState = retrievedData.filterState
-        options.viewState = retrievedData.viewState
-        @_saveStateLocal(options)
-        @_restoreState(options)
-      ).fail( => 
-        console.info 'Failed to retrieve filterState from remote service'
-        options.stateRef = null
-        @_rebuildURL(options)
+  # 
+  # STORE
+  # 
+  store: =>
+    if @state.get('filterState').length > 0
+      stateRef = @_persistState(
+        filterState: @state.get('filterState')
+        viewState: @state.get('viewState')
       )
+      console.log 'Stored at:', stateRef
+    else
+      stateRef = null
+
+    @state.set('stateRef', stateRef)
+    @_updateUrl()
 
   _persistState: (options) -> # Takes stateData, and returns stateRef
     {stateRef, filterState, viewState} = options
@@ -56,46 +43,6 @@ class StateStore
     
     return stateRef
 
-  _findLocal: (options) ->
-    retrieved = localStorage.getItem(options.stateRef)
-
-    if retrieved?
-      return JSON.parse(retrieved)
-    else
-      return false
-
-  # 
-  # Recreate state and rebuild URL
-  # 
-  _restoreState: (options) -> # options = {stateRef, facetName, facetValue, observedCollection}
-    @_restoreFilters(options)
-    @_rebuildURL(options)
-
-  _restoreFilters: (options) ->
-    {filterState, observedCollection} = options
-    return 'No filterState provided' unless filterState? 
-    return 'No observedCollection provided' unless observedCollection?
-
-    _.each filterState, (filter) =>
-      observedCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
-
-
-  _rebuildURL: (options) -> # options = {stateRef, facetName, facetValue, viewState}
-    return app.router.navigate() if !options?
-
-    {stateRef, facetName, facetValue, viewState} = options
-    viewState  ?= INITIAL_VIEW_STATE
-
-    url = ""
-    url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
-    url += "?viewState=#{viewState}"
-    url += "&stateRef=#{stateRef}" if stateRef?
-    app.router.navigate(url)
-
-  # 
-  # FilterState stores
-  # 
-
   _saveStateLocal: (options) -> # options = {stateRef, filterState}
     {stateRef, filterState, viewState} = options
 
@@ -104,8 +51,6 @@ class StateStore
       viewState: viewState
     localStorage.setItem(stateRef, JSON.stringify(data))
   
-  # Takes stateRef and filterState
-  # Succeeds/fails without needing to inform user
   _saveStateRemote: (options) => # options = {stateRef, filterState}
     {stateRef, filterState, viewState} = options
 
@@ -127,11 +72,41 @@ class StateStore
         console.info("Posting filterState to remote store unsuccessful")
     )
 
-  # Takes stateRef. 
-  # Resolves with first filterState
-  _getRemoteFilterState: (options) -> # options = {stateRef, deferred}
-    {stateRef, deferred} = options
+  # 
+  # RETRIEVE
+  # 
+  restore: (stateRef, fallbackOptions) =>
+    retriever = new Retriever
+    retrievedState = retriever.find(stateRef)
+    if retrievedState?
+      console.log 'found', retrievedState
+      @state.setState(retrievedState)
+    else
+      console.log 'no state found for', params.stateRef
+      @state.resetState()
 
+class Retriever
+  find: (stateRef) ->
+    foundLocal = @_findLocal(stateRef)
+    if foundLocal
+      return foundLocal
+    else
+      @_findRemote(stateRef)
+        .then(
+          console.log 'found remote'
+          (data) -> return data
+        )
+
+  _findLocal: (stateRef) ->
+    retrieved = localStorage.getItem(stateRef)
+
+    if retrieved?
+      return JSON.parse(retrieved)
+    else
+      return false
+
+  _findRemote: (stateRef) ->
+    deferred = $.Deferred()
     $.ajax(
       url: API_URL
       type: "GET"
@@ -151,4 +126,5 @@ class StateStore
     )
 
     return deferred.promise()
+
 

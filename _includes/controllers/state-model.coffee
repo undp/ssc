@@ -15,49 +15,51 @@ class StateModel extends Backbone.Model
     projectId   : null
 
   initialize: ->
-    @listenTo @, 'state:reset', @_resetState
     @listenTo @, 'all', @_storeOnChangeEvent
-    @_stateStore = new StateStore # Mixin/Utility class
+    @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
-  _storeOnChangeEvent: (eventType,b,c) ->
-    @_storeState() if (/change\:.*/).test(eventType)
+  _storeOnChangeEvent: (eventType) ->
+    @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
 
-  writeStateToUrl: ->
+  restoreStateFromUrl: (fallbackOptions) ->
+    params = app.utils.getUrlParams()
+    if params.stateRef?
+      console.log 'have stateRef to hunt for:', params.stateRef
+      @_store.restore(params.stateRef, fallbackOptions)
+    else if @_restoreStateFromFallback(fallbackOptions)
+      console.log 'no stateRef to hunt for'
+    else
+      console.log 'start from scratch - invalid params'
 
-  readStateFromUrl: ->
-    console.log 'DEV: Reading URL disabled'
-    # params = app.utils.getUrlParams()
-    # if params.stateRef? # Try to find State from stores (local and remote)
-    #   options = 
-    #     facetName: facetName
-    #     facetValue: facetValue
-    #     stateRef: params.stateRef
-    #     viewState: params.viewState
+  _restoreStateFromFallback: (fallbackOptions) ->
+    {fallbackAction, fallbackValue} = fallbackOptions
+    return false unless app.filters.validFilter(fallbackAction, fallbackValue)
+    app.router.navigate ''
+  # 
+  # MANAGE STATE ATTRIBUTES (other than FILTERS)
+  # 
 
-    #   @retrieveStateData(options) 
+  resetState: (stateObject) =>
+    @clear(silent:true).set(@defaults)
 
-    # else if facetName and facetValue # Use given primary facet name and value
-    #   @clearFilters()
-    #   @addFilter(name: facetName, value: facetValue)
-
-    # else # Start from scratch
-    #   @clearFilters()
-
-  _storeState: (ev) =>
-    @_stateStore.store()
-
-  _resetState: =>
-    @clear().set(@defaults)
-
-  clearFilters: ->
-    @set 'filterState', []
-    @collection.clearFilters()
+  setState: (stateObject) ->
+    console.log 'found', stateObject
+    state = _.extend @defaults, stateObject
+    @clear(silent:true).set(state, silent:true)
 
   setContentView: (view) =>
     @set 'viewState', view
 
   setProjectShowId: (projectId) =>
     @set 'projectId', projectId
+
+  # 
+  # MANAGE FILTERS
+  # 
+
+  clearFilters: ->
+    @set 'filterState', []
+    @collection.clearFilters()
 
   addFilter: (options) =>
     {facetName, facetValue} = options

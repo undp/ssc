@@ -6,7 +6,7 @@ class Filters extends Backbone.Collection
     @_addIndices(preloadData.indices)
     @_addCountries(preloadData.countries)
 
-  validFilters: (filterName, filterValue) ->
+  validFilter: (filterName, filterValue) ->
     return true unless filterName? and filterValue?
     
     new Backbone.Collection(
