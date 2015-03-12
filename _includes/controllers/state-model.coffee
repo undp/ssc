@@ -18,6 +18,9 @@ class StateModel extends Backbone.Model
     @listenTo @, 'all', @_storeOnChangeEvent
     @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
+  isValid: (state) -> # Receive object
+    true # TODO: Add a tiny bit more logic here.
+
   _storeOnChangeEvent: (eventType) ->
     @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
 
@@ -44,8 +47,9 @@ class StateModel extends Backbone.Model
 
   setState: (stateObject) ->
     console.log 'found', stateObject
-    state = _.extend @defaults, stateObject
-    @clear(silent:true).set(state, silent:true)
+    state = _.pick(stateObject, ['viewState', 'searchTerm', 'projectId'])
+    @clear(silent:true).set(state, silent: true)
+    @_setFilters(stateObject.filterState) if stateObject.filterState?
 
   setContentView: (view) =>
     @set 'viewState', view
@@ -57,36 +61,42 @@ class StateModel extends Backbone.Model
   # MANAGE FILTERS
   # 
 
+  _setFilters: (filterArray) ->
+    _.each filterArray, (filter) =>
+      @addFilter({facetName: filter.name, facetValue: filter.value}, trigger: false)
+
   clearFilters: ->
     @set 'filterState', []
     @collection.clearFilters()
 
   addFilter: (options) =>
     {facetName, facetValue} = options
-    throw "Can't add duplice Facet" if @_facetAlreadyActive(facetName, facetValue)
+    trigger = options.trigger? || true
+    throw "Can't add duplicate Facet" if @_facetAlreadyActive(facetName, facetValue)
     @_addFilterState(facetName, facetValue)
-    @collection.addFilter(facetName, facetValue)
+    @collection.addFilter(facetName, facetValue, trigger: trigger)
+    @_trackFilterActions('add', facetName, facetValue) if trigger
 
   _addFilterState: (facetName, facetValue) ->
-    stateClone = _.clone(@get('filterState'))
+    stateClone = _.clone(@get('filterState')) || []
     stateClone.push(
       name: facetName
       value: facetValue
     )
-    @_trackFilterActions('add', facetName, facetValue)
     @set('filterState', stateClone)
 
   removeFilter: (options) ->
     {facetName, facetValue} = options
+    trigger = options.trigger? || true
     throw "Can't remove non-existent Facet" unless @_facetAlreadyActive(facetName, facetValue)
     @_removeFilterState(facetName, facetValue)
     @collection.removeFilter(facetName, facetValue)
+    @_trackFilterActions('remove', facetName, facetValue) if trigger
 
   _removeFilterState: (facetName, facetValue) ->
     foundFilter = @_facetAlreadyActive(facetName, facetValue)
 
     @set('filterState', _.without(@get('filterState'), foundFilter))
-    @_trackFilterActions('remove', facetName, facetValue)
 
   _facetAlreadyActive: (facetName, facetValue) ->
     _.findWhere(@get('filterState'),

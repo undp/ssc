@@ -22,12 +22,11 @@ class StateStore
   # STORE
   # 
   store: =>
-    if @state.get('filterState').length > 0
+    if @state.get('filterState').length > 0 and @state.isValid(@state.toJSON())
       stateRef = @_persistState(
         filterState: @state.get('filterState')
         viewState: @state.get('viewState')
       )
-      console.log 'Stored at:', stateRef
     else
       stateRef = null
 
@@ -78,12 +77,12 @@ class StateStore
   restore: (stateRef, fallbackOptions) =>
     retriever = new Retriever
     retrievedState = retriever.find(stateRef)
-    if retrievedState?
-      console.log 'found', retrievedState
-      @state.setState(retrievedState)
-    else
-      console.log 'no state found for', params.stateRef
-      @state.resetState()
+
+    if retrievedState? and @state.isValid(retrievedState)
+      return @state.setState(retrievedState)
+
+    console.log 'no state found for', params.stateRef
+    @state.resetState()
 
 class Retriever
   find: (stateRef) ->
