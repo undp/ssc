@@ -3,7 +3,7 @@ class StateStore
     throw 'Missing StateModel' unless options?.stateModel
     @state = options.stateModel
 
-  _updateUrl: (options) ->
+  _updateUrl: ->
     facetName = @_primaryFacet()?.name
     facetValue = @_primaryFacet()?.value
     viewState = @state.get('viewState')
@@ -75,65 +75,38 @@ class StateStore
   # 
   # RETRIEVE
   # 
-  retrieve: (options) -> # options = {stateRef, facetName, facetValue, viewState, observedCollection}
-    console.warn 'DEV: Retrieving disabled'
-    {stateRef, facetName, facetValue, viewState} = options
+  restore: (stateRef, fallbackOptions) =>
+    retriever = new Retriever
+    retrievedState = retriever.find(stateRef)
+    if retrievedState?
+      console.log 'found', retrievedState
+      @state.setState(retrievedState)
+    else
+      console.log 'no state found for', params.stateRef
+      @state.resetState()
 
-    unless app.utils.validPUID(stateRef)
-      options.stateRef = null
-      options.filterState = [name: facetName, value: facetValue]
+class Retriever
+  find: (stateRef) ->
+    foundLocal = @_findLocal(stateRef)
+    if foundLocal
+      return foundLocal
+    else
+      @_findRemote(stateRef)
+        .then(
+          console.log 'found remote'
+          (data) -> return data
+        )
 
-      newStateRef = @_persistState(options) # Pass null stateRef, _persistState returns new ref
-      options.stateRef = newStateRef
-      options.viewState ?= INITIAL_VIEW_STATE
-
-      @_restoreState(options)
-
-    # Search locally
-    if (retrievedData = @_findLocal(options))
-      options.filterState = retrievedData.filterState
-      options.viewState = retrievedData.viewState
-      @_restoreState(options)
-    else # Else search remote
-      deferred = $.Deferred()
-
-      @_getRemoteFilterState(
-        stateRef: stateRef
-        deferred: deferred
-      ).done( (retrievedData) =>
-        options.filterState = retrievedData.filterState
-        options.viewState = retrievedData.viewState
-        @_saveStateLocal(options)
-        @_restoreState(options)
-      ).fail( => 
-        console.info 'Failed to retrieve filterState from remote service'
-        options.stateRef = null
-        @_updateUrl(options)
-      )
-
-  _restoreState: (options) -> # options = {stateRef, facetName, facetValue, observedCollection}
-    @_restoreFilters(options)
-    @_updateUrl(options)
-
-  _restoreFilters: (options) ->
-    {filterState, observedCollection} = options
-    return 'No filterState provided' unless filterState? 
-    return 'No observedCollection provided' unless observedCollection?
-
-    _.each filterState, (filter) =>
-      observedCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
-
-  _findLocal: (options) ->
-    retrieved = localStorage.getItem(options.stateRef)
+  _findLocal: (stateRef) ->
+    retrieved = localStorage.getItem(stateRef)
 
     if retrieved?
       return JSON.parse(retrieved)
     else
       return false
 
-  _getRemoteFilterState: (options) -> # options = {stateRef, deferred}
-    {stateRef, deferred} = options
-
+  _findRemote: (stateRef) ->
+    deferred = $.Deferred()
     $.ajax(
       url: API_URL
       type: "GET"

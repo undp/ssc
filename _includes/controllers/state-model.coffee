@@ -18,36 +18,34 @@ class StateModel extends Backbone.Model
     @listenTo @, 'all', @_storeOnChangeEvent
     @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
-  _storeOnChangeEvent: (eventType,b,c) ->
+  _storeOnChangeEvent: (eventType) ->
     @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
 
-  readStateFromUrl: ->
-    console.log 'DEV: Reading URL disabled'
-    # params = app.utils.getUrlParams()
-    # if params.stateRef? # Try to find State from stores (local and remote)
-    #   options = 
-    #     facetName: facetName
-    #     facetValue: facetValue
-    #     stateRef: params.stateRef
-    #     viewState: params.viewState
+  restoreStateFromUrl: (fallbackOptions) ->
+    params = app.utils.getUrlParams()
+    if params.stateRef?
+      console.log 'have stateRef to hunt for:', params.stateRef
+      @_store.restore(params.stateRef, fallbackOptions)
+    else if @_restoreStateFromFallback(fallbackOptions)
+      console.log 'no stateRef to hunt for'
+    else
+      console.log 'start from scratch - invalid params'
 
-    #   @retrieveStateData(options) 
-
-    # else if facetName and facetValue # Use given primary facet name and value
-    #   @clearFilters()
-    #   @addFilter(name: facetName, value: facetValue)
-
-    # else # Start from scratch
-    #   @clearFilters()
-
-
-
+  _restoreStateFromFallback: (fallbackOptions) ->
+    {fallbackAction, fallbackValue} = fallbackOptions
+    return false unless app.filters.validFilter(fallbackAction, fallbackValue)
+    app.router.navigate ''
   # 
   # MANAGE STATE ATTRIBUTES (other than FILTERS)
   # 
 
-  _resetState: => # TODO: Remove unused
-    @clear().set(@defaults)
+  resetState: (stateObject) =>
+    @clear(silent:true).set(@defaults)
+
+  setState: (stateObject) ->
+    console.log 'found', stateObject
+    state = _.extend @defaults, stateObject
+    @clear(silent:true).set(state)
 
   setContentView: (view) =>
     @set 'viewState', view

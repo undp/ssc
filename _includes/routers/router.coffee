@@ -12,9 +12,9 @@ Router = Backbone.Router.extend
   
   # ROUTES
   _explorer: (action, value) ->
-    return @_rootRoute() unless app.filters.validFilters(action, value)
+    return @_rootRoute() unless app.filters.validFilter(action, value)
 
-    app.state.readStateFromUrl()
+    app.state.restoreStateFromUrl(fallbackAction: action, fallbackValue: value)
 
     view = new ExplorerView(collection: app.projects)
     @_switchView(view)
