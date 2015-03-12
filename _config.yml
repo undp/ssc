@@ -10,7 +10,8 @@ exclude:
   - node_modules
   - Gulpfile.js
   - package.json
-  - 'api/projects.json'
+  - api # TODO: @prod Restore
+  - _ssc_projects # TODO: @prod Restore
 markdown: kramdown
 collections:
   ssc_projects:
