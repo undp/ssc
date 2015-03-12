@@ -9,6 +9,8 @@ class ContentView extends Backbone.View
 
     @listenTo @state, 'search:foundProjects', @_displayProjectSearchResults
     @listenTo @state, 'search:stopped', @_restoreToPreviousView
+
+    @_setupMouseTrap()
     @render()
 
     @childViews =
@@ -38,6 +40,9 @@ class ContentView extends Backbone.View
   _selectTabLink: (ev) =>
     ev.preventDefault()
     tab = ev.currentTarget.getAttribute('data-w-tab')
+    @_saveStateAndSetActiveTab(tab)
+
+  _saveStateAndSetActiveTab: (tab) =>
     @state.setContentView tab
     @_setActiveTab(tab)
 
@@ -60,4 +65,14 @@ class ContentView extends Backbone.View
   _restoreToPreviousView: =>
     activeTab = @state.get('viewState')
     @_setActiveTab(activeTab)
+
+  _setupMouseTrap: ->
+    Mousetrap.bind '/', => 
+      @state.trigger 'search:start'
+      false
+    Mousetrap.bind 'm', => @_saveStateAndSetActiveTab('map')
+    Mousetrap.bind 's', => @_saveStateAndSetActiveTab('stats')
+    Mousetrap.bind 'l', => @_saveStateAndSetActiveTab('list')
+    Mousetrap.bind 'r', => @state.clearFilters()
+
 

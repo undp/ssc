@@ -1,5 +1,6 @@
 
 ## Search
+`search:start`
 `search:stopped`
 `search:foundFilters`
 `search:foundProjects`
