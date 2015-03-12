@@ -74,5 +74,3 @@ class ContentView extends Backbone.View
     Mousetrap.bind 's', => @_saveStateAndSetActiveTab('stats')
     Mousetrap.bind 'l', => @_saveStateAndSetActiveTab('list')
     Mousetrap.bind 'r', => @state.clearFilters()
-
-
