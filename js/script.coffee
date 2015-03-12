@@ -14,7 +14,7 @@ app = window.app = {}
 {% include collections/projects-facets.coffee %} # Mixin
 
 # Controllers and ViewModels
-{% include controllers/explorer-state-model.coffee %}
+{% include controllers/state-model.coffee %}
 {% include controllers/state-store.coffee %} # Mixin
 
 # Views
@@ -43,6 +43,6 @@ $(document).ready ->
   app.projects.fetch
     reset: true
     success: (collection) ->
-      app.state = new ExplorerStateModel(collection: collection)
+      app.state = new StateModel(collection: collection)
       app.router = new Router()
       Backbone.history.start()
