@@ -9,7 +9,7 @@ Router = Backbone.Router.extend
   routes:
     ''                       : '_explorer'
     'admin'                  : '_admin'
-    ':facetName/:facetValue' : '_explorer'
+    ':action/:value' : '_explorer'
   
   back: ->
     if @routesHit > 1 # User did not land directly on current page
@@ -19,9 +19,9 @@ Router = Backbone.Router.extend
     return
 
   # ROUTES
-  _explorer: (facetName, facetValue) ->
-    return @_project(facetValue) if facetName == 'project'
-    return @_rootRoute() unless app.filters.validFilters(facetName, facetValue)
+  _explorer: (action, value) ->
+    return @_project(value) if action == 'project'
+    return @_rootRoute() unless app.filters.validFilters(action, value)
 
     params = app.utils.getUrlParams()
 
