@@ -45,7 +45,7 @@ class StateModel extends Backbone.Model
   setState: (stateObject) ->
     console.log 'found', stateObject
     state = _.extend @defaults, stateObject
-    @clear(silent:true).set(state)
+    @clear(silent:true).set(state, silent:true)
 
   setContentView: (view) =>
     @set 'viewState', view
