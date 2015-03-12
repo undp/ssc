@@ -11,18 +11,19 @@ class StateModel extends Backbone.Model
   defaults:
     filterState : []
     viewState   : INITIAL_VIEW_STATE
-    searchState : ''
+    searchTerm  : null
     modeState   : 'index'
-    projectId   : ''
+    projectId   : null
 
   initialize: ->
     @listenTo @, 'state:reset', @_resetState
+    @listenTo @, 'all', @_storeState
     @_stateStore = new StateStore # Mixin/Utility class
 
   writeStateToUrl: ->
 
   readStateFromUrl: ->
-
+    console.log 'DEV: Reading URL disabled'
     # params = app.utils.getUrlParams()
     # if params.stateRef? # Try to find State from stores (local and remote)
     #   options = 
@@ -40,7 +41,8 @@ class StateModel extends Backbone.Model
     # else # Start from scratch
     #   @clearFilters()
 
-  _storeState: =>
+  _storeState: (ev) =>
+    console.log 'Check if anything changed before storing - possibly by checking event type', ev
     @_stateStore.store()
 
   _resetState: =>
@@ -53,8 +55,8 @@ class StateModel extends Backbone.Model
   addFilter: (options) =>
     {facetName, facetValue} = options
     throw "Can't add duplice Facet" if @_facetAlreadyActive(facetName, facetValue)
-    @collection.addFilter(facetName, facetValue)
     @_addFilterState(facetName, facetValue)
+    @collection.addFilter(facetName, facetValue)
 
   _addFilterState: (facetName, facetValue) -> # Triggers filters:changed
     stateClone = _.clone(@get('filterState'))
@@ -68,8 +70,8 @@ class StateModel extends Backbone.Model
   removeFilter: (options) ->
     {facetName, facetValue} = options
     throw "Can't remove non-existent Facet" unless @_facetAlreadyActive(facetName, facetValue)
-    @collection.removeFilter(facetName, facetValue)
     @_removeFilterState(facetName, facetValue)
+    @collection.removeFilter(facetName, facetValue)
 
   _removeFilterState: (facetName, facetValue) -> # Triggers filters:changed
     foundFilter = @_facetAlreadyActive(facetName, facetValue)

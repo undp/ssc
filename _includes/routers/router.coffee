@@ -15,10 +15,10 @@ Router = Backbone.Router.extend
     return @_projectShow(value) if action == 'project'
     return @_rootRoute() unless app.filters.validFilters(action, value)
 
-    # app.state.readStateFromUrl()
+    app.state.readStateFromUrl()
 
-    # view = new ExplorerView
-    # @_switchView(view)
+    view = new ExplorerView(collection: app.projects)
+    @_switchView(view)
 
   _admin: ->
     console.log 'admin'

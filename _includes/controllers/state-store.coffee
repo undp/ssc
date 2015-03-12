@@ -1,6 +1,7 @@
 class StateStore
 
   store: (stateObject) -> # Listens to 'filter:add' and 'filter:remove' events
+    console.warn 'DEV: Storing disabled'
     return @_rebuildURL() unless stateObject? and stateObject.filterState.length isnt 0
     primaryFilter = _.first(stateObject.filterState)
     stateRef = @_persistState(
@@ -11,6 +12,7 @@ class StateStore
     @_rebuildURL(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
 
   retrieve: (options) -> # options = {stateRef, facetName, facetValue, viewState, observedCollection}
+    console.warn 'DEV: Retrieving disabled'
     {stateRef, facetName, facetValue, viewState} = options
 
     unless app.utils.validPUID(stateRef)
