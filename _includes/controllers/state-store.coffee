@@ -1,16 +1,63 @@
 class StateStore
+  constructor: (options) ->
+    throw 'Missing StateModel' unless options?.stateModel
+    {@stateModel} = options
 
-  store: (stateObject) -> # Listens to 'filter:add' and 'filter:remove' events
+  # 
+  # STORE
+  # 
+  store: ->
     console.warn 'DEV: Storing disabled'
-    return @_rebuildURL() unless stateObject? and stateObject.filterState.length isnt 0
+    # return @_updateUrl() unless @StateModel? and @stateModel.filterState.length isnt 0
     primaryFilter = _.first(stateObject.filterState)
     stateRef = @_persistState(
       filterState: stateObject.filterState
       viewState: stateObject.viewState
-    ) 
+    )
 
-    @_rebuildURL(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
+    # @_updateUrl(stateRef: stateRef, facetName: primaryFilter.name, facetValue: primaryFilter.value)
 
+  _persistState: (options) -> # Takes stateData, and returns stateRef
+    {stateRef, filterState, viewState} = options
+    stateRef ?= app.utils.PUID()
+
+    @_saveStateLocal(stateRef: stateRef, filterState: filterState, viewState: viewState)
+    @_saveStateRemote(stateRef: stateRef, filterState: filterState, viewState: viewState)
+    
+    return stateRef
+
+  _saveStateLocal: (options) -> # options = {stateRef, filterState}
+    {stateRef, filterState, viewState} = options
+
+    data = 
+      filterState: filterState
+      viewState: viewState
+    localStorage.setItem(stateRef, JSON.stringify(data))
+  
+  _saveStateRemote: (options) => # options = {stateRef, filterState}
+    {stateRef, filterState, viewState} = options
+
+    data = JSON.stringify 
+      stateRef: stateRef
+      filterState: filterState
+      viewState: viewState
+    $.ajax(
+      url: API_URL
+      type: 'POST'
+      data: data
+      headers:
+        'X-Parse-REST-API-Key': API_KEY
+        'X-Parse-Application-Id': APP_ID
+        "Content-Type":"application/json"
+      success: (data, textStatus, jqXHR) ->
+        console.info("Posted filterState to remote store for stateRef: ", stateRef)
+      error: (jqXHR, textStatus, errorThrown) ->
+        console.info("Posting filterState to remote store unsuccessful")
+    )
+
+  # 
+  # RETRIEVE
+  # 
   retrieve: (options) -> # options = {stateRef, facetName, facetValue, viewState, observedCollection}
     console.warn 'DEV: Retrieving disabled'
     {stateRef, facetName, facetValue, viewState} = options
@@ -44,32 +91,12 @@ class StateStore
       ).fail( => 
         console.info 'Failed to retrieve filterState from remote service'
         options.stateRef = null
-        @_rebuildURL(options)
+        @_updateUrl(options)
       )
 
-  _persistState: (options) -> # Takes stateData, and returns stateRef
-    {stateRef, filterState, viewState} = options
-    stateRef ?= app.utils.PUID()
-
-    @_saveStateLocal(stateRef: stateRef, filterState: filterState, viewState: viewState)
-    @_saveStateRemote(stateRef: stateRef, filterState: filterState, viewState: viewState)
-    
-    return stateRef
-
-  _findLocal: (options) ->
-    retrieved = localStorage.getItem(options.stateRef)
-
-    if retrieved?
-      return JSON.parse(retrieved)
-    else
-      return false
-
-  # 
-  # Recreate state and rebuild URL
-  # 
   _restoreState: (options) -> # options = {stateRef, facetName, facetValue, observedCollection}
     @_restoreFilters(options)
-    @_rebuildURL(options)
+    @_updateUrl(options)
 
   _restoreFilters: (options) ->
     {filterState, observedCollection} = options
@@ -79,56 +106,14 @@ class StateStore
     _.each filterState, (filter) =>
       observedCollection.addFilter(name: filter.name, value: filter.value, trigger: false)
 
+  _findLocal: (options) ->
+    retrieved = localStorage.getItem(options.stateRef)
 
-  _rebuildURL: (options) -> # options = {stateRef, facetName, facetValue, viewState}
-    return app.router.navigate() if !options?
+    if retrieved?
+      return JSON.parse(retrieved)
+    else
+      return false
 
-    {stateRef, facetName, facetValue, viewState} = options
-    viewState  ?= INITIAL_VIEW_STATE
-
-    url = ""
-    url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
-    url += "?viewState=#{viewState}"
-    url += "&stateRef=#{stateRef}" if stateRef?
-    app.router.navigate(url)
-
-  # 
-  # FilterState stores
-  # 
-
-  _saveStateLocal: (options) -> # options = {stateRef, filterState}
-    {stateRef, filterState, viewState} = options
-
-    data = 
-      filterState: filterState
-      viewState: viewState
-    localStorage.setItem(stateRef, JSON.stringify(data))
-  
-  # Takes stateRef and filterState
-  # Succeeds/fails without needing to inform user
-  _saveStateRemote: (options) => # options = {stateRef, filterState}
-    {stateRef, filterState, viewState} = options
-
-    data = JSON.stringify 
-      stateRef: stateRef
-      filterState: filterState
-      viewState: viewState
-    $.ajax(
-      url: API_URL
-      type: 'POST'
-      data: data
-      headers:
-        'X-Parse-REST-API-Key': API_KEY
-        'X-Parse-Application-Id': APP_ID
-        "Content-Type":"application/json"
-      success: (data, textStatus, jqXHR) ->
-        console.info("Posted filterState to remote store for stateRef: ", stateRef)
-      error: (jqXHR, textStatus, errorThrown) ->
-        console.info("Posting filterState to remote store unsuccessful")
-    )
-
-  # Takes stateRef. 
-  # Resolves with first filterState
   _getRemoteFilterState: (options) -> # options = {stateRef, deferred}
     {stateRef, deferred} = options
 
@@ -152,3 +137,14 @@ class StateStore
 
     return deferred.promise()
 
+  _updateUrl: (options) -> # options = {stateRef, facetName, facetValue, viewState}
+    return app.router.navigate() if !options?
+
+    {stateRef, facetName, facetValue, viewState} = options
+    viewState  ?= INITIAL_VIEW_STATE
+
+    url = ""
+    url = "#{facetName}/#{facetValue}" if facetName? and facetValue?
+    url += "?viewState=#{viewState}"
+    url += "&stateRef=#{stateRef}" if stateRef?
+    app.router.navigate(url)

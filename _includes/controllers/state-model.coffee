@@ -17,7 +17,7 @@ class StateModel extends Backbone.Model
   initialize: ->
     @listenTo @, 'state:reset', @_resetState
     @listenTo @, 'all', @_storeOnChangeEvent
-    @_stateStore = new StateStore # Mixin/Utility class
+    @_stateStore = new StateStore(stateModel: @) # Mixin/Utility class
 
   _storeOnChangeEvent: (eventType,b,c) ->
     @_storeState() if (/change\:.*/).test(eventType)
