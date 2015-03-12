@@ -6,7 +6,7 @@
 
   <% if(activeFilters.length != 0){ %>
 
-    <div class="w-clearfix active-filters toggle-filter-controls">
+    <div class="w-clearfix active-filters">
       <% _.each(activeFilters, function(filterItem){ %>
         <a class="w-clearfix w-inline-block active-filter" href="#"
           data-filter-name='<%= filterItem.name %>'
@@ -18,11 +18,11 @@
       <% }) %>
     </div>
     
-    <a class="reset-filters toggle-filter-controls" href="#">Remove all filters</a>
+    <a class="reset-filters" href="#">Remove all filters</a>
   <% } %>
 </div>
 
-<div class="filters toggle-filter-controls" data-search-results='<%= hasSearchResults %>'>
+<div class="filters" data-search-results='<%= hasSearchResults %>'>
 
   <% _.each(filterGroups, function(filterGroup){ %>
   <div class="filter-group">

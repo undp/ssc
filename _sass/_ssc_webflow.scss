@@ -252,6 +252,8 @@ p {
   margin-right: 10px;
   margin-bottom: 10px;
   margin-left: 10px;
+  padding: 5px;
+  background-color: #fffae8;
 }
 .title {
   width: auto;
@@ -494,7 +496,7 @@ p {
 .search-container {
   padding-right: 10px;
   padding-left: 10px;
-  border-bottom: 1px solid rgba(23, 104, 149, 0.11);
+  border-bottom: 1px solid rgba(23, 104, 149, 0.10);
 }
 .list-detail-icon {
   width: 3%;
@@ -515,6 +517,7 @@ p {
   width: 100%;
   color: #bababa;
   font-size: 12px;
+  line-height: 14px;
   text-align: right;
   text-decoration: none;
 }
