@@ -4,8 +4,6 @@ class StateStore
     @state = options.stateModel
 
   _updateUrl: (options) ->
-    {replace} = options
-
     facetName = @_primaryFacet()?.name
     facetValue = @_primaryFacet()?.value
     viewState = @state.get('viewState')
@@ -15,7 +13,7 @@ class StateStore
     url = "##{facetName}/#{facetValue}" if facetName? and facetValue?
     url += "?viewState=#{viewState}" if facetName?
     url += "&stateRef=#{stateRef}" if stateRef?
-    app.router.navigate(url, trigger: false, replace: replace)
+    app.router.navigate(url, trigger: false)
 
   _primaryFacet: ->
     @state.get('filterState')[0]
@@ -34,7 +32,7 @@ class StateStore
       stateRef = null
 
     @state.set('stateRef', stateRef)
-    @_updateUrl(replace: true)
+    @_updateUrl()
 
   _persistState: (options) -> # Takes stateData, and returns stateRef
     {stateRef, filterState, viewState} = options
