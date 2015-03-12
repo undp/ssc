@@ -33,7 +33,7 @@ class ContentView extends Backbone.View
   _selectTabLink: (ev) =>
     ev.preventDefault()
     tab = ev.currentTarget.getAttribute('data-w-tab')
-    @state.setView tab
+    @state.setContentView tab
     @_setActiveTab(tab)
 
   _setActiveTab: (tab) ->

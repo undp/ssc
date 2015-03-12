@@ -56,7 +56,7 @@ class StateModel extends Backbone.Model
     @set 'filterState', []
     @collection.clearFilters()
 
-  setView: (view) =>
+  setContentView: (view) =>
     @set 'viewState', view
 
   addFilter: (options) =>
@@ -65,7 +65,7 @@ class StateModel extends Backbone.Model
     @_addFilterState(facetName, facetValue)
     @collection.addFilter(facetName, facetValue)
 
-  _addFilterState: (facetName, facetValue) -> # Triggers filters:changed
+  _addFilterState: (facetName, facetValue) ->
     stateClone = _.clone(@get('filterState'))
     stateClone.push(
       name: facetName
@@ -80,7 +80,7 @@ class StateModel extends Backbone.Model
     @_removeFilterState(facetName, facetValue)
     @collection.removeFilter(facetName, facetValue)
 
-  _removeFilterState: (facetName, facetValue) -> # Triggers filters:changed
+  _removeFilterState: (facetName, facetValue) ->
     foundFilter = @_facetAlreadyActive(facetName, facetValue)
 
     @set('filterState', _.without(@get('filterState'), foundFilter))
