@@ -12,7 +12,6 @@ class MapView extends Backbone.View
     @_createMap() unless @_mapObject?
     @_updateValues()
     # @_zoomToActiveRegions()
-    @_mapObject.updateSize()
 
   setActive: ->
     @_createMap() unless @_mapObject?
