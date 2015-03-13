@@ -1,10 +1,58 @@
-<div>
-  <h1>Hello admin</h1>
-  <h2>Existing projects</h2>
-  <% _.each(existingProjects, function(project){ %>
-    <div>
-      <a href="<%= project.edit_link%>">[<%= project.project_id %>]</a> 
-      <%= project.project_title %>
+<div class="w-tabs content-tabs">
+  <div class="w-tab-menu tabs-menu">
+    <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="possible">
+      <div>Possible to add</div>
+    </a>
+    <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="existing">
+      <div>Existing SSC</div>
+    </a>
+    <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="all-open">
+      <div>All open.undp.org</div>
+    </a>
+  </div>
+
+  <div class="w-tab-content">
+    <div class="w-tab-pane tab-content" data-w-tab="possible">
+      <div id='notyetadded'>
+        Possible projects on 
+        <a href='http://open.undp.org'>open.undp.org</a>
+        (<%= possibleProjects.length %>)
+      </div>
+      <% _.each(possibleProjects, function(project){ %>
+        <div>
+          <a href="<%= project.edit_link%>">[<%= project.id %>]</a> 
+           => 
+          <a href="http://open.undp.org/#project/<%= project.id %>"><%= project.name %></a>
+        </div>
+      <% }) %>
     </div>
-  <% }) %>
+
+    <div class="w-tab-pane tab-content" data-w-tab="existing">
+      <div id='existing'>
+        Existing SSC projects
+        (<%= existingProjects.length %>)
+      </div>
+      <% _.each(existingProjects, function(project){ %>
+        <div>
+          <a href="<%= project.edit_link%>">[<%= project.project_id %>]</a> 
+          <%= project.project_title %>
+        </div>
+      <% }) %>
+    </div>
+
+    <div class="w-tab-pane tab-content" data-w-tab="all-open">
+      <div id='all'>
+        ALL projects on 
+        <a href='http://open.undp.org'>open.undp.org</a> 
+        (<%= openProjects.length %>)
+      </div>
+      <% _.each(openProjects, function(project){ %>
+        <div>
+          <a href="<%= project.edit_link%>">[<%= project.id %>]</a> 
+           => 
+          <a href="http://open.undp.org/#project/<%= project.id %>"><%= project.name %></a>
+        </div>
+      <% }) %>      
+    </div>
+  </div>
 </div>
