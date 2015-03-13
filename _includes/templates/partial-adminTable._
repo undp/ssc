@@ -1,0 +1,23 @@
+<table class='data-table display compact'>
+  <thead>
+    <tr>
+      <th>id</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>id</th>
+      <th>Name</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    <% _.each(collection, function(project){ %>
+      <tr>
+        <th><a href="<%= project.edit_link%>"><%= project.id %></a></th>
+        <th><a href="http://open.undp.org/#project/<%= project.id %>"><%= project.name %></a></th>
+      </tr>
+    <% }) %>
+  </tbody>
+</table>
+

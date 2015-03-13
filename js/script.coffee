@@ -12,6 +12,7 @@ app = window.app = {}
 {% include collections/map-countries.coffee %}
 {% include collections/projects.coffee %}
 {% include collections/projects-facets.coffee %} # Mixin on Projects Collection
+{% include collections/admin-projects.coffee %} # Mixin on Projects Collection
 
 # Controllers and ViewModels
 {% include controllers/state-model.coffee %}
@@ -28,6 +29,7 @@ app = window.app = {}
 {% include views/list-view.coffee %}
 {% include views/controls-view.coffee %}
 {% include views/headlines-view.coffee %}
+{% include views/admin-view.coffee %}
 
 # Controllers
 {% include routers/router.coffee %} # Router
