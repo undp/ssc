@@ -9,13 +9,19 @@ Router = Backbone.Router.extend
     ''               : '_explorer'
     'admin'          : '_admin'
     ':action/:value' : '_explorer'
+    '*notFound'      : '_notFound'
+
+  _notFound: (notFound) ->
+    console.warn 'No route matched', notFound
+    @navigate '', trigger: false
+    @_explorerView()
   
   # ROUTES
   _explorer: (action, value) ->
-    return @_rootRoute() unless app.filters.validFilter(action, value)
+    app.state.restoreStateFromUrl(fallbackAction: action, fallbackValue: value, stateRef: @_params().stateRef)
+    @_explorerView()
 
-    app.state.restoreStateFromUrl(fallbackAction: action, fallbackValue: value)
-
+  _explorerView: ->
     view = new ExplorerView(collection: app.projects)
     @_switchView(view)
 
@@ -23,9 +29,6 @@ Router = Backbone.Router.extend
     console.log 'admin'
 
   # View management
-  _rootRoute: ->
-    @navigate '', trigger: true, replace: true
-
   _switchView: (newView) ->
     @view.remove() if @view
     @view = newView
@@ -39,3 +42,5 @@ Router = Backbone.Router.extend
     else
       console.log 'Check for a state in the URL, else -> _rootRoute'
       @navigate '', trigger: true, replace: true
+
+  _params: -> app.utils.getUrlParams()
