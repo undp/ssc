@@ -23,7 +23,10 @@ Router = Backbone.Router.extend
     @_switchView(view)
 
   _admin: ->
-    console.log 'admin'
+    view = new AdminView(collection: app.projects)
+    @$appEl.html('')
+    @$appEl = $("#admin-app")
+    @_switchView(view)
 
   # View management
   _switchView: (newView) ->
