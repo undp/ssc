@@ -16,7 +16,7 @@
           <div class="close">x</div>
         </a>
       <% }) %>
-      <a class="reset-filters" href="#">Remove all filters</a>
+      <a class="reset-filters" href="#">Reset all</a>
     </div>
   <% } %>
 </div>
