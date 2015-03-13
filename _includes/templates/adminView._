@@ -1,0 +1,10 @@
+<div>
+  <h1>Hello admin</h1>
+  <h2>Existing projects</h2>
+  <% _.each(existingProjects, function(project){ %>
+    <div>
+      <a href="<%= project.edit_link%>">[<%= project.project_id %>]</a> 
+      <%= project.project_title %>
+    </div>
+  <% }) %>
+</div>
