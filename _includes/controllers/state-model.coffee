@@ -18,49 +18,70 @@ class StateModel extends Backbone.Model
     @listenTo @, 'all', @_storeOnChangeEvent
     @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
-  isValid: (state) -> # Receive object
-    true # TODO: Add a tiny bit more logic here.
+  _isValid: (state) -> # Receive object
+    if state.filterState?.length > 0 # TODO: Add a tiny bit more logic here.
+      true
+    else
+      false
 
   _storeOnChangeEvent: (eventType) ->
-    @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
-
-  restoreStateFromUrl: (fallbackOptions) ->
-    params = app.utils.getUrlParams()
-    if params.stateRef?
-      console.log 'have stateRef to hunt for:', params.stateRef
-      @_store.restore(params.stateRef, fallbackOptions)
-    else if @_restoreStateFromFallback(fallbackOptions)
-      console.log 'no stateRef to hunt for'
+    unless @_restoring
+      @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
     else
-      console.log 'start from scratch - invalid params'
+      @_store.updateUrl()
 
-  _restoreStateFromFallback: (fallbackOptions) ->
-    {fallbackAction, fallbackValue} = fallbackOptions
-    return false unless app.filters.validFilter(fallbackAction, fallbackValue)
-    app.router.navigate ''
+  restoreStateFromUrl: (options) ->
+    throw 'No options given' unless options?
+    fallbackFilter = @_validFallbackFilter(options.fallbackAction, options.fallbackValue)
+    stateRef = options.stateRef
+
+    if stateRef?
+      @_store.restore(stateRef) # Returns a promise
+      .then (stateData) => @_restoreFromFound(stateData)
+      .fail => @_restoreFromFallback(fallbackFilter)
+    else if fallbackFilter
+      @_restoreFromFallback(fallbackFilter)
+    else
+      @_resetState()
+
+  _restoreFromFound: (foundState) =>
+    if @_isValid(foundState)
+      @_setState(foundState)
+    else
+      @_resetState()
+
+  _restoreFromFallback: (fallbackFilter) ->
+    @_setFilters([fallbackFilter])
+
+  _validFallbackFilter: (action, value) ->
+    return false unless action? and value?
+
+    if app.filters.validFilter(action, value)
+      fallbackFilter = 
+        name: action
+        value: value
+
   # 
   # MANAGE STATE ATTRIBUTES (other than FILTERS)
   # 
-
-  resetState: (stateObject) =>
-    @clear(silent:true).set(@defaults)
-
-  setState: (stateObject) ->
-    console.log 'found', stateObject
-    state = _.pick(stateObject, ['viewState', 'searchTerm', 'projectId'])
-    @clear(silent:true).set(state, silent: true)
-    @_setFilters(stateObject.filterState) if stateObject.filterState?
-
   setContentView: (view) =>
     @set 'viewState', view
 
   setProjectShowId: (projectId) =>
     @set 'projectId', projectId
 
+  _setState: (stateObject) ->
+    extendState = _.pick(stateObject, ['viewState', 'searchTerm', 'projectId'])
+    state = _.extend(@defaults, extendState)
+    @clear(silent:true).set(state, silent: true)
+    @_setFilters(stateObject.filterState) if stateObject?.filterState.length > 0
+
+  _resetState: (stateObject) =>
+    @clear(silent:true).set(@defaults)
+
   # 
   # MANAGE FILTERS
   # 
-
   _setFilters: (filterArray) ->
     _.each filterArray, (filter) =>
       @addFilter({facetName: filter.name, facetValue: filter.value}, trigger: false)
@@ -91,6 +112,7 @@ class StateModel extends Backbone.Model
     throw "Can't remove non-existent Facet" unless @_facetAlreadyActive(facetName, facetValue)
     @_removeFilterState(facetName, facetValue)
     @collection.removeFilter(facetName, facetValue)
+
     @_trackFilterActions('remove', facetName, facetValue) if trigger
 
   _removeFilterState: (facetName, facetValue) ->

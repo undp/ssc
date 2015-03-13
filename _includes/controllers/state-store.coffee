@@ -3,7 +3,7 @@ class StateStore
     throw 'Missing StateModel' unless options?.stateModel
     @state = options.stateModel
 
-  _updateUrl: ->
+  updateUrl: ->
     facetName = @_primaryFacet()?.name
     facetValue = @_primaryFacet()?.value
     viewState = @state.get('viewState')
@@ -31,8 +31,8 @@ class StateStore
     else
       stateRef = null
 
-    @state.set('stateRef', stateRef)
-    @_updateUrl()
+    @state.set('stateRef', stateRef, trigger: false) # Don't update state on save?
+    @updateUrl()
 
   _persistState: (options) -> # Takes stateData, and returns stateRef
     {stateRef, filterState, viewState} = options
@@ -75,27 +75,18 @@ class StateStore
   # 
   # RETRIEVE
   # 
-  restore: (stateRef, fallbackOptions) =>
-    retriever = new Retriever
-    retrievedState = retriever.find(stateRef)
+  restore: (stateRef) =>
+    return false unless stateRef?
+    deferred = $.Deferred()
 
-    if retrievedState? and @state.isValid(retrievedState)
-      return @state.setState(retrievedState)
-
-    console.log 'no state found for', params.stateRef
-    @state.resetState()
-
-class Retriever
-  find: (stateRef) ->
     foundLocal = @_findLocal(stateRef)
-    if foundLocal
-      return foundLocal
+
+    if foundLocal? 
+      deferred.resolve(foundLocal) 
     else
-      @_findRemote(stateRef)
-        .then(
-          console.log 'found remote'
-          (data) -> return data
-        )
+      @_findRemote(stateRef, deferred)
+
+    deferred.promise()
 
   _findLocal: (stateRef) ->
     retrieved = localStorage.getItem(stateRef)
@@ -105,8 +96,7 @@ class Retriever
     else
       return false
 
-  _findRemote: (stateRef) ->
-    deferred = $.Deferred()
+  _findRemote: (stateRef, deferred) ->
     $.ajax(
       url: API_URL
       type: "GET"
@@ -124,7 +114,5 @@ class Retriever
       error: (jqXHR, textStatus, errorThrown) ->
         deferred.reject()
     )
-
-    return deferred.promise()
 
 
