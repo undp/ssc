@@ -7,13 +7,11 @@ class Filters extends Backbone.Collection
     @_addCountries(preloadData.countries)
 
   validFilter: (filterName, filterValue) ->
-    return true unless filterName? and filterValue?
+    return false unless filterName? and filterValue?
     
-    new Backbone.Collection(
-      @where type: filterName
-    ).where(
-      short: filterValue
-    ).length > 0
+    @any (indice) ->
+      indice.get('type') == filterName and
+      indice.get('short') == filterValue
 
   # FIND/SEARCH
   nameFromShort: (short) ->
