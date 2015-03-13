@@ -34,7 +34,7 @@
     </li>
   </ul>
 
-  <a href="<%= project.prose_edit_link %>"><i class="fa fa-edit"></i> Edit</a>
+  <a href="<%= project.edit_link %>"><i class="fa fa-edit"></i> Edit</a>
 
   <% if(project.open_project_id != ""){ %>
     <h2>
