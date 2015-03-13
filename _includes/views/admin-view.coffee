@@ -5,6 +5,7 @@ class AdminView extends Backbone.View
     'click .tab-menu-link': '_selectTabLink'
 
   initialize:  () ->
+    _.template.partial.declare('adminTable', $('#partial-adminTable').html())
     @openProjects = new OpenProjects
     app.open = @openProjects # TODO: @prod remove global
     @openProjects.fetch
@@ -14,11 +15,14 @@ class AdminView extends Backbone.View
   render: (options) =>
     compiled = @template()(
       possibleProjects: @openProjects.withoutExisting(@collection)
+      existingProjects: @openProjects.presentExistingInAdmin(@collection)
       openProjects: @openProjects.toJSON()
-      existingProjects: @collection.toJSON()
     )
     @$el.html(compiled)  
     @_setActiveTab('possible')
+    _.defer -> 
+      $('.data-table').DataTable()
+      $('.loading-holder').hide()
 
   _selectTabLink: (ev) =>
     ev.preventDefault()

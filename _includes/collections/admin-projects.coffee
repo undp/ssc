@@ -17,3 +17,9 @@ class OpenProjects extends Backbone.Collection
     existingOpenIds = _.chain(existingCollection.pluck('open_project_id')).compact().uniq().value()
     _.reject @.toJSON(), (project) ->
       _.include existingOpenIds, project.id
+
+  presentExistingInAdmin: (existingCollection) =>
+    existingCollection.map (project) ->
+      id: project.get('project_id')
+      name: project.get('project_title')
+      edit_link: project.get('edit_link')

@@ -1,4 +1,4 @@
-<div class="w-tabs content-tabs">
+<div class="w-tabs content-tabs admin">
   <div class="w-tab-menu tabs-menu">
     <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="possible">
       <div>Possible to add</div>
@@ -12,47 +12,44 @@
   </div>
 
   <div class="w-tab-content">
-    <div class="w-tab-pane tab-content" data-w-tab="possible">
-      <div id='notyetadded'>
-        Possible projects on 
-        <a href='http://open.undp.org'>open.undp.org</a>
-        (<%= possibleProjects.length %>)
+    <div class="w-tab-pane tab-content admin-table" data-w-tab="possible">
+      <div class='admin-table-explanation'>
+        <h2>
+          <%= possibleProjects.length %> projects on open.undp.org
+        </h2>
+        <p>These are not already included SSC data. If there an 'SSC' tag can be added to data on open.undp.org, then this list could be adapted to filter for only those projects: the table would then contain projects tagged 'SSC' which are not already included in the SSC data. </p>
       </div>
-      <% _.each(possibleProjects, function(project){ %>
-        <div>
-          <a href="<%= project.edit_link%>">[<%= project.id %>]</a> 
-           => 
-          <a href="http://open.undp.org/#project/<%= project.id %>"><%= project.name %></a>
-        </div>
-      <% }) %>
+      <div class='loading-holder'>
+        <div class="loading">Loading data...</div>
+        <div class="spinner"></div>
+      </div>
+      <%= _.template.partial('adminTable', {collection: possibleProjects}) %>
     </div>
 
-    <div class="w-tab-pane tab-content" data-w-tab="existing">
-      <div id='existing'>
-        Existing SSC projects
-        (<%= existingProjects.length %>)
+    <div class="w-tab-pane tab-content admin-table" data-w-tab="existing">
+      <div class='admin-table-explanation'>
+        <h2><%= existingProjects.length %> projects already in SSC data</h2>
+        <p>Projects with ID starting '<em>xxx</em> are not found in open.undp.org</p>
       </div>
-      <% _.each(existingProjects, function(project){ %>
-        <div>
-          <a href="<%= project.edit_link%>">[<%= project.project_id %>]</a> 
-          <%= project.project_title %>
-        </div>
-      <% }) %>
+      <div class='loading-holder'>
+        <div class="loading">Loading data...</div>
+        <div class="spinner"></div>
+      </div>
+      <%= _.template.partial('adminTable', {collection: existingProjects})     %>
     </div>
 
-    <div class="w-tab-pane tab-content" data-w-tab="all-open">
-      <div id='all'>
-        ALL projects on 
-        <a href='http://open.undp.org'>open.undp.org</a> 
-        (<%= openProjects.length %>)
+    <div class="w-tab-pane tab-content admin-table" data-w-tab="all-open">
+      <div class='admin-table-explanation'>
+        <h2>
+          <%= openProjects.length %> projects on open.undp.org
+        </h2>
+        <p>This is <em>all</em> projects on open.undp.org, including those already in SSC data.</p>
       </div>
-      <% _.each(openProjects, function(project){ %>
-        <div>
-          <a href="<%= project.edit_link%>">[<%= project.id %>]</a> 
-           => 
-          <a href="http://open.undp.org/#project/<%= project.id %>"><%= project.name %></a>
-        </div>
-      <% }) %>      
+      <div class='loading-holder'>
+        <div class="loading">Loading data...</div>
+        <div class="spinner"></div>
+      </div>
+      <%= _.template.partial('adminTable', {collection: openProjects}) %>
     </div>
   </div>
 </div>
