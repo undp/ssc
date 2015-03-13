@@ -24,11 +24,13 @@ class StateModel extends Backbone.Model
     else
       false
 
-  _storeOnChangeEvent: (eventType) ->
-    unless @_restoring
-      @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
-    else
+  _storeOnChangeEvent: (eventType, a, b) ->
+    if @_restoring
+      @_restoring = false
       @_store.updateUrl()
+    else
+      @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
+      @_trackStoreAction(@.toJSON())
 
   restoreStateFromUrl: (options) ->
     throw 'No options given' unless options?
@@ -37,16 +39,21 @@ class StateModel extends Backbone.Model
 
     if stateRef?
       @_store.restore(stateRef) # Returns a promise
-      .then (stateData) => @_restoreFromFound(stateData)
+      .then (stateData) => 
+        @_restoreFromFound(_.extend(stateData, stateRef: stateRef))
       .fail => @_restoreFromFallback(fallbackFilter)
     else if fallbackFilter
       @_restoreFromFallback(fallbackFilter)
     else
       @_resetState()
-
+  # 
+  # Strategies for restoring State 
+  # 
   _restoreFromFound: (foundState) =>
     if @_isValid(foundState)
+      @_restoring = true # Avoids change event re-storing state and regenerating stateRef
       @_setState(foundState)
+      @_trackRestoreAction(@.toJSON())
     else
       @_resetState()
 
@@ -71,7 +78,7 @@ class StateModel extends Backbone.Model
     @set 'projectId', projectId
 
   _setState: (stateObject) ->
-    extendState = _.pick(stateObject, ['viewState', 'searchTerm', 'projectId'])
+    extendState = _.omit(stateObject, ['filterState'])
     state = _.extend(@defaults, extendState)
     @clear(silent:true).set(state, silent: true)
     @_setFilters(stateObject.filterState) if stateObject?.filterState.length > 0
@@ -84,7 +91,7 @@ class StateModel extends Backbone.Model
   # 
   _setFilters: (filterArray) ->
     _.each filterArray, (filter) =>
-      @addFilter({facetName: filter.name, facetValue: filter.value}, trigger: false)
+      @addFilter(facetName: filter.name, facetValue: filter.value, trigger: false)
 
   clearFilters: ->
     @set 'filterState', []
@@ -92,19 +99,19 @@ class StateModel extends Backbone.Model
 
   addFilter: (options) =>
     {facetName, facetValue} = options
-    trigger = options.trigger? || true
+    trigger = options.trigger if options.trigger? || true
     throw "Can't add duplicate Facet" if @_facetAlreadyActive(facetName, facetValue)
     @_addFilterState(facetName, facetValue)
-    @collection.addFilter(facetName, facetValue, trigger: trigger)
+    @collection.addFilter(facetName, facetValue, trigger)
     @_trackFilterActions('add', facetName, facetValue) if trigger
 
-  _addFilterState: (facetName, facetValue) ->
+  _addFilterState: (facetName, facetValue, trigger) ->
     stateClone = _.clone(@get('filterState')) || []
     stateClone.push(
       name: facetName
       value: facetValue
     )
-    @set('filterState', stateClone)
+    @set('filterState', stateClone, silent: !!trigger)
 
   removeFilter: (options) ->
     {facetName, facetValue} = options
@@ -139,5 +146,17 @@ class StateModel extends Backbone.Model
       'filterName': facetName,
       'filterValue': facetValue
       'filterType': filterType
+    )
+
+  _trackStoreAction: (state) ->
+    mixpanel.track('filterStore',
+      'action': 'store'
+      'filtersLength': state.filterState.length
+    )
+
+  _trackRestoreAction: (state) ->
+    mixpanel.track('filterStore',
+      'action': 'retrieve'
+      'filtersLength': state.filterState.length
     )
 

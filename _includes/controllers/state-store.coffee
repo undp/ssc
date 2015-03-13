@@ -22,7 +22,6 @@ class StateStore
   # STORE
   # 
   store: =>
-    # TODO: Check if state has changed since last store - or whether it's being restored, and stateRef probably shouldn't change
     if @state.get('filterState').length > 0 and @state.isValid(@state.toJSON())
       stateRef = @_persistState(
         filterState: @state.get('filterState')
