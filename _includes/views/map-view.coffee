@@ -25,28 +25,7 @@ class MapView extends Backbone.View
     @_mapObject.setFocus(regions: activeRegions, animate: true)
 
   _createMap: =>
-    values = @_prepareDataForMap()
-
-    @$el.vectorMap(
-      map: 'world_mill_en'
-      backgroundColor: 'white'
-      series:
-        regions: [
-          values: values
-          scale: ['#EEEEEE', '#1057A7']
-          normalizeFunction: 'polynomial'
-        ]
-      regionsSelectableOne: true
-      regionStyle:
-        selected:
-          fill: '#f7be00'
-      onRegionClick: (ev, code) =>
-        @_clickRegion(code)
-      onRegionTipShow: (e, el, code) =>
-        countryIso3 = @countries.iso3FromMapShort(code)
-        activeCount = app.projects.projectCountForFacetValue('host_location', countryIso3)
-        el.html("#{el.html()} (#{activeCount} projects)") if activeCount isnt 0
-    )
+    @$el.vectorMap(@_mapSettings())
     @_mapObject = @$el.vectorMap('get', 'mapObject')
     @maxScale = @_mapObject.scale # TODO: Handle zoom and resizing better
     window.m = @ # TODO: Remove debugging global
@@ -103,5 +82,39 @@ class MapView extends Backbone.View
     )
     data
 
+  _mapSettings: ->
+    values = @_prepareDataForMap()
+    
+    map: 'world_mill_en'
+    backgroundColor: 'white'
+    series:
+      regions: [
+        values: values
+        scale: ['#EEEEEE', '#1057A7']
+        normalizeFunction: 'polynomial'
+        legend:
+          horizontal: true,
+          title: 'Projects per country',
+          labelRender: (value) -> value
+      ]
+    labels:
+      regions:
+        render: (code) ->
+          code
+    regionsSelectableOne: true
+    regionStyle:
+      selected:
+        fill: '#f7be00'
+    regionLabelStyle:
+      initial:
+        fill: '#B90E32'
+      hover:
+        fill: 'black'
+    onRegionClick: (ev, code) =>
+      @_clickRegion(code)
+    onRegionTipShow: (e, el, code) =>
+      countryIso3 = @countries.iso3FromMapShort(code)
+      activeCount = app.projects.projectCountForFacetValue('host_location', countryIso3)
+      el.html("#{el.html()} (#{activeCount} projects)") if activeCount isnt 0
 
 
