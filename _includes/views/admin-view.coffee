@@ -21,8 +21,13 @@ class AdminView extends Backbone.View
     @$el.html(compiled)  
     @_setActiveTab('possible')
     _.defer -> 
-      $('.data-table').DataTable()
-      $('.loading-holder').hide()
+      $('.data-table').DataTable(
+        language:
+          emptyTable: 'Loading data into table...'
+        drawCallback: -> 
+          $('.data-table').show()
+          $('.loading-holder').hide()
+      )
 
   _selectTabLink: (ev) =>
     ev.preventDefault()

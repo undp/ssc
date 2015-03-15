@@ -4,7 +4,7 @@ Router = Backbone.Router.extend
 
   routes:
     ''               : '_explorer'
-    'admin'          : '_admin'
+    'manage'          : '_manage'
     ':action/:value' : '_explorer'
     '*notFound'      : '_notFound'
 
@@ -22,7 +22,7 @@ Router = Backbone.Router.extend
     view = new ExplorerView(collection: app.projects)
     @_switchView(view)
 
-  _admin: ->
+  _manage: ->
     view = new AdminView(collection: app.projects)
     @$appEl.html('')
     @$appEl = $("#admin-app")
