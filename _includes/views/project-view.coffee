@@ -1,23 +1,25 @@
 class ProjectView extends Backbone.View
-  template: -> _.template($('#projectView').html())
+  el: '#projectShow'
 
-  className: 'row'
+  template: -> _.template($('#projectView').html())
 
   events:
     'click .filter': '_filter'
     'click .triggerIframeResize': '_triggerIframeResize'
-    'click .backToResults': '_backToResults'
+    'click .back-link': '_backToResults'
 
   initialize: ->
     @state = app.state
     _.template.partial.declare('filterItem', $('#partial-filterItem').html())
 
   render: ->
-    @presentedModel = new PresentProject(@model)
-    compiled = @template()(project: @presentedModel.render())
+    compiled = @template()(project: @model.toJSON())
     @$el.html(compiled)
-    window.scrollTo(0,0)
     @
+
+  remove: ->
+    @$el.empty()
+    @undelegateEvents()
 
   _backToResults: (ev) =>
     ev.preventDefault()
@@ -26,7 +28,7 @@ class ProjectView extends Backbone.View
   _filter: (ev) ->
     ev.preventDefault()
     data = ev.target.dataset
-    console.log "Show all: filtering type #{data.filterName} for value #{data.filterValue}"
+    @state.addFilter(facetName: data.filterName, facetValue: data.filterValue)
 
   _triggerIframeResize: (ev) ->
     ev.preventDefault()

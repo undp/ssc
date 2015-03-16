@@ -17,12 +17,12 @@ ProjectsFacets =
     'host_location'
   ]
 
-  addFilter: (facetName, facetValue) ->
+  addFacet: (facetName, facetValue) ->
     @facetr.facet(facetName).value(facetValue, 'and')
 
-  removeFilter: (facetName, facetValue) ->
+  removeFacet: (facetName, facetValue) ->
     @facetr.facet(facetName).removeValue(facetValue)
-    
+
   clearFilters: ->
     @facetr.clearValues()
 

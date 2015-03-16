@@ -1,3 +1,4 @@
+  These 3 tabs are intended to give simple overview of the data available from open.undp.org, making it simple to create new records in SSC.
 <div class="w-tabs content-tabs admin">
   <div class="w-tab-menu tabs-menu">
     <a class="w-tab-link w-inline-block tab-menu-link" data-w-tab="possible">
@@ -29,13 +30,36 @@
     <div class="w-tab-pane tab-content admin-table" data-w-tab="existing">
       <div class='admin-table-explanation'>
         <h2><%= existingProjects.length %> projects already in SSC data</h2>
-        <p>Projects with ID starting '<em>xxx</em> are not found in open.undp.org</p>
+        <p>Projects with ID starting <em>xxx</em> are not found in open.undp.org</p>
       </div>
       <div class='loading-holder'>
         <div class="loading">Loading data...</div>
         <div class="spinner"></div>
       </div>
-      <%= _.template.partial('adminTable', {collection: existingProjects})     %>
+
+      <table class='data-table display compact'>
+        <thead>
+          <tr>
+            <th>Open ID (edit SSC)</th>
+            <th>Title (link to SSC)</th>
+          </tr>
+        </thead>
+        <tfoot>
+          <tr>
+            <th>Open ID (edit SSC)</th>
+            <th>Title (link to SSC)</th>
+          </tr>
+        </tfoot>
+        <tbody>
+          <% _.each(existingProjects, function(project){ %>
+            <tr>
+              <th><a href="<%= project.edit_link%>"><%= project.id %></a></th>
+              <th><a href="#project/<%= project.id %>"><%= project.name %></a></th>
+            </tr>
+          <% }) %>
+        </tbody>
+      </table>
+
     </div>
 
     <div class="w-tab-pane tab-content admin-table" data-w-tab="all-open">

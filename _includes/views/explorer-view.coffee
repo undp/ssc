@@ -3,8 +3,8 @@ class ExplorerView extends Backbone.View
 
   initialize: ->
     @state = app.state
-    
-    @listenTo @state, 'content:projectShow', @_showProject
+
+    @listenTo @state, 'content:projectShow', @_projectShow
     @listenTo @state, 'content:projectIndex', @_projectIndex
 
   render: ->
@@ -20,19 +20,26 @@ class ExplorerView extends Backbone.View
     @_headlinesView.remove() if @_headlinesView?
     @_controlsView.remove() if @_controlsView?
     @_contentView.remove() if @_contentView?
-    @_projectShowView.remove() if @_projectShowView?
     Backbone.View.prototype.remove.apply(this, arguments)
 
-  _showProject: (projectId) =>
+  _projectShow: (projectId) =>
     project = @collection.get(projectId)
     throw 'No Project model' unless project
     @state.setProjectShowId(projectId)
+
+    @_projectShowView.remove() if @_projectShowView?
     @_projectShowView = new ProjectView(model: project)
     @_projectShowView.render()
-    @$el.html(@_projectShowView.$el)
+    @_hideExplorer()
 
   _projectIndex: =>
-    return unless @_projectShowView
-    @_projectShowView.remove() 
     @state.setProjectShowId(null)
-    @render()
+    @_showExplorer()
+
+  _hideExplorer: =>  # and show ProjectShowView
+    @$el.find('#content').hide()
+    @$el.find('#projectShow').show()
+
+  _showExplorer: => # and hide ProjectShowView
+    @$el.find('#projectShow').hide()
+    @$el.find('#content').show()
