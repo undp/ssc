@@ -3,3 +3,5 @@
 project_id,open_project_id,project_title,project_objective,scale,host_location,region,undp_role_type,thematic_focus,ssc_description,territorial_focus,partner_location,partner_type,project_link,edit_link
 {% for project in site.collections.ssc_projects.docs %}"{{ project.relative_path | remove: "_ssc_projects/" | remove: ".txt" }}",{{ project.open_project_id }},"{{ project.project_title }}","{{ project.project_objective }}","{{ project.scale }}","{{ project.host_location | join: '|' }}","{{ project.region  | join: '|' }}","{{ project.undp_role_type | join: '|' }}","{{ project.thematic_focus | join: '|' }}","{{ project.content | strip_newlines }}","{{ project.territorial_focus | join: '|' }}","{{ project.partner_location | join: '|' }}","{{ project.partner_type | join: '|' }}","{{ project.project_link }}","{{ site.editor.url }}/#{{ site.editor.github_repo }}/edit/gh-pages/{{ project.relative_path }}"{% unless forloop.last %}
 {% endunless %}{% endfor %}
+
+This file was prepared at {{ site.time }}, by {{ site.domain }}

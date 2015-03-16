@@ -1,9 +1,10 @@
 editor:
   github_repo: peoplesized/ssc-dev
-  url: "http://prose.io"
+  url: http://prose.io
 baseurl: ""
-title: UNDP SSC Projects Explorer
-email: "js@ppls.io"
+title: UNDP South South Cooperation
+domain: http://undp-ssc-mapping.org
+email: js@ppls.io
 description: South-South Cooperation data
 host: 0.0.0.0
 exclude:
