@@ -91,7 +91,9 @@ class StateModel extends Backbone.Model
   # 
   _setFilters: (filterArray) ->
     _.each filterArray, (filter) =>
-      @addFilter(facetName: filter.name, facetValue: filter.value, trigger: false)
+      @_restoring = true
+      @addFilter(facetName: filter.name, facetValue: filter.value, silent: true)
+    @_restoring = false
 
   clearFilters: ->
     @set 'filterState', []
@@ -99,28 +101,26 @@ class StateModel extends Backbone.Model
 
   addFilter: (options) =>
     {facetName, facetValue} = options
-    trigger = options.trigger if options.trigger? || true
     throw "Can't add duplicate Facet" if @_facetAlreadyActive(facetName, facetValue)
-    @_addFilterState(facetName, facetValue)
-    @collection.addFilter(facetName, facetValue, trigger)
-    @_trackFilterActions('add', facetName, facetValue) if trigger
 
-  _addFilterState: (facetName, facetValue, trigger) ->
+    @_addFilterState(facetName, facetValue)
+    @collection.addFacet(facetName, facetValue)
+    @_trackFilterActions('add', facetName, facetValue) unless options.silent
+
+  _addFilterState: (facetName, facetValue) ->
     stateClone = _.clone(@get('filterState')) || []
     stateClone.push(
       name: facetName
       value: facetValue
     )
-    @set('filterState', stateClone, silent: !!trigger)
+    @set('filterState', stateClone)
 
   removeFilter: (options) ->
     {facetName, facetValue} = options
-    trigger = options.trigger? || true
     throw "Can't remove non-existent Facet" unless @_facetAlreadyActive(facetName, facetValue)
     @_removeFilterState(facetName, facetValue)
-    @collection.removeFilter(facetName, facetValue)
-
-    @_trackFilterActions('remove', facetName, facetValue) if trigger
+    @collection.removeFacet(facetName, facetValue)
+    @_trackFilterActions('remove', facetName, facetValue) unless options.silent
 
   _removeFilterState: (facetName, facetValue) ->
     foundFilter = @_facetAlreadyActive(facetName, facetValue)
