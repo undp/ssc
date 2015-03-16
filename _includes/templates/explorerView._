@@ -14,6 +14,9 @@
   </div>
 
   <div class="w-hidden-medium w-hidden-small w-hidden-tiny download">
+    <div class="download-icon">
+      <img src="images/save_as.svg" width="100%">
+    </div>
     <a href="/api/projects.csv">Download projects data</a>
   </div>
 
