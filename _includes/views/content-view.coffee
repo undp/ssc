@@ -60,7 +60,7 @@ class ContentView extends Backbone.View
       @childViews[tab].setActive() 
     
   _displayProjectSearchResults: =>
-    @_setActiveTab('list')
+    @_setActiveTab('list') # This doesn't trigger a 'change state' event
 
   _restoreToPreviousView: =>
     activeTab = @state.get('viewState')
