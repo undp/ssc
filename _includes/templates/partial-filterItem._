@@ -1,5 +1,5 @@
-<a class='filter'
+<a href="#<%= type %>/<%= item %>" class='filter'
   data-filter-name='<%= type %>'
-  data-filter-value='<%= item.short %>'>
-  <%= item.name %>
+  data-filter-value='<%= item %>'>
+  <%= app.filters.nameFromShort(item) %>
 </a>

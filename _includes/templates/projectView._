@@ -1,53 +1,73 @@
-<div class="w-tabs content-tabs">
-  <a class='backToResults'=>< Back to results</a>
-  <h1><%= project.project_title %></h1>
-  <ul>
-    <li>
-      <% _.each(project.host_location, function(item) { %>
-        <%= _.template.partial('filterItem', {item: item, type: 'host_location'}) %>
-      <% }) %>
-
-      <% if (project.partner_location.length > 0) { %>
-        (collaborated with:
-        <% _.each(project.partner_location, function(item) { %>
-          <%= _.template.partial('filterItem', {item: item, type: 'partner_location'}) %>
+<div class="project-show">
+  <div class="back"><a class="back-link" href="#">&lt; LIST</a>
+  </div>
+  <div class="project-details">
+    <div class="detail-title"><%= project.project_title %></div>
+    <div class="detail-line">
+      <div class="detail-heading">Country</div>
+      <div class="detail-content">
+        <% _.each(project.host_location, function(item) { %>
+          <%= _.template.partial('filterItem', {item: item, type: 'host_location'}) %>
         <% }) %>
-        )
-      <% } %>
-    </li>
-    <li><strong>OBJECTIVE:</strong> <%= project.project_objective %></li>
-    <li><strong>SSC ACTIVITY:</strong> <%= project.ssc_description %></li>
-    <li><strong>PARTNER TYPES:</strong> 
-      <% _.each(project.partner_type, function(item) { %>
-        <%= _.template.partial('filterItem', {item: item, type: 'partner_type'}) %>
-      <% }) %>
-    </li>
-    <li><strong>THEMES:</strong> 
-      <% _.each(project.thematic_focus, function(item) { %>
-        <%= _.template.partial('filterItem', {item: item, type: 'thematic_focus'}) %>
-      <% }) %>
-    </li>
-    <li><strong>TERRITORIAL FOCUS:</strong> 
-      <% _.each(project.territorial_focus, function(item) { %>
-        <%= _.template.partial('filterItem', {item: item, type: 'territorial_focus'}) %>
-      <% }) %>
-    </li>
-  </ul>
 
-  <a href="<%= project.edit_link %>"><i class="fa fa-edit"></i> Edit</a>
+        <% if (project.partner_location.length > 0) { %>
+          (collaborated with:
+          <% _.each(project.partner_location, function(item) { %>
+            <%= _.template.partial('filterItem', {item: item, type: 'partner_location'}) %>
+          <% }) %>
+          )
+        <% } %>
+      </div>
+    </div>
+    <div class="detail-line">
+      <div class="detail-heading">Objective</div>
+      <div class="detail-content"><%= project.project_objective %></div>
+    </div>
+    <div class="detail-line">
+      <div class="detail-heading">SSC Activity</div>
+      <div class="detail-content"><%= project.ssc_description %></div>
+    </div>
+    <div class="detail-line">
+      <div class="detail-heading">Partner types</div>
+      <div class="detail-content">
+        <% _.each(project.partner_type, function(item) { %>
+          <%= _.template.partial('filterItem', {item: item, type: 'partner_type'}) %>
+        <% }) %>
+      </div>
+    </div>
+    <div class="detail-line">
+      <div class="detail-heading">Thematic focus</div>
+      <div class="detail-content">
+        <% _.each(project.thematic_focus, function(item) { %>
+          <%= _.template.partial('filterItem', {item: item, type: 'thematic_focus'}) %>
+        <% }) %>
+      </div>
+    </div>
+    <div class="detail-line">
+      <div class="detail-heading">Territorial focus</div>
+      <div class="detail-content">
+        <% _.each(project.territorial_focus, function(item) { %>
+          <%= _.template.partial('filterItem', {item: item, type: 'territorial_focus'}) %>
+        <% }) %>
+      </div>
+    </div>
 
-  <% if(project.open_project_id != ""){ %>
-    <h2>
-      Additional project information from 
-      <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a>
-    </h2>
-    <iframe id='project_iframe' src="http://open.undp.org/embed.html#widget/project/<%= project.open_project_id %>?stats&documents&outputs" width="100%" height="200px" frameborder="0" marginheight="0" scrolling="no"></iframe>
-    <p id='contentTruncated'>
-      <a class='triggerIframeResize'><i class='fa fa-expand'></i> Expand</a>
-      content from 
-      <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a>
-    </p>
-  <% } else { %>
-    <p>No project data from <a href="http://open.undp.org">open.undp.org</a></p>
-  <% } %>
+    <a href="<%= project.edit_link %>"><i class="fa fa-edit"></i> Edit</a>
+
+    <% if(project.open_project_id != ""){ %>
+      <h2>
+        Additional project information from 
+        <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a>
+      </h2>
+      <iframe id='project_iframe' src="http://open.undp.org/embed.html#widget/project/<%= project.open_project_id %>?stats&documents&outputs" width="100%" height="200px" frameborder="0" marginheight="0" scrolling="no"></iframe>
+      <p id='contentTruncated'>
+        <a class='triggerIframeResize'><i class='fa fa-expand'></i> Expand</a>
+        content from 
+        <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a>
+      </p>
+    <% } else { %>
+      <p>No project data from <a href="http://open.undp.org">open.undp.org</a></p>
+    <% } %>
+
+  </div>
 </div>

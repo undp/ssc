@@ -7,8 +7,6 @@ class ContentView extends Backbone.View
   initialize: ->
     @state = app.state
 
-    @listenTo @state, 'content:projectShow', @_projectShow
-    @listenTo @state, 'content:projectIndex', @_projectIndex
     @listenTo @state, 'search:foundProjects', @_listTabForSearchResults
     @listenTo @state, 'search:stopped', @_restorePreviousTabAfterSearchResults
 
@@ -44,20 +42,6 @@ class ContentView extends Backbone.View
   # 
   # Display modes
   # 
-
-  _projectShow: (projectId) =>
-    project = @collection.get(projectId)
-    throw 'No Project model' unless project
-    @state.setProjectShowId(projectId)
-    @_projectShowView = new ProjectView(model: project)
-    @_projectShowView.render()
-    @$el.html(@_projectShowView.$el)
-
-  _projectIndex: =>
-    return unless @_projectShowView
-    @_projectShowView.remove() 
-    @state.setProjectShowId(null)
-    @render()
     
   _listTabForSearchResults: =>
     @_setActiveTab('list') # This doesn't trigger a 'change state' event

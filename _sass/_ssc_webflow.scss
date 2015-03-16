@@ -557,6 +557,44 @@ p {
 .project-id {
   font-weight: 400;
 }
+.back {
+  background-color: #0c2a4c;
+}
+.back-link {
+  display: inline-block;
+  height: 40px;
+  padding-top: 8px;
+  padding-left: 9px;
+  color: #e8e8e8;
+  text-decoration: none;
+}
+.project-show {
+  height: 449px;
+}
+.project-details {
+  overflow-x: scroll;
+  overflow-y: scroll;
+  padding: 10px;
+}
+.detail-title {
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e6e6e6;
+  color: #1057a7;
+  font-size: 22px;
+  line-height: 24px;
+  font-weight: 700;
+}
+.detail-heading {
+  display: block;
+  margin-right: 8px;
+  float: none;
+  color: dimgray;
+  font-weight: 700;
+}
+.detail-line {
+  margin-bottom: 10px;
+}
 html.w-mod-js *[data-ix="display-none"] {
   display: none;
 }
@@ -683,6 +721,9 @@ html.w-mod-js *[data-ix="display-none"] {
     overflow-x: hidden;
     overflow-y: hidden;
     max-width: 470px;
+  }
+  .project-show {
+    height: 100%;
   }
 }
 @media (max-width: 479px) {

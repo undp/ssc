@@ -11,6 +11,9 @@
     <div id='content' class="w-col w-col-8 content">
       <!-- contentView._ -->
     </div>
+    <div id='projectShow' class="w-col w-col-8 content project">
+      <!-- contentView._ -->
+    </div>
   </div>
 
   <div class="w-hidden-medium w-hidden-small w-hidden-tiny download">
