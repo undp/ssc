@@ -1,8 +1,6 @@
 class ProjectView extends Backbone.View
   template: -> _.template($('#projectView').html())
 
-  className: 'row'
-
   events:
     'click .filter': '_filter'
     'click .triggerIframeResize': '_triggerIframeResize'

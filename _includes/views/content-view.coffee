@@ -7,8 +7,10 @@ class ContentView extends Backbone.View
   initialize: ->
     @state = app.state
 
-    @listenTo @state, 'search:foundProjects', @_displayProjectSearchResults
-    @listenTo @state, 'search:stopped', @_restoreToPreviousView
+    @listenTo @state, 'content:projectShow', @_projectShow
+    @listenTo @state, 'content:projectIndex', @_projectIndex
+    @listenTo @state, 'search:foundProjects', @_listTabForSearchResults
+    @listenTo @state, 'search:stopped', @_restorePreviousTabAfterSearchResults
 
     @_setupMouseTrap()
     @render()
@@ -23,6 +25,7 @@ class ContentView extends Backbone.View
     @$el.html(compiled)
 
     _.defer => 
+      console.log 'deferring content childViews rendering'
       @_renderChildViews() # TODO: Replace `defer` until contentView rendered, but keep event bindings
 
     activeTab = @state.get('viewState')
@@ -32,11 +35,40 @@ class ContentView extends Backbone.View
 
   remove: ->
     _.each(@childViews, (view) -> view.remove())
+    @_projectShowView.remove() if @_projectShowView?
     Backbone.View.prototype.remove.apply(this, arguments)
 
   _renderChildViews: ->
     _.each(@childViews, (view) -> view.render())
 
+  # 
+  # Display modes
+  # 
+
+  _projectShow: (projectId) =>
+    project = @collection.get(projectId)
+    throw 'No Project model' unless project
+    @state.setProjectShowId(projectId)
+    @_projectShowView = new ProjectView(model: project)
+    @_projectShowView.render()
+    @$el.html(@_projectShowView.$el)
+
+  _projectIndex: =>
+    return unless @_projectShowView
+    @_projectShowView.remove() 
+    @state.setProjectShowId(null)
+    @render()
+    
+  _listTabForSearchResults: =>
+    @_setActiveTab('list') # This doesn't trigger a 'change state' event
+
+  _restorePreviousTabAfterSearchResults: =>
+    activeTab = @state.get('viewState')
+    @_setActiveTab(activeTab)
+
+  # 
+  # Tab controls
+  # 
   _selectTabLink: (ev) =>
     ev.preventDefault()
     tab = ev.currentTarget.getAttribute('data-w-tab')
@@ -58,14 +90,10 @@ class ContentView extends Backbone.View
 
     if @childViews? and @childViews[tab].setActive?
       @childViews[tab].setActive() 
-    
-  _displayProjectSearchResults: =>
-    @_setActiveTab('list') # This doesn't trigger a 'change state' event
 
-  _restoreToPreviousView: =>
-    activeTab = @state.get('viewState')
-    @_setActiveTab(activeTab)
-
+  # 
+  # Keyboard shortcuts
+  # 
   _setupMouseTrap: ->
     Mousetrap.bind '/', => 
       @state.trigger 'search:start'
