@@ -6,3 +6,10 @@
 .jvectormap-zoomin, .jvectormap-zoomout, .jvectormap-goback {
   background: #D7D7D7;
 }
+
+.jvectormap-legend-cnt-h .jvectormap-legend {
+  margin: 0;
+  border-radius: 0;
+  background: rgb(210, 210, 210);
+  color: rgb(82, 82, 82);
+}

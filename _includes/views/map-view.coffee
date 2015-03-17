@@ -97,19 +97,19 @@ class MapView extends Backbone.View
           title: 'Projects per country',
           labelRender: (value) -> value
       ]
-    labels:
-      regions:
-        render: (code) ->
-          code
+    # labels:
+    #   regions:
+    #     render: (code) ->
+    #       code
     regionsSelectableOne: true
     regionStyle:
       selected:
         fill: '#f7be00'
-    regionLabelStyle:
-      initial:
-        fill: '#B90E32'
-      hover:
-        fill: 'black'
+    # regionLabelStyle:
+    #   initial:
+    #     fill: '#B90E32'
+    #   hover:
+    #     fill: 'black'
     onRegionClick: (ev, code) =>
       @_clickRegion(code)
     onRegionTipShow: (e, el, code) =>
