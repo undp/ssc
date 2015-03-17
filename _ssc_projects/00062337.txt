@@ -15,7 +15,7 @@ territorial_focus: hic
 undp_role_type: 
   - builder_of_capacities
 partner_location: 
-  - CHN
+  - ATF
   - IND
 published: true
 ---

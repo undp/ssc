@@ -16,6 +16,7 @@ territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+  - SLV
 published: true
 ---
 UNDP facilitated the exchange of experience between El Salvador and Uruguay to explore the feasibility of the implementation of the Suppliers Development Programme in Uruguay based on the experience of El Salvador. As a result, a road map for implementation was developed. 

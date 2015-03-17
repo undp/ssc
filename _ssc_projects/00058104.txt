@@ -16,6 +16,7 @@ territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 
+  - SAU
 published: true
 ---
 With the financial assistance from the Saudi Fund for Development (SFD) and seed funding, UNDP has provided targeted recovery assistance to women and men through cash for work, and rehabilitated community infrastructure for access to basic social services. 

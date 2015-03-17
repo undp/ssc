@@ -20,6 +20,7 @@ partner_location:
   - CHL
   - PER
   - MEX
+  - VEN
 published: true
 ---
 UNDP facilitated knowledge exchange on institutional building processes between the Offices of the Ombudsman of Argentina, Chile, Peru, Mexico and  Venezuela in the framework of the establishment process of the national institution of human rights in Uruguay.

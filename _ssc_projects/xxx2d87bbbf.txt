@@ -16,6 +16,7 @@ undp_role_type:
   - builder_of_capacities
   - knowledge_broker
 partner_location: 
+  - CRI
   - PER
   - ARG
   - BRA

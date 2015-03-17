@@ -16,6 +16,7 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+  - SLV
   - NIC
   - HND
 published: true

@@ -16,8 +16,8 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - BRA
-  - CHN
   - IND
+  - KOR
 published: true
 ---
 UNDP facilitated exchanges between Saudi youth, both female and male, andtheir counterparts in fellow G20 countries like Brazil, China, India, South Africa, South Korea to share development solutions on green economy (South Korea), ICT4D (India), urban development (Brazil), health and development (China) and environmental sustainability (South Africa). 

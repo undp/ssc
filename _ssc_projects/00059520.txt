@@ -16,6 +16,7 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - CUB
+  - BOL
 published: true
 ---
 UNDP facilitated knowledge exchange among Cuba, Bolivia and Uruguay on biomass energy. Uruguay received a Cuban mission and shared their experience of PROBIO Project and biomass sector. In accordance with the south-south cooperation agreement between Uruguay and Bolivia, the Ministry of Planning of Uruguay hosted an study visit for the Bolivian delegation and presented their experience.  

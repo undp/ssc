@@ -17,6 +17,7 @@ territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+  - DOM
   - CUB
 published: true
 ---

@@ -21,10 +21,12 @@ partner_location:
   - NIC
   - ECU
   - MEX
+  - DOM
   - HND
   - ESP
   - URY
   - BRA
+  - CRI
   - CHL
   - COL
 published: true

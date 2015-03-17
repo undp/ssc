@@ -17,7 +17,6 @@ undp_role_type:
 partner_location: 
   - THA
   - BRA
-  - CHN
 published: true
 ---
 UNDP will assist POPC to draw knowledge from its global networks, regional centres in South Africa and Thailand. Contacts will be made with advisory poverty-reduction think-tanks/centres established in Brazil and China. A SSC centre will be established to facilitate the exchange of information.

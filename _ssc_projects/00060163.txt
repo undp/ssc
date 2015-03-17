@@ -18,6 +18,7 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - LVA
+  - RUS
 published: true
 ---
 UNDP will facilitate knowledge exchange study tours and training in priority issues of DR-TB management in Latvia, the Russian Federation and othr relevant countries.

@@ -17,6 +17,7 @@ territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 
+  - BFA
   - BEN
   - NER
 published: true

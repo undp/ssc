@@ -18,8 +18,12 @@ undp_role_type:
 partner_location: 
   - MEX
   - JAM
+  - LCA
+  - KNA
   - DMA
   - GRD
+  - VCT
+  - ATG
 published: true
 ---
 UNDP facilitated partnership and knowledge exchange. An LAC regional expert group was created on multidimensional poverty measurement to take ownership of activities and contribute to the planning and implementation of activities. Through this mechanism CONEVAL Mexico, Planning Institute of Jamaica and Statistics Office of St. Lucia presented multidimensional poverty measurement models during an expert group meeting and workshop, attended by planning ministries and statistics offices. Barbados, St. Kitts and Nevis, Dominica, Grenada, St. Vincent and the Grenadines, Antigua and Barbuda were recipients of these standards and models exchange. This is an ongoing South-South cooperation initiative, as both the presenters and recipients remain part of the expert group for future cooperation

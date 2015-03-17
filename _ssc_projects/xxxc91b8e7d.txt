@@ -18,6 +18,9 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - CHL
+  - BOL
+  - CRI
+  - DOM
 published: true
 ---
 UNDP organized the exchange of knowledge between Chile, Bolivia, Costa Rica, Dominican Republic and Panama through a number of exchanges and transfer of experiences among countries from the region regarding the new adversarial system of criminal justice being implemented in Panama.

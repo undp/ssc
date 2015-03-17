@@ -17,7 +17,6 @@ undp_role_type:
 partner_location: 
   - COL
   - ECU
-  - CHN
 published: true
 ---
 UNDP facilitated the exchange of experiences between Colombia, Ecuador, Peru and China related to opening of New Markets for the Value Added Export Supply of Colombia, Ecuador and Peru. Study visit to China was organized, and analysis of Chinese market was produced. Workshop in Lima was held in order to share the information gathered.

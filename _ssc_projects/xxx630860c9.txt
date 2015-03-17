@@ -18,6 +18,8 @@ undp_role_type:
 partner_location: 
   - PER
   - CUB
+  - SLV
+  - CRI
   - ECU
   - NIC
 published: true

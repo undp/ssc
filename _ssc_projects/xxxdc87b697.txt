@@ -16,8 +16,6 @@ territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 
-  - GIN
-  - WSM
 published: true
 ---
 UNDP facilitated Papua New Guinea Government's access to knowledge and network. In 2010, the Government of Papua New Guinea attended Pacific Regional Consultations on UN Convention Against Corruption (UNCAC) Ratification and Implementation in Apia, Samoa and in Asia-Pacific Anti-Corruption Global Best Practice meetings, which led to PNG's participation in the UNCAC Review Mechanism

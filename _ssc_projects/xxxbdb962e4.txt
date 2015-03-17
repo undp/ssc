@@ -16,6 +16,7 @@ undp_role_type:
   - builder_of_capacities
   - knowledge_broker
 partner_location: 
+  - TZA
 published: true
 ---
 To ensure the use of best practice in catchment management, the project in Zambia (along with Tanzania and DRC catchment components) will use the International Centre for Agro Forestry

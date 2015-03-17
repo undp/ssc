@@ -15,6 +15,7 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+  - SLV
 published: true
 ---
 UNDP facilitated transfer of experience between El Salvador and Colombia. As a result, 25 small and medium supplier enterprises and 56 small business of vulnerable population were developed in 5 cities of the country through a process of personalized technical assistance in the areas of finance, sales, trading and management.

@@ -16,6 +16,7 @@ territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 partner_location: 
+  - CPV
 published: true
 ---
 UNDP provided knowledge brokering and exchange facilitation between Jamaica and Cape Verde. Study tour for Cape Verde Government Mission Team to Jamaica was organized on Development of National Migration Policy and Mainstreaming Migration into National Development Planning & Policy

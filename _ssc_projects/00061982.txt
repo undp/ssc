@@ -21,6 +21,7 @@ partner_location:
   - PER
   - COL
   - CHL
+  - BOL
   - HND
   - ARG
 published: true

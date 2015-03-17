@@ -17,7 +17,6 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - BGD
-  - CHN
   - IDN
   - PAK
 published: true

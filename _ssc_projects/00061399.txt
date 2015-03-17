@@ -17,6 +17,7 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 partner_location: 
+  - DOM
   - BEN
 published: true
 ---

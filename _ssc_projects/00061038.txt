@@ -20,6 +20,7 @@ undp_role_type:
 partner_location: 
   - BTN
   - KHM
+  - LAO
   - MDV
 published: true
 ---

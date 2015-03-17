@@ -16,6 +16,7 @@ undp_role_type:
   - knowledge_broker
 partner_location: 
   - CHL
+  - SLV
 published: true
 ---
 UNDP facilitates exchanges between Chile and Haiti, and administrates the programme's funds. The Chilean government supports Haiti on housing through the implementation of a pilot project of sites and services. Following the UNDP-supported mission to El Salvador and Chile, a project was formulated and resources obtained (2 million USD) from the Government of Chile to replicate its experience in Haiti. Additionally, the Government of Haiti invested their own resources 3 million USD and an additional 4 million USD came from Jaloussie en Coleur. Also a Memorandum of Understanding to implement the Site and Services project was signed between the government of Chile, Haiti and UNDP.

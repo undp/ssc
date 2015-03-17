@@ -68,13 +68,65 @@ class Process
 
   normalise_partner_location: (data) ->
     return unless data
-    cleaned = data.split(" ").map( (i) ->
+
+    words = data.split(" ").map( (i) ->
       i.replace(/\W/g, '')
     )
-    partners = _.chain(cleaned)
-    .map((i) => @match_exact_country_name(i))
-    .compact().uniq().value()
+    partners = _.chain(words)
+      .map((i) => @_match_fuzzy_country_term(i.toLowerCase()))
+      .compact().uniq().value()
     _.difference(partners, @host_location)
+
+  _match_fuzzy_country_term: (term) ->
+    @keywords ||= @_countryKeyWords()
+    if (matched = @keywords[term]) and matched.length == 1
+      console.log 'matched', term, 'with', matched[0], 'for', @pid
+      matched[0]
+
+  _countryKeyWords: ->
+    dict = {}
+    @countries.forEach (c) =>
+      splitted = c.name.split(/(-|\s)/)
+      splitted = _.map(splitted, (word) -> word.toLowerCase())
+      splitted = _.compact(splitted)
+      splitted = _.difference(splitted, @_countryStopWords)
+      _.each(_.compact(splitted), (word) ->
+        word = word.toLowerCase()
+        if dict[word]
+          dict[word].push c.iso3
+        else
+          dict[word] = [c.iso3]
+      )
+    dict
+
+  _countryStopWords: [
+    ' '
+    '(scr'
+    '(United'
+    '-'
+    '1244)'
+    'africa'
+    'african'
+    'american'
+    'and'
+    'cape'
+    'central'
+    'el'
+    'federation'
+    'island'
+    'islands'
+    'of'
+    'puerto'
+    'republic'
+    'san'
+    'sar'
+    'see'
+    'state'
+    'territories'
+    'territory'
+    'the'
+    'western'
+  ]
 
   match_similar_country_name: (term) ->
     term_escaped = term.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&")

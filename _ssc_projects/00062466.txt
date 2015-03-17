@@ -21,10 +21,14 @@ partner_location:
   - PRY
   - MLI
   - LBN
+  - CRI
   - PAN
+  - DOM
+  - SLV
   - NIC
   - GUY
   - JAM
+  - TTO
   - URY
 published: true
 ---

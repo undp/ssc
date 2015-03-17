@@ -17,6 +17,7 @@ undp_role_type:
 partner_location: 
   - BDI
   - RWA
+  - TZA
   - UGA
 published: true
 ---

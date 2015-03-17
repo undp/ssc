@@ -17,7 +17,6 @@ undp_role_type:
 partner_location: 
   - BTN
   - NPL
-  - CHN
   - IND
   - PER
   - CHL

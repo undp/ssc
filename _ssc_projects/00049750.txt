@@ -16,7 +16,7 @@ territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 partner_location: 
-  - CHN
+  - LAO
   - KHM
 published: true
 ---
