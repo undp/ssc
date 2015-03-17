@@ -5,7 +5,7 @@ thematic_focus:
 host_location: 
   - CHL
   - JAM
-  - 
+  - VGB
   - TTO
   - BRB
 region: 
