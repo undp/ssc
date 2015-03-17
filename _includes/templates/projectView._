@@ -52,7 +52,7 @@
       </div>
     </div>
     
-    <div class="w-clearfix"><a class="edit-project-link" href="#">Edit data</a>
+    <div class="w-clearfix"><a class="edit-project-link" href="<%= project.edit_link %>">Edit data</a>
     </div>
 
     <% if(project.open_project_id != ""){ %>
