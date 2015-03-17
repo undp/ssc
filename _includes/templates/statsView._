@@ -1,4 +1,3 @@
-<% console.log(stats.themeArray) %>
 <div class="w-row">
   <div class="w-col w-col-6">
     <div class="stat-headline">
