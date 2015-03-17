@@ -5,7 +5,6 @@ class ProjectView extends Backbone.View
 
   events:
     'click .filter': '_filter'
-    'click .triggerIframeResize': '_triggerIframeResize'
     'click .back-link': '_backToResults'
 
   initialize: ->
@@ -29,10 +28,3 @@ class ProjectView extends Backbone.View
     ev.preventDefault()
     data = ev.target.dataset
     @state.addFilter(facetName: data.filterName, facetValue: data.filterValue)
-
-  _triggerIframeResize: (ev) ->
-    ev.preventDefault()
-    if doc = document.getElementById('project_iframe')
-      newheight = doc.contentWindow.document.body.scrollHeight
-      doc.height= (newheight) + "px"
-      $('#contentTruncated').hide()

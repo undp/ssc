@@ -10,7 +10,7 @@
           <%= _.template.partial('filterItem', {item: item, type: 'host_location'}) %>
         <% }) %>
 
-        <% if (project.partner_location.length > 0) { %>
+        <% if (project.partner_location[0] != "") { %>
           (collaborated with:
           <% _.each(project.partner_location, function(item) { %>
             <%= _.template.partial('filterItem', {item: item, type: 'partner_location'}) %>
@@ -51,19 +51,17 @@
         <% }) %>
       </div>
     </div>
-
-    <a href="<%= project.edit_link %>"><i class="fa fa-edit"></i> Edit</a>
+    
+    <div class="w-clearfix"><a class="edit-project-link" href="#">Edit data</a>
+    </div>
 
     <% if(project.open_project_id != ""){ %>
-      <h2>
-        Additional project information from 
-        <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a>
-      </h2>
+      <div class="external-project-info">
+        <div class="external-heading">External project information available on <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a></div>        
+      </div>
       <iframe id='project_iframe' src="http://open.undp.org/embed.html#widget/project/<%= project.open_project_id %>?stats&documents&outputs" width="100%" height="200px" frameborder="0" marginheight="0" scrolling="no"></iframe>
       <p id='contentTruncated'>
-        <a class='triggerIframeResize'><i class='fa fa-expand'></i> Expand</a>
-        content from 
-        <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a>
+        View full content on <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a>
       </p>
     <% } else { %>
       <p>No project data from <a href="http://open.undp.org">open.undp.org</a></p>

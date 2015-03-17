@@ -575,6 +575,7 @@ p {
 .project-details {
   overflow-x: scroll;
   overflow-y: scroll;
+  height: 409px;
   padding: 10px;
 }
 .detail-title {
@@ -595,6 +596,21 @@ p {
 }
 .detail-line {
   margin-bottom: 10px;
+}
+.edit-project-link {
+  float: right;
+  color: dimgray;
+  font-size: 12px;
+  line-height: 18px;
+  text-decoration: none;
+}
+.external-project-info {
+  margin-top: 10px;
+}
+.external-heading {
+  color: #1057a7;
+  font-size: 22px;
+  line-height: 24px;
 }
 html.w-mod-js *[data-ix="display-none"] {
   display: none;
