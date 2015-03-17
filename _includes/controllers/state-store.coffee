@@ -80,7 +80,7 @@ class StateStore
 
     foundLocal = @_findLocal(stateRef)
 
-    if foundLocal? 
+    if foundLocal
       deferred.resolve(foundLocal) 
     else
       @_findRemote(stateRef, deferred)
@@ -90,7 +90,7 @@ class StateStore
   _findLocal: (stateRef) ->
     retrieved = localStorage.getItem(stateRef)
 
-    if retrieved?
+    if retrieved
       return JSON.parse(retrieved)
     else
       return false
