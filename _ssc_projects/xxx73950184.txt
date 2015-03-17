@@ -3,7 +3,17 @@ open_project_id: ""
 thematic_focus: 
   - resilience_building
 host_location: 
-  - 
+  - BLZ
+  - PAN
+  - CUB
+  - JAM
+  - HTI
+  - DOM
+  - VGB
+  - BRB
+  - TTO
+  - GUY
+  - SUR
 region: 
   - lac
 partner_type: 

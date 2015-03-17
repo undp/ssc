@@ -3,7 +3,16 @@ open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
 host_location: 
-  - 
+  - AIA
+  - ATG
+  - BRB
+  - VGB
+  - DMA
+  - GRD
+  - MSR
+  - LCA
+  - KNA
+  - VCT
 region: 
   - lac
 partner_type: 

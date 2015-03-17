@@ -3,7 +3,16 @@ open_project_id: ""
 thematic_focus: 
   - resilience_building
 host_location: 
-  - 
+  - AIA
+  - ATG
+  - BRB
+  - VGB
+  - DMA
+  - GRD
+  - MSR
+  - LCA
+  - KNA
+  - VCT
 region: 
   - lac
 partner_type: 

@@ -3,7 +3,21 @@ open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
 host_location: 
-  - 
+  - ATG
+  - BHS
+  - BRB
+  - BLZ
+  - DMA
+  - GRD
+  - GUY
+  - HTI
+  - JAM
+  - MSR
+  - LCA
+  - KNA
+  - VCT
+  - SUR
+  - TTO
 region: 
   - lac
 partner_type: 

@@ -3,8 +3,15 @@ open_project_id: "00037179"
 thematic_focus: 
   - sustainable_development_pathways
 host_location: 
-  - 
-  - 
+  - AGO
+  - BRA
+  - CPV
+  - GNB
+  - GNQ
+  - MOZ
+  - PRT
+  - TLS
+  - STP
 region: 
   - lac
 partner_type: 

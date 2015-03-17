@@ -3,7 +3,20 @@ open_project_id: "00051446"
 thematic_focus: 
   - resilience_building
 host_location: 
-  - 
+  - COK
+  - FSM
+  - FJI
+  - KIR
+  - MHL
+  - NRU
+  - NIU
+  - PLW
+  - PNG
+  - WSM
+  - TON
+  - TUV
+  - VUT
+  - SLB
 region: 
   - asia_pacific
 partner_type: 

@@ -3,7 +3,33 @@ open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
 host_location: 
-  - 
+  - AFG
+  - BGD
+  - BTN
+  - KHM
+  - COK
+  - FJI
+  - IND
+  - IDN
+  - JPN
+  - KIR
+  - KOR
+  - KGZ
+  - LAO
+  - MDV
+  - MNG
+  - NPL
+  - PAK
+  - PNG
+  - PHL
+  - WSM
+  - SLB
+  - LKA
+  - THA
+  - TLS
+  - TON
+  - VUT
+  - VNM
 region: 
   - asia_pacific
 partner_type: 
