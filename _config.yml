@@ -1,10 +1,10 @@
 editor:
   github_repo: peoplesized/ssc-dev
-  url: http://prose.io
+  url: "http://prose.io"
 baseurl: ""
 title: UNDP South South Cooperation
-domain: http://undp-ssc-mapping.org
-email: js@ppls.io
+domain: "http://undp-ssc-mapping.org"
+email: "js@ppls.io"
 description: South-South Cooperation data
 host: 0.0.0.0
 exclude:
@@ -583,8 +583,6 @@ prose:
               value: SSD
             - name: Slovak Republic
               value: SVK
-            - name: Kyrgyz Republic
-              value: KGZ
       - name: partner_type
         field:
           element: multiselect
@@ -1084,5 +1082,3 @@ prose:
               value: SSD
             - name: Slovak Republic
               value: SVK
-            - name: Kyrgyz Republic
-              value: KGZ
