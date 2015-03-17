@@ -20,7 +20,7 @@ class ListView extends Backbone.View
 
   _showProject: (ev) =>
     ev.preventDefault()
-    projectId = ev.currentTarget.dataset?.projectId
+    projectId = ev.currentTarget.getAttribute('data-project-id')?
     @state.trigger 'content:projectShow', projectId
 
   _searchedAndFoundProjects: (results) =>

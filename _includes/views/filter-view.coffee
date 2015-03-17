@@ -49,13 +49,19 @@ class FilterView extends Backbone.View
 
   _addFilter: (ev) =>
     ev.preventDefault()
-    data = ev.currentTarget.dataset
-    @state.addFilter(facetName: data.filterName, facetValue: data.filterValue)
+    elem = ev.currentTarget
+    @state.addFilter(
+      facetName: elem.getAttribute('data-filter-name')
+      facetValue: elem.getAttribute('data-filter-value')
+    )
 
   _removeFilter: (ev) =>
     ev.preventDefault()
-    data = ev.currentTarget.dataset
-    @state.removeFilter(facetName: data.filterName, facetValue: data.filterValue)
+    elem = ev.currentTarget
+    @state.removeFilter(
+      facetName: elem.getAttribute('data-filter-name')
+      facetValue: elem.getAttribute('data-filter-value')
+    )
 
   _resetFilters: (ev) =>
     ev.preventDefault()

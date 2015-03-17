@@ -4,7 +4,7 @@ class ProjectView extends Backbone.View
   template: -> _.template($('#projectView').html())
 
   events:
-    'click .filter': '_filter'
+    'click .filter': '_addFilter'
     'click .back-link': '_backToResults'
 
   initialize: ->
@@ -24,7 +24,10 @@ class ProjectView extends Backbone.View
     ev.preventDefault()
     @state.trigger 'content:projectIndex'
 
-  _filter: (ev) ->
+  _addFilter: (ev) ->
     ev.preventDefault()
-    data = ev.target.dataset
-    @state.addFilter(facetName: data.filterName, facetValue: data.filterValue)
+    elem = ev.currentTarget
+    @state.addFilter(
+      facetName: elem.getAttribute('data-filter-name')
+      facetValue: elem.getAttribute('data-filter-value')
+    )
