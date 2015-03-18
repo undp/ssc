@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - cso
-project_title: "Regional Knowledge Sharing Project and Risk Reduction Management Centre (under Caribbean Risk Management Initiative II Project)"
+project_title: Regional Knowledge Sharing Project and Risk Reduction Management Centre (under Caribbean Risk Management Initiative II Project)
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
@@ -19,4 +19,4 @@ partner_location:
   - CUB
 published: true
 ---
-UNDP coordinated knowledge exchange between Cuba and Jamaica, and provided financial support to Technical Mission from Cuba to Jamaica. Among other supported SSC activities were: preparation and translation of methodology, exchange workshop, preparation, of toolkit, awareness raising. 
+UNDP coordinated knowledge exchange between Cuba and Jamaica, and provided financial support to Technical Mission from Cuba to Jamaica. Among other supported SSC activities were- preparation and translation of methodology, exchange workshop, preparation, of toolkit, awareness raising. 

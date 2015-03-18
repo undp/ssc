@@ -8,9 +8,9 @@ region:
   - asia_pacific
 partner_type: 
   - national_governments
-project_title: "Corporate Social Responsibility of Chinese Enterprises Overseas"
+project_title: Corporate Social Responsibility of Chinese Enterprises Overseas
 scale: national
-project_objective: "To provide China's private sector the learning and leadership tools it needs to conduct its activities abroad responsibly. In 2013 the State-owned Assets Supervision and Administration Commission of the State Council (SASAC) requested UNDP's collaboration to advance the responsible business practices of China's State-owned Enterprises (SOEs) by developing a framework to systemize current ad hoc CSR approaches to South-South cooperation, thereby promoting the sustainable development of Chinese enterprises abroad. The collaboration answers a call from Chinese business leaders for further policy and practical expertise on how to overcome the many challenges they face when operating in politically unstable countries that may lack basic physical and/or institutional infrastructure."
+project_objective: To provide China's private sector the learning and leadership tools it needs to conduct its activities abroad responsibly. In 2013 the State-owned Assets Supervision and Administration Commission of the State Council (SASAC) requested UNDP's collaboration to advance the responsible business practices of China's State-owned Enterprises (SOEs) by developing a framework to systemize current ad hoc CSR approaches to South-South cooperation, thereby promoting the sustainable development of Chinese enterprises abroad. The collaboration answers a call from Chinese business leaders for further policy and practical expertise on how to overcome the many challenges they face when operating in politically unstable countries that may lack basic physical and/or institutional infrastructure.
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities

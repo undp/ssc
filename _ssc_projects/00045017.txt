@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - cso
-project_title: "Mainstreaming Prevention and Control Measures for Invasive Alien Species into Trade, Transport and Travel across the Production Landscape"
+project_title: Mainstreaming Prevention and Control Measures for Invasive Alien Species into Trade, Transport and Travel across the Production Landscape
 scale: national
-project_objective: "To implement components of the Environmental Management Plan of Seychelles (EMPS) pertaining to the conservation of biodiversity, designed to better nest conservation into the development plans and practices of the economy's production sectors."
+project_objective: To implement components of the Environmental Management Plan of Seychelles (EMPS) pertaining to the conservation of biodiversity, designed to better nest conservation into the development plans and practices of the economy's production sectors.
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

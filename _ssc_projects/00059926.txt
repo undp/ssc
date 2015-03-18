@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Support to the 2010-2012 Liberian Electoral Cycle"
+project_title: Support to the 2010-2012 Liberian Electoral Cycle
 scale: national
-project_objective: "To suppurt electoral process in Liberia"
+project_objective: To suppurt electoral process in Liberia
 territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities

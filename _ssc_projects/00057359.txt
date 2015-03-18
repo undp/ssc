@@ -10,9 +10,9 @@ partner_type:
   - national_governments
   - cso
   - academia
-project_title: "The National Area-Based Development Programme (NABDP)"
+project_title: The National Area-Based Development Programme (NABDP)
 scale: national
-project_objective: "To promote recovery and longer term development in Afghanistan while building the government's capacity to lead and coordinate participatory approaches to development. Partners involved in SSC: Afghanistan Ministry of Rural Rehabilitation and Development (MRRD) and India's The Energy and Resources Institute (TERI)"
+project_objective: To promote recovery and longer term development in Afghanistan while building the government's capacity to lead and coordinate participatory approaches to development. Partners involved in SSC- Afghanistan Ministry of Rural Rehabilitation and Development (MRRD) and India's The Energy and Resources Institute (TERI)
 territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities

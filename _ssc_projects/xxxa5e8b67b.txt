@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - cso
-project_title: "Quality Management With Equity Programme"
+project_title: Quality Management With Equity Programme
 scale: national
-project_objective: "The programme certifies companies with gender-friendly labour policies"
+project_objective: The programme certifies companies with gender-friendly labour policies
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
@@ -19,4 +19,4 @@ partner_location:
   - COL
 published: true
 ---
-UNDP is a knowledge broker: experts from Uruguay travelled to Colombia to exchange knowledge in order to support the implementation of a similar programme in Colombia called EQUIPARES.
+UNDP is a knowledge broker- experts from Uruguay travelled to Colombia to exchange knowledge in order to support the implementation of a similar programme in Colombia called EQUIPARES.

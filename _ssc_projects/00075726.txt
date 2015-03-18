@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Framework support project to South South cooperation strategy"
+project_title: Framework support project to South South cooperation strategy
 scale: national
-project_objective: "To support the Uruguayan Agency for International Cooperation (AUCI) Strategy in South-South Cooperation (SSC) and triangular cooperation, and the implementation of specific initiatives under this strategy, based on bilateral or triangular cooperation agreements subcreibed by AUCI. "
+project_objective: To support the Uruguayan Agency for International Cooperation (AUCI) Strategy in South-South Cooperation (SSC) and triangular cooperation, and the implementation of specific initiatives under this strategy, based on bilateral or triangular cooperation agreements subcreibed by AUCI. 
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker

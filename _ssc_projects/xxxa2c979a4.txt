@@ -8,9 +8,9 @@ region:
   - asia_pacific
 partner_type: 
   - private_sector
-project_title: "Indigenous Radio"
+project_title: Indigenous Radio
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker

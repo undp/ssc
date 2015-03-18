@@ -9,9 +9,9 @@ region:
 partner_type: 
   - academia
   - private_sector
-project_title: "TFPG- Cleaner production:  “Development of the Cleaner Production in the Sugar and Byproducts Industries”"
+project_title: TFPG- Cleaner production-  “Development of the Cleaner Production in the Sugar and Byproducts Industries”
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
@@ -22,4 +22,4 @@ partner_location:
   - VEN
 published: true
 ---
-UNDP was a knowledge broker between (1) Cuba and Mexico, assisting to develop a joint bio filtration process of distillery stillage alcohol for reducing the pollution load of the waste stream; (2) Cuba, Costa Rica, México, Colombia and Venezuela - as a result, graduate course in Cuba: 'Use of riverine macro invertebrates as indicators of water quality and eutrophication of reservoirs.' was introduced. 
+UNDP was a knowledge broker between (1) Cuba and Mexico, assisting to develop a joint bio filtration process of distillery stillage alcohol for reducing the pollution load of the waste stream; (2) Cuba, Costa Rica, México, Colombia and Venezuela - as a result, graduate course in Cuba- 'Use of riverine macro invertebrates as indicators of water quality and eutrophication of reservoirs.' was introduced. 

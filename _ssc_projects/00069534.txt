@@ -10,9 +10,9 @@ partner_type:
   - international_cooperation_development_agencies
   - national_governments
   - private_sector
-project_title: "Improving the Climate Resiliency of Kazakhstan Wheat and Central Asian Food Security"
+project_title: Improving the Climate Resiliency of Kazakhstan Wheat and Central Asian Food Security
 scale: national
-project_objective: "To support regional food security through increased resilience at national and local levels, as well as improve awareness and understanding of the possible implications of climate variability and change on wheat and food security at the regional level. l "
+project_objective: To support regional food security through increased resilience at national and local levels, as well as improve awareness and understanding of the possible implications of climate variability and change on wheat and food security at the regional level. l 
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships

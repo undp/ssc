@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: "Strengthening the South American Network for textile and commercial standardization of natural fine hair from South American Camelids Alpaca in Argentina, Bolivia and Peru"
+project_title: Strengthening the South American Network for textile and commercial standardization of natural fine hair from South American Camelids Alpaca in Argentina, Bolivia and Peru
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities

@@ -8,9 +8,9 @@ region:
   - asia_pacific
 partner_type: 
   - regional_inter_governmental_organizations
-project_title: "Articulating Territorial and Thematic Networks for Local Governance and developpment (ART GOLD"
+project_title: Articulating Territorial and Thematic Networks for Local Governance and developpment (ART GOLD
 scale: national
-project_objective: "ART GOLD is an umbrella program that provides technques, instruments and financial resources for advancing of decentralization."
+project_objective: ART GOLD is an umbrella program that provides technques, instruments and financial resources for advancing of decentralization.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
@@ -18,4 +18,4 @@ undp_role_type:
 partner_location: 
 published: true
 ---
-UNDP will help establish thematic partnership networks in several domaines of local development (south-south, north-south-south, north-south): sharing best practices, think tanks, scientific alliances. One of the planned outputs is formalisation of international partnerships, establishment and consolidation of partnerships among local authotiees (north-south, south-south). 
+UNDP will help establish thematic partnership networks in several domaines of local development (south-south, north-south-south, north-south)- sharing best practices, think tanks, scientific alliances. One of the planned outputs is formalisation of international partnerships, establishment and consolidation of partnerships among local authotiees (north-south, south-south). 

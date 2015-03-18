@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: "Support to the strengthening of the Dominican government's Social Cabinet, aimed at the attainment of MDGs"
+project_title: Support to the strengthening of the Dominican government's Social Cabinet, aimed at the attainment of MDGs
 scale: national
-project_objective: "To promote relevant Public Policies for the Achievement of the Millennium Development Goals MDGs"
+project_objective: To promote relevant Public Policies for the Achievement of the Millennium Development Goals MDGs
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

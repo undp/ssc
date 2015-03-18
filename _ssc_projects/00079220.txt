@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - academia
-project_title: "ProHuerta programme"
+project_title: ProHuerta programme
 scale: national
-project_objective: "To promote family/community vegetable gardens to fight food insecurity and malnutrition"
+project_objective: To promote family/community vegetable gardens to fight food insecurity and malnutrition
 territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships

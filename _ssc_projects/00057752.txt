@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Enhancing the rule of law in Seychelles through the strenghtening of monitoring and oversight capacity of the judiciary"
+project_title: Enhancing the rule of law in Seychelles through the strenghtening of monitoring and oversight capacity of the judiciary
 scale: national
-project_objective: "To increase the democratic governance and the rule of law in Seychelles by strengthening the capacity of the judicial system. Particularly, it will aim to increase efficiency, transparency and integrity and thus enhance accountability within the justice administration by supporting the development and promotion of efficient and fair trials in compliance with the international norms and standards of criminal justice. The project will improve the overall justice administration system through capacity building for judges, prosecutors and court staff and the establishment of monitoring and evaluation mechanisms."
+project_objective: To increase the democratic governance and the rule of law in Seychelles by strengthening the capacity of the judicial system. Particularly, it will aim to increase efficiency, transparency and integrity and thus enhance accountability within the justice administration by supporting the development and promotion of efficient and fair trials in compliance with the international norms and standards of criminal justice. The project will improve the overall justice administration system through capacity building for judges, prosecutors and court staff and the establishment of monitoring and evaluation mechanisms.
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

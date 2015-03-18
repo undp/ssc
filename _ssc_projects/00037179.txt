@@ -16,9 +16,9 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: "Implementation of South-South cooperation projects and activities in Latin America, Africa and CPLP"
+project_title: Implementation of South-South cooperation projects and activities in Latin America, Africa and CPLP
 scale: global
-project_objective: "To identify, plan and implement South-South cooperation projects and activities in Latin America, Africa and CPLP (Community of Portuguese Speaking Countries). "
+project_objective: To identify, plan and implement South-South cooperation projects and activities in Latin America, Africa and CPLP (Community of Portuguese Speaking Countries). 
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker

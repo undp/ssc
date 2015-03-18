@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: "Energy Efficiency in Buildings"
+project_title: Energy Efficiency in Buildings
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
@@ -20,4 +20,4 @@ partner_location:
   - DEU
 published: true
 ---
-UNDP facilitated the exchange of experiences on efficient energy measures between Mexico, Brazil and Colombia. The project organized technical visits to Mexico and Brazil to exchange experiences on energy efficiency and non-conventional energy use of programmes as well as funding sources. As a result of these visits: (1) institutional agreements between UPME and the Electrical Energy Saving Trusteeship (FIDE) were signed to share FIDE's lessons learned on energy efficiency projects; (2) triangular south-south-north cooperation agreement between the Presidential Agency on International Cooperation (Colombia), the National Workers Housing Fund Institute - INFONAVIT (Mexico) and GIZ (Germany) was signed with an aim to create technical capacity for creating a green mortgage system to Colombia, similar to one used in Mexico. Additionally, Colombia will provide support to enhance the Mexican capacity for urban planning. 
+UNDP facilitated the exchange of experiences on efficient energy measures between Mexico, Brazil and Colombia. The project organized technical visits to Mexico and Brazil to exchange experiences on energy efficiency and non-conventional energy use of programmes as well as funding sources. As a result of these visits- (1) institutional agreements between UPME and the Electrical Energy Saving Trusteeship (FIDE) were signed to share FIDE's lessons learned on energy efficiency projects; (2) triangular south-south-north cooperation agreement between the Presidential Agency on International Cooperation (Colombia), the National Workers Housing Fund Institute - INFONAVIT (Mexico) and GIZ (Germany) was signed with an aim to create technical capacity for creating a green mortgage system to Colombia, similar to one used in Mexico. Additionally, Colombia will provide support to enhance the Mexican capacity for urban planning. 

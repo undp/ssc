@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Sustainable Development through Peace Building, Governance and Economic Recovery in Khyber Pakhtunkhwa/FATA"
+project_title: Sustainable Development through Peace Building, Governance and Economic Recovery in Khyber Pakhtunkhwa/FATA
 scale: national
-project_objective: "To promote sustainable development through Peace Building, Governance and Economic Recovery in Khyber Pakhtunkhwa Programme"
+project_objective: To promote sustainable development through Peace Building, Governance and Economic Recovery in Khyber Pakhtunkhwa Programme
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships

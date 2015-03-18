@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: "Electricity Production from Biomass in Uruguay"
+project_title: Electricity Production from Biomass in Uruguay
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker

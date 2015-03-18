@@ -11,9 +11,9 @@ partner_type:
   - national_governments
   - cso
   - academia
-project_title: "Zambia-China Climate Change & Sustainable Development"
+project_title: Zambia-China Climate Change & Sustainable Development
 scale: national
-project_objective: "Transfer of Renewable Energy Technologies from China and Africa: Zambia Renewable Energy Trilateral.  to introduce solar and hydropower technology in rural Zambia under a partnership between UNDP, MOST, the Ministry of Mines, Energy and Water Development of Zambia, research institutions, the private sector and local communities."
+project_objective: Transfer of Renewable Energy Technologies from China and Africa- Zambia Renewable Energy Trilateral.  to introduce solar and hydropower technology in rural Zambia under a partnership between UNDP, MOST, the Ministry of Mines, Energy and Water Development of Zambia, research institutions, the private sector and local communities.
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities

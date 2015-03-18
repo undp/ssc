@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - cso
-project_title: "UNDP Central Asia Multi-Country Programme on Climate Risk Management"
+project_title: UNDP Central Asia Multi-Country Programme on Climate Risk Management
 scale: national
-project_objective: "Objective of the project's multi-country/regional component is to promote reduction of climate-related disasters and adaptation to climate change in Kazakhstan and to integrate climate risk management into Kazakhstan's core development policy and strategies. This project involved the following countries Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. "
+project_objective: Objective of the project's multi-country/regional component is to promote reduction of climate-related disasters and adaptation to climate change in Kazakhstan and to integrate climate risk management into Kazakhstan's core development policy and strategies. This project involved the following countries Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. 
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities

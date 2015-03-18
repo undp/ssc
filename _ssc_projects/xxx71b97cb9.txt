@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: "The 'Live Schools' project"
+project_title: The 'Live Schools' project
 scale: national
-project_objective: "The was conceived as a South-South Cooperation between the Governments of El Salvador and Brazil and was implemented by the program Volunteers (UNV) Programme, United Nations Development Programme (UNDP ) and the Secretariat of Social Inclusion of El Salvador. The pilot project, which began in September 2011, ended in October 2012. During that period, the educational community of three schools-Centro Escolar Pedro Pablo Castillo (Tepetitán) School Priest Centre Norberto Marroquín (Verapaz) and Salvador Hidalgo Cornejo School (Guadalupe) - were trained in managing disaster risk, food security and nutrition and organic farming techniques. The Brazilian team of volunteers was composed by a dietician, an educator, an expert in disaster risk management an agronomist and coordinator. More than 1,700 students and 64 teachers were benefited by this project where school gardens were created and several guidelines books were developed to act as a teaching tool that could be replicated in other schools."
+project_objective: The was conceived as a South-South Cooperation between the Governments of El Salvador and Brazil and was implemented by the program Volunteers (UNV) Programme, United Nations Development Programme (UNDP ) and the Secretariat of Social Inclusion of El Salvador. The pilot project, which began in September 2011, ended in October 2012. During that period, the educational community of three schools-Centro Escolar Pedro Pablo Castillo (Tepetitán) School Priest Centre Norberto Marroquín (Verapaz) and Salvador Hidalgo Cornejo School (Guadalupe) - were trained in managing disaster risk, food security and nutrition and organic farming techniques. The Brazilian team of volunteers was composed by a dietician, an educator, an expert in disaster risk management an agronomist and coordinator. More than 1,700 students and 64 teachers were benefited by this project where school gardens were created and several guidelines books were developed to act as a teaching tool that could be replicated in other schools.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

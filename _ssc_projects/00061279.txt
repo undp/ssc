@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: "Support to the institutional strengthening of the Social Subsidies Administration Unit"
+project_title: Support to the institutional strengthening of the Social Subsidies Administration Unit
 scale: national
-project_objective: "To help improve the impact of Social Protection Policy increasing the efficiency and effectiveness of the Technical Department of the Cabinet of Social Policy Coordination"
+project_objective: To help improve the impact of Social Protection Policy increasing the efficiency and effectiveness of the Technical Department of the Cabinet of Social Policy Coordination
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Frontera Verde GEF – Artibonite Project"
+project_title: Frontera Verde GEF – Artibonite Project
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
@@ -21,4 +21,4 @@ partner_location:
   - CPV
 published: true
 ---
-UNDP provides exchange facilitation, knowledge brokering and capacity development. The Dominican Republic's Ministry of Environment shared experience with its counterpart in Haiti (1) to increase the number of hectares planted through the project Frontera Verde which focuses on reforestation in the border zone and management of natural resources; (2) on the international watershed management to reduce risks of conflicts related to the utilization of water. As a result, more than 600 ha were planted in Haiti and more than 700 ha in Dominican Republic through community brigades for reforestation: methodology developed in DR and adapted in Haiti with support of DR expertise. Sustainable livelihoods alternative developed: greenhouses, goat farming and beekeeping activities with exchange of technical expertise between the two countries. Technical cooperation on binational database for management of natural resources and political dialogue on Trans boundary environmental issues. A study “Trans boundary Diagnostical Analysis” for the binational watershed of Artibonite was produced as a result of cooperation between DR and Haiti technical services. Strategical Action Programme for binational Artibonite watershed designed in collaboration with both country, political dialogue to continue to set up the binational committee.
+UNDP provides exchange facilitation, knowledge brokering and capacity development. The Dominican Republic's Ministry of Environment shared experience with its counterpart in Haiti (1) to increase the number of hectares planted through the project Frontera Verde which focuses on reforestation in the border zone and management of natural resources; (2) on the international watershed management to reduce risks of conflicts related to the utilization of water. As a result, more than 600 ha were planted in Haiti and more than 700 ha in Dominican Republic through community brigades for reforestation- methodology developed in DR and adapted in Haiti with support of DR expertise. Sustainable livelihoods alternative developed- greenhouses, goat farming and beekeeping activities with exchange of technical expertise between the two countries. Technical cooperation on binational database for management of natural resources and political dialogue on Trans boundary environmental issues. A study “Trans boundary Diagnostical Analysis” for the binational watershed of Artibonite was produced as a result of cooperation between DR and Haiti technical services. Strategical Action Programme for binational Artibonite watershed designed in collaboration with both country, political dialogue to continue to set up the binational committee.

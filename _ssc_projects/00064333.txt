@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - cso
-project_title: "Effective Disaster Risk Management for Sustainable Development and Human Security Project"
+project_title: Effective Disaster Risk Management for Sustainable Development and Human Security Project
 scale: national
-project_objective: "Among the planned outcomes is the strengthening of regional cooperation in addressing resource-based transboundary conflicts and mainstreaming of cross-cutting issues  (gender and age-sensitive approaches) into essential elements of DRR. Kyrgyzstan and Kazakhstan have signed Memorandum on further establishment of Central Asian Center for Disaster Response and Risk Reduction (CACDRRR) , to which Tajikistan will join at later stages to identify transboundary and resource-based conflict dimensions and prioritize actions to address them. "
+project_objective: Among the planned outcomes is the strengthening of regional cooperation in addressing resource-based transboundary conflicts and mainstreaming of cross-cutting issues  (gender and age-sensitive approaches) into essential elements of DRR. Kyrgyzstan and Kazakhstan have signed Memorandum on further establishment of Central Asian Center for Disaster Response and Risk Reduction (CACDRRR) , to which Tajikistan will join at later stages to identify transboundary and resource-based conflict dimensions and prioritize actions to address them. 
 territorial_focus: ldc
 undp_role_type: 
   - builder_of_capacities

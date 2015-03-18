@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - academia
-project_title: "Country Pilot PartnershIp on Sustainable Land Management - Supporting Implementation of the Cuban National Programme to Combat Desertification and Drought"
+project_title: Country Pilot PartnershIp on Sustainable Land Management - Supporting Implementation of the Cuban National Programme to Combat Desertification and Drought
 scale: national
-project_objective: "Capacity Building for Planning, Decision Making and Regulatory Systems & Awareness Building / Sustainable Land Management in Severely Degraded Ecosystems"
+project_objective: Capacity Building for Planning, Decision Making and Regulatory Systems & Awareness Building / Sustainable Land Management in Severely Degraded Ecosystems
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

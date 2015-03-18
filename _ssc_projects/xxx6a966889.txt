@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Support to the establishment process of the national institution of human rights in Uruguay"
+project_title: Support to the establishment process of the national institution of human rights in Uruguay
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker

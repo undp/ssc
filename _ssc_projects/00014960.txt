@@ -8,9 +8,9 @@ region:
   - asia_pacific
 partner_type: 
   - regional_inter_governmental_organizations
-project_title: "Strengthening institutional capacity of the national parliament in Timor-Leste"
+project_title: Strengthening institutional capacity of the national parliament in Timor-Leste
 scale: national
-project_objective: "To strengthen parliamentary democracy and institutional capacity of the National Parliament in Timor Leste."
+project_objective: To strengthen parliamentary democracy and institutional capacity of the National Parliament in Timor Leste.
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker

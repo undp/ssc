@@ -7,9 +7,9 @@ region:
   - asia_pacific
 partner_type: 
   - national_governments
-project_title: "UN Coordination Programme in the Maldives"
+project_title: UN Coordination Programme in the Maldives
 scale: national
-project_objective: "To enhance the strategic positioning of the UN system in supporting the country achieve its national development objectives and meets is international development and human rights objectives. It also aims to promote greater coherence, relevance, effectiveness and efficiency in the UN system's development assistance. This project includes support to national development planning, monitoring achievement of the Millennium Development Goal, aid effectiveness, UN Common Programming, gender and human rights mainstreaming, and implementation of harmonized business processes and common services."
+project_objective: To enhance the strategic positioning of the UN system in supporting the country achieve its national development objectives and meets is international development and human rights objectives. It also aims to promote greater coherence, relevance, effectiveness and efficiency in the UN system's development assistance. This project includes support to national development planning, monitoring achievement of the Millennium Development Goal, aid effectiveness, UN Common Programming, gender and human rights mainstreaming, and implementation of harmonized business processes and common services.
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

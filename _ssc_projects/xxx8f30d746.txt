@@ -8,9 +8,9 @@ region:
   - asia_pacific
 partner_type: 
   - national_governments
-project_title: "Cross-Border Economic Cooperation Zones"
+project_title: Cross-Border Economic Cooperation Zones
 scale: national
-project_objective: "To improve the economic integration with partners in Asia through the implementation of cross-border economic cooperation zones (CBEZs). China shares borders with 14 countries, but only a very small proportion of its total trade is conducted with immediate neighbours. "
+project_objective: To improve the economic integration with partners in Asia through the implementation of cross-border economic cooperation zones (CBEZs). China shares borders with 14 countries, but only a very small proportion of its total trade is conducted with immediate neighbours. 
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships

@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - cso
-project_title: "Contributions to a new model towards youth policy"
+project_title: Contributions to a new model towards youth policy
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker

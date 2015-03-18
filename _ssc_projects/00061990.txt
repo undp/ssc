@@ -11,9 +11,9 @@ partner_type:
   - national_governments
   - cso
   - academia
-project_title: "Mainstreaming Environment & Climate Change in Development Plans"
+project_title: Mainstreaming Environment & Climate Change in Development Plans
 scale: national
-project_objective: "To ensure that environment and climate change are mainstreamed in most economically important and vulnerable sectors of the economy in Tanzania leading to poverty reduced levels while maintaining environmental integrity."
+project_objective: To ensure that environment and climate change are mainstreamed in most economically important and vulnerable sectors of the economy in Tanzania leading to poverty reduced levels while maintaining environmental integrity.
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker

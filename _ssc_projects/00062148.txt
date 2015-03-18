@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Mainstreaming Migration in National Development Strategies Project"
+project_title: Mainstreaming Migration in National Development Strategies Project
 scale: national
-project_objective: "To mainstream migration into national development strategies"
+project_objective: To mainstream migration into national development strategies
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

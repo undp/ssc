@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "The India-Brazil-South Africa (IBSA) partnership - Project on Leadership Development and Institutional Capacity Building in Sierra Leone"
+project_title: The India-Brazil-South Africa (IBSA) partnership - Project on Leadership Development and Institutional Capacity Building in Sierra Leone
 scale: national
-project_objective: "To strengthen the capacity of key central institutions – the Ministry of Foreign Affairs, the Cabinet Secretariat and the Strategy and Policy Unit in the Office of the President - to implement reforms that promote good governance and improved service delivery. This includes supporting Human Resource planning and management, strategy and policy development, and the implementation and monitoring of delivery. The Project's overall goal is to ensure these agencies and their senior staff have the capacity for strategic and modern management and decision-making that supports improved service delivery so as to reduce poverty, achieve the Millennium Development Goals (MDGs) and support human development in Sierra Leone. "
+project_objective: To strengthen the capacity of key central institutions – the Ministry of Foreign Affairs, the Cabinet Secretariat and the Strategy and Policy Unit in the Office of the President - to implement reforms that promote good governance and improved service delivery. This includes supporting Human Resource planning and management, strategy and policy development, and the implementation and monitoring of delivery. The Project's overall goal is to ensure these agencies and their senior staff have the capacity for strategic and modern management and decision-making that supports improved service delivery so as to reduce poverty, achieve the Millennium Development Goals (MDGs) and support human development in Sierra Leone. 
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker

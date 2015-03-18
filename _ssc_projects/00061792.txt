@@ -9,9 +9,9 @@ region:
 partner_type: 
   - regional_inter_governmental_organizations
   - national_governments
-project_title: "Capacity building program on low emissions in Morocco (Programme de renforcement de capacités sur les faibles émissions au Maroc)"
+project_title: Capacity building program on low emissions in Morocco (Programme de renforcement de capacités sur les faibles émissions au Maroc)
 scale: national
-project_objective: "To build Morocco's capacities on low emissions "
+project_objective: To build Morocco's capacities on low emissions 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

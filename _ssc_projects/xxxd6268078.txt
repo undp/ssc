@@ -7,9 +7,9 @@ host_location:
 region: 
   - lac
 partner_type: 
-project_title: "Human Local Development Programme (PDHL Cuba)"
+project_title: Human Local Development Programme (PDHL Cuba)
 scale: regional
-project_objective: ""
+project_objective: 
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker

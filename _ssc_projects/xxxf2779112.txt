@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Suppliers Development Programme"
+project_title: Suppliers Development Programme
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker

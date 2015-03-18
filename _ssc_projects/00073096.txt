@@ -9,9 +9,9 @@ region:
 partner_type: 
   - regional_inter_governmental_organizations
   - national_governments
-project_title: "Support to the strengthening of management of the Secretariat of Culture of the Nation"
+project_title: Support to the strengthening of management of the Secretariat of Culture of the Nation
 scale: national
-project_objective: "One of the project objectives is to strengthen the structure of the Cabinet of the Secretariat of Culture of the Nation, through the strengthening of its functional structure, the creation of the Project Coordination Unit and Liaison Unit for South-South Cooperation.  The activity took place in the framework of a National Implementation Project whose implementing partner is the Secretariat of Culture of the Nation. Benefiting countries: Argentina, Venezuela, Colombia, Ecuador, Bolivia "
+project_objective: One of the project objectives is to strengthen the structure of the Cabinet of the Secretariat of Culture of the Nation, through the strengthening of its functional structure, the creation of the Project Coordination Unit and Liaison Unit for South-South Cooperation.  The activity took place in the framework of a National Implementation Project whose implementing partner is the Secretariat of Culture of the Nation. Benefiting countries- Argentina, Venezuela, Colombia, Ecuador, Bolivia 
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships

@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - private_sector
-project_title: "Gender Equality Management system in businesses and institutions"
+project_title: Gender Equality Management system in businesses and institutions
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

@@ -8,9 +8,9 @@ region:
 partner_type: 
   - regional_inter_governmental_organizations
   - national_governments
-project_title: "Binational Local Development Project"
+project_title: Binational Local Development Project
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities

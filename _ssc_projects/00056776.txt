@@ -12,9 +12,9 @@ partner_type:
   - cso
   - academia
   - private_sector
-project_title: "Private Sector Development Programme: The Access to Renewable Energy Project"
+project_title: Private Sector Development Programme- The Access to Renewable Energy Project
 scale: national
-project_objective: "To expand access to renewable energy services accessible to MSMEs by facilitating renewable energy investments and increase finance options for renewable energy uptake. Under the project, UNDP supports in developing the capacity and knowledge of financial institutions, and energy service providers, MSMEs and other relevant stakeholders at the State Governments level to invest in and improved access to reliable and renewable energy service options available for Small and Medium scale enterprises an rural use. This support also includes promotion of policies and institutional frameworks that will encourage inclusive renewable energy market development."
+project_objective: To expand access to renewable energy services accessible to MSMEs by facilitating renewable energy investments and increase finance options for renewable energy uptake. Under the project, UNDP supports in developing the capacity and knowledge of financial institutions, and energy service providers, MSMEs and other relevant stakeholders at the State Governments level to invest in and improved access to reliable and renewable energy service options available for Small and Medium scale enterprises an rural use. This support also includes promotion of policies and institutional frameworks that will encourage inclusive renewable energy market development.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

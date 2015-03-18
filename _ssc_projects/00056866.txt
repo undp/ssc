@@ -10,9 +10,9 @@ partner_type:
   - regional_inter_governmental_organizations
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Strengthening the role of conservation of the national system of protected areas in Togo (Renforcement du rôle de conservation du système national d'aires protégées au Togo)"
+project_title: Strengthening the role of conservation of the national system of protected areas in Togo (Renforcement du rôle de conservation du système national d'aires protégées au Togo)
 scale: national
-project_objective: "To strengthen the management of the system of protected areas Togo to improve the contribution to the conservation of biodiversity through effective approaches to rehabilitation and management of protected areas."
+project_objective: To strengthen the management of the system of protected areas Togo to improve the contribution to the conservation of biodiversity through effective approaches to rehabilitation and management of protected areas.
 territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships

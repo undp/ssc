@@ -9,13 +9,13 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Governance Reform Fund (GRF)"
+project_title: Governance Reform Fund (GRF)
 scale: national
-project_objective: "To further strengthen capacities of the Government of Georgia and increase its effectiveness and efficiency. The achievement of the above goal will be ensured through the combination of the following two mechanisms: (1) On-demand [Consultancy] Services (ODS) - a targeted policy advice; and (2) Capacity Development Fund (CDF) - sub-project initiatives increasingly leading to the transformational change in the institutions. Thus, the project aims to better accommodate longer-term capacity development objectives of the national partners."
+project_objective: To further strengthen capacities of the Government of Georgia and increase its effectiveness and efficiency. The achievement of the above goal will be ensured through the combination of the following two mechanisms- (1) On-demand [Consultancy] Services (ODS) - a targeted policy advice; and (2) Capacity Development Fund (CDF) - sub-project initiatives increasingly leading to the transformational change in the institutions. Thus, the project aims to better accommodate longer-term capacity development objectives of the national partners.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 partner_location: 
 published: true
 ---
-UNDP will act as knowledge broker: the project will foster cooperation and transfer of relevant expertise from the new EU member states. This would enable provision of the support that fits particularly well with the transition context. In general, it is also government's preference to benefit from the relevant experience of the EU integration from the new member states of Baltic and Eastern European counterparts. 
+UNDP will act as knowledge broker- the project will foster cooperation and transfer of relevant expertise from the new EU member states. This would enable provision of the support that fits particularly well with the transition context. In general, it is also government's preference to benefit from the relevant experience of the EU integration from the new member states of Baltic and Eastern European counterparts. 

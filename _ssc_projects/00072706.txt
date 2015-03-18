@@ -9,9 +9,9 @@ region:
 partner_type: 
   - regional_inter_governmental_organizations
   - national_governments
-project_title: "Enabling an Effective Integration of Laos Into Asean III"
+project_title: Enabling an Effective Integration of Laos Into Asean III
 scale: national
-project_objective: "To increase capacity & understanding of Government, private sectors and general public on the preparation and implication of ASEAN/AEC integration."
+project_objective: To increase capacity & understanding of Government, private sectors and general public on the preparation and implication of ASEAN/AEC integration.
 territorial_focus: ldc
 undp_role_type: 
   - builder_of_capacities

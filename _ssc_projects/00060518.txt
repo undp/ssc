@@ -9,9 +9,9 @@ region:
 partner_type: 
   - regional_inter_governmental_organizations
   - national_governments
-project_title: "Guiana Shield Facility"
+project_title: Guiana Shield Facility
 scale: national
-project_objective: "To promote GSF as a sustainable financial vehicle for the conservation and sustainable development of the Guiana Shield ecoregion."
+project_objective: To promote GSF as a sustainable financial vehicle for the conservation and sustainable development of the Guiana Shield ecoregion.
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

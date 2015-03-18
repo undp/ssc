@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: "Site and Services"
+project_title: Site and Services
 scale: national
-project_objective: "The Site and Services project aims to develop a diverse range of housing, support the implementation of Furnishing suggestions and d'autoconstruction operations and provide basic services to the low income population."
+project_objective: The Site and Services project aims to develop a diverse range of housing, support the implementation of Furnishing suggestions and d'autoconstruction operations and provide basic services to the low income population.
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker

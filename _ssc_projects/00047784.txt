@@ -11,9 +11,9 @@ partner_type:
   - national_governments
   - cso
   - private_sector
-project_title: "Fostering multi-stakeholder partnerships to achieve MDGs  in the Western CIS and Caucasus  in the framework of UN Global Compact"
+project_title: Fostering multi-stakeholder partnerships to achieve MDGs  in the Western CIS and Caucasus  in the framework of UN Global Compact
 scale: national
-project_objective: "To harness value-creating assets of the private sector for poverty reduction in the Western CIS and Caucasus through promotion of multistakeholder partnerships in the framework of Global Compact.  The target countries include Armenia, Azerbaijan, Georgia, Belarus, Russia, Ukraine and Moldova."
+project_objective: To harness value-creating assets of the private sector for poverty reduction in the Western CIS and Caucasus through promotion of multistakeholder partnerships in the framework of Global Compact.  The target countries include Armenia, Azerbaijan, Georgia, Belarus, Russia, Ukraine and Moldova.
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
@@ -21,4 +21,4 @@ undp_role_type:
 partner_location: 
 published: true
 ---
-UNDP is a broker in establishing the Global Compact networks, as well as facilitating partnerships and further process. UNDP's support was crucial for the network's start up and building its sustainability. Main activities of UNDP include: seeding the idea of the Global Compact and corporate social responsibility among the business community, involving governments, academia, trade unions and NGO/CSOs, facilitating learning and sharing of experiences about CSR and implementation of the GC principles, building active collaboration between participants, identifying the benefits of GC participation and organizing local GC activities for the network, motivating companies to engage in partnerships in support of UN development goals, organizing promotional and launching GC events. Additionally, UNDP will ensure that risks and benefits shared accordingly between partners and trust and mutual understanding be developed between partners.
+UNDP is a broker in establishing the Global Compact networks, as well as facilitating partnerships and further process. UNDP's support was crucial for the network's start up and building its sustainability. Main activities of UNDP include- seeding the idea of the Global Compact and corporate social responsibility among the business community, involving governments, academia, trade unions and NGO/CSOs, facilitating learning and sharing of experiences about CSR and implementation of the GC principles, building active collaboration between participants, identifying the benefits of GC participation and organizing local GC activities for the network, motivating companies to engage in partnerships in support of UN development goals, organizing promotional and launching GC events. Additionally, UNDP will ensure that risks and benefits shared accordingly between partners and trust and mutual understanding be developed between partners.

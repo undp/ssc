@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - cso
-project_title: "Democractic strengthening of Political Organizations"
+project_title: Democractic strengthening of Political Organizations
 scale: national
-project_objective: "The project aims to strengthen political organisations in Bolivia"
+project_objective: The project aims to strengthen political organisations in Bolivia
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

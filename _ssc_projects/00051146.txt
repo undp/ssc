@@ -7,9 +7,9 @@ host_location:
 region: 
   - lac
 partner_type: 
-project_title: "International Policy Centre for Inclusive Growth (IPC-IG) http://www.ipc-undp.org/"
+project_title: International Policy Centre for Inclusive Growth (IPC-IG) http-//www.ipc-undp.org/
 scale: national
-project_objective: "UNDP's global forum for policy dialogue and South-South learning on development innovations (headquarters in Brasilia, Brazil). to equip policymakers in the developing world with the skills necessary to design, implement and evaluate policies and programmes towards the attainment of high inclusive growth."
+project_objective: UNDP's global forum for policy dialogue and South-South learning on development innovations (headquarters in Brasilia, Brazil). to equip policymakers in the developing world with the skills necessary to design, implement and evaluate policies and programmes towards the attainment of high inclusive growth.
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities

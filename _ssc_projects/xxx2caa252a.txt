@@ -12,9 +12,9 @@ partner_type:
   - cso
   - academia
   - private_sector
-project_title: "Enhancing Citizen Engagement in accelerating the attainment of the MDGs in Nigeria"
+project_title: Enhancing Citizen Engagement in accelerating the attainment of the MDGs in Nigeria
 scale: national
-project_objective: "Deepen community engagement by scaling up citizen action for participatory governance and development as a means of accelerating attainment of MDGs in Nigeria. It thus aims to strengthen and develop tools and mechanisms that would ensure: communities' voice becomes a vital part of decision making, communities' influence the outcomes of development projects and also that there is improved responsiveness of local government authorities to community demands."
+project_objective: Deepen community engagement by scaling up citizen action for participatory governance and development as a means of accelerating attainment of MDGs in Nigeria. It thus aims to strengthen and develop tools and mechanisms that would ensure- communities' voice becomes a vital part of decision making, communities' influence the outcomes of development projects and also that there is improved responsiveness of local government authorities to community demands.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

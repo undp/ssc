@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - private_sector
-project_title: "Quality Control System for added value wooden products of South America"
+project_title: Quality Control System for added value wooden products of South America
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

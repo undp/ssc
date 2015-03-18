@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Building Capacity to Eliminate POPs (Persistent Organic Pollutants) Pesticides Stockpiles in Vietnam"
+project_title: Building Capacity to Eliminate POPs (Persistent Organic Pollutants) Pesticides Stockpiles in Vietnam
 scale: national
-project_objective: "The project aims to remove capacity barriers to the sustainable elimination of POPs (Persistent Organic Pollutants) Pesticides in Vietnam."
+project_objective: The project aims to remove capacity barriers to the sustainable elimination of POPs (Persistent Organic Pollutants) Pesticides in Vietnam.
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships

@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - cso
-project_title: "Gender Equality Programme"
+project_title: Gender Equality Programme
 scale: national
-project_objective: "To support the Governmental Office of Gender Equality in the effective implementation of the National Action Plan for Gender Equality. UNDP efforts will be concentrated on advocating for gender legislation, integrating gender equality in the national policy priorities and supporting the formulation and implementation of frameworks enabling more favourable development opportunities for women. In addition, support will be provided for gender-disaggregated data processing to facilitate better policy making.  Main partners will be Office of Gender Equality, parliamentarian Board for gender equality, Ministry of Justice, Ministry of Labour and Social Welfare, NGOs/CSOs etc..  "
+project_objective: To support the Governmental Office of Gender Equality in the effective implementation of the National Action Plan for Gender Equality. UNDP efforts will be concentrated on advocating for gender legislation, integrating gender equality in the national policy priorities and supporting the formulation and implementation of frameworks enabling more favourable development opportunities for women. In addition, support will be provided for gender-disaggregated data processing to facilitate better policy making.  Main partners will be Office of Gender Equality, parliamentarian Board for gender equality, Ministry of Justice, Ministry of Labour and Social Welfare, NGOs/CSOs etc..  
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

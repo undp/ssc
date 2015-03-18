@@ -9,9 +9,9 @@ region:
 partner_type: 
   - regional_inter_governmental_organizations
   - national_governments
-project_title: "Peace Support Operation Training and Institute Capacity Enhancement at the International Peace Support Training Centre (IPSTC)"
+project_title: Peace Support Operation Training and Institute Capacity Enhancement at the International Peace Support Training Centre (IPSTC)
 scale: national
-project_objective: "To strengthen institutional and human capacity in peace support operations in East Africa in order to effectively prevent, respond to and mitigate conflicts and maintain peace and security in the region. "
+project_objective: To strengthen institutional and human capacity in peace support operations in East Africa in order to effectively prevent, respond to and mitigate conflicts and maintain peace and security in the region. 
 territorial_focus: ldc
 undp_role_type: 
   - builder_of_capacities

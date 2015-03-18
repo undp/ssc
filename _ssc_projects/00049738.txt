@@ -8,9 +8,9 @@ region:
   - europe_cis
 partner_type: 
   - national_governments
-project_title: "Bridging South-South Cooperation and Emerging Donor Roles: Strengthen Turkey's Participation in international Development Cooperation"
+project_title: Bridging South-South Cooperation and Emerging Donor Roles- Strengthen Turkey's Participation in international Development Cooperation
 scale: national
-project_objective: "To strengthen national capacities for the Government of Turkey as an emerging donor that will cover the Institutional and the technical components by a) capacity development for Turkey's emerging donor role in the international development cooperation arena complemented by b) the development of technical capacities for South-South cooperation modalities"
+project_objective: To strengthen national capacities for the Government of Turkey as an emerging donor that will cover the Institutional and the technical components by a) capacity development for Turkey's emerging donor role in the international development cooperation arena complemented by b) the development of technical capacities for South-South cooperation modalities
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities

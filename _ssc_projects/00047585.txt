@@ -8,9 +8,9 @@ region:
   - africa
 partner_type: 
   - national_governments
-project_title: "Development and Implementation of a Standards and Labelling Programme In Kenya with Replication in East Africa"
+project_title: Development and Implementation of a Standards and Labelling Programme In Kenya with Replication in East Africa
 scale: national
-project_objective: "To reduce energy (electricity) related CO2 emissions in Kenya and the EAC countries by improving the energy efficiency of selected appliances and equipment in residential, commercial and industrial sectors. All five countries involved (Burundi, Kenya, Rwanda, Tanzania and Uganda) do not have adequate energy to meet their development goals. The introduction and implementation of the initiative will therefore improve energy efficiency, "
+project_objective: To reduce energy (electricity) related CO2 emissions in Kenya and the EAC countries by improving the energy efficiency of selected appliances and equipment in residential, commercial and industrial sectors. All five countries involved (Burundi, Kenya, Rwanda, Tanzania and Uganda) do not have adequate energy to meet their development goals. The introduction and implementation of the initiative will therefore improve energy efficiency, 
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker

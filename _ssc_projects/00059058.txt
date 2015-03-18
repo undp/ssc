@@ -8,9 +8,9 @@ region:
   - asia_pacific
 partner_type: 
   - national_governments
-project_title: "Catalysing Sustainability of Thailand's Protected Area System"
+project_title: Catalysing Sustainability of Thailand's Protected Area System
 scale: national
-project_objective: "To overcome barriers to sustainability of Thailand's protected area (PA) system by addressing effective management and sustainable financing of protected areas. The project will build the confidence and capacities of the PA management authorities and provide them with resources to test innovative PA management and financing schemes. In addition, it will support the development of appropriate incentives."
+project_objective: To overcome barriers to sustainability of Thailand's protected area (PA) system by addressing effective management and sustainable financing of protected areas. The project will build the confidence and capacities of the PA management authorities and provide them with resources to test innovative PA management and financing schemes. In addition, it will support the development of appropriate incentives.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

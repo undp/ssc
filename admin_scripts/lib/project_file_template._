@@ -8,9 +8,9 @@ region:
   - <%= region %>
 partner_type: <% _.each(partner_type, function(i) { %>
   - <%= i %><% }); %>
-project_title: "<%= project_title %>"
+project_title: <%= project_title %>
 scale: <%= scale %>
-project_objective: "<%= project_objective %>"
+project_objective: <%= project_objective %>
 territorial_focus: <%= territorial_focus %>
 undp_role_type: <% _.each(undp_role_type, function(i) { %>
   - <%= i %><% }); %>

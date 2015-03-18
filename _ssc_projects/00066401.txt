@@ -9,9 +9,9 @@ region:
 partner_type: 
   - cso
   - academia
-project_title: "Environmental Bases for Local Food Sustainability Project (BASAL)"
+project_title: Environmental Bases for Local Food Sustainability Project (BASAL)
 scale: national
-project_objective: "The project's overall objective is to support adaptation to climate change, contributing to continued and sustainable socio- economic development of the Republic of Cuba."
+project_objective: The project's overall objective is to support adaptation to climate change, contributing to continued and sustainable socio- economic development of the Republic of Cuba.
 territorial_focus: sids
 undp_role_type: 
   - builder_of_capacities
@@ -21,4 +21,4 @@ partner_location:
   - CHL
 published: true
 ---
-UNDP organized capacity building and facilitated the exchange of experience: (1) on climate change practices between Cuba and Mexico through trainings on participatory planning, inter-sectoral relations, communications related to climate change; through participation in the Fifth International Seminar Permanent MEXICO CUBA, exchange of experiences on Environment and Territory: Harmonization of tools and programs in the country for sustainable rural development.  (2) on climate chance between Cuba and Chile – through the seminar 'Methodology of regional frequency analysis L_ moments to study extreme hydroclimatic events in Cuba'
+UNDP organized capacity building and facilitated the exchange of experience- (1) on climate change practices between Cuba and Mexico through trainings on participatory planning, inter-sectoral relations, communications related to climate change; through participation in the Fifth International Seminar Permanent MEXICO CUBA, exchange of experiences on Environment and Territory- Harmonization of tools and programs in the country for sustainable rural development.  (2) on climate chance between Cuba and Chile – through the seminar 'Methodology of regional frequency analysis L_ moments to study extreme hydroclimatic events in Cuba'

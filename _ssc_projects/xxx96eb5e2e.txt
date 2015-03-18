@@ -21,9 +21,9 @@ partner_type:
   - cso
   - academia
   - private_sector
-project_title: "Enhancing Resilience to Reduce Vulnerability in the Caribbean Project (ERC) DIM Project"
+project_title: Enhancing Resilience to Reduce Vulnerability in the Caribbean Project (ERC) DIM Project
 scale: regional
-project_objective: "To apply an integrated approach to vulnerability reduction and enhancing resilience to climate change, natural hazards and poverty through enhanced civil protection. It covers Barbados and the Organization of Eastern Caribbean States."
+project_objective: To apply an integrated approach to vulnerability reduction and enhancing resilience to climate change, natural hazards and poverty through enhanced civil protection. It covers Barbados and the Organization of Eastern Caribbean States.
 territorial_focus: 
 undp_role_type: 
   - builder_of_capacities

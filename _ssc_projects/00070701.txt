@@ -11,9 +11,9 @@ partner_type:
   - sub_national_governments
   - cso
   - academia
-project_title: "Human Development and Social Rights"
+project_title: Human Development and Social Rights
 scale: national
-project_objective: "The project aims to influence public policies promoting strengthening the processes of public debate , the development of institutional capacities and analysis about achieving improvements in Human Development ."
+project_objective: The project aims to influence public policies promoting strengthening the processes of public debate , the development of institutional capacities and analysis about achieving improvements in Human Development .
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

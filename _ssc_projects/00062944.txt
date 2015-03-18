@@ -8,9 +8,9 @@ region:
   - europe_cis
 partner_type: 
   - regional_inter_governmental_organizations
-project_title: "Capacity Building for Low Carbon Growth in Ukraine"
+project_title: Capacity Building for Low Carbon Growth in Ukraine
 scale: national
-project_objective: "To support the government of Ukraine in steering the country on a low emission pathway for Ukraine's long-term economic development. The project goal is development of a long-term strategy of low carbon growth of Ukraine, that can be used by government of Ukraine to inform the formulation of its sectoral processes domestically, and internationally. "
+project_objective: To support the government of Ukraine in steering the country on a low emission pathway for Ukraine's long-term economic development. The project goal is development of a long-term strategy of low carbon growth of Ukraine, that can be used by government of Ukraine to inform the formulation of its sectoral processes domestically, and internationally. 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: "Fruit Market Study in China and Australia"
+project_title: Fruit Market Study in China and Australia
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

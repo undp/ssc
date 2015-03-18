@@ -11,9 +11,9 @@ region:
 partner_type: 
   - national_governments
   - sub_national_governments
-project_title: "The India, Brazil and South Africa Facility for Poverty and Hunger Alleviation (Trust Fund)"
+project_title: The India, Brazil and South Africa Facility for Poverty and Hunger Alleviation (Trust Fund)
 scale: global
-project_objective: "The Trust Fund enhances South-South cooperation for the benefit of the neediest nations of the South. This fund facilitates the execution of human development projects to advance the fight against poverty and hunger in developing countries. Objectives:  to alleviate poverty and hunger in nations of the South; To develop best practices in the fight against poverty and hunger by facilitating the execution of replicable and scalable projects in interested countries of the global south; To pioneer and lead by example the South-South cooperation agenda; To build new partnerships for development. "
+project_objective: The Trust Fund enhances South-South cooperation for the benefit of the neediest nations of the South. This fund facilitates the execution of human development projects to advance the fight against poverty and hunger in developing countries. Objectives-  to alleviate poverty and hunger in nations of the South; To develop best practices in the fight against poverty and hunger by facilitating the execution of replicable and scalable projects in interested countries of the global south; To pioneer and lead by example the South-South cooperation agenda; To build new partnerships for development. 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

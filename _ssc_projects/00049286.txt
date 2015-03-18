@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Country Pilot Partnership on Sustainable Land Management - Supporting Implementation of the Cuban National Programme to Combat Desertification and Drought (CPP 5)"
+project_title: Country Pilot Partnership on Sustainable Land Management - Supporting Implementation of the Cuban National Programme to Combat Desertification and Drought (CPP 5)
 scale: national
-project_objective: "Coordination, Monitoring and Evaluation of Cuba Country Pilot Partnership on sustainable Land Management "
+project_objective: Coordination, Monitoring and Evaluation of Cuba Country Pilot Partnership on sustainable Land Management 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
@@ -21,4 +21,4 @@ partner_location:
   - HND
 published: true
 ---
-UNDP supported capacity building and transfer of knowledge through the following activities: (1) transfer of methodology for measuring carbon from soil crusts,  evaluation methods of biodiversity assessment and living standards of local communities from Argentina to Cuba; (2) exchange of experiences between Cuba and Peru on sustainable land management projects, new ways of introduction of early warning systems against extreme weather events and the ways of extending the results of good sustainable land management  practices in areas outside of the project demonstration sites; (3) counseling and methodology transfer for land degradation and national mapping was organized from Cuba to Honduras.
+UNDP supported capacity building and transfer of knowledge through the following activities- (1) transfer of methodology for measuring carbon from soil crusts,  evaluation methods of biodiversity assessment and living standards of local communities from Argentina to Cuba; (2) exchange of experiences between Cuba and Peru on sustainable land management projects, new ways of introduction of early warning systems against extreme weather events and the ways of extending the results of good sustainable land management  practices in areas outside of the project demonstration sites; (3) counseling and methodology transfer for land degradation and national mapping was organized from Cuba to Honduras.

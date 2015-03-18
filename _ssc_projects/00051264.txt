@@ -8,9 +8,9 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: "Reducing Conflicting Water Uses in the Binational Artibonite River Basin trough the Development and Adoption of a Multi-focal Area Strategic Action Program"
+project_title: Reducing Conflicting Water Uses in the Binational Artibonite River Basin trough the Development and Adoption of a Multi-focal Area Strategic Action Program
 scale: national
-project_objective: "To establish a binational framework for integrated management of the Artibonite River watershed in 2012, promotes detailed reforms based on the ecosystem"
+project_objective: To establish a binational framework for integrated management of the Artibonite River watershed in 2012, promotes detailed reforms based on the ecosystem
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

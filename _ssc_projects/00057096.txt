@@ -9,9 +9,9 @@ region:
 partner_type: 
   - regional_inter_governmental_organizations
   - national_governments
-project_title: "Sustaining agricultural biodiversity in the face of climate change in Tajikistan"
+project_title: Sustaining agricultural biodiversity in the face of climate change in Tajikistan
 scale: national
-project_objective: "Embedding of globally significant agro-biodiversity conservation and adaptation to climate change into agricultural and rural development policies and practices at national and local levels in Tajikistan."
+project_objective: Embedding of globally significant agro-biodiversity conservation and adaptation to climate change into agricultural and rural development policies and practices at national and local levels in Tajikistan.
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker

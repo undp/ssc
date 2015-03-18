@@ -9,9 +9,9 @@ region:
 partner_type: 
   - cso
   - academia
-project_title: "Support Activities for the preparation of Cuba's Second National Communication (SNC) to UNFCCC"
+project_title: Support Activities for the preparation of Cuba's Second National Communication (SNC) to UNFCCC
 scale: national
-project_objective: "Support activities to prepare the Second National Communication of Cuba under the UNFCCC United Nations Climate Change."
+project_objective: Support activities to prepare the Second National Communication of Cuba under the UNFCCC United Nations Climate Change.
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

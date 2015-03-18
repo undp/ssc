@@ -16,9 +16,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Demonstrating and Promoting Best Techniques and Practices for Reducing Health-Care Waste to Avoid Environmental Releases of Dioxins and Mercury"
+project_title: Demonstrating and Promoting Best Techniques and Practices for Reducing Health-Care Waste to Avoid Environmental Releases of Dioxins and Mercury
 scale: global
-project_objective: "The Project objective is to demonstrate and promote best practices and techniques for health-care waste management"
+project_objective: The Project objective is to demonstrate and promote best practices and techniques for health-care waste management
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker

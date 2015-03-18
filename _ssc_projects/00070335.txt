@@ -9,9 +9,9 @@ host_location:
 region: 
   - 
 partner_type: 
-project_title: "Joint Migration and Development Initiative, Phase II"
+project_title: Joint Migration and Development Initiative, Phase II
 scale: global
-project_objective: "Philippines / El Salvador / Ecuador / Tunisia Joint Migration and Development Initiative Phase 2: Strengthening the Contribution of Migration to Development by Reinforcing its Local Dimension"
+project_objective: Philippines / El Salvador / Ecuador / Tunisia Joint Migration and Development Initiative Phase 2- Strengthening the Contribution of Migration to Development by Reinforcing its Local Dimension
 territorial_focus: 
 undp_role_type: 
 partner_location: 

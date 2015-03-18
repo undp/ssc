@@ -9,9 +9,9 @@ region:
 partner_type: 
   - international_cooperation_development_agencies
   - national_governments
-project_title: "Strengthening South-South Cooperation"
+project_title: Strengthening South-South Cooperation
 scale: national
-project_objective: "To support the transfer of knowledge, the exchange of successful experiences and good practices, and development of techniques capabilities between Colombia and other developing countries."
+project_objective: To support the transfer of knowledge, the exchange of successful experiences and good practices, and development of techniques capabilities between Colombia and other developing countries.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

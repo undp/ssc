@@ -22,9 +22,9 @@ region:
   - africa
 partner_type: 
   - national_governments
-project_title: "Regional Energy Project for Poverty Reduction-"
+project_title: Regional Energy Project for Poverty Reduction-
 scale: regional
-project_objective: "Guided by the 2008-2011 UNDP strategic plan and the refocused UNDP strategy in Africa, CD-PGA, both of which make capacity development the driver and the single most important service by UNDP; the regional energy project will focus on strengthening the capacities of institutions to establish enabling policy and institutional frameworks for the delivery of modern energy services to rural and peri-urban populations. "
+project_objective: Guided by the 2008-2011 UNDP strategic plan and the refocused UNDP strategy in Africa, CD-PGA, both of which make capacity development the driver and the single most important service by UNDP; the regional energy project will focus on strengthening the capacities of institutions to establish enabling policy and institutional frameworks for the delivery of modern energy services to rural and peri-urban populations. 
 territorial_focus: ldc,mic,fragile_states
 undp_role_type: 
 partner_location: 

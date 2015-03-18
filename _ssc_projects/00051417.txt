@@ -8,9 +8,9 @@ region:
   - europe_cis
 partner_type: 
   - national_governments
-project_title: "Strengthening Capacities of the Ministry of Justice of Montenegro"
+project_title: Strengthening Capacities of the Ministry of Justice of Montenegro
 scale: national
-project_objective: "To provide capacity building support to the Ministry of Justice in the key areas of priority, which represent the foundation of its successful functioning: 1) organisational setup of the Ministry; 2) management capacities of the Ministry's staff; 3) European integration and international legal assistance/co-operation policies; 4) strategic planning. The purpose of the project is to contribute to the achievement of an efficient, effective and transparent system which is able to implement its challenging mandate."
+project_objective: To provide capacity building support to the Ministry of Justice in the key areas of priority, which represent the foundation of its successful functioning- 1) organisational setup of the Ministry; 2) management capacities of the Ministry's staff; 3) European integration and international legal assistance/co-operation policies; 4) strategic planning. The purpose of the project is to contribute to the achievement of an efficient, effective and transparent system which is able to implement its challenging mandate.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker

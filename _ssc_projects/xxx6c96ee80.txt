@@ -16,9 +16,9 @@ host_location:
 region: 
   - lac
 partner_type: 
-project_title: "SIDS Inclusive Governance portal"
+project_title: SIDS Inclusive Governance portal
 scale: regional
-project_objective: "To enhance SIDS knowledge management through the creation of knowledge products developed for specific target groups i.e. journalists, youth, students, general public, with a social media focus to generate interactive support and education on SIDS governance issues with use of evidence-based inputs."
+project_objective: To enhance SIDS knowledge management through the creation of knowledge products developed for specific target groups i.e. journalists, youth, students, general public, with a social media focus to generate interactive support and education on SIDS governance issues with use of evidence-based inputs.
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker

@@ -9,9 +9,9 @@ region:
 partner_type: 
   - national_governments
   - academia
-project_title: "TFPG Bio-products:  “Production and Application of Bio-products in Cultures of the Economic Importance'"
+project_title: TFPG Bio-products-  “Production and Application of Bio-products in Cultures of the Economic Importance'
 scale: national
-project_objective: ""
+project_objective: 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

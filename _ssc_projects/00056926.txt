@@ -10,9 +10,9 @@ partner_type:
   - national_governments
   - cso
   - academia
-project_title: "Application of a regional approach to the management of marine and coastal protected areas in Cuba's Southern Archipelagos Region"
+project_title: Application of a regional approach to the management of marine and coastal protected areas in Cuba's Southern Archipelagos Region
 scale: national
-project_objective: "The project would contribute to the overall goal of conserving globally important coastal and marine biodiversity in Cuba. Its specific objective would be to ensure that globally significant marine biodiversity is conserved and sustainably used through an extended, strengthened and integrated network of coastal and marine protected areas in the Southern Archipelagos region. This objective will be achieved through four complementary strategies, corresponding to the four operational components or outcomes of the project. "
+project_objective: The project would contribute to the overall goal of conserving globally important coastal and marine biodiversity in Cuba. Its specific objective would be to ensure that globally significant marine biodiversity is conserved and sustainably used through an extended, strengthened and integrated network of coastal and marine protected areas in the Southern Archipelagos region. This objective will be achieved through four complementary strategies, corresponding to the four operational components or outcomes of the project. 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker

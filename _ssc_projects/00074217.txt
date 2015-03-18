@@ -9,9 +9,9 @@ region:
 partner_type: 
   - regional_inter_governmental_organizations
   - national_governments
-project_title: "Amexcin Cooperation Program"
+project_title: Amexcin Cooperation Program
 scale: national
-project_objective: "To contribute to the consolidation of Mexico as South-South cooperation actor through institutional strengthening and improvement of mechanisms to facilitate knowledge transfer and deployment of cooperative initiatives."
+project_objective: To contribute to the consolidation of Mexico as South-South cooperation actor through institutional strengthening and improvement of mechanisms to facilitate knowledge transfer and deployment of cooperative initiatives.
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
