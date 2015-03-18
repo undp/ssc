@@ -1,5 +1,5 @@
 ---
-open_project_id: "00060771"
+open_project_id: 00060771
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
 host_location: 

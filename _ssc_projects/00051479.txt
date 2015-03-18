@@ -1,5 +1,5 @@
 ---
-open_project_id: "00051479"
+open_project_id: 00051479
 thematic_focus: 
   - resilience_building
 host_location: 

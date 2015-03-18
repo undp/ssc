@@ -1,5 +1,5 @@
 ---
-open_project_id: "00062347"
+open_project_id: 00062347
 thematic_focus: 
   - sustainable_development_pathways
 host_location: 
