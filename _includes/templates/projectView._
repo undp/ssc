@@ -1,6 +1,11 @@
 <div class="project-show">
-  <div class="back"><a class="back-link" href="#">&lt; LIST</a>
+
+  <div class="back">
+    <a class="w-clearfix w-inline-block back-link" href="#"><img class="back-icon" src="images/undo.svg" width="20" alt="55098820023d116b6aea4557_undo.svg">
+      <div class="back-link-text">LIST</div>
+    </a>
   </div>
+
   <div class="project-details">
     <div class="detail-title"><%= project.project_title %></div>
     <div class="detail-line">
