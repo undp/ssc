@@ -29,7 +29,7 @@ prose:
           label: Project title
       - name: project_objective
         field:
-          element: textarea
+          element: text
           label: Project objective
       - name: project_link
         field:
