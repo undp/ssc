@@ -1,5 +1,5 @@
 ---
-open_project_id: 00070335
+open_project_id: "00070335"
 thematic_focus: 
 host_location: 
   - PHL

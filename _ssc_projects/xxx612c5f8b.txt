@@ -1,5 +1,5 @@
 ---
-open_project_id: 
+open_project_id: ""
 thematic_focus: 
 host_location: 
   - HTI

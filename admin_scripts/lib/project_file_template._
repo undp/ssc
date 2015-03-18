@@ -1,5 +1,5 @@
 ---
-open_project_id: <%= open_project_id %>
+open_project_id: "<%= open_project_id %>"
 thematic_focus: <% _.each(thematic_focus, function(i) { %>
   - <%= i %><% }); %>
 host_location: <% _.each(host_location, function(i) { %>
