@@ -50,6 +50,10 @@ img.filters-disclose {
   }
 }
 
+.group-items {
+  display: none;
+}
+
 a.group-item[data-active-filter='true'] {
   opacity: 0.3
 }
