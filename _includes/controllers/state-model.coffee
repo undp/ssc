@@ -27,7 +27,7 @@ class StateModel extends Backbone.Model
   _storeOnChangeEvent: (eventType, a, b) ->
     if @_restoring
       @_restoring = false
-      @_store.updateUrl()
+      @updateUrl()
     else
       @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
       @_trackStoreAction(@.toJSON())
@@ -46,6 +46,28 @@ class StateModel extends Backbone.Model
       @_restoreFromFallback(fallbackFilter)
     else
       @_resetState()
+
+  updateUrl: ->
+    if (viewingId = @get('projectId'))
+      url = "#/project/#{viewingId}"
+    else
+      primaryFacet = @_primaryFacet()
+
+      facetName = primaryFacet?.name
+      facetValue = primaryFacet?.value
+      viewState = @get('viewState')
+      stateRef = @get('stateRef')
+
+      url = "#/"
+      url = "##{facetName}/#{facetValue}" if facetName? and facetValue?
+      url += "?viewState=#{viewState}" if viewState?
+      url += "&stateRef=#{stateRef}" if stateRef?
+
+    app.router.navigate(url, trigger: false)
+
+  _primaryFacet: ->
+    @get('filterState')[0]
+
   # 
   # Strategies for restoring State 
   # 
@@ -84,7 +106,8 @@ class StateModel extends Backbone.Model
     @_setFilters(stateObject.filterState) if stateObject?.filterState.length > 0
 
   _resetState: (stateObject) =>
-    @clear(silent:true).set(@defaults)
+    @clear(silent:true).set(@defaults, silent: true)
+    @updateUrl()
 
   # 
   # MANAGE FILTERS

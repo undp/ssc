@@ -3,21 +3,6 @@ class StateStore
     throw 'Missing StateModel' unless options?.stateModel
     @state = options.stateModel
 
-  updateUrl: ->
-    facetName = @_primaryFacet()?.name
-    facetValue = @_primaryFacet()?.value
-    viewState = @state.get('viewState')
-    stateRef = @state.get('stateRef')
-
-    url = "#/"
-    url = "##{facetName}/#{facetValue}" if facetName? and facetValue?
-    url += "?viewState=#{viewState}" if facetName?
-    url += "&stateRef=#{stateRef}" if stateRef?
-    app.router.navigate(url, trigger: false)
-
-  _primaryFacet: ->
-    @state.get('filterState')[0]
-
   # 
   # STORE
   # 
@@ -30,8 +15,8 @@ class StateStore
     else
       stateRef = null
 
-    @state.set('stateRef', stateRef, trigger: false) # Don't update state on save?
-    @updateUrl()
+    @state.set('stateRef', stateRef, silent: true) # Don't update state on save?
+    @state.updateUrl()
 
   _persistState: (options) -> # Takes stateData, and returns stateRef
     {stateRef, filterState, viewState} = options
