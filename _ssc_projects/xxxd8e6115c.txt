@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - BRA
 region: 
   - lac
@@ -16,7 +16,6 @@ undp_role_type:
   - builder_of_capacities
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP promotes innovative partnerhips, provides capacity building and facilitates knowledge exchange. UNDP also supports national policies and SSC initiatives and thelps the government in its own institutional strengthening, by providing technical advice and advocacy, developing toolkits, testing successful knowledge products, promoting innovative partnerships for development and access to best practices. This is done taking into consideration the countries' characteristics and  institutional capacity for SSC, with different emphasis for each country. 

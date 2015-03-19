@@ -1,7 +1,7 @@
 ---
 open_project_id: "00047179"
 thematic_focus: 
-host_location: 
+country: 
   - MDV
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP supports the project's endeavour to build strategic partnerships with key donors and ensure better utilization of overseas development assistance to better support achievement of MDG's in the country. UNDP plays a role in bringing together key donors and acting as a facilitator between relevant stakeholders.

@@ -2,7 +2,7 @@
 open_project_id: "00061911"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - TZA
 region: 
   - africa
@@ -14,9 +14,6 @@ project_objective: To support the national efforts to reduce income poverty thro
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - THA
-  - BRA
 published: true
 ---
 UNDP will assist POPC to draw knowledge from its global networks, regional centres in South Africa and Thailand. Contacts will be made with advisory poverty-reduction think-tanks/centres established in Brazil and China. A SSC centre will be established to facilitate the exchange of information.

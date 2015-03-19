@@ -2,7 +2,7 @@
 open_project_id: "00074684"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - IND
 region: 
   - asia_pacific
@@ -15,7 +15,6 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will facilitate knowledge exchange and capacity building to promote South-south cooperation on climate change and equity issues. For this purpose, cooperation will be established with government officer training institutes in South Asia, South East Asia and Africa through seminars; workshops; exchange programs and exposure visits.

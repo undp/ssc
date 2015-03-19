@@ -2,7 +2,7 @@
 open_project_id: "00069158"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - BOL
 region: 
   - lac
@@ -17,9 +17,6 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
-  - PER
-  - COL
 published: true
 ---
 UNDP provided capacity building and supported the knowledge transfer. Two training programs were organized with experts from Peru and Colombia on Indigenous People's rights to consultation.  As a result, recommendations were formulated for the elaboration of the draft law on the right to consultation. An improved draft law proposal was formulated. 

@@ -2,7 +2,7 @@
 open_project_id: "00056776"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - NGA
 region: 
   - africa
@@ -18,7 +18,6 @@ project_objective: To expand access to renewable energy services accessible to M
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will actively and explicitly pursue SSC as a key element of its value added to Nigeria and response to expressed interest by national partners in potential opportunities for SSC.  Areas of interest include trade and investment, fiscal federalism, aid coordination, promotion of peace and conflict resolution, in partnership with relevant international and national institutions. 

@@ -2,7 +2,7 @@
 open_project_id: "00059937"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - ARM
 region: 
   - europe_cis
@@ -17,9 +17,6 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
-  - UZB
-  - TUR
 published: true
 ---
 UNDP will facilitate capacity building and exchange of best practices and experiences from other countries with similar energy efficient building projects in the region, such as Kyrgyzstan, Uzbekistan and Turkey. UNDP will also facilitate access to good practices on building codes and standards of construction work from other CIS countries. 

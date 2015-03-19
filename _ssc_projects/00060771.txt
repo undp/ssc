@@ -2,7 +2,7 @@
 open_project_id: "00060771"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - EGY
 region: 
   - arab_states
@@ -14,7 +14,6 @@ project_objective: To strengthen the capacity for Results Based Management (RBM)
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will conduct two study tours to Latin America and the Asia Pacific region, which championed in applying the Results Based Management (RBM) models. The study tours will enable the Egyptian counterparts to examine the degree to which RBM has fostered a results culture within national entities, increased aid effectiveness and enhanced capacity to achieve development results. 

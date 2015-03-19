@@ -2,7 +2,7 @@
 open_project_id: "00057359"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - AFG
 region: 
   - asia_pacific
@@ -17,8 +17,6 @@ territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
   - facilitator_of_partnerships
-partner_location: 
-  - IND
 published: true
 ---
 UNDP facilitated a landmark agreement between Afghanistan's Ministry of Rural Rehabilitation and Development (MRRD) and The Energy and Resources Institute (TERI) in India to develop capacity, assist in programme design and provide other institutional support to provide electricity to Afghanistan's rural population nationwide. India's regional expertise is utilised to help build Afghanistan's rural energy initiatives.

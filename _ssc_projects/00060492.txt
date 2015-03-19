@@ -2,7 +2,7 @@
 open_project_id: "00060492"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - LAO
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: To address impacts of climate change on the agriculture secto
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitate knowledge sharing. Outcome 4- The project will systematically provide quantitative and qualitative data and information on coded ‘lessons learned' and a website has been established linked to wider dissemination through regional and global networks (ALM, Wiki-adapt, Eldis and the Asia Knowledge Platform). By the end of the project 2 regional conferences on CC+AA are organized by NAFRI for GMS member states (in collaboration with partner organizations) for SE ASIA

@@ -2,7 +2,7 @@
 open_project_id: "00073767"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - KAZ
 region: 
   - europe_cis
@@ -16,7 +16,6 @@ project_objective: The project will summarize the experience and lessons learned
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will facilitate the exchange of knowledge with Russia and other CIS countries.

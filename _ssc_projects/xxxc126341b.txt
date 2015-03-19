@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - CHN
 region: 
   - asia_pacific
@@ -14,8 +14,6 @@ project_objective: To help moving Cambodian producers (especially smallholders),
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
-  - KHM
 published: true
 ---
 UNDP facilitates partnership between China and Cambodia, using its relationship with MOFCOM and in-depth knowledge of China's aid history and current priorities to ensure that communication between partners is relevant and targeted. UNDP China also uses its networks within China to connect project partners with the most appropriate Chinese technical expertise. 

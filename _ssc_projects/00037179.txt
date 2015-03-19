@@ -2,7 +2,7 @@
 open_project_id: "00037179"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - AGO
   - BRA
   - CPV
@@ -22,7 +22,6 @@ project_objective: To identify, plan and implement South-South cooperation proje
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will help apply Brazilian experiences and best practices, spreading and using technical knowledge as a way to support the development of human resources capacities in partner countries, to strengthen local institutions and to foster social and economic development.

@@ -2,7 +2,7 @@
 open_project_id: "00058496"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - AZE
 region: 
   - europe_cis
@@ -15,7 +15,6 @@ project_objective: Objectives- To enhance inter-agency, bilateral and regional c
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitates study tours for decision makers and operational staff from all three countries to EU member states. UNDP will facilitate the information exchange between the three countries which allow for the improved border management capacities and strengthened cooperation. The agency has the lead in the consortium composed by several members (national, law-enforcement institutions), and is in charge of selecting a Principle Advisor.

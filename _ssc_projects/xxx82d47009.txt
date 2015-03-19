@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - HTI
 region: 
   - lac
@@ -16,8 +16,6 @@ territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
-  - TUR
 published: true
 ---
 UNDP facilitates capacity building and knowledge transfer from Turkey to Haiti and provides capacity development. Main activities- (1) training for trainers was provided by civil servants from the Turkish International Academy for Haiti's Direction of the Judicial Police on Drugs and Organized Crime (2 weeks in Haiti and 2 weeks in Turkey in January-February 2013); (2) two Haitian civil servants from the Ministry of Justice participated in the International Congress of Association for Forensic Science Institutes organized by the Turkish National Police.

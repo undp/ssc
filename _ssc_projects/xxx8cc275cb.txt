@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - AFG
   - BGD
   - BTN
@@ -42,7 +42,6 @@ project_objective: To help countries share country level experiences in the Asia
 territorial_focus: fragile_states,ldc,mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP co-funds the initiative through its Asia-Pacific Regional Centre in Bangkok. UNDP's role is to facilitate knowledge exchange between the participating countries.

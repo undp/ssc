@@ -2,7 +2,7 @@
 open_project_id: "00062001"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - MEX
 region: 
   - lac
@@ -16,7 +16,6 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
 published: true
 ---
 Through this project, UNDP aims to position Mexico as a centre of excellence for regional cooperation and capacity development through- 1) documentation of its experiences, 2) dissemination of lessons learned, 3) development of in-country capacity courses oriented to train other countries, and 4) offering of out-country technical assistance.

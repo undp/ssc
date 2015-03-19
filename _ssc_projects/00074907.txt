@@ -2,7 +2,7 @@
 open_project_id: "00074907"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - PAK
 region: 
   - asia_pacific
@@ -16,7 +16,6 @@ project_objective: To promote policy reforms through research, dialogue, consens
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 Policy Support Programme will promote policy reforms through research, dialogue, consensus building, knowledge management and partnerships between the government and academia, policy think tanks, civil society and regional/international experts.

@@ -2,7 +2,7 @@
 open_project_id: "00049239"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - CUB
 region: 
   - lac
@@ -14,9 +14,6 @@ project_objective: Capacity Building for Planning, Decision Making and Regulator
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - ARG
-  - DOM
 published: true
 ---
 UNDP facilitated the exchange of knowledge between sustainable land management projects (1) in Cuba and Argentina. As a result, measuring  impacts of  the sustainable land management project was implemented in Patagonia; (2) in Dominican Republic and Cuba. As a result, project on measuring  impacts of  the sustainable land management was implemented in Dominican Republic. 

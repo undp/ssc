@@ -2,7 +2,7 @@
 open_project_id: "00070189"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - VNM
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: To develop national capacity for formulating and implementing
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP will facilitate capacity building initiatives, including international exchange and South-South cooperation.

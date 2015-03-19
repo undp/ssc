@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - JAM
 region: 
   - lac
@@ -15,8 +15,6 @@ project_objective:
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - CUB
 published: true
 ---
 UNDP coordinated knowledge exchange between Cuba and Jamaica, and provided financial support to Technical Mission from Cuba to Jamaica. Among other supported SSC activities were- preparation and translation of methodology, exchange workshop, preparation, of toolkit, awareness raising. 

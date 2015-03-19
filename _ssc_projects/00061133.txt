@@ -2,7 +2,7 @@
 open_project_id: "00061133"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - MNE
 region: 
   - europe_cis
@@ -17,8 +17,6 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
-  - SRB
 published: true
 ---
 In this programme, UNDP will provide technical assistance to Social Innovation Fund (SIF) for optimal management and results. Expert with first hand SIF experience will help identify and apply the best regional experiences and lessons learnt, advice project management unit how to develop the quality granting mechanism, prepare selection criteria and monitoring and evaluation tools. Furthermore, to learn from the first hand experience, UNDP will facilitate study visit to SIF-supported projects/services in Serbia. 

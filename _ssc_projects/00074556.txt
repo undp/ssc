@@ -2,7 +2,7 @@
 open_project_id: "00074556"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - IND
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: To assist national governments in the global South towards ma
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will provide technical and administrative assistance and facilitate knowledge transfer.

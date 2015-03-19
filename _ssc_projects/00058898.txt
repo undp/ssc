@@ -2,7 +2,7 @@
 open_project_id: "00058898"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - AFG
 region: 
   - asia_pacific
@@ -15,8 +15,6 @@ territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
-  - IND
 published: true
 ---
 UNDP facilitated capacity building and knowledge sharing as part of its support to South-South Cooperation under the National Institution Building Programme (NIBP). 10 Afghan delegates comprising experts from the Ministry and independent agricultural researchers and entrepreneurs went on a five-day training on mushroom cultivation in Solan, India. 

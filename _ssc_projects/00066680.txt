@@ -2,7 +2,7 @@
 open_project_id: "00066680"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - LBY
 region: 
   - arab_states
@@ -16,7 +16,6 @@ territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP will facilitate partnerhsip and knowledge exchanges of Libyan officials through South-South cooperation mechanisms, assisting in gathering best practices and comparative experiences on local governance and decentralization, elections and constitution drafting. 

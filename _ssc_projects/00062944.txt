@@ -2,7 +2,7 @@
 open_project_id: "00062944"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - UKR
 region: 
   - europe_cis
@@ -14,7 +14,6 @@ project_objective: To support the government of Ukraine in steering the country 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 Besides the overall project implementation, UNDP will develop a Project's Lessons Learned Log that will be regularly updated to ensure on-going learning and adaption, and facilitate the preparation of the Lesson Learned Report. Successful development and implementation of a low carbon growth strategy for Ukraine will serve as a proof of concept and will allow disseminating Ukraine's experience to other countries in the region. The methods used in the process of developing the low carbon growth strategy can be replicated; and the lessons learned from this process will be transferable to other countries with similar level of economic development, in particular amongst middle-income developing countries. 

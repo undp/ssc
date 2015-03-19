@@ -2,7 +2,7 @@
 open_project_id: "00061625"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - CPV
 region: 
   - africa
@@ -14,7 +14,6 @@ project_objective: To develop technical and institutional capacities for the pre
 territorial_focus: sids,mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will support the Government of Cape Verde in its endeavour to facilitate knowledge exchanges among national practitioners / researchers and international communities of practices. UNDP will also support participation of Cape Verde in international networks on climate change. 

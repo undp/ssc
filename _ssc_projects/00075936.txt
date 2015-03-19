@@ -2,7 +2,7 @@
 open_project_id: "00075936"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - LKA
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: To strengthen access to justice and the enforcement of law wh
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will assist in organising knowledge management and knowledge sharing, in-country, inter-regionally and internationally, and support technical, institutional and operational capacities of national institutions engaged in the subject. The Programme will assist the government to establish and improve relations with external stakeholders, including attempting to establish more south-south cooperation with other regional governments and peer judicial institutions, through information sharing, cooperation and consultation, strengthening national capacity to work with other donors, and participatory planning, monitoring and evaluation

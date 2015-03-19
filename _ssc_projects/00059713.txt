@@ -2,7 +2,7 @@
 open_project_id: "00059713"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - IRN
 region: 
   - asia_pacific
@@ -14,8 +14,6 @@ project_objective: To strengthen institutions by contributing to the removal of 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - IND
 published: true
 ---
 UNDP facilitated knowledge exchange on institutional approaches and mechanisms of integrated natural resources management. With this aim, study tours to India were organized by UNDP. 

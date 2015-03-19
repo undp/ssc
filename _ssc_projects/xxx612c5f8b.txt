@@ -1,7 +1,7 @@
 ---
 open_project_id: ""
 thematic_focus: 
-host_location: 
+country: 
   - HTI
 region: 
   - lac
@@ -15,8 +15,6 @@ territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
-  - DOM
 published: true
 ---
 UNDP provides capacity building, exchange facilitation and knowledge brokering between Dominican Republic and Haiti. The two UNDP country offices coordinate this initiative on local economic development and human rights.

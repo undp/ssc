@@ -2,7 +2,7 @@
 open_project_id: "00058072"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - PAK
 region: 
   - asia_pacific
@@ -16,7 +16,6 @@ project_objective: This regional project is implemented in six countries of Asia
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP implements the project, focusing on capacity building, knowledge exchange between involved countries, and assisting government, manufacturing, distributing, retail, consumer and environmental stakeholders throughout the Asian region to implement the most cost-effective energy efficiency measures available.

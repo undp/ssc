@@ -1,7 +1,7 @@
 ---
 open_project_id: ""
 thematic_focus: 
-host_location: 
+country: 
   - BRB
 region: 
   - lac
@@ -13,7 +13,6 @@ project_objective: UNDP Barbados supported the 1st Regional South-South Cooperat
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP provided coordination and hosting support, including identifying and selecting 5 Barbados and Eastern Caribbean social and sustainable development cases to share them. Caribbean SIDS shared country experience, learning and solutions in Youth Business, Social Protection and National Strategic Planning during the fair, which provided a space and stage for dialogue among participants to further strengthen intra-Caribbean SSC cooperation.

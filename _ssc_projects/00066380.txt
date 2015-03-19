@@ -2,7 +2,7 @@
 open_project_id: "00066380"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - BRA
 region: 
   - lac
@@ -15,7 +15,6 @@ project_objective: To provide support to the cotton production sector in other d
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitates partnerships and knowledge exchange.

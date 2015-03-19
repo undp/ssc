@@ -2,7 +2,7 @@
 open_project_id: "00059731"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - UZB
 region: 
   - europe_cis
@@ -16,7 +16,6 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will conduct internal strengthening of its program and project personnel to support the application of the result-based management methods and tools and establish information sharing and best practice exchange internally and through the ongoing close engagement of UNDP's regional centre based in Bratislava, and through various channels including south-south  and learning emanating from the Central Asian region. 

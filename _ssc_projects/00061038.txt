@@ -2,7 +2,7 @@
 open_project_id: "00061038"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - MYS
 region: 
   - asia_pacific
@@ -17,11 +17,6 @@ project_objective: To support the strengthening of SME policy formulation and in
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
-  - BTN
-  - KHM
-  - LAO
-  - MDV
 published: true
 ---
 UNDP will facilitate partnership and outreach  of 5 LDC countries (Bhutan, Cambodia, Lao PDR, Maldives and Timor-Leste) to participating organizations, through coordination with UNDP COs.  UNDP Malaysia will also be responsible for management of resources through direct execution modality and in organizing and facilitating seminars for SMEs.  The former Special Unit for SSC will assume the overall responsibility for the strategic planning, mobilizing resources and supporting UNDP CO. UNDP will also monitor the implementation of the project. 

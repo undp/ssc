@@ -2,7 +2,7 @@
 open_project_id: "00061005"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - ROU
 region: 
   - europe_cis
@@ -19,7 +19,6 @@ project_objective: To dismantle the barriers to the implementation of energy eff
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP Romania will seek to involve other UNDP COs from the region and reach out to local authorities and representatives of central governments in order to exchange knowledge through workshops and field visits. 

@@ -2,7 +2,7 @@
 open_project_id: "00067496"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - BLR
 region: 
   - europe_cis
@@ -14,11 +14,6 @@ project_objective: The project aims to promote environmental sustainability in B
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - UKR
-  - LTU
-  - LVA
-  - POL
 published: true
 ---
 UNDP facilitates regional coordination. Successful implementation of the initiative depends on efficient regional coordination with key international stakeholders, including the EnvSec Regional Desk for Eastern Europe, UNEP and ENECE. This is achieved via regular meetings with the Belarusian, Ukrainian and other international stakeholders for reviewing the progress, discussing emerging issues, problems and new ideas, and ensuring continuous exchanges among the stakeholders. A sub-regional conference for Belarus, Ukraine, Lithuania, Latvia, and Poland will be arranged in Belarus to disseminate the results of the project. 

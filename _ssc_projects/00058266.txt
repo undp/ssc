@@ -2,7 +2,7 @@
 open_project_id: "00058266"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - ROU
 region: 
   - europe_cis
@@ -17,7 +17,6 @@ project_objective: To secure the financial sustainability of Romania's Carpathia
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP Romania will transfer and disseminate lessons learned and knowledge to other neighbouring countries of the Carpathian region.  Additionally, UNDP will identify other regional and global experiences in order to optimize knowledge exchange between the CNPAs. It will also develop a 'virtual learning community' in order to help CNPAs document and experiences and lessons and facilitate the transfer of knowledge to the neighbouring regions (CNPAs). 

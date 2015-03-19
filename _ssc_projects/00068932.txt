@@ -2,7 +2,7 @@
 open_project_id: "00068932"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - TZA
 region: 
   - africa
@@ -14,8 +14,6 @@ project_objective: To strengthen the capacity of democratic institutions such as
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - MEX
 published: true
 ---
 UNDP Tanzania and Mexico collaborated to facilitate a peer learning between the two Tanzania electoral management bodies (EMBs) and the Mexican bodies responsible for election management and electoral dispute resolution.  This effort sought to promote South-South cooperation in the electoral field through focus on knowledge and experience sharing between Tanzania and Mexico. 

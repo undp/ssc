@@ -2,7 +2,7 @@
 open_project_id: "00058643"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - ARG
 region: 
   - lac
@@ -14,7 +14,6 @@ project_objective: To advance towards the sustainability of uses and resources o
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP provided technical assistance

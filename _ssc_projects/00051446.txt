@@ -2,7 +2,7 @@
 open_project_id: "00051446"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - COK
   - FSM
   - FJI
@@ -30,7 +30,6 @@ project_objective: To improve water resources management and water use efficienc
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP's role in this programme is to assist the participating Pacific countries in the development and dissemination of best practice for building national and local capacity for IWRM; Facilitating transfer of IWRM regional practice from one PIC to another; Identification and documentation of existing small island IWRM practice at different scales;

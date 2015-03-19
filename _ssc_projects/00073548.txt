@@ -2,7 +2,7 @@
 open_project_id: "00073548"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - IRQ
 region: 
   - arab_states
@@ -15,7 +15,6 @@ project_objective: To address the intersecting needs and challenges facing the j
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will facilitate knowledge exchange. UNDP will help identify twinning and regional partners (such as Dubai and Cairo) for guidance and technical support on the improvement of the legal and institutional framework governing foreign investment. Knowledge will be exchanged through study tours.

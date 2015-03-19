@@ -2,7 +2,7 @@
 open_project_id: "00068654"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - KOS
 region: 
   - europe_cis
@@ -14,10 +14,6 @@ project_objective: To build bridges between local government and young people by
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - MNE
-  - SRB
-  - MKD
 published: true
 ---
 UNDP facilitates knowledge exchange between Kosovo and  neighbouring countries (such as Montenegro) through study tours. UNDP also helps identify lessons learned by previous UNDP projects and facilitate south-south cooperation on related issues. In the context of Kosovo, UNDP will be implementing the interventions of this project taking into consideration the tested experiences, good

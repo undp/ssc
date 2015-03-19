@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - CHN
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: To deploy the combined development strengths, expertise and e
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP facilitates partnerships by identifying and designing trilateral cooperation projects in the third countries in Africa. 

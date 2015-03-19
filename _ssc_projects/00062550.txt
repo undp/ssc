@@ -2,7 +2,7 @@
 open_project_id: "00062550"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - MLI
 region: 
   - africa
@@ -18,7 +18,6 @@ undp_role_type:
   - builder_of_capacities
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP helps strengthen capacity of knowledge acquisition, processing and dissemination. In this context, partnerships will be established with the Africa Capacity Building Foundation (ACBF), African Development Bank, CERCAP. Forums for knowledge exchange and transfer will be organized. Study visits will be organized to countries with best practices on reinformement of development capacities.

@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - IND
   - BRA
   - ZAF
@@ -17,7 +17,6 @@ project_objective: The Trust Fund enhances South-South cooperation for the benef
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP's Special Unit for South-South Cooperation acts as the fund manager and board of directors' secretariat.

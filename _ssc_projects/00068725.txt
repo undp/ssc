@@ -2,7 +2,7 @@
 open_project_id: "00068725"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - THA
 region: 
   - asia_pacific
@@ -17,7 +17,6 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will conduct a strategic review of Thailand's International development cooperation over the past decade and map out the cooperation based on stakeholders, policies, strategies and resources among government and CSOs, and provide recommendations.  UNDP will also facilitate and organize international exchange (ASEAN region) of knowledge and experience on the Universal Health Coverage and HIV/AIDS in Thailand.  

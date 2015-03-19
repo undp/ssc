@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - EGY
 region: 
   - arab_states
@@ -14,7 +14,6 @@ project_objective: To effectively and strategically advance South-South cooperat
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP will provide capacity development. To support the Agency, UNDP in Egypt seeks to contract a Training Institute or company to provide EAPD staff with a solid foundation on Project Cycle Management and Results-Based Management. 

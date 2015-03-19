@@ -2,7 +2,7 @@
 open_project_id: "00044557"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - GAB
 region: 
   - africa
@@ -15,7 +15,6 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP facilitates partnership and dialogue among territories, promotes South South and triangular cooperation for introducing mechanisms of aid efficiency. As a result, international and decentralized cooperation, South South Cooperation will be advanced through- identification of national and international partners; organizing exchange visits and sharing of experience; signing of partnership agreements with international cooperation structures.

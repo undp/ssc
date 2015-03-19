@@ -2,7 +2,7 @@
 open_project_id: "00048414"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - ARG
   - IND
   - LVA
@@ -22,7 +22,6 @@ project_objective: The Project objective is to demonstrate and promote best prac
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitates the dissemination of experiences and lessons learned and promoting information exchange; advancing access to, and the transfer of, clean and environmentally sound alternative technologies; and demonstrating viable and cost-effective alternatives to the processes and practices. 

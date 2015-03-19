@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - SLV
 region: 
   - lac
@@ -14,7 +14,6 @@ project_objective: The was conceived as a South-South Cooperation between the Go
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP role to be defined

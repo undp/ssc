@@ -2,7 +2,7 @@
 open_project_id: "00058295"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - TUN
 region: 
   - arab_states
@@ -17,10 +17,6 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
-  - MAR
-  - DZA
-  - PRT
 published: true
 ---
 The project promotes the Court's active participation and contribution to regional networks to promote the principles of transparency and integrity, through- (1) participation of the Court of Auditors in the meetings and work of INTOSAI; (2) Strengthening partnerships and twinning operations with similar control of the institutions; (3) participation of the Court of Auditors cycles organized training by international organizations and regional International Organisation of Supreme Audit Institutions (INTOSAI) and Arab Organization of Supreme Court Institutions (ARABOSAI); (4) organizing infromation visits to similar supreme audit institutions of Morocco, Algeria, Portugal; (5)  organizing a conference on South-South cooperation.

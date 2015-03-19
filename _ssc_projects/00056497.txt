@@ -2,7 +2,7 @@
 open_project_id: "00056497"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - KEN
 region: 
   - africa
@@ -15,10 +15,6 @@ project_objective: To strengthen institutional and human capacity in peace suppo
 territorial_focus: ldc
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
-  - UGA
-  - RWA
-  - ETH
 published: true
 ---
 UNDP will provide technical assistance and capacity building. In partnership with the Government of Kenya, the project will conduct the study of four regional training centres in Uganda, Kenya, Rwanda, and Ethiopia to review their training capabilities. UNDP Kenya office will manage the project and support the training and capacity enhancement at  International Peace Support Training Centre. UNDP is in charge of the overall project management. 

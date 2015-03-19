@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - AIA
   - ATG
   - VGB
@@ -22,7 +22,6 @@ project_objective:
 territorial_focus: ldc,fragile_states,mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 The British Virgin Islands' Department of Disaster Management provided shelter management training and materials to disaster management agencies which were coordinated by the Fire departments and the Disaster Management Coordination Agency. UNDP  manages the project and coordinates activities.

@@ -2,7 +2,7 @@
 open_project_id: "00074392"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - BOL
 region: 
   - lac
@@ -15,6 +15,5 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
 published: true
 ---

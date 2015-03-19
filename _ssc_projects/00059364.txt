@@ -2,7 +2,7 @@
 open_project_id: "00059364"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - TZA
 region: 
   - africa
@@ -15,8 +15,6 @@ project_objective: To remove the barriers, through a multi-level approach. At th
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - UGA
 published: true
 ---
 The management and technical team of Sustainable Land Management (SML) Kilimanjaro project conducted a study tour to Uganda in order to learn and share experiences on sound implementation of SLM projects. The team shared relevant lessons and experiences on the successful implementation of this project in Uganda. This initiative for South-South cooperation was necessitated by the current challenges facing the SLM project in Kilimanjaro, in which practices are not being well articulated in national policies, difficulties in enforcement and compliance, and conflicts with existing laws and policies. UNDP facilitated the learning exchange between the two countries. 

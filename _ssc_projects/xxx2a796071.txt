@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - BRA
 region: 
   - lac
@@ -14,7 +14,6 @@ project_objective: To consolidate Brazilian SSC throughout the institutional str
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 The role of UNDP is  to cooperate with the national implementing partner and provide technical assistance in planning, monitoring and evaluation of this project. Many of the specific expected results of this comprehensive programme also draw on lessons learned from good practises of development cooperation from the wider programme coverage UNDP has in over 170 countries. In particular, capacity on project management and monitoring and evaluation of Brazil's SSC efforts will be strengthened. As needed, UNDP also makes available its mechanisms and instruments of building partnerships with other UN and international agencies, private sector and other stakeholders. UNDP also helps Brazilian Agency for Cooperation in recruitment and procurement of services for the project, capacity building, information exchange, recruitment of human resources and engages partner country offices for additional support. UNDP also assists on coordination with national  and other relevant agencies, and is part of the Steering committee in charge of monitoring the project's progress. 

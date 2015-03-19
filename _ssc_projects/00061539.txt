@@ -2,7 +2,7 @@
 open_project_id: "00061539"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - WSM
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: To  provide technical advice of specific lowland and upland f
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will support sharing knowledge on adaptation practices through regional and global platforms and events. Among the planned activities are- (1) incorporation of project lessons learnt in the Adaptation Learning Mechanism (ALM), the SPREP Climate Change Portal, MNRE website and other appropriate web-based platforms; (2) Sharing of project results in relevant regional events related to forestry management and climate change adaptation. It is plannes that the project experience and KM materials will be presented in at least 2 national workshops, 2 regional events, and in at least 2 international web-based platforms.

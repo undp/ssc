@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - PER
 region: 
   - lac
@@ -16,8 +16,6 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
-  - BOL
 published: true
 ---
 UNDP facilitates partnership and exchanges between Bolivia and Peru (Arequipa Government) on elaboration of a rain early recovery framework at the provincial and regional level. UNDP also provides technical assistance to the project. 

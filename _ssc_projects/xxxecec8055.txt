@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - ROU
 region: 
   - europe_cis
@@ -14,7 +14,6 @@ project_objective: To support the Ministry of Foreign Affairs to assume a define
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP will support Romania (through its Ministry of Foreign Affairs) to become fully capable and equipped by 2015 with the appropriate capacity to manage all parts of ODA project management cycle by itself, including planning and design, monitoring, evaluation and communication. 

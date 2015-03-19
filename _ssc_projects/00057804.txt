@@ -2,7 +2,7 @@
 open_project_id: "00057804"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - SAU
 region: 
   - arab_states
@@ -14,7 +14,6 @@ project_objective: To enhance participation of youth in national development pro
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will facilitate working visits and study tours between the Ministry of Economy and Planning (MOEP) and selected countries in order to review actions and gain experiences on how youth-related issues were addressed and integrated into development strategies and national programmes. 

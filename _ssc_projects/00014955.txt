@@ -2,7 +2,7 @@
 open_project_id: "00014955"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - TLS
 region: 
   - asia_pacific
@@ -14,8 +14,6 @@ project_objective: To consolidate the Democratic Rule of Law and Peace through a
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - BRA
 published: true
 ---
 Brazil had entered into an agreement with the Government of Timor-Leste since 2002 to support the justice sector, and currently channels technical expertise through a Memorandum of Understanding with the UNDP Justice System Programme which enables the secondment of Brazilian judges, prosecutors, public defenders and administrative staff to the judiciary in Timor-Leste.

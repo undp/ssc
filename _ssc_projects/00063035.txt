@@ -2,7 +2,7 @@
 open_project_id: "00063035"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - UGA
 region: 
   - africa
@@ -16,9 +16,6 @@ project_objective: Objectives-  (i) to strengthen Uganda's capacity for promotin
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - NPL
-  - PER
 published: true
 ---
 South South strategy of the Project- the Ecosystem Based Adaptation global programme will facilitate sharing of best practices and lessons learned within and outside the 3 participating developing countries of Nepal, Peru and Uganda. It will serve as a platform for developing and strengthening the adaptation tools and methodologies at the global level, using practical field experiences.

@@ -2,7 +2,7 @@
 open_project_id: "00047585"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - KEN
 region: 
   - africa
@@ -14,11 +14,6 @@ project_objective: To reduce energy (electricity) related CO2 emissions in Kenya
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - BDI
-  - RWA
-  - TZA
-  - UGA
 published: true
 ---
 UNDP will provide technical assistance in removing barriers to market transformation of energy efficient products and services in Kenya and facilitate this project's replication in to 4 other East African Community (EAC) countries of Burundi, Rwanda, Tanzania and Uganda. 

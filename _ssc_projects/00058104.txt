@@ -2,7 +2,7 @@
 open_project_id: "00058104"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - PAK
 region: 
   - asia_pacific
@@ -15,8 +15,6 @@ project_objective: To promote sustainable development through Peace Building, Go
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
-  - SAU
 published: true
 ---
 With the financial assistance from the Saudi Fund for Development (SFD) and seed funding, UNDP has provided targeted recovery assistance to women and men through cash for work, and rehabilitated community infrastructure for access to basic social services. 

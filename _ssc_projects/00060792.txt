@@ -2,7 +2,7 @@
 open_project_id: "00060792"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - UKR
 region: 
   - europe_cis
@@ -14,7 +14,6 @@ project_objective: To help transform the market towards more energy efficient li
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 Since a similar project has recently started in Russia, UNDP will facilitate the knowledge sharing and exchanges of ideas between 

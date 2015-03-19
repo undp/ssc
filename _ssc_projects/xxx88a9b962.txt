@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - SLB
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: To establish the necessary institutional and individual capac
 territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP will assess the potential for regional cooperation opportunities with other countries willing to discuss and contribute Involvement of Council of Regional Organizations in the Pacific (CROP) for technical support

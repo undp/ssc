@@ -2,7 +2,7 @@
 open_project_id: "00056788"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - EGY
 region: 
   - arab_states
@@ -15,10 +15,6 @@ project_objective: To strengthen transparency and integrity in the civil service
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - MYS
-  - CHL
-  - MEX
 published: true
 ---
 UNDP will assist the Government of Egypt in learning from international best practices from countries that went through the same economic and political transformation such as Malaysia, Chile, and Mexico.  UNDP will also organize a regional workshop on anti-corruption in order to collect the best practices and lessons learned in Asia and the Middle East with the regards to roles and activities of anti-corruption committees, ombudsmen systems, preventive measures to fight corruption, methods and tools used in dealing with corruption complains and national measurement indexes. 

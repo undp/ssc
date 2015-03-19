@@ -2,7 +2,7 @@
 open_project_id: "00067803"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - COL
 region: 
   - lac
@@ -15,7 +15,6 @@ project_objective: Objectives- Strengthen South-South and Triangular Cooperation
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP provides technical assistance and capacity building. The project  strengthens the actions of South-South Cooperation and triangular cooperation  through a strategy that seeks to- (1) improve the capacity to promote South-South cooperation and technical capacity within Presidential Agency for International Cooperation, (2) strengthen the management of knowledge for South-South cooperation and triangular cooperation, and (3) strengthen the presence of the Agency for International Cooperation in priority regions 

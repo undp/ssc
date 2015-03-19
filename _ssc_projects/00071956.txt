@@ -2,7 +2,7 @@
 open_project_id: "00071956"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - AZE
 region: 
   - europe_cis
@@ -15,7 +15,6 @@ project_objective: To expand support to Azerbaijan National Agency for Mine Acti
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitates sharing of experiences among participating countries

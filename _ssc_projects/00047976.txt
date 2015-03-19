@@ -2,7 +2,7 @@
 open_project_id: "00047976"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - URY
 region: 
   - lac
@@ -15,7 +15,6 @@ project_objective: To support the implementation, monitoring and evaluation of t
 territorial_focus: hic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP provides technical assistance. 

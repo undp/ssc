@@ -1,7 +1,7 @@
 ---
 open_project_id: "00075232"
 thematic_focus: 
-host_location: 
+country: 
   - IRQ
 region: 
   - arab_states
@@ -13,6 +13,5 @@ project_objective: To enable the GoI in establishing the institutional arrangeme
 territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---

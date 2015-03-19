@@ -2,7 +2,7 @@
 open_project_id: "00056866"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - TGO
 region: 
   - africa
@@ -16,10 +16,6 @@ project_objective: To strengthen the management of the system of protected areas
 territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
-  - BFA
-  - BEN
-  - NER
 published: true
 ---
 The Project is funded by West African Economic and Monetary Union. UNDP will help Togo develop prerequisites to be able to join in the coming years the initiative for the conservation of biodiversity led by Burkina Faso, Benin and Niger in partnership EU, WAEMU and UNDP.

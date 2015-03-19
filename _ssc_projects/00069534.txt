@@ -2,7 +2,7 @@
 open_project_id: "00069534"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - KAZ
 region: 
   - europe_cis
@@ -16,11 +16,6 @@ project_objective: To support regional food security through increased resilienc
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
-  - TJK
-  - UZB
-  - TKM
-  - AFG
 published: true
 ---
 UNDP will facilitate partnership, engaging Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Turkmenistan and Afghanistan to identify policy makers and develop a common vision and understanding regarding the possible implications of climate variability and change of wheat and food security in the region and to identify actions that can be taken individually or collectively to respond. 

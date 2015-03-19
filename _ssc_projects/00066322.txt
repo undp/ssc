@@ -2,7 +2,7 @@
 open_project_id: "00066322"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - ETH
 region: 
   - africa
@@ -16,7 +16,6 @@ project_objective: Objectives- (i) to create an enabling environment (developing
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will act as knowledge broker and facilitate capacity building for professionals and politicians in order to help the responsible stakeholders internalize the concept of local economic development to derive strategies and effectively implement them for the sustainability of the program. The training will take place at two levels both abroad and in-country. Trainings and exposure visits will be organised for politicians and technical experts, who can serve as Master Trainers. 

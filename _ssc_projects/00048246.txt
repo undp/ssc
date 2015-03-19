@@ -2,7 +2,7 @@
 open_project_id: "00048246"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - UKR
 region: 
   - europe_cis
@@ -16,10 +16,6 @@ project_objective: To promote sustainable socio-economic development at local le
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - AFG
-  - BLR
-  - ARM
 published: true
 ---
 UNDP facilitated knowledge exchange through study tours- (1) Expert support was provided to UNDP Afghanistan- International Project Manager visited Afghanistan to share Ukraine's experience on community based approach to local development and prepare a project document for cities' development Afghanistan;  (2) CBA project organized and hosted a study visit for UNDP Belarus to share experience and best practice in promoting local development activities in Ukraine. Belarusian delegation included Representatives of Ministry of Economy, Ministry of Emergency, Regional and district authorities and UNDP Belarus; (3) CBA hosted a study visit of the Arminian delegation, including representatives of UNDP Armenia, Ministry of Territorial Administration, Ministry of Labor and Social Affairs, Ministry of Nature Protection and Deputy Governor of Tavush region. The visit was organized with the aim to present Ukraine's experience of community based development with a view of its replication in Armenia.

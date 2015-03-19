@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - MEX
 region: 
   - lac
@@ -14,7 +14,6 @@ project_objective: Develop capacities and strengthen institutions in areas ident
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP will provide technical and administrative assistance to the project. 

@@ -1,7 +1,7 @@
 ---
 open_project_id: "00075032"
 thematic_focus: 
-host_location: 
+country: 
   - STP
 region: 
   - asia_pacific
@@ -14,8 +14,6 @@ project_objective: To promote environmentally sustainable and climate-resilient 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - KEN
 published: true
 ---
 UNDP will facilitate access to knowledge. Similar activities within the country or region will be approached to learn from their experiences (e.g. the Weather Information for Development (WIND) initiative in Kenya).  Lessons and experiences in other parts of Africa will be assessed for their potential to upscale e.g. using innovative techniques to communicate agrometeorological advisories.

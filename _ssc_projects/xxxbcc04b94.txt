@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - GTM
 region: 
   - lac
@@ -14,6 +14,5 @@ project_objective: To recognize the potential for a mutual exchange of best prac
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---

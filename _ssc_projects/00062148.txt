@@ -2,7 +2,7 @@
 open_project_id: "00062148"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - JAM
 region: 
   - lac
@@ -15,8 +15,6 @@ project_objective: To mainstream migration into national development strategies
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - CPV
 published: true
 ---
 UNDP provided knowledge brokering and exchange facilitation between Jamaica and Cape Verde. Study tour for Cape Verde Government Mission Team to Jamaica was organized on Development of National Migration Policy and Mainstreaming Migration into National Development Planning & Policy

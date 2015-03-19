@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - URY
 region: 
   - lac
@@ -14,8 +14,6 @@ project_objective:
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - PRY
 published: true
 ---
 UNDP facilitated knowledge exchange between Paraguay and Uruguay on Youth Policy developed jointly with the Youth National Institutes of Paraguay and Uruguay. 

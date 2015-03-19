@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - TKM
 region: 
   - europe_cis
@@ -15,7 +15,6 @@ project_objective: To enhance parliamentary processes and procedures to improve 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will establish and develop a lesson learned platform for knowledge sharing and cooperation within the region. In addition, UNDP will draw from the experience of similar parliamentary projects in the region and neighbouring countries to apply it in Turkmenistan.

@@ -2,7 +2,7 @@
 open_project_id: "00059495"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - ARG
 region: 
   - lac
@@ -14,7 +14,6 @@ project_objective: To reverse the trends of land degradation in the Gran Chaco b
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will provide techinical support, coordination and facilitation of knowledge exchange 

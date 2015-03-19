@@ -2,7 +2,7 @@
 open_project_id: "00068084"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - KGZ
 region: 
   - europe_cis
@@ -14,7 +14,6 @@ project_objective: To introduce Area-Based development approach and support the 
 territorial_focus: ldc
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP facilitated partnership between Kyrgyz Republic and Rissua, which co-funds the programme. UNDP implements it (partnership)

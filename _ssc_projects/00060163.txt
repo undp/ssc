@@ -2,7 +2,7 @@
 open_project_id: "00060163"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - TKM
 region: 
   - europe_cis
@@ -16,9 +16,6 @@ project_objective: To reduce the burden of tuberculosis in Turkmenistan by conso
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - LVA
-  - RUS
 published: true
 ---
 UNDP will facilitate knowledge exchange study tours and training in priority issues of DR-TB management in Latvia, the Russian Federation and othr relevant countries.

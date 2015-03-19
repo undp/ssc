@@ -2,7 +2,7 @@
 open_project_id: "00058568"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - COL
 region: 
   - lac
@@ -17,9 +17,6 @@ project_objective: The aim of this initiative is the economic integration for pe
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - ECU
-  - PAN
 published: true
 ---
 UNDP provided technical assistance and facilitated knowledge transfer- (1) from Colombia to Ecuador for the Development of Inclusive markets. As a result, COLENALP company was established with 180 associated farmers of Pasto. Technical assistance allowed the farmers to join the company as producers of Floralp. The company's products are being distributed in the country; (2) between Panama and Colombia on strengthening the national capacities (of the Ministry of Labor) in policy development, programs and specific instruments to promote gender equality and the economic empowerment of women as an effective way to reduce poverty and promote the improvement of their living conditions of the population.

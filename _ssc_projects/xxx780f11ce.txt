@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - KOS
 region: 
   - europe_cis
@@ -15,8 +15,6 @@ territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
-  - TUR
 published: true
 ---
 UNDP facilitated partnership and knowledge transfer from Turkey to Kosovo on protected area management and sustainable forest management. Additionally, EU funding opportunities may be attracted for regional economic development, human rights and agricultural development.

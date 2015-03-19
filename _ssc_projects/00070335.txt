@@ -1,7 +1,7 @@
 ---
 open_project_id: "00070335"
 thematic_focus: 
-host_location: 
+country: 
   - PHL
   - SLV
   - ECU
@@ -14,7 +14,6 @@ scale: global
 project_objective: Philippines / El Salvador / Ecuador / Tunisia Joint Migration and Development Initiative Phase 2- Strengthening the Contribution of Migration to Development by Reinforcing its Local Dimension
 territorial_focus: 
 undp_role_type: 
-partner_location: 
 published: true
 ---
 UNDP facilitates partnership building and knowledge sharing (in particular, output 3 of the project) by internationally connecting local authorities and civil society organizations to facilitate partnerships and knowledge sharing.

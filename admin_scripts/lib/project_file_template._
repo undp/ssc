@@ -2,7 +2,7 @@
 open_project_id: "<%= open_project_id %>"
 thematic_focus: <% _.each(thematic_focus, function(i) { %>
   - <%= i %><% }); %>
-host_location: <% _.each(host_location, function(i) { %>
+country: <% _.each(country, function(i) { %>
   - <%= i %><% }); %>
 region: 
   - <%= region %>
@@ -13,8 +13,6 @@ scale: <%= scale %>
 project_objective: <%= project_objective %>
 territorial_focus: <%= territorial_focus %>
 undp_role_type: <% _.each(undp_role_type, function(i) { %>
-  - <%= i %><% }); %>
-partner_location: <% _.each(partner_location, function(i) { %>
   - <%= i %><% }); %>
 published: true
 ---

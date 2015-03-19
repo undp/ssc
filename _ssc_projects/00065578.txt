@@ -2,7 +2,7 @@
 open_project_id: "00065578"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - IRQ
 region: 
   - arab_states
@@ -16,9 +16,6 @@ project_objective: To support the Government of Iraq's efforts in creating a rei
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - JOR
-  - LBN
 published: true
 ---
 UNDP facilitated knowledge exchange. Filed visits to Jordan were organized for Iraq's key stakeholders from the Government and CSOs to learn the experience of the Family Protection Department in Jordan. Jordanian experts conducted training sessions in Erbil. Additional study tours and extensive training exercises where held for representatives from Iraq, Jordan and Lebanon in order to enhance the opportunity for cooperation and increase synergy in order to build confidence in the system and build ownership.

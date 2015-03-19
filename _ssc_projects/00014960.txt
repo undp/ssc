@@ -2,7 +2,7 @@
 open_project_id: "00014960"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - TLS
 region: 
   - asia_pacific
@@ -15,7 +15,6 @@ territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP will assist in strengthening inter-parliamentary relations with Portugese speaking countries and Pacific region countries, so 

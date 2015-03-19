@@ -2,7 +2,7 @@
 open_project_id: "00059926"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - LBR
 region: 
   - africa
@@ -16,7 +16,6 @@ territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will facilitate knowledge sharing and capacity building through study tours for the National Elections Commission (NEC) staff to countries and institutions in order to provide most relevant examples on improving electoral institutions processes and laws. This will further strengthen the capacity of the NEC staff. 

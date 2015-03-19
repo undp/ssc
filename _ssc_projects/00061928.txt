@@ -2,7 +2,7 @@
 open_project_id: "00061928"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - BLR
 region: 
   - europe_cis
@@ -14,8 +14,6 @@ project_objective: To improve of the integrated water resources management using
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - LTU
 published: true
 ---
 UNDP facilitated knowledge exchange by supporting the creation of a common information platform (Internet database), containing data on water resources management and adaptation to climate change for the Niemen River basin countries- Belarus, Lithuania and Russia.

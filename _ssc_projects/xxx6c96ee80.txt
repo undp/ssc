@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - AIA
   - ATG
   - BRB
@@ -22,7 +22,6 @@ project_objective: To enhance SIDS knowledge management through the creation of 
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will facilitate the development and management of the portal. 

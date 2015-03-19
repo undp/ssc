@@ -2,7 +2,7 @@
 open_project_id: "00060500"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - ARM
 region: 
   - europe_cis
@@ -15,8 +15,6 @@ project_objective: To conserve globally significant biodiversity in Armenia. The
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - GEO
 published: true
 ---
 UNDP facilitates the knowledge exchange to transfer best practices on protected area management planning from Georgia to Armenia. At the same time, the lessons generated in Armenia by the project will be made available for the Georgian counterparts. 

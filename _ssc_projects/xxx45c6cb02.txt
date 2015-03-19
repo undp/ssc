@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - SLE
 region: 
   - africa
@@ -16,7 +16,6 @@ territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP facilitated a working relationship and co-operation between IBSA members and Sierra Leone and advancing South-South cooperation.  Given that some of the IBSA members, such as South Africa, went through some of the challenges that Sierra Leone had undergone, UNDP can assist the government in drawing upon lessons from both its successes and failures and best practices as it makes it through its post-war construction and development. 

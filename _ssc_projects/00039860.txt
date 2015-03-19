@@ -2,7 +2,7 @@
 open_project_id: "00039860"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - TKM
 region: 
   - europe_cis
@@ -14,7 +14,6 @@ project_objective: To strengthen the capacity of the Government to ensure the lo
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitates study tours and training seminars with other countries emerging from the former USSR with social protection programmes and exchange information on how the different national models operate in practice. 

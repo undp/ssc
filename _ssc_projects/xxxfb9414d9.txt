@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - DOM
   - BOL
   - COL
@@ -18,8 +18,6 @@ project_objective:
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - BRA
 published: true
 ---
 UNDP supported regional knowledge exchange on best practice on Local Economic Development experiences,  and lessons learned on support to national strategies and policies. As a result, a joint publication was produced on successful experiences of DEL in Latin America; best practices were presented in the II World Forum on LED in Brazil, in October 2013.

@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - SAU
 region: 
   - arab_states
@@ -14,7 +14,6 @@ project_objective: To launch a new UNDP-managed global funding mechanism to chan
 territorial_focus: hic
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP will provide technical assistance and engage its knowledge network to create a web-based crowd-sourcing platform (UNDP global ICT4D unit within the UNDP Bureau for Policy and Programme Support). The project will build on the ongoing reviews of innovative approaches to resource mobilization being undertaken by the UNDP Innovation Task Team, which can provide global advisory support to guide global aspects of the project. UNDP will engage is Bureau for Policy and Programme Support (BPPS), the Bureau for External Relations and Advocacy (BERA) and the Bureau of Management (BOM), all key units in UNDP Headquarters with important roles for achieving the global outputs of the project. The Regional Bureau for Arab States (RBAS) and its Regional Service Center (RSC) will also play a key facilitation role between UNDP Saudi Arabia and these HQ units.  Thus, the initiative will build on UNDPs long-standing expertise in management of UN/UNDP global fund systems for development, including the IATI and the open data initiatives, and models for web-based crowd-sourcing platforms. Additionally, UNDP will bring together a team of local advisors to be based in a Local Project Office in Riyadh, to lead a local public campaign for resource mobilization in Saudi Arabia over the period of the project. 

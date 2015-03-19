@@ -2,7 +2,7 @@
 open_project_id: "00061318"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - PAK
 region: 
   - asia_pacific
@@ -14,12 +14,6 @@ project_objective: To reduce risks and vulnerabilities from GLOFs and snow-melt 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - BTN
-  - NPL
-  - IND
-  - PER
-  - CHL
 published: true
 ---
 UNDP will assist the Government of Pakistan in capturing lessons learned from other Glacier Lake Outburst Floods (GLOFs) projects in Bhutan, Nepal, China, India, Peru, Chile and European countries. UNDP will assist the government in conducting at least one study visit to another GLOF risk reduction project in the Himalayan Karakorum Hindukush (HKH) region to ensure south-south transfer of technical know-how and experience. This will also be facilitated through global and regional research networks and centres working on GLOF issues. Additionally, other countries facing GLOF risks, such as China, India, Nepal and Bhutan, will also benefit from the knowledge generated through the project. This proposed initiative will contribute to a critical mass of experience on GLOF risks in the Himalaya region and enhance systematic regional cooperation on this critical adaptation issue.

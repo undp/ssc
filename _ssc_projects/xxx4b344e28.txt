@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - KAZ
 region: 
   - europe_cis
@@ -16,7 +16,6 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP assisted with capacity building and facilitated knowledge exchange between the involved countries.

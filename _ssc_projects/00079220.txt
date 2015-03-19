@@ -2,7 +2,7 @@
 open_project_id: "00079220"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - HTI
 region: 
   - lac
@@ -15,8 +15,6 @@ project_objective: To promote family/community vegetable gardens to fight food i
 territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
-  - ARG
 published: true
 ---
 UNDP facilitates partnership and coordinates SSC between Argentina and Haiti. Through UNDP, Argentina provides technical assistance to the Government of Haiti.  UNDP also provides management support for implementation of some components.

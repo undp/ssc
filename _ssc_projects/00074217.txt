@@ -2,7 +2,7 @@
 open_project_id: "00074217"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - MEX
 region: 
   - lac
@@ -15,6 +15,5 @@ project_objective: To contribute to the consolidation of Mexico as South-South c
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---

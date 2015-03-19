@@ -2,7 +2,7 @@
 open_project_id: "00065861"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - MKD
 region: 
   - europe_cis
@@ -15,7 +15,6 @@ project_objective: To increase youth participation in local governance and ensur
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 The initiative is designed to be replicable nationwide and will be a national youth platform for the region.

@@ -2,7 +2,7 @@
 open_project_id: "00056926"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - CUB
 region: 
   - lac
@@ -16,8 +16,6 @@ project_objective: The project would contribute to the overall goal of conservin
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - BRA
 published: true
 ---
 UNDP facilitated knowledge ecxhange between Brazil and Cuba on the development of family farming, management of water resources, livestock management, soil resource management and food production. As a result, scientific cooperation between Cuba and Brazil was established, Cuban experts were trained in sustainable land management, Cuban producers were trained in production techniques and food security.

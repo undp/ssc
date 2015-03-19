@@ -2,7 +2,7 @@
 open_project_id: "00048025"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - BIH
 region: 
   - europe_cis
@@ -15,10 +15,6 @@ project_objective: This programme will support and improve local management of e
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - HUN
-  - SVN
-  - EST
 published: true
 ---
 UNDP facilitated the knowledge exchange on environmental management at the local level. With this aim, study trips to Hungary, Slovenia and Estonia were organized. 

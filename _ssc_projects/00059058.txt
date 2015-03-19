@@ -2,7 +2,7 @@
 open_project_id: "00059058"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - THA
 region: 
   - asia_pacific
@@ -14,8 +14,6 @@ project_objective: To overcome barriers to sustainability of Thailand's protecte
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - MNG
 published: true
 ---
 UNDP will facilitate knowledge sharing through a protected area (PA) system for countries in the region. The project's approach to strengthening overall PA management effectiveness and PA financing will be replicable to other countries in the region and other parts of the world too. Lessons from this project will be made available to other nations through websites, publications and lessons sharing through the government, GEF and UNDP. UNDP and GEF are supporting similar PA financing projects in Asia (for example Mongolia and Vietnam) and replication of successful approaches in Thailand could be of interest to these countries. Within the project, many activities will focus on testing and demonstrating specific approaches in five demonstration sites. The project has built in mechanisms so that lessons from the demonstration sites are learnt and disseminated throughout the PA system. One innovative approach to do this, proposed by this project, is to have peer review by other PA superintendents of actions at demonstration sites.

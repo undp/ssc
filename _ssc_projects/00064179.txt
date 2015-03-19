@@ -2,7 +2,7 @@
 open_project_id: "00064179"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - SSD
 region: 
   - africa
@@ -15,7 +15,6 @@ territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP assisted in development of technical capacities of the Ministry of Physical Infrastructure and its strengthening to undertake/oversee public infrastructure. UNDP facilitates  South‐South cooperation and sharing of experiences through participation of four technical staff of the Ministry of Housing and Public Utilities in a training event on Urban and Housing Development in Cape Town, South Africa.  

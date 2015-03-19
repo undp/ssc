@@ -2,7 +2,7 @@
 open_project_id: "00061585"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - SLB
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: The mainstreaming of environmental sustainability and sustain
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 At the final stage of the project, UNDP will facilitate the dissemination of its lessons learnt and facilitate the exchange of experience at regional level. 

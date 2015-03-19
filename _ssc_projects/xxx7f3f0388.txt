@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - BEN
   - BFA
   - KHM
@@ -20,7 +20,6 @@ project_objective: To support countries from the South in the design, implementa
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitates knowledge exchange between the involved countries. 

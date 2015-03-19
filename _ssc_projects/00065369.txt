@@ -2,7 +2,7 @@
 open_project_id: "00065369"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - SEN
   - CPV
   - GMB
@@ -22,7 +22,6 @@ project_objective: To contribute to poverty reduction and food security strength
 territorial_focus: ldc,mic,sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will help WAMER countries develop and implement a sub regional action plan to improve governance and promote the adoption of best practices for sustainable use of marine and coastal resources in the ecoregion WAMER. 

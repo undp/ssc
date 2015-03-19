@@ -2,7 +2,7 @@
 open_project_id: "00061792"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - MAR
 region: 
   - arab_states
@@ -15,7 +15,6 @@ project_objective: To build Morocco's capacities on low emissions
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will help create and accumulate the knowledge on low carbon emissions, to organize and share it via south-south transfer of know-how in the field.

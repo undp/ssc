@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - ETH
 region: 
   - africa
@@ -14,7 +14,6 @@ project_objective: The Government of Ethiopia and UNDP have developed a robust p
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitated knowledge sharing between Ethiopian and Ghanaian policy makers and practitioners on strengthening infrastructure for peace. The level of participation from Ethiopia demonstrated the consistent commitment of its government to peacebuilding as a strategic policy intervention to inclusive and equitable development. 

@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - HND
 region: 
   - lac
@@ -14,9 +14,6 @@ project_objective: To achieve integral sustainable development in the region Tri
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
-  - SLV
-  - GTM
 published: true
 ---
 UNDP facilitates tre-national horizontal partnership with aiming at formulation and implementation of policies, plans, sub-regional and inter-city programs and projects in countries of Trifinio region El Salvador, Guatemala, and Honduras.

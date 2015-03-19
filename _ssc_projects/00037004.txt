@@ -2,7 +2,7 @@
 open_project_id: "00037004"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - BRA
 region: 
   - lac
@@ -14,6 +14,5 @@ project_objective: The project aims to design and implement Brazilian South-Sout
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---

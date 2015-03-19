@@ -2,7 +2,7 @@
 open_project_id: "00058220"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - COL
 region: 
   - lac
@@ -15,7 +15,6 @@ project_objective: To contribute to social peace building, human development, de
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP provided technical assistance

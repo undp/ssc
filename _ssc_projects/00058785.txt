@@ -2,7 +2,7 @@
 open_project_id: "00058785"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - SYR
 region: 
   - arab_states
@@ -15,7 +15,6 @@ project_objective: To improve MDG related service delivery through an integrated
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will utilize South-South Cooperation modalities to retreive comparative experiences and engage relevant expertise. 

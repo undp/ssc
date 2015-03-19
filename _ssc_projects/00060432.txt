@@ -2,7 +2,7 @@
 open_project_id: "00060432"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - BWA
 region: 
   - africa
@@ -13,7 +13,6 @@ scale: national
 project_objective: To produce four broad outputs in four broad areas- access to financial services and other productive resources; institutional capacity for pro-poor policies; mainstreaming poverty into development processes; and social Protection
 territorial_focus: mic
 undp_role_type: 
-partner_location: 
 published: true
 ---
 Role of UNDP to be defined

@@ -2,7 +2,7 @@
 open_project_id: "00050669"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - ECU
 region: 
   - lac
@@ -14,7 +14,6 @@ project_objective: To contribute to capacity development of this cooperation age
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP provides technical assistance. 

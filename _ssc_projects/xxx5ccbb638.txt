@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - PAN
 region: 
   - lac
@@ -15,8 +15,6 @@ project_objective:
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - PER
 published: true
 ---
 UNDP organized and financed the transfer of experiences from Peru to Panama on- (1) Innovation in MSMEs (Micro, Small and Medium Enterprises) in craft sector; (2) rural tourism development; (3) credit instruments focused to inclusive economy     

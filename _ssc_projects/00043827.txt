@@ -2,7 +2,7 @@
 open_project_id: "00043827"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - CUB
 region: 
   - lac
@@ -15,7 +15,6 @@ project_objective:
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP Regional Centre provides avisory support to systematization of experiences within the framework of the initiative of the Sabana Camaguey Ecosystem for its replication in Cuba and other countries in the LAC region.  

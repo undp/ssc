@@ -2,7 +2,7 @@
 open_project_id: "00061146"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - MDA
 region: 
   - europe_cis
@@ -15,9 +15,6 @@ project_objective: The objective of the project is to contribute to a more secur
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - UKR
-  - ROU
 published: true
 ---
 UNDP will promote SSC by involving international consultants, including neighbouring countries specifically Ukraine and Romania.

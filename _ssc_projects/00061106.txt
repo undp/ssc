@@ -2,7 +2,7 @@
 open_project_id: "00061106"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - PHL
 region: 
   - asia_pacific
@@ -15,7 +15,6 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP will help establish thematic partnership networks in several domaines of local development (south-south, north-south-south, north-south)- sharing best practices, think tanks, scientific alliances. One of the planned outputs is formalisation of international partnerships, establishment and consolidation of partnerships among local authotiees (north-south, south-south). 

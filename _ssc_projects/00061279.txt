@@ -2,7 +2,7 @@
 open_project_id: "00061279"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - DOM
 region: 
   - lac
@@ -14,8 +14,6 @@ project_objective: To help improve the impact of Social Protection Policy increa
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - PRY
 published: true
 ---
 UNDP provided exchange facilitation and knowledge brokering between Dominican Republic and Paraguay on development and implementation of a payment system for social subsidies. 

@@ -2,7 +2,7 @@
 open_project_id: "00071217"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - ZAF
 region: 
   - africa
@@ -14,7 +14,6 @@ project_objective: To support Government in realizing its national priorities of
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will facilitate the exchange of experience in enhancing biodiversity contribution to Green Economy, sustainable livelihoods and job creation through promotion of tourism, conservation agriculture climate change adaptation methodologies and exchange of experiences among communities through tours and workshops.

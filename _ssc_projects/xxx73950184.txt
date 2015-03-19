@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - BLZ
   - PAN
   - CUB
@@ -29,7 +29,6 @@ territorial_focus: sids
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
 published: true
 ---
 Through its Pacific Centre, UNDP (1) supports to build linkages between the regions' SIDS in DRR including gender analysis; capacity building; and sharing experiences in addressing DRR and climate change adaptation; (2) supports and coordinates exchange missions in both regions; (3) facilitates training of Pacific weather observers at the Caribbean Institute for Meteorology and Hydrology; and participation in regional fora addressing climate change adaptation and DRR. A  guide was published for integrating gender in Disaster Management in SIDS utilizing expertise from the respective Caribbean and Pacific SIDS.

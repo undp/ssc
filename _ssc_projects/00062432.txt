@@ -2,7 +2,7 @@
 open_project_id: "00062432"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - DOM
 region: 
   - lac
@@ -14,7 +14,6 @@ project_objective: To promote relevant Public Policies for the Achievement of th
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitated the exchange and knowledge brokering to transfer Paraguay's experience to Dominican Republic on expanding technical capacities of monitoring the social spending and social programs (“Invertir en la Gente' programme ). This project advances for the construction of databases, data analysis, communication, advocacy and citizen oversight of social spending in the national budget. 

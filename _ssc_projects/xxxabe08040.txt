@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - DOM
 region: 
   - lac
@@ -14,9 +14,6 @@ project_objective:
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - COL
-  - ECU
 published: true
 ---
 UNDP facilitated knowledge exchange between Colombia, Ecuador and Dominican Republic- (1) Vice Ministers from Dominican Republic visited  Bogotá, Colombia, for exchanging experiences on the establishment of a National Emergency System; (2) Vice ministers from Dominican Republic visited Ecuador to learn best practices of managing the city's emergency response system. 

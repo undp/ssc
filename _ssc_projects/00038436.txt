@@ -2,7 +2,7 @@
 open_project_id: "00038436"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - IRN
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: To enhance the effectiveness and sustainability of Iran's sys
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will facilitate sharing of knowledge and lessons learnt among neighbouring countries.

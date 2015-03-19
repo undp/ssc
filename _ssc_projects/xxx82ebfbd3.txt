@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - BRB
   - DMA
   - GRD
@@ -20,7 +20,6 @@ project_objective:
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitates exchanges and provides knowledge brokering for incorporation of best practices/guidelines for sustainable land management within the macro-economic policies of the 6 countries (Barbados, Dominica, Grenada, St Lucia, St Kitts and Nevis and St Vincent) which resulted in greater consideration being made of agricultural practices and the development of land for other purposes through proposed revisions to national Planning Acts. Sustainable Land Management best practices are being utilized in beneficiary countries by public / private sector.

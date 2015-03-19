@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - CHN
 region: 
   - asia_pacific
@@ -14,8 +14,6 @@ project_objective: The objective of the project is to  supply Moldova's social p
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - MDA
 published: true
 ---
 UNDP facilitates knowledge and technology transfer from China to Moldova. Additionally, UNDP will conduct community consultations, make arrangements for maintenance and sustainability, and undertake programme monitoring and evaluation.

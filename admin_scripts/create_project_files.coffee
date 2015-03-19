@@ -34,14 +34,13 @@ class Process
       "project_title"     : project.project_title,
       "project_objective" : project.project_objective,
       "scale"             : @normalise('scale', project.scale),
-      "host_location"     : @normalise_location(project.location),
+      "country"           : @normalise_location(project.location),
       "region"            : @normalise('region', project.region),
       # SSC intervention
       "undp_role_type"    : @normalise('undp_role_type', project.undp_role_type),
       "thematic_focus"    : @normalise('thematic_focus', project.thematic_focus),
       "ssc_description"   : project.ssc_description,
       "territorial_focus" : @normalise('territorial_focus', project.territorial_focus),
-      "partner_location"  : @normalise_partner_location(project.ssc_description),
       "partner_type"      : @normalise('partner_type', project.partner_type),
       # Links
       "project_link"      : project.project_link
@@ -66,68 +65,6 @@ class Process
       @match_similar_country_name(i)
     )
 
-  normalise_partner_location: (data) ->
-    return unless data
-
-    words = data.split(" ").map( (i) ->
-      i.replace(/\W/g, '')
-    )
-    partners = _.chain(words)
-      .map((i) => @_match_fuzzy_country_term(i.toLowerCase()))
-      .compact().uniq().value()
-    _.difference(partners, @host_location)
-
-  _match_fuzzy_country_term: (term) ->
-    @keywords ||= @_countryKeyWords()
-    if (matched = @keywords[term]) and matched.length == 1
-      console.log 'matched', term, 'with', matched[0], 'for', @pid
-      matched[0]
-
-  _countryKeyWords: ->
-    dict = {}
-    @countries.forEach (c) =>
-      splitted = c.name.split(/(-|\s)/)
-      splitted = _.map(splitted, (word) -> word.toLowerCase())
-      splitted = _.compact(splitted)
-      splitted = _.difference(splitted, @_countryStopWords)
-      _.each(_.compact(splitted), (word) ->
-        word = word.toLowerCase()
-        if dict[word]
-          dict[word].push c.iso3
-        else
-          dict[word] = [c.iso3]
-      )
-    dict
-
-  _countryStopWords: [
-    ' '
-    '(scr'
-    '(United'
-    '-'
-    '1244)'
-    'africa'
-    'african'
-    'american'
-    'and'
-    'cape'
-    'central'
-    'el'
-    'federation'
-    'island'
-    'islands'
-    'of'
-    'puerto'
-    'republic'
-    'san'
-    'sar'
-    'see'
-    'state'
-    'territories'
-    'territory'
-    'the'
-    'western'
-  ]
-
   match_similar_country_name: (term) ->
     term_escaped = term.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&")
     re = new RegExp("^" + term_escaped,"i")
@@ -135,13 +72,6 @@ class Process
       i.name.match re
     )
     console.warn "Can't find match for #{term} [#{@pid}]" if matches.length == 0
-    matches[0].iso3 if matches.length > 0
-
-  match_exact_country_name: (term) ->
-    matches = _.select(@countries, (i) ->
-      re = new RegExp("^#{i.name}$","i")
-      term.match re
-    )
     matches[0].iso3 if matches.length > 0
 
   splitComma: (data) ->

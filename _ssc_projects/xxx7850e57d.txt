@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - MUS
 region: 
   - africa
@@ -14,7 +14,6 @@ project_objective: Objectives- to develop a self-assessment of governance with t
 territorial_focus: sids
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP will play a role in organising peer learning

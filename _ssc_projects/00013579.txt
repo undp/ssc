@@ -2,7 +2,7 @@
 open_project_id: "00013579"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - MEX
 region: 
   - lac
@@ -13,7 +13,6 @@ scale: national
 project_objective: The initiative includes  eight projects with high social and economic impact (among which are health issues, environment, natural disasters, housing, telecommunications, transport and energy) which have significant progress in strengthening policies for social development in the Mesoamerican region and have efficient mechanisms of coordination to achieve the MDGs.
 territorial_focus: mic
 undp_role_type: 
-partner_location: 
 published: true
 ---
 UNDP provides technical assistance. 

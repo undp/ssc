@@ -2,7 +2,7 @@
 open_project_id: "00068355"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - MDV
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: To improve different aspects of governance in the country. Th
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will facilitate knowledge sharing and disseminating knowledge and best practices in other countries

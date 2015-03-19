@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - CUB
 region: 
   - lac
@@ -15,9 +15,6 @@ project_objective:
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - ARG
-  - MEX
 published: true
 ---
 UNDP facilitated the technology transfer for the production of a bio fertilizer between Cuba, Argentina and Mexico

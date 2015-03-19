@@ -2,7 +2,7 @@
 open_project_id: "00072673"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - THA
 region: 
   - asia_pacific
@@ -16,7 +16,6 @@ project_objective: To further the legal empowerment agenda at the regional, nati
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will aim to strengthen policy dialogue, technical cooperation and sharing of experience between Thailand and selected countries in Africa, Latin America and Asia to support SSC initiatives. 

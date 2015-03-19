@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - CHN
 region: 
   - asia_pacific
@@ -15,8 +15,6 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
-  - ETH
 published: true
 ---
 UNDP facilitates partnership and knowledge brokering between China to Ethiopia. UNDP works with MOST to analyse China's approach to TTF so that other developing countries like Ethiopia can learn from China's experience. In 2012, the Government of Ethiopia engaged in discussions with UNDP and MOST on how to adapt the TTF programme to suit its agricultural sector transformation. In 2013, Ethiopia (and other Asian and African countries) took part in a ten-day workshop co organized by MOST and UNDP to learn the in-depth information on China's TTF practice, and draft country-specific ideas for future cooperation with China and UNDP.

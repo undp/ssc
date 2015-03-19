@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - URY
 region: 
   - lac
@@ -14,7 +14,6 @@ project_objective:
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitated the exchange of experiences on Risk Management. An Uruguayan technician from SINAE visited La Paz to present the Uruguayan experience  to Directorate General of Emergency and Assistance.

@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - CUB
 region: 
   - lac
@@ -15,12 +15,6 @@ project_objective:
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - MEX
-  - ECU
-  - BRA
-  - IDN
-  - SLV
 published: true
 ---
 UNDP facilitated knowledge exchange through an International Workshop on Risk in Cities- Sharing Tools for Urban Resilience, aimed at exchanging experiences and tools for building urban resilience in Latin America and the Caribbean under South-South cooperation, building upon the recent experience in Santiago de Cuba during Hurricane Sandy response and recovery. Mexico, Ecuador, Brazil, Indonesia and El Salvador experts shared their experiences about the resiliency in their countries.

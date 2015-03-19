@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - PER
 region: 
   - lac
@@ -15,7 +15,6 @@ project_objective:
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP provided technical support for the creation of a South-South cooperation fund.

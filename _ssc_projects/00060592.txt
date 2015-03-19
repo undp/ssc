@@ -2,7 +2,7 @@
 open_project_id: "00060592"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - MUS
 region: 
   - africa
@@ -16,7 +16,6 @@ territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP will assist in organising knowledge sharing and act as a facilitator between the participating SIDS.

@@ -2,7 +2,7 @@
 open_project_id: "00071185"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - ZAF
 region: 
   - africa
@@ -14,7 +14,6 @@ project_objective: To strengthen service delivery and democratic governance thro
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will act as knowledge broker. 

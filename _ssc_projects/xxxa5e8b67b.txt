@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - URY
 region: 
   - lac
@@ -15,8 +15,6 @@ project_objective: The programme certifies companies with gender-friendly labour
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - COL
 published: true
 ---
 UNDP is a knowledge broker- experts from Uruguay travelled to Colombia to exchange knowledge in order to support the implementation of a similar programme in Colombia called EQUIPARES.

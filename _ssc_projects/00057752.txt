@@ -2,7 +2,7 @@
 open_project_id: "00057752"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - SYC
 region: 
   - africa
@@ -15,7 +15,6 @@ project_objective: To increase the democratic governance and the rule of law in 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will organize and facilitate a study tour to neighbouring countries to gain insights on the functioning of national system of judicial monitoring and evaluation.  

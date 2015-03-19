@@ -2,7 +2,7 @@
 open_project_id: "00051417"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - MNE
 region: 
   - europe_cis
@@ -14,7 +14,6 @@ project_objective: To provide capacity building support to the Ministry of Justi
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 In this programme, UNDP will facilitate study tours to other countries of the region in order for the Ministry of Justice to make an informed decision on its new setup.

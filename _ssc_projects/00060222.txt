@@ -2,7 +2,7 @@
 open_project_id: "00060222"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - UZB
 region: 
   - europe_cis
@@ -14,7 +14,6 @@ project_objective: To build upon and expand the UNDP Uzbekistan assistance to pa
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP will facilitate the dissemination of project's results, and use them as  a precedence to implement integrating a disaster risk reduction strategy into the overall national development agenda. In addition, findings from the project will enable incoming study tours for other selected countries and international  agencies for mutual review of mitigation and disaster management experience and demonstration of Uzbekistan's own sustained efforts. 

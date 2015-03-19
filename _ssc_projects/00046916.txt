@@ -2,7 +2,7 @@
 open_project_id: "00046916"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - MAR
 region: 
   - arab_states
@@ -14,7 +14,6 @@ project_objective: Reinforcement of cooperation programmes of UNDP in Morocco. t
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP provides technical assistance  to capacity building and knowledge exchange, supporting Ministry of Foreign Affairs and Cooperation (Directorate of Multilateral Cooperation) effort to engage more actively in multilateral cooperation. Morocco's participation in internationlal cooperation networks was promoted and reinforced. To this end, participation of Morocco's delegation from the Ministry of Foreign Affairs and Cooperation (Directorate of Multilateral Cooperation) in South-South conferences was supported by UNDP. 

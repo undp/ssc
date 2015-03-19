@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - MAR
   - MRT
   - GAB
@@ -17,7 +17,6 @@ project_objective: The objective of  this convention is to share common mechanis
 territorial_focus: mic,ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP organizes sharing of experiences in SSC exchange, expert exchange, setting up of knowledge networks between the

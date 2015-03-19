@@ -2,7 +2,7 @@
 open_project_id: "00072706"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - LAO
 region: 
   - asia_pacific
@@ -15,7 +15,6 @@ project_objective: To increase capacity & understanding of Government, private s
 territorial_focus: ldc
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
 published: true
 ---
 UNDP will provide capacity building for government officials.

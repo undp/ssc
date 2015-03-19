@@ -2,7 +2,7 @@
 open_project_id: "00059392"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - MNE
 region: 
   - europe_cis
@@ -16,7 +16,6 @@ project_objective: To contribute to the reduction of environment and security ri
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 In this regional programme, UNDP will facilitate the knowledge exchange and lessons learned from the participating countries through SEE networks. 

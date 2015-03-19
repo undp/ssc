@@ -2,7 +2,7 @@
 open_project_id: "00058248"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - MOZ
 region: 
   - africa
@@ -14,8 +14,6 @@ project_objective: To mainstream Climate Change Adaptation (CCA) mechanisms in M
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - ATF
 published: true
 ---
 UNDP will facilitate adaptation of Climate Change (CC) knowledge, lessons and experiences from the region to inform national and regional policies and CC interventions at community level. Activities related to SSC include- dissemination of lessons learnt in regional forums such as Southern Africa Development Community (SADC) and Common Market for Eastern and Southern Africa (COMESA) as a way of influencing regional policy and financing; support capacity of Mozambican negotiators to actively convene such information; Link to international Adaptation Learning Mechanism (ALM) of UNDP to ensure multi-directional flow of learning experiences on CCA. 

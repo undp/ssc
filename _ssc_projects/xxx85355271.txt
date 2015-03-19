@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - URY
 region: 
   - lac
@@ -15,7 +15,6 @@ project_objective:
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP supported knowledge sharing through a study visit of Cuban delegation (with representatives of the Cuban Finance, Energy and Justice ministries on regulatory frameworks on renewable energies and energy policies) to a wind park in Maldonado, Uruguay

@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - ARG
 region: 
   - lac
@@ -15,9 +15,6 @@ project_objective:
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - BRA
-  - GTM
 published: true
 ---
 UNDP facilitates and coordinates experience exchange between the countries, including meetings and exchange visits with national officials of provincial (San Juan) and municipal agencies (San Martin). Experts from Brazil and Guatemala visited Argentina and assimilated the creation and implementation of the Consultorios Amigables para la Diversidad Sexual. 

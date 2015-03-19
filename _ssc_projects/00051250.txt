@@ -2,7 +2,7 @@
 open_project_id: "00051250"
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
-host_location: 
+country: 
   - ALB
   - BIH
   - BGR
@@ -24,7 +24,6 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP will help establish regional cooperation to reach project outcomes on improved arms control and strengthening of regional cooperation on gender mainstreaming in security sector reform in the Western Balkans. Regional network of the Ministries of Defence gender focal points, trainers and HR specialists will be established in order to foster information and best practice sharing. 

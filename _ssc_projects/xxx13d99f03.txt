@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - PER
 region: 
   - lac
@@ -15,8 +15,6 @@ project_objective:
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - CHL
 published: true
 ---
 UNDP provides technical assistance and facilitates knowledge exchange between Chile and Peru on the marine ecosystem management.

@@ -2,7 +2,7 @@
 open_project_id: "00067418"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - IDN
 region: 
   - asia_pacific
@@ -14,8 +14,6 @@ project_objective: To support the government of Indonesia (GOI) in moving forwar
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
-partner_location: 
-  - TUR
 published: true
 ---
 UNDP will facilitate partnership and capacity building. It will assist the Government in developing policy, institutional framework, strategy and  coordination mechanism for engagement with different types of development partners under various cooperation frameworks, including SSC, North-South and triangular cooperation modalities, in particular- a) support corporate strategic partnerships with Russia and Turkey; b) promote east-east cooperation linkages; c) support innovative models and delivery mechanisms in ODA. Additionally, UNDP will support the Government of Indonesia in strengthening the capacity of staff to engage in development cooperation. 

@@ -2,7 +2,7 @@
 open_project_id: "00059850"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - ALB
 region: 
   - europe_cis
@@ -17,12 +17,6 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
-partner_location: 
-  - SRB
-  - MNE
-  - KOS
-  - BGR
-  - HRV
 published: true
 ---
 UNDP facilitated knowledge exchange and capacity building- (1) UNDP gathered experience on community development projects targeting Roma from Serbia, Montenegro, Kosovo, and Slovakia. Evaluations and methodologies from these experiences were used for implementation; (2) a field visit to Bulgaria, Croatia or Serbia (facilitated by UNDP COs) is planned  for representatives of the Technical Secretariat for Roma, representatives of the local government units benefiting from the project and project staff.  The aim of the study visit is to exchange experiences and become familiar with the approaches, strategies and methods used in other countries to tackle similar problems as they are part of the 'Decade of Roma Inclusion' initiative.  This was embedded as output 3.3.2. 

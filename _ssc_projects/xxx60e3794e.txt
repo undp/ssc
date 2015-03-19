@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - DOM
 region: 
   - lac
@@ -15,9 +15,6 @@ project_objective:
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - MEX
-  - CHL
 published: true
 ---
 UNDP facilitated information and knowledge exchange between Mexico, Chile, Dominican Republic and other countries in LAC region on best practices and lessons learned on promoting gender equality at the workplace, promotion of the Gender Equality Seal in the private sector and organizations. As a result, a Gender Equality Seal initiative  was established in the Dominican Republic

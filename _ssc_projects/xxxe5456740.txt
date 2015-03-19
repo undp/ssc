@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - MLI
 region: 
   - africa
@@ -14,6 +14,5 @@ scale: national
 project_objective: To contribute to enhance the development of the cotton industry in C4 countries by providing conditions for country governments to resolve matters related to sustainable cotton farming autonomously. To do so, nine Brazilian cotton varieties developed by EMBRAPA over the last twenty years are expected to be tested and adapted at the Sotuba Station in Mali. The objective is to organize a supply chain that is more profitable and uniform in terms of planning and crop management. To improve the quality of life and food security levels; to transfer Brazilian technology to increase profitability of the cotton supply chain in those 4 countries. Generate income to farmers and jobs.
 territorial_focus: fragile_states
 undp_role_type: 
-partner_location: 
 published: true
 ---

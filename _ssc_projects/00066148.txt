@@ -2,7 +2,7 @@
 open_project_id: "00066148"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - TUN
 region: 
   - arab_states
@@ -14,11 +14,6 @@ project_objective: To promote youth employment in particularly in the area of th
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
-  - DZA
-  - EGY
-  - LBY
-  - MAR
 published: true
 ---
 The project is part of UNDP's regional initiative, covering five Arab countries- Algeria, Egypt, Libya, Morocco and Tunisia. 

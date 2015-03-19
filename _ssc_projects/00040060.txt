@@ -2,7 +2,7 @@
 open_project_id: "00040060"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - NER
 region: 
   - africa
@@ -14,7 +14,6 @@ project_objective: To support Niger in achieving MDG 5 UNDP Niger since 2006 has
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP supports South-South cooperation component allowing the transfer of competencies to national health professionals to make sustainable the mechanism of quality and proximity care service at a decent cost for Niger; promoting the transfer of skills to Nigerian managers of district hospitals; development of partnerships and synergies with other Technical and Financial Partners. This pilot initiative has strengthened the management of national staff and increase the supply of essential care in areas that were not covered in HD and Central Maternity Niamey (such as maternal health, surgical / obstetric interventions gynecology, cardiology and transfer national competences of health professionals across the South / South).

@@ -2,7 +2,7 @@
 open_project_id: "00057222"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - BRA
 region: 
   - lac
@@ -15,7 +15,6 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP provides knowledge brokering, connecting the Government of Brazil with a large network of UNDP's global, regional and national offices, centres and bureaus that include regional operational and knowledge teams, global thematic centres and the UNOSSC. This will allow the Government of Brazil to leverage this global network for both programmatic and operations purposes in order to increase effectiveness and efficiency of its SSC projects.  UNDP  also provides support in mapping and strengthening a SSC stakeholders network. Additionally, UNDP provides its knowledge management capacities, including relevant methodologies and tools to construct a Brazilian SSC knowledge bank. 

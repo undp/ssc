@@ -2,7 +2,7 @@
 open_project_id: "00073096"
 thematic_focus: 
   - sustainable_development_pathways
-host_location: 
+country: 
   - ARG
 region: 
   - lac
@@ -15,7 +15,6 @@ project_objective: One of the project objectives is to strengthen the structure 
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
-partner_location: 
 published: true
 ---
 UNDP provides technical assistance to the Project Coordination Unit to design tools that enable monitoring of management by objectives. UNDP also promotes coordination and integration between the various actors and agencies involved.

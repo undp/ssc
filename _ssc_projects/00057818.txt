@@ -2,7 +2,7 @@
 open_project_id: "00057818"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - DOM
 region: 
   - lac
@@ -14,7 +14,6 @@ project_objective: To strengthen the financial sustainability of the National Sy
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP provided technical assistance and strategic advice to improve communication and coordination, and supported the transfer of knowledge and experience from Cuba's National Protected Area system to Dominican Republic to reinforce the capacity of the Dominican system to efficiently plan and manage its National Protected Areas System.

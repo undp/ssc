@@ -2,7 +2,7 @@
 open_project_id: "00070617"
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - CHN
 region: 
   - asia_pacific
@@ -14,7 +14,6 @@ project_objective: To increase energy access through off-grid community-based el
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitates transfer of knowledge and technology. It will support research on approaches and best practices in renewable energy technologies. Additionally, UNDP will facilitate creation of the Chinese-Ghanaian network through exchange visits.

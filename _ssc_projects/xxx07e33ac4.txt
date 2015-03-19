@@ -2,7 +2,7 @@
 open_project_id: ""
 thematic_focus: 
   - resilience_building
-host_location: 
+country: 
   - IDN
   - MYS
   - PNG
@@ -18,7 +18,6 @@ project_objective: To foster structured learning, information sharing, collabora
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
-partner_location: 
 published: true
 ---
 UNDP facilitates knowledge exchange between the involved countries. 
