@@ -15,7 +15,6 @@ class FilterView extends Backbone.View
 
     @listenTo @state, 'search:foundFilters', @_showFilterSearchResults
     @listenTo @state, 'search:stopped', @_hideFilterSearchResults
-
     @listenTo @collection, 'reset', @render
 
     @render()
@@ -29,6 +28,10 @@ class FilterView extends Backbone.View
       hasSearchResults: options?.hasSearchResults
     )
     @$el.html(compiled)
+    _.defer => @_resize()
+
+  _resize: ->
+    console.log 'sort out heights thing'
 
   _prepareActiveFilters: =>
     _.map @state.get('filterState'), (filter) ->
