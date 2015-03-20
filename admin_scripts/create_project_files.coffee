@@ -61,7 +61,7 @@ class Process
     @matchingTerm.find(type, text)
 
   normalise_location: (location) ->
-    @host_location = _.map(@splitComma(location), (i) =>
+    _.map(@splitComma(location), (i) =>
       @match_similar_country_name(i)
     )
 
