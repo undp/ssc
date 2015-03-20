@@ -31,7 +31,12 @@ class FilterView extends Backbone.View
     _.defer => @_resize()
 
   _resize: ->
-    console.log 'sort out heights thing'
+    $filters = $('.filters')
+    container = $('.filters-container').height()
+    head = $('.filter-head-block').height()
+    margin = $filters.outerHeight() - $filters.height()
+    target = (container - head - margin)
+    $filters.height(target)
 
   _prepareActiveFilters: =>
     _.map @state.get('filterState'), (filter) ->

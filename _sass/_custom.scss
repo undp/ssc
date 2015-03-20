@@ -48,6 +48,11 @@ img.filters-disclose {
   }
 }
 
+.filters {
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
 .filters[data-search-results='true'] {
   .item-text {
     color: #F6BD2B;
