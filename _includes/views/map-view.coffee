@@ -58,7 +58,7 @@ class MapView extends Backbone.View
     @_resetZoom()
 
     country = @countries.iso3FromMapShort(code)
-    @state.removeFilter(facetName: 'host_location', facetValue: country.toLowerCase()) if country?
+    @state.removeFilter(facetName: 'country', facetValue: country.toLowerCase()) if country?
 
   _resetZoom: ->
     @_mapObject.setFocus 
@@ -68,7 +68,7 @@ class MapView extends Backbone.View
       animate: true
 
   _prepareDataForMap: ->
-    locationCounts = @collection.prepareFilterGroupForType('host_location')
+    locationCounts = @collection.prepareFilterGroupForType('country')
 
     data = {}
     @countries.map( (country) ->
@@ -114,7 +114,7 @@ class MapView extends Backbone.View
       @_clickRegion(code)
     onRegionTipShow: (e, el, code) =>
       countryIso3 = @countries.iso3FromMapShort(code)
-      activeCount = app.projects.projectCountForFacetValue('host_location', countryIso3)
+      activeCount = app.projects.projectCountForFacetValue('country', countryIso3)
       el.html("#{el.html()} (#{activeCount} projects)") if activeCount isnt 0
 
 

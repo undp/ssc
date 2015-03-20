@@ -6,7 +6,6 @@ class PresentProject
     @_process()
 
   _process: ->
-    @presented.partner_location = @_processUsingFilter('partner_location')
     @presented.country = @_processUsingFilter('country')
     @presented.thematic_focus = @_processUsingFilter('thematic_focus')
     @presented.partner_type = @_processUsingFilter('partner_type')

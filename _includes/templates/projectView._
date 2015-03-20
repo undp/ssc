@@ -14,14 +14,6 @@
         <% _.each(project.country, function(item) { %>
           <%= _.template.partial('filterItem', {item: item, type: 'country'}) %>
         <% }) %>
-
-        <% if (project.partner_location[0] != "") { %>
-          (collaborated with:
-          <% _.each(project.partner_location, function(item) { %>
-            <%= _.template.partial('filterItem', {item: item, type: 'partner_location'}) %>
-          <% }) %>
-          )
-        <% } %>
       </div>
     </div>
     <div class="detail-line">

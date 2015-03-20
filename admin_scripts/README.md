@@ -62,7 +62,6 @@ This document outlines the steps taken to go from an Excel file of all the proje
       "thematic_focus"    : project.thematic_focus,
       "ssc_description"   : project.ssc_description,
       "territorial_focus" : project.territorial_focus,
-      "partner_location"  : project.ssc_description,
       "partner_type"      : project.partner_type,
 
       # Links

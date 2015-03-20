@@ -1,7 +1,7 @@
 class Project extends Backbone.Model
   idAttribute: 'project_id'
 
-  joinedFields: ['host_location', 'undp_role_type', 'thematic_focus', 'territorial_focus', 'partner_location', 'partner_type', 'region']
+  joinedFields: ['country', 'undp_role_type', 'thematic_focus', 'territorial_focus', 'partner_type', 'region']
 
   initialize: ->
     @_addArrayFields()
@@ -13,9 +13,3 @@ class Project extends Backbone.Model
         @set(field, _.map(values, (i) -> 
           s.underscored(i.trim().toLowerCase())
         ))
-
-  # allLocations: ->
-  #   _.chain([@get('host_location'), @get('partner_location')])
-  #     .flatten()
-  #     .compact()
-  #     .value()

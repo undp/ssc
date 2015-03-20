@@ -13,7 +13,6 @@
         "thematic_focus": "{{ project.thematic_focus | join: ',' }}",
         "ssc_description": "{{ project.content | strip_newlines }}",
         "territorial_focus": "{{ project.territorial_focus | join: ',' }}",
-        "partner_location": "{{ project.partner_location | join: ',' }}",
         "partner_type": "{{ project.partner_type | join: ',' }}",
         "project_link": "{{ project.project_link }}",
         "edit_link": "{{ site.editor.url}}/#{{ site.editor.github_repo }}/edit/gh-pages/{{ project.relative_path }}"

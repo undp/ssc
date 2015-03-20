@@ -37,7 +37,6 @@ class CreateProseConfig
       territorial_focus : @formatIndices(_.findWhere(@indices, type: 'territorial_focus').values)
       scale             : @formatIndices(_.findWhere(@indices, type: 'scale').values)
       region            : @formatIndices(_.findWhere(@indices, type: 'region').values)
-      partner_location  : @formatCountries(@countryIndices)
       country           : @formatCountries(@countryIndices)
       partner_type      : @formatIndices(_.findWhere(@indices, type: 'partner_type').values)
 
@@ -119,14 +118,6 @@ class CreateProseConfig
             label: 'Partner types'
             options:
               data.partner_type
-        ,
-          name: 'partner_location'
-          field:
-            element: 'multiselect'
-            label: 'Partner location (country, etc)'
-            placeholder: 'Select location(s)'
-            options:
-              data.partner_location
         ]
 
 new CreateProseConfig
