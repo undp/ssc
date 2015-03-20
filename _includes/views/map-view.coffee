@@ -90,7 +90,7 @@ class MapView extends Backbone.View
     series:
       regions: [
         values: values
-        scale: ['#EEEEEE', '#1057A7']
+        scale: ['#B8B8B8', '#1057A7']
         normalizeFunction: 'polynomial'
         legend:
           horizontal: true,
