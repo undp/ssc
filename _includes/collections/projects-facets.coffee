@@ -14,7 +14,7 @@ ProjectsFacets =
     'thematic_focus'
     'undp_role_type'
     'partner_type'
-    'host_location'
+    'country'
   ]
 
   addFacet: (facetName, facetValue) ->

@@ -41,5 +41,5 @@ class Filters extends Backbone.Collection
       @add
         name: country.name
         short: country.iso3.toLowerCase()
-        type: 'host_location'
+        type: 'country'
         filterTitle: 'Country'

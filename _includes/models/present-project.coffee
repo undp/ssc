@@ -6,8 +6,8 @@ class PresentProject
     @_process()
 
   _process: ->
-    @presented.host_location = @_processUsingFilter('host_location')
     @presented.partner_location = @_processUsingFilter('partner_location')
+    @presented.country = @_processUsingFilter('country')
     @presented.thematic_focus = @_processUsingFilter('thematic_focus')
     @presented.partner_type = @_processUsingFilter('partner_type')
     @presented.territorial_focus = @_processWithoutFilter('territorial_focus')

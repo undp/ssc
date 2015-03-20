@@ -54,7 +54,7 @@ This document outlines the steps taken to go from an Excel file of all the proje
       "project_title"     : project.project_title,
       "project_objective" : project.project_objective,
       "scale"             : project.scale,
-      "host_location"     : project.location,
+      "country"           : project.location,
       "region"            : project.region,
 
       # SSC intervention

@@ -7,7 +7,7 @@
         "project_title": "{{ project.project_title }}",
         "project_objective": "{{ project.project_objective }}",
         "scale": "{{ project.scale }}",
-        "host_location": "{{ project.host_location | join: ',' }}",
+        "country": "{{ project.country | join: ',' }}",
         "region": "{{ project.region  | join: ',' }}",
         "undp_role_type": "{{ project.undp_role_type | join: ',' }}",
         "thematic_focus": "{{ project.thematic_focus | join: ',' }}",

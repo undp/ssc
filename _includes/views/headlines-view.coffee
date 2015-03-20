@@ -23,7 +23,7 @@ class HeadlinesView extends Backbone.View
     primaryFilter = filterState
 
     activeCountriesCount: 
-      @collection.prepareFilterGroupForType('host_location').length
+      @collection.prepareFilterGroupForType('country').length
     primaryFilterTitle:
       if filterState?[0]?
         app.filters.nameFromShort(filterState[0].value)

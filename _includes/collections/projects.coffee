@@ -14,7 +14,7 @@ class Projects extends Backbone.Collection
       re.test(i.get('project_title'))
 
   getLocations: ->
-    _.chain(@pluck('host_location'))
+    _.chain(@pluck('country'))
       .flatten()
       .uniq()
       .value()

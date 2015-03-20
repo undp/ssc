@@ -11,8 +11,8 @@
     <div class="detail-line">
       <div class="detail-heading">Country</div>
       <div class="detail-content">
-        <% _.each(project.host_location, function(item) { %>
-          <%= _.template.partial('filterItem', {item: item, type: 'host_location'}) %>
+        <% _.each(project.country, function(item) { %>
+          <%= _.template.partial('filterItem', {item: item, type: 'country'}) %>
         <% }) %>
 
         <% if (project.partner_location[0] != "") { %>

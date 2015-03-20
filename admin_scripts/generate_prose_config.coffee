@@ -37,8 +37,8 @@ class CreateProseConfig
       territorial_focus : @formatIndices(_.findWhere(@indices, type: 'territorial_focus').values)
       scale             : @formatIndices(_.findWhere(@indices, type: 'scale').values)
       region            : @formatIndices(_.findWhere(@indices, type: 'region').values)
-      host_location     : @formatCountries(@countryIndices)
       partner_location  : @formatCountries(@countryIndices)
+      country           : @formatCountries(@countryIndices)
       partner_type      : @formatIndices(_.findWhere(@indices, type: 'partner_type').values)
 
     prose:
@@ -105,13 +105,13 @@ class CreateProseConfig
             options: 
               data.region
         ,
-          name: 'host_location'
+          name: 'country      '
           field:
             element: 'multiselect'
             label: 'Project location (country, etc)'
             placeholder: 'Select location(s)'
             options:
-              data.host_location
+              data.country      
         ,
           name: 'partner_type'
           field:

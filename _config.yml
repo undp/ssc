@@ -104,7 +104,7 @@ prose:
               value: arab_states
             - name: "Europe & CIS"
               value: europe_cis
-      - name: host_location
+      - name: country
         field:
           element: multiselect
           label: "Project location (country, etc)"
