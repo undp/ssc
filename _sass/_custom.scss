@@ -37,11 +37,20 @@ body {
 }
 
 // FilterView
+.filters-container {
+  height: calc(449px - 50px);
+}
+
 img.filters-disclose {
   transform: rotate(270deg);
   &.displayed {
     transform: rotate(0deg);
   }
+}
+
+.filters {
+  overflow-x: auto;
+  overflow-y: auto;
 }
 
 .filters[data-search-results='true'] {
