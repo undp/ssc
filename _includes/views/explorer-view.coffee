@@ -37,9 +37,9 @@ class ExplorerView extends Backbone.View
     @_showExplorer()
 
   _hideExplorer: =>  # and show ProjectShowView
-    @$el.find('#content').hide()
-    @$el.find('#projectShow').show()
+    @$el.find('#content').addClass('hidden')
+    @$el.find('#projectShow').removeClass('hidden')
 
   _showExplorer: => # and hide ProjectShowView
-    @$el.find('#projectShow').hide()
-    @$el.find('#content').show()
+    @$el.find('#projectShow').addClass('hidden')
+    @$el.find('#content').removeClass('hidden')

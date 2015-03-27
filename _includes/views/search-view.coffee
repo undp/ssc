@@ -36,13 +36,13 @@ class SearchView extends Backbone.View
     input.val('')
 
   _activateSearch: ->
-    @$el.find('.view-mode').hide()
-    @$el.find('.input-mode').show()
+    @$el.find('.view-mode').addClass('hidden')
+    @$el.find('.input-mode').removeClass('hidden')
     @$el.find('.search-field-input').focus()
 
   _deactivateSearch: ->
-    @$el.find('.input-mode').hide()
-    @$el.find('.view-mode').show()
+    @$el.find('.input-mode').addClass('hidden')
+    @$el.find('.view-mode').removeClass('hidden')
 
   _handleSearchInput: (ev) =>
     searchTerm = ev?.currentTarget.value

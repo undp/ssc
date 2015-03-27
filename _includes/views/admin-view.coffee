@@ -25,7 +25,7 @@ class AdminView extends Backbone.View
           emptyTable: 'Loading data into table...'
         drawCallback: -> 
           $('.data-table').show()
-          $('.loading-holder').hide()
+          $('.loading-holder').addClass('hidden')
       )
 
   _selectTabLink: (ev) =>
