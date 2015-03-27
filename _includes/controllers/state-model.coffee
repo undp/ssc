@@ -1,7 +1,7 @@
 API_KEY            = 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
 APP_ID             = 'vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO'
 API_URL            = 'https://api.parse.com/1/classes/stateData'
-INITIAL_VIEW_STATE = 'map' # TODO: @prod Ensure this is 'map'
+INITIAL_VIEW_STATE = 'list' # TODO: @prod Ensure this is 'map'
 
 # 
 # SERIALIZE and STORE state
@@ -19,7 +19,7 @@ class StateModel extends Backbone.Model
     @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
   _isValid: (state) -> # Receive object
-    if state.filterState?.length > 0 # TODO: Add a tiny bit more logic here.
+    if state.filterState?.length > 0 || state.viewState? # TODO: Add a tiny bit more logic here.
       true
     else
       false

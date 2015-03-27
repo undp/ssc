@@ -26,7 +26,7 @@ ProjectsFacets =
   clearFilters: ->
     @facetr.clearValues()
 
-  prepareFilterGroups: -> # TODO: This is for display, so could be in a Presenter
+  prepareFilterGroups: -> # TODO: @refac This is for display, so could be in a Presenter
     @_sortFacetsByActiveCount()
 
     _.map(@_facets(), (facet) =>

@@ -28,7 +28,7 @@ class MapView extends Backbone.View
     @$el.vectorMap(@_mapSettings())
     @_mapObject = @$el.vectorMap('get', 'mapObject')
     @maxScale = @_mapObject.scale # TODO: Handle zoom and resizing better
-    window.m = @ # TODO: Remove debugging global
+    window.m = @ # TODO: @prod Remove debugging global
 
   _updateValues: ->
     values = @_prepareDataForMap()

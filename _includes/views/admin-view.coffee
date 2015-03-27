@@ -7,7 +7,6 @@ class AdminView extends Backbone.View
   initialize:  () ->
     _.template.partial.declare('adminTable', $('#partial-adminTable').html())
     @openProjects = new OpenProjects
-    app.open = @openProjects # TODO: @prod remove global
     @openProjects.fetch
       success: =>
         @render()
