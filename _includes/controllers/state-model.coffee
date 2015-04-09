@@ -51,13 +51,6 @@ class StateModel extends Backbone.Model
 
     app.router.navigate(url, trigger: false)
 
-  _isValidState: (state) -> # Receive object
-    if state.filterState?.length > 0 || state.viewState? # TODO: Add a tiny bit more logic here.
-      true
-    else
-      console.log 'invalid filter state'
-      false
-
   _storeOnChangeEvent: (eventType, a, b) ->
     if @_restoring
       @_restoring = false
@@ -76,6 +69,13 @@ class StateModel extends Backbone.Model
       @_trackRestoreAction(@.toJSON())
     else
       @_resetState()
+
+  _isValidState: (state) -> # Receive StateModel object
+    if state.filterState?.length > 0 || state.viewState?
+      true
+    else
+      console.log 'invalid filter state'
+      false
 
   _restoreFromFallback: (fallbackFilter) ->
     @_setFiltersFromArray([fallbackFilter])
