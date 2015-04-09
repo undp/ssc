@@ -49,9 +49,8 @@ class MapView extends Backbone.View
 
     country = @countries.iso3FromMapShort(code)
     @state.addFilter(facetName: 'country', facetValue: country.toLowerCase()) if country?
-
     # @_mapObject.resize()
-    
+
   _deselectRegion: (code) =>
     @selectedRegionCode = ''
     @_mapObject.clearSelectedRegions()
@@ -61,11 +60,12 @@ class MapView extends Backbone.View
     @state.removeFilter(facetName: 'country', facetValue: country.toLowerCase()) if country?
 
   _resetZoom: ->
-    @_mapObject.setFocus 
+    @_mapObject.setFocus(
       scale: @maxScale
       x: 0
       y: 0
       animate: true
+    )
 
   _prepareDataForMap: ->
     locationCounts = @collection.prepareFilterGroupForType('country')
@@ -97,19 +97,10 @@ class MapView extends Backbone.View
           title: 'Projects per country',
           labelRender: (value) -> value
       ]
-    # labels:
-    #   regions:
-    #     render: (code) ->
-    #       code
     regionsSelectableOne: true
     regionStyle:
       selected:
         fill: '#f7be00'
-    # regionLabelStyle:
-    #   initial:
-    #     fill: '#B90E32'
-    #   hover:
-    #     fill: 'black'
     onRegionClick: (ev, code) =>
       @_clickRegion(code)
     onRegionTipShow: (e, el, code) =>
