@@ -37,7 +37,7 @@ class StateModel extends Backbone.Model
     if (viewingId = @get('projectId'))
       url = "#/project/#{viewingId}"
     else
-      primaryFacet = @_primaryFacet()
+      primaryFacet = @get('filterState')[0]
 
       facetName = primaryFacet?.name
       facetValue = primaryFacet?.value
@@ -51,7 +51,7 @@ class StateModel extends Backbone.Model
 
     app.router.navigate(url, trigger: false)
 
-  _isValid: (state) -> # Receive object
+  _isValidState: (state) -> # Receive object
     if state.filterState?.length > 0 || state.viewState? # TODO: Add a tiny bit more logic here.
       true
     else
@@ -66,14 +66,11 @@ class StateModel extends Backbone.Model
       @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
       @_trackStoreAction(@.toJSON())
 
-  _primaryFacet: ->
-    @get('filterState')[0]
-
   # 
   # Strategies for restoring State 
   # 
   _restoreFromFound: (foundState) =>
-    if @_isValid(foundState)
+    if @_isValidState(foundState)
       @_restoring = true # Avoids change event re-storing state and regenerating stateRef
       @_setState(foundState)
       @_trackRestoreAction(@.toJSON())
@@ -81,7 +78,7 @@ class StateModel extends Backbone.Model
       @_resetState()
 
   _restoreFromFallback: (fallbackFilter) ->
-    @_setFilters([fallbackFilter])
+    @_setFiltersFromArray([fallbackFilter])
 
   _validFallbackFilter: (action, value) ->
     return false unless action? and value?
@@ -104,7 +101,7 @@ class StateModel extends Backbone.Model
     extendState = _.omit(stateObject, ['filterState'])
     state = _.extend(@defaults, extendState)
     @clear(silent:true).set(state, silent: true)
-    @_setFilters(stateObject.filterState) if stateObject?.filterState.length > 0
+    @_setFiltersFromArray(stateObject.filterState) if stateObject?.filterState.length > 0
 
   _resetState: (stateObject) =>
     @clear(silent:true).set(@defaults) # TODO: Figure out what calls this reset, and whether it should be silent
@@ -114,7 +111,7 @@ class StateModel extends Backbone.Model
   # 
   # MANAGE FILTERS
   # 
-  _setFilters: (filterArray) ->
+  _setFiltersFromArray: (filterArray) ->
     _.each filterArray, (filter) =>
       @_restoring = true
       @addFilter(facetName: filter.name, facetValue: filter.value, silent: true)
