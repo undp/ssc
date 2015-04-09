@@ -42,7 +42,7 @@ class ContentView extends Backbone.View
   # 
   # Display modes
   # 
-    
+
   _listTabForSearchResults: =>
     @_setActiveTab('list') # This doesn't trigger a 'change state' event
 
