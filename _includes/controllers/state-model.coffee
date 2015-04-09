@@ -34,8 +34,8 @@ class StateModel extends Backbone.Model
       @_resetState()
 
   updateUrlForState: ->
-    if (viewingId = @get('projectId'))
-      url = "#/project/#{viewingId}"
+    if (projectId = @get('projectId'))
+      url = "#/project/#{projectId}"
     else
       primaryFacet = @get('filterState')[0]
 
