@@ -22,6 +22,7 @@ class StateModel extends Backbone.Model
     if state.filterState?.length > 0 || state.viewState? # TODO: Add a tiny bit more logic here.
       true
     else
+      console.log 'invalid filter state'
       false
 
   _storeOnChangeEvent: (eventType, a, b) ->
@@ -106,7 +107,8 @@ class StateModel extends Backbone.Model
     @_setFilters(stateObject.filterState) if stateObject?.filterState.length > 0
 
   _resetState: (stateObject) =>
-    @clear(silent:true).set(@defaults, silent: true)
+    @clear(silent:true).set(@defaults) # TODO: Figure out what calls this reset, and whether it should be silent
+    # @clear(silent:true).set(@defaults, silent: true)
     @updateUrl()
 
   # 
