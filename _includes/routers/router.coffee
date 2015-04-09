@@ -25,7 +25,6 @@ Router = Backbone.Router.extend
     @navigate '', trigger: false
     @_renderExplorerView()
 
-
   # 
   # PREPARE VIEWS
   # 
