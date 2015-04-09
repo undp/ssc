@@ -20,18 +20,17 @@ class StateModel extends Backbone.Model
 
   attemptRestoreStateFromUrl: (options) ->
     throw 'No options given' unless options?
+
     fallbackFilter = @_validFallbackFilter(options.action, options.value)
     stateRef = options.stateRef
 
-    if stateRef?
-      @_store.restore(stateRef) # Returns a promise
-      .then (stateData) => 
-        @_restoreFromFound(_.extend(stateData, stateRef: stateRef))
+    return @_restoreFromFallback(fallbackFilter) unless stateRef?
+    
+    @_store.restore(stateRef)
+      .done (stateData) => 
+        state = _.extend(stateData, stateRef: stateRef)
+        @_restoreFromFound(state)
       .fail => @_restoreFromFallback(fallbackFilter)
-    else if fallbackFilter
-      @_restoreFromFallback(fallbackFilter)
-    else
-      @_resetState()
 
   updateUrlForState: ->
     if (projectId = @get('projectId'))
@@ -81,7 +80,10 @@ class StateModel extends Backbone.Model
       false
 
   _restoreFromFallback: (fallbackFilter) ->
-    @_setFiltersFromArray([fallbackFilter])
+    if fallbackFilter
+      @_setFiltersFromArray([fallbackFilter])
+    else
+      @_resetState()
 
   _validFallbackFilter: (action, value) ->
     return false unless action? and value?
