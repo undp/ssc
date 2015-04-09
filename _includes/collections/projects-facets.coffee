@@ -67,8 +67,6 @@ ProjectsFacets =
     facet = @_facetsObject()[facetName]
     _.findWhere(facet, {value: facetValue.toLowerCase()})?.activeCount || 0
 
-  _findMatches: (searchTerm) ->
-    app.filters.search(searchTerm)
 
   _addStandardFacets: ->
     _.each @facetTypes, (type) =>
