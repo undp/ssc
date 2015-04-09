@@ -59,7 +59,7 @@ class ContentView extends Backbone.View
     @_saveStateAndSetActiveTab(tab)
 
   _saveStateAndSetActiveTab: (tab) =>
-    @state.setContentView tab
+    @state.setViewState tab
     @_setActiveTab(tab)
 
   _setActiveTab: (tab) ->

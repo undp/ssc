@@ -11,22 +11,15 @@ class MapView extends Backbone.View
   render: ->
     @_createMap() unless @_mapObject?
     @_updateMapValues()
-    # @_zoomToActiveRegions()
+    @_zoomToActiveRegions()
 
-  setActive: ->
+  setActive: -> # Triggered by parentView when view is selected
     @_createMap() unless @_mapObject?
     @_mapObject.updateSize()
 
-  _createMap: =>
-    @$el.vectorMap(@_mapSettings())
-    @_mapObject = @$el.vectorMap('get', 'mapObject')
-    @maxScale = @_mapObject.scale # TODO: Handle zoom and resizing better
-    window.m = @ # TODO: @prod Remove debugging global
-
-  _updateMapValues: ->
-    values = @_prepareDataForMap()
-    @_mapObject.series.regions[0].setValues(values)
-
+  # 
+  # MAP INTERACTIONS
+  # 
   _clickRegion: (code) =>
     if @selectedRegionCode == code # TODO: Too unreliable as a check - need to refer to viewModel
       @_deselectRegion(code)
@@ -47,19 +40,14 @@ class MapView extends Backbone.View
   _deselectRegion: (code) =>
     @selectedRegionCode = ''
     @_mapObject.clearSelectedRegions()
-    @_resetZoom()
+    @_zoomToMapBounds()
 
     country = @countries.iso3FromMapShort(code)
     @state.removeFilter(facetName: 'country', facetValue: country.toLowerCase()) if country?
 
-  _resetZoom: ->
-    @_mapObject.setFocus(
-      scale: @maxScale
-      x: 0
-      y: 0
-      animate: true
-    )
-
+  # 
+  # MAP DATA
+  # 
   _prepareDataForMap: ->
     locationCounts = @collection.prepareFilterGroupForType('country')
 
@@ -74,6 +62,39 @@ class MapView extends Backbone.View
       data[map_short] = activeCount
     )
     data
+
+  _updateMapValues: ->
+    values = @_prepareDataForMap()
+    @_mapObject.series.regions[0].setValues(values)
+
+
+  # 
+  # ZOOM
+  # 
+  _zoomToMapBounds: ->
+    @_mapObject.setFocus(
+      scale: @maxScale
+      x: 0
+      y: 0
+      animate: true
+    )
+
+  _zoomToActiveRegions: ->
+    activeRegions = _.map(@collection.getLocations(), (location) =>
+      @countries.mapShortFromIso3(location)
+    )
+
+    @_mapObject.setFocus(regions: activeRegions, animate: true)
+
+
+  # 
+  # MAP SETUP
+  # 
+  _createMap: =>
+    @$el.vectorMap(@_mapSettings())
+    @_mapObject = @$el.vectorMap('get', 'mapObject')
+    @maxScale = @_mapObject.scale # TODO: Handle zoom and resizing better
+    window.m = @ # TODO: @prod Remove debugging global
 
   _mapSettings: ->
     values = @_prepareDataForMap()
@@ -94,18 +115,10 @@ class MapView extends Backbone.View
     regionStyle:
       selected:
         fill: '#f7be00'
-    onRegionClick: (ev, code) =>
+    onRegionClick: (ev, code) => # Event
       @_clickRegion(code)
     onRegionTipShow: (e, el, code) =>
       countryIso3 = @countries.iso3FromMapShort(code)
       activeCount = app.projects.projectCountForFacetValue('country', countryIso3)
       el.html("#{el.html()} (#{activeCount} projects)") if activeCount isnt 0
-
-  _zoomToActiveRegions: ->
-    activeRegions = _.map(@collection.getLocations(), (location) =>
-      @countries.mapShortFromIso3(location)
-    )
-
-    @_mapObject.setFocus(regions: activeRegions, animate: true)
-
 
