@@ -20,10 +20,8 @@ class StateModel extends Backbone.Model
 
   attemptRestoreStateFromUrl: (options) ->
     throw 'No options given' unless options?
-
     fallbackFilter = @_validFallbackFilter(options.action, options.value)
     stateRef = options.stateRef
-
     return @_restoreFromFallback(fallbackFilter) unless stateRef?
     
     @_store.restore(stateRef)
