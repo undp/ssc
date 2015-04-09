@@ -1,3 +1,7 @@
+# 
+# Attached to StateModel to facilitate persisting of state to local 
+# and remote stores
+# 
 class StateStore
   constructor: (options) ->
     throw 'Missing StateModel' unless options?.stateModel

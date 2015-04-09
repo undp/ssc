@@ -18,21 +18,6 @@ class StateModel extends Backbone.Model
     @listenTo @, 'all', @_storeOnChangeEvent
     @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
-  _isValid: (state) -> # Receive object
-    if state.filterState?.length > 0 || state.viewState? # TODO: Add a tiny bit more logic here.
-      true
-    else
-      console.log 'invalid filter state'
-      false
-
-  _storeOnChangeEvent: (eventType, a, b) ->
-    if @_restoring
-      @_restoring = false
-      @updateUrl()
-    else
-      @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
-      @_trackStoreAction(@.toJSON())
-
   restoreStateFromUrl: (options) ->
     throw 'No options given' unless options?
     fallbackFilter = @_validFallbackFilter(options.fallbackAction, options.fallbackValue)
@@ -65,6 +50,21 @@ class StateModel extends Backbone.Model
       url += "&stateRef=#{stateRef}" if stateRef?
 
     app.router.navigate(url, trigger: false)
+
+  _isValid: (state) -> # Receive object
+    if state.filterState?.length > 0 || state.viewState? # TODO: Add a tiny bit more logic here.
+      true
+    else
+      console.log 'invalid filter state'
+      false
+
+  _storeOnChangeEvent: (eventType, a, b) ->
+    if @_restoring
+      @_restoring = false
+      @updateUrl()
+    else
+      @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
+      @_trackStoreAction(@.toJSON())
 
   _primaryFacet: ->
     @get('filterState')[0]
