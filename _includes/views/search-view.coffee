@@ -19,7 +19,7 @@ class SearchView extends Backbone.View
   render: ->
     compiled = @template()()
     @$el.html(compiled)
-    @state.set('_searchTerm', null) if @state.get('searchTerm')
+    @state.set('searchTerm', null) if @state.get('searchTerm')
 
   _prepareForSearch: (ev) =>
     ev.preventDefault()
