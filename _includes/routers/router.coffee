@@ -13,8 +13,8 @@ Router = Backbone.Router.extend
   # 
   _explorerRoute: (action, value) ->
     app.state.attemptRestoreStateFromUrl(
-      fallbackAction: action
-      fallbackValue: value
+      action: action
+      value: value
       stateRef: app.utils.getUrlParams().stateRef
     )
 
