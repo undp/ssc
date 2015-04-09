@@ -15,7 +15,11 @@ Router = Backbone.Router.extend
   
   # ROUTES
   _explorer: (action, value) ->
-    app.state.restoreStateFromUrl(fallbackAction: action, fallbackValue: value, stateRef: @_params().stateRef)
+    app.state.restoreStateFromUrl(
+      fallbackAction: action
+      fallbackValue: value
+      stateRef: @_params().stateRef
+    )
     @_explorerView()
 
   _explorerView: ->
