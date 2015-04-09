@@ -98,7 +98,7 @@ class StateModel extends Backbone.Model
   setViewState: (view) =>
     @set 'viewState', view
 
-  setProjectShowId: (projectId) =>
+  setProjectId: (projectId) =>
     @set 'projectId', projectId
 
   _setState: (stateObject) ->
