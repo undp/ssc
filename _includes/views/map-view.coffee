@@ -10,19 +10,12 @@ class MapView extends Backbone.View
 
   render: ->
     @_createMap() unless @_mapObject?
-    @_updateValues()
+    @_updateMapValues()
     # @_zoomToActiveRegions()
 
   setActive: ->
     @_createMap() unless @_mapObject?
     @_mapObject.updateSize()
-
-  _zoomToActiveRegions: ->
-    activeRegions = _.map(@collection.getLocations(), (location) =>
-      @countries.mapShortFromIso3(location)
-    )
-
-    @_mapObject.setFocus(regions: activeRegions, animate: true)
 
   _createMap: =>
     @$el.vectorMap(@_mapSettings())
@@ -30,7 +23,7 @@ class MapView extends Backbone.View
     @maxScale = @_mapObject.scale # TODO: Handle zoom and resizing better
     window.m = @ # TODO: @prod Remove debugging global
 
-  _updateValues: ->
+  _updateMapValues: ->
     values = @_prepareDataForMap()
     @_mapObject.series.regions[0].setValues(values)
 
@@ -107,5 +100,12 @@ class MapView extends Backbone.View
       countryIso3 = @countries.iso3FromMapShort(code)
       activeCount = app.projects.projectCountForFacetValue('country', countryIso3)
       el.html("#{el.html()} (#{activeCount} projects)") if activeCount isnt 0
+
+  _zoomToActiveRegions: ->
+    activeRegions = _.map(@collection.getLocations(), (location) =>
+      @countries.mapShortFromIso3(location)
+    )
+
+    @_mapObject.setFocus(regions: activeRegions, animate: true)
 
 
