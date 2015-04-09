@@ -5,7 +5,6 @@
       </div>
       <div class="item-detail">
         <div class="project-title">
-        [<%= project.project_id %>]
         <%= project.project_title %>
         </div>
       </div>
