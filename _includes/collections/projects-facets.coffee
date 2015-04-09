@@ -1,13 +1,6 @@
 # Mixin for Projects Collection
 ProjectsFacets =
 
-  initializeFacets: (options) ->
-    @listenTo @, 'reset', @_initializeFacetr
-
-  _initializeFacetr: ->
-    @facetr ||= Facetr(@, 'projects')
-    @_addStandardFacets() unless (@_facets().length == @facetTypes.length)
-
   facetTypes: [
     'region'
     'territorial_focus'
@@ -17,6 +10,26 @@ ProjectsFacets =
     'country'
   ]
 
+  initializeFacets: (options) ->
+    @listenTo @, 'reset', @_initializeFacetr
+
+  # 
+  # Backbone.Facetr setup
+  # 
+
+  _initializeFacetr: ->
+    @facetr ||= Facetr(@, 'projects')
+    @_addStandardFacets() unless (@_facets().length == @facetTypes.length)
+
+  _addStandardFacets: ->
+    _.each @facetTypes, (type) =>
+      @facetr.facet(type).desc()
+
+
+  # 
+  # FACET ACTIONS
+  # 
+
   addFacet: (facetName, facetValue) ->
     @facetr.facet(facetName).value(facetValue, 'and')
 
@@ -25,6 +38,11 @@ ProjectsFacets =
 
   clearFilters: ->
     @facetr.clearValues()
+
+
+  # 
+  # PRESENT FILTER GROUPS
+  # 
 
   prepareFilterGroups: -> # TODO: @refac This is for display, so could be in a Presenter
     @_sortFacetsByActiveCount()
@@ -36,7 +54,7 @@ ProjectsFacets =
 
   prepareFilterGroupForType: (facetName) ->
     throw 'Invalid filterGroup facetName given' unless _.include(@facetTypes, facetName)
-    filterGroup = @_removeEmptyValuesFrom(@_facetsObject()[facetName])
+    filterGroup = @_removeEmptyFacetValues(@_facetsObject()[facetName])
     # Convert values from short to long names
     _.map filterGroup, (filterItem) ->
       filterItem.long = app.filters.nameFromShort(filterItem.value)
@@ -55,6 +73,9 @@ ProjectsFacets =
   _addStandardFacets: ->
     _.each @facetTypes, (type) =>
       @facetr.facet(type).desc()
+  # 
+  # FACET UTILITIES
+  # 
 
   _facets: -> @facetr.toJSON()
 
@@ -69,7 +90,8 @@ ProjectsFacets =
       facet.sortByActiveCount()
     )
 
-  _removeEmptyValuesFrom: (values) ->
+  _removeEmptyFacetValues: (values) ->
     _.filter(values, (i) =>
       i.activeCount > 0 && i.value != ""
     )
+
