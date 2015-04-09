@@ -33,7 +33,7 @@ class StateModel extends Backbone.Model
     else
       @_resetState()
 
-  updateUrl: ->
+  updateUrlForState: ->
     if (viewingId = @get('projectId'))
       url = "#/project/#{viewingId}"
     else
@@ -61,7 +61,7 @@ class StateModel extends Backbone.Model
   _storeOnChangeEvent: (eventType, a, b) ->
     if @_restoring
       @_restoring = false
-      @updateUrl()
+      @updateUrlForState()
     else
       @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
       @_trackStoreAction(@.toJSON())
@@ -106,7 +106,7 @@ class StateModel extends Backbone.Model
   _resetState: (stateObject) =>
     @clear(silent:true).set(@defaults) # TODO: Figure out what calls this reset, and whether it should be silent
     # @clear(silent:true).set(@defaults, silent: true)
-    @updateUrl()
+    @updateUrlForState()
 
   # 
   # MANAGE FILTERS

@@ -20,7 +20,7 @@ class StateStore
       stateRef = null
 
     @state.set('stateRef', stateRef, silent: true) # Don't update state on save?
-    @state.updateUrl()
+    @state.updateUrlForState()
 
   _persistState: (options) -> # Takes stateData, and returns stateRef
     {stateRef, filterState, viewState} = options
