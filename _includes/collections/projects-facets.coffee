@@ -68,9 +68,6 @@ ProjectsFacets =
     _.findWhere(facet, {value: facetValue.toLowerCase()})?.activeCount || 0
 
 
-  _addStandardFacets: ->
-    _.each @facetTypes, (type) =>
-      @facetr.facet(type).desc()
   # 
   # FACET UTILITIES
   # 
