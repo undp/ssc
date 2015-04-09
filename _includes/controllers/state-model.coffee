@@ -18,7 +18,7 @@ class StateModel extends Backbone.Model
     @listenTo @, 'all', @_storeOnChangeEvent
     @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
-  restoreStateFromUrl: (options) ->
+  attemptRestoreStateFromUrl: (options) ->
     throw 'No options given' unless options?
     fallbackFilter = @_validFallbackFilter(options.fallbackAction, options.fallbackValue)
     stateRef = options.stateRef
