@@ -11,11 +11,11 @@ class MapView extends Backbone.View
   render: ->
     @_createMap() unless @_mapObject?
     @_updateMapValues()
-    @_zoomToActiveRegions()
+    # @_zoomToActiveRegions() # TODO: Restore zooming to active regions on map load
 
   setActive: -> # Triggered by parentView when view is selected
     @_createMap() unless @_mapObject?
-    @_mapObject.updateSize()
+    @_mapObject.updateSize() # TODO: Why is this method different to plain `render`?
 
   # 
   # MAP INTERACTIONS
