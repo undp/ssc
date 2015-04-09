@@ -56,7 +56,9 @@ class StateModel extends Backbone.Model
       @_restoring = false
       @updateUrlForState()
     else
-      @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
+      stateRef = @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
+      @set('stateRef', stateRef, silent: true) # TODO: Don't update state on save?
+      @updateUrlForState()
       @_trackStoreAction(@.toJSON())
 
 
