@@ -49,20 +49,8 @@ ProjectsFacets =
     facet = @_facetsObject()[facetName]
     _.findWhere(facet, {value: facetValue.toLowerCase()})?.activeCount || 0
 
-  filterFacets: (searchTerm) ->
-    return unless searchTerm?
-
-    activeFilters = @prepareFilterGroups()
-    @_createFilterGroups(@_findMatches(searchTerm))
-
   _findMatches: (searchTerm) ->
     app.filters.search(searchTerm)
-
-  _createFilterGroups: (filterObjects) ->
-    collection = new Backbone.Collection(filterObjects)
-
-  _searchByLongName: (term, facetsObject) ->
-    new Backbone.Collection(app.filters.search(term)).pluck('short')
 
   _addStandardFacets: ->
     _.each @facetTypes, (type) =>
