@@ -15,7 +15,11 @@ class StateModel extends Backbone.Model
     projectId   : null
 
   initialize: ->
-    @listenTo @, 'all', @_storeOnChangeEvent
+    @listenTo @, 'change:filterState', @_storeOnChangeEvent
+    @listenTo @, 'change:viewState',   @_storeOnChangeEvent
+    @listenTo @, 'change:searchTerm',  @_storeOnChangeEvent
+    @listenTo @, 'change:projectId',   @_storeOnChangeEvent
+
     @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
   attemptRestoreStateFromUrl: (options) ->
@@ -48,13 +52,14 @@ class StateModel extends Backbone.Model
 
     app.router.navigate(url, trigger: false)
 
-  _storeOnChangeEvent: (eventType, a, b) ->
+  _storeOnChangeEvent: (eventType, a, b) -> 
+    # Only listens to changes on the 4 principal State attributes
     if @_restoring
       @_restoring = false
       @updateUrlForState()
     else
-      stateRef = @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
-      @set('stateRef', stateRef, silent: true) # TODO: Don't update state on save?
+      stateRef = @_store.store()
+      @set('stateRef', stateRef)
       @updateUrlForState()
       @_trackStoreAction(@.toJSON())
 
