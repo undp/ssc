@@ -45,7 +45,7 @@ class StateModel extends Backbone.Model
       viewState = @get('viewState')
       stateRef = @get('stateRef')
 
-      url = "#/"
+      url = "#"
       url = "##{facetName}/#{facetValue}" if facetName? and facetValue?
       url += "?viewState=#{viewState}" if viewState?
       url += "&stateRef=#{stateRef}" if stateRef?
