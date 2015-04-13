@@ -60,28 +60,14 @@ class StateModel extends Backbone.Model
 
 
   # 
-  # STRATEGIES for restoring State 
+  # MODEL VALIDATION
   # 
-  _restoreFromFound: (foundState) =>
-    if @_isValidState(foundState)
-      @_restoring = true # Avoids change event re-storing state and regenerating stateRef
-      @_setState(foundState)
-      @_trackRestoreAction(@.toJSON())
-    else
-      @_resetState()
-
   _isValidState: (state) -> # Receive StateModel object
     if state.filterState?.length > 0 || state.viewState?
       true
     else
       console.log 'invalid filter state'
       false
-
-  _restoreFromFallback: (fallbackFilter) ->
-    if fallbackFilter
-      @_setFiltersFromArray([fallbackFilter])
-    else
-      @_resetState()
 
   _validFallbackFilter: (action, value) ->
     return false unless action? and value?
@@ -93,29 +79,30 @@ class StateModel extends Backbone.Model
 
 
   # 
-  # MANAGE STATE ATTRIBUTES (other than FILTERS)
+  # RESTORE STRATEGIES
   # 
-  setViewState: (view) =>
-    @set 'viewState', view
 
-  setProjectId: (projectId) =>
-    @set 'projectId', projectId
+  _restoreFromFound: (foundState) =>
+    if @_isValidState(foundState)
+      @_restoring = true # Avoids change event re-storing state and regenerating stateRef
+      @_setState(foundState)
+      @_trackRestoreAction(@.toJSON())
+    else
+      @_resetState()
 
-  _setState: (stateObject) ->
-    extendState = _.omit(stateObject, ['filterState'])
-    state = _.extend(@defaults, extendState)
-    @clear(silent:true).set(state, silent: true)
-    @_setFiltersFromArray(stateObject.filterState) if stateObject?.filterState.length > 0
-
-  _resetState: (stateObject) =>
-    @clear(silent:true).set(@defaults) # TODO: Figure out what calls this reset, and whether it should be silent
-    # @clear(silent:true).set(@defaults, silent: true)
-    @updateUrlForState()
+  _restoreFromFallback: (fallbackFilter) ->
+    if fallbackFilter
+      @_setFiltersFromArray([fallbackFilter])
+    else
+      @_resetState()
 
 
   # 
   # MANAGE FILTERS
+  # These functions are called directly by Views. It's the only place that
+  # filters (facets) are added or removed.
   # 
+
   addFilter: (options) =>
     {facetName, facetValue} = options
     throw "Can't add duplicate Facet" if @_facetAlreadyActive(facetName, facetValue)
@@ -134,6 +121,12 @@ class StateModel extends Backbone.Model
   clearFilters: ->
     @set 'filterState', []
     @collection.clearFilters()
+
+  _facetAlreadyActive: (facetName, facetValue) ->
+    _.findWhere(@get('filterState'),
+      name: facetName
+      value: facetValue
+    )
 
   _setFiltersFromArray: (filterArray) ->
     _.each filterArray, (filter) =>
@@ -154,11 +147,28 @@ class StateModel extends Backbone.Model
 
     @set('filterState', _.without(@get('filterState'), foundFilter))
 
-  _facetAlreadyActive: (facetName, facetValue) ->
-    _.findWhere(@get('filterState'),
-      name: facetName
-      value: facetValue
-    )
+
+  # 
+  # MANAGE STATE ATTRIBUTES (other than FILTERS)
+  # 
+
+  setViewState: (view) =>
+    @set 'viewState', view
+
+  setProjectId: (projectId) =>
+    @set 'projectId', projectId
+
+  _setState: (stateObject) ->
+    extendState = _.omit(stateObject, ['filterState'])
+    state = _.extend(@defaults, extendState)
+    @clear(silent:true).set(state, silent: true)
+    @_setFiltersFromArray(stateObject.filterState) if stateObject?.filterState.length > 0
+
+  _resetState: (stateObject) =>
+    @clear(silent:true).set(@defaults) # TODO: Figure out what calls this reset, and whether it should be silent
+    # @clear(silent:true).set(@defaults, silent: true)
+    @updateUrlForState()
+
 
   # 
   # MIXPANEL TRACKING FILTERS ACTIONS
