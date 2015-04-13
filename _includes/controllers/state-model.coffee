@@ -52,7 +52,8 @@ class StateModel extends Backbone.Model
 
     app.router.navigate(url, trigger: false)
 
-  _storeOnChangeEvent: (eventType, a, b) -> 
+  _storeOnChangeEvent: (eventType, a) -> 
+    console.log 'Change state:', eventType, a
     return # TODO: @prod Restore storing functionality
     # Only listens to changes on the 4 principal State attributes
     if @_restoring
@@ -72,11 +73,11 @@ class StateModel extends Backbone.Model
   isValidState: (stateToValidate) => 
     # TODO: Change to `validate` and use `isValid` builtin method instead.
     # Currenty operates on an object with StateModel attributes, not a full model.
-      if stateToValidate.filterState?.length > 0 || stateToValidate.viewState?
-        true
-      else
-        console.log 'invalid filter state'
-        false
+    if stateToValidate.filterState?.length > 0 || stateToValidate.viewState?
+      true
+    else
+      console.log 'invalid filter state'
+      false
 
   _validFallbackFilter: (action, value) ->
     return false unless action? and value?
@@ -174,9 +175,8 @@ class StateModel extends Backbone.Model
     @_setFiltersFromArray(stateObject.filterState) if stateObject?.filterState.length > 0
 
   _resetState: (stateObject) =>
-    @clear(silent:true).set(@defaults) # TODO: Figure out what calls this reset, and whether it should be silent
-    # @clear(silent:true).set(@defaults, silent: true)
-    @updateUrlForState()
+    @set(@defaults, silent: true) 
+    @_updateUrlForState()
 
 
   # 
