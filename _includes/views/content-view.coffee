@@ -23,7 +23,7 @@ class ContentView extends Backbone.View
     @$el.html(compiled)
 
     _.defer => 
-      console.log 'deferring content childViews rendering'
+      console.info 'deferring content childViews rendering'
       @_renderChildViews() # TODO: Replace `defer` until contentView rendered, but keep event bindings
 
     activeTab = @state.get('viewState')
