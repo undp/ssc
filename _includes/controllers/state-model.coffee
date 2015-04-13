@@ -67,12 +67,15 @@ class StateModel extends Backbone.Model
   # 
   # MODEL VALIDATION
   # 
-  _isValidState: (state) -> # Receive StateModel object
-    if state.filterState?.length > 0 || state.viewState?
-      true
-    else
-      console.log 'invalid filter state'
-      false
+
+  isValidState: (stateToValidate) => 
+    # TODO: Change to `validate` and use `isValid` builtin method instead.
+    # Currenty operates on an object with StateModel attributes, not a full model.
+      if stateToValidate.filterState?.length > 0 || stateToValidate.viewState?
+        true
+      else
+        console.log 'invalid filter state'
+        false
 
   _validFallbackFilter: (action, value) ->
     return false unless action? and value?
