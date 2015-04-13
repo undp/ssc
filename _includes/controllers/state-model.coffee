@@ -91,7 +91,7 @@ class StateModel extends Backbone.Model
   # 
 
   _restoreFromFound: (foundState) =>
-    if @_isValidState(foundState)
+    if @isValidState(foundState)
       @_restoring = true # Avoids change event re-storing state and regenerating stateRef
       @_setState(foundState)
       @_trackRestoreAction(@.toJSON())
