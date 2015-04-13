@@ -1,3 +1,7 @@
+# 
+# Attached to StateModel to facilitate persisting of state to local 
+# and remote stores
+# 
 class StateStore
   constructor: (options) ->
     throw 'Missing StateModel' unless options?.stateModel
@@ -6,8 +10,8 @@ class StateStore
   # 
   # STORE
   # 
-  store: =>
-    if @state.get('filterState').length > 0 and @state.isValid(@state.toJSON())
+  store: => # Stores a `StateModel`, returns a stateRef
+    if @state.isValidState(@state.toJSON())
       stateRef = @_persistState(
         filterState: @state.get('filterState')
         viewState: @state.get('viewState')
@@ -15,8 +19,7 @@ class StateStore
     else
       stateRef = null
 
-    @state.set('stateRef', stateRef, silent: true) # Don't update state on save?
-    @state.updateUrl()
+    return stateRef
 
   _persistState: (options) -> # Takes stateData, and returns stateRef
     {stateRef, filterState, viewState} = options
@@ -42,6 +45,7 @@ class StateStore
       stateRef: stateRef
       filterState: filterState
       viewState: viewState
+
     $.ajax(
       url: API_URL
       type: 'POST'
@@ -59,7 +63,7 @@ class StateStore
   # 
   # RETRIEVE
   # 
-  restore: (stateRef) =>
+  restore: (stateRef) => # Retores a StateModel from a `stateRef` 
     return false unless stateRef?
     deferred = $.Deferred()
 
@@ -70,7 +74,7 @@ class StateStore
     else
       @_findRemote(stateRef, deferred)
 
-    deferred.promise()
+    return deferred.promise()
 
   _findLocal: (stateRef) ->
     retrieved = localStorage.getItem(stateRef)

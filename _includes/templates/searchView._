@@ -2,7 +2,7 @@
   <div class="search-field-text">Search</div>
   <img class="search-action-icon" src="images/search.svg" width="26" alt="54ec4e3f7a45778d30caf93d_search.svg">
 </div>
-<div class="w-clearfix control-section-title-block input-mode">
+<div class="w-clearfix control-section-title-block input-mode hidden">
   <input class='search-field-input'/>
   <img class="search-action-icon" src="images/close.svg" width="26" alt="54ec4e3f7a45778d30caf93d_close.svg">
 </div>

@@ -7,7 +7,6 @@ class AdminView extends Backbone.View
   initialize:  () ->
     _.template.partial.declare('adminTable', $('#partial-adminTable').html())
     @openProjects = new OpenProjects
-    app.open = @openProjects # TODO: @prod remove global
     @openProjects.fetch
       success: =>
         @render()
@@ -26,7 +25,7 @@ class AdminView extends Backbone.View
           emptyTable: 'Loading data into table...'
         drawCallback: -> 
           $('.data-table').show()
-          $('.loading-holder').hide()
+          $('.loading-holder').addClass('hidden')
       )
 
   _selectTabLink: (ev) =>

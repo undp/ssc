@@ -56,7 +56,7 @@ class CreateProseConfig
         ,
           name: 'project_objective'
           field:
-            element: 'textarea'
+            element: 'text'
             label: 'Project objective'
         ,
           name: 'project_link'
@@ -104,7 +104,7 @@ class CreateProseConfig
             options: 
               data.region
         ,
-          name: 'country      '
+          name: 'country'
           field:
             element: 'multiselect'
             label: 'Project location (country, etc)'

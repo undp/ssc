@@ -23,7 +23,7 @@ class ContentView extends Backbone.View
     @$el.html(compiled)
 
     _.defer => 
-      console.log 'deferring content childViews rendering'
+      console.info 'deferring content childViews rendering'
       @_renderChildViews() # TODO: Replace `defer` until contentView rendered, but keep event bindings
 
     activeTab = @state.get('viewState')
@@ -42,7 +42,7 @@ class ContentView extends Backbone.View
   # 
   # Display modes
   # 
-    
+
   _listTabForSearchResults: =>
     @_setActiveTab('list') # This doesn't trigger a 'change state' event
 
@@ -59,7 +59,7 @@ class ContentView extends Backbone.View
     @_saveStateAndSetActiveTab(tab)
 
   _saveStateAndSetActiveTab: (tab) =>
-    @state.setContentView tab
+    @state.setViewState tab
     @_setActiveTab(tab)
 
   _setActiveTab: (tab) ->

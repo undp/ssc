@@ -1,7 +1,7 @@
 API_KEY            = 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
 APP_ID             = 'vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO'
 API_URL            = 'https://api.parse.com/1/classes/stateData'
-INITIAL_VIEW_STATE = 'map' # TODO: @prod Ensure this is 'map'
+INITIAL_VIEW_STATE = 'list' # TODO: @prod Ensure this is 'map'
 
 # 
 # SERIALIZE and STORE state
@@ -15,43 +15,30 @@ class StateModel extends Backbone.Model
     projectId   : null
 
   initialize: ->
-    @listenTo @, 'all', @_storeOnChangeEvent
+    @listenTo @, 'change:filterState', @_storeOnChangeEvent
+    @listenTo @, 'change:viewState',   @_storeOnChangeEvent
+    @listenTo @, 'change:searchTerm',  @_storeOnChangeEvent
+    @listenTo @, 'change:projectId',   @_storeOnChangeEvent
+
     @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
-  _isValid: (state) -> # Receive object
-    if state.filterState?.length > 0 # TODO: Add a tiny bit more logic here.
-      true
-    else
-      false
-
-  _storeOnChangeEvent: (eventType, a, b) ->
-    if @_restoring
-      @_restoring = false
-      @updateUrl()
-    else
-      @_store.store() if (/change\:(viewState|filterState|searchTerm|projectId)/).test(eventType)
-      @_trackStoreAction(@.toJSON())
-
-  restoreStateFromUrl: (options) ->
+  attemptRestoreStateFromUrl: (options) ->
     throw 'No options given' unless options?
-    fallbackFilter = @_validFallbackFilter(options.fallbackAction, options.fallbackValue)
+    fallbackFilter = @_validFallbackFilter(options.action, options.value)
     stateRef = options.stateRef
-
-    if stateRef?
-      @_store.restore(stateRef) # Returns a promise
-      .then (stateData) => 
-        @_restoreFromFound(_.extend(stateData, stateRef: stateRef))
+    return @_restoreFromFallback(fallbackFilter) unless stateRef?
+    
+    @_store.restore(stateRef)
+      .done (stateData) => 
+        state = _.extend(stateData, stateRef: stateRef)
+        @_restoreFromFound(state)
       .fail => @_restoreFromFallback(fallbackFilter)
-    else if fallbackFilter
-      @_restoreFromFallback(fallbackFilter)
-    else
-      @_resetState()
 
-  updateUrl: ->
-    if (viewingId = @get('projectId'))
-      url = "#/project/#{viewingId}"
+  _updateUrlForState: ->
+    if (projectId = @get('projectId'))
+      url = "#/project/#{projectId}"
     else
-      primaryFacet = @_primaryFacet()
+      primaryFacet = @get('filterState')[0]
 
       facetName = primaryFacet?.name
       facetValue = primaryFacet?.value
@@ -65,22 +52,32 @@ class StateModel extends Backbone.Model
 
     app.router.navigate(url, trigger: false)
 
-  _primaryFacet: ->
-    @get('filterState')[0]
-
-  # 
-  # Strategies for restoring State 
-  # 
-  _restoreFromFound: (foundState) =>
-    if @_isValid(foundState)
-      @_restoring = true # Avoids change event re-storing state and regenerating stateRef
-      @_setState(foundState)
-      @_trackRestoreAction(@.toJSON())
+  _storeOnChangeEvent: (eventType, a) -> 
+    console.log 'Change state:', eventType, a
+    return # TODO: @prod Restore storing functionality
+    # Only listens to changes on the 4 principal State attributes
+    if @_restoring
+      @_restoring = false
+      @_updateUrlForState()
     else
-      @_resetState()
+      stateRef = @_store.store()
+      @set('stateRef', stateRef)
+      @_updateUrlForState()
+      @_trackStoreAction(@.toJSON())
 
-  _restoreFromFallback: (fallbackFilter) ->
-    @_setFilters([fallbackFilter])
+
+  # 
+  # MODEL VALIDATION
+  # 
+
+  isValidState: (stateToValidate) => 
+    # TODO: Change to `validate` and use `isValid` builtin method instead.
+    # Currenty operates on an object with StateModel attributes, not a full model.
+    if stateToValidate.filterState?.length > 0 || stateToValidate.viewState?
+      true
+    else
+      console.log 'invalid filter state'
+      false
 
   _validFallbackFilter: (action, value) ->
     return false unless action? and value?
@@ -90,37 +87,31 @@ class StateModel extends Backbone.Model
         name: action
         value: value
 
+
   # 
-  # MANAGE STATE ATTRIBUTES (other than FILTERS)
+  # RESTORE STRATEGIES
   # 
-  setContentView: (view) =>
-    @set 'viewState', view
 
-  setProjectShowId: (projectId) =>
-    @set 'projectId', projectId
+  _restoreFromFound: (foundState) =>
+    if @isValidState(foundState)
+      @_restoring = true # Avoids change event re-storing state and regenerating stateRef
+      @_setState(foundState)
+      @_trackRestoreAction(@.toJSON())
+    else
+      @_resetState()
 
-  _setState: (stateObject) ->
-    extendState = _.omit(stateObject, ['filterState'])
-    state = _.extend(@defaults, extendState)
-    @clear(silent:true).set(state, silent: true)
-    @_setFilters(stateObject.filterState) if stateObject?.filterState.length > 0
+  _restoreFromFallback: (fallbackFilter) ->
+    if fallbackFilter
+      @_setFiltersFromArray([fallbackFilter])
+    else
+      @_resetState()
 
-  _resetState: (stateObject) =>
-    @clear(silent:true).set(@defaults, silent: true)
-    @updateUrl()
 
   # 
   # MANAGE FILTERS
+  # These functions are called directly by Views. It's the only place that
+  # filters (facets) are added or removed.
   # 
-  _setFilters: (filterArray) ->
-    _.each filterArray, (filter) =>
-      @_restoring = true
-      @addFilter(facetName: filter.name, facetValue: filter.value, silent: true)
-    @_restoring = false
-
-  clearFilters: ->
-    @set 'filterState', []
-    @collection.clearFilters()
 
   addFilter: (options) =>
     {facetName, facetValue} = options
@@ -130,6 +121,29 @@ class StateModel extends Backbone.Model
     @collection.addFacet(facetName, facetValue)
     @_trackFilterActions('add', facetName, facetValue) unless options.silent
 
+  removeFilter: (options) ->
+    {facetName, facetValue} = options
+    throw "Can't remove non-existent Facet" unless @_facetAlreadyActive(facetName, facetValue)
+    @_removeFilterState(facetName, facetValue)
+    @collection.removeFacet(facetName, facetValue)
+    @_trackFilterActions('remove', facetName, facetValue) unless options.silent
+
+  clearFilters: ->
+    @set 'filterState', []
+    @collection.clearFilters()
+
+  _facetAlreadyActive: (facetName, facetValue) ->
+    _.findWhere(@get('filterState'),
+      name: facetName
+      value: facetValue
+    )
+
+  _setFiltersFromArray: (filterArray) ->
+    _.each filterArray, (filter) =>
+      @_restoring = true
+      @addFilter(facetName: filter.name, facetValue: filter.value, silent: true)
+    @_restoring = false
+
   _addFilterState: (facetName, facetValue) ->
     stateClone = _.clone(@get('filterState')) || []
     stateClone.push(
@@ -138,23 +152,36 @@ class StateModel extends Backbone.Model
     )
     @set('filterState', stateClone)
 
-  removeFilter: (options) ->
-    {facetName, facetValue} = options
-    throw "Can't remove non-existent Facet" unless @_facetAlreadyActive(facetName, facetValue)
-    @_removeFilterState(facetName, facetValue)
-    @collection.removeFacet(facetName, facetValue)
-    @_trackFilterActions('remove', facetName, facetValue) unless options.silent
-
   _removeFilterState: (facetName, facetValue) ->
     foundFilter = @_facetAlreadyActive(facetName, facetValue)
 
     @set('filterState', _.without(@get('filterState'), foundFilter))
 
-  _facetAlreadyActive: (facetName, facetValue) ->
-    _.findWhere(@get('filterState'),
-      name: facetName
-      value: facetValue
-    )
+
+  # 
+  # MANAGE STATE ATTRIBUTES (other than FILTERS)
+  # 
+
+  setViewState: (view) =>
+    @set 'viewState', view
+
+  setProjectId: (projectId) =>
+    @set 'projectId', projectId
+
+  _setState: (stateObject) ->
+    extendState = _.omit(stateObject, ['filterState'])
+    state = _.extend(@defaults, extendState)
+    @clear(silent:true).set(state, silent: true)
+    @_setFiltersFromArray(stateObject.filterState) if stateObject?.filterState.length > 0
+
+  _resetState: (stateObject) =>
+    @set(@defaults, silent: true) 
+    @_updateUrlForState()
+
+
+  # 
+  # MIXPANEL TRACKING FILTERS ACTIONS
+  # 
 
   _trackFilterActions: (action, facetName, facetValue) ->
     if action is 'add' and @get('filterState').length == 1
