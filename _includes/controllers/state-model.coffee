@@ -34,7 +34,7 @@ class StateModel extends Backbone.Model
         @_restoreFromFound(state)
       .fail => @_restoreFromFallback(fallbackFilter)
 
-  updateUrlForState: ->
+  _updateUrlForState: ->
     if (projectId = @get('projectId'))
       url = "#/project/#{projectId}"
     else
@@ -57,11 +57,11 @@ class StateModel extends Backbone.Model
     # Only listens to changes on the 4 principal State attributes
     if @_restoring
       @_restoring = false
-      @updateUrlForState()
+      @_updateUrlForState()
     else
       stateRef = @_store.store()
       @set('stateRef', stateRef)
-      @updateUrlForState()
+      @_updateUrlForState()
       @_trackStoreAction(@.toJSON())
 
 
