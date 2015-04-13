@@ -53,6 +53,7 @@ class StateModel extends Backbone.Model
     app.router.navigate(url, trigger: false)
 
   _storeOnChangeEvent: (eventType, a, b) -> 
+    return # TODO: @prod Restore storing functionality
     # Only listens to changes on the 4 principal State attributes
     if @_restoring
       @_restoring = false
