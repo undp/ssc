@@ -13,8 +13,8 @@ class SearchView extends Backbone.View
     'keyup .search-field-input': '_handleSearchInput'
     'keyup :input': '_checkForEscape'
 
-  _checkForEscape: (e) ->
-    @_cancelSearch() if e.keyCode == 27
+  _checkForEscape: (ev) ->
+    @_cancelSearch(ev) if ev.keyCode == 27
 
   render: ->
     compiled = @template()()
@@ -27,6 +27,8 @@ class SearchView extends Backbone.View
 
   _cancelSearch: (ev) ->
     ev.preventDefault() if ev?.preventDefault?
+
+    return unless @state.get('searchTerm')?
     @_resetSearchField()
     @_deactivateSearch()
     @state.trigger('search:stopped')
