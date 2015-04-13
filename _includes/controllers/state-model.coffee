@@ -26,13 +26,13 @@ class StateModel extends Backbone.Model
     throw 'No options given' unless options?
     fallbackFilter = @_validFallbackFilter(options.action, options.value)
     stateRef = options.stateRef
-    return @_restoreFromFallback(fallbackFilter) unless stateRef?
+    return @_restoreFromFallback(fallbackFilter, stateRef) unless stateRef?
     
     @_store.restore(stateRef)
       .done (stateData) => 
         state = _.extend(stateData, stateRef: stateRef)
         @_restoreFromFound(state)
-      .fail => @_restoreFromFallback(fallbackFilter)
+      .fail => @_restoreFromFallback(fallbackFilter, stateRef)
 
   _updateUrlForState: ->
     if (projectId = @get('projectId'))
@@ -45,17 +45,16 @@ class StateModel extends Backbone.Model
       viewState = @get('viewState')
       stateRef = @get('stateRef')
 
-      url = "#/"
+      url = "#"
       url = "##{facetName}/#{facetValue}" if facetName? and facetValue?
       url += "?viewState=#{viewState}" if viewState?
       url += "&stateRef=#{stateRef}" if stateRef?
 
-    app.router.navigate(url, trigger: false)
+    app.router.navigate(url)
 
-  _storeOnChangeEvent: (eventType, a) -> 
-    console.log 'Change state:', eventType, a
-    return # TODO: @prod Restore storing functionality
-    # Only listens to changes on the 4 principal State attributes
+  _storeOnChangeEvent: (eventType, object) -> 
+    # See listeners above, only responds to changes on the 4 principal State
+    # attributes
     if @_restoring
       @_restoring = false
       @_updateUrlForState()
@@ -76,7 +75,7 @@ class StateModel extends Backbone.Model
     if stateToValidate.filterState?.length > 0 || stateToValidate.viewState?
       true
     else
-      console.log 'invalid filter state'
+      console.error 'Invalid filter state'
       false
 
   _validFallbackFilter: (action, value) ->
@@ -89,20 +88,21 @@ class StateModel extends Backbone.Model
 
 
   # 
-  # RESTORE STRATEGIES
+  # STATE RESTORATION STRATEGIES
   # 
 
   _restoreFromFound: (foundState) =>
     if @isValidState(foundState)
-      @_restoring = true # Avoids change event re-storing state and regenerating stateRef
       @_setState(foundState)
       @_trackRestoreAction(@.toJSON())
     else
       @_resetState()
 
-  _restoreFromFallback: (fallbackFilter) ->
+  _restoreFromFallback: (fallbackFilter, stateRef) ->
     if fallbackFilter
       @_setFiltersFromArray([fallbackFilter])
+    else if stateRef
+      return # Nothing further needed
     else
       @_resetState()
 

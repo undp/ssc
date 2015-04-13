@@ -22,7 +22,7 @@ Router = Backbone.Router.extend
 
   _notFound: (notFound) ->
     console.warn 'No route matched', notFound
-    @navigate '', trigger: false
+    @navigate('')
     @_renderExplorerView()
 
   # 
