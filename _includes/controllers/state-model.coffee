@@ -50,6 +50,7 @@ class StateModel extends Backbone.Model
       url += "?viewState=#{viewState}" if viewState?
       url += "&stateRef=#{stateRef}" if stateRef?
 
+    @_trackUrl(url)
     app.router.navigate(url)
 
   _storeOnChangeEvent: (eventType, object) -> 
@@ -180,33 +181,22 @@ class StateModel extends Backbone.Model
 
 
   # 
-  # MIXPANEL TRACKING FILTERS ACTIONS
+  # GOOGLE ANALYTICS SINGLE-PAGE TRACKING
   # 
+  _trackUrl: (url) ->
+    return unless ga?
+    url = url.replace(/&stateRef.*/g, "")
+    ga('send', 'pageview', "/#{url}")
 
   _trackFilterActions: (action, facetName, facetValue) ->
     if action is 'add' and @get('filterState').length == 1
-      filterType = 'primary filter'
-    else if action is 'add'
-      filterType = 'secondary filter'
-    else
-      filterType = 'any filter'
+      ga('send', 'event', 'setPrimaryFilter', facetName, facetValue)
 
-    mixpanel.track('filterAction',
-      'action': action
-      'filterName': facetName,
-      'filterValue': facetValue
-      'filterType': filterType
-    )
+    ga('send', 'event', 'addFilter', facetName, facetValue)
 
   _trackStoreAction: (state) ->
-    mixpanel.track('filterStore',
-      'action': 'store'
-      'filtersLength': state.filterState.length
-    )
+    ga('send', 'event', 'saveAndLoad', 'store', state.filterState.length);
 
   _trackRestoreAction: (state) ->
-    mixpanel.track('filterStore',
-      'action': 'retrieve'
-      'filtersLength': state.filterState.length
-    )
+    ga('send', 'event', 'saveAndLoad', 'restore', state.filterState.length)
 
