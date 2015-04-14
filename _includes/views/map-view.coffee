@@ -9,6 +9,8 @@ class MapView extends Backbone.View
     @countries = new MapCountries(preloadData.countries) 
 
   render: ->
+    return unless @state.get('viewState') == 'map'
+
     @_createMap() unless @_mapObject?
     @_updateMapValues()
     # @_zoomToActiveRegions() # TODO: Restore zooming to active regions on map load
