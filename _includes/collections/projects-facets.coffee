@@ -52,9 +52,16 @@ ProjectsFacets =
       facet
     )
 
-  prepareFilterGroupForType: (facetName) ->
+  prepareFilterGroupForType: (facetName, options) ->
     throw 'Invalid filterGroup facetName given' unless _.include(@facetTypes, facetName)
+
     filterGroup = @_removeEmptyFacetValues(@_facetsObject()[facetName])
+
+    if options?.sortBy == 'name'
+      filterGroup = _.sortBy(filterGroup, 'long')
+    else
+      filterGroup = @_removeZeroActiveCount(filterGroup)
+    
     # Convert values from short to long names
     _.map filterGroup, (filterItem) ->
       filterItem.long = app.filters.nameFromShort(filterItem.value)
@@ -86,7 +93,12 @@ ProjectsFacets =
     )
 
   _removeEmptyFacetValues: (values) ->
-    _.filter(values, (i) =>
-      i.activeCount > 0 && i.value != ""
+    _.filter(values, (i) ->
+      i.value != ""
+    )
+
+  _removeZeroActiveCount: (values) ->
+    _.filter(values, (i) ->
+      i.activeCount > 0
     )
 

@@ -15,7 +15,8 @@ class StatsView extends Backbone.View
     @
 
   _calculateStats: ->
-    types = ['territorial_focus', 'thematic_focus', 'undp_role_type', 'partner_type']
+    # types = ['territorial_focus', 'thematic_focus', 'undp_role_type', 'partner_type']
+    types = ['territorial_focus']
     # TODO: Check this is sensible - i.e. 
     #       - exclude filters where only one option
     #       - exclude filters where no options
@@ -24,8 +25,8 @@ class StatsView extends Backbone.View
       values: @_createArrayFor(type)
 
   _createArrayFor: (type) ->
-    rawInput = app.projects.prepareFilterGroupForType(type)
-
+    rawInput = app.projects.prepareFilterGroupForType(type, sortBy: 'name')
+    console.table rawInput
     total = _.inject(rawInput, (memo, value) -> 
       memo + value.activeCount
     , 0)
