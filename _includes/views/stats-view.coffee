@@ -11,6 +11,7 @@ class StatsView extends Backbone.View
       stats: @_calculateStats()
     )
     @$el.html(compiled)
+    @$el.find('.tooltip').tooltipster(theme: 'tooltipster-light')
     @
 
   _calculateStats: ->
