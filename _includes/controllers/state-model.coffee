@@ -18,7 +18,7 @@ class StateModel extends Backbone.Model
     @listenTo @, 'change:filterState', @_storeOnChangeEvent
     @listenTo @, 'change:viewState',   @_storeOnChangeEvent
     @listenTo @, 'change:searchTerm',  @_storeOnChangeEvent
-    @listenTo @, 'change:projectId',   @_storeOnChangeEvent
+    # @listenTo @, 'change:projectId',   @_storeOnChangeEvent
 
     @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
