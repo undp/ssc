@@ -4,7 +4,7 @@
     <% _.each(statArray.values, function(array){ %>
       <div 
         class="bar-chart-element tooltip" 
-        title='<%= array.long %> (<%= array.proportion.toFixed(0) %>%)' 
+        title='<%= array.long %> (<%= array.proportion %>%)' 
         style='width: <%= array.proportion %>%; background-color: <%= array.colour %>'
       >
       </div>
