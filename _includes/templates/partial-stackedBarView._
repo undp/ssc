@@ -1,0 +1,19 @@
+<div class="stat-block">
+  <div class="group-title"><%= statArray.type %></div>
+  <div class="w-clearfix bar-chart">
+    <% _.each(statArray.values, function(array){ %>
+      <div 
+        class="bar-chart-element tooltip" 
+        title='<%= array.long %> (<%= array.proportion.toFixed(0) %>%)' 
+        style='width: <%= array.proportion %>%; background-color: <%= array.colour %>'
+      >
+      </div>
+    <% }) %>
+  </div>
+  <div class="block-detail-text">
+    <% var shorts = _.map(statArray.values, function(el){ %>
+      <% return el.long.slice(0,1) %>
+    <% }).join("  ") %>
+    <%= shorts %>
+  </div>
+</div>

@@ -59,10 +59,6 @@ img.filters-disclose {
   }
 }
 
-.group-items {
-  display: none;
-}
-
 a.group-item[data-active-filter='true'] {
   opacity: 0.3
 }
@@ -89,4 +85,16 @@ a.group-item[data-active-filter='true'] {
 }
 #contentTruncated {
   margin-top: 15px;
+}
+
+@media screen and (max-width: 767px) {
+  .group-items {
+    display: none;
+  }
+  .filters {
+    height: inherit;
+  }
+  .filters-container {
+    height: inherit;
+  }
 }
