@@ -1,0 +1,15 @@
+<div class="stat-block">
+  <div class="group-title">Thematic focus</div>
+  <div class="w-clearfix bar-chart">
+    <% var theme = statArray; %>
+    <% console.dir(statArray); %>
+    <div class="bar-chart-element tooltip" title='Some' style='width: <%= theme[0].value %>%'></div>
+    <div class="bar-chart-element tooltip" title='Some' style='width: <%= theme[1].value %>%'></div>
+    <div class="bar-chart-element tooltip" title='Some' style='width: <%= theme[2].value %>%'></div>
+  </div>
+  <div class="block-detail-text">
+    R |
+    G | 
+    SD
+  </div>
+</div>

@@ -5,38 +5,8 @@
     </div>
   </div>
   <div class="w-col w-col-6">
-    <div class="stat-block">
-      <div class="group-title">Thematic focus</div>
-      <div class="w-clearfix bar-chart">
-        <% var theme = stats.themeArray; %>
-        <div class="bar-chart-element element-1" style='width: <%= theme[0].value %>%'></div>
-        <div class="bar-chart-element element-2" style='width: <%= theme[1].value %>%'></div>
-        <div class="bar-chart-element element-3" style='width: <%= theme[2].value %>%'></div>
-      </div>
-      <div class="block-detail-text">Resilience |&nbsp;Governance |&nbsp;Sustainable development</div>
-    </div>
-    <div class="stat-block">
-      <div class="group-title">UNDP Role type</div>
-      <div class="w-clearfix bar-chart">
-        <% var role = stats.roleArray; %>
-        <div class="bar-chart-element element-4" style='width: <%= role[0].value %>%'></div>
-        <div class="bar-chart-element element-5" style='width: <%= role[1].value %>%'></div>
-        <div class="bar-chart-element element-6" style='width: <%= role[2].value %>%'></div>
-      </div>
-      <div class="block-detail-text">
-        Capacity | Knowledge | Partnership
-      </div>
-    </div>
-    <div class="stat-block">
-      <div class="group-title">PARTNER&nbsp;TYPE</div>
-      <div class="w-clearfix bar-chart">
-        <div class="bar-chart-element element-7"></div>
-        <div class="bar-chart-element element-8"></div>
-        <div class="bar-chart-element element-9"></div>
-        <div class="bar-chart-element element-10"></div>
-        <div class="bar-chart-element element-11"></div>
-      </div>
-      <div class="block-detail-text">National govt |&nbsp;International |&nbsp;CSO&nbsp;|&nbsp;Regional |&nbsp;Other</div>
-    </div>
+    <% _.each(stats, function(statArray){ %> 
+      <%= _.template.partial('stackedBarView', {statArray: statArray}) %>
+    <% }); %>
   </div>
 </div>

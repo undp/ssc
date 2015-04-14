@@ -3,6 +3,7 @@ class StatsView extends Backbone.View
 
   initialize: ->
     @listenTo @collection, 'reset', @render
+    _.template.partial.declare('stackedBarView', $('#partial-stackedBarView').html())
 
   render: ->
     compiled = @template()(
