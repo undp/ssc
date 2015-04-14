@@ -15,9 +15,13 @@ class StatsView extends Backbone.View
     @
 
   _calculateStats: ->
-    themeArray: @_createArrayFor('thematic_focus')
-    roleArray: @_createArrayFor('undp_role_type')
-    partnerArray: @_createArrayFor('partner_type')
+    types = ['territorial_focus', 'thematic_focus', 'undp_role_type', 'partner_type']
+    # TODO: Check this is sensible - i.e. 
+    #       - exclude filters where only one option
+    #       - exclude filters where no options
+    _.map types, (type) => 
+      type: s.humanize(type)
+      values: @_createArrayFor(type)
 
   _createArrayFor: (type) ->
     raw = app.projects.prepareFilterGroupForType(type)
@@ -27,22 +31,37 @@ class StatsView extends Backbone.View
     , 0)
     
     _.map(raw, (i, index, list) =>
-      value    = (i.activeCount / total) * 100
-      position = index / list.length
-      
-      return {
-        name: i.value
-        type: type
-        value: value
-        colour: @_colourFor(type, position)
-        long: i.long
-      }
-      
+      name: i.value
+      proportion: (i.activeCount / total) * 100
+      colour: @_colourFor(type, (index / list.length))
+      long: i.long
     )
 
-
   _colourFor: (type, position) ->
-    rgbStart = '#528B9A'
-    rgbEnd   = '#EFEE69'
+    colours = _.findWhere(@_config, type: type)
+    rgbStart = colours.rgbStart
+    rgbEnd   = colours.rgbEnd
     chroma.interpolate(rgbStart, rgbEnd, position, 'lch').hex()
+
+  _config: [
+    type: 'region'
+    rgbStart: '#fce0dd'
+    rgbEnd:   '#c32489'
+  ,
+    type: 'territorial_focus'
+    rgbStart: '#810F7C'
+    rgbEnd:   '#BDC9E1'
+  ,
+    type: 'thematic_focus'
+    rgbStart: '#37a257'
+    rgbEnd:   '#e5f5e1'
+  ,
+    type: 'undp_role_type'
+    rgbStart: '#c32489'
+    rgbEnd:   '#fce0dd'
+  ,
+    type: 'partner_type'
+    rgbStart: '#b10610'
+    rgbEnd:   '#fef0da'
+  ]
 
