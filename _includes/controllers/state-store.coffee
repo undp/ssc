@@ -6,6 +6,7 @@ class StateStore
   constructor: (options) ->
     throw 'Missing StateModel' unless options?.stateModel
     @state = options.stateModel
+    @_throttledStateSaveRemote = _.throttle(@_saveStateRemote, 2000)
 
   # 
   # STORE
@@ -26,7 +27,8 @@ class StateStore
     stateRef ?= app.utils.PUID()
 
     @_saveStateLocal(stateRef: stateRef, filterState: filterState, viewState: viewState)
-    @_saveStateRemote(stateRef: stateRef, filterState: filterState, viewState: viewState)
+
+    @_throttledStateSaveRemote(stateRef: stateRef, filterState: filterState, viewState: viewState)
     
     return stateRef
 
