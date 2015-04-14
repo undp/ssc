@@ -17,18 +17,32 @@ class StatsView extends Backbone.View
   _calculateStats: ->
     themeArray: @_createArrayFor('thematic_focus')
     roleArray: @_createArrayFor('undp_role_type')
+    partnerArray: @_createArrayFor('partner_type')
 
   _createArrayFor: (type) ->
-    output = [{name: null, value: 0},{name: null, value: 0},{name: null, value: 0}]
     raw = app.projects.prepareFilterGroupForType(type)
+
     total = _.inject(raw, (memo, value) -> 
       memo + value.activeCount
     , 0)
-    array = _.map(raw, (i) ->
-      name: i.value
-      value: (i.activeCount / total) * 100
+    
+    _.map(raw, (i, index, list) =>
+      value    = (i.activeCount / total) * 100
+      position = index / list.length
+      
+      return {
+        name: i.value
+        type: type
+        value: value
+        colour: @_colourFor(type, position)
+        long: i.long
+      }
+      
     )
-    _.each(array, (e, i) ->
-      output[i] = e
-    )
-    output
+
+
+  _colourFor: (type, position) ->
+    rgbStart = '#528B9A'
+    rgbEnd   = '#EFEE69'
+    chroma.interpolate(rgbStart, rgbEnd, position, 'lch').hex()
+

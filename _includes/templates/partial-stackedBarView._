@@ -1,11 +1,14 @@
 <div class="stat-block">
-  <div class="group-title">Thematic focus</div>
+  <div class="group-title"><%= statArray[0].type %></div>
   <div class="w-clearfix bar-chart">
-    <% var theme = statArray; %>
-    <% console.dir(statArray); %>
-    <div class="bar-chart-element tooltip" title='Some' style='width: <%= theme[0].value %>%'></div>
-    <div class="bar-chart-element tooltip" title='Some' style='width: <%= theme[1].value %>%'></div>
-    <div class="bar-chart-element tooltip" title='Some' style='width: <%= theme[2].value %>%'></div>
+    <% _.each(statArray, function(array){ %>
+      <div 
+        class="bar-chart-element tooltip" 
+        title='<%= array.long %>' 
+        style='width: <%= array.value %>%; background-color: <%= array.colour %>'
+      >
+      </div>
+    <% }) %>
   </div>
   <div class="block-detail-text">
     R |
