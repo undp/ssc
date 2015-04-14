@@ -1,7 +1,10 @@
 <div class="w-row">
   <div class="w-col w-col-6">
     <div class="stat-headline">
-      <div><%= collection.length %> projects selected</div>
+      <div>
+        <span class='project-count'><%= collection.length %> </span>
+        projects
+      </div>
     </div>
   </div>
   <div class="w-col w-col-6">

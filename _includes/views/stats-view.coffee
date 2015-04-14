@@ -24,18 +24,27 @@ class StatsView extends Backbone.View
       values: @_createArrayFor(type)
 
   _createArrayFor: (type) ->
-    raw = app.projects.prepareFilterGroupForType(type)
+    rawInput = app.projects.prepareFilterGroupForType(type)
 
-    total = _.inject(raw, (memo, value) -> 
+    total = _.inject(rawInput, (memo, value) -> 
       memo + value.activeCount
     , 0)
-    
-    _.map(raw, (i, index, list) =>
-      name: i.value
-      proportion: (i.activeCount / total) * 100
-      colour: @_colourFor(type, (index / list.length))
-      long: i.long
+
+    output = _.map(rawInput, (i, index, list) =>
+      return {
+        name: i.value
+        proportion: (i.activeCount / total) * 100
+        colour: @_colourFor(type, (index / list.length))
+        long: i.long
+      }
     )
+
+    # Ensure proportions add to 100
+    vals = @_roundly(_.pluck(output, 'proportion'), 100)
+    
+    _.map output, (i, index) ->
+      i.proportion = vals[index]
+      i
 
   _colourFor: (type, position) ->
     colours = _.findWhere(@_config, type: type)
@@ -65,3 +74,12 @@ class StatsView extends Backbone.View
     rgbEnd:   '#fef0da'
   ]
 
+  _roundly: (list, target) ->
+    offAmount = target - _.reduce(list, ((acc, x) ->
+      acc + Math.round(x)
+    ), 0)
+    _.chain(list).sortBy((x) ->
+      Math.round(x) - x
+    ).map((x, i) ->
+      Math.round(x) + (offAmount > i) - (i >= list.length + offAmount)
+    ).value()
