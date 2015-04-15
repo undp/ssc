@@ -40,14 +40,14 @@
       <table class='data-table display compact'>
         <thead>
           <tr>
-            <th>Open ID (edit SSC)</th>
-            <th>Title (link to SSC)</th>
+            <th>Open ID (edit SSC record)</th>
+            <th>Title (view on SSC)</th>
           </tr>
         </thead>
         <tfoot>
           <tr>
-            <th>Open ID (edit SSC)</th>
-            <th>Title (link to SSC)</th>
+            <th>Open ID (edit SSC record)</th>
+            <th>Title (view on SSC)</th>
           </tr>
         </tfoot>
         <tbody>

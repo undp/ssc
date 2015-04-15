@@ -1,14 +1,14 @@
 <table class='data-table display compact'>
   <thead>
     <tr>
-      <th>Open ID (create SSC)</th>
-      <th>Title (link to open.undp.org)</th>
+      <th>Open ID (+ create SSC record)</th>
+      <th>Title (view on open.undp.org)</th>
     </tr>
   </thead>
   <tfoot>
     <tr>
-      <th>Open ID (create SSC)</th>
-      <th>Title (link to open.undp.org)</th>
+      <th>Open ID (+ create SSC record)</th>
+      <th>Title (view on open.undp.org)</th>
     </tr>
   </tfoot>
   <tbody>
@@ -20,4 +20,3 @@
     <% }) %>
   </tbody>
 </table>
-
