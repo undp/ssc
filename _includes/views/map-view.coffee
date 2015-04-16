@@ -107,10 +107,10 @@ class MapView extends Backbone.View
       regions: [
         values: values
         scale: ['#B8B8B8', '#1057A7']
-        normalizeFunction: 'polynomial'
+        normalizeFunction: 'linear'
         legend:
           horizontal: true,
-          title: 'Projects per country',
+          title: 'Projects count',
           labelRender: (value) -> value
       ]
     regionsSelectableOne: true
