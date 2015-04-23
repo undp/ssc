@@ -1,0 +1,632 @@
+[
+  {
+    "country": "Afghanistan",
+    "url": "http://www.af.undp.org/"
+  },
+  {
+    "country": "Albania",
+    "url": "http://www.al.undp.org/"
+  },
+  {
+    "country": "Algeria",
+    "url": "http://www.dz.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Angola",
+    "url": "http://www.ao.undp.org/"
+  },
+  {
+    "country": "Argentina",
+    "url": "http://www.ar.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Armenia",
+    "url": "http://www.am.undp.org/"
+  },
+  {
+    "country": "Azerbaijan",
+    "url": "http://www.az.undp.org/"
+  },
+  {
+    "country": "Bahrain",
+    "url": "http://www.bh.undp.org/"
+  },
+  {
+    "country": "Bangladesh",
+    "url": "http://www.bd.undp.org/"
+  },
+  {
+    "country": "Barbados",
+    "url": "http://www.bb.undp.org/"
+  },
+  {
+    "country": "Belarus",
+    "url": "http://www.by.undp.org/"
+  },
+  {
+    "country": "Belize",
+    "url": "http://www.bz.undp.org/"
+  },
+  {
+    "country": "Benin",
+    "url": "http://www.bj.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Bhutan",
+    "url": "http://www.bt.undp.org/"
+  },
+  {
+    "country": "Bolivia",
+    "url": "http://www.bo.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "url": "http://www.ba.undp.org/"
+  },
+  {
+    "country": "Botswana",
+    "url": "http://www.bw.undp.org/"
+  },
+  {
+    "country": "Brazil",
+    "url": "http://www.pnud.org.br/home/",
+    "language": "pt"
+  },
+  {
+    "country": "Burkina Faso",
+    "url": "http://www.bf.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Burundi",
+    "url": "http://www.bi.undp.org/"
+  },
+  {
+    "country": "Cambodia",
+    "url": "http://www.kh.undp.org/"
+  },
+  {
+    "country": "Cameroon",
+    "url": "http://www.cm.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Cape Verde",
+    "url": "http://www.un.cv/",
+    "language": "pt"
+  },
+  {
+    "country": "Central African Republic",
+    "url": "http://www.cf.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Chad",
+    "url": "http://www.td.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Chile",
+    "url": "http://www.cl.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "China",
+    "url": "http://www.cn.undp.org/"
+  },
+  {
+    "country": "Colombia",
+    "url": "http://www.co.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Comoros",
+    "url": "http://www.km.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Congo (Dem. Republic of)",
+    "url": "http://www.cd.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Congo (Republic of)",
+    "url": "http://www.cg.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Costa Rica",
+    "url": "http://www.cr.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "url": "http://www.ci.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Croatia",
+    "url": "http://www.hr.undp.org/"
+  },
+  {
+    "country": "Cuba",
+    "url": "http://www.cu.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Cyprus",
+    "url": "http://www.cy.undp.org/"
+  },
+  {
+    "country": "Democratic People's Republic of Korea",
+    "webclue": "dprk",
+    "url": "http://www.kp.undp.org/"
+  },
+  {
+    "country": "Denmark (Rep. Office)",
+    "url": "http://www.dk.undp.org/",
+    "ignore": "true"
+  },
+  {
+    "country": "Djibouti",
+    "url": "http://www.dj.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Dominican Republic",
+    "url": "http://www.do.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "E.U. (Rep. Office)",
+    "url": "http://www.undp.org/content/brussels/en/home.html",
+    "ignore": "true"
+  },
+  {
+    "country": "Ecuador",
+    "url": "http://www.ec.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Egypt",
+    "url": "http://www.eg.undp.org/"
+  },
+  {
+    "country": "El Salvador",
+    "url": "http://www.sv.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "url": "http://www.gq.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Eritrea",
+    "url": "http://www.er.undp.org/"
+  },
+  {
+    "country": "Ethiopia",
+    "url": "http://www.et.undp.org/"
+  },
+  {
+    "country": "Fiji",
+    "url": "http://www.fj.undp.org/"
+  },
+  {
+    "country": "Finland (Rep. Office)",
+    "url": "http://www.fi.undp.org/",
+    "ignore": "true"
+  },
+  {
+    "country": "Gabon",
+    "url": "http://www.ga.undp.org/index.php"
+  },
+  {
+    "country": "Gambia",
+    "url": "http://www.gm.undp.org/"
+  },
+  {
+    "country": "Geneva (Rep. Office)",
+    "url": "http://europe.undp.org/",
+    "ignore": "true"
+  },
+  {
+    "country": "Georgia",
+    "url": "http://www.ge.undp.org/"
+  },
+  {
+    "country": "Ghana",
+    "url": "http://www.gh.undp.org/"
+  },
+  {
+    "country": "Guatemala",
+    "url": "http://www.gt.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Guinea",
+    "url": "http://www.gn.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "url": "http://www.gw.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Guyana",
+    "url": "http://www.gy.undp.org/"
+  },
+  {
+    "country": "Haiti",
+    "url": "http://www.ht.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Honduras",
+    "url": "http://www.hn.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "India",
+    "url": "http://www.in.undp.org/"
+  },
+  {
+    "country": "Indonesia",
+    "url": "http://www.id.undp.org/"
+  },
+  {
+    "country": "Iran",
+    "url": "http://www.ir.undp.org/"
+  },
+  {
+    "country": "Iraq (Republic of)",
+    "webclue": "iraq",
+    "url": "http://www.iq.undp.org/"
+  },
+  {
+    "country": "Jamaica",
+    "url": "http://www.jm.undp.org/"
+  },
+  {
+    "country": "Jordan",
+    "url": "http://www.jo.undp.org/"
+  },
+  {
+    "country": "Kazakhstan",
+    "url": "http://www.kz.undp.org/"
+  },
+  {
+    "country": "Kenya",
+    "url": "http://www.ke.undp.org/"
+  },
+  {
+    "country": "Kosovo (as per UNSCR 1244)",
+    "webclue": "kosovo",
+    "url": "http://www.ks.undp.org/"
+  },
+  {
+    "country": "Kuwait",
+    "url": "http://www.kw.undp.org/"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "url": "http://www.kg.undp.org/"
+  },
+  {
+    "country": "Lao PDR",
+    "url": "http://www.la.undp.org/"
+  },
+  {
+    "country": "Lebanon",
+    "url": "http://www.lb.undp.org/"
+  },
+  {
+    "country": "Lesotho",
+    "url": "http://www.ls.undp.org/"
+  },
+  {
+    "country": "Liberia",
+    "url": "http://www.lr.undp.org/"
+  },
+  {
+    "country": "Libya",
+    "url": "http://www.ly.undp.org/"
+  },
+  {
+    "country": "Madagascar",
+    "url": "http://www.mg.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Malawi",
+    "url": "http://www.mw.undp.org/"
+  },
+  {
+    "country": "Malaysia",
+    "url": "http://www.my.undp.org/"
+  },
+  {
+    "country": "Maldives",
+    "url": "http://www.mv.undp.org/"
+  },
+  {
+    "country": "Mali",
+    "url": "http://www.ml.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Mauritania",
+    "url": "http://www.mr.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Mauritius & Seychelles",
+    "webclue": "mauritius_and_seychelles",
+    "url": "http://www.mu.undp.org/"
+  },
+  {
+    "country": "Mexico",
+    "url": "http://www.mx.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Moldova",
+    "url": "http://www.md.undp.org/"
+  },
+  {
+    "country": "Mongolia",
+    "url": "http://www.mn.undp.org/"
+  },
+  {
+    "country": "Montenegro",
+    "url": "http://www.me.undp.org/"
+  },
+  {
+    "country": "Morocco",
+    "url": "http://www.ma.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Mozambique",
+    "url": "http://www.mz.undp.org/"
+  },
+  {
+    "country": "Myanmar",
+    "url": "http://www.mm.undp.org/"
+  },
+  {
+    "country": "Namibia",
+    "url": "http://www.na.undp.org/"
+  },
+  {
+    "country": "Nepal",
+    "url": "http://www.np.undp.org/"
+  },
+  {
+    "country": "Nicaragua",
+    "url": "http://www.ni.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Niger",
+    "url": "http://www.ne.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Nigeria",
+    "url": "http://www.ng.undp.org/"
+  },
+  {
+    "country": "Norway (Rep. Office)",
+    "url": "http://www.no.undp.org/",
+    "ignore": "true"
+  },
+  {
+    "country": "Pakistan",
+    "url": "http://www.pk.undp.org/"
+  },
+  {
+    "country": "Panama",
+    "url": "http://www.pa.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Papua New Guinea",
+    "url": "http://www.pg.undp.org/"
+  },
+  {
+    "country": "Paraguay",
+    "url": "http://www.py.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Peru",
+    "url": "http://www.pe.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Philippines",
+    "url": "http://www.ph.undp.org/"
+  },
+  {
+    "country": "Programme of Assistance to the Palestinian People",
+    "webclue": "papp",
+    "url": "http://www.ps.undp.org/"
+  },
+  {
+    "country": "Russian Federation",
+    "url": "http://www.undp.ru/",
+    "ignore": "true"
+  },
+  {
+    "country": "Rwanda",
+    "url": "http://www.rw.undp.org/"
+  },
+  {
+    "country": "Samoa (Multi-country Office)",
+    "webclue": "samoa",
+    "url": "http://www.ws.undp.org/"
+  },
+  {
+    "country": "São Tomé and Principe",
+    "url": "http://www.st.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "http://www.sa.undp.org/"
+  },
+  {
+    "country": "Senegal",
+    "url": "http://www.sn.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Serbia",
+    "url": "http://www.rs.undp.org/"
+  },
+  {
+    "country": "Sierra Leone",
+    "webclue": "sierraleone",
+    "url": "http://www.sl.undp.org/"
+  },
+  {
+    "country": "Somalia",
+    "url": "http://www.so.undp.org/"
+  },
+  {
+    "country": "South Africa",
+    "url": "http://www.za.undp.org/"
+  },
+  {
+    "country": "South Sudan",
+    "url": "http://www.ss.undp.org/"
+  },
+  {
+    "country": "Sri Lanka",
+    "webclue": "srilanka",
+    "url": "http://www.lk.undp.org/"
+  },
+  {
+    "country": "Sudan",
+    "url": "http://www.sd.undp.org/"
+  },
+  {
+    "country": "Suriname",
+    "url": "http://undpsuriname.org/"
+  },
+  {
+    "country": "Swaziland",
+    "url": "http://www.sz.undp.org/"
+  },
+  {
+    "country": "Sweden (Rep. Office)",
+    "url": "http://www.se.undp.org/",
+    "ignore": "true"
+  },
+  {
+    "country": "Syria",
+    "url": "http://www.sy.undp.org/"
+  },
+  {
+    "country": "Tajikistan",
+    "url": "http://www.tj.undp.org/"
+  },
+  {
+    "country": "Tanzania",
+    "url": "http://www.tz.undp.org/"
+  },
+  {
+    "country": "Thailand",
+    "url": "http://www.th.undp.org/"
+  },
+  {
+    "country": "The former Yugoslav Republic of Macedonia",
+    "url": "http://www.mk.undp.org/"
+  },
+  {
+    "country": "Timor-Leste",
+    "url": "http://www.tl.undp.org/"
+  },
+  {
+    "country": "Togo",
+    "url": "http://www.tg.undp.org/",
+    "language": "fr"
+  },
+  {
+    "country": "Tokyo (Rep. Office)",
+    "url": "http://www.jp.undp.org/",
+    "ignore": "true"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "webclue": "trinidad_tobago",
+    "url": "http://www.tt.undp.org/"
+  },
+  {
+    "country": "Tunisia",
+    "url": "http://www.tn.undp.org/"
+  },
+  {
+    "country": "Turkey",
+    "url": "http://www.tr.undp.org/"
+  },
+  {
+    "country": "Turkmenistan",
+    "url": "http://www.tm.undp.org/"
+  },
+  {
+    "country": "Uganda",
+    "url": "http://www.ug.undp.org/"
+  },
+  {
+    "country": "Ukraine",
+    "url": "http://www.ua.undp.org/"
+  },
+  {
+    "country": "United Arab Emirates",
+    "url": "http://www.ae.undp.org/"
+  },
+  {
+    "country": "Uruguay",
+    "url": "http://www.uy.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Uzbekistan",
+    "url": "http://www.uz.undp.org/"
+  },
+  {
+    "country": "Venezuela",
+    "url": "http://www.ve.undp.org/",
+    "language": "es"
+  },
+  {
+    "country": "Viet Nam",
+    "webclue": "vietnam",
+    "url": "http://www.vn.undp.org/"
+  },
+  {
+    "country": "Washington (Rep. Office)",
+    "url": "http://www.us.undp.org/",
+    "ignore": "true"
+  },
+  {
+    "country": "Yemen",
+    "url": "http://www.ye.undp.org/"
+  },
+  {
+    "country": "Zambia",
+    "url": "http://www.zm.undp.org/"
+  },
+  {
+    "country": "Zimbabwe",
+    "url": "http://www.zw.undp.org/"
+  }
+]

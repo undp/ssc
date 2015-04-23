@@ -1,0 +1,100 @@
+[
+  {
+    "country": "Afghanistan",
+    "url": "http://www.undp.org.af/"
+  },
+  {
+    "country": "Bangladesh",
+    "url": "http://www.bd.undp.org/"
+  },
+  {
+    "country": "Bhutan",
+    "url": "http://www.bt.undp.org/"
+  },
+  {
+    "country": "Cambodia",
+    "url": "http://www.kh.undp.org/"
+  },
+  {
+    "country": "China",
+    "url": "http://www.undp.org.cn/"
+  },
+  {
+    "country": "DPR Korea",
+    "webclue": "dprk",
+    "url": "http://web.undp.org/dprk/"
+  },
+  {
+    "country": "Fiji",
+    "url": "http://www.fj.undp.org/"
+  },
+  {
+    "country": "India",
+    "url": "http://www.in.undp.org/"
+  },
+  {
+    "country": "Indonesia",
+    "url": "http://www.id.undp.org/"
+  },
+  {
+    "country": "Iran",
+    "url": "http://www.ir.undp.org/"
+  },
+  {
+    "country": "Lao PDR",
+    "url": "http://www.la.undp.org/"
+  },
+  {
+    "country": "Malaysia",
+    "url": "http://www.undp.org.my/"
+  },
+  {
+    "country": "Maldives",
+    "url": "http://www.mv.undp.org/"
+  },
+  {
+    "country": "Mongolia",
+    "url": "http://www.mn.undp.org/"
+  },
+  {
+    "country": "Myanmar",
+    "url": "http://www.mm.undp.org/"
+  },
+  {
+    "country": "Nepal",
+    "url": "http://www.np.undp.org/"
+  },
+  {
+    "country": "Pakistan",
+    "url": "http://www.pk.undp.org/"
+  },
+  {
+    "country": "Papua New Guinea",
+    "url": "http://www.pg.undp.org/"
+  },
+  {
+    "country": "Philippines",
+    "url": "http://www.undp.org.ph/"
+  },
+  {
+    "country": "Samoa",
+    "url": "http://www.ws.undp.org/"
+  },
+  {
+    "country": "Sri Lanka",
+    "webclue": "srilanka",
+    "url": "http://www.lk.undp.org/"
+  },
+  {
+    "country": "Thailand",
+    "url": "http://www.th.undp.org/"
+  },
+  {
+    "country": "Timor-Leste",
+    "url": "http://www.tl.undp.org/"
+  },
+  {
+    "country": "Viet Nam",
+    "url": "http://www.vn.undp.org/"
+  }
+]
