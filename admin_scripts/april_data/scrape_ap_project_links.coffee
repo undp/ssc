@@ -9,7 +9,7 @@ SUFFIX = 'all'
 
 class Process
   constructor: ->
-    undpCountryOfficeLinks = JSON.parse(fs.readFileSync(__dirname + "/source/undp_country_office_links_#{SUFFIX}.json", encoding: 'utf8'))
+    undpCountryOfficeLinks = JSON.parse(fs.readFileSync(__dirname + "/../source/undp_country_office_links_#{SUFFIX}.json", encoding: 'utf8'))
     links = @_filterCountries undpCountryOfficeLinks
     # @_testUrls(@_createContentRootUrls(links))
     # return
@@ -18,6 +18,8 @@ class Process
     countryThemePages = @_createCountryThemePagesFrom(rootUrls)
 
     async.map countryThemePages, @_getAllProjectsForCountry, (err, results) =>
+      throw new Error(err) if err?
+      console.log 'finished getting all'
       fs.writeFileSync("scraped_#{SUFFIX}.json", JSON.stringify(results))
 
   _filterCountries: (undpCountryOfficeLinks) ->
@@ -40,7 +42,7 @@ class Process
   # 
   _getAllProjectsForCountry: (countryThemePagesArray, callback) =>
     async.map countryThemePagesArray.themePages, @_getProjectTitlesFrom, (err, results) =>
-      console.log 'Getting for', countryThemePagesArray.country
+      console.log 'Processed', countryThemePagesArray.country
       callback(err) if err?
       callback(null, 
         country: countryThemePagesArray.country
@@ -49,11 +51,19 @@ class Process
 
   _getProjectTitlesFrom: (themePage, callback) ->
     request(themePage.page, (err, resp, html) ->
-      $ = cheerio.load(html)
-      projects = _.map $('.teaser-title'), (element) -> 
-        $el = $(element)
-        title: $el.parent().text()
-        url: "http://www.undp.org" + $el.parent()[0].attribs.href
+      if err?
+        console.log 'Problem with', themePage.page
+        return null
+      else
+        $ = cheerio.load(html)
+        projects = _.map $('.teaser li'), (element) -> 
+          $el = $(element)
+          return {
+            title: $el.find('.teaser-title').text()
+            url: $el.find('a')[0].attribs.href
+            description: $el.find('.teaser-description').text()
+          }
+
       results = {
         theme: themePage.theme
         projects: projects
@@ -130,7 +140,6 @@ class Process
     $ = cheerio.load(html)
     $('.title-story').text() != 'The page you requested cannot be found'
 
-debugger
 new Process
 
 

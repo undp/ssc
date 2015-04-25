@@ -1,0 +1,59 @@
+
+Ignored:
+=======
+Denmark (Rep. Office)
+E.U. (Rep. Office)
+Finland (Rep. Office)
+Geneva (Rep. Office)
+Norway (Rep. Office)
+Russian Federation
+Sweden (Rep. Office)
+Tokyo (Rep. Office)
+Washington (Rep. Office)
+
+Not English:
+=======
+Algeria: fr
+Argentina: es
+Benin: fr
+Bolivia: es
+Brazil: pt
+Burkina Faso: fr
+Cameroon: fr
+Cape Verde: pt
+Central African Republic: fr
+Chad: fr
+Chile: es
+Colombia: es
+Comoros: fr
+Congo (Dem. Republic of): fr
+Congo (Republic of): fr
+Costa Rica: es
+Côte d'Ivoire: fr
+Cuba: es
+Djibouti: fr
+Dominican Republic: es
+Ecuador: es
+El Salvador: es
+Equatorial Guinea: es
+Guatemala: es
+Guinea: fr
+Guinea-Bissau: fr
+Haiti: es
+Honduras: es
+Madagascar: fr
+Mali: fr
+Mauritania: fr
+Mexico: es
+Morocco: fr
+Nicaragua: es
+Niger: fr
+Panama: es
+Paraguay: es
+Peru: es
+São Tomé and Principe: fr
+Senegal: fr
+Togo: fr
+Uruguay: es
+Venezuela: es
+

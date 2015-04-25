@@ -13,12 +13,11 @@ class Process
 
     # MatchingTerm#find takes `type` and `text` and returns matching term
     @matchingTerm = new MatchingTerm
-
     console.log "Loaded #{@projects.length} projects"
 
     processed = @processAll(@projects)
     @writeAll(processed)
-    console.log("Created project files for #{@projects.length} projects - located in '_ssc_projects'")
+    console.log("Created project files for #{processed.length} projects - located in '_ssc_projects'")
 
   processAll: (projects) ->
     _.map projects, (project) =>
@@ -54,7 +53,7 @@ class Process
   writeEach: (project) ->
     compiled = _.template(@template)
     content = compiled(project)
-    fs.writeFileSync(__dirname + "/../_ssc_projects/#{project.project_id}.txt", content)
+    fs.appendFileSync(__dirname + "/../_ssc_projects/#{project.project_id}.txt", content)
 
   normalise: (type, text) ->
     return unless text
@@ -84,4 +83,5 @@ class Process
     term.replace (/\(|\)/g), ""
 
 module.export = Process
+debugger
 s = new Process
