@@ -13,7 +13,9 @@ _.each indices, (indice) ->
   output += "#### #{indice.filterTitle}\n"
   output += 'Short | Full \n---|---\n'
 
-  _.each indice.values, (value) ->
+  values = _.sortBy(indice.values,'name')
+
+  _.each values, (value) ->
     output += "`#{value.short}` | #{value.name}\n"
   output += '\n'
 

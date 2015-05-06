@@ -1,50 +1,50 @@
 #### Partner
 Short | Full 
 ---|---
-`international_cooperation_development_agencies` | International cooperation / development agencies
-`regional_inter_governmental_organizations` | Regional / Inter-governmental organizations
-`national_governments` | National governments
-`sub_national_governments` | Sub-national governments
-`cso` | CSO
 `academia` | Academia
+`cso` | CSO
+`international_cooperation_development_agencies` | International cooperation / development agencies
+`national_governments` | National governments
 `private_sector` | Private sector
+`regional_inter_governmental_organizations` | Regional / Inter-governmental organizations
+`sub_national_governments` | Sub-national governments
 
 #### Region
 Short | Full 
 ---|---
-`lac` | Latin America & Caribbean
 `africa` | Africa
-`asia_pacific` | Asia & Pacific
 `arab_states` | Arab States
+`asia_pacific` | Asia & Pacific
 `europe_cis` | Europe & CIS
+`lac` | Latin America & Caribbean
 
 #### Thematic focus
 Short | Full 
 ---|---
-`sustainable_development_pathways` | Sustainable development pathways
-`resilience_building` | Resilience building
 `inclusive_and_effective_democratic_governance` | Inclusive and effective democratic governance
+`resilience_building` | Resilience building
+`sustainable_development_pathways` | Sustainable development pathways
 
 #### UNDP Role
 Short | Full 
 ---|---
 `builder_of_capacities` | Builder of capacities
-`knowledge_broker` | Knowledge broker
 `facilitator_of_partnerships` | Facilitator of partnerships
+`knowledge_broker` | Knowledge broker
 
 #### Territorial focus
 Short | Full 
 ---|---
+`fragile_states` | Fragile States
+`hic` | High Income Countries
+`ldc` | Least Developed Countries
 `mic` | Middle Income Countries
 `sids` | Small Island Developing States
-`fragile_states` | Fragile States
-`ldc` | Least Developed Countries
-`hic` | High Income Countries
 
 #### Scale
 Short | Full 
 ---|---
 `global` | Global
-`regional` | Regional
 `national` | National
+`regional` | Regional
 
