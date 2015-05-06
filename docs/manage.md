@@ -1,6 +1,6 @@
 # Managing projects data
 
-The information about each of the projects in the SSC database can be managed through a web-based interface. Any change to the data is reflected on the public site with no additional steps needed.  
+The information about each of the projects in the SSC database can be managed through a web-based interface. Any change to the data is reflected on the public site with no additional steps needed. Each project is contained in a separate text file, named with its project id. The SSC website combines all the projects information into 1 file to use in the site, and to create the `projects.csv` file containing all information.
 
 ## Management features
 
@@ -26,6 +26,7 @@ All done through [Prose.io](http://prose.io). The simplest way to view the list 
 If you have any problems accessing projects via Prose, make sure you have created a Github account, and asked the managers of the UNDP Github account to add you as a collaborator. You'll also find it easier to already be logged into to Github before you visit the Prose pages.
 
 Each record has two parts: the ['description'](#editing-description), and the ['metadata'](#editing-metadata). You can use the icons on the right of the screen to move between editing each part: 
+
 ![Switch between editing the description and the metadata](https://www.dropbox.com/s/pr6xapmdwqj9sk8/Screenshot%202015-05-06%2014.51.00.png?dl=1)
 
 
@@ -50,9 +51,10 @@ The Filters side panel on the main application
 When you have made changes to either the description or the metadata, the save icon will have a coloured corner to show you need to save. 
 ![Save icon](https://www.dropbox.com/s/b7bts1dmdd1o95g/Screenshot%202015-05-06%2015.49.46.png?dl=1) 
 
-Click the save button, and you will get a box asking for details of the change 
-- you can enter any message you like in here, or leave the default text. 
+Click the save button, and you will get a box asking for details of the change - you can enter any message you like in here, or leave the default text. 
 ![Commit message](https://www.dropbox.com/s/mn1qzhqcqubjx1t/Screenshot%202015-05-06%2015.50.55.png?dl=1)
+
+The main panel will show you a compact view of the changes you've made. Don't worry if it looks like there are additional changes that you didn't make - the tool makes some edits of its own to keep the data in a robust format.
 
 Click the button marked `COMMIT` to save your changes.
 
@@ -84,14 +86,14 @@ The tabs each have different uses, explained in detail below:
 
 Likely to be the most useful - this list includes all projects from <http://open.undp.org>, and tries to remove those already in the SSC database. Click an ID in order to start creating a new record in the SSC database.
 
-Example use case: a project included in 
-
+Example use case: quickly create a new SSC entry based on 
 
 
 ### Existing SSC
 
 Identical to the data visible on the SSC website, and via [Prose](http://prose.io/#undp/ssc). 
 
-Example use case: review all 
+Example use case: review definitive list of SSC projects
 
-### All <http://open.undp.org>
+### All open.undp.org
+
