@@ -1,4 +1,4 @@
-# Notes on data and attributes
+# Data, models and attributes
 
 ## Globals
 

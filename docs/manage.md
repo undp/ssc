@@ -10,5 +10,11 @@ These are [found here](http://www.undp-ssc-mapping.org/#manage)
 
 ## Get started
 
-To be an admin, you need a Github account and to be added to this repository as a contributor.
+Users are managed by administrators of the UNDP Github account. Any user wanting to edit the data will need to create a Github account, and request to be added to the SSC repository as a contributor with write access.
+
+## Editing data
+
+All done through [Prose.io](http://prose.io). app
+
+![Alt text](../images/1.png)
 
