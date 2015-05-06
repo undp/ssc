@@ -8,8 +8,7 @@ Based on a subset of data from http://open.undp.org, presents and maps additiona
 * See [`manage.md`](docs/manage.md) for administrators to manage data
 * See [`app.md`](docs/app.md) for information about the application
 * See [`data.md`](docs/data.md) for information on fields and data models
-* See [`deploy.md`](docs/deploy.md) for deployment information
-* See [`admin_scripts`](admin_scripts/README.md) for admin scripts used for initial data processing (not intended for regular or production use)
+* See [`admin_scripts`](admin_scripts/admin_scripts.md) for admin scripts used for initial data processing (not intended for regular or production use)
 
 ## User manual
 

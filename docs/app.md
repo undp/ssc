@@ -4,8 +4,6 @@
 - It is a [Backbone](backbonejs.org) application written in [Coffeescript](coffeescript.org).
 - Makes use of the [Backbone.Facetr](https://github.com/arillo/Backbone.Facetr) library to simplify filtering the data.
 
-
-
 ## Folder structure
 
 - **_includes** - main Backbone application (see [below](#_includes))
@@ -49,3 +47,11 @@ Two global variables are used:
 
 - `app` has properties set in only `script.coffee` (`projects`, `filters`, `state` and `router`) and `utils.coffee` (`utils`).
 - `preloadData` contains the `countries` and `indices` data bootstrapped into `index.html` on page load.
+
+
+# Deployment
+
+Hosted on Github pages. 
+
+Push any changes onto the `gh-pages` branch, and the site will be rebuilt and redeployed almost immediately.
+
