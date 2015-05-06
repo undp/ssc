@@ -1,6 +1,6 @@
 # Admin scripts
 
-A couple of scripts for initial configuration. They're not part of the ongoing maintenance of projects data. Ongoing maintenance does not require any scripts being run on the server - it's all done through the online admin interface and Prose.io.
+A couple of scripts for initial configuration. They're not part of the ongoing maintenance of projects data. Ongoing maintenance does not require any scripts being run on the server - it's all done through the online admin interface and Prose.io (see [here](../docs/manage.md))
 
 
 ### Requirements 
