@@ -1,11 +1,5 @@
 # Data, models and attributes
 
-## Globals
-
-- **`app`** has properties set in only `script.coffee` (`projects`, `filters`, `state` and `router`) and `utils.coffee` (`utils`).
-
-- **`preloadData`** contains `countries` and `indices` data bootstrapped into `index.html` on page load.
-
 
 ## Data from http://open.undp.org
 
