@@ -14,26 +14,56 @@ Based on a subset of data from http://open.undp.org, presents and maps additiona
 
 The application is designed to be used without requiring a manual. This document is to help administrators and managers point users in the right direction, and also to outline the application's functionality.
 
-### Switching views (map, statistics, list)
+## Switching views (map, statistics, list)
 
-The three orange tabs let you access the different views, with the darker orange bar highlighting the currently selected view.
+The three tabs show different views of the same information - this is changed when you [add/remove filters](#filtering) or [search](#searching) the data. The three orange tabs let you access the different views, with the darker orange bar highlighting the currently selected view. 
 
 ![Switching views](https://www.dropbox.com/s/pwniekd73et08rr/Screenshot%202015-05-07%2009.50.08.png?dl=1)
 
-### Filtering
+The **map view** shows the location of the currently selected projects. The colour of the shading reflects the number of projects. Countries with no projects are shaded grey.
+
+![Map view](https://www.dropbox.com/s/a2f2r5rsox29yeh/Screenshot%202015-05-07%2011.53.58.png?dl=1)
+
+The statistics or **'stats' view** shows a graphical view of the data. Each bar shows a different aspect. Hovering on a coloured bar reveals its full name, while the initials underneath give a quick reminder.
+
+![Stats view](https://www.dropbox.com/s/2isgp8z5gcso82d/Screenshot%202015-05-07%2011.53.37.png?dl=1)
+
+The **list view** shows the titles of individual projects. Clicking each title takes you to the full details for that project.
+
+![List view](https://www.dropbox.com/s/3n8o6svc9w0d8tm/Screenshot%202015-05-07%2011.53.48.png?dl=1)
+
+Where it's available, at the bottom of the projects page, any related information from open.undp.org is included, along with a link to that project on <http://open.undp.org>.
+
+
+## Viewing a project
+
+Each project has its own project page. Clicking the title from the list view shows the full details for that project. The `list` button returns to the full list of projects.
+
+![Project page](https://www.dropbox.com/s/0xlq5nfrhqghu4n/Screenshot%202015-05-07%2011.59.24.png?dl=1)
+
+## Filtering
+
+Click any filter to focus the list of projects shown. You can add multiple filters at the same time.
 
 ![Filtering](https://www.dropbox.com/s/swwyiw7ixhjdxb3/Screenshot%202015-05-07%2010.17.06.png?dl=1)
 
-### Searching
+Any filters added appear at the top of the list. They can be individually removed with the small x![Small x](https://www.dropbox.com/s/vuj3yhzoajqo1sc/Screenshot%202015-05-07%2011.46.33.png?dl=1), or you can remove them all at once with the `Reset filters` button.
 
-### Sharing links
+![Filter added](https://www.dropbox.com/s/hxs4aqaa9lqbop0/Screenshot%202015-05-07%2011.43.17.png?dl=1)
 
-The current state of the filters and view is saved, and regularly posted to a remote server. 
+## Searching
 
+** **TO ADD** **
 
-### Downloading
+## Sharing links
 
-The [`projects.csv` file](http://www.undp-ssc-mapping.org/api/projects.csv) contains all data about all SSC projects. To simplify data storage, as well as to make it easier to use the data in further analysis outside the SSC site, many of the columns/fields are encoded. These should be easy to understand, but for reference a series of abbreviation tables are included [below](#filter-abbreviations)
+The current state of the filters and view is saved, and regularly posted to a remote server. Assuming you are online, this means you can usually share your current view of the data by copying the full URL from the address bar.
+
+![URL for sharing](https://www.dropbox.com/s/gl1kya1vu4d81la/Screenshot%202015-05-07%2011.50.02.png?dl=1)
+
+## Downloading
+
+The [`projects.csv` file](http://www.undp-ssc-mapping.org/api/projects.csv) contains all data about all SSC projects. To simplify data storage, as well as to make it easier to use the data in further analysis outside the SSC site, many of the columns/fields are encoded. These should be easy to understand, but for reference a series of abbreviation tables are included [below](#filter-abbreviations).
 
 ## Filter abbreviations
 
