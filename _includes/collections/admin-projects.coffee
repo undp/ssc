@@ -2,7 +2,7 @@
 
 class OpenProject extends Backbone.Model
   initialize: ->
-    @set 'edit_link', "http://prose.io/#peoplesized/ssc-dev/edit/gh-pages/_ssc_projects/#{@id}.txt"
+    @set 'edit_link', "http://prose.io/##{app.config.repo}/edit/gh-pages/_ssc_projects/#{@id}.txt"
 
 class OpenProjects extends Backbone.Collection
   model: OpenProject

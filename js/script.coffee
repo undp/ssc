@@ -39,3 +39,5 @@ app = window.app = {}
 
 # Launch
 {% include app.coffee %}
+app.config = 
+  repo: '{{ site.editor.github_repo }}'
