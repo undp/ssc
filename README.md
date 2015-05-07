@@ -47,7 +47,7 @@ Click any filter to focus the list of projects shown. You can add multiple filte
 
 ![Filtering](https://www.dropbox.com/s/swwyiw7ixhjdxb3/Screenshot%202015-05-07%2010.17.06.png?dl=1)
 
-Any filters added appear at the top of the list. They can be individually removed with the small x![Small x](https://www.dropbox.com/s/vuj3yhzoajqo1sc/Screenshot%202015-05-07%2011.46.33.png?dl=1), or you can remove them all at once with the `Reset filters` button.
+Any filters added appear at the top of the list. They can be individually removed with the small `x`, or you can remove them all at once with the `Reset filters` button.
 
 ![Filter added](https://www.dropbox.com/s/hxs4aqaa9lqbop0/Screenshot%202015-05-07%2011.43.17.png?dl=1)
 
@@ -63,9 +63,9 @@ The current state of the filters and view is saved, and regularly posted to a re
 
 ## Downloading
 
-The [`projects.csv` file](http://www.undp-ssc-mapping.org/api/projects.csv) contains all data about all SSC projects. To simplify data storage, as well as to make it easier to use the data in further analysis outside the SSC site, many of the columns/fields are encoded. These should be easy to understand, but for reference a series of abbreviation tables are included [below](#filter-abbreviations).
+The [`projects.csv` file](http://www.undp-ssc-mapping.org/api/projects.csv) contains all data about all SSC projects. To simplify data storage, as well as to make it easier to use the data in further analysis outside the SSC site, many of the columns/fields are encoded. These should be easy to understand, but for reference the following tables are included:
 
-## Filter abbreviations
+### Filter abbreviations
 
 #### Partner
 Short | Full 
