@@ -4,15 +4,26 @@ Based on a subset of data from http://open.undp.org, presents and maps additiona
 
 ## Contents
 
-* See [**below**](#user-manual) for basic information about using the application
-* See [`manage.md`](docs/manage.md) for administrators to manage data
-* See [`app.md`](docs/app.md) for information about the application
-* See [`data.md`](docs/data.md) for information on fields and data models
-* See [`admin_scripts`](admin_scripts/admin_scripts.md) for admin scripts used for initial data processing (not intended for regular or production use)
+* [Basic information](#user-manual) about using the application
+* [Managing data](docs/manage.md) for administrators
+* [Application structure](docs/app.md) for developers and administrators
+* [Data and fields](docs/data.md) for developers and administrators
+* [Admin scripts](admin_scripts/admin_scripts.md) used for initial data processing (not intended for regular or production use)
 
 ## User manual
 
 The application is designed to be used without requiring a manual. This document is to help administrators and managers point users in the right direction, and also to outline the application's functionality.
+
+### Switching views (map, statistics, list)
+
+![Switching views](https://www.dropbox.com/s/pwniekd73et08rr/Screenshot%202015-05-07%2009.50.08.png?dl=1)
+
+### Filtering
+
+### Searching
+
+### Sharing links
+
 
 ### Downloading
 
