@@ -17,13 +17,17 @@ These features can be [accessed here](http://www.undp-ssc-mapping.org/#manage)
 
 Users are managed by administrators of the UNDP Github account. Any user wanting to edit the data will need to [create a Github account](https://github.com/join), and request to be added to the SSC repository as a contributor with write access.
 
-## Editing data
+## Editing existing SSC projects
 
 All done through [Prose.io](http://prose.io). The simplest way to view the list of SSC projects is [here](http://prose.io/#undp/ssc). The [management pages](http://www.undp-ssc-mapping.org/#manage), described [below](#management-pages) give you more options for working with projects from the <http://open.undp.org> site.
 
 ![List of prose.io files to edit](https://www.dropbox.com/s/vk0hmph99wxzcki/Screenshot%202015-05-06%2014.47.15.png?dl=1)
 
 If you have any problems accessing projects via Prose, make sure you have created a Github account, and asked the managers of the UNDP Github account to add you as a collaborator. You'll also find it easier to already be logged into to Github before you visit the Prose pages.
+
+### Editing an SSC project
+
+From the list, click the filename or `EDIT` button to start editing. If you're coming from one of the management pages, you may land directly in the editing page.
 
 Each record has two parts: the ['description'](#editing-description), and the ['metadata'](#editing-metadata). You can use the icons on the right of the screen to move between editing each part: 
 
@@ -60,6 +64,9 @@ Click the button marked `COMMIT` to save your changes.
 
 You should be able to see your edits on the live site *almost* immediately. There is a small amount of processing required, so you may have to wait a minute or two.
 
+### Undoing/restoring changes
+
+Every change made is stored. It is usually possible for the administrators of the UNDP Github account to undo an edit, or restore a deleted file.
 
 ## Management pages
 
@@ -97,3 +104,8 @@ Example use case: review definitive list of SSC projects
 
 ### All open.undp.org
 
+## Creating a new SSC project by hand
+
+Where a project doesn't already exist on open.undp.org, and so can't be created using the [management pages](#management-pages), you can create a new project file by hand. 
+
+![Create a new project file](https://www.dropbox.com/s/dm117ufpcnprwa8/Screenshot%202015-05-07%2010.25.33.png?dl=1)

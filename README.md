@@ -16,13 +16,19 @@ The application is designed to be used without requiring a manual. This document
 
 ### Switching views (map, statistics, list)
 
+The three orange tabs let you access the different views, with the darker orange bar highlighting the currently selected view.
+
 ![Switching views](https://www.dropbox.com/s/pwniekd73et08rr/Screenshot%202015-05-07%2009.50.08.png?dl=1)
 
 ### Filtering
 
+![Filtering](https://www.dropbox.com/s/swwyiw7ixhjdxb3/Screenshot%202015-05-07%2010.17.06.png?dl=1)
+
 ### Searching
 
 ### Sharing links
+
+The current state of the filters and view is saved, and regularly posted to a remote server. 
 
 
 ### Downloading
