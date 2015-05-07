@@ -1,8 +1,12 @@
 <div class='admin-intro'>
-  These 3 tabs give a simple overview of the data available within the SSC database and from open.undp.org, and make it simple to create new records.
-  <a href="#">< Back to data</a> 
-  |
-  <a href="<%= newProjectUrl %>">Create new project</a>
+  <div class='admin-buttons'>
+    <a href="#">< Back to data</a> 
+    |
+    <a href="<%= newProjectUrl %>">Create new project</a>
+  </div>
+  <div>
+    These 3 tabs give a simple overview of the data available within the SSC database and from open.undp.org, and make it simple to create new records.
+  </div>
 </div>
 
 <div class="w-tabs content-tabs admin">

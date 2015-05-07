@@ -1,8 +1,11 @@
 .admin-intro {
   margin-bottom: 15px;
-  a {
-    padding: 5px;
-    background: rgb(236, 236, 236);
+  .admin-buttons {
+    height: 25px;
+    a {
+      padding: 5px;
+      background: rgb(236, 236, 236);
+    }
   }
 }
 
