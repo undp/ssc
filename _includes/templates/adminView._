@@ -1,10 +1,9 @@
-<div>
-  These 3 tabs are intended to give simple overview of the data available from open.undp.org, making it simple to create new records in SSC.
-</div>
-<div>
+<div class='admin-intro'>
+  These 3 tabs give a simple overview of the data available within the SSC database and from open.undp.org, and make it simple to create new records.
+  <a href="#">< Back to data</a> 
+  |
   <a href="<%= newProjectUrl %>">Create new project</a>
 </div>
-
 
 <div class="w-tabs content-tabs admin">
   <div class="w-tab-menu tabs-menu">
