@@ -12,8 +12,6 @@ class OpenProjects extends Backbone.Collection
     "http://open.undp.org/api/project_summary_#{year}.json"
 
   withoutExisting: (existingCollection) =>
-    window.a = @
-    window.b = existingCollection
     existingOpenIds = _.chain(existingCollection.pluck('open_project_id')).compact().uniq().value()
     _.reject @.toJSON(), (project) ->
       _.include existingOpenIds, project.id
