@@ -18,3 +18,9 @@ class Projects extends Backbone.Collection
       .flatten()
       .uniq()
       .value()
+
+  generateEditNewProjectUrl: ->
+    newId = app.utils.newProjectId()
+    while @get(newId)
+      newId = app.utils.newProjectId()
+    app.utils.generateEditingUrl(newId)

@@ -16,6 +16,7 @@ class AdminView extends Backbone.View
       possibleProjects: @openProjects.withoutExisting(@collection)
       existingProjects: @openProjects.presentExistingInAdmin(@collection)
       openProjects: @openProjects.toJSON()
+      newProjectUrl: @collection.generateEditNewProjectUrl()
     )
     @$el.html(compiled)  
     @_setActiveTab('possible')
