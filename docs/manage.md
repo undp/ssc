@@ -91,7 +91,7 @@ The column headings on each table give an indication of the functionality - usua
 
 ## Creating a new SSC project
 
-You can start this process by clicking a project ID on one of the admin tables
+You can start this process by clicking a project ID on one of the admin tables, 
 
 ![Create new project from open.undp.org list](https://www.dropbox.com/s/1aybkkl4mjgbzif/Screenshot%202015-05-07%2011.19.10.png?dl=1)
 
@@ -101,4 +101,4 @@ or with the 'Create new project' link at the top of the page.
 
 (It's also possible to create a new project directly in Prose, but it's recommended to use the link above - this creates a unique ID for the project, and ensures there's no conflict with existing project IDs.)
 
-All approaches create only the empty project file and a proper filename. All the relevant information needs to be copied across by the user, in the same way as if the record was being [edited](#editing-an-ssc-project).
+All approaches create only the empty project file and a proper filename. You'll start with a box asking if you want to create a new file - you do, so click `Create it`! All the relevant information can now be copied across by the user, in the same way as if the record was being [edited](#editing-an-ssc-project).
