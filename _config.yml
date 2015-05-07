@@ -1,5 +1,5 @@
 editor:
-  github_repo: peoplesized/ssc-dev
+  github_repo: undp/ssc
   url: "http://prose.io"
 baseurl: ""
 version: '1.1'

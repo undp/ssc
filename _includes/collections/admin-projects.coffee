@@ -2,7 +2,7 @@
 
 class OpenProject extends Backbone.Model
   initialize: ->
-    @set 'edit_link', "http://prose.io/#peoplesized/ssc-dev/edit/gh-pages/_ssc_projects/#{@id}.txt"
+    @set 'edit_link', app.utils.generateEditingUrl(@id)
 
 class OpenProjects extends Backbone.Collection
   model: OpenProject
@@ -12,8 +12,6 @@ class OpenProjects extends Backbone.Collection
     "http://open.undp.org/api/project_summary_#{year}.json"
 
   withoutExisting: (existingCollection) =>
-    window.a = @
-    window.b = existingCollection
     existingOpenIds = _.chain(existingCollection.pluck('open_project_id')).compact().uniq().value()
     _.reject @.toJSON(), (project) ->
       _.include existingOpenIds, project.id

@@ -19,3 +19,9 @@ app.utils.getUrlParams = ->
       [hash[0], hash[1]]
     ) 
   )
+
+app.utils.generateEditingUrl = (id) ->
+  "http://prose.io/##{app.config.repo}/edit/gh-pages/_ssc_projects/#{id}.txt"  
+
+app.utils.newProjectId = ->
+  "xxx" + Math.floor(Math.random()*4294967295).toString(16)
