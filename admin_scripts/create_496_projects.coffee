@@ -10,9 +10,6 @@ class Process
     @projects      = JSON.parse(fs.readFileSync(__dirname + '/april_data/469_export.json', encoding: 'utf8')).rows
     @template      = fs.readFileSync(__dirname + '/lib/project_file_template._', encoding: 'utf8')
 
-    console.log @projects
-    return
-
     # MatchingTerm#find takes `type` and `text` and returns matching term
     @matchingTerm = new MatchingTerm
     console.log "Loaded #{@projects.length} projects"
