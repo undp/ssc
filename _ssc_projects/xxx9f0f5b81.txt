@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - arab_states
+partner_type: 
+  - national_governments
+project_title: Echange en matière de développement rural
+scale: country-country
+project_objective: Dans le cadre de l’appui que le PNUD apporte à la stratégie de renouveau rural, 17 cadres de la Direction Générale des Forets (acteurs locaux) ont participé à un voyage d’étude en Turquie pour prendre connaissance de son expérience en matière de développement rural notamment ont acquis les connaissances pratiques de base en matière de gestions des projets de proximités rural. Une proposition de partenariat à long terme avec la Turquie a été discutée. (E18- Rapport de mission).
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Les acquis de ce voyage d'études, sont en cours de capitalisation.

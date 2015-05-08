@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Thematic meeting on implementation of HCFC Phase-out Management Plans in Dushanbe, Tajikistan
+scale: regional
+project_objective: Participation of Ukrainian national delegation in the Thematic meeting on implementation of HCFC Phase-out Management Plans (ozone-layer depleting substances) was facilitated by CO
+territorial_focus: 
+undp_role_type: 
+  - facilitator_of_partnerships
+published: true
+---
+Meeting's Resolution and Regional Action Plan

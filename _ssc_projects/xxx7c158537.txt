@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - arab_states
+partner_type: 
+  - national_governments
+project_title: Mission de partage d’expériences entre le Maroc et l’Equateur dans le domaine de régionalisation et développement au regard des processus de décentralisation engagés dans les deux pays
+scale: country-country
+project_objective: Echange dans le cadre du projet Appui à la Gouvernance Locale dans la perspective de la Régionalisation en partenariat avec  la DGCL. Les objectifs de cette mission sont: Renforcer les relations de coopération entre les deux pays en matière de décentralisation et développement, la planification et aménagement du territoire, la gestion de la coopération internationale décentralisée.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+published: true
+---
+les 3 conventions signées ont permis l'ouverture à des opportunités de coopération entre les collectivités térritoriales des deux pays en mlatère économique , sociale et culturelles.

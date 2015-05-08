@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - academia
+project_title: Organization of a High-Level International Workshop on Trade Facilitation in Ulaanbaatar, Mongolia in order to validate the Paper on WTO Agreement on Trade Facilitation: Implications for LLDCs.
+scale: global 
+project_objective: The High-Level International Workshop was organized with the GoM, and UN-OHRLLS. The objectives of the workshop was to review the progress made in improving trade facilitation in LLDCs, assess the WTO TFA and its implications for LLDCs, equip participants with the necessary knowledge to effectively take advantage of the trade facilitation provisions and provide suggestions that will form substantive inputs to the preparations of the Ten-year Review of the Implementation of the APO.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The High-Level Workshop was important for introducing International Think tank for Landlocked Developing Countries, the first international organization to be set up in Mongolia, and its research papers and compiling background for the next research through identifying challenges and barriers the LLDCs face in trade and transit transport and listening to positions of LLDCs.

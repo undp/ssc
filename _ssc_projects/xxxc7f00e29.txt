@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - arab_states
+partner_type: 
+  - cso
+  - academia
+project_title: Regional consultation and CDA Observatory
+scale: regional
+project_objective: UNDP led a Libyan delegation to Jordan for a regional consultation attended by civil society representatives and academics from the region for the UNDP Regional Initiative ‘Fostering the Inclusive Participation and Effective Contribution of Arab Women in the Public Sphere‘(Mosharaka).
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The objectives of the consultation was to discuss the different best practices in the region and globally; to discuss partnership modalities with national institutions, academic institutions, civil society groups, donors, and the media; to discuss a strategy for networking as well as exchange of experiences regionally and globally. The Libyan participants gained experience from other countries and  working  through CSOs encouraging women's wider participation in political process.

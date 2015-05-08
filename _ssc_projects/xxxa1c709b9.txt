@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - cso
+project_title: HuRiLab - Human Rights Laboratory is a platform
+scale: regional
+project_objective: HuRiLab - Human Rights Laboratory is a platform to promote innovative concepts into the Rule of Law, Human Rights, and Justice programming. We seek to facilitate collaboration with institutions and youth/ civil society organizations in order to develop more responsive and effective projects that can address persistent challenges posed by vulnerability, marginalization, and exclusion.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+South-South Cooperation (SSC) is integrated into many components of the governance agenda in the region, including through innovation for the HuRiLab platform 

@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Mission of support to implementation of transitional justice by Commission on Forcibly Dismissed Employees.
+scale: country-country
+project_objective: Field trip to Peru to enable representatives from Yemen's Dismissal Commission to acquire detailed in situ knowledge of how Peru has dealt with forced dismissals issue. Specific interest in completion of files of claimants, process and review of claims, and recommendations to settle individual and collective claims.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The Peru UNDP CO does not have evidence of results that may have been achieved in Yemen in 2014 as a result of this mission.

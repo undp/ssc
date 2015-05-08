@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Pan-African Conference on Inequalities in the context of Structural transformation, Ghana, June 28-30, 2014
+scale: regional
+project_objective: CO mobilized funding and facilitated participation of senior Government Officials from Mauritius (Finance Ministry) and Seychelles (Social Affairs Division) in Conference organized by UNECA aimed at  promoting an African agenda to tackle inequalities and foster transformation; enhance understanding of the structural character and economic and social drivers of African inequalities and share knowledge of effective social, macro-economic and sectoral policies for addressing inequalities.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Mauritius shared its experience with Social Register for Mauritius program for targeting social aid. Seychelles Special Adviser submitted a Report to the Seychelles Government (several Ministers) suggesting various national actions for structural transformation such as introduction of gender based budgeting, identification of linkages between the Statistical Commission of Africa and Seychelles NBS, promoting dialogue between data users/producers at national and continental levels.

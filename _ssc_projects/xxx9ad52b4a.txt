@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Voyage d’étude du Premier Ministère au Gabon
+scale: country-country
+project_objective: Dans le cadre de l’appui à la mise en œuvre du programme de renforcement des capacités du Premier Ministère, il était prévu dans la première quinzaine du mois de novembre 2014 un voyage d’étude au Gabon.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+L’objectif de ce voyage d’études était de s’imprégner de l’expérience gabonaise en matière de fonctionnement de la Primature du pays afin de capitaliser les bonnes pratiques pour enrichir et renforcer la performance du Premier Ministère du Burkina Faso. Mais le voyage n'a pas pu de réaliser compte tenu de la situation nationale

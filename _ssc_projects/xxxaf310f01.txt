@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Match Making of SMEs
+scale: country-country
+project_objective: Study visit to the Istanbul Food Fair in order to match-make BiH companies with potential international food-producing partners.
+territorial_focus: 
+undp_role_type: 
+  - facilitator_of_partnerships
+published: true
+---
+10 BiH SMEs participated in the event, with one concrete deal being stricken with a Turkish partner.

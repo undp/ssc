@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Workshop for Pacific Island Countries (PIC) on the post-2015 Development Agenda and the Sustainable Development Goals
+scale: regional
+project_objective: Organized by UNDP, ESCAP and ADB, this event improved the participants’ understanding of challenges and lessons learned by PIC in their MDGs implementation journey, as well as the post-2015 development agenda and the SDGs.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Following the GoPNG’s engagement with other Government officials and other representatives at the workshop, as well as the NHDR publication, Dep. Of National Planning and Monitoring decided to undertake a final MDG Progress Report and sub-national HDI mapping, and requested UNDP for technical support. Further, immediately after the event, GoPNG revived and convened the National MDG Working Group.

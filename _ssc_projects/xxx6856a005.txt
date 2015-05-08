@@ -1,0 +1,16 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Pueblos Vivos, experiencia de desarrollo económico para el Desarrollo Humano
+scale: regional
+project_objective: Se sistematizó la experiencia de movilización de las economías locales vinculadas al turismo interno que abarcó 197 municipios de 262 total del país. Que ha sido en presentada incluso en eventos internacionales, como el Foro Internacional de Desarrollo Económico Local en Iguazú, Brasil  en noviembre 2014.
+territorial_focus: 
+undp_role_type: 
+published: true
+---
+Documento de sistematización de la experiencia

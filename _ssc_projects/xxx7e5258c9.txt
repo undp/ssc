@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Visita de Uruguay
+Sebastian Torres
+Noviembre 2014
+scale: country-country
+project_objective: Se han fortalecidas las capacidades locales del Ministerio de Desarrollo Productivo para incorporar experiencias de industrialización inclusiva de otros países. Principalmente de la secretaria de Industrialización de Ururguay. Las cuales se han han incorporado al Plan Sectorial Productivo 2014-2018.
+Instituciones: Secretaria de Industria de Uruguay
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Incorporación de propuestas realizadas el Plan Sectorial 2014-2018. [NdP DP 2014]

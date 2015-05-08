@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Tripartite agreement (MOU) between Ministry of Planning Development and Reforms, UNDP and Oxford Poverty and Human Development Initiative for Multi-dimensional Poverty Index.
+scale: country-country
+project_objective: Through this MOU, the Ministry of Planning Development and Reforms (MOPDR) became a member of high-level Multidimensional Poverty Peer Network. The platform will facilitate sharing of experiences among policymakers from different developing countries that are exploring and using MPI as an official instrument for poverty measurement and targeting.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The Planning Commission of Pakistan learned from the experience of Brazil and Mexico in the use of MPI for poverty targeting and monitoring. The Planning Commission is using the examples of these countries and a few others to design Pakistan specific MPI.

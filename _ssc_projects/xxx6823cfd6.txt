@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: East-East workshop in Belgrade in April 2014
+scale: regional
+project_objective: Serbia and several other UNDP offices in RBEC region developed concepts for cooperation and sharing resources and knowledge to advance issues, such as role of the youth in curbing corruption.
+territorial_focus: 
+undp_role_type: 
+  - facilitator_of_partnerships
+published: true
+---
+Moldova, Armenia and Serbia developed joint programme (Youth Bridge) for DGTTF submission. The objective is to build coalitions of youth organizations to crowdsource, pitch their ideas/causes on the open space platforms for possible solutions for increased transparency and accountability in the respective sectors

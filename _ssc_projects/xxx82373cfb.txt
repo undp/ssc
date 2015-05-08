@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: UNDP-China MOFCOM Secondment Programme
+scale: global 
+project_objective: In response to a request made by the Chinese senior officials to the Administrator during her visit to China in 2011, UNDP and MOFCOM affirmed its agreement to send two Chinese officials for a 6 month secondment to UNDP HQ to promote mutual learning at the institutional level. The secondees contributed at HQ from August 2013 to February 2014. UNDP China was responsible for training and orienting the secondees to ensure mutual learning and maximum collaboration as a result of the programme.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+Two Chinese officials gained experience working in international organization and brought back to MOFCOM’s Department of Foreign Aid a better understanding of international best practices and standards for evaluation. Secondees received optimal exposure of UNDP’s expertise, experience and methodological know-how.

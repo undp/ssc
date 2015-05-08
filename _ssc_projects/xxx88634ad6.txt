@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Viaje de estudio del Instituto de Planificación de Jamaica para el fortalecimiento de su Red de Proteccion Social
+scale: country-country
+project_objective: Una delegación del Instituto de Planificación Social y del Ministerio de Trabajo de Jamaica participaron en una visita de una semana a Chile para conocer la experiencia de dicho país en el fortalecimiento y consolidación de su sistema de protección social.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+El Gobierno de Jamaica esta actualmente desarrollando una nueva estrategia para la lucha contra la pobreza, en la cual incorporará diversos elementos extraidos de la visita a Chile. Esto se esta desarrollando con el apoyo del IPC de PNUD en Brasilia, quienes han sistematizado la información recogida durante la visita y se encuentran desarrollando un paper al respecto.

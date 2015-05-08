@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - arab_states
+partner_type: 
+  - national_governments
+project_title: Emergency Capacity Development Facility
+scale: country-country
+project_objective: Ministry of Interior (MoI) of Yemen enjoyed a fruitful cooperation and several exchanges with the MoI of the Kingdom of Jordan in the field of: IT for the establishment of a new information Center in the Ministry in Sana’a; Public security aiming at pairing the MoI officers in leadership positions with their Jordanian counterparts for some on-the-job coaching and mentoring.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+As the Ministry of Interior of Yemen recently underwent a restructuring, the learning experience and pairing the their Jordanian counterparts contributed to the introduction of new working modalities and procedures and established a mentoring system whereby Yemenis official can refer to their Jordanian colleagues for advice and sharing of experiences as needed

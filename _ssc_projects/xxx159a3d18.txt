@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Visits of Georgian MPs and staff to Croatia, Estonia and Latvia on parliamentary communications and European integration
+scale: regional
+project_objective: Study visits to Croatia and Estonia increased knowledge of parliamentary staff in the area of parliamentary communications and facilitated the process of developing Parliament’s communications action plan. Visit of the Georgian MPs and staff to Latvia contributed to increasing their knowledge on good practices and experiences of European parliaments during the European integration processes, including on legislative harmonization, government oversight and public awareness raising
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Work on Parliaments communications action plan, as well as the action plan of the European Integration Committee is successfully underway

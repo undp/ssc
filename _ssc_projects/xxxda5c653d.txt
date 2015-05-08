@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Economie du changement climatique
+scale: country-country
+project_objective: Missions de formation/echange experience a Addis Abeba portant sur economie du changement climatique. Prise en compte de economie du changement climatique dans programme et politique
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+Quoique les resultats  tangibles ne soient pas perceptibles en ce moment, en raison du fait que initiative vient de se realiser y a quelques mois, elle a toutefois, permis de rencorcer les capacites de 2 cadres du pays sur la thematique

@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: The Social Cohesion and Reconciliation Index (SCORE)
+scale: country-country
+project_objective: The SCORE is designed to assess social cohesion and reconciliation. Its findings can be used to yield both descriptive and predictive outputs, providing practitioners and researchers the necessary insights for designing better targeted and efficient peace building interventions.
+The SCORE has been run in Cyprus in 2013 and 2014, as well as in Bosnia in 2014. The findings will be presented in an online platform in 2015 and in various events addressed to the local and international public.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The utility of SCORE also outside of Cyprus, even before its official launch, resulted in the  successful implementation of the SCORE methodology in Bosnia with the support of USAID in 2014. ZDF in Nepal has also agreed to roll out the SCORE in Nepal in 2015.

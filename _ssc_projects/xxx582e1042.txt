@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Roma project
+scale: regional
+project_objective: The regional component of the Roma project has facilitated exchange of experience between the countries participating in the project, and has helped familiarize countries with the EU agenda on Roma inclusion, and promoted understanding of the potential policy implications of this agenda.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+facilitated exchange of experience between the countries 

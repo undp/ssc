@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Proyecto CRMI: Transferencia del modelo cubano de los Centros de Gestion para la Reduccion de Riesgos (CGRR) a 5 paises caribenos: Jamaica, Republica Dominicana, Islas Virgenes Britanicas, Guyana, y Trinidad y Tobago, a traves del proyecto regional CRMI.
+scale: country-country
+project_objective: Transferido y adaptado, el modelo cubano de CGRR  a 5 paises del Caribe, como instrumento de los gobiernos locales en  gestion de informacion. Funcionando 5 Centros pilotos de Gestion para la Reduccion de Riesgos y 9 puntos de Alerta Temprana para la proteccion de 573,379 habitantes. Se espera  disponer de sistemas de prevencion y toma de decisiones fortalecidos, ante amenazas y desafios comunes a las islas del Caribe, a consecuencias de fenomenos climatologicos  y del cambio climatico.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - builder_of_capacities
+published: true
+---
+5 Centros pilotos de Gestion para la Reduccion de Riesgos y 9 puntos de Alerta Temprana se encuentran funcionando en  5 paises del Caribe para la proteccion de 573,379 habitantes. Se esta apoyando el desarrollo de un plan de sostenibilidad de los centros pilotos en cada pais en que se esta implementando la experiencia.

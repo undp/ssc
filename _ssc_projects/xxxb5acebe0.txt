@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Projet Appui a la rehabilitation des rizieres et le traitement des produits agricoles et animaux
+scale: global 
+project_objective: Le projet vise a contribuer a  la qualite de vie des communautes en reduisant la pauvrete; et la faim.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - builder_of_capacities
+published: true
+---
+la rehabilitation de leurs champs de riz afin d augmenter la productivite, la conservation des sols, l eau et eviter la deforestation de nouvelles zones; varietes de semences de legumes ont ete distribues a contribuer au regime alimentaire; nouvelles technologies ont ete introduites pour reduire le travail manuel (eplucheurs, meuleuses); de nouvelles techniques de transformation de la viande et du poisson

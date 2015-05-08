@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Quinto Encuentro de Magistradas Electorales de Iberoamerica
+scale: regional
+project_objective: Del 19 al 21 de mayo tuvo lugar el V Encuentro de Magistradas Electorales para articular esfuerzos a favor de una mayor participación política de las mujeres. En este marco, la Fundación Justicia y Género y el PNUD El Salvador apoyaron al Tribunal Supremo Electoral en el desarrollo de éste encuentro.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Se generaron acuerdos entre magistradas de organismos electorales con los cuales se buscará profundizar la participación política de las mujeres: http://www.slideshare.net/roxanasilvach/declaratoria-de-el-salvador-2

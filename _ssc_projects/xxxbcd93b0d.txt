@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Proyecto marco de apoyo a la estrategia de Cooperacion Sur Sur  a través del apoyo a iniciativas de cooperacion tecnica especificas, en el marco de acuerdos de cooperacion bilateral suscritos por el Gobierno (AUCI)
+scale: country-country
+project_objective: En el marco de un Acuerdo de asociación estratégica entre Uruguay y Mexico se conformo un Fondo Conjunto de cooperacion, que se implementa por AUCI y AMEXID con apoyo de PNUD. E61 IA Sur Sur 2014
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Diez proyectos de cooperacion conjunta fueron implementados, y otros diez seleccionados en el marco de una segunda convocatoria 2014/2015.

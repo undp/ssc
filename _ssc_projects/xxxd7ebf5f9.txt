@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Voyage d etude au Burkina Faso dans le cadre de la mise en oeuvre du Programme national de volontariat
+scale: country-country
+project_objective: mission impliquant les structures nationales concernes par la mise en oeuvre du programme afin de s impregner des demarches entreprises par les autorites burkinabes dans le cadre de la mise en place de la structure nationale de volontariat (PNVB) et de s approprier les outils developpes, tirer les lecons des difficultes rencontrees et des actions prises pour les juguler.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+le voyage d’etude ayant eu lieu a la fin de l’annee, sa contribution aux resultats ne sera determinque l annee prochaine. cette contribution pourra etre evaluee par l adoption des mecanismes de mise en place du corps des jeunes volontaires pour assurer un demarrge effectif des activites du projet.

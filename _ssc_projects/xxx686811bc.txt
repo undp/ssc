@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: SIDS DOCK
+scale: global 
+project_objective: Encadres dans l’Alliance des petits Etats insulaires (AOSIS), SIDS DOCK c’est un mecanisme institutionnel collectif pour assister la transformation des secteurs energetiques en catalyseurs d’un developpement durable et appuyer la mobilisation de ressources.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Participation de Cabo Verde dans la Conference International de SIDS- SAMO. Apresentation des initiatives de projets pour financement atravers le mecanisme SIDS DOCK sur la base des reflexions, echanges et partage d'experiences

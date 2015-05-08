@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - arab_states
+partner_type: 
+  - national_governments
+project_title: South-South Development Academy Egypt: SSDA Egypt is a chapter of the Global South-South Development Academy. Its mission is to document successful solutions in Egypt with the aim of replicating or scaling them up in or outside of Egypt, in another Southern country.
+scale: country-country
+project_objective: SSDA Egypt aims to contribute to sustainable development and become a key knowledge hub in the region. SSDA Egypt will identify thematic focus areas on a yearly basis and will conduct research to identify the best development solutions for documentation and dissemination. It will also showcase these solutions through reports that will be circulated across the UN system through UNDP. A roster of experts will be established and linked to the wide Global South-South Development Academy platform.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+The SSDA Egypt project document was signed in August 2014, SSDA Egypt was established and operational as a chapter of the Global South-South Development (GSSD) Academy after a mission from the Office of South-South Cooperation came to Egypt; Feasibility study for the set-up of a Trust Fund to support UNDP programmes completed; Leadership training programme in place; SSDA Egypt won the UNOSSC award; Participation in Cairo Innovates event that was held during the Global Entrepreneurship week.

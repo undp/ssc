@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Study tour on Truth and Reconciliation Commission
+scale: country-country
+project_objective: A delegation from Madagascar wanted to exchange experiences which the CO facilitated on South Africa's implementation and success in transitional justice particularly through the experience of the Truth and Reconciliation Commission.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Feedback from the Delegation from Madagascar was positive

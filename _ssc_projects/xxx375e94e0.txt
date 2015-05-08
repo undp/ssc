@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Projet ProHuerta
+scale: country-country
+project_objective: Le Projet encourage une diète alimentaire équilibrée, à travers la production biologique à petite échelle d’aliments frais.  Le Projet a également commencé à travailler sur l’élevage familial, la promotion de petites expériences d’irrigation, la production locale de semences et la fabrication artisanale des outils. Le projet a aussi intégré l’activité « Familles et Nutrition », pour sensibiliser les familles sur l’éducation, l’alimentation et la santé de leurs enfants.
+territorial_focus: 
+undp_role_type: 
+  - facilitator_of_partnerships
+published: true
+---
+Le rapport trimestriel au bailleur rapporte les résultats suivants de l’initiative :
+Une centaine de jardins potagers mis en place dans les communautés et pour lesquels les semences ont été distribuées.
+Formation de promoteurs sur la gestion des jardins potagers, des semences et la génération de semences locales.

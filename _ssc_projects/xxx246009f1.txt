@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Strengthening Social Cohesion in Myanmar
+scale: country-country
+project_objective: UNDP facilitated a study visit for a 5-member delegation from Myanmar Government to Indonesia in February 2014. During their visit, the delegation of a Deputy Minister  for  Border Affairs and 3 Ministers from Rakhine State Government, had discussions with a wide range of Indonesia stakeholders from government and civil society, both at the national and  provincial level, and exchanged ideas and information on many issues relating to social cohesion and peace building
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+It is too early to observe evidence of its contribution to results for 2014

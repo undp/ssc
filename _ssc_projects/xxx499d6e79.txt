@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Intercambio de experiencias exitosas en estimación de costos en la industria eléctrica
+scale: country-country
+project_objective: Intercambio de experiencias en métodos y herramientas de estimación de costos. Se abordaron las áreas de Transmisión y Distribución con la Agência Nacional de Energia Eléctrica y  Generación con la Empresa de Pesquisa Energética. El intercambio  permitió identificar aspectos clave en el proceso de fortalecimiento de las funciones estratégicas de estimación de costos y levantamiento de los activos, fijación de techos de costos y análisis de subasta inversa.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+La incorporación de los elementos identificados en la base de datos de costos de inversión establecida y en el modelo estructural denominado “Unidades Constructivas Estándares” UCEs, para valorizar los activos

@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - arab_states
+partner_type: 
+  - cso
+project_title: Projet d appui au processus constitutionnel, au developpement parlementaire et au dialogue national en Tunisie.
+scale: country-country
+project_objective: Le projet vise a renforcer les capacites de la Societe Civile, a contribuer aux reformes au cours de la periode de transition. Il propose egalement d’encourager un processus inclusif de dialogue et de consensus. Il vise a favoriser un processus constitutionnel pacifique et efficace et de produire un texte legitime, fondateur d un nouveau contrat social.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - builder_of_capacities
+published: true
+---
+• Maroc et Union Interparlementaire : expertise internationale sur le cadre juridique garantissant la mise en œuvre de l’autonomie administrative et financiere du parlement tunisien.
+• 4 femmes deputees a l Assemblee nationale francaise: lois relatives a l egalite, le renforcement du role des femmes et des legislations recentes en France pour lutter contre la violence domestique
+• 4 fonctionnaires parlementaires seniors formes par le Parlement canadien.

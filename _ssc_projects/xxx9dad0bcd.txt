@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Support to  Cotton Sector Development  BRA 12/002 Cotton 4
+scale: regional
+project_objective: In 2014, Cotton 4 project that  improved productivity of  cotton crop in Benin, Chad, Mali and Burkina Faso, initiated the  second phase, being extended to: i) Togo  ; ii) Lake Victoria Basin in Burundi, Uganda, Kenya and Tanzania and iii) Shire and  Zambeze Rivers in Malawi e Mozambique
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - builder_of_capacities
+published: true
+---
+(https://www.embrapa.br/cotton-4-togo); (http://www.abc.gov.br/imprensa/mostrarnoticia/575.)

@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: REDD+ High Forest Low Deforestation Countries international conference, Paramaribo 14 - 15 May 2014.
+scale: global 
+project_objective: Exchange experiences and learn how to make national REDD+ systems more robust and credible in order to attain benefits in the international arena;
+Increase collaboration among the HFLD countries, creating a platform to discuss strategies to maximize benefits from REDD+ and strategies to form an unified block in negotiations;
+Increase understanding of REDD+ as a tool for sustainable development; and
+Maintain the existing national and international momentum for REDD+.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The recognition that there is a space for Highly Forested, Low Deforestation countries as Suriname but requires appropriate policies with support of national partners as expressed during the Readiness Preparation Project Inception workshop in December, 2014.

@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Parliamentarian Visit (Strengthening Women's Participation and Representation in Governance in Indonesia, SWARGA 66891)
+scale: country-country
+project_objective: The Indonesia and Myanmar Cos jointly facilitated a study visit by Myanmar parliamentarians to Indonesia. The visit allowed the officials to learn from the Provincial House of Representative in Yogyakarta province and  two chambers of the Parliament of Indonesia about issues such as the functioning of the, parliamentary procedures, committee work, representation and decentralization.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The study visit was intended to benefit primarily the Myanmar parliamentarians. The visit was very successful and the parliamentarians showed strong interest in continuing to learn about Indonesia’s democracy and parliamentary system which are regarded as good practices in the region. Indonesia’s parliamentarians also acknowledged that there is still room to continue strengthening Indonesia’s democracy and parliamentary system based on the discussions during the study visit

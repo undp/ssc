@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - cso
+  - national_governments
+  - private_sector
+project_title: Support for the  Global Partnership for Effective Development Cooperation (AGCED)
+scale: global 
+project_objective: AGCED is a global multi-stakeholder mechanism for effective development cooperation bringing together 160 countries and 45 organizations . Mexico, through the AMEXCID, has organized the first High Level Meeting (HLM) of AGCED , it led work on South-South cooperation and middle-income countries, and has assumed co-presidency of the mechanism until 2016 . UNDP support in this area has been a key factor in the strengthening of the AMEXCID-UNDP partnership (E83 SRE).
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+Follow-up is currently underway on the AGCED regional strategy, led AMEXCID.
+Within the framework of AGCED’s first HLM, UNDP Mexico facilitated (together with AMEXCID, the OECD, UNDP HQ and the Regional Center in Panama) the participation of more than 200 representatives from middle-income and lower-income countries, as well as representatives from civil society, the private sector, local government agencies and UN agencies.

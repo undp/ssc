@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Study tour to Indonesia to gain experience and knowledge on Aid Coordination and Aid Effectiveness (March 2014)
+scale: country-country
+project_objective: The study tour was organized for the representatives of the Ministry of Finance, Ministry of Economy, and Ministry of Foreign Economic Relations of Uzbekistan to learn how aid coordination mechanism were set up and managed effectively in Indonesia.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Lessons related to aligning aid with the state budget, and creation of sector coordination groups[58] are now being implemented in the Aid effectiveness project in Uzbekistan.

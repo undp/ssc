@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Strengthening Women’s Leadership & Participation in Social Cohesion and Peacebuilding initiatives through SSTC between Indonesia and Myanmar (Peace Through Development in Disadvantage Areas Project, PTDDA 60770)
+scale: country-country
+project_objective: The initiative promotes an enabling environment for partnership on current and emerging conflict issues by facilitating cross learning and knowledge exchange. It seeks to ensure women’s participation in processes geared at building consensus and securing the peaceful management of conflicts.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The initial work has produced an assessment of women’s leadership and participation issues in social cohesion and peacebuilding initiatives in both Indonesia and Myanmar. This was an initial activity implemented in November-December 2014.  
+A workshop to discuss the assessment results was conducted during December 2014 in Indonesia, with participants from Myanmar (E110 Social Cohesion). This work will be built on in 2015.

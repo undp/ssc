@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Knowledge sharing on natural lake Management mechanism
+scale: country-country
+project_objective: Providing Inle Lake stakeholders with options for an effective lake management mechanism through consultations and knowledge exchange with experts and officials in the field of lake management in neighboring countries
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Knowledge gained on natural lake management mechanism through SSC, provided the government at national and local levels with necessary information to set up an Inle Lake management mechanism

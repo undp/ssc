@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Viaje de estudios del gobierno central y de municipios hondureños para recoger experiencias sobre la promoción de la seguridad ciudadana utilizando la metodologia CPTED.
+scale: country-country
+project_objective: Representantes de Gobierno (un ministro y un subsecretario) y de diversos municipios hondureños participaron en un viaje de estudio para conocer la experiencia chilena en promocion de la seguridad ciudadana y prevención del delito mediante intercambios con diversas reparticiones públicas y municipios en Chile
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+El Gobierno de Honduras y el Gobierno de Chile están en conversaciones para sistematizar intercambios en tema de seguridad ciudadana con el apoyo de USAID y las oficinas de país de PNUD en Chile y Honduras.

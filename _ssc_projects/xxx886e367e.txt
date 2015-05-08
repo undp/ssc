@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Certificat de Gouvernance Locale des Zones Humides
+scale: country-country
+project_objective: Ce partenariat offre un programme de formation continue aux acteurs des collectivités territoriales et des structures techniques des capacités pour améliorer la valorisation des zones humides pour la résilience des communautés.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+Le Projet COGEL a soutenu la mise en place d’un certificat sur la Gouvernance Locale des Zones Humides en Afrique

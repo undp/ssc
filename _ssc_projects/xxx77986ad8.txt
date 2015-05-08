@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Studying agricultural climate change adaptation practice with selected adaptive crops and varieties
+scale: country-country
+project_objective: In consultation with Vietnam line agencies and the Hue University an exchange and sharing of experiences and peer-to-peer knowledge exchange was agreed between Vietnam and Lao PDR.  Emphasis was placed on transferring new climate adaptation technologies to farming communities.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Knowledge gained on new adaptation technologies in vegetable production have been integrated into climate resilient farming practices which have started to rolling out in 2014 and will continue into 2015 in a drought prone and a flood prone area (IRAS APRR).

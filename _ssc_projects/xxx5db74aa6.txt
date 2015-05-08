@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Integrated Water Resource Management Knowledge Sharing- GoS and the State of Eritrea Ministry of Land, Water and Environment (MLWE)
+scale: country-country
+project_objective: The MNRE –DWA and MLWE cooperated in the area of Integrated Water Resource Management (IWRM) in December 2014. UNDP coordinated the team of 7 MLWE officials for a learning exercise, seeking to increase the technical knowledge and information on water governance and IWRM practices including strategies for the uptake of water saving technologies. This was hosted by the Swaziland Water Services Corporation a GOS Water Utility parastatal and DWA.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Increased knowledge and sharing of information as well as commitment for future collaboration for the two Governments in the area of integrated water resources management.

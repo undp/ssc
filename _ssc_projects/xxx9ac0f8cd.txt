@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Seventh Ministerial Forum on Development in Latin America and the Caribbean
+scale: regional
+project_objective: Based on this initiative, UNDP Mexico’s interagency working group supported organization of the Seventh Ministerial Forum on Development in LAC, a UNDP initiative , as a forum for South-South regional exchange on social development. The Seventh Forum focused on the experience of countries like Mexico and Colombia regarding multidimensional poverty and inclusive development , relevant topics for joint work between the Mexican government (especially SEDESOL) and UNDP Mexico (E84 PNUD).
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+published: true
+---
+With help from UNDP, the Government of St. Lucia is in contact with the Mexican authorities to learn from the Mexican experience on multidimensional poverty.
+A Memorandum of Understanding between UNDP and ECLAC was signed in order to join forces and share expertise; it has been confirmed that the next Forum will take place in 2015 in Peru as a joint initiative  .

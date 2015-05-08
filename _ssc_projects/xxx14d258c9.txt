@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Guiana Shield Biodiversity Corridors to streamline support for the achievement of the Aichi Biodiversity Targets (E19)
+scale: regional
+project_objective: The workshop reviewed existing examples of biodiversity corridors within the Guiana Shield and best practice guidance from around the world; identified and analysed common opportunities, threats and challenges facing the conservation units within these corridors; agreed on the Aichi Targets that could be achieved by implementing trans-boundary cooperation actions on biodiversity corridors; and outlined the work plan for follow up.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Consensus on the Kurupukari action plan regarding the achievement of the Aichi Biodiversity Targets related to biological corridors, connectivity conservation and transboundary conservation within the Guiana Shield Ecoregion. http://www.cbd.int/doc/?meeting=PAWS-2014-01
+http://www.gy.undp.org/content/guyana/en/home/presscenter/articles/2014/05/30/guiana-shield-action-plan-to-facilitate-biodiversity-corridors-achieve-aichi-targets/

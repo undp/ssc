@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Professionnalisation des services du Fonds National de Finance Inclusive
+scale: country-country
+project_objective: Voyage realise aupres des cadres du Fonds National de la Microfinance pour etudier les modalites le financement des activites generatrices de revenus, la gestion du partenariat avec les prestataires de services financiers et la collecte des informations et des donnees sur les beneficiaires.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+  - facilitator_of_partnerships
+published: true
+---
+Un partenariat avec 18 prestataires de services financiers a ete conclu. Le FNFI a pu performer la mise en œuvre du produit financier Acces des pauvres aux Services financiers - qui a touche plus de 331.000 beneficiaires en 2014 avec un total de credits de plus de 9,7 milliards Fcfa, soit un taux de performance de 110% . L’echange a egalement permis de convenir d’une etude sur le SIG permettant a terme de disposer de moyens professionnels de gestion, d’acces et de collecte de l’information.

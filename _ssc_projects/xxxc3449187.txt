@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Taller de la Red Iberoamericana de Bosques Modelo
+scale: regional
+project_objective: El taller conto con la participacion de representantes de Bosques Modelo de 21 paises suramericanos y centroamericanos.El objetivo del encuentro fue socializar experiencias sobre estrategias y acciones que permitan avanzar en la sostenibilidad de los procesos de bosques modelos.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Abril –Junio 2014 Publicacion Ministerio del Ambiente, Boletin Somos SNAP No. 6, 2014 Memoria el Taller “La construccion de la sostenibilidad para la gestion territorial

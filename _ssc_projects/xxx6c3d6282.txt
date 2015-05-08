@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Voyage d’échange d’expériences sur la prévention et la gestion des inondations à Ouagadougou des cadres du Gouvernorat de Niamey
+scale: country-country
+project_objective: Quinze (15) responsables de la ville de Niamey, appuyés par le spécialiste des questions de prévention des crises et catastrophes du PNUD, se sont rendus à Ouagadougou pour un échange d’expériences et la visite de sites affectés par des inondations.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+Le comité régional de gestion des inondations de Niamey a été fortement sensibilisé à l’importance des mesures de prévention des inondations. 
+Suite à ce voyage, la région de Niamey a élaboré et validé un plan d’action pour la prévention et la gestion des inondations et  organisé un atelier de restitution auquel ont été invités les représentants d’autres régions du pays afin de leur faire bénéficier des leçons apprises.

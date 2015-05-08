@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Workshop on parliamentary oversight on state budget
+scale: country-country
+project_objective: Exchange of experience on parliamentary oversight on state budget
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The capacities of parliamentary staff to support the MPs in the oversight of state budget increased (workshop evaluation forms)

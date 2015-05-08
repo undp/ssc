@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Visita de intercambio de experiencias para el sector cafetalero entre Guatemala y Etiopía.
+scale: country-country
+project_objective: Intercambio de experiencias en procesos de productos, distribución y exportación en el sector cafetalero.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Informe de Visita de la delegación de Etiopía.

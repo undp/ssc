@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Establishment of Youth Innovation Hub
+scale: country-country
+project_objective: In September 2014, the Prime Minister’s Office (PMO) and the Innovation Association of Swaziland (IAS) established partnership with Tshwane Innovation Hub in South Africa in the area of innovation development. Leveraging on the Innovation Fund, UNDP facilitated partnerships between the two countries to collaborate in this initiative.
+territorial_focus: 
+undp_role_type: 
+  - facilitator_of_partnerships
+published: true
+---
+The partnership between the 2 countries resulted in the adoption by Swaziland of the SA Youth Innovation Hub model which is established at the University of Swaziland. UNDP provided the seed money for the establishment of the Youth Innovation Hub.  The GoS has commitment to actively involve the newly established IAS to lead in the implementation of the e-governance strategy.  The initiative has also provided impetus for the UNISWA to integrate innovation in the institution’s research agenda.

@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Elaboration des plans nationaux d’adaptation au changement climatique.
+scale: country-country
+project_objective: Missions de Formation/ partage experience sur elaboration plan nationaux adaptation changement climatique. Deux cadres nationaux formes sur outils et methodes  pour elaborer des plans strategiques adaptation au changement
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+Quoique les resultats  tangibles ne soient pas perceptibles en ce moment, en raison du fait que initiative vient de se realiser y a quelques mois elle a toutefois, permis de doter le pays en outils et methode pour elaboration des plans strategique nationaux d’adaptation au changement climatique.

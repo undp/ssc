@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Advocating conclusion of cooperation plans and agreements between Georgian and Armenian border agencies.
+scale: country-country
+project_objective: UNDP advocated conclusion of cooperation agreement between Georgia and Armenia on border representatives and agreement on exchange of customs information between Georgian and Armenian customs agencies. Both agreements are drafted and will be put into operation in 2015.
+territorial_focus: 
+undp_role_type: 
+  - facilitator_of_partnerships
+published: true
+---
+Draft Agreement on Border Representatives between Georgia and Armenia is undergoing state procedures for adoption.

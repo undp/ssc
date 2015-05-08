@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Learning visit on process of developing National Strategy for the Development of Statistics (NSDS)
+scale: country-country
+project_objective: As part of enhancing National statistical capacity, Nepal is preparing National Strategy for the Development of Statistics (NSDS). Since this is the first time NSDS is being prepared, team of seven officials from CBS and NPC visited Mongolia to learn from Mongolian experience on NSDS preparation
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+As a result of this visit, the engagement of CBS staff on NSDS preparation has increased significantly. This will obviously enhance the ownership and will ensure the implementation of the plan.

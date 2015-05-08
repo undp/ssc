@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Echange de cooperation Sud-Sud avec le Maroc pour la mise en place de la base de donnees pour le casier judicaire, la Matrice de comptabilite sociale; ainsi qu'avec le Ghana pour la mise en œuvre du Cadre d'acceleration de l'OMD5
+scale: country-country
+project_objective: Il s agit de sinspirer de l'experience marocaine dans le domaine de developpement des bases de donnees sur les personnes en conflits avec la Loi (casier judiciaire) et de la mise en palce des outils devaluation des politiques publiques; aisni que de tirer meilleur parti de lexpereince du Ghana en matiere d'amlioration de la snate maternelle
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+la MCS a ete mise en place a partir de l ebauche faite par les marocains; les structures en charge du suivi des OMD et de la snate de la mere et de enfant ont elabore un plan d action tire de l expereicne ghaneenne

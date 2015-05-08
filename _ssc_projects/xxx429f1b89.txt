@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Training of Tonga Electoral Commission on civic education and electoral administration
+scale: regional
+project_objective: Training activities under Tonga Governance Strengthening Programme (TGSP) in 2014 used the South-South cooperation model such as the civic education-BRIDGE (electoral administration) training which Tong Electoral Commission (TEC). In the training, the members of the civic education Steering Committee had an exchange visit to  Samoa in Quarter 3.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The November general elections were managed peacefully with a voter turnout of 76.8%.

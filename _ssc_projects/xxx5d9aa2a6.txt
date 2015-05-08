@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Study tours to Malaysia and China on building a capable, career-oriented and Professional Public Service for a developmental state.
+scale: country-country
+project_objective: A delegation of commissioners from the PSC were hosted by the government of China to expand their knowledge on building a capable, career-oriented and Professional Public Service for a developmental state. The process is further envisaged to inform public sector policy debates on a developmental state.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Following the study tours a national conference was organised and resulted in the development of a guidance document on building a capable, career-oriented and Professional Public Service for a developmental state.

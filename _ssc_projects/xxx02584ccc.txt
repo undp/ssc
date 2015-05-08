@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Support to the harmonization of technical regulations for energy efficient lighting equipment in the CIS
+scale: regional
+project_objective: The Russian UNDP/GEF EE Lighting project initiated cooperation with similar projects and experts in Kazakhstan, Belarus and Armenia to support a sub-regional dialogue on harmonized technical regulations for EE lighting in the framework of the Eurasian economic space. The support is provided through expert advice to national authorities and sub-regional expert consultations. A seminar attended by Russian, Kazakh and Armenian stakeholders was initiated by the Russian project in November.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The expert advice and joint sub-regional consultations are aimed at facilitating the sub-regional technical regulation reform and accelerating the adoption of new sub-regional technical regulations in order to support market transformation for energy efficient lighting.

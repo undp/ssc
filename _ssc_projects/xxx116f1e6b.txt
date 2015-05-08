@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Convenio de cooperacion entre el INA (Costa Rica) y el SENA (Colombia), para mejorar el curriculo de los cursos para tecnicos en refrigeracion y aire acondicionado ecoeficiente
+scale: country-country
+project_objective: A través de una iniciativa en el marco del proyecto de eliminacion de HCFC, se buscan opciones para reformular la educacion tecnica, de modo que se pueda incluir la reparacion de sistemas de refrigeracion ecoeficientes. Es asi, como con el apoyo del proyecto, el SENA y el INA firman un acuerdo de cooperacion. El principal producto es un nuevo curriculo para quienes deseen especializarse en reparacion de sistemas de aire acondicionado ecoeficientes, que se empezara a impartir en 2015.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+El curriculo esta en  proceso de elaboracion, y los resultados se veran en un medio- largo plazo

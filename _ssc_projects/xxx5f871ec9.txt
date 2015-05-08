@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Transferencia de conocimiento mediante la sistematización y difusión de buenas prácticas de inclusión social y modelo pedagógico entre Venezuela y Haití y Triangulación con el gobierno de Brasil.
+scale: country-country
+project_objective: Se ha avanzado con Fundamusical de Venezuela para definir los términos y alcances la CSS con Haití y se ha recogido la información básica sobre las prioridades de esta cooperación (creación de núcleos (escuelas).
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Minutas de la reunion del 4 de diciembre, donde el director ejecutivo de FUNDAMUSICAL se compromete a impulsar esta cooperación y a solicitar una reunion de las autoridades de FUNDAMUSICAL con el PNUD y el embajador de Venezuela en Haiti. 
+Documento de propuesta para la sistematización de buenas prácticas en la gestión del Proyecto con FUNDAMUSICAL.

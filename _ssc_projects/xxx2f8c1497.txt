@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - cso
+  - national_governments
+project_title: Workshop - Developing governance capacities for sustainable development in countries with economies in transition - (Yerevan, Armenia, October 8-10), hosted by the Government of Armenia in cooperation with UN DESA, UNDP, Academy of Public Administration of Kazakhstan.
+scale: regional
+project_objective: The main objective of the event was to facilitate transition to sustainable development in the countries with economies in transition, including the CIS countries, by promoting collaborative governance methods at any level of government, by streamlining government operations that help achieve sustainable development, with particular focus on requisite capacities for public administration pursuing the achievement of sustainable development.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The workshop provided participants with the opportunity to: share solutions to complex governance challenges related to sustainable development; explore and discuss ideas about how governments might best address sustainable development challenges; network with government officials, experts, civil society representatives. All findings of the workshop was concluded in the recommendations  for the governments of participating countries.

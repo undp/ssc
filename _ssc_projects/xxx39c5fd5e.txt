@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - private_sector
+project_title: Development of input-output coefficient system under the industrial development programme
+scale: country-country
+project_objective: The major objective of the South-South initiative was to enhance the industrial coherence and to improve industrial planning through the systematization of incentives given in prioritized export oriented sub-sectors.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+The acquired knowledge was usefully applied to pre-launch the system in the trial phase in the leather and textile sector.

@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Implementation of the Benguela Current LME Action Program for Restoring Depleted Fisheries and Reducing Coastal Resources Degradation.
+scale: regional
+project_objective: UNDP-supported tripartite development initiative by Angola, Namibia and South Africa that aims to improve the use and management of marine resources.
+territorial_focus: 
+undp_role_type: 
+  - facilitator_of_partnerships
+published: true
+---
+Country contributions paid to the Commission Secretariat; ratification of the Benguela Current Convention by Angola; approval by ministers of the Strategic Action Programme for 2015-2019; government supported travel for staff to participate in BCC meetings/ activities and; securing US$23 million in donor funds for the period 2015-2020.

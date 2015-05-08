@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Mission d etudes du Gouvernement dans 3 pays (Mozambique, Mali et Benin)
+scale: regional
+project_objective: Elle avait pour objet pour l equipe de la fonction de publique d aller s enquerir des experiences  en reformes de l administration publique des 3 pays pour redynamiser le processus de reforme au niveau de la Guinee Bissau.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Rapport de mission
+Plan strategique du Ministere et programme de reforme en cours d elaboration

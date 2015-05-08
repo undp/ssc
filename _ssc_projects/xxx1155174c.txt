@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Study visit to the Parliament of Poland on constituency relations and work of constituency offices
+scale: country-country
+project_objective: Peer-to-peer transfer of knowledge and experience regarding constituency offices of PMs
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Four constituency offices established by the Parliament of Moldova: Parliament Newsletter, No.1 2014, p. 34-35.

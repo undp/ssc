@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Mutual exchange and learning of country experience and expertise on efforts towards graduating from LDC status
+scale: country-country
+project_objective: In view of Nepal's decision to graduate from LDC by 2022, team of six government officials visited Bangladesh to learn from Bangladesh's experience in integrating LDC agenda into Planning, policy making and budgeting.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+This visit has helped familiarize NPC officials on LDC agenda. They have become more familiar on the LDC graduation process too and its linkage with national planning.

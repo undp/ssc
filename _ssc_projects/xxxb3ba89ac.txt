@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Le South-South Global Assets and Technology Exchange (SS-GATE)
+Developpement communautaire a travers le programme Territoire d’Apprentissage Territorio de Aprendizaje La deuxième Route d’Apprentissage–entreprenariat des jeunes en Colombie
+scale: regional
+project_objective: le 29 Juillet, 2014, le projet d’appui a la  mise en place du Business Promotion Center a signe un accord avec le  SS- GATE pour accueillir le centre de transfert de technologie Sud-Sud en faveur des PMA , afin de  permettre le transfert Sud-Sud de technologies viables, sectorielles visant a developper et renforcer les capacites et la production dans les PMA
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+published: true
+---
+un investissement potentiel de plus de 10 millions de dollars. Ce premier accord de fonds PMA,  a ete signe; par M. Matia Kasaija, Ministre d’Etat ougandais des finances et M. Tony Wamala, representant de la Chambre nationale de commerce, vise a reproduire le Songhai; en Ouganda

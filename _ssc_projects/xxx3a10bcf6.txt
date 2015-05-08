@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - cso
+  - national_governments
+project_title: 17 police officers (13 male and 4 female) were trained in Ghana for 8 weeks. The Constitution Review Committee (CRC) of Liberia toured two Constitution Review bodies in 2014. (The Constitution Review Implementation Commission -CRIC of Ghana and the Kenya National Commission on Human Rights-KNCHR
+scale: country-country
+project_objective: The initiatives enhanced the capacity of the various institutions participating in these exchanges in affording exposure, forging partnerships, drawing lessons and learning best practices, with potential to be applied in the country. Since their return for example, the members of the CRC have spearheaded a public consultations exercise countrywide collecting views of citizens. The image of the police is changing as a result of exposure to client-oriented policing.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+published: true
+---
+The initiatives enhanced the capacity of the CRC and the Liberia national police through the knowledge gained and partnership forged, learning best practices to be applied to the country’s development agenda. Through these initiatives, 3 of the officers trained in Ghana were promoted based on merit and hard work and the CRC involved CSOs and citizen’s participation improved

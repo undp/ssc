@@ -1,0 +1,19 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Apoyo a la implementación de estrategias de seguridad y convivencia:  Gira de estudio de proyectos aplicando la metodología CPTED en Chile/Colombia.
+scale: regional
+project_objective: Como parte del Programa de Seguridad Ciudadana del PNUD financiado con fondos de la USAID, se propuso la realización de una Gira de Estudio a Chile para conocer de políticas, programas y  proyectos que se impulsa en ese país en materia de prevención, con énfasis en la prevención  situacional;   y que  fueran  conocidas por autoridades y oficiales del Gobierno de Honduras.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - builder_of_capacities
+  - facilitator_of_partnerships
+published: true
+---
+Como resultado de la experiencia se firmó el acuerdo entre PNUD y el Instituto de Desarrollo Comunitario, Agua y Saneamiento-FHIS para el fortalecimiento de las capacidades del FHIS en el diseño, gestión e implementación de proyectos de infraestructura  social bajo metodología CPTED, facilitando a su vez la transferencia de conocimientos a funcionarios y actores locales B.1.1_3

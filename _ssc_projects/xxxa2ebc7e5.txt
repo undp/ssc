@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Proyecto Piloto de un Centro de Gestión para la Reducción del Riesgo (CGRR) en el Distrito Municipal La Victoria y Punto de Alerta Temprana (PAT) en la  Hacienda Estrella
+scale: regional
+project_objective: Iniciativa orientada a replicar y adaptar el modelo cubano de reducción de riesgos de desastres a nivel local en 5 países del Caribe, auspiciada por la Iniciativa de Gestión de Riesgo en el Caribe (CRMI). El Piloto se orientó a fortalecer capacidades de reducción de riesgos de instituciones y comunidades frente a las inundaciones provocadas por el desbordamiento del río Ozama en temporada ciclónica. Se espera implementar un Sistema de Alerta Temprana ante inundaciones en la cuenca Ozama.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - builder_of_capacities
+published: true
+---
+Se han fortalecido las capacidades de respuesta a la Defensa Civil del Municipio de la Victoria dotándolas de capacitación, equipos y planes de emergencia.

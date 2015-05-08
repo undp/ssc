@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Visits of Georgian Ministry of Interior and Revenue Service officials to Estonia and Latvia on border management issues
+scale: country-country
+project_objective: Two study visits of Georgian border management officials were held in 2014 to Estonia and Latvia. The major focus of the visits was to share the experience of the Baltic States on management of illegal migrant detention centers and provision of on-the-job and advanced training for officers serving at the borders. The visits raised the knowledge of Georgian officials in both areas and provided them with useful experience
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Migration Department was created within the Ministry of Interior of Georgia and the Illegal Migrants Detention Center was opened in October 2014. On-the-job and advanced training topics are planned in 2015 curriculum

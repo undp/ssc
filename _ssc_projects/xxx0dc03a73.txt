@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Mise en place du Forum des femmes parlementaires de Guinee
+scale: regional
+project_objective: Suite a installation de Assemblee nationale, les femmes elues ont exprime le besoin de se constituer en reseau. Pour ce faire, le PNUD a apporte une assistance pour la venue de 3 femmes deputes du Burundi et de la Cote Ivoire en vue de partager leurs experiences dans ce domaine
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+  - builder_of_capacities
+published: true
+---
+Le Forum des femmes parlementaires a ete cree (PV Assemblee generale constitutive) et les deputes membres de ce forum ont mene des actions de plaidoyer et de lobbying en faveur de la prise en compte du genre dans les politiques publique et les instances de prise de decision

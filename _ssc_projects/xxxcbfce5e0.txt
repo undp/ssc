@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: UNDP Malawi, UNDP China and the China Government in a Triangular Cooperation in the area of Disaster Risk Management and Resilience
+scale: country-country
+project_objective: Under this cooperation, UNDP China initiated a call for concepts to support resilience-building initiatives at community level in Malawi to which UNDP Malawi successfully responded. Partnership discussions have been held through teleconferences and China team visited UNDP Malawi, MOFCOM and Malawi Government (DoDMA). An agreement is in its final stages with China providing US$500,000 for grants aimed at building community based resilience. This will be under the CO ongoing DRM programme.
+territorial_focus: 
+undp_role_type: 
+  - facilitator_of_partnerships
+published: true
+---
+The initiative is in the preparatory phase.

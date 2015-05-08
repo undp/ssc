@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Through the Climate Change Africa Adaptation Initiative, Tanzania engaged with Ethiopia, Philippines and Kenya in addition to Community Based Adaptation Conference (CBA 8) in Nepal.
+scale: country-country
+project_objective: Tanzania shared with Ethiopia experience on the establishment of CC financing mechanism; Tz shared with Philippines on institutional structure for CC; and Tz with Kenya on improving the national CC adaptation plan of actions; and Government officials participated in knowledge and experience sharing mission in Nepal to improve CC governance and mainstreaming in Zanzibar. (Ref. ADR 2014 and Project Progress Report.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Capacity of key institutions: VPO, MoF, NEMC improved - ADR 2014, there is an increased number of community based small-scale mitigation and adaptation projects implemented in Zanzibar as a result of knowledge and experience gained in Nepal which contributed to a proper assessment of projects and improved management. capacity of programme managers enhanced. Ref: ADR 2014, Project Progress Report

@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Partage d’experience sur l’application informatique des chaines judiciaires
+scale: country-country
+project_objective: Le PNUD a soutenu une rencontre de partage de l’experience du Senegal sur l informatisation des chaines judiciaires du 8 au 11 juillet 2014 a Lome. Cette activite a reuni des experts senegalais (du ministere de la justice, de l universite Cheikh Anta Diop et du Barreau) et leurs homologues togolais et vise a aider le systeme judicaire togolais a entamer le processus de son informatisation en vue d assurer la rapidite et la securite des decisions de justice.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+La resultante de cet atelier est l’evaluation, dans les 32 juridictions, des besoins en equipements, infrastructures reseaux, ressources humaines et formation en vue de la mise en place de l’application informatique des chaines judiciaires. Le rapport diagnostic est disponible.

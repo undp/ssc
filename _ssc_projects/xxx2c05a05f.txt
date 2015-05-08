@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Development of ICT for Outdoor Destinations - DIOD
+scale: country-country
+project_objective: DIOD project will mobilize the productive potential of the targeted project areas involved (coastal region of MNE and Dubrovnik-Neretva County) and contribute to their sustainable development
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+---
+Product development, safety standards development and promotion of the nature based tourism in the hinterland area of the coastal region, in order to create complementarity to the main coastal summer offer and increase competitiveness

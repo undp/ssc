@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Women in Politics activity within the Parliament project
+scale: country-country
+project_objective: Trainer and motivational speaker Alisson Paula was contracted under the Parliament project to work with 17 female politicians on ways to strengthen their political career
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+The Women in Politics initiative started in late 2014 and the engagement with the Political expert from Curacao was carried out in December 2014.  Although the women have been trained and equipped with the requisite skills to manage their political careers, the desired result of having more women sworn in as Members of the National Assembly will only be assessable after the May 25, 2015 National Elections.

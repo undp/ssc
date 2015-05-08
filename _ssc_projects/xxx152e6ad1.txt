@@ -1,0 +1,17 @@
+---
+open_project_id: ""
+thematic_focus: 
+country: 
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Projet Parlement pour le climat
+scale: country-country
+project_objective: L initiative vise l’échange de bonnes pratiques entre pays du sud afin de promouvoir le développement des énergies propres et renouvelables dans le cadre de la lutte contre les changements climatiques. Le PNUD a servi d'interface entre la pays et appuyé les activités.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+published: true
+---
+La commission environnement, développement durable et affaires sociales au niveau du parlement a mis en place une sous-commission en charge de ces questions. L ’ONG a mis en place un réseau de producteurs des Foyers améliores. Au cours de la conférence avec les parlementaires, l’ONG a procédé a une exposition vente des prototypes des FAM; 3 campagnes de sensibilisation appuyées par des tests d efficacité des FAM ont été organisées.
