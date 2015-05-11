@@ -32,7 +32,7 @@ class Process
       "project_title"     : project.project_title,
       "project_objective" : project.project_objective,
       "scale"             : @normalise('scale', project.scale),
-      "country"           : @normalise_location(project.location),
+      "country"           : @normalise_location(project.country_iso3),
       "region"            : @normalise('region', project.region),
       # SSC intervention
       "undp_role_type"    : @normalise('undp_role_type', project.undp_role_type),
@@ -60,19 +60,8 @@ class Process
     return unless text
     @matchingTerm.find(type, text)
 
-  normalise_location: (location) ->
-    _.map(@splitComma(location), (i) =>
-      @match_similar_country_name(i)
-    )
-
-  match_similar_country_name: (term) ->
-    term_escaped = term.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&")
-    re = new RegExp("^" + term_escaped,"i")
-    matches = _.select(@countries, (i) ->
-      i.name.match re
-    )
-    console.warn "Can't find match for #{term} [#{@pid}]" if matches.length == 0
-    matches[0].iso3 if matches.length > 0
+  normalise_location: (iso3) ->
+    return [iso3.toUpperCase() if iso3?]
 
   splitComma: (data) ->
     return unless data

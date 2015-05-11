@@ -3,7 +3,7 @@
     {
       "project_id" : "xxxc259b4a8",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "ago",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -19,7 +19,7 @@
     {
       "project_id" : "xxx32b879b3",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ago",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -35,7 +35,7 @@
     {
       "project_id" : "xxx4b51abb4",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bdi",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -51,7 +51,7 @@
     {
       "project_id" : "xxx1375db2c",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bdi",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -67,7 +67,7 @@
     {
       "project_id" : "xxx9b13e027",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bdi",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -83,7 +83,7 @@
     {
       "project_id" : "xxxb3ba89ac",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "ben",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -99,7 +99,7 @@
     {
       "project_id" : "xxxa80acc52",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ben",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -115,7 +115,7 @@
     {
       "project_id" : "xxx83f06037",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ben",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -131,7 +131,7 @@
     {
       "project_id" : "xxx2498a932",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "ben",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -147,7 +147,7 @@
     {
       "project_id" : "xxx84bd1f81",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bfa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -163,7 +163,7 @@
     {
       "project_id" : "xxxc73fcdb7",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bfa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -179,7 +179,7 @@
     {
       "project_id" : "xxx886e367e",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bfa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -195,7 +195,7 @@
     {
       "project_id" : "xxx5fe66604",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bfa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -211,7 +211,7 @@
     {
       "project_id" : "xxx9ad52b4a",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bfa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -227,7 +227,7 @@
     {
       "project_id" : "xxxf0d65a10",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bwa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -243,7 +243,7 @@
     {
       "project_id" : "xxx327d1448",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bwa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -259,7 +259,7 @@
     {
       "project_id" : "xxx560a5695",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "civ",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -275,7 +275,7 @@
     {
       "project_id" : "xxx22132bed",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cmr",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -291,7 +291,7 @@
     {
       "project_id" : "xxx3addbbaa",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "cmr",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -307,7 +307,7 @@
     {
       "project_id" : "xxx9c2c026b",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cod",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -323,7 +323,7 @@
     {
       "project_id" : "xxx152e6ad1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cog",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -339,7 +339,7 @@
     {
       "project_id" : "xxxeebbb658",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cog",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -355,7 +355,7 @@
     {
       "project_id" : "xxx3bc94f47",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "com",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -371,7 +371,7 @@
     {
       "project_id" : "xxx50b1e6d6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "com",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -387,7 +387,7 @@
     {
       "project_id" : "xxx5badc4c6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cpv",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -403,7 +403,7 @@
     {
       "project_id" : "xxx686811bc",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "cpv",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -419,7 +419,7 @@
     {
       "project_id" : "xxx700247ae",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "cpv",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -435,7 +435,7 @@
     {
       "project_id" : "xxxb80b86e6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cpv",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -451,7 +451,7 @@
     {
       "project_id" : "xxx48319440",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "cpv",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -467,7 +467,7 @@
     {
       "project_id" : "xxx28ad1d63",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cpv",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -483,7 +483,7 @@
     {
       "project_id" : "xxx3e713f5e",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cpv",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -499,7 +499,7 @@
     {
       "project_id" : "xxx0a59d5d4",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cpv",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -515,7 +515,7 @@
     {
       "project_id" : "xxx788b53fd",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "eri",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -531,7 +531,7 @@
     {
       "project_id" : "xxxea90483c",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "eri",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -547,7 +547,7 @@
     {
       "project_id" : "xxx92ea8ae7",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "eth",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -563,7 +563,7 @@
     {
       "project_id" : "xxxdd1c38cf",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "eth",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -579,7 +579,7 @@
     {
       "project_id" : "xxx98f2435c",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "eth",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -595,7 +595,7 @@
     {
       "project_id" : "xxx39c5fd5e",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "eth",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -611,7 +611,7 @@
     {
       "project_id" : "xxx256fae74",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "eth",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -627,7 +627,7 @@
     {
       "project_id" : "xxx7ee5a426",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "gab",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -643,7 +643,7 @@
     {
       "project_id" : "xxx55b9a445",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "gha",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -659,7 +659,7 @@
     {
       "project_id" : "xxxda5c653d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "gin",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -675,7 +675,7 @@
     {
       "project_id" : "xxxa18ca5f8",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "gin",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -691,7 +691,7 @@
     {
       "project_id" : "xxx0dc03a73",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "gin",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -707,7 +707,7 @@
     {
       "project_id" : "xxxb50ead99",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "gmb",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -723,7 +723,7 @@
     {
       "project_id" : "xxxdfd0b653",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "gmb",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -739,7 +739,7 @@
     {
       "project_id" : "xxx44c9981e",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "gmb",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -755,7 +755,7 @@
     {
       "project_id" : "xxxb5acebe0",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "gnb",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -771,7 +771,7 @@
     {
       "project_id" : "xxxf7a61dd5",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "gnb",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -787,7 +787,7 @@
     {
       "project_id" : "xxxfd984312",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "gnb",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -803,7 +803,7 @@
     {
       "project_id" : "xxxf411c1e1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "gnq",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -819,7 +819,7 @@
     {
       "project_id" : "xxx45d0fd5f",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ken",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -835,7 +835,7 @@
     {
       "project_id" : "xxx3a10bcf6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lbr",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -851,7 +851,7 @@
     {
       "project_id" : "xxx48a91141",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lbr",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -867,7 +867,7 @@
     {
       "project_id" : "xxx7885b244",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "lso",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -883,7 +883,7 @@
     {
       "project_id" : "xxx97b3837f",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "lso",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -899,7 +899,7 @@
     {
       "project_id" : "xxx1b17aff2",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mdg",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -915,7 +915,7 @@
     {
       "project_id" : "xxx2fce9941",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mdg",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -931,7 +931,7 @@
     {
       "project_id" : "xxx8d88c6c7",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mdg",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -947,7 +947,7 @@
     {
       "project_id" : "xxx93d7b4e4",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mli",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -963,7 +963,7 @@
     {
       "project_id" : "xxxd4eb32d1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mli",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -979,7 +979,7 @@
     {
       "project_id" : "xxx07e532c5",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mli",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -995,7 +995,7 @@
     {
       "project_id" : "xxxebbf47b6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mli",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1011,7 +1011,7 @@
     {
       "project_id" : "xxxd71ece6b",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "moz",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1027,7 +1027,7 @@
     {
       "project_id" : "xxx28c6e88f",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mrt",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1043,7 +1043,7 @@
     {
       "project_id" : "xxxd7ebf5f9",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mrt",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1059,7 +1059,7 @@
     {
       "project_id" : "xxx5a23d457",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mrt",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1075,7 +1075,7 @@
     {
       "project_id" : "xxxb6a3debc",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mus",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1091,7 +1091,7 @@
     {
       "project_id" : "xxx28208261",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mus",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1107,7 +1107,7 @@
     {
       "project_id" : "xxx1fa48b2a",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mus",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1123,7 +1123,7 @@
     {
       "project_id" : "xxx6ae93d41",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mus",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1139,7 +1139,7 @@
     {
       "project_id" : "xxxf9f10d5c",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mus",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1155,7 +1155,7 @@
     {
       "project_id" : "xxx10b82a50",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mus",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1171,7 +1171,7 @@
     {
       "project_id" : "xxxeef33dc7",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mus",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1187,7 +1187,7 @@
     {
       "project_id" : "xxx0bb2b1cb",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mwi",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1203,7 +1203,7 @@
     {
       "project_id" : "xxxfcba6699",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mwi",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1219,7 +1219,7 @@
     {
       "project_id" : "xxxcbfce5e0",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mwi",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1235,7 +1235,7 @@
     {
       "project_id" : "xxxeaf5cb68",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mwi",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1251,7 +1251,7 @@
     {
       "project_id" : "xxx98406851",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mwi",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1267,7 +1267,7 @@
     {
       "project_id" : "xxxf5cea8ee",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "nam",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1283,7 +1283,7 @@
     {
       "project_id" : "xxx2256f56b",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "nam",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1299,7 +1299,7 @@
     {
       "project_id" : "xxx4ec957fd",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ner",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1315,7 +1315,7 @@
     {
       "project_id" : "xxxc922bc9d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ner",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1331,7 +1331,7 @@
     {
       "project_id" : "xxx6c3d6282",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ner",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1347,7 +1347,7 @@
     {
       "project_id" : "xxx9ed92acc",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ner",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1363,7 +1363,7 @@
     {
       "project_id" : "xxx9e93770f",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ner",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1379,7 +1379,7 @@
     {
       "project_id" : "xxx7ce76b17",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "nga",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1395,7 +1395,7 @@
     {
       "project_id" : "xxx847e3a98",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "nga",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1411,7 +1411,7 @@
     {
       "project_id" : "xxx1ff609a4",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "rwa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1427,7 +1427,7 @@
     {
       "project_id" : "xxx81d87bc9",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "rwa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1443,7 +1443,7 @@
     {
       "project_id" : "xxx499a5c9b",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "rwa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1459,7 +1459,7 @@
     {
       "project_id" : "xxx94f4cb04",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "rwa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1475,7 +1475,7 @@
     {
       "project_id" : "xxx405969be",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "rwa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1491,7 +1491,7 @@
     {
       "project_id" : "xxx37d689ee",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "rwa",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1507,7 +1507,7 @@
     {
       "project_id" : "xxxce2a0121",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "sen",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1523,7 +1523,7 @@
     {
       "project_id" : "xxx9227f01e",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "sen",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1539,7 +1539,7 @@
     {
       "project_id" : "xxx6d2fc108",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "sen",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1555,7 +1555,7 @@
     {
       "project_id" : "xxxbe807707",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "sle",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1571,7 +1571,7 @@
     {
       "project_id" : "xxx9708319c",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "sle",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1587,7 +1587,7 @@
     {
       "project_id" : "xxxbec20d7d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "sle",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1603,7 +1603,7 @@
     {
       "project_id" : "xxxf0dbbd33",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "ssd",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1619,7 +1619,7 @@
     {
       "project_id" : "xxx24b1107c",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "ssd",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1635,7 +1635,7 @@
     {
       "project_id" : "xxx739cbd03",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "stp",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1651,7 +1651,7 @@
     {
       "project_id" : "xxxa6773637",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "swz",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1667,7 +1667,7 @@
     {
       "project_id" : "xxxc3d39e23",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "swz",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1683,7 +1683,7 @@
     {
       "project_id" : "xxx5db74aa6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "swz",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1699,7 +1699,7 @@
     {
       "project_id" : "xxxd83e775a",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tcd",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1715,7 +1715,7 @@
     {
       "project_id" : "xxx908853a7",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tgo",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1731,7 +1731,7 @@
     {
       "project_id" : "xxx8edfb289",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tgo",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1747,7 +1747,7 @@
     {
       "project_id" : "xxxe6cc4060",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tgo",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1763,7 +1763,7 @@
     {
       "project_id" : "xxx8822b008",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tgo",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1779,7 +1779,7 @@
     {
       "project_id" : "xxxd7f99190",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tgo",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1795,7 +1795,7 @@
     {
       "project_id" : "xxx37162f7b",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "tza",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1811,7 +1811,7 @@
     {
       "project_id" : "xxx63a379bf",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tza",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1827,7 +1827,7 @@
     {
       "project_id" : "xxx64745523",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tza",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1843,7 +1843,7 @@
     {
       "project_id" : "xxx89c31ca6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tza",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1859,7 +1859,7 @@
     {
       "project_id" : "xxx59861bbc",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "uga",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1875,7 +1875,7 @@
     {
       "project_id" : "xxx283e4d13",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "uga",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1891,7 +1891,7 @@
     {
       "project_id" : "xxx726e6491",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "uga",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1907,7 +1907,7 @@
     {
       "project_id" : "xxx5a418d6c",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "uga",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1923,7 +1923,7 @@
     {
       "project_id" : "xxx5d9aa2a6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "zaf",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1939,7 +1939,7 @@
     {
       "project_id" : "xxxdf65bf21",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "zaf",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1955,7 +1955,7 @@
     {
       "project_id" : "xxxd9c00a62",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "zaf",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1971,7 +1971,7 @@
     {
       "project_id" : "xxx68ca2045",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "zaf",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -1987,7 +1987,7 @@
     {
       "project_id" : "xxx525dcf6c",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "zmb",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -2003,7 +2003,7 @@
     {
       "project_id" : "xxx152eae2e",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "zmb",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -2019,7 +2019,7 @@
     {
       "project_id" : "xxx386e4f05",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "zmb",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -2035,7 +2035,7 @@
     {
       "project_id" : "xxx1b9f0c04",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "zwe",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -2051,7 +2051,7 @@
     {
       "project_id" : "xxxc8d497bd",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "zwe",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -2067,7 +2067,7 @@
     {
       "project_id" : "xxx39bd2cdb",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "zwe",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -2083,7 +2083,7 @@
     {
       "project_id" : "xxx98881a4d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "zwe",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -2099,7 +2099,7 @@
     {
       "project_id" : "xxx828e5dea",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "zwe",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -2115,7 +2115,7 @@
     {
       "project_id" : "xxxea8807aa",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "zwe",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -2131,7 +2131,7 @@
     {
       "project_id" : "xxxda1bb2ed",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "zwe",
       "region" : "Africa",
       "territorial_focus" : null,
@@ -2147,7 +2147,7 @@
     {
       "project_id" : "xxx81a5b791",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "afg",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2163,7 +2163,7 @@
     {
       "project_id" : "xxx0ace1180",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "afg",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2179,7 +2179,7 @@
     {
       "project_id" : "xxx2008043b",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "afg",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2195,7 +2195,7 @@
     {
       "project_id" : "xxx304b0aee",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "afg",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2211,7 +2211,7 @@
     {
       "project_id" : "xxx471af225",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bgd",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2227,7 +2227,7 @@
     {
       "project_id" : "xxx3cfd96ec",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bgd",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2243,7 +2243,7 @@
     {
       "project_id" : "xxx98407aa9",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bgd",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2259,7 +2259,7 @@
     {
       "project_id" : "xxxef8d64fe",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bgd",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2275,7 +2275,7 @@
     {
       "project_id" : "xxx95f3cbee",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bgd",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2291,7 +2291,7 @@
     {
       "project_id" : "xxx72094e20",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bgd",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2307,7 +2307,7 @@
     {
       "project_id" : "xxxb1a076b4",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bgd",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2323,7 +2323,7 @@
     {
       "project_id" : "xxx56daac80",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "btn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2339,7 +2339,7 @@
     {
       "project_id" : "xxxb069e523",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2355,7 +2355,7 @@
     {
       "project_id" : "xxx6cf65211",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2371,7 +2371,7 @@
     {
       "project_id" : "xxx90969e7f",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2387,7 +2387,7 @@
     {
       "project_id" : "xxxddf1a842",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2403,7 +2403,7 @@
     {
       "project_id" : "xxx601bd626",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2419,7 +2419,7 @@
     {
       "project_id" : "xxx5e6b6e73",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2435,7 +2435,7 @@
     {
       "project_id" : "xxxaea7c74d",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2467,7 +2467,7 @@
     {
       "project_id" : "xxxfbaad56d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2483,7 +2483,7 @@
     {
       "project_id" : "xxx74f95d30",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2515,7 +2515,7 @@
     {
       "project_id" : "xxx353cbc3d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2531,7 +2531,7 @@
     {
       "project_id" : "xxx2616ef95",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2547,7 +2547,7 @@
     {
       "project_id" : "xxx78ccb74b",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2563,7 +2563,7 @@
     {
       "project_id" : "xxx82373cfb",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "chn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2579,7 +2579,7 @@
     {
       "project_id" : "xxx118d5107",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "fji",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2595,7 +2595,7 @@
     {
       "project_id" : "xxxedec705d",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "fji",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2611,7 +2611,7 @@
     {
       "project_id" : "xxx383af4e0",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "fji",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2627,7 +2627,7 @@
     {
       "project_id" : "xxx429f1b89",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "fji",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2643,7 +2643,7 @@
     {
       "project_id" : "xxx583d8399",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "idn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2659,7 +2659,7 @@
     {
       "project_id" : "xxxeed19997",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "idn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2675,7 +2675,7 @@
     {
       "project_id" : "xxx569491d5",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "idn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2691,7 +2691,7 @@
     {
       "project_id" : "xxx7c05cfa0",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "idn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2707,7 +2707,7 @@
     {
       "project_id" : "xxxcbf0afc3",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "idn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2723,7 +2723,7 @@
     {
       "project_id" : "xxx7ac4e364",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "ind",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2739,7 +2739,7 @@
     {
       "project_id" : "xxx7576c16f",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "ind",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2755,7 +2755,7 @@
     {
       "project_id" : "xxx1a23d7e6",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "ind",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2771,7 +2771,7 @@
     {
       "project_id" : "xxx11f1c91b",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ind",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2787,7 +2787,7 @@
     {
       "project_id" : "xxx7684c78c",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ind",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2803,7 +2803,7 @@
     {
       "project_id" : "xxxab602a57",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "irn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2819,7 +2819,7 @@
     {
       "project_id" : "xxxa91451da",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "irn",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2835,7 +2835,7 @@
     {
       "project_id" : "xxx03fb5437",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "khm",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2851,7 +2851,7 @@
     {
       "project_id" : "xxx9c8f3cd1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lao",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2867,7 +2867,7 @@
     {
       "project_id" : "xxxf3a05439",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lao",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2883,7 +2883,7 @@
     {
       "project_id" : "xxxb4090c75",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lao",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2899,7 +2899,7 @@
     {
       "project_id" : "xxx6f0795f3",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "lao",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2915,7 +2915,7 @@
     {
       "project_id" : "xxx9148deed",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lao",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2931,7 +2931,7 @@
     {
       "project_id" : "xxx77986ad8",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lao",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2947,7 +2947,7 @@
     {
       "project_id" : "xxx6d81fc32",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lka",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2963,7 +2963,7 @@
     {
       "project_id" : "xxx2ede0796",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mdv",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2979,7 +2979,7 @@
     {
       "project_id" : "xxx5c8d8413",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mmr",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -2995,7 +2995,7 @@
     {
       "project_id" : "xxx07fd6741",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mmr",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3011,7 +3011,7 @@
     {
       "project_id" : "xxx98040108",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mmr",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3027,7 +3027,7 @@
     {
       "project_id" : "xxx1f862e53",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mmr",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3043,7 +3043,7 @@
     {
       "project_id" : "xxxb6b27db9",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mmr",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3059,7 +3059,7 @@
     {
       "project_id" : "xxx90f8e98e",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mmr",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3075,7 +3075,7 @@
     {
       "project_id" : "xxxefbb867a",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mmr",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3091,7 +3091,7 @@
     {
       "project_id" : "xxx246009f1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mmr",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3107,7 +3107,7 @@
     {
       "project_id" : "xxx768772b6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mmr",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3123,7 +3123,7 @@
     {
       "project_id" : "xxx34111c3f",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "mng",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3139,7 +3139,7 @@
     {
       "project_id" : "xxxb47321ae",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "mng",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3155,7 +3155,7 @@
     {
       "project_id" : "xxx9c886df0",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mys",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3171,7 +3171,7 @@
     {
       "project_id" : "xxx9f7b397e",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mys",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3187,7 +3187,7 @@
     {
       "project_id" : "xxx4b4f4c2d",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3203,7 +3203,7 @@
     {
       "project_id" : "xxx7724f4be",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3219,7 +3219,7 @@
     {
       "project_id" : "xxx10dc9d30",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3235,7 +3235,7 @@
     {
       "project_id" : "xxx1ba9f410",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3251,7 +3251,7 @@
     {
       "project_id" : "xxx1aea7ec1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3267,7 +3267,7 @@
     {
       "project_id" : "xxx1253577d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3283,7 +3283,7 @@
     {
       "project_id" : "xxx9069e042",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3299,7 +3299,7 @@
     {
       "project_id" : "xxx94bfccdf",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3315,7 +3315,7 @@
     {
       "project_id" : "xxx7d2cc2d4",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3331,7 +3331,7 @@
     {
       "project_id" : "xxx5639b9dd",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3347,7 +3347,7 @@
     {
       "project_id" : "xxx0cab3d52",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3363,7 +3363,7 @@
     {
       "project_id" : "xxxca21f7c8",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3379,7 +3379,7 @@
     {
       "project_id" : "xxxd359079b",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3395,7 +3395,7 @@
     {
       "project_id" : "xxxc956dca9",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3411,7 +3411,7 @@
     {
       "project_id" : "xxx192528a4",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3427,7 +3427,7 @@
     {
       "project_id" : "xxxc2892994",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3443,7 +3443,7 @@
     {
       "project_id" : "xxx979127dc",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "npl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3459,7 +3459,7 @@
     {
       "project_id" : "xxxf1ac57ec",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "pak",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3475,7 +3475,7 @@
     {
       "project_id" : "xxx830fd394",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "pak",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3491,7 +3491,7 @@
     {
       "project_id" : "xxxe0eca918",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "pak",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3507,7 +3507,7 @@
     {
       "project_id" : "xxxbf179061",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "pak",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3523,7 +3523,7 @@
     {
       "project_id" : "xxxcb1ca8be",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "phl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3539,7 +3539,7 @@
     {
       "project_id" : "xxx06610772",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "phl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3555,7 +3555,7 @@
     {
       "project_id" : "xxx2848487d",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "phl",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3571,7 +3571,7 @@
     {
       "project_id" : "xxx6200eed2",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "png",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3587,7 +3587,7 @@
     {
       "project_id" : "xxxe474139d",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "png",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3603,7 +3603,7 @@
     {
       "project_id" : "xxx083ad6cd",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "png",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3619,7 +3619,7 @@
     {
       "project_id" : "xxxb37584b2",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "png",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3635,7 +3635,7 @@
     {
       "project_id" : "xxx191d3fab",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "png",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3651,7 +3651,7 @@
     {
       "project_id" : "xxx04a14ab0",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "prk",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3667,7 +3667,7 @@
     {
       "project_id" : "xxx065f35cb",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "tha",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3683,7 +3683,7 @@
     {
       "project_id" : "xxx4c616442",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tls",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3699,7 +3699,7 @@
     {
       "project_id" : "xxxa0661fd9",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tls",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3715,7 +3715,7 @@
     {
       "project_id" : "xxx074c5055",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "vnm",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3731,7 +3731,7 @@
     {
       "project_id" : "xxxf60bb4c4",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "vnm",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3747,7 +3747,7 @@
     {
       "project_id" : "xxxacdaaa35",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "wsm",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3763,7 +3763,7 @@
     {
       "project_id" : "xxx771d8e4d",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "wsm",
       "region" : "Asia & Pacific",
       "territorial_focus" : null,
@@ -3779,7 +3779,7 @@
     {
       "project_id" : "xxxc49e9e9c",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "are",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3795,7 +3795,7 @@
     {
       "project_id" : "xxx5866ca55",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bhr",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3811,7 +3811,7 @@
     {
       "project_id" : "xxxd584d9ab",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "dji",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3827,7 +3827,7 @@
     {
       "project_id" : "xxx5ea821bc",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "dza",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3843,7 +3843,7 @@
     {
       "project_id" : "xxx9f0f5b81",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "dza",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3859,7 +3859,7 @@
     {
       "project_id" : "xxx0030b841",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "dza",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3875,7 +3875,7 @@
     {
       "project_id" : "xxx7aad1ea4",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "egy",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3891,7 +3891,7 @@
     {
       "project_id" : "xxx5c5969d1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "egy",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3907,7 +3907,7 @@
     {
       "project_id" : "xxxc3da3ba5",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "egy",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3923,7 +3923,7 @@
     {
       "project_id" : "xxx3a6a856d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "egy",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3939,7 +3939,7 @@
     {
       "project_id" : "xxxc0fe0a52",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "irq",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3955,7 +3955,7 @@
     {
       "project_id" : "xxx19139788",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "irq",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3971,7 +3971,7 @@
     {
       "project_id" : "xxx418d24a6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "jor",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -3987,7 +3987,7 @@
     {
       "project_id" : "xxxd023e96a",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "jor",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4003,7 +4003,7 @@
     {
       "project_id" : "xxxe7700dd9",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "jor",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4019,7 +4019,7 @@
     {
       "project_id" : "xxxefcbc889",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "jor",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4035,7 +4035,7 @@
     {
       "project_id" : "xxx81d84989",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "kwt",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4051,7 +4051,7 @@
     {
       "project_id" : "xxx84137d35",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lbn",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4067,7 +4067,7 @@
     {
       "project_id" : "xxxfdc8fb3a",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lby",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4083,7 +4083,7 @@
     {
       "project_id" : "xxxc7f00e29",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "lby",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4099,7 +4099,7 @@
     {
       "project_id" : "xxxfbc31066",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "lby",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4115,7 +4115,7 @@
     {
       "project_id" : "xxx7c158537",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mar",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4131,7 +4131,7 @@
     {
       "project_id" : "xxx76f6b670",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mar",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4147,7 +4147,7 @@
     {
       "project_id" : "xxx4badaf8a",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mar",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4163,7 +4163,7 @@
     {
       "project_id" : "xxx60ba3207",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mar",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4179,7 +4179,7 @@
     {
       "project_id" : "xxxba3b4244",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mar",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4195,7 +4195,7 @@
     {
       "project_id" : "xxxfc25c219",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mar",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4211,7 +4211,7 @@
     {
       "project_id" : "xxx93278ea5",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "pal",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4227,7 +4227,7 @@
     {
       "project_id" : "xxxed1834b4",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "pal",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4243,7 +4243,7 @@
     {
       "project_id" : "xxx6158bc33",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "pal",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4259,7 +4259,7 @@
     {
       "project_id" : "xxx274fe5df",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "pal",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4275,7 +4275,7 @@
     {
       "project_id" : "xxx82d123dd",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "pal",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4291,7 +4291,7 @@
     {
       "project_id" : "xxx937f985e",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "sdn",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4307,7 +4307,7 @@
     {
       "project_id" : "xxx8290ba5f",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "sdn",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4323,7 +4323,7 @@
     {
       "project_id" : "xxx100d4f7d",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "som",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4339,7 +4339,7 @@
     {
       "project_id" : "xxx7954cee1",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "som",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4355,7 +4355,7 @@
     {
       "project_id" : "xxx2106fb8c",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "som",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4371,7 +4371,7 @@
     {
       "project_id" : "xxx8951e145",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tun",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4387,7 +4387,7 @@
     {
       "project_id" : "xxx32cecae5",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "tun",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4403,7 +4403,7 @@
     {
       "project_id" : "xxx6b9bb4d5",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "tun",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4419,7 +4419,7 @@
     {
       "project_id" : "xxxae0d0da0",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "tun",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4435,7 +4435,7 @@
     {
       "project_id" : "xxx5ad0de1c",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tun",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4451,7 +4451,7 @@
     {
       "project_id" : "xxx5903bb0f",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "yem",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4467,7 +4467,7 @@
     {
       "project_id" : "xxx60a22570",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "yem",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4483,7 +4483,7 @@
     {
       "project_id" : "xxx8578d88d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "yem",
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -4499,7 +4499,7 @@
     {
       "project_id" : "xxxcaf33e38",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "alb",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4515,7 +4515,7 @@
     {
       "project_id" : "xxxe86cc11e",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "arm",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4531,7 +4531,7 @@
     {
       "project_id" : "xxx582e1042",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : null,
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4547,7 +4547,7 @@
     {
       "project_id" : "xxx92ca447e",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : null,
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4563,7 +4563,7 @@
     {
       "project_id" : "xxxa1c709b9",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : null,
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4579,7 +4579,7 @@
     {
       "project_id" : "xxxd3887160",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "arm",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4595,7 +4595,7 @@
     {
       "project_id" : "xxxd5856129",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "arm",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4611,7 +4611,7 @@
     {
       "project_id" : "xxxfde1eb70",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "arm",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4627,7 +4627,7 @@
     {
       "project_id" : "xxx5ac915ec",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "aze",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4643,7 +4643,7 @@
     {
       "project_id" : "xxxc1c6bad6",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bih",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4659,7 +4659,7 @@
     {
       "project_id" : "xxx54d5bb9c",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bih",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4675,7 +4675,7 @@
     {
       "project_id" : "xxx79641c65",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bih",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4691,7 +4691,7 @@
     {
       "project_id" : "xxxaf310f01",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bih",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4707,7 +4707,7 @@
     {
       "project_id" : "xxx01257c09",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bih",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4723,7 +4723,7 @@
     {
       "project_id" : "xxx1e3344de",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "blr",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4739,7 +4739,7 @@
     {
       "project_id" : "xxxfbb855ef",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "blr",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4755,7 +4755,7 @@
     {
       "project_id" : "xxx88ebf064",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "blr",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4771,7 +4771,7 @@
     {
       "project_id" : "xxx15d97e17",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "blr",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4787,7 +4787,7 @@
     {
       "project_id" : "xxx7872c86b",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "blr",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4803,7 +4803,7 @@
     {
       "project_id" : "xxxb5f757dc",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cyp",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4819,7 +4819,7 @@
     {
       "project_id" : "xxx448201a4",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cyp",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4835,7 +4835,7 @@
     {
       "project_id" : "xxx03864ddb",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cyp",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4851,8 +4851,8 @@
     {
       "project_id" : "xxxa149b5f9",
       "open_project_id" : null,
-      "scale" : "global ",
-      "country_iso3" : "czk",
+      "scale" : "Global ",
+      "country_iso3" : "cze",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
       "thematic_focus" : null,
@@ -4867,7 +4867,7 @@
     {
       "project_id" : "xxxa97651ae",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "geo",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4883,7 +4883,7 @@
     {
       "project_id" : "xxxc32586c0",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "geo",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4899,7 +4899,7 @@
     {
       "project_id" : "xxxe2d3ba6f",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "geo",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4915,7 +4915,7 @@
     {
       "project_id" : "xxx159a3d18",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "geo",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4931,7 +4931,7 @@
     {
       "project_id" : "xxx665e19e1",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "geo",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4947,7 +4947,7 @@
     {
       "project_id" : "xxxc1e3a8dc",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "geo",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4963,7 +4963,7 @@
     {
       "project_id" : "xxx857e5e52",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "geo",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4979,7 +4979,7 @@
     {
       "project_id" : "xxx191aef4c",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "hrv",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -4995,7 +4995,7 @@
     {
       "project_id" : "xxx40d28458",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "hrv",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5011,7 +5011,7 @@
     {
       "project_id" : "xxx51d92b4c",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "hrv",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5027,7 +5027,7 @@
     {
       "project_id" : "xxx34dc35c0",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "hrv",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5043,7 +5043,7 @@
     {
       "project_id" : "xxx222bfb94",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kaz",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5059,7 +5059,7 @@
     {
       "project_id" : "xxx9f74a2aa",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kaz",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5075,7 +5075,7 @@
     {
       "project_id" : "xxx2f8c1497",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kaz",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5091,7 +5091,7 @@
     {
       "project_id" : "xxx79b2e511",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kaz",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5107,7 +5107,7 @@
     {
       "project_id" : "xxxcaf5c8bb",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kgz",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5123,7 +5123,7 @@
     {
       "project_id" : "xxxc4e2a1b9",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kgz",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5139,7 +5139,7 @@
     {
       "project_id" : "xxxdc85ad7a",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kgz",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5155,7 +5155,7 @@
     {
       "project_id" : "xxx1152bb41",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "kgz",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5171,7 +5171,7 @@
     {
       "project_id" : "xxx5b00585d",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kos",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5187,7 +5187,7 @@
     {
       "project_id" : "xxxcd5a13f9",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "kos",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5203,7 +5203,7 @@
     {
       "project_id" : "xxx647a21b2",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kos",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5219,7 +5219,7 @@
     {
       "project_id" : "xxxdbc43141",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kos",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5235,7 +5235,7 @@
     {
       "project_id" : "xxx111d6094",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "kos",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5251,7 +5251,7 @@
     {
       "project_id" : "xxx96c02202",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kos",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5267,7 +5267,7 @@
     {
       "project_id" : "xxxd77b7c81",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "kos",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5283,7 +5283,7 @@
     {
       "project_id" : "xxx322450c6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5299,7 +5299,7 @@
     {
       "project_id" : "xxxea46dd31",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5315,7 +5315,7 @@
     {
       "project_id" : "xxx0720df0e",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5331,7 +5331,7 @@
     {
       "project_id" : "xxxd19f91ae",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5347,7 +5347,7 @@
     {
       "project_id" : "xxxf964644a",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5363,7 +5363,7 @@
     {
       "project_id" : "xxxfb94ba9a",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5379,7 +5379,7 @@
     {
       "project_id" : "xxxefd07ec4",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5395,7 +5395,7 @@
     {
       "project_id" : "xxx0f0a9ae0",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5411,7 +5411,7 @@
     {
       "project_id" : "xxx1155174c",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5427,7 +5427,7 @@
     {
       "project_id" : "xxx1fbf4967",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5443,7 +5443,7 @@
     {
       "project_id" : "xxxa966356e",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5459,7 +5459,7 @@
     {
       "project_id" : "xxx3d510a92",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5475,7 +5475,7 @@
     {
       "project_id" : "xxx23af8fdf",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mda",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5491,7 +5491,7 @@
     {
       "project_id" : "xxx8ec4b090",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mkd",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5507,7 +5507,7 @@
     {
       "project_id" : "xxx64dc4eca",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mkd",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5523,7 +5523,7 @@
     {
       "project_id" : "xxx5a7902ce",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mkd",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5539,7 +5539,7 @@
     {
       "project_id" : "xxx3c22790f",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mkd",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5555,7 +5555,7 @@
     {
       "project_id" : "xxxa3507e15",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mne",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5571,7 +5571,7 @@
     {
       "project_id" : "xxx2c05a05f",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mne",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5587,7 +5587,7 @@
     {
       "project_id" : "xxxbaa69814",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mne",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5603,7 +5603,7 @@
     {
       "project_id" : "xxxc5c557fd",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mne",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5619,7 +5619,7 @@
     {
       "project_id" : "xxx92fc78d7",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "rou",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5635,7 +5635,7 @@
     {
       "project_id" : "xxx3e212b10",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "rou",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5651,7 +5651,7 @@
     {
       "project_id" : "xxx66f741f8",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "rus",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5667,7 +5667,7 @@
     {
       "project_id" : "xxx02584ccc",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "rus",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5683,7 +5683,7 @@
     {
       "project_id" : "xxx6823cfd6",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "srb",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5699,7 +5699,7 @@
     {
       "project_id" : "xxxc2cc0dbc",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "srb",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5715,7 +5715,7 @@
     {
       "project_id" : "xxxbdc719e3",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tjk",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5731,7 +5731,7 @@
     {
       "project_id" : "xxxf7e0e2b6",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "tjk",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5747,7 +5747,7 @@
     {
       "project_id" : "xxx0232c7cb",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "tjk",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5763,7 +5763,7 @@
     {
       "project_id" : "xxx506a1ee6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tjk",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5779,7 +5779,7 @@
     {
       "project_id" : "xxxbd2e985a",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "tjk",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5795,7 +5795,7 @@
     {
       "project_id" : "xxx12a4f90b",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "tjk",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5811,7 +5811,7 @@
     {
       "project_id" : "xxxcaeb3f49",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tjk",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5827,7 +5827,7 @@
     {
       "project_id" : "xxx924f5da0",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tkm",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5843,7 +5843,7 @@
     {
       "project_id" : "xxx9fff7f30",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tkm",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5859,7 +5859,7 @@
     {
       "project_id" : "xxxd48b950d",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "tur",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5875,7 +5875,7 @@
     {
       "project_id" : "xxxefce4f5b",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "tur",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5891,7 +5891,7 @@
     {
       "project_id" : "xxx48b9e3ac",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ukr",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5907,7 +5907,7 @@
     {
       "project_id" : "xxxfe933b38",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ukr",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5923,7 +5923,7 @@
     {
       "project_id" : "xxx7024ab22",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ukr",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5939,7 +5939,7 @@
     {
       "project_id" : "xxx7094596c",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "ukr",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5955,7 +5955,7 @@
     {
       "project_id" : "xxx5973e6aa",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "ukr",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5971,7 +5971,7 @@
     {
       "project_id" : "xxx39a9fd1f",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "uzb",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -5987,7 +5987,7 @@
     {
       "project_id" : "xxx6260097c",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "uzb",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -6003,7 +6003,7 @@
     {
       "project_id" : "xxx0a056d03",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "uzb",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -6019,7 +6019,7 @@
     {
       "project_id" : "xxxa701ac66",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "uzb",
       "region" : "Europe & CIS",
       "territorial_focus" : null,
@@ -6035,7 +6035,7 @@
     {
       "project_id" : "xxx5978c184",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "arg",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6051,7 +6051,7 @@
     {
       "project_id" : "xxxf0ae9ad5",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "blz",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6067,7 +6067,7 @@
     {
       "project_id" : "xxx9f31e741",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "blz",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6083,7 +6083,7 @@
     {
       "project_id" : "xxxb31b0230",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "blz",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6099,7 +6099,7 @@
     {
       "project_id" : "xxx36c1d37e",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bol",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6115,7 +6115,7 @@
     {
       "project_id" : "xxx9f4d2a37",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bol",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6131,7 +6131,7 @@
     {
       "project_id" : "xxx20896acf",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bol",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6147,7 +6147,7 @@
     {
       "project_id" : "xxx58c99d73",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bol",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6163,7 +6163,7 @@
     {
       "project_id" : "xxx7e5258c9",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bol",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6179,7 +6179,7 @@
     {
       "project_id" : "xxx9dad0bcd",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "bra",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6195,7 +6195,7 @@
     {
       "project_id" : "xxx890f79ae",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "bra",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6211,7 +6211,7 @@
     {
       "project_id" : "xxxd6d8c6ea",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "brb",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6227,7 +6227,7 @@
     {
       "project_id" : "xxxfd3b9458",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "brb",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6243,7 +6243,7 @@
     {
       "project_id" : "xxx5c19d0d0",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "chl",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6259,7 +6259,7 @@
     {
       "project_id" : "xxx6fb76f3d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "chl",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6275,7 +6275,7 @@
     {
       "project_id" : "xxx88634ad6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "chl",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6291,7 +6291,7 @@
     {
       "project_id" : "xxx04fd3bf2",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "col",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6307,7 +6307,7 @@
     {
       "project_id" : "xxx6b2b9cef",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "col",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6323,7 +6323,7 @@
     {
       "project_id" : "xxxd8383ef9",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "col",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6339,7 +6339,7 @@
     {
       "project_id" : "xxx116f1e6b",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cri",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6355,7 +6355,7 @@
     {
       "project_id" : "xxxb7558ea8",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cub",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6371,7 +6371,7 @@
     {
       "project_id" : "xxx78eb44d1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cub",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6387,7 +6387,7 @@
     {
       "project_id" : "xxx22673d0b",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cub",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6403,7 +6403,7 @@
     {
       "project_id" : "xxx5c2ac610",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cub",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6419,7 +6419,7 @@
     {
       "project_id" : "xxx6ef60b56",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cub",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6435,7 +6435,7 @@
     {
       "project_id" : "xxxcbddde55",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cub",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6451,7 +6451,7 @@
     {
       "project_id" : "xxxdd4c9be2",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cub",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6467,7 +6467,7 @@
     {
       "project_id" : "xxx156d5ab1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cub",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6483,7 +6483,7 @@
     {
       "project_id" : "xxxa73f3108",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "cub",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6499,7 +6499,7 @@
     {
       "project_id" : "xxx9748acd8",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "dom",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6515,7 +6515,7 @@
     {
       "project_id" : "xxxa2ebc7e5",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "dom",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6531,7 +6531,7 @@
     {
       "project_id" : "xxxa700da6d",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "ecu",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6547,7 +6547,7 @@
     {
       "project_id" : "xxxc3449187",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "ecu",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6563,7 +6563,7 @@
     {
       "project_id" : "xxx5f12f620",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ecu",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6579,7 +6579,7 @@
     {
       "project_id" : "xxxf8ce8740",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ecu",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6595,7 +6595,7 @@
     {
       "project_id" : "xxx83fc1989",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ecu",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6611,7 +6611,7 @@
     {
       "project_id" : "xxx016e4e99",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ecu",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6627,7 +6627,7 @@
     {
       "project_id" : "xxxed783899",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ecu",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6643,7 +6643,7 @@
     {
       "project_id" : "xxx704e6b22",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "gtm",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6659,7 +6659,7 @@
     {
       "project_id" : "xxx300fe5c1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "gtm",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6675,7 +6675,7 @@
     {
       "project_id" : "xxx14d258c9",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "guy",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6691,7 +6691,7 @@
     {
       "project_id" : "xxxcf6daca0",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "guy",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6707,7 +6707,7 @@
     {
       "project_id" : "xxx2df6e3c0",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "guy",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6723,7 +6723,7 @@
     {
       "project_id" : "xxx562812de",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "hnd",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6739,7 +6739,7 @@
     {
       "project_id" : "xxx391c4009",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "hnd",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6755,7 +6755,7 @@
     {
       "project_id" : "xxx4d4ab401",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "hnd",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6771,7 +6771,7 @@
     {
       "project_id" : "xxx6ce90213",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "hnd",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6787,7 +6787,7 @@
     {
       "project_id" : "xxx375e94e0",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "hti",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6803,7 +6803,7 @@
     {
       "project_id" : "xxx56c71e2a",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "hti",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6819,7 +6819,7 @@
     {
       "project_id" : "xxx7df52117",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "jam",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6835,7 +6835,7 @@
     {
       "project_id" : "xxx2ce67429",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "jam",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6851,7 +6851,7 @@
     {
       "project_id" : "xxxc9fdcbe2",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "jam",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6883,7 +6883,7 @@
     {
       "project_id" : "xxxd27e1600",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mex",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6899,7 +6899,7 @@
     {
       "project_id" : "xxx11a5b66f",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "mex",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6931,7 +6931,7 @@
     {
       "project_id" : "xxx9ac0f8cd",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mex",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6963,7 +6963,7 @@
     {
       "project_id" : "xxx804de80b",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "mex",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6979,7 +6979,7 @@
     {
       "project_id" : "xxx47608df6",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mex",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -6995,7 +6995,7 @@
     {
       "project_id" : "xxxd8395f7f",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "mex",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7011,7 +7011,7 @@
     {
       "project_id" : "xxx3d09284f",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "nic",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7027,7 +7027,7 @@
     {
       "project_id" : "xxx0f00d857",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "nic",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7043,7 +7043,7 @@
     {
       "project_id" : "xxxc34a2980",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "nic",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7059,7 +7059,7 @@
     {
       "project_id" : "xxxc23c6602",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "pan",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7075,7 +7075,7 @@
     {
       "project_id" : "xxx2beabed9",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "per",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7091,7 +7091,7 @@
     {
       "project_id" : "xxx46cd1226",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "per",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7107,7 +7107,7 @@
     {
       "project_id" : "xxx59fd6ea1",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "per",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7123,7 +7123,7 @@
     {
       "project_id" : "xxxe4523635",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "per",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7139,7 +7139,7 @@
     {
       "project_id" : "xxx9ff0cb99",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "per",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7155,7 +7155,7 @@
     {
       "project_id" : "xxx85e1238b",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "per",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7171,7 +7171,7 @@
     {
       "project_id" : "xxxa2115574",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "pry",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7187,7 +7187,7 @@
     {
       "project_id" : "xxx33b1401d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "pry",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7203,7 +7203,7 @@
     {
       "project_id" : "xxxe05b803c",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "pry",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7219,7 +7219,7 @@
     {
       "project_id" : "xxx555a0522",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "pry",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7235,7 +7235,7 @@
     {
       "project_id" : "xxx6856a005",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "slv",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7251,7 +7251,7 @@
     {
       "project_id" : "xxx09b60c03",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "slv",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7267,7 +7267,7 @@
     {
       "project_id" : "xxx2dba23d4",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "slv",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7283,7 +7283,7 @@
     {
       "project_id" : "xxxa6398c25",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "slv",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7299,7 +7299,7 @@
     {
       "project_id" : "xxx653a66af",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : "slv",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7315,7 +7315,7 @@
     {
       "project_id" : "xxx50ec40ae",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "sur",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7331,7 +7331,7 @@
     {
       "project_id" : "xxx33864b3d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "sur",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7347,7 +7347,7 @@
     {
       "project_id" : "xxx703694df",
       "open_project_id" : null,
-      "scale" : "global ",
+      "scale" : "Global ",
       "country_iso3" : "sur",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7363,7 +7363,7 @@
     {
       "project_id" : "xxxbc566052",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "tto",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7379,7 +7379,7 @@
     {
       "project_id" : "xxxca1eb2dd",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ury",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7395,7 +7395,7 @@
     {
       "project_id" : "xxxbcd93b0d",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ury",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7411,7 +7411,7 @@
     {
       "project_id" : "xxx5f871ec9",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ven",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7427,7 +7427,7 @@
     {
       "project_id" : "xxx499d6e79",
       "open_project_id" : null,
-      "scale" : "country-country",
+      "scale" : "Country-Country",
       "country_iso3" : "ven",
       "region" : "Latin America & Caribbean",
       "territorial_focus" : null,
@@ -7443,7 +7443,7 @@
     {
       "project_id" : "xxx30d10815",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : null,
       "region" : "Africa",
       "territorial_focus" : null,
@@ -7459,7 +7459,7 @@
     {
       "project_id" : "xxxa60a811a",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : null,
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -7475,7 +7475,7 @@
     {
       "project_id" : "xxxdc7cac04",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : null,
       "region" : "Arab States",
       "territorial_focus" : null,
@@ -7491,7 +7491,7 @@
     {
       "project_id" : "xxx484ef034",
       "open_project_id" : null,
-      "scale" : "regional",
+      "scale" : "Regional",
       "country_iso3" : null,
       "region" : "Arab States",
       "territorial_focus" : null,
