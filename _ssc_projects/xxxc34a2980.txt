@@ -2,6 +2,7 @@
 open_project_id: ""
 thematic_focus: 
 country: 
+  - NIC
 region: 
   - lac
 partner_type: 

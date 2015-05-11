@@ -2,6 +2,7 @@
 open_project_id: ""
 thematic_focus: 
 country: 
+  - GNB
 region: 
   - africa
 partner_type: 

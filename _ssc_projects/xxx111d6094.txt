@@ -2,6 +2,7 @@
 open_project_id: ""
 thematic_focus: 
 country: 
+  - KOS
 region: 
   - europe_cis
 partner_type: 

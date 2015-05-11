@@ -2,6 +2,7 @@
 open_project_id: ""
 thematic_focus: 
 country: 
+  - PAN
 region: 
   - lac
 partner_type: 

@@ -2,6 +2,7 @@
 open_project_id: ""
 thematic_focus: 
 country: 
+  - GNQ
 region: 
   - africa
 partner_type: 

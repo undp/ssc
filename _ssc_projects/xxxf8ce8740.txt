@@ -2,6 +2,7 @@
 open_project_id: ""
 thematic_focus: 
 country: 
+  - ECU
 region: 
   - lac
 partner_type: 

@@ -2,6 +2,7 @@
 open_project_id: ""
 thematic_focus: 
 country: 
+  - ZMB
 region: 
   - africa
 partner_type: 

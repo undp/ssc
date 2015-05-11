@@ -2,6 +2,7 @@
 open_project_id: ""
 thematic_focus: 
 country: 
+  - SOM
 region: 
   - arab_states
 partner_type: 

@@ -2,6 +2,7 @@
 open_project_id: ""
 thematic_focus: 
 country: 
+  - LAO
 region: 
   - asia_pacific
 partner_type: 
