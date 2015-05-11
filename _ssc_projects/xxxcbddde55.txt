@@ -6,7 +6,7 @@ region:
   - lac
 partner_type: 
   - private_sector
-project_title: 00091822 - Apoyo al Banco Central de Cuba - para acceso a redes del conocimiento del Sur en: temas especializados bancario-financieros: Riesgos operativos, Balanza de pagos, planificacion estrategica, microcreditos y microfinanzas.
+project_title: 00091822 - Apoyo al Banco Central de Cuba - para acceso a redes del conocimiento del Sur en - temas especializados bancario-financieros - Riesgos operativos, Balanza de pagos, planificacion estrategica, microcreditos y microfinanzas.
 scale: country-country
 project_objective: Apoyada la modernizacion de la Banca Central y  principales bancos comerciales en Cuba,  con acceso a redes del conocimiento del Sur, a traves de capacitaciones especializadas que fortaleceran sus capacidades de analisis  proyeccion financiera y la implementacion de nuevos instrumentos para servicios financieros a la poblacion, cooperativas y cuentapropistas (privados).
 territorial_focus: 

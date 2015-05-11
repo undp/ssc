@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-As witnessed by the participants (http://europeandcis.undp.org/blog/2015/01/13/one-step-at-a-time-why-moldova-came-to-cyprus/), the examples observed in Cyprus inspired the generation of several ideas for joint work that would be used in the future. As the Support to Confidence Building Programme continues in a new 2015-2018 phase, these ideas will contribute to the development of sustainable partnership across the divide, taking into consideration the Cypriot experience also.
+As witnessed by the participants (http -//europeandcis.undp.org/blog/2015/01/13/one-step-at-a-time-why-moldova-came-to-cyprus/), the examples observed in Cyprus inspired the generation of several ideas for joint work that would be used in the future. As the Support to Confidence Building Programme continues in a new 2015-2018 phase, these ideas will contribute to the development of sustainable partnership across the divide, taking into consideration the Cypriot experience also.

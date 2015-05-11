@@ -14,6 +14,6 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-1. http://europeandcis.undp.org/blog/2014/03/31/back-to-the-future-innovation-takes-flight/
-2. http://europeandcis.undp.org/blog/2014/04/28/riding-edge-future-we-want-today/
-3. https://edgeryders.eu/en/futurespotters-workshops-the-aftermath
+1. http -//europeandcis.undp.org/blog/2014/03/31/back-to-the-future-innovation-takes-flight/
+2. http -//europeandcis.undp.org/blog/2014/04/28/riding-edge-future-we-want-today/
+3. https -//edgeryders.eu/en/futurespotters-workshops-the-aftermath

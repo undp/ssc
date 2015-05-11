@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-S–S cooperation enhanced the institutional capacity from federal to community level. The trained experts successfully managed the planning and trained other experts and community members. The preparation of the Federal DRM plan is also supported by the trained expects. The contribution of S-S cooperation with ADPC was significant in the preparation of regional DRM plans and implementation of CBDRM approaches at community level.
+S-S cooperation enhanced the institutional capacity from federal to community level. The trained experts successfully managed the planning and trained other experts and community members. The preparation of the Federal DRM plan is also supported by the trained expects. The contribution of S-S cooperation with ADPC was significant in the preparation of regional DRM plans and implementation of CBDRM approaches at community level.

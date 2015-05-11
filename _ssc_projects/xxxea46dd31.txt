@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-Moldovan officials strengthened capacities to further progress on the reform agenda related to the EU integration  (http://www.mfa.gov.md/comunicate-presa-md/498149/)
+Moldovan officials strengthened capacities to further progress on the reform agenda related to the EU integration  (http -//www.mfa.gov.md/comunicate-presa-md/498149/)

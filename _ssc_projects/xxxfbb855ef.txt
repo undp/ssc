@@ -8,7 +8,7 @@ partner_type:
   - national_governments
 project_title: Experience exchange with Azerbaijan in the area of management of small arms and lights weapons and ensuring their safekeeping
 scale: country-country
-project_objective: UNDP Belarus supported visit of representatives of the Ministry of Defense of Belarus to Azerbaijan to help them learn about best practices of UNDP and government cost-sharing to the project. The following area of ANAMA activity was of most interest to Belarus: development of a joint action combining state and international organizations strategies, principles, funds, competencies and other capacities to address important issues, which require high-quality sustainable solutions.
+project_objective: UNDP Belarus supported visit of representatives of the Ministry of Defense of Belarus to Azerbaijan to help them learn about best practices of UNDP and government cost-sharing to the project. The following area of ANAMA activity was of most interest to Belarus - development of a joint action combining state and international organizations strategies, principles, funds, competencies and other capacities to address important issues, which require high-quality sustainable solutions.
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker

@@ -14,4 +14,4 @@ undp_role_type:
   - facilitator_of_partnerships
 published: true
 ---
-The Alliance for Small Island States was able to use face-to-face instruction, e.g. NYC course to discuss common positions for the 2014/2015 climate change negotiations [E59].  A participant of the Singapore workshop also noted,"Participants worked together, to arrive at a point where national, regional and international interests converge to reach a mutual agreement." [E37]
+The Alliance for Small Island States was able to use face-to-face instruction, e.g. NYC course to discuss common positions for the 2014/2015 climate change negotiations [E59].  A participant of the Singapore workshop also noted,'Participants worked together, to arrive at a point where national, regional and international interests converge to reach a mutual agreement.' [E37]

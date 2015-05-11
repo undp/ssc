@@ -8,8 +8,7 @@ partner_type:
   - national_governments
 project_title: Public Sector Reform  - Performance Management for the public service
 scale: regional
-project_objective: The Public Service Reform is built using best practices and expertise of other developing countries that have functioning public performance management systems. UNDP facilitated the exchange & analysis of models in Kenya on public sector reform, specifically on the performance management system in public service.
-After analysis, a Kenyan expert from GoK was selected to support the GoL to implement the performance management system (initially as Gov2Got support, then longer term consultancy.
+project_objective: The Public Service Reform is built using best practices and expertise of other developing countries that have functioning public performance management systems. UNDP facilitated the exchange & analysis of models in Kenya on public sector reform, specifically on the performance management system in public service.After analysis, a Kenyan expert from GoK was selected to support the GoL to implement the performance management system (initially as Gov2Got support, then longer term consultancy.
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker

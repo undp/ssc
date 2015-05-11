@@ -6,7 +6,7 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: Proyecto 00091816: Bagazo enriquecido - Actividad de inicio del proyecto para establecer los protocolos de trabajo en la produccion de Bagazo enriquecido por fermentacion solida con contrapartes del Proyecto en Argentina y Mexico.
+project_title: Proyecto 00091816 - Bagazo enriquecido - Actividad de inicio del proyecto para establecer los protocolos de trabajo en la produccion de Bagazo enriquecido por fermentacion solida con contrapartes del Proyecto en Argentina y Mexico.
 scale: country-country
 project_objective: Establecidos protocolos de trabajo, en reunion inicial del Proyecto en Mexico, con Universidades de Iztapalapa Mexico y Tucumen en Argentina, para la produccion de Bagazo enriquecido por fermentacion solida, incrementando el valor proteico para alimento animal y tratamiento de un residual azucarero altamente contaminante. Se acordaron los planes de trabajo y distribucion de actividades, roles y responsabilidades.
 territorial_focus: 

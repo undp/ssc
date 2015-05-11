@@ -8,9 +8,7 @@ partner_type:
   - national_governments
 project_title: The Development of the Continuous Education Curriculum of the Judiciary in the Maldives
 scale: country-country
-project_objective: This Project seeks to develop a continuous training curriculum for judges in the Maldives, tailored to address the needs of the Judiciary and to enhance the quality of court adjudication and, in turn, the justice sector in Maldives.  
-
-This Project also seeks to establish the operation of the Judicial Training Centre in the Maldives, which would be responsible for carrying out continuous training and capacity building activities for judges in the Maldives.
+project_objective: This Project seeks to develop a continuous training curriculum for judges in the Maldives, tailored to address the needs of the Judiciary and to enhance the quality of court adjudication and, in turn, the justice sector in Maldives.  This Project also seeks to establish the operation of the Judicial Training Centre in the Maldives, which would be responsible for carrying out continuous training and capacity building activities for judges in the Maldives.
 territorial_focus: 
 undp_role_type: 
   - facilitator_of_partnerships

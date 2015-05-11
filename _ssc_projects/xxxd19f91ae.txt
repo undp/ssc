@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-CEC developed the “Instruction on the processing of personal data in electoral purposes" to recieve the certification from the National Center for Personal Data Protection; Cooperation Agreement signed between the Election Training Centers (Project Report and Central Elections Commission Report)
+CEC developed the “Instruction on the processing of personal data in electoral purposes' to recieve the certification from the National Center for Personal Data Protection; Cooperation Agreement signed between the Election Training Centers (Project Report and Central Elections Commission Report)

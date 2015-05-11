@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-Four constituency offices established by the Parliament of Moldova: Parliament Newsletter, No.1 2014, p. 34-35.
+Four constituency offices established by the Parliament of Moldova - Parliament Newsletter, No.1 2014, p. 34-35.

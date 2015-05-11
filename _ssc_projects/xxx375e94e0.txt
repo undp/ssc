@@ -14,6 +14,6 @@ undp_role_type:
   - facilitator_of_partnerships
 published: true
 ---
-Le rapport trimestriel au bailleur rapporte les résultats suivants de l’initiative :
+Le rapport trimestriel au bailleur rapporte les résultats suivants de l’initiative  -
 Une centaine de jardins potagers mis en place dans les communautés et pour lesquels les semences ont été distribuées.
 Formation de promoteurs sur la gestion des jardins potagers, des semences et la génération de semences locales.

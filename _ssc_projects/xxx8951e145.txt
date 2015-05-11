@@ -15,6 +15,6 @@ undp_role_type:
   - builder_of_capacities
 published: true
 ---
-• Maroc et Union Interparlementaire : expertise internationale sur le cadre juridique garantissant la mise en œuvre de l’autonomie administrative et financiere du parlement tunisien.
-• 4 femmes deputees a l Assemblee nationale francaise: lois relatives a l egalite, le renforcement du role des femmes et des legislations recentes en France pour lutter contre la violence domestique
-• 4 fonctionnaires parlementaires seniors formes par le Parlement canadien.
+ Maroc et Union Interparlementaire  - expertise internationale sur le cadre juridique garantissant la mise en œuvre de l’autonomie administrative et financiere du parlement tunisien.
+ 4 femmes deputees a l Assemblee nationale francaise - lois relatives a l egalite, le renforcement du role des femmes et des legislations recentes en France pour lutter contre la violence domestique
+ 4 fonctionnaires parlementaires seniors formes par le Parlement canadien.

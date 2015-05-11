@@ -8,7 +8,7 @@ partner_type:
   - national_governments
 project_title: Renforcement des capacites des commissaires de l’Instance verite et dignite (IVD) a travers l’echange d’experiences avec d’autres pays ayant mise en œuvre des processus de justice transitionnelle.
 scale: global 
-project_objective: Le PNUD a participe dans l’organisation d’une serie d’echanges d’experiences ayant pour objectif de permettre aux 15 commissaires de faciliter la mise en œuvre de leurs missions sur la base des bonnes pratiques internationales. C’est ainsi qui ont ete organisees entre autres : une conference internationale et un atelier sur la mise en place de l’IVD en juin entier ; et, une visite d’etude au Maroc en septembre pour mieux connaitre le travail realise par l’Instance Equite et Reconciliation
+project_objective: Le PNUD a participe dans l’organisation d’une serie d’echanges d’experiences ayant pour objectif de permettre aux 15 commissaires de faciliter la mise en œuvre de leurs missions sur la base des bonnes pratiques internationales. C’est ainsi qui ont ete organisees entre autres  - une conference internationale et un atelier sur la mise en place de l’IVD en juin entier ; et, une visite d’etude au Maroc en septembre pour mieux connaitre le travail realise par l’Instance Equite et Reconciliation
 territorial_focus: 
 undp_role_type: 
   - builder_of_capacities

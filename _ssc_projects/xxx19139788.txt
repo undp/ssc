@@ -8,8 +8,7 @@ partner_type:
   - national_governments
 project_title: Initiating South South Cooperation in the Government of Iraq
 scale: global 
-project_objective: UNDP organized a monitoring and evaluation workshop among countries which receive large volume of concessional loans. The workshop was held as a concrete South-South Cooperation initiative among 7 countries which receive a large volume of concessional loans (Iraq, Philippines, Vietnam, Bangladesh, India, Egypt, and Tunisia) for enhanced M&E mechanism to improve the social and economic infrastructure.
-The PMAC established a South -South Unit.
+project_objective: UNDP organized a monitoring and evaluation workshop among countries which receive large volume of concessional loans. The workshop was held as a concrete South-South Cooperation initiative among 7 countries which receive a large volume of concessional loans (Iraq, Philippines, Vietnam, Bangladesh, India, Egypt, and Tunisia) for enhanced M&E mechanism to improve the social and economic infrastructure.The PMAC established a South -South Unit.
 territorial_focus: 
 undp_role_type: 
   - builder_of_capacities

@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-Abril –Junio 2014 Publicacion Ministerio del Ambiente, Boletin Somos SNAP No. 6, 2014 Memoria el Taller “La construccion de la sostenibilidad para la gestion territorial
+Abril -Junio 2014 Publicacion Ministerio del Ambiente, Boletin Somos SNAP No. 6, 2014 Memoria el Taller “La construccion de la sostenibilidad para la gestion territorial

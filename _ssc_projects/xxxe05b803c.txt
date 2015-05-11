@@ -14,9 +14,9 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-Como resultado del intercambio los gobiernos locales firmaron un convenio de hermandad y trabajaron principalmente en el  intercambio de herramientas tales como: 
+Como resultado del intercambio los gobiernos locales firmaron un convenio de hermandad y trabajaron principalmente en el  intercambio de herramientas tales como - 
 - Sistemas de tratamiento de agua 
 - Fuentes alternativas de producción para le generación de ingresos a nivel familiar 
 - Modelos de trabajos en GRR en escuelas.
-http://www.abc.com.py/nacionales/sobrevivencia-en-el-chaco-es-increible-dice-alcalde-ecuatoriano-1289176.html
- http://www.cumanda.gob.ec/alcaldia/transicion
+http -//www.abc.com.py/nacionales/sobrevivencia-en-el-chaco-es-increible-dice-alcalde-ecuatoriano-1289176.html
+ http -//www.cumanda.gob.ec/alcaldia/transicion

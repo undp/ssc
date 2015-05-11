@@ -6,8 +6,7 @@ region:
   - africa
 partner_type: 
   - national_governments
-project_title: 1.Capital freight reversal and development financing
-2. Project management and financial resource mobilization
+project_title: 1.Capital freight reversal and development financing2. Project management and financial resource mobilization
 scale: regional
 project_objective: The UNDP-funded initiative was to guide developing countries within East African region in building strong relationships with local, regional, and International development partners and be able to manage their freight, manage projects and their corresponding resources.
 territorial_focus: 
@@ -15,4 +14,4 @@ undp_role_type:
   - facilitator_of_partnerships
 published: true
 ---
-Existence of a functional Public Investment management Information system. (Source:  Briefing Note on CDAE Project Capacity Development Programme for MoFPED/ALD, p.2)
+Existence of a functional Public Investment management Information system. (Source -  Briefing Note on CDAE Project Capacity Development Programme for MoFPED/ALD, p.2)

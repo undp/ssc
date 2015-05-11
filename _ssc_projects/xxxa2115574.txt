@@ -15,5 +15,5 @@ undp_role_type:
 published: true
 ---
 El proceso resultó en un intercambio de  lecciones aprendidas  y buenas practicas en gestion y reduccion de riesgos entre los municipios en referencia; además de crear lazos en la construcción de capacidades entre las instituciones. 
-http://www.py.undp.org/content/paraguay/es/home/presscenter/articles/2013/12/05/la-paz-y-asunci-n-intercambian-experiencias-para-la-gesti-n-de-riesgos-urbanos.html
-http://www.mca.gov.py/noticias/221113_2.html
+http -//www.py.undp.org/content/paraguay/es/home/presscenter/articles/2013/12/05/la-paz-y-asunci-n-intercambian-experiencias-para-la-gesti-n-de-riesgos-urbanos.html
+http -//www.mca.gov.py/noticias/221113_2.html

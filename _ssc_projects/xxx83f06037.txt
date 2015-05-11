@@ -8,8 +8,7 @@ partner_type:
   - national_governments
 project_title: APPUI A LA FORMULATION DES PLANS NATIONAUX D’ADAPTATION (PNA) AUX EFFETS NEFASTES DES CHANGEMENTS CLIMATIQUES (CC)
 scale: country-country
-project_objective: Renforcement des capacites des pays les moins avances pour contrer les effets nefastes des CC a travers la formulation et la mise en œuvre du Plan National d’Adaptation aux CC.
-L objectif etait le transfert de connaissances et de competences en profitant des experiences des pays invites.
+project_objective: Renforcement des capacites des pays les moins avances pour contrer les effets nefastes des CC a travers la formulation et la mise en œuvre du Plan National d’Adaptation aux CC.L objectif etait le transfert de connaissances et de competences en profitant des experiences des pays invites.
 territorial_focus: 
 undp_role_type: 
   - builder_of_capacities

@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-Se generaron acuerdos entre magistradas de organismos electorales con los cuales se buscará profundizar la participación política de las mujeres: http://www.slideshare.net/roxanasilvach/declaratoria-de-el-salvador-2
+Se generaron acuerdos entre magistradas de organismos electorales con los cuales se buscará profundizar la participación política de las mujeres - http -//www.slideshare.net/roxanasilvach/declaratoria-de-el-salvador-2

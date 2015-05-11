@@ -10,7 +10,7 @@ partner_type:
   - private_sector
 project_title: International Forum - Women's contribution to the green economy- (Oskemen, Kazakhstan, August 14) hosted by East-Kazakhstan regional administration in cooperation with CSO representatives from Kazakhstan and Russia.
 scale: regional
-project_objective: The Forum discussed the prospects for the development of cross-border cooperation, preparation to the  EXPO-2017, the advantages of using alternative energy sources and clean technologies and role of women in our society to promote this initiatives. It is attended by delegates from Kazakhstan and Russia, representing different spheres: state authorities, business, CSOs etc.
+project_objective: The Forum discussed the prospects for the development of cross-border cooperation, preparation to the  EXPO-2017, the advantages of using alternative energy sources and clean technologies and role of women in our society to promote this initiatives. It is attended by delegates from Kazakhstan and Russia, representing different spheres - state authorities, business, CSOs etc.
 territorial_focus: 
 undp_role_type: 
   - facilitator_of_partnerships

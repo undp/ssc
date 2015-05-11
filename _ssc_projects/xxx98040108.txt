@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-After the Lao initiative, the government agreed to develop two tools: 1) an investment database to enhance capacity for investment planning, monitoring and evaluation; and 2) a financial model to screen mining investment proposals for financial feasibility.
+After the Lao initiative, the government agreed to develop two tools - 1) an investment database to enhance capacity for investment planning, monitoring and evaluation; and 2) a financial model to screen mining investment proposals for financial feasibility.

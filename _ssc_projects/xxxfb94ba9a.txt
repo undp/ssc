@@ -14,7 +14,7 @@ undp_role_type:
   - facilitator_of_partnerships
 published: true
 ---
-Moldovan businessmen get to know Poland’s experience in bioenergy development:
-http://trm.md/en/economic/businessmeni-moldoveni-descopera-experienta-poloniei-in-dezvoltarea-bioenergiei
+Moldovan businessmen get to know Poland’s experience in bioenergy development -
+http -//trm.md/en/economic/businessmeni-moldoveni-descopera-experienta-poloniei-in-dezvoltarea-bioenergiei
 Moldovenii experimenteaza „Modelul polonez”,
-http://evzmd.md/ro/economic/item/10410-moldovenii-experimenteaza-modelul-polonez.html
+http -//evzmd.md/ro/economic/item/10410-moldovenii-experimenteaza-modelul-polonez.html

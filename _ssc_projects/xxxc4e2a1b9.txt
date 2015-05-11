@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-Established expert group developed a draft of strategic documents aimed at strengthening of the regional cooperation. Evidence: Chair’s summary of the regional ministerial conference - http://npdrr.kg/main_news/102-japan-activates-cooperation-with-central-asian-countries-in-disaster-risk-reduction.html
+Established expert group developed a draft of strategic documents aimed at strengthening of the regional cooperation. Evidence - Chair’s summary of the regional ministerial conference - http -//npdrr.kg/main_news/102-japan-activates-cooperation-with-central-asian-countries-in-disaster-risk-reduction.html

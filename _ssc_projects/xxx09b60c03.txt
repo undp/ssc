@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-Informe publicado https://undp-my.sharepoint.com/personal/rene_guzman_undp_org/Documents/Shared%20with%20Everyone/Coop%20Sur-Sur
+Informe publicado https -//undp-my.sharepoint.com/personal/rene_guzman_undp_org/Documents/Shared%20with%20Everyone/Coop%20Sur-Sur

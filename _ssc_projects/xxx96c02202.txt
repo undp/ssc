@@ -8,10 +8,7 @@ partner_type:
   - national_governments
 project_title: Support to Ministry of Environment and Spatial Planning
 scale: regional
-project_objective: 1.	Study visit to Bulgaria
-The main goal of this study tour is that participants return to Kosovo and are able to initiate the procedures for the development of the QA/QC plan, and suggests modalities of selection of the GHG baseline year.
-2.	Training held in Albania
-The aim of this training was to enable proper reporting to Energy Community Treaty. The training was on Monitoring, Verification and Evaluation of Energy Efficiency measures for the Kosovo Agency for Energy Efficiency staff.
+project_objective: 1. Study visit to BulgariaThe main goal of this study tour is that participants return to Kosovo and are able to initiate the procedures for the development of the QA/QC plan, and suggests modalities of selection of the GHG baseline year.2. Training held in AlbaniaThe aim of this training was to enable proper reporting to Energy Community Treaty. The training was on Monitoring, Verification and Evaluation of Energy Efficiency measures for the Kosovo Agency for Energy Efficiency staff.
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
@@ -21,5 +18,5 @@ KAEE is using the skills learned in the training to report more precisely and ac
 
 The study visit to Bulgaria contributed to the improvement of the quality of the Kosovar GHG inventory for 2012, which was completed in December 2014
 
-http://www.kosova.com/artikulli/106395
-http://www.kosova.info/lajme/prezantohet-inventari-i-gazeve-serre-ne-kosove.html
+http -//www.kosova.com/artikulli/106395
+http -//www.kosova.info/lajme/prezantohet-inventari-i-gazeve-serre-ne-kosove.html

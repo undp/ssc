@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-The drafting of a law on disaster risk management and climate change was recognized by the government as a key tool. The government is now more committed to utilizing its role in advancing the Disaster Risk Management and Climate Change Law on the national agenda by 2016. IFRC/UNDP Draft Cooperation Framework, pg 2 "IFRC...with Lao Red Cross....facilitate discussions on key disaster law themes at inception workshop for IDCRM" (APRR IDRCM; IFRC CF)
+The drafting of a law on disaster risk management and climate change was recognized by the government as a key tool. The government is now more committed to utilizing its role in advancing the Disaster Risk Management and Climate Change Law on the national agenda by 2016. IFRC/UNDP Draft Cooperation Framework, pg 2 'IFRC...with Lao Red Cross....facilitate discussions on key disaster law themes at inception workshop for IDCRM' (APRR IDRCM; IFRC CF)

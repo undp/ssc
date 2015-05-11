@@ -14,5 +14,5 @@ undp_role_type:
 published: true
 ---
 The ECCAS-CEMAC regional policy document, “White Paper”, entitled “Regional Policy for Universal Access to Modern Energy Services and Economic and Social Development” is validated/adopted;
-2.	Discussion and approval of the implementation timetable;
-3.	The final declaration, including workshops resolutions, recommendations and motions, is adopted.
+2. Discussion and approval of the implementation timetable;
+3. The final declaration, including workshops resolutions, recommendations and motions, is adopted.

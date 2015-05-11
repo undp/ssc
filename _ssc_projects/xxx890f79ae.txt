@@ -15,4 +15,4 @@ undp_role_type:
   - builder_of_capacities
 published: true
 ---
-http://www.pnud.org.br/Noticia.aspx?id=3853;http://www.agencia.fiocruz.br/ms-inaugura-complexo-hospitalar-no-haiti-com-coopera%C3%A7%C3%A3o-da-fiocruz
+http -//www.pnud.org.br/Noticia.aspx?id=3853;http -//www.agencia.fiocruz.br/ms-inaugura-complexo-hospitalar-no-haiti-com-coopera%C3%A7%C3%A3o-da-fiocruz

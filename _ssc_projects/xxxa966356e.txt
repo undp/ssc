@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-The initiative managed to develop considerable interest with the local authorities in both countries to deepen cross-border cooperation (see declarations in the Newsletter no. 5 http://dniester.eu/en/article/1179 ) and enabled a participatory process that is currently being finalized into a strategic document for the economic development of the region
+The initiative managed to develop considerable interest with the local authorities in both countries to deepen cross-border cooperation (see declarations in the Newsletter no. 5 http -//dniester.eu/en/article/1179 ) and enabled a participatory process that is currently being finalized into a strategic document for the economic development of the region

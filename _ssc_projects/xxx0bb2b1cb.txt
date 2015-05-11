@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-Following the Study Tour, the Commission prepared a report "Looking into the Future: Making Malawi Work: Transforming Malawi's Public Service" made public in Dec 2014.  The report made a number of observations and recommendations based on insights from and discussions during the study tour.  In addition, the Government is working on  establishing a long-term relationship between Kenya School of Government and the Malawi Institute of Management and UNDP Singapore Centre to remain innovative.
+Following the Study Tour, the Commission prepared a report 'Looking into the Future - Making Malawi Work - Transforming Malawi's Public Service' made public in Dec 2014.  The report made a number of observations and recommendations based on insights from and discussions during the study tour.  In addition, the Government is working on  establishing a long-term relationship between Kenya School of Government and the Malawi Institute of Management and UNDP Singapore Centre to remain innovative.

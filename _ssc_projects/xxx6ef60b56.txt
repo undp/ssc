@@ -6,7 +6,7 @@ region:
   - lac
 partner_type: 
   - national_governments
-project_title: Proyecto 00083239 - Apoyo para acceso a redes del conocimiento del Sur: Participacion de autoridades del Gobierno de Artemisa en Foro Geoespacial Latinoamericano realizado en Mexico.
+project_title: Proyecto 00083239 - Apoyo para acceso a redes del conocimiento del Sur - Participacion de autoridades del Gobierno de Artemisa en Foro Geoespacial Latinoamericano realizado en Mexico.
 scale: country-country
 project_objective: Apoyada la participacion de autoridades del Gobierno de Artemisa en Foro Geoespacial Latinoamericano co-organizado por el INEGI,  y la Secretaria de Desarrollo Agrario, Territorial y Urbano (SEDATU) en Mexico. El foro constituyo un referente internacional sobre  ecosistema geoespacial con la presentacion de  historias de exito y tendencias de la tecnologia, asi como con ideas e innovaciones que impactaran la infraestructura de Datos Geoespaciales.
 territorial_focus: 

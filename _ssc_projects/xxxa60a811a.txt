@@ -14,4 +14,4 @@ undp_role_type:
   - builder_of_capacities
 published: true
 ---
-The strategy was presented in the framework of the First Arab States Regional South-South Development EXPO. http://southsouthworld.org/office/images/First%20Arab%20States%20Regional%20South-South%20Development%20EXPO%20Program%20-%20EN.pdf
+The strategy was presented in the framework of the First Arab States Regional South-South Development EXPO. http -//southsouthworld.org/office/images/First%20Arab%20States%20Regional%20South-South%20Development%20EXPO%20Program%20-%20EN.pdf

@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-Capacities of MPs in legislative function strengthened contributing to the reform in the sector. Public Hearings organised on pension system, Government requested to develop an Action Plan based on findings discussed during the hearing. Parliament press release: http://trm.md/en/politic/deputa-i-moldoveni-studiaza-experien-a-lituaniei-in-domeniul-asisten-ei-sociale
+Capacities of MPs in legislative function strengthened contributing to the reform in the sector. Public Hearings organised on pension system, Government requested to develop an Action Plan based on findings discussed during the hearing. Parliament press release - http -//trm.md/en/politic/deputa-i-moldoveni-studiaza-experien-a-lituaniei-in-domeniul-asisten-ei-sociale

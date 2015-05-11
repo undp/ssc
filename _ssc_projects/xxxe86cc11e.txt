@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-http://ssc.undp.org/content/ssc/services/expo/main.html
+http -//ssc.undp.org/content/ssc/services/expo/main.html

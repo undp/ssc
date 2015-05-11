@@ -14,4 +14,4 @@ undp_role_type:
   - knowledge_broker
 published: true
 ---
-Report of the Study Tour to Zimbabwe for Livelihoods, Climate Change Adaptation (3rd – 9th August 20214)
+Report of the Study Tour to Zimbabwe for Livelihoods, Climate Change Adaptation (3rd - 9th August 20214)

@@ -8,7 +8,7 @@ partner_type:
   - national_governments
 project_title: Caribbean Risk Management Initiative - A South-South Cooperation initiative between Cuba, Jamaica and the Dominican Republic, which saw the establishment of Risk Reduction Management Centers in Jamaica (St Catherine Parish) and the Dominican Republic (La Victoria) (see CRMI Newsletters 2014)
 scale: regional
-project_objective: In this project, the Cuban Risk Reduction Management Center model was replicated in St Catherine Parish resulting in: Establishment of the RRMC unit at the St Catherine Parish Council; Knowledge exchanges between Cuba (AMA) and Jamaica (ODPEM) on the use of Risk and Vulnerability Assessment methodology; Establishment and outfitting of two Early warning points; Establishment of a parish Disaster Risk Information Platform and Completion of the Linstead Rapid Visual Screening (RVS) report.
+project_objective: In this project, the Cuban Risk Reduction Management Center model was replicated in St Catherine Parish resulting in - Establishment of the RRMC unit at the St Catherine Parish Council; Knowledge exchanges between Cuba (AMA) and Jamaica (ODPEM) on the use of Risk and Vulnerability Assessment methodology; Establishment and outfitting of two Early warning points; Establishment of a parish Disaster Risk Information Platform and Completion of the Linstead Rapid Visual Screening (RVS) report.
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker

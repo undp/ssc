@@ -8,11 +8,10 @@ partner_type:
   - national_governments
 project_title: Sustainable Land Management (SLM) programme, GEF supported project.
 scale: regional
-project_objective: SLM is implementing the sustainable land management model in the Semonkong area of Lesotho. The SLM model is implemented in other African countries, and the cooperation between them is crucial to sharing best practices and lessons learnt to improve the model and viable implementation approaches thereof. 
-UNDP Lesotho organized a regional knowledge sharing conference to ensure that SLM models can benefit from regional experiences. A publication was compiled, accessible to SLM practitioners.
+project_objective: SLM is implementing the sustainable land management model in the Semonkong area of Lesotho. The SLM model is implemented in other African countries, and the cooperation between them is crucial to sharing best practices and lessons learnt to improve the model and viable implementation approaches thereof. UNDP Lesotho organized a regional knowledge sharing conference to ensure that SLM models can benefit from regional experiences. A publication was compiled, accessible to SLM practitioners.
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
 published: true
 ---
-The SLM model in Lesotho integrated some lessons learnt and techniques of other African countries, which now form part of the model taken over by communities through the Grazing Associations. Secondly, the conference itself benefited the SLM project in achieving its third outcome related to awareness raising and knowledge sharing. – all participating countries benefitting from understanding other practices.
+The SLM model in Lesotho integrated some lessons learnt and techniques of other African countries, which now form part of the model taken over by communities through the Grazing Associations. Secondly, the conference itself benefited the SLM project in achieving its third outcome related to awareness raising and knowledge sharing. - all participating countries benefitting from understanding other practices.

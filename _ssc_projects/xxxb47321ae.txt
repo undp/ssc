@@ -6,8 +6,7 @@ region:
   - asia_pacific
 partner_type: 
   - national_governments
-project_title: Preparation of the background paper on “WTO Agreement on Trade Facilitation: 
-Implications for LLDCs”
+project_title: Preparation of the background paper on “WTO Agreement on Trade Facilitation - Implications for LLDCs”
 scale: global 
 project_objective: The draft paper was introduced in the thematic high level workshop organized among LLDCs in Ulaanbaatar in June 2014 in order to validate the paper. Within the framework of the 2nd UN Conference on LLDCs in Vienna, Austria, this report was officially launched by ITT.
 territorial_focus: 

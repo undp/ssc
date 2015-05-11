@@ -15,5 +15,5 @@ undp_role_type:
   - facilitator_of_partnerships
 published: true
 ---
-Mención al Acuerdo marco el cual todavia se encuentra en negociación:
-http://www.sen.gov.py/noticia/407-taller-regional-dipecho-america-del-sur-2014-29-30-setiembre-1-y-2-de-octubre-bogota-colombia.html#.VLkq5izkq3p
+Mención al Acuerdo marco el cual todavia se encuentra en negociación -
+http -//www.sen.gov.py/noticia/407-taller-regional-dipecho-america-del-sur-2014-29-30-setiembre-1-y-2-de-octubre-bogota-colombia.html#.VLkq5izkq3p

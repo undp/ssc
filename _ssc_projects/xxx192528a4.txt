@@ -6,7 +6,7 @@ region:
   - asia_pacific
 partner_type: 
   - national_governments
-project_title: Visit under "Sharing and Learning on Community Based Disaster Management in Asia (CBDM Asia)" project, China
+project_title: Visit under 'Sharing and Learning on Community Based Disaster Management in Asia (CBDM Asia)' project, China
 scale: regional
 project_objective: The CBDM Asia project aims to strengthen regional South-South cooperation and build a strong global partnership through joint initiatives on community based disaster management in parts of Asia. The expert mission to Nepal aimed at building and strengthening the partnership between Chinese institute on water resource management and the government bodies as well as the research entities in Bangladesh and Nepal.
 territorial_focus: 

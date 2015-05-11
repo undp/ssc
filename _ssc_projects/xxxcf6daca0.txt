@@ -15,4 +15,4 @@ undp_role_type:
 published: true
 ---
 Countries agreed to form a block and to make a strong case at international negotiations.
-http://guianashield.org/index.php/projects-output/suriname
+http -//guianashield.org/index.php/projects-output/suriname
