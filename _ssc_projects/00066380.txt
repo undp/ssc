@@ -10,11 +10,12 @@ partner_type:
   - national_governments
   - private_sector
 project_title: Development support to cotton sector
-scale: national
+scale: country-country
 project_objective: To provide support to the cotton production sector in other developing countries in Africa, Latin America and the Caribeans through SSC. This is done throuhg sharing of technical knowledge on cotton cultivation among participating countries. Expected output- development of the cotton sector of the commodity-producing developing countries, through prospecting, consulting, formulation, implementation and monitoring and evaluation of technical cooperation projects in South-South.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP facilitates partnerships and knowledge exchange.

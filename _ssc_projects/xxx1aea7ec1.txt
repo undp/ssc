@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The participants were given a forum to discuss recruitment system rules, strategies, policies and other personnel issues under federal system of governance. The attending public service commission officers had better understanding of public administration practices along with civil service management and effective recruitment system especially in the federal context.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The Conference provided for sharing of information and solutions for reducing flood risk, and enhancing cross-border cooperation in risk mitigation and flood protection. It resulted in the review of concrete lessons learned and definition of ways ahead.

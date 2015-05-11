@@ -15,5 +15,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The Forum resulted in agreed collaborative action to improve cross-border cooperation, especially between women entrepreneurs border areas, green practices and projects for EXPO 2017, as well as aspects of civil society participation in the integration processes.

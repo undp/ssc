@@ -13,6 +13,7 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Several participants from African countries stated that they will use conference findings and studies (presented and forthcoming) in their future industrialization plans.
 IPRCC, UNDP and the AUC noted that the findings could be helpful for preparations for the forthcoming 6th Africa-China Poverty Reduction and Development Conference in late 2015 in South Africa, and help strengthen the political momentum behind China and Africa initiatives for structural transformation and poverty reduction.

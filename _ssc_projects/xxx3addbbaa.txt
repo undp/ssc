@@ -12,6 +12,7 @@ project_objective: This joint ECCAS-CEMAC initiative, which aims to formulate a 
 territorial_focus: 
 undp_role_type: 
 published: true
+import_source: 469
 ---
 The ECCAS-CEMAC regional policy document, “White Paper”, entitled “Regional Policy for Universal Access to Modern Energy Services and Economic and Social Development” is validated/adopted;
 2. Discussion and approval of the implementation timetable;

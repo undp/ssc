@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Des representants des institutions nationales en charge de la reconciliation ont participé a ces echanges d'expériences. Les missions ont permis aux acteurs nationaux d’avoir une meilleure comprehension et une vision commune sur le processus de reconciliation nationale. Des reflexions sont engagees pour valoriser les experiences de ces deux pays,  en les adaptant au contexte de Madagascar.

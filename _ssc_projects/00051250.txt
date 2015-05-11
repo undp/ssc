@@ -25,5 +25,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 275
 ---
 UNDP will help establish regional cooperation to reach project outcomes on improved arms control and strengthening of regional cooperation on gender mainstreaming in security sector reform in the Western Balkans. Regional network of the Ministries of Defence gender focal points, trainers and HR specialists will be established in order to foster information and best practice sharing. 

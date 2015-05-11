@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The evidence is the law project for the establishment of a national supply chain system in Peru that was drafted as a result of the mission. The law project is expected to be presented by the Ministry to Congress in the next ordinary legislature starting in March 2015.

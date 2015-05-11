@@ -3,18 +3,18 @@ open_project_id: ""
 thematic_focus: 
   - sustainable_development_pathways
 country: 
-  - URY
+  - HTI
 region: 
   - lac
 partner_type: 
-  - international_cooperation_development_agencies
   - national_governments
 project_title: Suppliers Development Programme
-scale: national
+scale: country-country
 project_objective: 
-territorial_focus: hic
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
-UNDP facilitated the exchange of experience between El Salvador and Uruguay to explore the feasibility of the implementation of the Suppliers Development Programme in Uruguay based on the experience of El Salvador. As a result, a road map for implementation was developed. 
+UNDP facilitates transfer of knowledge from El Salvador to Haiti. The Programme was first successfully implemented and integrated into public policy in Mexico. Its experience and methodology were then transferred to El Salvador where it also became public policy and the methodology was further shared with Haiti. UNDP organizes the exchange of experiences between the Ministry of Economy from El Salvador and Ministry of Trade and Industry from Haiti for the development of the value chain through the Suppliers Development Programme. 16 consultants from Haiti were trained on the methodology and supporting 34 Haitian enterprises in the pilot phase. 3 values chains have been officially launched in Port au Prince, Cap Haitien and Nippes. 

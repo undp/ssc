@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Accord entre les deux Etats d'organiser une visite des autorites du burkina faso en Mauritanie pour renforcer les echanges et developper un accord cadre de cooperation sur le PNVB

@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Cette initiative s’est realisee en fin d’annee 2014 (decembre). Les acteurs nationaux ayant pris part a ce voyage d’echange d’experience ont exprime leur satisfecit et initie des rencontres en vue d’elaborer les indicateurs de performance de la police Nationale.

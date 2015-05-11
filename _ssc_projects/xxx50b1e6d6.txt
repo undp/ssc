@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 La mission effectuee a permis d etablir une feuille de route pour l etablissement d un partenariat entre les acteurs nationaux et internationaux concernes par programme de protection de l Eulemur mongoz ainsi que  leurs roles respectifs, et une meilleure comprehension par les acteurs nationaux des enjeux lies au programme de protection de l Eulemur Mongoz - definir les modalites de collaboration technique entre le Groupe d Experts pour la Recherche sur les Primates et les acteurs locaux

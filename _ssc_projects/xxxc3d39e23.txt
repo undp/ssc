@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 This initiative resulted in the adoption by MNRE-DWA of the Kenya model and resulted in the construction of 5 pilot sand dams in the rural vulnerable communities in Swaziland. Over 900 community members participated and have the skills for the construction and maintenance of the sand dams.  UNDP funded the SSC and further supported the training for 37 GoS officials, NGOs and Faith Based Organizations contributing to the uptake of CCA technology in vulnerable communities.

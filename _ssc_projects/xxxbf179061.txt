@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The initiative provided an opportunity for women lawmakers from all the four provincial assemblies to participate in the regional meeting  and  share and learn about new ideas in terms of promoting women entrepreneurship especially on a small-scale. It is envisaged that the participants shall work for promotion of the new ideas to benefit their constituents—the ordinary women. Immediate outcome of the initiative can however not be measured within the timespan of a few months.

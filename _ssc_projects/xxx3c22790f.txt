@@ -14,5 +14,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Applications of new models into CO entrepreneurship programme have been discussed among national partners and considered for future development depending on national priorities and readiness of UNDP counterparts to move into other models of support in this area.

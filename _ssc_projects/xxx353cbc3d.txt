@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 UNDP (Regional Center for Asia-Pacific and CO in Myanmar and China), in close collaboration with IPRCC, brought on board all the ASEAN member countries for this year’s Forum and contributed significantly to the design of the forum agenda, identification of appropriate international speakers. Presentation of UNDP APRC’s study on MDGs Progress and Post 2015 Agenda in a Sub-regional Context and Making Access to Finance Possible for the Poor in Myanmar by Myanmar CO garnered significant attention.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Lessons learnt from the Vietnam penal code and its application have had a positive impact on the drafting committee and provided the needed empirical evidence to eliminate certain outdated provisions from the Lao Penal code. The first draft of the revised penal code was circulated before end of 2014 for public comment (Penal Code). This version included a call for public consultation in the process.

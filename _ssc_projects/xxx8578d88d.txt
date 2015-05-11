@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 As the Ministry of Interior of Yemen recently underwent a restructuring, the learning experience and pairing the their Jordanian counterparts contributed to the introduction of new working modalities and procedures and established a mentoring system whereby Yemenis official can refer to their Jordanian colleagues for advice and sharing of experiences as needed

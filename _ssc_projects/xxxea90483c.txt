@@ -15,5 +15,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The NUEW and the Sudanese Women's General Union signed an agreement on exchange of experience and mutual collaboration in the health and education sectors (ISR 2014)

@@ -43,5 +43,6 @@ territorial_focus: fragile_states,ldc,mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP co-funds the initiative through its Asia-Pacific Regional Centre in Bangkok. UNDP's role is to facilitate knowledge exchange between the participating countries.

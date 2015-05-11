@@ -29,5 +29,6 @@ undp_role_type:
   - builder_of_capacities
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP facilitated South-South cooperation to enable peer-to-peer learning and capacity development in advancing Early Warning Systems (EWS), hazard mapping and vulnerability assessment towards risk mitigation; and public awareness and education for multiple hazards including tsunamis; support to policy development; and knowledge management for dissemination of lessons and good practices across the wider Caribbean and with the Pacific.

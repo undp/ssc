@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Following the quality technical inputs provided by the UNDP Zimbabwe CO, the Afghanistan’s CN was successfully submitted to the Global Fund and is awaiting TRP comments

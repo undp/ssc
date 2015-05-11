@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Until June 2014 the commission finalized only 3000 cases. During the mission in Peru the Commission had the opportunity to concretely observe how reparation was functioning in Peru and was confronted to specific cases and how cases were solved. By providing range of technical information and solutions relevant to the Commission’s work, the Commission managed to define appropriate resolutions. Following the mission in Peru, the Dismissals Commission solved 15000 of individual and mass claims

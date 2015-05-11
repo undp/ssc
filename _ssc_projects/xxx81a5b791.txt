@@ -15,6 +15,7 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 As this is a new initiative, 2014 work focus was on preparations and  the initiative  reached milestones but  no results achieved at this stage.
  The project conducted Training Needs Assessments and also reviewed the District Development Plans for the three targeted districts as ground work for its development interventions.

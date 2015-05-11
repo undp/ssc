@@ -14,5 +14,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Three trainings were held in 2014 and were attended by 3 ministries (MoWE, MED, MoFPED), Parliament, and 1 policy think tank (EPRC)).  These partners are currently undergoing further training with a view to establish a core multi-institutional modelling team (SDM Mission Report, p2).  Flagship reports that will be developed as a result of this training will be produced in 2015.  The partnerships built through this arrangement has enabled modelling capacities across sectors to be leveraged.

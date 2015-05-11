@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Country contributions paid to the Commission Secretariat; ratification of the Benguela Current Convention by Angola; approval by ministers of the Strategic Action Programme for 2015-2019; government supported travel for staff to participate in BCC meetings/ activities and; securing US$23 million in donor funds for the period 2015-2020.

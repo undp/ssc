@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 This was followed up by a UNDP supported retreat for the production of a strategy paper for SEZs. Experiences from the South presented at the high level seminar were utilized in the design of the strategy for Zimbabwe. Strategy Paper on Special Economic Zones produced and submitted to the Minister of Finance and Cabinet paper on Special Economic Zones was submitted and approved. The initiative was reflected in the Budget Statement 2015.

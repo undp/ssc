@@ -14,5 +14,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Priorities for future cooperation within in the area linking environment and security, along with a common vision of Belarus, Moldova and Ukraine of the ways to integrate issues of environment and security into the system of regional cooperation were discussed during an international conference in Minsk. Over 60 representatives from Moldova, Belarus, Ukraine, UNEP, UNECE, OSCE, UNDP and NGOs participated.

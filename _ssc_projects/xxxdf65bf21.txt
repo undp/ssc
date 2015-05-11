@@ -14,5 +14,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Based on the value perceived by the Egyptian delegation, South Africa was invited to participate in a follow-up international Conference in Egypt on Gender and Electoral Administration. Riding on this success the Independent Electoral Commission (IEC) of South Africa formally sent a request to the CO to provide further institutionalized support for similar SSC in the future.

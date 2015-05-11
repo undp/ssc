@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Les competences du Benin ainsi que celle d’autres PMA dans la formulation des PNA ont ete renforcees avec la participation des experts et specialistes en changements climatiques  des bureaux pays.

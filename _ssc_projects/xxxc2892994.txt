@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The new learning to the beneficiaries, stakeholders and UNDP staff was useful to implement community based disaster/climate risks initiatives more effectively in Chitwan, Sindhupalchowk, Dolakha, and Surkhet districts of Nepal.

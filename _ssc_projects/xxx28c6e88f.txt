@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 la MCS a ete mise en place a partir de l ebauche faite par les marocains; les structures en charge du suivi des OMD et de la snate de la mere et de enfant ont elabore un plan d action tire de l expereicne ghaneenne

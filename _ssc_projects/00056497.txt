@@ -10,11 +10,12 @@ partner_type:
   - regional_inter_governmental_organizations
   - national_governments
 project_title: Peace Support Operation Training and Institute Capacity Enhancement at the International Peace Support Training Centre (IPSTC)
-scale: national
+scale: country-country
 project_objective: To strengthen institutional and human capacity in peace support operations in East Africa in order to effectively prevent, respond to and mitigate conflicts and maintain peace and security in the region. 
 territorial_focus: ldc
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 275
 ---
 UNDP will provide technical assistance and capacity building. In partnership with the Government of Kenya, the project will conduct the study of four regional training centres in Uganda, Kenya, Rwanda, and Ethiopia to review their training capabilities. UNDP Kenya office will manage the project and support the training and capacity enhancement at  International Peace Support Training Centre. UNDP is in charge of the overall project management. 

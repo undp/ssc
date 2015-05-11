@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The initiative created a platform for exchanging the experience the youth in post revolution transitions. It contributed to transitional governance through civic engagement and dialogue as it created an enabling environment for Libyan youth to gain knowledge from Tunisian democratic processes.

@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The presentations and sharing from six countries on different aspects of CRM followed by discussions among the participants were helpful to consolidate the progress and learning in order to make a future roadmap for further integration of disaster risk reduction and climate change adaptation at global, regional and national levels.

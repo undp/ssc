@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Les echanges de missions entre le Benin et les autres pays de la sous-region lui ont permis d’apprecier son propre niveau en matiere de mise en œuvre du plan national d’action du MAEP, de s’enrichir des experiences des autres pays et de noter les domaines dans lesquels il doit mieux faire.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The World Water Week was a platform for learning and Knowledge sharing. Good examples from Fog water harvesting in others countries were shared. UNDP draw upon the lessons learnt to enhance the fog harvesting technique in Yemen - technical design of the harvesting module, site selection and materials use were improved. Resulting a 40% improvement of quantity of water collected and 20% reduction of cost

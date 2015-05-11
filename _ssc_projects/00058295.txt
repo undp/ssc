@@ -11,12 +11,13 @@ partner_type:
   - international_cooperation_development_agencies
   - national_governments
 project_title: The Court of Auditors- a tool of transparency and trust in public management (La cour des comptes- outil de transparence et de confiance dans la gestion publique)
-scale: national
+scale: country-country
 project_objective: To support the  Court of Auditors incontext of institutional reforms underway to enroll in a system of democratic governance; strengthen human resources and develop a quality system based on international standards of management of public finances. 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 275
 ---
 The project promotes the Court's active participation and contribution to regional networks to promote the principles of transparency and integrity, through- (1) participation of the Court of Auditors in the meetings and work of INTOSAI; (2) Strengthening partnerships and twinning operations with similar control of the institutions; (3) participation of the Court of Auditors cycles organized training by international organizations and regional International Organisation of Supreme Audit Institutions (INTOSAI) and Arab Organization of Supreme Court Institutions (ARABOSAI); (4) organizing infromation visits to similar supreme audit institutions of Morocco, Algeria, Portugal; (5)  organizing a conference on South-South cooperation.

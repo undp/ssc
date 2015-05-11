@@ -15,5 +15,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Development of the Diagnostic Report II guiding improvements in the Black Sea Monitoring (400 pages, 8 chapters + 9 amendments)

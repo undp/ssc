@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The research report, shared with GoPNG, fed into the ongoing formulation of the Development Finance and Aid Policy, which seeks to better align development finance (including aid) to PNG’s development priorities.

@@ -14,5 +14,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Iraq has established sustainable institutions at federal and regional to combat DGBV with UNDP support. Family Protection directorates constitute the governmental reporting mechanism on DGBV. Iraq established the independent Human Rights Committee as federal National human rights institution and the Independent Board for Human Rights in KR-I to promote and protect Human Rights in the country. With UNDP support Budget developed and approved by the COR to ensure the sustainability

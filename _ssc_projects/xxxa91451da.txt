@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 A Greenhouse plan has been developed including a) the implementing submitting a detailed proposal to UNDP, a technical Chinese expert to train Iranians on construction of the pilots and verification of the standards of greenhouses established in Iran. These will contribute to enhanced engendered knowledge and understanding of the drivers of land use change causing land, ecosystem and water degradation with consequent impacts on ecosystem services and local livelihoods.

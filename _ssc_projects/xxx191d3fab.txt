@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Carrying out an UNCAC peer review of another country increases the responsibility and obligation of GoPNG review/lead by example in the fight against corruption. This increased obligation and slowly growing commitment has allowed new anti-corruption initiatives, such as ‘Phones Against Corruption’.

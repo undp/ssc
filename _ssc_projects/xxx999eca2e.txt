@@ -18,6 +18,7 @@ territorial_focus: mic,ldc
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP organizes sharing of experiences in SSC exchange, expert exchange, setting up of knowledge networks between the
 countries using local level governance and local strategic planning. Missions to Mauritania and Gabon were organized to share experience. Participatory benchmarking exercise of existing trainings in Morocco, Mauritania, Senegal and Gabon. 

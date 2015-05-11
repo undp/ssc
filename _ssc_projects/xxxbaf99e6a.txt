@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Based on this initiative, the SSC interagency group began working in February to coordinate UN support to the SSC in Mexico . AMEXCID and UNDP launched a publication entitled “Towards a global development partnership - the UN and South-South cooperation in Mexico”  - identifying the inherent strengths and weakness of UN support, the methodology of which has served for systemizing all joint work. UNDP also supported UNFPA and UN Women in their efforts to develop closer ties with AMEXCID.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Capacity of key institutions - VPO, MoF, NEMC improved - ADR 2014, there is an increased number of community based small-scale mitigation and adaptation projects implemented in Zanzibar as a result of knowledge and experience gained in Nepal which contributed to a proper assessment of projects and improved management. capacity of programme managers enhanced. Ref - ADR 2014, Project Progress Report

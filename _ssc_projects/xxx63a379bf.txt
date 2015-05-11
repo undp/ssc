@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 The initiative influenced also the Cabinet Secretariat to visit and learn from Kenya. In addition, the report helped key central ministries to reflect on institutional reforms required in the future and inform the contents of the center to be established at POPC/CS.

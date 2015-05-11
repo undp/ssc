@@ -14,5 +14,6 @@ undp_role_type:
   - builder_of_capacities
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Un partenariat avec 18 prestataires de services financiers a ete conclu. Le FNFI a pu performer la mise en œuvre du produit financier Acces des pauvres aux Services financiers - qui a touche plus de 331.000 beneficiaires en 2014 avec un total de credits de plus de 9,7 milliards Fcfa, soit un taux de performance de 110% . L’echange a egalement permis de convenir d’une etude sur le SIG permettant a terme de disposer de moyens professionnels de gestion, d’acces et de collecte de l’information.

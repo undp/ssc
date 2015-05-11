@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The Parliament Committe on National Security organised 2 public hearings and 3 fact finding filed visits to get first-hand information on the progress of the security sector reform (http -//www.parlament.md/…/Page/0/language/ro-RO/Default.aspx)

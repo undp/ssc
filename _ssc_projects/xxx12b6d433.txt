@@ -10,11 +10,12 @@ partner_type:
   - international_cooperation_development_agencies
   - national_governments
 project_title: Support to the strengthening of the Peruvian Agency of International Cooperation (APCI) new management at national and international levels
-scale: national
+scale: country-country
 project_objective: 
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 275
 ---
 UNDP provided technical support for the creation of a South-South cooperation fund.

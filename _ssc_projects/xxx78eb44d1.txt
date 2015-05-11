@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 5 Centros pilotos de Gestion para la Reduccion de Riesgos y 9 puntos de Alerta Temprana se encuentran funcionando en  5 paises del Caribe para la proteccion de 573,379 habitantes. Se esta apoyando el desarrollo de un plan de sostenibilidad de los centros pilotos en cada pais en que se esta implementando la experiencia.

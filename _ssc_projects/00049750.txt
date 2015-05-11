@@ -10,11 +10,12 @@ partner_type:
   - international_cooperation_development_agencies
   - national_governments
 project_title: Building Capacity to Eliminate POPs (Persistent Organic Pollutants) Pesticides Stockpiles in Vietnam
-scale: national
+scale: country-country
 project_objective: The project aims to remove capacity barriers to the sustainable elimination of POPs (Persistent Organic Pollutants) Pesticides in Vietnam.
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 275
 ---
 UNDP will help develop capacity to eliminate continued importation needed on both the demand side, to reduce and ultimately eliminate demand for such pesticides, and on the supply side, to eliminate the source of the pesticides. Supply-side management will require bilateral cooperation with neighbouring states, China, Lao PDR and Cambodia. Bilateral task forces between Vietnamese border provinces and their Chinese counterparts (initially with China, and subsequently, if necessary, with Lao PDR and Cambodia) to eliminate illegal importation of POPs pesticides. 

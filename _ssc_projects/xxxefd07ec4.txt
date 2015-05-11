@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 http -//www.zdg.md/social/divizarea-regionala-este-una-dintre-temele-de-acasa-ale-r-moldova-inainte-de-aderarea-la-ue and http -//www.europalibera.org/content/article/25426906.html

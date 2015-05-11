@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The IC4HD-supported training programme on Energy Access and Human Development for Africa has now been included as part of GoI’s Indian Technical and Economic Cooperation (ITEC) Programme that reaches out to more than 150 countries.

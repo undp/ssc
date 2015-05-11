@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 La base de données a été installée à la Direction de la Protection Civile du Mali. Un atelier de formation a permis d’initier les structures nationales à son utilisation. La collecte des données historiques a commencé avec l’appui du bureau du Mali. Le spécialiste en prévention des crises et catastrophes du bureau du Niger a également acquis de  nouvelles connaissances, notamment en ce qui concerne l’exploitation de la base de données en vue du développement du profil du pays.

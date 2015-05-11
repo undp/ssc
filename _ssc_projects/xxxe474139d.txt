@@ -15,5 +15,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 GoPNG actively participated in NHDR formulation process, and committed to presenting and discussing the NHDR policy options with Parliamentarians as well as Secretaries of Government Departments, both planned for 2015.

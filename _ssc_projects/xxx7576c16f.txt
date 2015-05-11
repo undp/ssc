@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Learning on election management for 25 countries was arranged and women’s participation increased significantly during the elections. Namibia used the India experience to implement Electronic Voter Technology

@@ -16,5 +16,6 @@ undp_role_type:
   - builder_of_capacities
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The development of this initiative, funded by Denmark and run in parallel with a similar initiative between China and Zambia, was completed this year with approval from the donor and the signing of the project documents in Ghana and China. Implementation will start in 2015 until 2018.

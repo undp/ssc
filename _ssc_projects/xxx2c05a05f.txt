@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Product development, safety standards development and promotion of the nature based tourism in the hinterland area of the coastal region, in order to create complementarity to the main coastal summer offer and increase competitiveness

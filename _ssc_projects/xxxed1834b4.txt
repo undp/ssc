@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The external evaluation of the DEEP programme (2011) recommended the duplication of some activities in other Arab countries. Therefore an exchange of knowledge between women entrepreneurs from Palestine and other Arab countries in Northern Africa took place to better market their products, increase their export channels and share lessons learned and challenges.

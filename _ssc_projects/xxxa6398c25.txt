@@ -13,6 +13,7 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Como resultado de esta iniciativa, el Grupo Parlamentario de Mujeres reforzó el artículo sobre la cuota de participación política para asegurar que la cuota se cumpliera en la elección de Concejos Municipales plurales. 
 http -//www.asamblea.gob.sveparlamento/indice-legislativo/buscador-de-documentos-legislativos/ley-de-partidos-politicos

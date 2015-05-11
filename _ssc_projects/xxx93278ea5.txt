@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The evidence is clarified in the stock management report from the Ministry of Health. The report provided by the end of the year showed no surplus in the drug (Truvada) which was sent to Thailand and which could have led to wastage of drugs. It also showed no shortage in the drug (Lamividune) which was brought from IRAN which could have led to interruption of treatment.

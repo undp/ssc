@@ -11,11 +11,12 @@ partner_type:
   - national_governments
   - private_sector
 project_title: Barrier Removal to the cost-effective development and implementation of Energy efficiency Standards and Labeling
-scale: national
+scale: country-country
 project_objective: This regional project is implemented in six countries of Asia region, namely, Pakistan, Bangladesh, Indonesia, China, Thailand, and Vietnam. The regional project management unit (RPMU) is located in China. to provide capacity building and assisting government, manufacturing, distributing, retail, consumer and environmental stakeholders throughout the Asian region to implement the most cost-effective energy efficiency measures available.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP implements the project, focusing on capacity building, knowledge exchange between involved countries, and assisting government, manufacturing, distributing, retail, consumer and environmental stakeholders throughout the Asian region to implement the most cost-effective energy efficiency measures available.

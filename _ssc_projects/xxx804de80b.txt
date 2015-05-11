@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 UNDP Mexico organized consultations with experts on indigenous peoples from countries in the region to identify best practices in the area of electoral justice and select outstanding examples to then incorporate or enhance them as part of a strategy to be developed with the Electoral Tribunal.   Based on this input, an institutional model is being created that will enable the TEPJF to enhance its role as guarantor of political electoral rights for indigenous communities (E86 PNUD).

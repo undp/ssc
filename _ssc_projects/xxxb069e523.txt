@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 The Trilateral Cassava Project Phase 2 supported the development of Chinese capacity in Trilateral Cooperation. Chinese Ministry of Commerce officials took part in official missions in Guangxi and Cambodia, contributing to knowledge exchange. In Cambodia, cassava farmers and processors were trained in modern cultivation techniques using Chinese expertise. Connectivity between Cambodian farmers and the Chinese market was improved, enabling Cambodian farmers to move up the value chain.

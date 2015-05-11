@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 the tool has been adopted by the Municipalities and will be implimented at municipalities in northern Jordan which are the most affected by Syrian crisis

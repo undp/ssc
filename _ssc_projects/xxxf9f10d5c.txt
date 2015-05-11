@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 A Pilot PBB was published in March 2014 by the Ministry of Finance, Economic Planning and Development in Malawi (E49 - Pilot PBB Malawi). Its structure is directly inspired from the PBB framework developed in Mauritius. No evidence received on impact of the SSC initiative with the Gambia.

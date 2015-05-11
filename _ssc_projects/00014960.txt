@@ -9,13 +9,14 @@ region:
 partner_type: 
   - regional_inter_governmental_organizations
 project_title: Strengthening institutional capacity of the national parliament in Timor-Leste
-scale: national
+scale: country-country
 project_objective: To strengthen parliamentary democracy and institutional capacity of the National Parliament in Timor Leste.
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 275
 ---
 UNDP will assist in strengthening inter-parliamentary relations with Portugese speaking countries and Pacific region countries, so 
 as to exchange best practices and learns lessons in the areas of gender mainstreaming, legislative processes and mechanisms, and oversight systems and procedures. 

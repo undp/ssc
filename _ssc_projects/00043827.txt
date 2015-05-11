@@ -10,11 +10,12 @@ partner_type:
   - international_cooperation_development_agencies
   - national_governments
 project_title: Mainstreaming and sustaining Biodiversity Conservation in three Productive Sectors of the Sabana Camagüey Ecosystem
-scale: national
+scale: country-country
 project_objective: 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP Regional Centre provides avisory support to systematization of experiences within the framework of the initiative of the Sabana Camaguey Ecosystem for its replication in Cuba and other countries in the LAC region.  

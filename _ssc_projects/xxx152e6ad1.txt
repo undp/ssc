@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 La commission environnement, développement durable et affaires sociales au niveau du parlement a mis en place une sous-commission en charge de ces questions. L ’ONG a mis en place un réseau de producteurs des Foyers améliores. Au cours de la conférence avec les parlementaires, l’ONG a procédé a une exposition vente des prototypes des FAM; 3 campagnes de sensibilisation appuyées par des tests d efficacité des FAM ont été organisées.

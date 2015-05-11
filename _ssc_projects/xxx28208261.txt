@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Mauritius shared its experience with Social Register for Mauritius program for targeting social aid. Seychelles Special Adviser submitted a Report to the Seychelles Government (several Ministers) suggesting various national actions for structural transformation such as introduction of gender based budgeting, identification of linkages between the Statistical Commission of Africa and Seychelles NBS, promoting dialogue between data users/producers at national and continental levels.

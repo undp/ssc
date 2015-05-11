@@ -13,6 +13,7 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 PACC -  construction of a climate proof harbor in Cook Islands; completion of 8.5km climate resilient roads in Micronesia & Vanuatu; installation of water tanks and solar purifiers in Tonga, Nauru, Niue through; research and promotion of climate resilient crops (taro, cassava, potatoes) in Fiji.
 PIGGAREP - Installation of 10 solar water pump systems in Tonga, and sharing their knowledge with Palau; change from fossil fuel to solar the main power source of Palmerston in Cook Islands.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 In view of the focus of the project (security at a national level), the external evidences of the visits are not available. However, a note was prepared by the Ministry of Defense officials on the findings from their visit to Azerbaijan.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The Persian Outreach Programme (POP) workshop in Tehran contributed efficiency and effectiveness of the Land Release activities in general. UNDP STMAP and TNMAC staff upgraded their knowledge on operational efficiency, developing/updating the National Mine Action Standards (NMAS) as well as in developing the Completion Plan. This experience was used while developing the NMAS and other Land Release related documents (E41)

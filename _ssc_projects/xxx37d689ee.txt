@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The exchange between the two countries has provided Rwandan authorities with a motivation to develop toolkits of green village standards. Likewise Burkina Faso was committed to apply the green village approach to their country.

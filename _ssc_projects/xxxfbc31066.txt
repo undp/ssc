@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Due to the crises, the impact for the initiative can not be measured at the current stage. However, in the future the initiative will contribute in realizing results.

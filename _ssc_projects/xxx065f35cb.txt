@@ -14,5 +14,6 @@ undp_role_type:
   - builder_of_capacities
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The development of the Thailand-Myanmar Joint Operational Plan to Ensure the Universal Access to HIV Testing and Counseling (HTC) and Antiretroviral Treatment (ART) for Cross-border Myanmar migrants to and from Thailand.

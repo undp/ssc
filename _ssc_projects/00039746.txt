@@ -11,11 +11,12 @@ partner_type:
   - academia
   - private_sector
 project_title: Programme Development of the European Centre for Cross-Sector Partnership (IMPACT)
-scale: national
+scale: country-country
 project_objective: To further develop the capacities of the IMPACT Centre to become a civil society organizations' knowledge centre.
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 Through the Centre for Cross-Sector Partnership, UNDP facilitates knowledge exchange and regional cooperation on empowering grass-root organizations, local governments, and businesses from South East European countries to create enabling legal and institutional framework for partnerships based on international best practices.

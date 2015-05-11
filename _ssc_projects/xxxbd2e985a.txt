@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 UNDP Tajikistan organized a four-day study tour in Kyrgyzstan for high-level officials and donor representatives from Tajikistan and Afghanistan to learn from the experiences of the “One Village - One Product” initiative (OVOP) implemented by JICA Kyrgyzstan. During the study tour the participants learned about the successes and challenges of OVOP implementation in Kyrgyzstan and discussed opportunities to replicate OVOP in Afghanistan and Tajikistan (E26).

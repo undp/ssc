@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 There was general consensus on a training curriculum for the key personnel responsible for designing and implementation of paralegals and legal aid projects at regional level and a second curriculum for the paralegals at the regional level.  It was also agreed that a ‘Board’ on the subject will be established having membership from the South Asian Countries.

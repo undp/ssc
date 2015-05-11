@@ -19,5 +19,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 275
 ---
 UNDP facilitates partnerships and provides technical assistance through its Arab Climate Resilience Initiative (ACRI). This will include- 1) cooperation on needs assessments and feasibility studies, and exploring private sector finance for joint projects that test innovative technology and finance models, promote early market development, scaled-up private investments and public-private partnerships. 2) a series of High-Level Dialogue among CEOs and business representatives to debate the state of investments for clean technology in the region and means of scaling up (focus on capturing and learning from success stories; gearing innovation and investments in climate resilience, clean energy and water for the benefit of the poor; facilitating south-south cooperation on clean technology investments etc); 3)  UNDP-CEBC will produce the analysis of trends and opportunities in clean technology innovation and finance and a regional report assessing the state of private sector innovation and investments in the green economy in the Arab region. 4)  Specific regional and country level projects will be identified for joint capacity development and investment activities.

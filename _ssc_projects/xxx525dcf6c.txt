@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The exchange expert missions between china and Zambia enabled china to plan effectively for the transfer of RE technologies while Zambia learnt from china what technologies were available and appropriate for Zambia. This exchange resulted in development of a project that meets both countries needs in terms of technologies and providing capacity development

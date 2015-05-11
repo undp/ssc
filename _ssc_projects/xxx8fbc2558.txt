@@ -10,11 +10,12 @@ partner_type:
   - national_governments
   - sub_national_governments
 project_title: Support for the immediate response and early recovery planning of the negative effects caused by Hurricane Sandy in eastern Cuba
-scale: national
+scale: country-country
 project_objective: 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP facilitated knowledge exchange through an International Workshop on Risk in Cities- Sharing Tools for Urban Resilience, aimed at exchanging experiences and tools for building urban resilience in Latin America and the Caribbean under South-South cooperation, building upon the recent experience in Santiago de Cuba during Hurricane Sandy response and recovery. Mexico, Ecuador, Brazil, Indonesia and El Salvador experts shared their experiences about the resiliency in their countries.

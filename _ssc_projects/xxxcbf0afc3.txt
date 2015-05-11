@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The South-South Cooperation is built through exchanging resources, sharing knowledge and technology amongst developing countries. ASEAN Foundation and UNDP selected 8 provinces as target areas. It is expected that pilot initiative will trigger more local government to play active roles and participate in South-South decentralized cooperation. The key outcome was the signing of two MoUs. The pilot led ASEAN Foundation to produce an option paper on South-South Cooperation within ASEAN.

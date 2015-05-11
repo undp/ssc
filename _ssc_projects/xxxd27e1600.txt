@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The project reinforced the successful transfer of the MDGs monitoring system and of methodologies in the Mesoamerican area with El Salvador, Guatemala, Nicaragua and the Dominican Republic . It also supported development of a regional results report (currently being finalized) and the establishment of the Mesoamerican Network on MDGs, a key factor for continued regional cooperation beyond project duration (E82 AMEXCID).

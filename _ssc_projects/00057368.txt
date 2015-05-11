@@ -12,11 +12,12 @@ partner_type:
   - cso
   - academia
 project_title: Strengthening the sustainability of the protected area system of Montenegro
-scale: national
+scale: country-country
 project_objective: To contribute to achieving global environmental benefits by mitigating the threats to the biodiversity contained in at least 108,866 ha of protected areas of Montenegro. This will be achieved by overcoming the barriers that prevent the effective management of the terrestrial protected area system, by extending and enhancing the protection status to at least 21,000 ha, and by creating the enabling conditions for the establishment of a new Marine Protected Area in Montenegro.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 In this project, UNDP will assist the Government of Montenegro in designing, establishing and financing a ‘green business support programme' to support the establishment of biodiversity-friendly local entrepreneurial businesses. This activity will rely on the experience of the Croatian Coast project, which successfully runs a similar scheme.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 The fact that UNDP’s comments were incorporated in the second White Paper on Foreign Aid illustrates China’s increasing willingness to disclose more information on foreign aid and that it is moving towards international reporting standards. UNDP’s analysis on the White Paper and consultation with CAITEC counterparts allowed UNDP to clarify many current issues concerning China’s foreign aid and improve the understanding of China’s SSC among the development community and the general public.

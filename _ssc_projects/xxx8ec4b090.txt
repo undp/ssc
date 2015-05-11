@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The initiative is strongly linked to our work on rule of law and integrity. The exchanges enabled the national institutions to establish longer term partnerships and also enhance the Macedonian efforts to adhere to the EU requirements. Results are being/will be recorded in the EU progress reports.

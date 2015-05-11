@@ -14,5 +14,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The government has invited several of the stakeholders met to participate in the Good governance Forum, Feb 2015. Further discussions on how a partnership can be established  will be facilitated by UNDP during the Forum. In addition a meeting with the delegation and the Ambassadors from Turkey and Sweden is planned to further seek bilateral collaborations

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The initiative benefited Ivory coast more but the Governance programme (the Access to Justice programme and the Rwanda National Police Project in particular) was used as a case study for learning purposes. In addition to this, it is worth noting that the Rwanda National Police has learned a lot from the exchange.  After the first learning visit, Ivory coast initiated SMS Polling (UN TEAMWORKS).

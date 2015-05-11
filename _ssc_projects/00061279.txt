@@ -9,11 +9,12 @@ region:
 partner_type: 
   - national_governments
 project_title: Support to the institutional strengthening of the Social Subsidies Administration Unit
-scale: national
+scale: country-country
 project_objective: To help improve the impact of Social Protection Policy increasing the efficiency and effectiveness of the Technical Department of the Cabinet of Social Policy Coordination
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP provided exchange facilitation and knowledge brokering between Dominican Republic and Paraguay on development and implementation of a payment system for social subsidies. 

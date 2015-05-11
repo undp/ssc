@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The establishment of the RRMC unit has increased capacity at the local level to plan for and mitigate against disasters. The operation of the Parish Disaster Committee as well as the Planning Unit of the Parish Council has been expanded to include better disaster planning through the collection/use of data (using GIS software and Disaster Risk Information Platform), training of community members and establishment of early warning points in Linstead and Old Harbor Bay (See RRMC Project Reports)

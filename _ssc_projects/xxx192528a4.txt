@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The mission team shared about research initiatives under the CDBD Asia project and its linkage to fulfill research needs on flash flood and other disaster risk management in Nepal and Bangladesh. The mission team was briefed on different issues and initiatives being taken by the Government of Nepal and research needs as well. The team visited communities at Maadi, Chitwan district as well to interact with the communities for exploring future needs and priorities.

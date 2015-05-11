@@ -14,5 +14,6 @@ undp_role_type:
   - builder_of_capacities
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Le conseil des ministres de l’Auttorite; du bassin du Lac Kivu et de la riviere Ruzizi (Abakir) a endosse le mardi 4 octobre 2014 aa Kinshasa la convention internationale relative a la gestion integreee des ressources en eau de ce bassin. Ce qui permet de fixer des mesures approprieess et de fixer des regles communes pour la regulation des activites anthropiques et endogenes au Lac Kivu.

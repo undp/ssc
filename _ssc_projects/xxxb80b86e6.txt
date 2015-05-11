@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 2 techniciens ( junior experts) de Cabo Verde ont participé dans des actions de renforcement de capacités organisés dans le cadre de ce projet.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Le projet a ainsi mis en place un groupe de travail sous regional qui evalue annuellement l indice national de gouvernance des ressources marines et cotieres dans chaque pays. Cet exercice a permis l elaboration d’un plan d’actions pour l amelioration de la gouvernance du secteur de la peche dans les six pays du programme. Par ailleurs, le projet a permis de mettre en coherence les politiques dans le secteur de la peche et de mettre en place des comites nationaux de suivi.

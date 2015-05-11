@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Les résultats enregistres par le senegal dans l'operationnalisation du concept d'ecovillages (creation d une agence dediee, 10 ecovillages existants) ont inspiré la Mauritanie a mener une visite d echange au Senegal. Par ailleurs, le sommet mondial des ecovillages de Dakar en 2014 a ete une opportunite d echange entre le Senegal et d'autres pays.

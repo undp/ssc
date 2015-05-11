@@ -9,11 +9,12 @@ region:
 partner_type: 
   - national_governments
 project_title: UN-REDD Solomon Islands Programme- Support to Initial Readiness
-scale: national
+scale: country-country
 project_objective: To establish the necessary institutional and individual capacities required to develop full REDD+ readiness in the Solomon Islands
 territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 275
 ---
 UNDP will assess the potential for regional cooperation opportunities with other countries willing to discuss and contribute Involvement of Council of Regional Organizations in the Pacific (CROP) for technical support

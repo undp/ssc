@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Signature d un protocole d’accord d une duree de deux ans renouvelables entre l’Agence Nationale de Maitrise de l Energie (Tunisie) et son homologue a Djibouti (Agence Djiboutienne de Maitrise de l Energie.

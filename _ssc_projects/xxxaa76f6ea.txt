@@ -30,5 +30,6 @@ territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP will  assist countries to identify, prioritize and implement long-term “no regrets” pilot demonstration adaptation response measures in line with UNDP‟s comparative advantage and enhance the capacity of 13 Pacific countries to design and implement policies to integrate adaptation into domestic plans, investments and practices. For instance, success cases were transferred from Nauru to the Marshall Islands.  

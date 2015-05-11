@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The conference helped unifying operational procedures of witness support offices and  devising ways to strengthen institutional referral mechanisms relevant for systemic and long-term support to victims and witnesses. The findings also facilitated UNDP’s continued support to relevant state and entity level institutions and partners in the process of forming efficient and functioning network of victim-witness support providers.

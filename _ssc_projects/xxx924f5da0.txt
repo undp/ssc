@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 According to the farmer association in the pilot area, this new technique is now being applied in other areas with similar issues of water and land management.

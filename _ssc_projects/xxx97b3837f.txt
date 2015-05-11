@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The performance management system developed and approved for the Lesotho civil service is modeled after the Kenya experience with involvement of experts in Kenya. As a result, the Performance Agreement Frameworks (similarly as done in Kenya) have been signed off by 23 of 24 Cabinet Ministers.

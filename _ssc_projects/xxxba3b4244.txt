@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Le PNUD a facilité les opportunités pour la promotion de la coopération sud-sud et a un retour au profit du Maroc garanti à travers  l'apprentissage en matière d'évaluation des PP ce qui va permettre d'éclairer les décisions  au niveau national pour un impact positif sur les conditiosn d evies des citoyens.

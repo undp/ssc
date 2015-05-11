@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Following the concept and detailed implementation plan elaborated with the support of Georgian experts, business incubator was recently established in Dnipropetrovsk oblast. The initiative will be used as a model pilot with further expansion throughout the oblast and in Ukraine.

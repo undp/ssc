@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Avec ce voyage d’étude les cadres nigériens ont mieux compris les méthodes utilisées au Sénégal par le projet d’assurance indicielle agricole pour identifier et choisir les sites d’intervention et collecter les données de base. Grâce aux leçons apprises le Niger a mieux préparé son projet pilote d’assurance climatique indicielle contre la sècheresse, en adoptant une méthodologie similaire d’identification des sites de mise en œuvre du projet et de meilleurs moyens de collecter les données.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The result of evaluation which was exercised by using the Participant Training Evaluation Forms after each of the training workshop showed that the total of 35 maize breeding experts in Ethiopia, Tanzania, Rwanda and Guinea were well benefited from the training workshops facilitated by the trainers from the Academy of Agricultural Science in DPRK.

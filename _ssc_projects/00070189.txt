@@ -9,11 +9,12 @@ region:
 partner_type: 
   - national_governments
 project_title: Capacity Enhancement for Intensive International Integration of Viet Nam towards 2020
-scale: national
+scale: country-country
 project_objective: To develop national capacity for formulating and implementing international integration policies that best serve Viet Nam's development needs and the targets of the Socio-Economic Development Strategy 2011-2020.
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 275
 ---
 UNDP will facilitate capacity building initiatives, including international exchange and South-South cooperation.

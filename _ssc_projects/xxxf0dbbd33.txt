@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Development of legal and regulatory frameworks as planned to strengthen public administration, 2 year coaching and mentoring of minimum 200 civil servants across various sectors resulting in increased skills

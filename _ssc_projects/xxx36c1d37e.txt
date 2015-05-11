@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 A partir de los insumos y experiencias de este intercambio, se está en proceso de implementación un modelo de incubación - aceleración de empresas en el Gobierno Municipal de La Paz [Coop Sur Sur 2014]

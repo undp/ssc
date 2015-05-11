@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The CCE-CC approach is outstanding and has been embraced in pilot communities with early signs of its potential to achieve great impact on transforming GEWE issues. CCE-CC facilitating organizations observed and reported positive changes in community perspectives and attitudes. The reported changes will have to be validated by in-depth interviews with more community members and others not involved in facilitating conversations.

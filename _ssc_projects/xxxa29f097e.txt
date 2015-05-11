@@ -9,11 +9,12 @@ region:
 partner_type: 
   - national_governments
 project_title: South-South Cooperation on strengthening the infrastructure for Peace in Ethiopia
-scale: national
+scale: country-country
 project_objective: The Government of Ethiopia and UNDP have developed a robust partnership to strengthen the evolving architecture for peace.  Central to this partnership is building national standing capabilities or infrastructures for peacebuilding and prevention
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP facilitated knowledge sharing between Ethiopian and Ghanaian policy makers and practitioners on strengthening infrastructure for peace. The level of participation from Ethiopia demonstrated the consistent commitment of its government to peacebuilding as a strategic policy intervention to inclusive and equitable development. 

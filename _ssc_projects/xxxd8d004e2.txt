@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 In order to achieve AMEXCID’s institutional strengthening, the Project was supported for the launching of the CID National Registry (RENCID) through capacity-building workshops (with the participation of more than 100 officials from 22 different Government agencies and entities), the publication and dissemination of teaching materials, public awareness videos and tutorials that have facilitated effective use of the platform (E81 PNUD).

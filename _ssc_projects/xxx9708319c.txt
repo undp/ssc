@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 There are propositions for joint research and publication work between Mass Communication of Fourah Bay College and the University of Ghana,  in particular, for Mass Communication Department to be upgraded into a full-fledged Centre of Excellence. (Support to Media Programme, Annual Report, 2014)

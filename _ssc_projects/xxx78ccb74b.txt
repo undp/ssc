@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The Forum resulted in high-level interest and engagement from both UNDP Headquarters and the Chinese government on global issues, and also addressed the issue of the voice of the South in global economic governance while directly contributing to the international debate and the corporate positioning of UNDP regarding this important topic.

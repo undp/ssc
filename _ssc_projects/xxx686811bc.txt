@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Participation de Cabo Verde dans la Conference International de SIDS- SAMO. Apresentation des initiatives de projets pour financement atravers le mecanisme SIDS DOCK sur la base des reflexions, echanges et partage d'experiences

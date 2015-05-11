@@ -10,12 +10,13 @@ partner_type:
   - national_governments
   - academia
 project_title: Improved Justice and Public Security
-scale: national
+scale: country-country
 project_objective: 
 territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP facilitates capacity building and knowledge transfer from Turkey to Haiti and provides capacity development. Main activities- (1) training for trainers was provided by civil servants from the Turkish International Academy for Haiti's Direction of the Judicial Police on Drugs and Organized Crime (2 weeks in Haiti and 2 weeks in Turkey in January-February 2013); (2) two Haitian civil servants from the Ministry of Justice participated in the International Congress of Association for Forensic Science Institutes organized by the Turkish National Police.

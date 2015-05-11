@@ -10,11 +10,12 @@ partner_type:
   - regional_inter_governmental_organizations
   - national_governments
 project_title: Sustaining agricultural biodiversity in the face of climate change in Tajikistan
-scale: national
+scale: country-country
 project_objective: Embedding of globally significant agro-biodiversity conservation and adaptation to climate change into agricultural and rural development policies and practices at national and local levels in Tajikistan.
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 The project results will be disseminated within and beyond the project intervention zone via information sharing networks and forums including the UNDP/GEF networks that involve Senior Personnel of similar and related projects. UNDP/GEF Regional Unit has established an electronic platform for sharing lessons learned among project coordinators. The project will participate in relevant scientific, policy-based and other networks that can benefit project implementation via lessons learned; and will share its own lessons learned with other similar projects. Identification and analyses of lessons learned will be provided and communicated annually. UNDP/GEF will provide a format and assist the project team in categorizing, documenting and reporting on lessons learned. 

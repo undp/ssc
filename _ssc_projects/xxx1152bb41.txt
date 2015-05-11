@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Technical consultations organized, scoping exercise completed for a full-scale project that can potentially be funded from the grant that Russia had allocated to Kyrgyzstan as technical assistance for Customs Union accession. The knowledge and experience sharing on sanitary, phytosanitary and veterinary standards in Kyrgyzstan has been adapted for implementation in Tajikistan. Project funded by Russia

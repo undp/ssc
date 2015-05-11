@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Acordado Memorandum of Understanding (MoU) entre el  Centro de Promocion de Inversiones  y Exportaciones de Cuba y  ProNicaragua, acordada mision comercial de empresarios radicados en Nicaragua a cuba (marzo 2015) y valorado proyecto CEPEC PNUD sobre Inversion Extranjera y Exportaciones

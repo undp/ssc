@@ -22,6 +22,9 @@ project_objective:
 territorial_focus: ldc,fragile_states,mic
 undp_role_type: 
   - builder_of_capacities
+  - knowledge_broker
 published: true
+import_source: 275
 ---
-The British Virgin Islands' Department of Disaster Management provided shelter management training and materials to disaster management agencies which were coordinated by the Fire departments and the Disaster Management Coordination Agency. UNDP  manages the project and coordinates activities.
+- Cayman Islands assessed Montserrat's emergency telecom needs and defined a solution for the Montserrat's Disaster Management Coordination Agency, and specific emergency telecommunication infrastructures (VHF radios) were re-programmed  to allow interconnectivity between the country's agencies. UNDP  manages the project and coordinates activities.
+- The British Virgin Islands' Department of Disaster Management provided shelter management training and materials to disaster management agencies which were coordinated by the Fire departments and the Disaster Management Coordination Agency. UNDP  manages the project and coordinates activities.

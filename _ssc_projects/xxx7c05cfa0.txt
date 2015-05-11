@@ -13,6 +13,7 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 After the April visit, Lam Dong (VNM) and Jambi (IDN) provinces have signed a MoU on 18 Sep 2014 to strengthen cooperation in the following areas - 
 1)High Tech Agriculture Development

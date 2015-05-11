@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Nepal and Pakistan were able to capture best practices on sustainable operation of GLOF Early Warning System - through active engagement of local communities and stakeholders. These lessons are being replicated in the ongoing projects in the respective countries (Refer Nepal ROAR)

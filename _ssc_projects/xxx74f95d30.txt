@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 GTI is now in a position to transit into a strategically focused, pragmatic and result-oriented organization to enhance mutual benefits, and accelerate economic growth as well as sustainability in the priority areas of - transport, trade and investment, tourism, energy, environment, and other areas such as, but not limited to, agriculture.

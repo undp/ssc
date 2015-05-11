@@ -16,6 +16,7 @@ undp_role_type:
   - knowledge_broker
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 The Forum focused on three main aspects of SSC - (a) the basic value proposition and importance of South-South cooperation, (b) the enablers and constraints for South-South cooperation, and (c) the options and mechanisms for South-South cooperation.
 The Forum is contributing to  a successful post-2015 climate agreement by promoting South-South Cooperation as an integral part of global action on combating climate change.

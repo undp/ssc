@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The initiative fed directly in the achievemnts of the UNDP supported Inclusive Network of the Vardar Planning Region, part of the UNDP Local Development Programme. The results can be verified in the records of the council of the planning region.

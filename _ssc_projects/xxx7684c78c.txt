@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Government of India’s publication “A Panoramic view of India’s Presidency of CoP to CBD 2012-2014” acknowledges support provided by UNDP in establishing and moderating a global e-network helping countries in building their capacities in the ratification of Nagoya Protocol

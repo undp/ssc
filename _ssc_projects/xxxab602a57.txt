@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The herbal production through local community was promoted and proved as the best sustainable industry, as well as management of water in the arid region&reducing in energy use thereby reducing.Also pilot sites were identified for institutional strengthening. These efforts once will fully implemented will contribute to the development of an integrated planning &management of land & water resources in a water basin for achieving sustainable development.

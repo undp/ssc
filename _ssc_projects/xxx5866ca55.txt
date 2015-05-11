@@ -16,5 +16,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Too early for results as initiative just launched - It is expected to provide capacity building & local governance, public governance, performance management quality management in the public sector, public management education in the Arab region , public administration research, public finance, E-Government etc.

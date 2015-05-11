@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 As a results of this exposure visit, some of the senior MOGA officials imparted their knowledge to refine and strengthen the review of the management audit system of MOGA.

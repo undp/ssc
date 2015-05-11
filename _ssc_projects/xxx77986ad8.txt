@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Knowledge gained on new adaptation technologies in vegetable production have been integrated into climate resilient farming practices which have started to rolling out in 2014 and will continue into 2015 in a drought prone and a flood prone area (IRAS APRR).

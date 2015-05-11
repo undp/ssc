@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Parliament is actively engaged in developing its strategic action plan covering legislative, oversight and citizen awareness raising activities related to European integration. Cooperation document has been sgined between Georgia and Visegrad groups states on further cooperation steps in the V4 Plus Georgia format, including actions to be taken before the 2015 Riga Eastern Partnership Summit.

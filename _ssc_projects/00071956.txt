@@ -10,11 +10,12 @@ partner_type:
   - international_cooperation_development_agencies
   - national_governments
 project_title: Further Strengthening and Expansion of the  Mine Action Capacity in Azerbaijan
-scale: national
+scale: country-country
 project_objective: To expand support to Azerbaijan National Agency for Mine Action (ANAMA) in upgrading its Mine Action Resource and Training Centre. Additional capacities are required as ANAMA becomes international service provider in the region, and its client base is growing.  
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP facilitates sharing of experiences among participating countries

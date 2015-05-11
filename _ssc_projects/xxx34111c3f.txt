@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The High-Level Workshop was important for introducing International Think tank for Landlocked Developing Countries, the first international organization to be set up in Mongolia, and its research papers and compiling background for the next research through identifying challenges and barriers the LLDCs face in trade and transit transport and listening to positions of LLDCs.

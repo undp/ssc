@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 Based on the experts' and decision makers' meetings at the Conference and their exchange of information, Uzbekistan and Tajikistan lifted the ban on the re-export Kazakhstan's wheat to Afghanistan.

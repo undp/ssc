@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - DOM
+  - SLV
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: ART Programme (Articulation of Territorial Networks for Sustainable Human Development)
+scale: global
+project_objective: 
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+published: true
+import_source: 275
+---
+UNDP promoted technical exchange between local economic development  actors of El Salvador and Dominican Republic and supported the follow up actions. Exchange visits were organized for El Salvador officials to government institutions and  Local Economic Development Agencies of Dominican Republic (microfinance and strategies for local economic development). Participants created a network for sharing information, best practices and support each other's initiatives within the framework of South-South Cooperation

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Cette visite d’echanges d’experiences a permis aux acteurs nationaux du Togo en charge  de l’elaboration du schema d’amenagement et de developpement urbain du grand Lome;(SDAU), de bien maitriser la demarche, les outils et les bonnes pratiques qui ont  permis au Togo d’approfondir le diagnostic de base et de lancer dans de bonnes conditions le processus d’elaboration du SDAU.

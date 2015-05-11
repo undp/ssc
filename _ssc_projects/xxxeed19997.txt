@@ -13,6 +13,7 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The initial work has produced an assessment of women’s leadership and participation issues in social cohesion and peacebuilding initiatives in both Indonesia and Myanmar. This was an initial activity implemented in November-December 2014.  
 A workshop to discuss the assessment results was conducted during December 2014 in Indonesia, with participants from Myanmar (E110 Social Cohesion). This work will be built on in 2015.

@@ -9,11 +9,12 @@ region:
 partner_type: 
   - cso
 project_title: Contributions to a new model towards youth policy
-scale: national
+scale: country-country
 project_objective: 
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP facilitated knowledge exchange between Paraguay and Uruguay on Youth Policy developed jointly with the Youth National Institutes of Paraguay and Uruguay. 

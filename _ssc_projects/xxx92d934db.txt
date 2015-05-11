@@ -9,11 +9,12 @@ region:
 partner_type: 
   - national_governments
 project_title: Africa Adaptation Programme- a Cross-Practice Approach
-scale: national
+scale: country-country
 project_objective: 
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 The Inter-Regional Technical Support Component (IRTSC) will provide a package of support to the country teams to link the country projects together. All countries will benefit from and contribute to a much wider knowledge base founded on best practices. The support will extend to both UNDP geographic regions involved- sub-Saharan Africa, led by the Regional Bureau for Africa (RBA), and the Arab States bordering the Mediterranean Sea, led by the Regional Bureau for Arab States (RBAS). This technical support package will be a key mechanism to deliver expertise, training, and tools to countries as they develop and implement their country projects

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 In 2014 the pilot administrative area experienced intense rainfall resulting in major flooding of low lying areas and the collapse of the main roadway. An independent rapid assessment of the capacity built by the pilot was conducted by the national DRM entity. The systems were shown to be still in use and working well to reduce response time for the provision of relief and the evacuation of at risk persons.

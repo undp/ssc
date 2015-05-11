@@ -11,12 +11,13 @@ partner_type:
   - international_cooperation_development_agencies
   - national_governments
 project_title: Support to the legislative development process and implementation of the consultation rights and the participation of indigenous population in Bolivia
-scale: national
+scale: country-country
 project_objective: Support the process of legislative development and implementation of the right to consultation and participation of indigenous peoples in Bolivia
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP provided capacity building and supported the knowledge transfer. Two training programs were organized with experts from Peru and Colombia on Indigenous People's rights to consultation.  As a result, recommendations were formulated for the elaboration of the draft law on the right to consultation. An improved draft law proposal was formulated. 

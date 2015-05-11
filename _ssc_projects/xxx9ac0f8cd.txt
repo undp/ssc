@@ -14,6 +14,7 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 With help from UNDP, the Government of St. Lucia is in contact with the Mexican authorities to learn from the Mexican experience on multidimensional poverty.
 A Memorandum of Understanding between UNDP and ECLAC was signed in order to join forces and share expertise; it has been confirmed that the next Forum will take place in 2015 in Peru as a joint initiative  .

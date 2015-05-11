@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Viet Nam’s participation in international MDP network resulted in its high commitment and progress on adapting MDP to national poverty reduction framework.

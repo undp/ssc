@@ -9,11 +9,12 @@ region:
 partner_type: 
   - national_governments
 project_title: Egyptian Agency for Development Partnerships
-scale: national
+scale: country-country
 project_objective: To effectively and strategically advance South-South cooperation in Egypt. The Egyptian Government took the decision to set up The Egyptian Agency for Partnership and Cooperation (EAPC) in September 2013, under the chairmanship of the Minister of Foreign Affairs.
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 275
 ---
 UNDP will provide capacity development. To support the Agency, UNDP in Egypt seeks to contract a Training Institute or company to provide EAPD staff with a solid foundation on Project Cycle Management and Results-Based Management. 

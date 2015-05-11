@@ -14,5 +14,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The study visits helped transfer the technologies to private sector who are producing modern cookstoves. It also created awareness created for households of the necessity and usefulness to adopt modern cookstoves. The institutional capacity, technical capacity of staff and laboratory capacity have been enhanced in government and regional energy bureau, which allow them to promote cook stove technology.

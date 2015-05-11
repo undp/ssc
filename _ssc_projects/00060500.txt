@@ -10,11 +10,12 @@ partner_type:
   - national_governments
   - cso
 project_title: Developing the Protected Area System of Armenia
-scale: national
+scale: country-country
 project_objective: To conserve globally significant biodiversity in Armenia. The project's objective is to catalyse the expansion of the nature reserves to provide better representation of ecosystems within Armenia's current protected area system and enable active conservation of biodiversity. The project's two components will focus upon- (1) rationalization of the PA system through improving the regulatory and institutional framework relevant to Sanctuary establishment and operation; and (2) institutional capacity building by piloting a suite of Sanctuary management tools largely absent from Armenian's current protected area management regime. This project's efforts will result in a national protected area system better equipped to include and conserve currently under-represented ecosystems and associated species. Project investment will be in community areas to improve management of productive landscapes while helping to promote connectivity and alleviate poverty. The project will enhance the financial sustainability of Armenia's protected area system. These ecosystems outside the shelter of Armenia's protected areas are critical to the long-term conservation of several globally significant species, including many endemic agro-biodiversity resources.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP facilitates the knowledge exchange to transfer best practices on protected area management planning from Georgia to Armenia. At the same time, the lessons generated in Armenia by the project will be made available for the Georgian counterparts. 

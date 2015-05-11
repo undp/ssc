@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The learning especially on data and information management system was useful to implement data generation and management through implementation of electronic building permit system (e-BPS) for earthquake-safe building construction practices in the Kathmandu valley.

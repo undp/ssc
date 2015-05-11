@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The initiative directly contributes to strengthening the market of EE lighting through increased capacities of the testing laboratories. The evidence of immediate relevance is the willingness of direct beneficiaries - Russian and Chinese laboratories to continue the collaboration through an adjusted approach to cross-testing. Indirect beneficiaries - the manufacturers and consumers of the EE light bulbs will potentially benefit from reduced access to market of low quality inefficient bulbs

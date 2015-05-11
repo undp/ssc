@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The final goal of the initiative is to create a regional touristic network for adventurous tourism, by promoting and developing local communities and small businesses. The project is its initial phase, and thus far real results have been accomplished only in regard to awareness raising and networking of the local communities across the borders.

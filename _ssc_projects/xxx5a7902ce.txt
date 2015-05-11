@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The acquired knowledge was reflected in the developing protocol within the Directorate for Execution of Sanctions for the establishment and methodology for delivery of trainings to inmates. This initiative will continue in 2015 with additional forms of transfer of know-how, aiming at delivering specific training curricula to country structures.

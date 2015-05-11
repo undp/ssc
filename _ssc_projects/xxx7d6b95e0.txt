@@ -14,6 +14,7 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 This project published the report Sustainable Development of Chinese Companies for “Going Abroad”. It summarized the overseas sustainable development situation of Chinese companies, best practices and key challenges to enhance communication with the international community. 
 A comprehensive database was developed by administering a questionnaire to 500-1000 Chinese companies. The database will serve as an important tool for the continuous improvement of Chinese companies overseas operations.

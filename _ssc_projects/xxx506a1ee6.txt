@@ -14,5 +14,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The tour was organized in the framework of its Aid for Trade Project in close cooperation with the Embassy of Turkey in Tajikistan. During the tour delegates got acquainted with the multilateral trade system, market access negotiations for non-agricultural goods and agreement of IT, trade defense policy, technical barriers to trade and other WTO related issues. They learnt how to benefit from the WTO membership and promote interests of local entrepreneurs on the global trading arena.

@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Le Forum des femmes parlementaires a ete cree (PV Assemblee generale constitutive) et les deputes membres de ce forum ont mene des actions de plaidoyer et de lobbying en faveur de la prise en compte du genre dans les politiques publique et les instances de prise de decision

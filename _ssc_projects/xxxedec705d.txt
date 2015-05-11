@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Strong buy-in from Development Bank in the Marshall  to establish a Renewable Energy (RE) subsidy programme, with support from UNDP and other partners. Contract was signed between the Government and the Marshall Islands Development Bank (MIDB)  to establish a seed fund for the purchase of viable RE products to be made available to consumers.  Training  for local financial institutions on how to develop a RE & Energy Efficiency loan scheme was done that went a long way in effective implementation

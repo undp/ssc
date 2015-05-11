@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Once implemented, the Pension Scheme for Informal sector will significantly contribute to reducing economic shocks/risks for the elderly age population and also minimize the government’s risks pertaining to the cross-generational burden, which contributes to one of the CO results on pro poor growth and economic transformation.

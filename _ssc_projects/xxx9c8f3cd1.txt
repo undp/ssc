@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 There is a difference between the technical capacities of the two countries, Thailand being more advanced in institutional organization, man-power, coordination of work flow and implementation of techniques on disaster management and agricultural assets. There is agreement between both countries for real-time, informal, cross-border communication in the event of pending disaster, not yet been tested. Due to insufficient national budget there has been no implementation of the best practices.

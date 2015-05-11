@@ -10,11 +10,12 @@ partner_type:
   - international_cooperation_development_agencies
   - national_governments
 project_title: Volunteer Program
-scale: national
+scale: country-country
 project_objective: 
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 KOICA will deploy a Multilateral Cooperation Officer to join UNDP Kenya Country Office team, Inclusive Economic Growth Unit, to offer assistance in Green Business and Green Growth. The KOICA Officer will in particular support the green growth agenda and the development and implementation of women's green business initiative, aiming to support women entrepreneurs in generating income through green goods and services.

@@ -23,5 +23,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP facilitates the dissemination of experiences and lessons learned and promoting information exchange; advancing access to, and the transfer of, clean and environmentally sound alternative technologies; and demonstrating viable and cost-effective alternatives to the processes and practices. 

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 In 2014 a new Results-Based Public Investment System for the Aid Information Management System was ‘installed results-driven Public Investment System includes project proposal entry form, including logframe, and advancement of project proposal through all stages of project cycle. The system has undergone through operation testing in August-October with necessary adjustments and improvements (E11, E12)

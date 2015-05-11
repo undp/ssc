@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Reflecting the lessons and expertise from this cooperation, the Bangladesh Standards and Testing Institute developed and adopted Energy Efficient Standards and labelling for four electrical products. In 2014, the manufacture and sale of these products led to an offset of nearly 180 MW of energy demands (nearly 3% of national demand) and a reduction of 1,000 tons of greenhouse gases (BSTI 2014).

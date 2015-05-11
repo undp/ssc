@@ -13,6 +13,7 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 l'apport de cet échange est réflété dans la volonté des participer d'institutionnaliser 
 les mécanismes de coordination horizontale des politiques sectorielles dans les pratiques publiques.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Learning from the Kyrgyz OVOP example, the project piloted One District One Product (ODOP) in Dand district in Kandahar and selected to improve the value chain for grapes  as it has high potential to increase productivity.The project has analyzed producers, processors, services and marketing related to grapes in Dand District.

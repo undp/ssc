@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 le voyage d’etude ayant eu lieu a la fin de l’annee, sa contribution aux resultats ne sera determinque l annee prochaine. cette contribution pourra etre evaluee par l adoption des mecanismes de mise en place du corps des jeunes volontaires pour assurer un demarrge effectif des activites du projet.

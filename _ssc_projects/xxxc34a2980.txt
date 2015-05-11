@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 El Informe Anual 2014 de PRONicaragua para el Gobierno (E53 Inf. Anual PRONic 2014) incluye el apoyo de la Agencia al Gobierno de Cuba como parte de sus trabajos de apoyo a gobiernos hermanos. La iniciativa prevé la firma de un acuerdo de colaboración, que permitiría la visita de empresarios de Nicaragua a Cuba y en definitiva estrechar lazos comerciales entre ambos países.

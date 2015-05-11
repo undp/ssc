@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The recognition that there is a space for Highly Forested, Low Deforestation countries as Suriname but requires appropriate policies with support of national partners as expressed during the Readiness Preparation Project Inception workshop in December, 2014.

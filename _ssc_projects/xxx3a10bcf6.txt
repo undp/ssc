@@ -15,5 +15,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The initiatives enhanced the capacity of the CRC and the Liberia national police through the knowledge gained and partnership forged, learning best practices to be applied to the country’s development agenda. Through these initiatives, 3 of the officers trained in Ghana were promoted based on merit and hard work and the CRC involved CSOs and citizen’s participation improved

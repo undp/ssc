@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Increased knowledge and sharing of information as well as commitment for future collaboration for the two Governments in the area of integrated water resources management.

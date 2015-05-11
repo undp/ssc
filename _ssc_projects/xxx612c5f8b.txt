@@ -9,12 +9,13 @@ partner_type:
   - regional_inter_governmental_organizations
   - national_governments
 project_title: Binational Local Development Project
-scale: national
+scale: country-country
 project_objective: 
 territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP provides capacity building, exchange facilitation and knowledge brokering between Dominican Republic and Haiti. The two UNDP country offices coordinate this initiative on local economic development and human rights.

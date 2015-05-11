@@ -13,6 +13,7 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Minutas de la reunion del 4 de diciembre, donde el director ejecutivo de FUNDAMUSICAL se compromete a impulsar esta cooperación y a solicitar una reunion de las autoridades de FUNDAMUSICAL con el PNUD y el embajador de Venezuela en Haiti. 
 Documento de propuesta para la sistematización de buenas prácticas en la gestión del Proyecto con FUNDAMUSICAL.

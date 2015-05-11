@@ -13,6 +13,7 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Le comité régional de gestion des inondations de Niamey a été fortement sensibilisé à l’importance des mesures de prévention des inondations. 
 Suite à ce voyage, la région de Niamey a élaboré et validé un plan d’action pour la prévention et la gestion des inondations et  organisé un atelier de restitution auquel ont été invités les représentants d’autres régions du pays afin de leur faire bénéficier des leçons apprises.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 No existe evidencia de impacto en los resultados, pero permite aportar capacidades para la gestión por resultados y mejorar el impacto de las políticas. El Ministerio de Desarrollo Social planea la implementación del RUB en el mediano plazo.

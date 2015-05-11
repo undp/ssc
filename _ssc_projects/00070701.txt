@@ -12,11 +12,12 @@ partner_type:
   - cso
   - academia
 project_title: Human Development and Social Rights
-scale: national
+scale: country-country
 project_objective: The project aims to influence public policies promoting strengthening the processes of public debate , the development of institutional capacities and analysis about achieving improvements in Human Development .
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP provides technical assistance and supports knowledge exchanges between Colombia and Bolivia on decentralization and autonomy in urban contexts.  As a result, priorities in urban planning were identified for Bolivian partners; the state of art of urban development and local experiences in urban development were disseminated.

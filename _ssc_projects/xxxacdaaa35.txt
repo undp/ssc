@@ -15,5 +15,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 301 partnerships, valued at over USD 1.9 billion [UN], were registered during the conference, to address a broad range of challenges facing SIDS, between governments, businesses and CSOs from all over the world. Over one-third of the partnerships registered were announced during the conference, including new partnerships worth potential USD625 million, while existing partnerships made new commitments amounting to USD $1.28 billion.

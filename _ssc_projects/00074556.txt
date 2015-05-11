@@ -9,11 +9,12 @@ region:
 partner_type: 
   - national_governments
 project_title: Strengthening Policy and Capacity Development
-scale: national
+scale: country-country
 project_objective: To assist national governments in the global South towards mainstreaming human development in planning processes and policy making.  In partnership with the International Centre for Human Development (IC4HD) in India in collaboration with Ministry of Human Resource Development and Indian Institute of Advanced Study (IIAS) 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP will provide technical and administrative assistance and facilitate knowledge transfer.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The SLM model in Lesotho integrated some lessons learnt and techniques of other African countries, which now form part of the model taken over by communities through the Grazing Associations. Secondly, the conference itself benefited the SLM project in achieving its third outcome related to awareness raising and knowledge sharing. - all participating countries benefitting from understanding other practices.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Cette mission a permis au Haut-Commissariat à la Modernisation de l’Etat d’apprécier les outils et procédés utilisés par le Rwanda dans le cadre de la simplification des procédures des services publics et de comprendre les axes stratégiques constituant la base de l’édification d’une administration publique moderne. L’exploitation des enseignements de la mission pour améliorer les résultats au Niger est en cours, la mission ayant eu lieu fin novembre (Rapport disponible).

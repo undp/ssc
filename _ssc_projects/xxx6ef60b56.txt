@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Propuesta actividad especifica dentro del proyecto para la creacion de infraestructura de datos espaciales en Artemisa, a partir de la participacion en el foro y en Alianza con la Universidad Politecnica cubana

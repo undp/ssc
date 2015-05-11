@@ -14,5 +14,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 It contributed to the development of a new integrated entrepreneurship and enterprise development project to improve the livelihood, employment opportunities as well as the management and leadership skills of women and youths.

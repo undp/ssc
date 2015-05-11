@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The resulting action served to build capacities within 120 smallholders of the Belize River valley. From the pilot the Ministry of Agriculture prepared several knowledge products relating to climate resilient livestock rearing. These products are being promoted as a part of the national agriculture development strategy.

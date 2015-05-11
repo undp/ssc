@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The visit contributed to promoting pro poor growth and economic transformation by sharing the best practices on how development partners’ contributions are aligned with national development agenda on economic transformation.  The Bangladesh team has been informed on aid effectiveness in Rwanda in order to inform their system.

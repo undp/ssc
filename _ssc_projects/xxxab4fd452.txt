@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 The conceptual basis for the Virtual Center of Excellence was prepared and persons participated in a regional workshop in El Salvador to share Mexico’s experience regarding REDD +. At present, the business plan for the Center is being drawn up and will serve as a basis for making progress with the political negotiations. The project has been reflected in AMEXCID workshops and a publication on UN support for Mexico’s South-South cooperation efforts (E85 PNUD).

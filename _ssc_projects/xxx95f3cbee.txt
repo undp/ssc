@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The Bangladesh Ministry of Finance learned from the experience and skills of counterparts on effectively aligning ODA with other sources of development finance, through their preparation of ‘Development Finance and Aid Assessments.’ Bangladesh’s AP-DEF will undertake a series of comparative Development Finance and Aid Assessments in 2015, helping Bangladesh to identify the most effective development financing options (APDC Report 2014; Mexico Report 2014).

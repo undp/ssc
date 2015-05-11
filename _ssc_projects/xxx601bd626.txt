@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Preliminary designs of a one-stop service centre and testing of the design through the prototype method were completed in Bangladesh. The methodology was acknowledged as robust and is being codified to be used in conducting such S-S exchanges in the future.

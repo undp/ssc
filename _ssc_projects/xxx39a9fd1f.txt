@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 In particular the workshop on RIA served as a new platform to exchange knowledge, to further strengthen multilateral partnership, and to support the ongoing legal and regulatory reforms by setting new standards and qualitative benchmarks to lawmaking. It also helped to discuss the ways to improve relevant legislation and procedural provisions with a view to implement RIA, and to increase the quality of regulations and law making.[57]

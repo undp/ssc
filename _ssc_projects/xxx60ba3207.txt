@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 cette convention tripartite de partenariat va permettre une collaboration pour opérationnaliser les instruments d'évaluation des PP et d'échange fructeux entre les 3 pyas dans le domaine cité.

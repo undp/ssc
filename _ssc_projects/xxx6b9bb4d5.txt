@@ -15,6 +15,7 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
  Participation de 14 representants de TACA, OSC et des institutions judiciaires et de controle a 2 visites aux institutions Anti-Corruption au Maroc et en Jordanie.
  Participation dune delegation tunisienne a une reunion consultative regionale organisee par le Reseau Arabe de Promotion de l’Integrite et de lutte contre la Corruption. 

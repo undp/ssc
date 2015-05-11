@@ -13,6 +13,7 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Como resultado del intercambio los gobiernos locales firmaron un convenio de hermandad y trabajaron principalmente en el  intercambio de herramientas tales como - 
 - Sistemas de tratamiento de agua 

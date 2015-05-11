@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Case detection of Malaria cases have been improved in cross bordering areas, stock balance of spraying equipment and insecticides was developed for vector control activities in bordering areas based on knowledge from Iran. As a follow up Afghan colleagues visited Tajikistan to learn best practices for Malaria Elimination in Tajikistan (E27)

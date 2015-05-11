@@ -9,11 +9,12 @@ region:
 partner_type: 
   - national_governments
 project_title: Employment generation for young people in Tunisia (Youth Employment Generation Programme in Arab Transition Countries)
-scale: national
+scale: country-country
 project_objective: To promote youth employment in particularly in the area of the green economy. It will implement a series of actions to rapid impacts for developing tools, testing approaches, capacity building of various stakeholders and conduct pilot actions that can help reduce the unemployment rate in the three governorates of Siliana , Jendouba and Bizerte.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 The project is part of UNDP's regional initiative, covering five Arab countries- Algeria, Egypt, Libya, Morocco and Tunisia. 

@@ -11,11 +11,12 @@ partner_type:
   - international_cooperation_development_agencies
   - national_governments
 project_title: Ecosystem Based Adaptation in Mountain Ecosystems
-scale: national
+scale: country-country
 project_objective: Objectives-  (i) to strengthen Uganda's capacity for promoting ecosystem based adaptation (EBA) options and (ii) to reduce the vulnerability of communities to climate change impacts with particular emphasis on the mountain Elgon ecosystem. These will be achieved by supporting Uganda and local communities in the target Districts to adapt to the adverse impacts of climate change through improved biodiversity and ecosystem services, while taking into account risk management and resilience enhancement, as part of overall local and national level adaptation strategies. 
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 South South strategy of the Project- the Ecosystem Based Adaptation global programme will facilitate sharing of best practices and lessons learned within and outside the 3 participating developing countries of Nepal, Peru and Uganda. It will serve as a platform for developing and strengthening the adaptation tools and methodologies at the global level, using practical field experiences.

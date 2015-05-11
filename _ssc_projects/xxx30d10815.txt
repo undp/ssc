@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 In November 2014 a follow-up consultation was held in Kinshasa to agree on the following key action points to implement the AAP - Strengthen existing SS&TC partnerships; Scale-up SSC regional development projects; Mainstream SSC&TC in regional political and economic institutions; Support the removal of barriers to free movement of people, capital, services and goods for intra-Africa SSC; Development of national and regional SS&TC policies for economic development; and Develop monitoring standards for SS&TC. 

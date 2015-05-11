@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Evaluation a mis parcours du projet identifie que le projet a contribué à créer des synergies subrégionales en relation a la surveillance participative des pêcheries, et a la pêche INN (Illégale, non-déclaré, non-règlementée)

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 La qualité de l’auto-évaluation 2014 des PTFM s’est sensiblement améliorée suite à la formation qui a permis aux acteurs impliqués dans la mise en œuvre du projet au Niger de renforcer leurs capacités en matière de collecte et traitement des données.

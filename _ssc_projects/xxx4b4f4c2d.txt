@@ -15,5 +15,6 @@ undp_role_type:
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 The concept of holding a regional conference of human rights institutions of South Asian Association for Regional Cooperation (SAARC) where the National Human Rights Commission of Bangladesh has made a strong commitment to initiate for the conference.  The issues of caste based discrimination was also discussed during the discussion organized by people.

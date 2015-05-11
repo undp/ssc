@@ -11,11 +11,12 @@ partner_type:
   - sub_national_governments
   - cso
 project_title: Strengthening of the National Risk Reduction and Response Emergency and / or Disaster (SISRADE) in preparedness and respons
-scale: national
+scale: country-country
 project_objective: 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP organized and facilitated knowledge sharing between Bolovia and Ecuador-  Bolivia shared with Ecuador's National Secretariat of Disaster Risk Reduction its experience on establishment of the National Disaster Observatory. As a result, the National Disaster Observatory was created in Ecuador; guidelines for post-disasters recovery were prepared.

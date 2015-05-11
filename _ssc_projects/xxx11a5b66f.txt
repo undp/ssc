@@ -15,6 +15,7 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Follow-up is currently underway on the AGCED regional strategy, led AMEXCID.
 Within the framework of AGCED’s first HLM, UNDP Mexico facilitated (together with AMEXCID, the OECD, UNDP HQ and the Regional Center in Panama) the participation of more than 200 representatives from middle-income and lower-income countries, as well as representatives from civil society, the private sector, local government agencies and UN agencies.

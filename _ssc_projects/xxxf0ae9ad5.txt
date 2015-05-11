@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The development of the M and E framework and system to track  development progress and progress of Belize midterm strategy emanated out of experiences shared by the four countries participating in the inter-articulation session, particularly Mexico CONEVAL evaluation of  Social Programmes. A mission report was completed post the south-south exchange by the participants and it is based on the experiences shared through the SSC that a tailored structure is being developed for monitoring the GSDS

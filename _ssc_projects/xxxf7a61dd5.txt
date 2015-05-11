@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Les 24 communautes partenaires projet IBSA ont beneficie de l acces a l energie solaire durable dans les principales vois d acces aux locaux des initiatives (centre de jeunes, eclairage public) offrant une plus grande securite aux communautes, a l eau par pompage  et  a l alphabetisation fonctionnelle.

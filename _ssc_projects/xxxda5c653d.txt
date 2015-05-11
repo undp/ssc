@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 Quoique les resultats  tangibles ne soient pas perceptibles en ce moment, en raison du fait que initiative vient de se realiser y a quelques mois, elle a toutefois, permis de rencorcer les capacites de 2 cadres du pays sur la thematique

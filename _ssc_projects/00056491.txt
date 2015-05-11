@@ -9,11 +9,12 @@ region:
 partner_type: 
   - national_governments
 project_title: Promotion of the Slovak Transitional Experience
-scale: national
+scale: country-country
 project_objective: To enhance  development cooperation between Slovakia and its target countries with a special focus on sharing the Slovak transitional experience, promotion of the official development aid (ODA) cadre and strengthening of the ODA system in the international context. Among the expected outputs are- Slovak transitional experience and best practices are shared across the region; improved knowledge and skills of public officials involved in IDA activities; increased involvement of Slovak professionals and experts in UNDP regional and country programme activities.Priority countries- Afghanistan, Kenya and Serbia. Other priority countries- Albania, BiH, Macedonia, Montenegro, Belarus, Ukraine, Kazakhstan, Kyrgyzstan, Mongolia, Tajikistan, Uzbekistan and Sudan. 
 territorial_focus: hic
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 275
 ---
 UNDP provides technical assistance and capacity building for the Slovak experts by seconding them and young professionals on a mid-term or long-term basis to those UNDP Country Offices that would be of special interest to the Slovak government. Slovak - UNDP Trust Fund was created. 

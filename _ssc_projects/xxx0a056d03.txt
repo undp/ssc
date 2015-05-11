@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The knowledge obtained is being used by the national experts in the process of Vision 2030 formulation and its thematic chapters on economic modernization.[59]

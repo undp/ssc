@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 The SSDA Egypt project document was signed in August 2014, SSDA Egypt was established and operational as a chapter of the Global South-South Development (GSSD) Academy after a mission from the Office of South-South Cooperation came to Egypt; Feasibility study for the set-up of a Trust Fund to support UNDP programmes completed; Leadership training programme in place; SSDA Egypt won the UNOSSC award; Participation in Cairo Innovates event that was held during the Global Entrepreneurship week.

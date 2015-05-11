@@ -9,10 +9,11 @@ region:
 partner_type: 
   - national_governments
 project_title: Implementation of Programmes and Projects of CTPD
-scale: national
+scale: country-country
 project_objective: The project aims to design and implement Brazilian South-South cooperation programmes and projects, which shall contribute to strengthen the relations with other developing countries. Applying Brazilian best practices and experiences, programmes and projects shall support the reconstruction of countries, social and economic recovery and the institutional strengthening of Governments. 
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 275
 ---

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Nepal team presented its showcase of AMP implementation and the use of AMP data do develop an evidence based development cooperation policy. Nepal team also shared its experiene on the use of geocoded data and innovative products such as Development Cooperation Report, District Aid Profile, Aid Leaflet, bi-monthly newsletter, and  donor profile. The workshop also provided the common forum to discuss about sustainability of AMP.

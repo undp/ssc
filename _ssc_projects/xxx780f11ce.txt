@@ -9,12 +9,13 @@ region:
 partner_type: 
   - national_governments
 project_title: Conservation of Biodiversity and Sustainable Land Use Management in Dragash/Dragaš
-scale: national
+scale: country-country
 project_objective: To provide continuing support to the establishment of a sustainable development framework for Dragash Municipality, one of the poorest municipalities in Kosovo, and where valuable biodiversity exists. This project builds upon the results, achievements and problem analysis developed over a one-year preparatory phase project implemented by UNDP Kosovo, with funding from the Government of Finland. The project will promote sustainable development focusing on- i) the conservation of biodiversity; ii) the re-establishment and development of improved local businesses based on sustainable land use; iii) environmentally sound energy services and sustainable development principles; and iv) improved capacities of local governments, community leaders and women to promote development in collaboration with central level sectors. (knowledge)
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
 published: true
+import_source: 275
 ---
 UNDP facilitated partnership and knowledge transfer from Turkey to Kosovo on protected area management and sustainable forest management. Additionally, EU funding opportunities may be attracted for regional economic development, human rights and agricultural development.

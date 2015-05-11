@@ -11,11 +11,12 @@ partner_type:
   - cso
   - academia
 project_title: Improving sustainability of the PA system in desert ecosystems through promotion of   biodiversity-compatible livelihoods in and around PAs
-scale: national
+scale: country-country
 project_objective: The project will summarize the experience and lessons learned from the UNDP/UNOPS/GEF global project on supporting country early action on protected areas.  International expertise and the experience of practitioners from CIS countries, Russia in particular, will also be brought in.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP will facilitate the exchange of knowledge with Russia and other CIS countries.

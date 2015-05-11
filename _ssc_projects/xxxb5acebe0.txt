@@ -14,5 +14,6 @@ undp_role_type:
   - knowledge_broker
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 la rehabilitation de leurs champs de riz afin d augmenter la productivite, la conservation des sols, l eau et eviter la deforestation de nouvelles zones; varietes de semences de legumes ont ete distribues a contribuer au regime alimentaire; nouvelles technologies ont ete introduites pour reduire le travail manuel (eplucheurs, meuleuses); de nouvelles techniques de transformation de la viande et du poisson

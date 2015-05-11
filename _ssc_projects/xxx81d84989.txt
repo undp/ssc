@@ -12,5 +12,6 @@ project_objective: The Dar al-Athar as-Islamiyyah (DAI) Training of national sta
 territorial_focus: 
 undp_role_type: 
 published: true
+import_source: 469
 ---
 An external evaluation was commissioned and carried out by the  National Council for Culture, Arts and Letters in 2014

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Financial analysis models and on-line PAs training modules were disseminated in the region, and supported other Carpathian countries (including Ukraine) to improve their protected areas governance; these products are hosted online by the Carpathian Network of Protected Areas (under the Carpathian Convention) and have reached over 200 people and over 60 participated in the online training courses.

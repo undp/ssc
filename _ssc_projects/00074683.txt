@@ -9,12 +9,13 @@ region:
 partner_type: 
   - national_governments
 project_title: Effective Public Financial Management
-scale: national
+scale: country-country
 project_objective: To advance strategic partnerships with emerging economies and support democratic electoral management
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
 published: true
+import_source: 275
 ---
 In context of SSC, the project will advance strategic partnership with emerging economies. Triangular Partnerships for exchange of learning and experiences on electoral administration and management enhanced for South Asian Association for Regional Cooperation (SAARC) and other developing countries. Capacities of national and international Election Management Body (EMB) officials are enhanced for inclusive voter participation through Election Commission of India and India International Institute of Democracy and Election Management (IIIDEM).

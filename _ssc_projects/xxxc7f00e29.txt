@@ -14,5 +14,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The objectives of the consultation was to discuss the different best practices in the region and globally; to discuss partnership modalities with national institutions, academic institutions, civil society groups, donors, and the media; to discuss a strategy for networking as well as exchange of experiences regionally and globally. The Libyan participants gained experience from other countries and  working  through CSOs encouraging women's wider participation in political process.

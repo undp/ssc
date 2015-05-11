@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 5 DRM officials participated in 3 regional seminars, sharing experiences and views on such issues as Post-Crisis Needs Assessment, Southern African Regional Strategy on Resilience Building, and Emergency Environment Management. A representative of Mozambican DRM authority also shared with Angolan colleagues its experience in the management of Early Warning Systems. Contributions made by Angola for example is being utilized in the development of Regional Strategy for Building Resilience at SADC.

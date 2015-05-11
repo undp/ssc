@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 L’objectif de ce voyage d’études était de s’imprégner de l’expérience gabonaise en matière de fonctionnement de la Primature du pays afin de capitaliser les bonnes pratiques pour enrichir et renforcer la performance du Premier Ministère du Burkina Faso. Mais le voyage n'a pas pu de réaliser compte tenu de la situation nationale

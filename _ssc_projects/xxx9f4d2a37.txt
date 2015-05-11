@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 A partir de este Intercambio - El Gobierno Departamental juntamente con el PNUD ART, está en proceso de elaboración de una Agenda de empleo, trabajo y Desarrollo Local, se están tomando los modelos que fueron transferidos en el intercambio; Se cuenta con un diseño preliminar de un curso de formación con enfoque territorial en DEL a ser desarrollado a partir de Junio de 2015; La FAM tiene planificado realizar un taller en el cual pueda definir un nuevo modelo de gestión asociativa[CoopSur2014ByU]

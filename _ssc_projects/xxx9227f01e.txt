@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 L'initiative a permis le renforcement de la cooperation entre le senegal et la Guinee dans le domaine de la micro industrialisation villageoise. Il a été ainsi convenu que les experts du senegal se rendent en guinee pour appporter un appui dans ce domaine, une fois que les restrictions liées a Ebola seront levees.

@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 There is marked efforts to improve business processes including strategic planning and development of institutional policies. This is evidenced by the development of the Elections calendar and logistics plan by Zanzibar Electoral Commission (ZEC) completed, A gender and social inclusion policy (ZEC) developed and adopted, Voter Education strategy by National Electoral Commission (NEC) completed. Project report 2014., ADR 2014,

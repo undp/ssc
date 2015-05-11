@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 Les activités entrant dans ce cadre ont permis de jeter les bases de la préparation  (note technique, détermination des thèmes,…) de la rencontre de concertation de l’ensemble des pays membres de cette initiative qui était été  prévue pour le mois de septembre 2014. Malheureusement celle-ci a été reportée en 2015 du fait de la crise de l’épidémie à virus Ebola.

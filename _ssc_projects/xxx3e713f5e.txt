@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - builder_of_capacities
 published: true
+import_source: 469
 ---
 250 cadres de haut niveau formées; Secrétariat de l'Etat de l'Administration Publique ont identifiés les cours et les scenarios de formation selon le profil des fonctionnaires publiques.

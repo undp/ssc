@@ -11,11 +11,12 @@ partner_type:
   - cso
   - academia
 project_title: Policy Support Programme
-scale: national
+scale: country-country
 project_objective: To promote policy reforms through research, dialogue, consensus building, knowledge management and partnerships between the government and academia, policy think tanks, civil society and regional/international experts.
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 Policy Support Programme will promote policy reforms through research, dialogue, consensus building, knowledge management and partnerships between the government and academia, policy think tanks, civil society and regional/international experts.

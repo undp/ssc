@@ -23,5 +23,6 @@ territorial_focus: ldc,mic,sids
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 275
 ---
 UNDP will help WAMER countries develop and implement a sub regional action plan to improve governance and promote the adoption of best practices for sustainable use of marine and coastal resources in the ecoregion WAMER. 

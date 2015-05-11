@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 The study tour started up the dialogue in Egypt on Electoral Dispute Resolution (EDR). It was followed by a workshop in Tunisia bringing other comparative experiences from the Arab region and focusing on specific questions identified during discussions in Mexico. As a result/follow-up, a 2-day international conference on EDR was organized in Egypt in November inviting a more diverse range of Egyptian electoral stakeholders.

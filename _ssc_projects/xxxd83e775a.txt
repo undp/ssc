@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - knowledge_broker
 published: true
+import_source: 469
 ---
 La mission des experts Nigeriens au Tchad a permis d accelerer le processus AGIR (Alliance Globale pour l initiative Resilience dans le Sahel) au Tchad notamment en ce qui concerne la definition des priorites, ainsi que les differents piliers de l initiative. Les prochaines etapes planifies incluant la visite de la partie tchadienne au Niger pour s enrichir de l experience  et le renforcement de la cooperation entre ces deux pays dans le cadre de la resilience.

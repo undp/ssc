@@ -13,5 +13,6 @@ territorial_focus:
 undp_role_type: 
   - facilitator_of_partnerships
 published: true
+import_source: 469
 ---
 A monitoring system reporting to the both sides, Belarus and Ukraine, established. Recommendations for post-project analysis, including public participation, were developed and submitted to Belarus and Ukraine. The study results were presented and discussed during an international sub-regional conference in Minsk on 15-16 April 2014 with participants from UNEP, UNECE, Ukraine, Lithuania, Poland, Armenia, Georgia and other countries.
