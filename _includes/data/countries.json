@@ -16,7 +16,8 @@
     "iso3": "AFG",
     "lon": "66.026471",
     "type": "country",
-    "map_short": "AF"
+    "map_short": "AF",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Angola",
@@ -45,7 +46,8 @@
     "iso3": "ALB",
     "lon": "20.068385",
     "type": "country",
-    "map_short": "AL"
+    "map_short": "AL",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Andorra",
@@ -84,7 +86,8 @@
     "iso3": "ARG",
     "lon": "-63.839414",
     "type": "country",
-    "map_short": "AR"
+    "map_short": "AR",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Armenia",
@@ -94,7 +97,8 @@
     "iso3": "ARM",
     "lon": "44.946824",
     "type": "country",
-    "map_short": "AM"
+    "map_short": "AM",
+    "territorial_focus": "MIC"
   },
   {
     "name": "American Samoa",
@@ -160,7 +164,8 @@
     "iso3": "AZE",
     "lon": "47.532767",
     "type": "country",
-    "map_short": "AZ"
+    "map_short": "AZ",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Burundi",
@@ -249,7 +254,8 @@
     "iso3": "BIH",
     "lon": "17.786531",
     "type": "country",
-    "map_short": "BA"
+    "map_short": "BA",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Belarus",
@@ -259,7 +265,8 @@
     "iso3": "BLR",
     "lon": "28.046788",
     "type": "country",
-    "map_short": "BY"
+    "map_short": "BY",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Belize",
@@ -288,7 +295,8 @@
     "iso3": "BOL",
     "lon": "-64.670932",
     "type": "country",
-    "map_short": "BO"
+    "map_short": "BO",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Brazil",
@@ -298,7 +306,8 @@
     "iso3": "BRA",
     "lon": "-53.08982",
     "type": "country",
-    "map_short": "BR"
+    "map_short": "BR",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Barbados",
@@ -307,7 +316,8 @@
     "lat": "13.178715",
     "iso3": "BRB",
     "lon": "-59.561955",
-    "type": "country"
+    "type": "country",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Brunei Darussalam",
@@ -346,7 +356,8 @@
     "iso3": "BWA",
     "lon": "23.815028",
     "type": "country",
-    "map_short": "BW"
+    "map_short": "BW",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Central African Republic",
@@ -395,7 +406,8 @@
     "iso3": "CHL",
     "lon": "-70.947023",
     "type": "country",
-    "map_short": "CL"
+    "map_short": "CL",
+    "territorial_focus": "HIC"
   },
   {
     "name": "China",
@@ -405,7 +417,8 @@
     "iso3": "CHN",
     "lon": "103.904056",
     "type": "country",
-    "map_short": "CN"
+    "map_short": "CN",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Côte d'Ivoire",
@@ -464,7 +477,8 @@
     "iso3": "COL",
     "lon": "-73.073369",
     "type": "country",
-    "map_short": "CO"
+    "map_short": "CO",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Comoros",
@@ -482,7 +496,8 @@
     "lat": "15.978973",
     "iso3": "CPV",
     "lon": "-23.967785",
-    "type": "country"
+    "type": "country",
+    "territorial_focus": "SIDS, MIC"
   },
   {
     "name": "Costa Rica",
@@ -502,7 +517,8 @@
     "iso3": "CUB",
     "lon": "-78.870313",
     "type": "country",
-    "map_short": "CU"
+    "map_short": "CU",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Christmas Island",
@@ -589,7 +605,8 @@
     "iso3": "DOM",
     "lon": "-70.223715",
     "type": "country",
-    "map_short": "DO"
+    "map_short": "DO",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Algeria",
@@ -609,7 +626,8 @@
     "iso3": "ECU",
     "lon": "-78.340114",
     "type": "country",
-    "map_short": "EC"
+    "map_short": "EC",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Egypt",
@@ -619,7 +637,8 @@
     "iso3": "EGY",
     "lon": "29.790197",
     "type": "country",
-    "map_short": "EG"
+    "map_short": "EG",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Eritrea",
@@ -668,7 +687,8 @@
     "iso3": "ETH",
     "lon": "39.616176",
     "type": "country",
-    "map_short": "ET"
+    "map_short": "ET",
+    "territorial_focus": "LDC"
   },
   {
     "name": "Finland",
@@ -736,7 +756,8 @@
     "iso3": "GAB",
     "lon": "11.797236",
     "type": "country",
-    "map_short": "GA"
+    "map_short": "GA",
+    "territorial_focus": "MIC"
   },
   {
     "name": "United Kingdom",
@@ -756,7 +777,8 @@
     "iso3": "GEO",
     "lon": "43.517446",
     "type": "country",
-    "map_short": "GE"
+    "map_short": "GE",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Ghana",
@@ -864,7 +886,8 @@
     "iso3": "GTM",
     "lon": "-90.356242",
     "type": "country",
-    "map_short": "GT"
+    "map_short": "GT",
+    "territorial_focus": "MIC"
   },
   {
     "name": "French Guiana",
@@ -892,7 +915,8 @@
     "iso3": "GUY",
     "lon": "-59.1171",
     "type": "country",
-    "map_short": "GY"
+    "map_short": "GY",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Hong Kong, China (SAR)",
@@ -920,7 +944,8 @@
     "iso3": "HND",
     "lon": "-86.619146",
     "type": "country",
-    "map_short": "HN"
+    "map_short": "HN",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Croatia",
@@ -930,7 +955,8 @@
     "iso3": "HRV",
     "lon": "16.411778",
     "type": "country",
-    "map_short": "HR"
+    "map_short": "HR",
+    "territorial_focus": "HIC"
   },
   {
     "name": "Haiti",
@@ -940,7 +966,8 @@
     "iso3": "HTI",
     "lon": "-72.762477",
     "type": "country",
-    "map_short": "HT"
+    "map_short": "HT",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Hungary",
@@ -960,7 +987,8 @@
     "iso3": "IDN",
     "lon": "117.300428",
     "type": "country",
-    "map_short": "ID"
+    "map_short": "ID",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Isle of Man",
@@ -979,7 +1007,8 @@
     "iso3": "IND",
     "lon": "79.386009",
     "type": "country",
-    "map_short": "IN"
+    "map_short": "IN",
+    "territorial_focus": "MIC"
   },
   {
     "name": "British Indian Ocean Territory",
@@ -1008,7 +1037,8 @@
     "iso3": "IRN",
     "lon": "54.301402",
     "type": "country",
-    "map_short": "IR"
+    "map_short": "IR",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Iraq",
@@ -1018,7 +1048,8 @@
     "iso3": "IRQ",
     "lon": "43.772135",
     "type": "country",
-    "map_short": "IQ"
+    "map_short": "IQ",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Iceland",
@@ -1058,7 +1089,8 @@
     "iso3": "JAM",
     "lon": "-77.319011",
     "type": "country",
-    "map_short": "JM"
+    "map_short": "JM",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Jordan",
@@ -1088,7 +1120,8 @@
     "iso3": "KAZ",
     "lon": "67.302857",
     "type": "country",
-    "map_short": "KZ"
+    "map_short": "KZ",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Kenya",
@@ -1098,7 +1131,8 @@
     "iso3": "KEN",
     "lon": "37.858021",
     "type": "country",
-    "map_short": "KE"
+    "map_short": "KE",
+    "territorial_focus": "LDC"
   },
   {
     "name": "Kyrgyz Republic",
@@ -1109,7 +1143,8 @@
     "iso3": "KGZ",
     "lon": "74.555597",
     "type": "country",
-    "map_short": "KG"
+    "map_short": "KG",
+    "territorial_focus": "LDC"
   },
   {
     "name": "Cambodia",
@@ -1119,7 +1154,8 @@
     "iso3": "KHM",
     "lon": "104.923981",
     "type": "country",
-    "map_short": "KH"
+    "map_short": "KH",
+    "territorial_focus": "LDC"
   },
   {
     "name": "Kiribati",
@@ -1168,7 +1204,8 @@
     "iso3": "LAO",
     "lon": "103.763291",
     "type": "country",
-    "map_short": "LA"
+    "map_short": "LA",
+    "territorial_focus": "LDC"
   },
   {
     "name": "Lebanon",
@@ -1188,7 +1225,8 @@
     "iso3": "LBR",
     "lon": "-9.307914",
     "type": "country",
-    "map_short": "LR"
+    "map_short": "LR",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Libya",
@@ -1198,7 +1236,8 @@
     "iso3": "LBY",
     "lon": "18.023287",
     "type": "country",
-    "map_short": "LY"
+    "map_short": "LY",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Saint Lucia",
@@ -1226,7 +1265,8 @@
     "iso3": "LKA",
     "lon": "80.704727",
     "type": "country",
-    "map_short": "LK"
+    "map_short": "LK",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Lesotho",
@@ -1285,7 +1325,8 @@
     "iso3": "MAR",
     "lon": "-6.270405",
     "type": "country",
-    "map_short": "MA"
+    "map_short": "MA",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Monaco",
@@ -1304,7 +1345,8 @@
     "iso3": "MDA",
     "lon": "28.473931",
     "type": "country",
-    "map_short": "MD"
+    "map_short": "MD",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Madagascar",
@@ -1323,7 +1365,8 @@
     "lat": "3.216335",
     "iso3": "MDV",
     "lon": "73.252227",
-    "type": "country"
+    "type": "country",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Mexico",
@@ -1333,7 +1376,8 @@
     "iso3": "MEX",
     "lon": "-102.532885",
     "type": "country",
-    "map_short": "MX"
+    "map_short": "MX",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Marshall Islands",
@@ -1352,7 +1396,8 @@
     "iso3": "MKD",
     "lon": "21.697476",
     "type": "country",
-    "map_short": "MK"
+    "map_short": "MK",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Mali",
@@ -1362,7 +1407,8 @@
     "iso3": "MLI",
     "lon": "-2.717947",
     "type": "country",
-    "map_short": "ML"
+    "map_short": "ML",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Malta",
@@ -1391,7 +1437,8 @@
     "iso3": "MNE",
     "lon": "19.250305",
     "type": "country",
-    "map_short": "ME"
+    "map_short": "ME",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Mongolia",
@@ -1420,7 +1467,8 @@
     "iso3": "MOZ",
     "lon": "35.788621",
     "type": "country",
-    "map_short": "MZ"
+    "map_short": "MZ",
+    "territorial_focus": "LDC"
   },
   {
     "name": "Mauritania",
@@ -1457,7 +1505,8 @@
     "lat": "-20.251869",
     "iso3": "MUS",
     "lon": "57.870737",
-    "type": "country"
+    "type": "country",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Malawi",
@@ -1477,7 +1526,8 @@
     "iso3": "MYS",
     "lon": "109.708194",
     "type": "country",
-    "map_short": "MY"
+    "map_short": "MY",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Mayotte",
@@ -1496,7 +1546,8 @@
     "iso3": "NAM",
     "lon": "17.218278",
     "type": "country",
-    "map_short": "NA"
+    "map_short": "NA",
+    "territorial_focus": "MIC"
   },
   {
     "name": "New Caledonia",
@@ -1516,7 +1567,8 @@
     "iso3": "NER",
     "lon": "9.397648",
     "type": "country",
-    "map_short": "NE"
+    "map_short": "NE",
+    "territorial_focus": "LDC"
   },
   {
     "name": "Norfolk Island",
@@ -1535,7 +1587,8 @@
     "iso3": "NGA",
     "lon": "8.105306",
     "type": "country",
-    "map_short": "NG"
+    "map_short": "NG",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Nicaragua",
@@ -1584,7 +1637,8 @@
     "iso3": "NPL",
     "lon": "83.938548",
     "type": "country",
-    "map_short": "NP"
+    "map_short": "NP",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Nauru",
@@ -1623,7 +1677,8 @@
     "iso3": "PAK",
     "lon": "68.790144",
     "type": "country",
-    "map_short": "PK"
+    "map_short": "PK",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Panama",
@@ -1633,7 +1688,8 @@
     "iso3": "PAN",
     "lon": "-80.102662",
     "type": "country",
-    "map_short": "PA"
+    "map_short": "PA",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Pitcairn Island",
@@ -1652,7 +1708,8 @@
     "iso3": "PER",
     "lon": "-75.229543",
     "type": "country",
-    "map_short": "PE"
+    "map_short": "PE",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Philippines",
@@ -1662,7 +1719,8 @@
     "iso3": "PHL",
     "lon": "122.878708",
     "type": "country",
-    "map_short": "PH"
+    "map_short": "PH",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Palau",
@@ -1681,7 +1739,8 @@
     "iso3": "PNG",
     "lon": "145.241217",
     "type": "country",
-    "map_short": "PG"
+    "map_short": "PG",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Poland",
@@ -1770,7 +1829,8 @@
     "iso3": "ROU",
     "lon": "24.969259",
     "type": "country",
-    "map_short": "RO"
+    "map_short": "RO",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Russian Federation",
@@ -1780,7 +1840,8 @@
     "iso3": "RUS",
     "lon": "96.682513",
     "type": "country",
-    "map_short": "RU"
+    "map_short": "RU",
+    "territorial_focus": "HIC"
   },
   {
     "name": "Rwanda",
@@ -1800,7 +1861,8 @@
     "iso3": "SAU",
     "lon": "44.545719",
     "type": "country",
-    "map_short": "SA"
+    "map_short": "SA",
+    "territorial_focus": "HIC"
   },
   {
     "name": "Sudan",
@@ -1810,7 +1872,8 @@
     "iso3": "SDN",
     "lon": "29.99",
     "type": "country",
-    "map_short": "SD"
+    "map_short": "SD",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Senegal",
@@ -1848,7 +1911,8 @@
     "iso3": "SLB",
     "lon": "159.634315",
     "type": "country",
-    "map_short": "SB"
+    "map_short": "SB",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Sierra Leone",
@@ -1858,7 +1922,8 @@
     "iso3": "SLE",
     "lon": "-11.791922",
     "type": "country",
-    "map_short": "SL"
+    "map_short": "SL",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "El Salvador",
@@ -1868,7 +1933,8 @@
     "iso3": "SLV",
     "lon": "-88.866512",
     "type": "country",
-    "map_short": "SV"
+    "map_short": "SV",
+    "territorial_focus": "MIC"
   },
   {
     "name": "San Marino",
@@ -1898,7 +1964,8 @@
     "iso3": "SRB",
     "lon": "20.805272",
     "type": "country",
-    "map_short": "RS"
+    "map_short": "RS",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Sao Tome and Principe",
@@ -1907,7 +1974,8 @@
     "lat": "0.456979",
     "iso3": "STP",
     "lon": "6.736586",
-    "type": "country"
+    "type": "country",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Suriname",
@@ -1956,7 +2024,8 @@
     "lat": "-6.35437",
     "iso3": "SYC",
     "lon": "52.229899",
-    "type": "country"
+    "type": "country",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Syrian Arab Republic",
@@ -1966,7 +2035,8 @@
     "iso3": "SYR",
     "lon": "38.505132",
     "type": "country",
-    "map_short": "SY"
+    "map_short": "SY",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Turks and Caicos Islands",
@@ -1995,7 +2065,8 @@
     "iso3": "TGO",
     "lon": "1.023161",
     "type": "country",
-    "map_short": "TG"
+    "map_short": "TG",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Thailand",
@@ -2005,7 +2076,8 @@
     "iso3": "THA",
     "lon": "101.017361",
     "type": "country",
-    "map_short": "TH"
+    "map_short": "TH",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Tajikistan",
@@ -2015,7 +2087,8 @@
     "iso3": "TJK",
     "lon": "71.350363",
     "type": "country",
-    "map_short": "TJ"
+    "map_short": "TJ",
+    "territorial_focus": "LDC"
   },
   {
     "terr_id": "242",
@@ -2035,7 +2108,8 @@
     "iso3": "TKM",
     "lon": "59.383984",
     "type": "country",
-    "map_short": "TM"
+    "map_short": "TM",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Timor-Leste",
@@ -2045,7 +2119,8 @@
     "iso3": "TLS",
     "lon": "125.853675",
     "type": "country",
-    "map_short": "TL"
+    "map_short": "TL",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Tonga",
@@ -2074,7 +2149,8 @@
     "iso3": "TUN",
     "lon": "8.944619",
     "type": "country",
-    "map_short": "TN"
+    "map_short": "TN",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Turkey",
@@ -2084,7 +2160,8 @@
     "iso3": "TUR",
     "lon": "35.179672",
     "type": "country",
-    "map_short": "TR"
+    "map_short": "TR",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Tuvalu",
@@ -2113,7 +2190,8 @@
     "iso3": "TZA",
     "lon": "34.823454",
     "type": "country",
-    "map_short": "TZ"
+    "map_short": "TZ",
+    "territorial_focus": "LDC"
   },
   {
     "name": "Uganda",
@@ -2123,7 +2201,8 @@
     "iso3": "UGA",
     "lon": "32.386218",
     "type": "country",
-    "map_short": "UG"
+    "map_short": "UG",
+    "territorial_focus": "LDC"
   },
   {
     "name": "Ukraine",
@@ -2133,7 +2212,8 @@
     "iso3": "UKR",
     "lon": "31.387115",
     "type": "country",
-    "map_short": "UA"
+    "map_short": "UA",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Uruguay",
@@ -2143,7 +2223,8 @@
     "iso3": "URY",
     "lon": "-56.012396",
     "type": "country",
-    "map_short": "UY"
+    "map_short": "UY",
+    "territorial_focus": "HIC"
   },
   {
     "name": "United States",
@@ -2163,7 +2244,8 @@
     "iso3": "UZB",
     "lon": "63.169364",
     "type": "country",
-    "map_short": "UZ"
+    "map_short": "UZ",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Holy See",
@@ -2219,7 +2301,8 @@
     "iso3": "VNM",
     "lon": "108.341384",
     "type": "country",
-    "map_short": "VN"
+    "map_short": "VN",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Vanuatu",
@@ -2238,7 +2321,8 @@
     "lat": "-13.758364",
     "iso3": "WSM",
     "lon": "-172.159464",
-    "type": "country"
+    "type": "country",
+    "territorial_focus": "SIDS"
   },
   {
     "name": "Yemen",
@@ -2258,7 +2342,8 @@
     "iso3": "ZAF",
     "lon": "24.70926",
     "type": "country",
-    "map_short": "ZA"
+    "map_short": "ZA",
+    "territorial_focus": "MIC"
   },
   {
     "name": "Zambia",
@@ -2268,7 +2353,8 @@
     "iso3": "ZMB",
     "lon": "27.466171",
     "type": "country",
-    "map_short": "ZM"
+    "map_short": "ZM",
+    "territorial_focus": "LDC"
   },
   {
     "name": "Zimbabwe",
@@ -2288,7 +2374,8 @@
     "iso3": "KOS",
     "lon": "20.872",
     "type": "country",
-    "map_short": "_0"
+    "map_short": "_0",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "South Sudan",
@@ -2299,7 +2386,8 @@
     "iso3": "SSD",
     "lon": "30.34",
     "type": "country",
-    "map_short": "SS"
+    "map_short": "SS",
+    "territorial_focus": "Fragile States"
   },
   {
     "name": "Slovak Republic",
@@ -2310,6 +2398,7 @@
     "iso3": "SVK",
     "lon": "19.59",
     "type": "country",
-    "map_short": "SK"
+    "map_short": "SK",
+    "territorial_focus": "HIC"
   }
 ]
