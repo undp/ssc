@@ -134,8 +134,8 @@
         "short": "regional"
       },
       {
-        "name": "National",
-        "short": "national"
+        "name": "Country-Country",
+        "short": "country-country"
       }
     ]
   }

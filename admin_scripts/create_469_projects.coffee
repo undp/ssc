@@ -52,7 +52,8 @@ class Process
   writeEach: (project) ->
     compiled = _.template(@template)
     content = compiled(project)
-    fs.appendFileSync(__dirname + "/../_ssc_projects/#{project.project_id}.txt", content)
+    fs.writeFileSync(__dirname + "/../_ssc_projects/#{project.project_id}.txt", content)
+    # fs.appendFileSync(__dirname + "/../_ssc_projects/#{project.project_id}.txt", content)
 
   normalise: (type, text) ->
     return unless text
