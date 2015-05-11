@@ -8,7 +8,7 @@ MatchingTerm = require './lib/matching_term'
 class Process
   constructor: ->
     @countries     = JSON.parse(fs.readFileSync(__dirname + '/../_includes/data/countries.json', encoding: 'utf8'))
-    @projects      = JSON.parse(fs.readFileSync(__dirname + '/source/refine_projects_export.json', encoding: 'utf8')).rows
+    @projects      = JSON.parse(fs.readFileSync(__dirname + '/source/275_export.json', encoding: 'utf8')).rows
     @template      = fs.readFileSync(__dirname + '/lib/project_file_template._', encoding: 'utf8')
 
     # MatchingTerm#find takes `type` and `text` and returns matching term
