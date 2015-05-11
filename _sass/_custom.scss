@@ -103,6 +103,11 @@ a.group-item[data-active-filter='true'] {
 #contentTruncated {
   margin-top: 15px;
 }
+.ssc-activity {
+  background: rgb(221, 221, 221);
+  padding: 5px;
+  border: 1px solid darkgray;
+}
 
 @media screen and (max-width: 767px) {
   .group-items {

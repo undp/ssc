@@ -12,15 +12,11 @@
       <div class="detail-heading">Country</div>
       <div class="detail-content">
         <% _.each(project.country, function(item) { %>
-          <%= _.template.partial('filterItem', {item: item, type: 'country'}) %>
+          <%= _.template.partial('filterItem', {item: item, type: 'country'}) %> 
         <% }) %>
       </div>
     </div>
-    <div class="detail-line">
-      <div class="detail-heading">Objective</div>
-      <div class="detail-content"><%= project.project_objective %></div>
-    </div>
-    <div class="detail-line">
+    <div class="detail-line ssc-activity">
       <div class="detail-heading">SSC Activity</div>
       <div class="detail-content"><%= project.ssc_description %></div>
     </div>
@@ -48,8 +44,12 @@
         <% }) %>
       </div>
     </div>
+    <div class="detail-line">
+      <div class="detail-heading">Project objective</div>
+      <div class="detail-content"><%= project.project_objective %></div>
+    </div>
     
-    <div class="w-clearfix"><a class="edit-project-link" href="<%= project.edit_link %>">Edit data</a>
+    <div class="w-clearfix"><a class="edit-project-link" href="<%= project.edit_link %>">Edit SSC data</a>
     </div>
 
     <% if(project.open_project_id != ""){ %>
