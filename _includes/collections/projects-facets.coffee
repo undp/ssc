@@ -94,7 +94,7 @@ ProjectsFacets =
 
   _removeEmptyFacetValues: (values) ->
     _.filter(values, (i) ->
-      i.value != ""
+      i.value != "" and i.value != "n/a"
     )
 
   _removeZeroActiveCount: (values) ->
