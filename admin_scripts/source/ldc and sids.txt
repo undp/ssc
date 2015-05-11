@@ -1,0 +1,106 @@
+LDC
+===
+Afghanistan
+Madagascar
+Angola
+Malawi
+Bangladesh
+Mali
+Benin
+Mauritania
+Bhutan
+Mozambique
+Burkina Faso
+Myanmar
+Burundi
+Nepal
+Cambodia
+Niger
+Central African Republic
+Rwanda
+Chad
+Sao Tome and Principe
+Comoros
+Senegal
+Democratic Rep of the Congo
+Sierra Leone
+Djibouti
+Solomon Islands
+Equatorial Guinea
+Somalia
+Eritrea
+South Sudan
+Ethiopia
+Sudan
+Gambia
+Timor-Leste
+Guinea
+Togo
+Guinea-Bissau
+Tuvalu
+Haiti
+Uganda
+Kiribati
+United Republic of Tanzania
+Lao People's Democratic Republic
+Vanuatu
+Lesotho
+Yemen
+Liberia
+Zambia
+
+
+SIDS
+====
+Anguilla
+American Samoa
+Bahrain
+Antigua and Barbuda
+Cook Islands
+Cape Verde
+Aruba
+Federated States of Micronesia
+Comoros
+Bahamas
+Fiji
+Guinea-Bissau
+Barbados
+French Polynesia
+Maldives
+Belize
+Guam
+Mauritius
+British Virgin Islands
+Kiribati
+São Tomé and Príncipe
+Cuba
+Marshall Islands
+Seychelles
+Dominica
+Nauru
+Singapore
+Dominican Republic
+New Caledonia
+Grenada
+Niue
+Guyana
+Northern Mariana Islands
+Haiti
+Palau
+Jamaica
+Papua New Guinea
+Montserrat
+Samoa
+Netherlands Antilles
+Solomon Islands
+Puerto Rico
+Timor-Leste
+Saint Kitts and Nevis
+Tonga
+Saint Lucia
+Tuvalu
+Saint Vincent and the Grenadines
+Vanuatu
+Suriname
+Trinidad and Tobago
+United States Virgin Islands
