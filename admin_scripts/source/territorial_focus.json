@@ -1,0 +1,358 @@
+[
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Afghanistan"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Albania"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Argentina"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Armenia"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Azerbaijan"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Barbados"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Belarus"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Bolivia (Plurinational State of)"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Bosnia and Herzegovina"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Botswana"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Brazil"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Cambodia"
+  },
+  {
+    "territorial_focus": "SIDS, MIC",
+    "location": "Cape Verde"
+  },
+  {
+    "territorial_focus": "HIC",
+    "location": "Chile"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "China"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Colombia"
+  },
+  {
+    "territorial_focus": "HIC",
+    "location": "Croatia"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Cuba"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Dominican Republic"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Ecuador"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Egypt"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "El Salvador"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Ethiopia"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Gabon"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Georgia"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Guatemala"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Guyana"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Haiti"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Honduras"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "India"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Indonesia"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Iran (Islamic Republic of)"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Iraq"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Jamaica"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Kazakhstan"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Kenya"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Kosovo (SCR 1244)"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Kyrgyz Republic"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Lao People's Democratic Republic"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Liberia"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Libya"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Republic of Macedonia"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Malaysia"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Maldives"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Mali"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Mauritius"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Mexico"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Montenegro"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Republic of Moldova"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Morocco"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Mozambique"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Namibia"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Nepal"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Niger"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Nigeria"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Pakistan"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Panama"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Papua New Guinea"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Peru"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Philippines"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Romania"
+  },
+  {
+    "territorial_focus": "HIC",
+    "location": "Russian Federation"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Samoa"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Sao Tome and Principe"
+  },
+  {
+    "territorial_focus": "HIC",
+    "location": "Saudi Arabia"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Serbia"
+  },
+  {
+    "territorial_focus": "SIDS",
+    "location": "Seychelles"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Sierra Leone"
+  },
+  {
+    "territorial_focus": "HIC",
+    "location": "Slovak Republic"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Sri Lanka"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "South Sudan"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Solomon Islands"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "South Africa"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Sudan"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Syrian Arab Republic"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Tajikistan"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Tanzania (United Republic of)"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Thailand"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Timor-Leste"
+  },
+  {
+    "territorial_focus": "Fragile States",
+    "location": "Togo"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Tunisia"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Turkmenistan"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Turkey"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Ukraine"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Uganda"
+  },
+  {
+    "territorial_focus": "HIC",
+    "location": "Uruguay"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Uzbekistan"
+  },
+  {
+    "territorial_focus": "MIC",
+    "location": "Viet Nam"
+  },
+  {
+    "territorial_focus": "LDC",
+    "location": "Zambia"
+  }
+]
