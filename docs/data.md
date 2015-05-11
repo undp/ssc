@@ -18,3 +18,8 @@ Year | Count
 ## Map data
 
 Additional field `map_name` added where there is a mismatch between official name and that available in the mapping data.
+
+
+## Territorial focus
+
+The `territorial_focus` attribute is present in the `countries_tf.json` reference file but is only used to generate project files for the '469'. The original '275' already have territorial focus attrbiutes per record.

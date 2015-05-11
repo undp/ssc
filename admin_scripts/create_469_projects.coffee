@@ -6,7 +6,7 @@ MatchingTerm = require './lib/matching_term'
 
 class Process
   constructor: ->
-    # @countries     = JSON.parse(fs.readFileSync(__dirname + '/../_includes/data/countries.json', encoding: 'utf8'))
+    @countries     = JSON.parse(fs.readFileSync(__dirname + '/../_includes/data/countries_tf.json', encoding: 'utf8'))
     @projects      = JSON.parse(fs.readFileSync(__dirname + '/april_data/469_export.json', encoding: 'utf8')).rows
     @template      = fs.readFileSync(__dirname + '/lib/project_file_template._', encoding: 'utf8')
 
@@ -38,7 +38,7 @@ class Process
       "undp_role_type"    : @normalise('undp_role_type', project.undp_role_type),
       "thematic_focus"    : @normalise('thematic_focus', project.thematic_focus),
       "ssc_description"   : project.ssc_description,
-      "territorial_focus" : @normalise('territorial_focus', project.territorial_focus),
+      "territorial_focus" : @normalise_territorial_focus(project.country_iso3),
       "partner_type"      : @normalise('partner_type', project.partner_type),
       # Links
       "project_link"      : project.project_link
@@ -54,7 +54,6 @@ class Process
     compiled = _.template(@template)
     content = compiled(project)
     fs.writeFileSync(__dirname + "/../_ssc_projects/#{project.project_id}.txt", content)
-    # fs.appendFileSync(__dirname + "/../_ssc_projects/#{project.project_id}.txt", content)
 
   normalise: (type, text) ->
     return unless text
@@ -62,6 +61,14 @@ class Process
 
   normalise_location: (iso3) ->
     return [iso3.toUpperCase() if iso3?]
+
+  normalise_territorial_focus: (iso3) ->
+    return 'n/a' if !iso3?
+    country = _.findWhere @countries, iso3: iso3.toUpperCase()
+    if country?
+      country.territorial_focus
+    else
+      'n/a'
 
   splitComma: (data) ->
     return unless data
