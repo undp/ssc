@@ -15,5 +15,6 @@ territorial_focus: <%= territorial_focus %>
 undp_role_type: <% _.each(undp_role_type, function(i) { %>
   - <%= i %><% }); %>
 published: true
+import_source: <%= import_source %>
 ---
 <%= ssc_description %>
