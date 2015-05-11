@@ -42,6 +42,7 @@ class Process
       "partner_type"      : @normalise('partner_type', project.partner_type),
       # Links
       "project_link"      : project.project_link
+      "import_source"     : '469'
     }
 
   writeAll: (data) ->

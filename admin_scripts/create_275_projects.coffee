@@ -7,6 +7,7 @@ MatchingTerm = require './lib/matching_term'
 
 class Process
   constructor: ->
+
     @countries     = JSON.parse(fs.readFileSync(__dirname + '/../_includes/data/countries.json', encoding: 'utf8'))
     @projects      = JSON.parse(fs.readFileSync(__dirname + '/source/275_export.json', encoding: 'utf8')).rows
     @template      = fs.readFileSync(__dirname + '/lib/project_file_template._', encoding: 'utf8')
@@ -20,8 +21,12 @@ class Process
     console.log("Created project files for #{processed.length} projects - located in '_ssc_projects'")
 
   processAll: (projects) ->
-    _.map projects, (project) =>
-      @processEach(project)
+    _.chain(projects)
+      .filter (project) ->
+        project.project_id isnt ""
+      .map (project) =>
+        @processEach(project)
+      .value()
 
   processEach: (project) ->
     @pid = project.project_id
@@ -43,6 +48,7 @@ class Process
       "partner_type"      : @normalise('partner_type', project.partner_type),
       # Links
       "project_link"      : project.project_link
+      "import_source"     : '275'
     }
 
   writeAll: (data) ->
