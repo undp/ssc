@@ -4,7 +4,10 @@ Based on a subset of data from http://open.undp.org, presents and maps additiona
 
 ## Contents
 
-* [Basic information](#user-manual) about using the application
+The document covers [basic information](#user-manual) about using the application
+
+Additional information is available as follows:
+
 * [Managing data](docs/manage.md) for administrators
 * [Application structure](docs/app.md) for developers and administrators
 * [Data and fields](docs/data.md) for developers and administrators
