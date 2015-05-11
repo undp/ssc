@@ -11,7 +11,7 @@ partner_type:
 project_title: Promoting Sustainable Development of Chinese Enterprises for “Going Out”
 scale: 
 project_objective: This project is implemented by UNDP, Chinese Academy of International Trade and Economic Cooperation (CAITEC) under the Ministry of Commerce, and the Research Center of State-owned Assets Supervision and Administration Commission (SASAC). It promotes overseas sustainable development of Chinese companies and corporate social responsibility through research and advocacy to improve companies’ capacity to respond to challenges in overseas operations and build trust with stakeholders.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
 published: true

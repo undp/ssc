@@ -10,7 +10,7 @@ partner_type:
 project_title: Capacity-building workshop for the  Tanzania y Zanzibar Electoral Committees
 scale: country-country
 project_objective: Using its experience on cooperation on electoral issues together with the Mexican Government’s significant expertise in this area , UNDP Mexico facilitated a capacity-building workshop for the benefit of the electoral commissions of Tanzania y Zanzibar with the sharing of experiences between Tanzania and Mexico. The training took place in February 2014 and was implemented together with the National Electoral Institute (NEI) and the Electoral Tribunal (TEPJF) in coordination with UNDP Tanzania.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

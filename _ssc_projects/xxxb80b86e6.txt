@@ -10,7 +10,7 @@ partner_type:
 project_title: Renforcement des capacites de negociations des conventions sur le changement climatique
 scale: country-country
 project_objective: L’objet de ce projet promu par Barbados e l’OECS et de renforcer les capacites de negociation ainsi que la comprehension des mecanismes de negociation dans le cadre des negociations et conventions sur le changement climatique.
-territorial_focus: 
+territorial_focus: sids, mic
 undp_role_type: 
   - builder_of_capacities
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Diaspora Engagement for Economic Development The DEED programme is jointly implemented by the United Nations Development Programme (UNDP) and the International Organization for Migration (IOM).
 scale: global 
 project_objective: In order to facilitate and encourage investment and saving behavior among migrants and remittance-receiving households, DEED has established Diaspora Business Networks in 20 diaspora business associations in Europe and North America. The project has been approached by the relevant institutions from FYROM and Albania, and cooperation has emerged through experience, knowledge and product sharing.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

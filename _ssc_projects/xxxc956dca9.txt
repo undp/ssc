@@ -10,7 +10,7 @@ partner_type:
 project_title: International Workshop on Integrated Climate Risk Management
 scale: global 
 project_objective: UNDP Nepal became one of the six countries implementing Integrated Climate Risk Management Programme (ICRMP) piloted globally by UNDP’s Bureau of Crisis Prevention and Recovery. International workshop of the ICRMP countries was held in Kathmandu to share the experiences gained through this pilot programme and foster the cross country practice among the UNDP COs and their respective partners.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

@@ -11,7 +11,7 @@ partner_type:
 project_title: Sharing and Learning on Community Based Disaster Management in Asia (CBDM Asia)
 scale: regional
 project_objective: Asia is one of the most disaster-prone region. Regional coordination and cooperation in disaster management in Asia is still far from adequate. The CBDM Asia Project aims at improving knowledge management of disaster risk, promoting experience sharing among the participating countries, and providing a bridge for governments, academia, and communities to engage in dialogues and collaboration. Bangladesh and Nepal are engaged in the project as partner countries.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -11,7 +11,7 @@ partner_type:
 project_title: Support to development of employment policies and new forms of enterprise development
 scale: country-country
 project_objective: By visiting Turkey’s key employment actors in defining and implementing national employment policies, the CO had an opportunity to learn about working methods of public and private employment agencies. Small and medium enterprises development support programs, together with the opportunities provided in the technoparks gave a knowledge base for possible introduction of university – industry cooperation, through support to entrepreneurs, models for transfer of technology, and incubator centres.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

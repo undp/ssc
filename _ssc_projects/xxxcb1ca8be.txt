@@ -10,7 +10,7 @@ partner_type:
 project_title: Promoting the Rights - and Enhancing the Participation - of Women in the Bangsamoro Peace Consolidation and Development Process
 scale: country-country
 project_objective: UNDP sponsored Bangsamoro-based women CSOs to travel to Indonesia to learn from the best practices of mainstreaming gender concerns in transition processes and development plans in a post-conflict setting.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

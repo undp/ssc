@@ -10,7 +10,7 @@ partner_type:
 project_title: Employment Creation through labor-intensive models
 scale: country-country
 project_objective: A fruitful partnerships has been established with Brazil, South Africa and India, on the labour intensive youth employment scheme. All three countries have contributed to the UNDP project, and a series of technical discussions between experts from these countries and the Sudan Ministry of Labor were organized.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

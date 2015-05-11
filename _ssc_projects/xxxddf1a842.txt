@@ -10,7 +10,7 @@ partner_type:
 project_title: China-Zambia South-South Cooperation on Renewable Energy Technology Transfer
 scale: regional
 project_objective: The project will ensure that 1) the enabling environment for the transfer and use of priority renewable technologies is strengthened in Zambia, 2) market barriers to the adoption of renewable technologies for the rural poor are removed in Zambia, and 3) Chinese capacity for South South Cooperation on renewable energies is strengthened.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - builder_of_capacities

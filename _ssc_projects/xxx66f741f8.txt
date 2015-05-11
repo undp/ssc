@@ -10,7 +10,7 @@ partner_type:
 project_title: Partnership between Russian testing labs and Beijing Lighting Testing Laboratory for cross verification/testing of energy efficient light bulbs (CFLs and LED) initiated and facilitated by the Russian UNDP/GEF EE Lighting project
 scale: country-country
 project_objective: Partnership set up/agreement signed in 2013 with the purpose to strengthen the market of energy efficient lighting. Planned cross verification/testing of energy efficient light bulbs between the Russian and Chinese laboratories completed in 2014. A joint on-line Russia-China seminar conducted with participating testing laboratories to analyze lessons and plan future cooperation.
-territorial_focus: 
+territorial_focus: hic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Forest and Water Management
 scale: regional
 project_objective: Regional collaboration on sustainable forest management (SFM) was initiated with Kosovo, Bosnia and Herzegovina, Macedonia, aiming to set Turkey - Balkan countries cooperation in support of SFM capacities and practices for - protection of forests; restoration of forests; design and implementation of multi functional ecosystem based forest management planning; enhance forest ecosystem based goods and services.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

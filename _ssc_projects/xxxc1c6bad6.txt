@@ -10,7 +10,7 @@ partner_type:
 project_title: Regional Conference on Natural Disasters in South-East Europe
 scale: regional
 project_objective: Regional consultation platform for counterparts from BiH, Croatia, Macedonia, Montenegro, Slovenia, and Serbia in order to bring the problem of natural disaster preparedness to the regional level, and enhance the cooperation.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

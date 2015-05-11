@@ -10,7 +10,7 @@ partner_type:
 project_title: Support to sharing Mauritius reform experience in High-level Brainstorming Meeting on Transforming Senegal into a Middle Income Country
 scale: regional
 project_objective: The IMF organized in December 2014 a high-level brainstorming meeting in Washington DC  to help implement the transformation plan of Senegal into a MIC (Plan Senegal Emergent) and share the experience of Cape Verde, Mauritius and Seychelles. UNDP contributed to sharing the experience of Mauritius in 5 specific areas through presentations facilitated by a senior Gvt official (budget reform, investment planning reform, PMS, client-oriented strategy in the public sector, SRM).
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

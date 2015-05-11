@@ -10,7 +10,7 @@ partner_type:
 project_title: Ethio-China cooperation on DRR and dryland management
 scale: country-country
 project_objective: The Ethio-China cooperation aims to enhance Africa-China S-S Cooperation on integrated climate change adaptation & DRM, strengthening resilience in the fields of, inter alia, anti-desertification & drought risk management, and sustainable natural resource management.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

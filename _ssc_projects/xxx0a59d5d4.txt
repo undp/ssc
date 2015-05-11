@@ -10,7 +10,7 @@ partner_type:
 project_title: Renforcement des capacités des Cours de Comptes
 scale: country-country
 project_objective: Promotion des échanges d’expériences avec paires visant le renforcement des Cour des Comptes.
-territorial_focus: 
+territorial_focus: sids, mic
 undp_role_type: 
   - builder_of_capacities
 published: true

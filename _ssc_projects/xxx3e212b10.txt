@@ -10,7 +10,7 @@ partner_type:
 project_title: ODA Romania - Cross-regional triangular partnership
 scale: country-country
 project_objective: transition experience sharing, through which two donors of electoral assistance (Romania and Mexico) are supporting the Electoral Management Bodies in Libya, Tunisia and Egypt in building their institutional capacities to conduct and manage independent, free and fair elections. 
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

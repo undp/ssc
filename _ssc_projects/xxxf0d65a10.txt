@@ -10,7 +10,7 @@ partner_type:
 project_title: Strengthened capacity of Judicial Officers on non-litigation settlements of labour disputes in line with international labour standards and trends that encompass human right issues
 scale: country-country
 project_objective: The initiative was a benchmarking mission to Zambia by three judges of the Industrial Court of Botswana. Its purpose was to study Zambia’s Court Annexed mediation and alternative dispute resolution mechanisms and draw lessons to inform Botswana’s development of its own alternative dispute resolution mechanisms.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

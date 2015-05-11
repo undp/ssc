@@ -10,7 +10,7 @@ partner_type:
 project_title: sexual and gender-based violence
 scale: country-country
 project_objective: 
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

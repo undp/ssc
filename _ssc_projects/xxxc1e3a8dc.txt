@@ -10,7 +10,7 @@ partner_type:
 project_title: Visits of Georgian Ministry of Interior and Revenue Service officials to Estonia and Latvia on border management issues
 scale: country-country
 project_objective: Two study visits of Georgian border management officials were held in 2014 to Estonia and Latvia. The major focus of the visits was to share the experience of the Baltic States on management of illegal migrant detention centers and provision of on-the-job and advanced training for officers serving at the borders. The visits raised the knowledge of Georgian officials in both areas and provided them with useful experience
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Study tour to Indonesia to gain experience and knowledge on Aid Coordination and Aid Effectiveness (March 2014)
 scale: country-country
 project_objective: The study tour was organized for the representatives of the Ministry of Finance, Ministry of Economy, and Ministry of Foreign Economic Relations of Uzbekistan to learn how aid coordination mechanism were set up and managed effectively in Indonesia.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

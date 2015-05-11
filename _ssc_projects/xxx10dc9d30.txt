@@ -10,7 +10,7 @@ partner_type:
 project_title: Study tour- 5 member from Ministry of Finance
 scale: country-country
 project_objective: 5 member from the Ministry of Finance visited Timor-Leste to learn the overall implementation of AMP.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

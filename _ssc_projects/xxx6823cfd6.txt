@@ -10,7 +10,7 @@ partner_type:
 project_title: East-East workshop in Belgrade in April 2014
 scale: regional
 project_objective: Serbia and several other UNDP offices in RBEC region developed concepts for cooperation and sharing resources and knowledge to advance issues, such as role of the youth in curbing corruption.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

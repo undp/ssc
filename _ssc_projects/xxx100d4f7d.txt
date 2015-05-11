@@ -10,7 +10,7 @@ partner_type:
 project_title: Livelihoods Improvement and Economic Regeneration through South-South Cooperation in Somalia
 scale: regional
 project_objective: Strengthen capacity of marginalized population of Somalia to support rapid economic stabilization and recovery
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

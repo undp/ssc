@@ -10,7 +10,7 @@ partner_type:
 project_title: Transferencia de conocimiento sobre la gestión de MYPYMES y Grupos asociativos/Cooperativas para conformación de Sistemas Productivos Locales
 scale: regional
 project_objective: Intercambio de experiencias y asistencias técnicas para la transferencia de conocimiento sobre la gestión de MYPYMES y Grupos asociativos/Cooperativas para conformación de Sistemas Productivos Locales.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

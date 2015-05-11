@@ -10,7 +10,7 @@ partner_type:
 project_title: Economic Empowerment and micro-business development
 scale: regional
 project_objective: The cooperation came in the form of exchanging of knowledge and experience mainly among women entrepreneurs. Beneficiaries from our Economic Employment programme traveled to other Middle East countries and shared their experiences, success and challenges with other women. They also had the opportunity to market their products in these countries.
-territorial_focus: 
+territorial_focus: n/a
 undp_role_type: 
   - knowledge_broker
 published: true

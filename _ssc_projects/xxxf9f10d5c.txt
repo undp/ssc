@@ -10,7 +10,7 @@ partner_type:
 project_title: Joint Study Tour of Malawi and Gambia delegates on Mauritius experience in PBB and MTEF
 scale: regional
 project_objective: UNDP through its technical adviser to MOFED and SRM national consultant contributed to sharing the experience of Mauritius in developing results-based management and in setting up tools to improve the efficiency of social expenditure with senior budget and planning officers from Malawi and the Gambia in February 2014. The delegation from Malawi had received organizational and financial support from UNDP Malawi.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

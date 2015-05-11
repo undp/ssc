@@ -10,7 +10,7 @@ partner_type:
 project_title: Capacity Building of SIDS Climate Change Negotiators
 scale: global 
 project_objective: Through establishing international partnerships, a curriculum was developed to strengthen the negotiating skills of the SIDS climate change negotiators and improve their understanding of the technical content of the UNFCCC negotiations and work programs. This year-long blended approach to learning concluded with a study tour hosted by the Singapore Cooperation Programme [E14;E37].
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Africa Regional Platform on Disaster Risk Reduction (DRR)
 scale: regional
 project_objective: The 5th regional platform was held with the objective of reviewing the progress of DRR in Africa and consolidate the African contribution to the post-2015 framework for DRR towards eradicating poverty in Africa. Mozambique participation was led by the Ministry of Environment and contributed to share experiences and good practices and further strengthened government commitment on DRR for an increase of resources allocated to emergency responses. 53 African countries took part to the initiative.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

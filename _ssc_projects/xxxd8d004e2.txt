@@ -10,7 +10,7 @@ partner_type:
 project_title: AMEXCID-UNDP Cooperation Program
 scale: 
 project_objective: Under their 2011 Collaboration Framework Agreement, Mexico and UNDP signed the AMEXCID-UNDP Cooperation Program whose main objective is to contribute to the consolidation of Mexico as a South-South cooperation provider through institutional capacity building and the improvement of mechanisms that ensure effective knowledge transfer. The core components of the Program are -AMEXCID’s institutional strengtheningSystematization of best practicesConsolidation of centers of excellence
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
 published: true

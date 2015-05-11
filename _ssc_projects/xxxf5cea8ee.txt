@@ -10,7 +10,7 @@ partner_type:
 project_title: Implementation of the Benguela Current LME Action Program for Restoring Depleted Fisheries and Reducing Coastal Resources Degradation.
 scale: regional
 project_objective: UNDP-supported tripartite development initiative by Angola, Namibia and South Africa that aims to improve the use and management of marine resources.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

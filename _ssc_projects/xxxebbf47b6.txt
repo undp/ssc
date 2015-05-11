@@ -10,7 +10,7 @@ partner_type:
 project_title: Mission d’échange de deux membres du réseau citoyen pour la transparence budgétaire du Sénégal au Mali
 scale: country-country
 project_objective: Deux membres du réseau citoyen pour la transparence budgétaire au Sénégal ont séjourné au Mali pour échanger avec le Groupe de Suivi Budgétaire du Mali sur le dispositif organisationnel, opérationnel, les relations avec l’exécutif et le parlement ainsi que avec les organes de contrôle, les mécanismes de financement, les modalités de coopération entre réseaux de l’espace de l’Union Economique Monétaire Ouest Africaine.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

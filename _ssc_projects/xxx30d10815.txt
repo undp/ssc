@@ -10,7 +10,7 @@ partner_type:
 project_title: African Multi-stakeholder Consultation on Development Effectivness
 scale: regional
 project_objective: the African Action Plan on Development Effectiveness Cooperation (AAP) was adopted in the African Multi-stakeholder Consultation on DE. 180 high-level representatives of 40+ African countries participated. The AAP supports SS&TC and regional integration for development as its core priorities. The AAP was the result of region-specific engagements led by the AU/NEPAD Africa Platform for Development Effectiveness (APDev) with support from RSC DEC team
-territorial_focus: 
+territorial_focus: n/a
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: First meeting of the Moldovan-Croatian Intergovernmental Commission for European Integration in Zagreb
 scale: country-country
 project_objective: Representatives of key Moldovan ministries learned from the Croatian experience gained during the implementation of the Stabilization and Association Agreement, pre-accession negotiations and the first year as EU Member State. The parties agreed on plans for future inter-ministerial cooperation and Croatian assistance for Moldova’s European integration process in the areas of economy, legal approximation, communication, agriculture, internal affairs, environment protection and anticorruption
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

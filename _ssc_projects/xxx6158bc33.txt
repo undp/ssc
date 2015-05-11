@@ -10,7 +10,7 @@ partner_type:
 project_title: Construction of Nablus Special Needs Center
 scale: global 
 project_objective: UNDP/PAPP was entrusted by the IBSA Forum (India, Brazil and South Africa) with a total amount of US$ 1,000,000 for the design and construction of the first phase of a rehabilitation centre that will house and cater to individuals over 18 years old who are suffering from severe mental handicaps. The total area to be constructed through the first phase is approximately 950 square meters.
-territorial_focus: 
+territorial_focus: n/a
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

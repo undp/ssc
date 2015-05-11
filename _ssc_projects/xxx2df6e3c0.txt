@@ -10,7 +10,7 @@ partner_type:
 project_title: Enhancing the economic livelihood of the poor (E9)
 scale: country-country
 project_objective: A draft policy on issues of financing and access to credit for Small and Medium enterprises will be developed. The policy will draw upon the experiences of the Region for its determination.  As part of the preparation, studies on development of eco-tourism and small enterprise, and survivability of small business in Guyana will be undertaken.  These studies will serve as baseline material and will feed into consultations between Government and other stakeholders.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Regional DRR Platform and Integrated Climate Risk management Programme.
 scale: regional
 project_objective: CO supported Uganda’ representation to the UNDP-facilitated regional DRR platform and the Regional Climate and DRR meeting in Nepal. The DRR platform meetings provide the Governments opportunity to share  experiences on DRM, particularly, on the areas of tapping parliamentary support, climate change and adaptation and building community resilience.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Studying agricultural climate change adaptation practice with selected adaptive crops and varieties
 scale: country-country
 project_objective: In consultation with Vietnam line agencies and the Hue University an exchange and sharing of experiences and peer-to-peer knowledge exchange was agreed between Vietnam and Lao PDR.  Emphasis was placed on transferring new climate adaptation technologies to farming communities.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

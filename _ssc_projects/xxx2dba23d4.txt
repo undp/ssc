@@ -10,7 +10,7 @@ partner_type:
 project_title: Promoción y restablecimiento del derecho a la salud, protección social y laboral de trabajadoras y trabajadores del sector privado
 scale: country-country
 project_objective: Se realizó el foro - 'El acceso a la salud, medidas para garantizar el cumplimiento de los derechos de los trabajadores y trabajadoras del sector privado', que contó con ponencia de especialistas, entre otros; la Señora Odilíe Arias Jiménez de la Caja Costarricense del Seguro Social, quien compartió la experiencia del país
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Supporting Democratic Electoral Management
 scale: global 
 project_objective: UNDP partnered with the Election Commission of India to promote the exchange of knowledge and experience in the field of election management in the context of South-South cooperation.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

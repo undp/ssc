@@ -10,7 +10,7 @@ partner_type:
 project_title: Visita de Bolivia a UruguaySecretario de Planificación del Gobierno Departamental de Cbba - Sr. Filemos Iriarte PNUD – ART Bolivia Sra. Gricel AvilaVisita de Uruguay a Bolivia Sr. Diego Garcia - Especialista PNUD ART UruguaySeptiembre – octubre 2014
 scale: country-country
 project_objective: A partir de este intercambio el Gobierno Departamental juntamente con el PNUD ART, está en proceso de elaboración de una agenda de empleo, trabajo y Desarrollo Local, se están tomando los modelos que fueron transferidos en el intercambio. También, se cuenta con un diseño preliminar de un curso de formación con enfoque territorial en DEL a ser desarrollado a partir del mes de Junio de 2015.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

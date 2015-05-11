@@ -10,7 +10,7 @@ partner_type:
 project_title: Intercambio de experiencias entre el Archivo Histórico de la Policía Nacional de Guatemala y el Archivo Histórico de Colombia.
 scale: country-country
 project_objective: Esta iniciativa se realizó con el objetivo de que el HPN dió a conocer al Archivo histórico de Colombia, los protocolos y modelos de trabajo para la estabilización archivística, incluyendo, procesamiento digitalización, resguardo y puesta a disposición del público de los archivos históricos.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Coastal area governance and management– sharing experiences with Philippines
 scale: country-country
 project_objective: In India, good practices of community/participatory coastal and marine resource planning and management is limited. To learn from experiences and practices in Philippines, UNDP India and UNDP Philippines facilitated the visit of officials from Government of India and UNDP to Philippines. The key learnings from the visit included community-based management and planning, marine spatial planning, ecosystem conservation and rehabilitation, including mangroves, sustainable fisheries practices.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

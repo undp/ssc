@@ -10,7 +10,7 @@ partner_type:
 project_title: Georgia-Ukraine Business incubator support
 scale: country-country
 project_objective: UNDP has supported to building cooperation between Ajarian and Dnepropetrovsk regional authorities in developing institutionalized business development service provider - business incubator using Batumi Business Incubator model initially supported by UNDP. in 2014 Batumi Business Incubator staff provided support to Dnepropetrovsk authorities in conceptualizing
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

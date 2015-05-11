@@ -10,7 +10,7 @@ partner_type:
 project_title: Projet ProHuerta
 scale: country-country
 project_objective: Le Projet encourage une diète alimentaire équilibrée, à travers la production biologique à petite échelle d’aliments frais.  Le Projet a également commencé à travailler sur l’élevage familial, la promotion de petites expériences d’irrigation, la production locale de semences et la fabrication artisanale des outils. Le projet a aussi intégré l’activité « Familles et Nutrition », pour sensibiliser les familles sur l’éducation, l’alimentation et la santé de leurs enfants.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

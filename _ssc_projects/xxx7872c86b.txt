@@ -10,7 +10,7 @@ partner_type:
 project_title: Knowledge and experience exchange with Kazakhstan in the area of energy efficiency.
 scale: country-country
 project_objective: Kazakh experts participated in two international conferences on energy efficiency and climate change in Minsk. Belarusian experts visited Kazakhstan and consulted Kazakh specialists in the area of designing and construction of energy efficient residential buildings.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

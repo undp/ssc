@@ -10,7 +10,7 @@ partner_type:
 project_title: Partenariat entre l’Observatoire du Développement Humain du Maroc et celui du Mali
 scale: country-country
 project_objective: L’Observatoire du Développement Humain du Mali a participé à l’invitation de l’Observatoire du  Maroc, à la Conférence sur les méthodes de mesure de développement humain et les approches d’évaluation axées sur l’équité en faveur des nouvelles générations. Le Directeur de l’ODHD a présenté la démarche d’élaboration de l’indice de pauvreté des communes du Mali. Un accord de partenariat est cours de conclusion entre les observatoires du Maroc et du Mali.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

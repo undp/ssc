@@ -10,7 +10,7 @@ partner_type:
 project_title: Pan-African Conference on Inequalities in the context of Structural transformation, Ghana, June 28-30, 2014
 scale: regional
 project_objective: CO mobilized funding and facilitated participation of senior Government Officials from Mauritius (Finance Ministry) and Seychelles (Social Affairs Division) in Conference organized by UNECA aimed at  promoting an African agenda to tackle inequalities and foster transformation; enhance understanding of the structural character and economic and social drivers of African inequalities and share knowledge of effective social, macro-economic and sectoral policies for addressing inequalities.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

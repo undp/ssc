@@ -11,7 +11,7 @@ partner_type:
 project_title: Projet d appui a l etablissement d un Systeme National d Integrite en Tunisie
 scale: regional
 project_objective: Ouvrir la voie pour des mesures concretes a prendre dans la lutte contre la corruption avec une approche integree.  Les principaux resultats attendus sont -1. Strategie nationale anti-corruption elaboree2. Agence tunisienne de lutte contre la corruption operationalisee3. Rapports de diagnostic sur les cadres juridiques existants developpes4. La connaissance en matiere de lutte contre la corruption institutionnalisee5. La sensibilisation du public est accrue.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

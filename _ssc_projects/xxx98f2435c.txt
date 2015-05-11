@@ -11,7 +11,7 @@ partner_type:
 project_title: Study visit to India and Kenya on cook stove technology in the framework of Energy4All.
 scale: country-country
 project_objective: 13 high-level government officials from central and regional government made a study trip to India to learn about different aspects of cook stove technology (technological developments, institutional set-up, private sector engagement, R&D) as part of the Energy4All initiative. A second study visit took place to Kenya on detailed technological training around cook stove technology (ToT).
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

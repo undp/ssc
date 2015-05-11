@@ -10,7 +10,7 @@ partner_type:
 project_title: Cooperation between the Disaster Risk Reduction National Platforms of Armenia and Kyrgyzstan.
 scale: country-country
 project_objective: UNDP initiated and supported the establishment of cooperation between the National Platforms of Armenia and Kyrgyzstan. MoU was signed between the parties and following statements have been agreed upon - elaboration of DRR strategy, coordination of implementation, improvement, development of DRR legislative field, sharing best practices (e.g. LLRM Armenia experience) and implementation of joint programmes.  Study tour was organized for Kyrgyz NP to Armenia in December 2014.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

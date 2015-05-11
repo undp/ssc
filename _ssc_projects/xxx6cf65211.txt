@@ -10,7 +10,7 @@ partner_type:
 project_title: China-India Low Carbon Study
 scale: regional
 project_objective: This Study, one of the first collaborative efforts between major research institutes in India and China working on climate change, was launched in March, 2013 at the China-India Strategic Economic Dialogue in Beijing. It examines low carbon technologies, research and development policies, and financing, in national and subnational contexts and identifies numerous areas for cooperation on low-carbon development including knowledge exchange, capacity building and training.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

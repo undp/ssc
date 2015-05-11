@@ -10,7 +10,7 @@ partner_type:
 project_title: Training provided on land laser leveling in Ashgabat, Turkmenistan (October 2014)
 scale: regional
 project_objective: Expert from Uzbekistan conducted a training on laser leveling for farmers in pilot regions in Turkmenistan. The support was provided through the regional UNDP project on Climate Risk Mitigation (CRM)
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

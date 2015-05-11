@@ -10,7 +10,7 @@ partner_type:
 project_title: SIDS Samoa Conference
 scale: country-country
 project_objective: Support to the participation of the Resident Representative of UNDP, the Director General of the OECS, representative of the Caribbean Policy Development Centre, and the Prime Minister of GD to attend the 3rd International Conference on Small Island Developing States.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

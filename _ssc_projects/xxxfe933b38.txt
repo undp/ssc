@@ -11,7 +11,7 @@ partner_type:
 project_title: Improving local capacity to promote and sustain entrepreneurship and SMEs development in Chernobyl affected territories by transferring best practices and experience of using smart instruments for boosting business (joint initiative of UNDP Ukraine and Polish Agency for Enterprise Development)
 scale: country-country
 project_objective: Stimulate creation and growth of SMEs in Chernobyl affected areas of Ukraine by strengthening the local business support through provision of comprehensive information services, knowledge transfer and skills development. Support is provided to 3 affected rural territories to develop relevant vision, improve technical capacities and build local skills to establish Business Information Points based on Polish experience; help with SMEs advocacy and provide expert aid for cluster initiatives.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

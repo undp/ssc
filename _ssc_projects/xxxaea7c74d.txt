@@ -12,7 +12,7 @@ partner_type:
 project_title: South-South Cooperation on Climate Change Forum
 scale: global 
 project_objective: The Forum brought together more than 200 participants including ministers and other government representatives from China, Egypt, Gabon, Mongolia, Nepal, and Seychelles, principals of UNEP, UNDP, UNFCCC, UNCCD, GEF, and SDC, heads of development agencies, scientists, business leaders, and civil society representatives to discuss the importance of South-South cooperation as a key element of the response to climate change, its enablers and constraints, and options and mechanisms for its promotion.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - builder_of_capacities

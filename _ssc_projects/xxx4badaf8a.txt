@@ -10,7 +10,7 @@ partner_type:
 project_title: Mission d’études et d’échanges sur la consolidation et la modernisation de l’état civil et la gestion du fichier électoral au profit d’une délegation malienne de haut niveau
 scale: country-country
 project_objective: Une visite d’étude  est  effectuée par une délégation Malienne pour  s’enquérir les avancées du Maroc en matière de la Modernisation et la Consolidation de l'Etat Civil et des systèmes de  gestion des elections.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

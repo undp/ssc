@@ -10,7 +10,7 @@ partner_type:
 project_title: “Support to Youth Employment Creation” Cote d’Ivoire
 scale: country-country
 project_objective: CO facilitated participation of Senior Government official/employment specialist from Finance Ministry in a high-level expert mission to share Mauritius experience with the Cote d’Ivoire Government and assist in developing an Operational Action-Plan to ensure tangible results, strengthen institutional coherence and the relevance of the Ivory Coast Government’s interventions at the regional decentralized level, propose measures to promote youth employment and skills development.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

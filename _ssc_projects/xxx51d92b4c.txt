@@ -10,7 +10,7 @@ partner_type:
 project_title: Sustainable energy solutions
 scale: country-country
 project_objective: Assistance to design and develop technical solutions for use of renewable energy in Tajikistan local communities as a part of Sustainable Energy of All project of the Regional Hub; technical assistance to programme funding from GEF6.
-territorial_focus: 
+territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
 published: true

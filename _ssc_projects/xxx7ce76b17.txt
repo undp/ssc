@@ -11,7 +11,7 @@ partner_type:
 project_title: Learning Exchange for Nigerian Legislators, CSOs, NACA and Media on the Anti-Stigma legislation in Kenya
 scale: regional
 project_objective: The stakeholders were sponsored on a learning visit to the Kenyan Parliament and also interacted with CSOs, media at the forefront of developing and implementing the anti-stigma law in Kenya.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

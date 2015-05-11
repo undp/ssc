@@ -10,7 +10,7 @@ partner_type:
 project_title: training and capacity building
 scale: country-country
 project_objective: The initiatives enhanced the capacity of the various institutions participating in these trainings in forging partnership, learning best practices to be applied to the country’s development agenda.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

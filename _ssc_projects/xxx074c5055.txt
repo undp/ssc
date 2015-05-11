@@ -10,7 +10,7 @@ partner_type:
 project_title: Initial stock-taking of SSC/TrC opportunities in Viet Nam started
 scale: country-country
 project_objective: Study focusing on major G2G initiatives in SSC/TrC covering scope and content of cooperation, assessments of results and bottlenecks, and forward-looking recommendations including prospective role for UNDP. The study commenced in 2014 and will be completed in 2015.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
 published: true

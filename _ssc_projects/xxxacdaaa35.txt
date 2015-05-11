@@ -12,7 +12,7 @@ partner_type:
 project_title: SIDS Conference, SAMOA Pathway and SIDS Action Platform
 scale: global 
 project_objective: The Third International Conference on Small Island Developing States (SIDS Conference) and its outcome document (SAMOA Pathway) set a new framework for the sustainable development of SIDS through genuine and durable partnerships. The SIDS Action Platform has been developed to support the follow up to the Conference, including through a partnerships platform, a partnerships framework, and a UN Implementation Matrix.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

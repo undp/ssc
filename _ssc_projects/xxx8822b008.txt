@@ -10,7 +10,7 @@ partner_type:
 project_title: Renforcement des capacites des fonctionnaires de l Assemblee Nationale en matiere de controle  et de suivi de l execution budgetaire.
 scale: country-country
 project_objective: Visite d echanges permettant aux fonctionnaires de la Cellule d Analyse du Budget National (CABAN) de l Assemblee Nationale de s impregner des modalites pratiques dans le cadre de la lecture, l examen et le vote de la loi de finance, de l effectivite du controle et du suivi de l execution budgetaire.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - builder_of_capacities

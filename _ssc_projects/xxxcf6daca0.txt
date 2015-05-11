@@ -10,7 +10,7 @@ partner_type:
 project_title: First International Conference on the impacts of REDD+for high-forest low-deforestation (HFLD) countries (E19)
 scale: regional
 project_objective: The Conference provided an opportunity for countries to share experiences and start looking into the best approach for making a case in the international policy arena. This initiative was led by the Government of Suriname.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

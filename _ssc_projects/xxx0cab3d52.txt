@@ -10,7 +10,7 @@ partner_type:
 project_title: Study mission to Bhutan on 'Learning on  the good practices of GLOF early warning system'
 scale: country-country
 project_objective: UNDP supported climate risk management focal person from 3 ministries to Bhutan recently on the operationalization of early warning system (EWS) in Bhutan. Learning visit was aimed at sharing knowledge and expertise gained from GLOF mitigation works and implementation of EWS and its practices in Nepal and Bhutan. The knowledge and experience gained from the visit would be further applied in the GLOF risk reduction and the installation of the GLOF early warning system at Imja and Tsho Rolpa
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Regional Hostage and Extortion Negotiation Training
 scale: regional
 project_objective: Violent and non-violent crimes, including hostage and extortion incidents, continue to be a challenge across the islands. The objective of the training was to build capacity to enable a safe, secure and just society in responding effectively to kidnap, hostage and extortion offences in the region. Adult blended learning principles were utilized which focused on attitude, knowledge and skills in negotiation
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Laser land levelling in the Sakarchaga area of the Mary province
 scale: country-country
 project_objective: This initiative is about application of Uzbek and Kazakh best practices in laser land levelling in the Sakarchaga area of the Mary province. Laser land levelling has been demonstated as an effective soil management and irrigation technique leading to increased crop productivity and water use efficiency.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

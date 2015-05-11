@@ -10,7 +10,7 @@ partner_type:
 project_title: Learning visit on Conflict Early Warning and Early Response
 scale: country-country
 project_objective: UNDP undertook SS&TC effort to East Timor involving senior MoPR officials. The purpose of this cooperation was to provide opportunities for the government officials to see EWER system in action, understand its benefits and identify learning for Nepal.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

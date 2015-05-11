@@ -10,7 +10,7 @@ partner_type:
 project_title: Buenas prácticas en primera infancia y recuperación de espacios públicos abiertos a través de la artesanía y actividades artístico-recreativas en las ciudades de Medellín y Bogotá.
 scale: country-country
 project_objective: La Primera Dama viajó a Colombia junto con la RR de PNUD para conocer programas en el tema de la Primera Infancia y las buenas prácticas en la recuperación de espacios públicos abiertos a través de la artesanía y actividades artístico-recreativas en las ciudades de Medellín y Bogotá. Se generarán iniciativas para el apoyo de la producción de artesanías que generarán oportunidades de empleo, revalorizarán recursos culturales y fortalecerán procesos de desarrollo e identidad local.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

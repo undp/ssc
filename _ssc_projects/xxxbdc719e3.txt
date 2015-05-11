@@ -10,7 +10,7 @@ partner_type:
 project_title: The study tour to Jordan to learn the experience of the National Committee for Demining and Rehabilitation of Jordan
 scale: country-country
 project_objective: The study tour was organized in September 2014 and attended by high level Tajik officials dealing with disability and mine related issues. The study tour covered discussions on microfinance for landmine survivors according to Islamic finance principles, advocacy for the rights of Persons with Disabilities, including Landmine Survivors as well as the programmes in Jordan, specifically focusing on economic reintegration and advocacy and promotion of the rights of people with disabilities.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

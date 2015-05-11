@@ -10,7 +10,7 @@ partner_type:
 project_title: Study visits to Cyprus to research the experience of bi-communal cooperation in the fields of economy/trade and local community development
 scale: regional
 project_objective: Two groups of 30 experts, representatives of civil society, LPAs, businesses and business associations from both banks of the Nistru river affected by the Transnistria conflict participated in study visits to Cyprus. During the study visits, they acquainted themselves with local experience in promoting bi-communal cooperation and development projects notwithstanding the political complexities related to the unresolved conflict, and used the newly gained ideas to advance cross-river cooperation.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

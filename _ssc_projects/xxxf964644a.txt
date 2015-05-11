@@ -10,7 +10,7 @@ partner_type:
 project_title: Study visit of memebrs of the Parliament Committee on Social Protection
 scale: country-country
 project_objective: The participants had been exposed to the experience of Lithuania in social assistance and social protection policies and their implementation through service provision,as well as the relevant legislation on social insurance, social assistance and family protection to inform the reform in these sectors in Moldova.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

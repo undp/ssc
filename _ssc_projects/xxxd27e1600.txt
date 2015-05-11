@@ -10,7 +10,7 @@ partner_type:
 project_title: Support Project for Execution of the Puebla Panamá Plan
 scale: regional
 project_objective: The project promotes dialogue that articulates efforts in the area of cooperation, development, and integration in order to extend and enhance the capacities of countries and implement projects with tangible benefits for businesses in terms of infrastructure, connectivity, trade facilitation and social development. The component supported by UNDP focuses on capacity-building for the monitoring and evaluation of fulfilment of the Millennium Development Goals (MDGs).
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

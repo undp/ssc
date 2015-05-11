@@ -10,7 +10,7 @@ partner_type:
 project_title: Nepal Government study visit to Timor-Leste on Peace-building and social cohesion initiatives
 scale: country-country
 project_objective: The study visit has contributed to the increase of knowledge on peace building and social cohesion for both countries and follow up initiative such as curriculum development and ToT will be implemented through TL National Training Institution in 2015.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

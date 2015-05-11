@@ -10,7 +10,7 @@ partner_type:
 project_title: Forum of Electoral Management Bodies of South Asia (FEMBoSA)
 scale: country-country
 project_objective: UNDP supported the Election Commission, Nepal in conducting the fifth meeting of the Forum of Electoral Management Bodies of South Asia (FEMBoSA) from 29-30 November, 2014 in Nepal. The theme of the meeting was 'Regulating Campaign Finance - Ensuring Free and Fair Elections'. The high level delegations led by Commissioners senior officials of the Election Management Bodies of SAARC countries were present in the meeting for sharing lessons learned and best practices.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -13,7 +13,7 @@ partner_type:
 project_title: Online South-South Cooperation Portal for Real-time Access to South-South-related Information
 scale: regional
 project_objective: This portal serves as a one-stop shop for the most-requested information on South-South cooperation. As an additional value added, the Portal is meant to provide various institutions active in the domain of SSC with an opportunity to promote their relevant online tools and other information resources featuring their solutions, technologies, expertise and proposals. From the end-user point of view, this would eventually mean more standardized, interchangeable and thus easily accessible information.
-territorial_focus: 
+territorial_focus: n/a
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

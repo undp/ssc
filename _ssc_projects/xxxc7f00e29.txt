@@ -11,7 +11,7 @@ partner_type:
 project_title: Regional consultation and CDA Observatory
 scale: regional
 project_objective: UNDP led a Libyan delegation to Jordan for a regional consultation attended by civil society representatives and academics from the region for the UNDP Regional Initiative ‘Fostering the Inclusive Participation and Effective Contribution of Arab Women in the Public Sphere‘(Mosharaka).
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

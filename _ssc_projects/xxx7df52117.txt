@@ -10,7 +10,7 @@ partner_type:
 project_title: Study Tour on Social Protection and Poverty for the Government of Jamaica (GOJ) in Peru and Chile in cooperation with the International Policy Centre for Inclusive Growth (IPC-IG)
 scale: regional
 project_objective: The aim of the Study Tour was to provide the PIOJ with pertinent knowledge and experiences to advance the country’s efforts in strengthening its poverty reduction and social protection strategies. The initiative would enable the GOJ to adopt options for designing and implementing locally appropriate Social Protection Floors, increase capacity to analyze social protections needs and gaps, and increase knowledge and technical expertise to strengthen its poverty reduction strategies.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

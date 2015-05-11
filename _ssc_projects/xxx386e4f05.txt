@@ -10,7 +10,7 @@ partner_type:
 project_title: Integrating crosscutting issues (CCIs)  in cross-border infrastructure projects using the Kazungula Bridge Project as a case study.
 scale: regional
 project_objective: UNDP Zambia organized a south to south engagement for Government Botswana, Namibia, and Zimbabwe. The objective of this cooperation was to share country and regional experiences on the status of integrating crosscutting issues (CCIs) particularly health, HIV and gender in the EA processes in accordance with the project phases and strengthen regional cooperation on integrating CCIs in cross-border infrastructure projects using the Kazungula Bridge Project as a case study.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

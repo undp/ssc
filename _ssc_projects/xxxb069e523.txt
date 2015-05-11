@@ -10,7 +10,7 @@ partner_type:
 project_title: China-Cambodia-UNDP Trilateral Cooperation Cassava Project Phase II
 scale: regional
 project_objective: The Cambodia cassava project Phase2 aims to bring benefits to cassava farmers by mobilizing knowledge and expertise mainly from China. Through a needs assessment, an environmental study, a training manual and a business-matching exercise, the project addressed challenges faced in the Cambodian cassava sector, promoting direct export of cassava to the Chinese market. The Trilateral cooperation project also supports Chinese bilateral assistance to focus on achieving poverty reduction objectives.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - builder_of_capacities

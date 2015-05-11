@@ -10,7 +10,7 @@ partner_type:
 project_title: Experience exchange with Kyrgyzstan in the area of management of small arms and lights weapons and ensuring their safekeeping
 scale: country-country
 project_objective: In 2014, representatives of Kyrgyzstan Ministry of Defense came to Belarus to see several small arms and light weapons storages improved within the framework of UNDP project and learn best practices.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

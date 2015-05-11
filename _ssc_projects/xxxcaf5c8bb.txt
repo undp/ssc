@@ -10,7 +10,7 @@ partner_type:
 project_title: Cooperation between Constitutional Courts on Chambers of Accounts
 scale: regional
 project_objective: To establish the cooperation with Constitutional Courts of Moldova, Georgia, Latvia and with Mongolia on Chamber of Accounts.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: “Legal Empowerment and Capacity Building” at BRAC Centre, Dhaka - Bangladesh on 14-15 December 2014.
 scale: country-country
 project_objective: The South Asian Institute of Advanced Legal and Human Rights Studies (SAILS) has organized a workshop “Legal Empowerment and Capacity Building”. The Workshop was a step to discuss the possibility of a regional level training curriculum for the Community Paralegals. The curriculum will focus on local dispute resolution, gender and legal right.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

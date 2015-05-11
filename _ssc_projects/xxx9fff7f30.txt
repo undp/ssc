@@ -10,7 +10,7 @@ partner_type:
 project_title: Developing the cooperation between civil service academies in the Central Asia
 scale: country-country
 project_objective: UNDP facilitated the participation of the Rector of Civil Service Academy under the President of Turkmenistan in the round-table on Effective Public Services organized by the Regional Civil Service Hub in Kazakhstan. Turkmenistan's CSA was able to establish important contacts with the peers in the region and currently entertains the idea of joining the Hub.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

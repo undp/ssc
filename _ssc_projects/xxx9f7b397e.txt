@@ -10,7 +10,7 @@ partner_type:
 project_title: South-South and Triangular Cooperation of SME Development in Asia
 scale: regional
 project_objective: The SME project objective is to support the strengthening of SME policy formulation and institutional reform as well as institutional support for training, technological exchanges and market access in the Least Developed Countries (LDCs) and other countries in the region through South-South Cooperation.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

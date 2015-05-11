@@ -10,7 +10,7 @@ partner_type:
 project_title: UN/Mexican Government Coordination Initiative de led by AMEXCID and UNDP
 scale: 
 project_objective: To coordinate collaboration between the UN and the Mexican government in terms of South-South cooperation (SSC), the UNDP and AMEXCID analyzed agency support for SSC in Mexico through a participatory process involving government entities and UN agencies in Mexico. Through the SSC interagency group, led by UNDP, and based on continuous mapping of all joint initiatives, SSC is expected to benefit from greater coordination in the future.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
 published: true

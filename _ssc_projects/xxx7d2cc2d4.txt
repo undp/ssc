@@ -10,7 +10,7 @@ partner_type:
 project_title: Mutual exchange and learning of country experience and expertise on efforts towards graduating from LDC status
 scale: country-country
 project_objective: In view of Nepal's decision to graduate from LDC by 2022, team of six government officials visited Bangladesh to learn from Bangladesh's experience in integrating LDC agenda into Planning, policy making and budgeting.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

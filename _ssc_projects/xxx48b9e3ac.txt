@@ -10,7 +10,7 @@ partner_type:
 project_title: Study tour by the Ukrainian Parliament Commissioner for Human Rights (Ombudsperson), its office and representatives of relevant ministries to Georgia
 scale: country-country
 project_objective: Representatives of state authorities (Office of the Ombudsperson, Ministry of Justice, Ministry of Foreign Affairs, Secretariat of the Cabinet of Ministers, and Parliament Committee on Human Rights) visited Tbilisi to gain insight into the experience of their Georgian counterparts in the development of the National Strategy on Human Rights and Action Plan.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

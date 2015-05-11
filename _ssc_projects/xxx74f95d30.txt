@@ -10,7 +10,7 @@ partner_type:
 project_title: Northeast Asia Regional Cooperation Programme and Support to the Greater Tumen Initiative (GTI)
 scale: regional
 project_objective: With facilitation from UN RC & UNDP RR, the GTI “Concept Paper on Legal Transition” was endorsed by 4 member governments at the 15th GTI Consultative Commission Meeting in September. It lays the foundation for GTI to implement legal transition by 2016. The Northeast Asian EXIM Banks Association Inaugural Meeting was held back-to-back with the GTI meeting. The Association will provide needed capital into the Northeast Asian region, especially in basic infrastructure and transportation.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

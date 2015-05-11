@@ -10,7 +10,7 @@ partner_type:
 project_title: Study Exchange on Disaster Management and Climate change in Vietnam
 scale: country-country
 project_objective: Delegation from Lao PDR participated in exchange with Vietnam to learn about the process of promulgation of a law on disaster risk reduction and climate change, as Vietnam recently completed their laws on disaster management.  The  exchange also included information sharing on Early Warning Systems.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

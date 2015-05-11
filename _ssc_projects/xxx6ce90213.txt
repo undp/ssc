@@ -10,7 +10,7 @@ partner_type:
 project_title: Intercambio de experiencias sobre procesos de descentralización en Colombia, sobre todo en aquellos aspectos relacionados con la educación, salud, infraestructura, manejo ambiental y presupuestación tanto a nivel nacional como local
 scale: country-country
 project_objective: A solicitud del Gobierno, el PNUD organizó la misión, encabezada por el Designado Presidencial y Coordinador del Gabinete Sectorial en Gobernabilidad y Descentralización. Se desarrollaron una serie de reuniones con representantes del Gobierno de Colombia, la Gobernación de Cundinamarca, de Bogotá, la Federación de Municipios y académicos para conocer desde el ámbito de intervención de cada actor la evolución, los aciertos, desaciertos y desafíos del proceso de descentralización en su país
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

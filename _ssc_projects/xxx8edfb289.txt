@@ -10,7 +10,7 @@ partner_type:
 project_title: Professionnalisation des services du Fonds National de Finance Inclusive
 scale: country-country
 project_objective: Voyage realise aupres des cadres du Fonds National de la Microfinance pour etudier les modalites le financement des activites generatrices de revenus, la gestion du partenariat avec les prestataires de services financiers et la collecte des informations et des donnees sur les beneficiaires.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
   - facilitator_of_partnerships

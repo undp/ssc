@@ -10,7 +10,7 @@ partner_type:
 project_title: Connecting ASEAN Provinces and Strengthening Partnership through South-South Cooperation (Provincial Governance Strengthening Programme Project, PGSP 57787)
 scale: regional
 project_objective: UNDP continued facilitating the discourse on enhancing the role of provincial government within Indonesia’s South-South framework. The ASEAN Forum Meeting was conducted in June 2014 under the special initiative entitled “Connecting ASEAN Provinces and Strengthening Partnership through South-South Cooperation”.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

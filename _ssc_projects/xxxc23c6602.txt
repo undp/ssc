@@ -10,7 +10,7 @@ partner_type:
 project_title: Experiencia sobre el registro único de beneficiarios de programas sociales
 scale: country-country
 project_objective: Se compartió con el Ministerio de Desarrollo Social la experiencia de Brasil en el registro único de beneficiarios RUB, a través de la visita de experta que dio un taller para el Ministerio. El RUB es una herramienta que permite una mejor selección de los beneficiarios y coordinación entre programas, así como el seguimiento de las corresponsabilidades y la evaluación de avances y resultados, lo que podría ser muy útil para mejorar los programas de transferencias condicionadas (TMC) en Panamá.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

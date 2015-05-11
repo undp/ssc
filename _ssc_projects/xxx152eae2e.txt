@@ -10,7 +10,7 @@ partner_type:
 project_title: South-to-South Cooperation on voting and electoral process technologies between Namibia and Zambia
 scale: country-country
 project_objective: A Team from the Electoral Commission of Zambia (including software developers and elections staff) visited Namibia during the November Presidential Elections to learn and observe the first ever implementation of e-voting in Africa. This would in turn feed into the continuous development and full roll out of the Elections Information Management System that aims to deliver results to the public in 24 hours from 48 hours, for the 2016 Elections.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

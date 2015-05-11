@@ -11,7 +11,7 @@ partner_type:
 project_title: Participatory Governance/ support to Human Rights and Family Support, Justice and Security
 scale: country-country
 project_objective: UNDP Iraq formulated a programme in Iraq to support the Government’s efforts in creating a strategy to ensure that victims of DGBV and trafficking are offered refuge and support. This programme provides comprehensive technical and advisory support combined with extensive capacity building of known key stakeholders in Iraqi government as well as with non-governmental and civil society organizations and international support missions
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -11,7 +11,7 @@ partner_type:
 project_title: UNFCCC 20th Conference of Parties (COP20) Side Event 'Designing a Low Carbon Future - Experiences from the Low Emission Capacity Building (LECB) Programme'
 scale: global 
 project_objective: The UNDP LECB Programme is supporting 25 developing countries to design Low-EmissionDevelopmentStrategies,NationallyAppropriateMitigationActions,& the underlying Measuring,Reporting&Verification(MRV)systems, thru capacity building in the public&private sectors. PHL was invited to this side event to showcase its work in setting up the framework for National Integrated Climate Change Database Information & Exchange System (NICCDIES) as an example of a robust MRV system design
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

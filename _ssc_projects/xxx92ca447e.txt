@@ -10,7 +10,7 @@ partner_type:
 project_title: Customs Union
 scale: regional
 project_objective: roper border controls are maintained for Ozone Depleting Substances
-territorial_focus: 
+territorial_focus: n/a
 undp_role_type: 
   - knowledge_broker
 published: true

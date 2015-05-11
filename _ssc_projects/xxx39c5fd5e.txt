@@ -10,7 +10,7 @@ partner_type:
 project_title: Development of input-output coefficient system under the industrial development programme
 scale: country-country
 project_objective: The major objective of the South-South initiative was to enhance the industrial coherence and to improve industrial planning through the systematization of incentives given in prioritized export oriented sub-sectors.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

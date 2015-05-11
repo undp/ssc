@@ -10,7 +10,7 @@ partner_type:
 project_title: Regional EU Integration Facility
 scale: country-country
 project_objective: Croatia is leading the regional Eu integration facility and Montenegro benefited from expert support for Chapter 24
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

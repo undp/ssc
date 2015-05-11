@@ -10,7 +10,7 @@ partner_type:
 project_title: Visita de Bolivia a  México Oficial Mayor de Promoción Económica - Sr. Francisco BalderramaCoordinadora del Programa - Lourdes CarvajalSocio - Rolando Saunero  FUNDAPROJunio 2014
 scale: country-country
 project_objective: Se ha logrado incrementar las capacidades de las autoridades locales en cuento a  experiencias de incubación y aceleración de emprendimientos. A partir de los insumos y experiencias de este intercambio, se está en proceso de implementación un modelo de incubación – aceleración de empresas en el Gobierno Municipal de La Paz.Instituciones participantes - Gobierno Municipal de La Paz con INADEM México DF, ITESM Querétaro
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

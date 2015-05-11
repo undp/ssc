@@ -10,7 +10,7 @@ partner_type:
 project_title: Exchange of drugs
 scale: global 
 project_objective: At the time of surpluss of drugs, UNDP (Global Fund unit) was able to identify partners in Thailand requiring same drugs and arrangements were made to send those drugs for the use of People Living with HIV (PLHIV) in Thailand.  In another instance, UNDP was short of a drug and through exchanges we were able to identify that UNDP IRAN CO had surplus of that drug and subsequently this drug was shipped from IRAN to Palestine.
-territorial_focus: 
+territorial_focus: n/a
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

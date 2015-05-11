@@ -10,7 +10,7 @@ partner_type:
 project_title: Intercambio de experiencias  en gestión del riesgo de desastres entre Colombia y Honduras - avances en la planificación, el ordenamiento territorial y la gestión ambiental.
 scale: country-country
 project_objective: Una delegación de COPECO y la Alcaldía de Tegucigalpa se desplazó a Bogotá (Colombia) para el intercambio de prácticas locales (organizacionales, normativas y metodológicas) de gestión de riesgos de desastres. La misión fue coordinada y asistida por la Unidad de Medio Ambiente de la CO. Se prestó especial atención a las experiencias de constitución de un fondo municipal para la gestión local de riesgos y la organización y funcionamiento de la unidad técnica municipal de gestión de riesgos.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

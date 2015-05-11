@@ -10,7 +10,7 @@ partner_type:
 project_title: Business-to Business meetings
 scale: country-country
 project_objective: The initiative derives from UNDP's support to inclusive development at sub-national level. Through the  inclusive, multi-stakehodler network established in one of the regions with UNDP support, UNDP supported business-to-business partnership between the region and Kosovo businesses, focused on investments and business development. The is listed for FYR Macedonia because Kosovo is not in the list.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

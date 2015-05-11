@@ -10,7 +10,7 @@ partner_type:
 project_title: Study visit to the Parliament of Poland on constituency relations and work of constituency offices
 scale: country-country
 project_objective: Peer-to-peer transfer of knowledge and experience regarding constituency offices of PMs
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

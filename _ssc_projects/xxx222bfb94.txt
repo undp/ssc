@@ -10,7 +10,7 @@ partner_type:
 project_title: Central Asian Regional Conference on Wheat Production Sector in the face of Climate Change Adverse Impacts
 scale: regional
 project_objective: The conference provided a dialogue platform for knowledge exchange and technology transfer in food security in the face of climate change impact in Central Asia. 200 experts, including farmers, key public decision makers, scientists and practitioners, developed the RoadMap on information flow, trade barriers and coherent system of vocational education in Kazakhstan and neighboring countries. The RoadMap provided visibility of strategic guidelines to overcome these problems.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

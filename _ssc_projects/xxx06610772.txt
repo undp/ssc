@@ -10,7 +10,7 @@ partner_type:
 project_title: Learning Visit - Coastal and Marine Biodiversity Conservation Project
 scale: country-country
 project_objective: The learning visit provided the platform for the Indian delegation to have a better understanding of the Philippines’ best coastal and marine resources management (CRM) practices, approaches and mechanisms including  learnings from experiences and good practices about the multi-country partnerships on integrated coastal management, such as Partnerships for the Environmental Management of the Seas of East Asia, to the delegation.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

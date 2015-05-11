@@ -10,7 +10,7 @@ partner_type:
 project_title: Mision realizada a la ciudad de Medellin, Colombia, para conocer y transferir la experiencia de movilidad, el plan de vialidad y la implementación del tranvía, con la participacion de tres decisores del Municipio de Cuenca
 scale: country-country
 project_objective: A partir de la mision a Medellin - 1. Se promovio el contacto del Proyecto Tranvia con la ciudadania por las redes sociales (Facebook - /TranviaenCuenca y Twitter - @Tranvia_Cuenca) y se lanzo un periodico informativo – en fisico y digital – sobre los avances de las obras2. Se socializo con los habitantes y comerciantes que se encuentran en el trayecto del tranvia y con los ninos en las escuelas.3. Se estructuro y mejoro el nuevo Plan de Movilidad de Cuenca, para ser aprobado en el 2015
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - builder_of_capacities

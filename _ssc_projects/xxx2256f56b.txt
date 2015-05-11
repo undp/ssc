@@ -10,7 +10,7 @@ partner_type:
 project_title: Support the review of the Environmental Impact Assessment for the Kazungula bridge with the view to mitigate the spread of HIV to adjacent countries (Zambia, Namibia, Botswana and Zimbabwe)
 scale: regional
 project_objective: To strengthen regional cooperation on integrating CCIs in cross-border infrastructure projects using the Kazungula Bridge Project. To formulate standard operating procedures from developed guidelines for practical integration of HIV and Gender into EIAs.To reach consensus on a common engagement framework for SADC or COMESA , with clarity on Division of Labor among Countries and Stakeholders on how to strengthen the integration of health, HIV, Gender and Human rights
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

@@ -12,7 +12,7 @@ partner_type:
 project_title: Livelihood Improvement in Tajik-Afghan Cross-border Areas (LITACA)
 scale: regional
 project_objective: A 3 years initiative to promote stability and security in the bordering provinces of Tajikistan and Afghanistan. This will be achieved by reducing poverty, supporting economic development and cross-border collaboration among the communities along the Tajik-Afghan border. Additionaly, the project will offer capacity development opportunities for the local governments, civil society and private sector organizations
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

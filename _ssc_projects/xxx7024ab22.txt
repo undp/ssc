@@ -10,7 +10,7 @@ partner_type:
 project_title: Knowledge sharing on the successful practices of business development between Georgia and Ukraine.
 scale: country-country
 project_objective: Experts from Batumi business incubator shared best practices and experience with Dnipropetrovsk Oblast Administration to support the initiative of establishing business incubator in Dnepropetrovsk region. Georgian experts, with the support of UNDP COs in Georgia and Ukraine, facilitated the design and development of implementation plan for Dnipropetrovsk business incubator, as well as helped to adjust Georgian model to Ukrainian realities.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Study visit  by senior officials from Sao Tome and Principe to Timor-Leste to learn about the Integrated Information Management Systems (IIMS)
 scale: country-country
 project_objective: The Minister of Justice, Prosecutor General and Chief Justice of Sao Tome and Principe visited Timor-Leste from 23 – 28 February for a study trip to gather information about the Integrated Information Management Systems (IIMS).
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

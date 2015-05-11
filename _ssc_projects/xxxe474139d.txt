@@ -12,7 +12,7 @@ partner_type:
 project_title: Training course on Natural Resource Management and Human Development at Columbia University
 scale: global 
 project_objective: To support the formulation of, and ensure follow-up on the recommendations from the NHDR, GoPNG participated in this training course, exchanging lessons and experiences with representatives from Government, civil society and private sector from other countries.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

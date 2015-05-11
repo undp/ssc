@@ -10,7 +10,7 @@ partner_type:
 project_title: Study Exchange between the Ugandan Electoral Commission and the National Electoral Commission (NEC) of Sierra Leone
 scale: country-country
 project_objective: UNDP supported the hosting of a study tour between the Ugandan Electoral Commission and the National Electoral Commission (NEC) of Sierra Leone on “Political Participation of Persons with Disabilities” with a view to sustained relationship on capacity support and information exchange on electoral management.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true

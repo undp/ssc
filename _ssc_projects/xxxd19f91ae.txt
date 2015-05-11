@@ -10,7 +10,7 @@ partner_type:
 project_title: Study visit of elections administrators to the Albanian Elections Management Body
 scale: country-country
 project_objective: The objective of the study visit was to lear about the compilation and processing of the voter lists in the context of the personal data protection standards
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

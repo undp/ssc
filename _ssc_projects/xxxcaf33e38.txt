@@ -10,7 +10,7 @@ partner_type:
 project_title: Exchange of experience on employment programmes
 scale: country-country
 project_objective: The Ministry of Social Welfare and Youth of the Republic of Albania has given priority to the issue of youth employment, particularly the promotion of entrepreneurship and self-employment as means to income generation.  A high level exchange on the design and implementation of this programmes with the Employment Agency and UNDP in Macedonia was a great learning opportunity that is now starting to be replicated in Albania.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

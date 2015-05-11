@@ -10,7 +10,7 @@ partner_type:
 project_title: Government of Jamaica Study Tour in Chile and Peru
 scale: regional
 project_objective: Study tour organized by UNDP offices in Jamaica and Peru, with support of International Poverty Center facility in Brazil, to facilitate Jamaica's technical public sector staff knowledge exchange about social protection policy and programmes and social policy.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: Guiana Shield Biodiversity Corridors to streamline support for the achievement of the Aichi Biodiversity Targets (E19)
 scale: regional
 project_objective: The workshop reviewed existing examples of biodiversity corridors within the Guiana Shield and best practice guidance from around the world; identified and analysed common opportunities, threats and challenges facing the conservation units within these corridors; agreed on the Aichi Targets that could be achieved by implementing trans-boundary cooperation actions on biodiversity corridors; and outlined the work plan for follow up.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

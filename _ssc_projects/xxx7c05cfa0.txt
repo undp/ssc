@@ -10,7 +10,7 @@ partner_type:
 project_title: Knowledge Exchange on the Development of the Forest Governance Index for REDD+ Implementation (Participatory Governance Assessment for REDD+, PGA-REDD+ 71337)
 scale: country-country
 project_objective: The Indonesia and Vietnam COs jointly facilitated a knowledge sharing activity on the implementation of the PGA for REDD+ in Indonesia. Indonesia officials shared  information on their work in providing robust REDD+ governance data, lessons learned, & also strategies to fit PGA into the implementation of the larger REDD+ programme. Participants also looked at examples of how different Indonesian actors are using the PGA data & stakeholder platforms in their work.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

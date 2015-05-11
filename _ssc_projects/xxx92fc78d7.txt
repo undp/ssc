@@ -10,7 +10,7 @@ partner_type:
 project_title: Improving the Financial Sustainability of the Carpathian System of Protected Areas
 scale: regional
 project_objective: One of the legacies of the project is a professionally developed and presented on-line ‘e-Learning platform’ on sustainable financial management of protected areas, hosted by the website of the Carpathian Network of Protected Areas (http -//e learning.carpathianparks.org/login/index.php ). The course grew out of a project-supported regional needs assessment of both capacity development needs and preferred learning methods
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

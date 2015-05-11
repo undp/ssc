@@ -10,7 +10,7 @@ partner_type:
 project_title: Internship of two advisers from the Parliament Committee on National Security to the Parliament of Georgia
 scale: country-country
 project_objective: The advisers from the Moldovan Parliament Committee on National Security have recieved a hands-on experience, recieved knowledge from peers and developed the skills in the parliament oversight on the security sector
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

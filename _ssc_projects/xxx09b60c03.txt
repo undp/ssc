@@ -10,7 +10,7 @@ partner_type:
 project_title: Ahorro familiar y mejoramiento de dieta de mujeres y hombres de familias pobres de El Salvador utilizando artefactos mejorados para disminuir el consumo de leña y usar la energía solar
 scale: country-country
 project_objective: 180 familias de zonas rurales con alta vulnerabilidad ante la pobreza y el hambre son beneficiadas. Participó en intercambio y aprendizaje de  transferencia de tecnologías socialmente apropiadas al fabricar e instalar 4 diferentes tipos de  cocinas ahorradoras de leña,
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

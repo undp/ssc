@@ -10,7 +10,7 @@ partner_type:
 project_title: Collaboration between UNDP Rwanda and UNDP Kenya on Human Development Course.
 scale: country-country
 project_objective: Kenyatta University and Pavia University in Italy developed a Master’s course on Economic and Human Development aimed at building a pool of experts with human development skills to advocate for the mainstreaming these components in policies and programme. The Rwanda CO contacted Kenya CO to organize a 5-day study tour to meet with key partners supporting the initiative. The composition of the Rwanda mission included UNDP, University and Government Representatives.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

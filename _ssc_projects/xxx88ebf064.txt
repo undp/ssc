@@ -10,7 +10,7 @@ partner_type:
 project_title: Joint study by Belarusian and Ukrainian experts of the actual environmental impact of chalk extraction activities.
 scale: country-country
 project_objective: A team comprising Belarusian and Ukrainian experts conducted post-project environmental impact assessment of chalk extracting activities conducted by a Belarusian enterprise on the Khotislauskaya chalk deposit in close proximity to the Ukrainian border. Actual impact was identified and a monitoring system reporting to the both sides, Belarus and Ukraine, established. Recommendations for post-project analysis were developed and submitted to Belarus and Ukraine.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

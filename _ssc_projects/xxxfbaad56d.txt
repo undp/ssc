@@ -10,7 +10,7 @@ partner_type:
 project_title: The 5th Africa-China Poverty Reduction and Development Conference
 scale: country-country
 project_objective: The Conference “Industrial Development - Cross-perspectives from Africa and China” was co-organized by the African Union Commission, the International Poverty Reduction Center in China, the Ministry of Industry of Ethiopia, and UNDP in November in Addis Ababa, Ethiopia. More than 100 African government officials and representatives from organizations, including the African Development Bank, IMF, and UNIDO addressed African industrialisation strategies, and ideas for future action with China.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

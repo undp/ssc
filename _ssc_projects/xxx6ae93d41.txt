@@ -10,7 +10,7 @@ partner_type:
 project_title: Collaboration with IIT Madras
 scale: country-country
 project_objective: The help of IIT Madras was sought to help in the development of the Coastal Engineering courses delivered at the University of Mauritius. Through the Adaptation Fund Board project, the local university was put in touch with IIT Madras for the development of specialised Masters levels courses. The UNDP project paid for the development of the handbooks and the visits to Mauritius by the Indian Experts.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

@@ -10,7 +10,7 @@ partner_type:
 project_title: A Regional Strategy in support of South-South Cooperation (SSC) in the Arab States
 scale: regional
 project_objective: Strategy aimed at addressing existing knowledge, communication and resource gaps towards further advancing South-South and triangular cooperation for development in the Arab States region.
-territorial_focus: 
+territorial_focus: n/a
 undp_role_type: 
   - builder_of_capacities
 published: true

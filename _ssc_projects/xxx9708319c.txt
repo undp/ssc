@@ -10,7 +10,7 @@ partner_type:
 project_title: Sierra Leone - Ghana Media Collaboration
 scale: country-country
 project_objective: A media delegation from Sierra Leone vsisted Ghana and interacted with the Ghana Broadcasting Corporation, Ghana Institute of Journalism, African College of Communication, UNESCO, Ghana Network of Community Radio Network and West Africa Media with a view to establish collaboration between the stakeholders in the media sector of the two countries.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

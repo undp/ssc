@@ -10,7 +10,7 @@ partner_type:
 project_title: 00088474 Proyecto Agrocadenas - Apoyada la gestion del conocimiento en genero a traves de la  presentacion de la experiencia cubana del Sistema de  Gestion de Calidad con Equidad de Genero (IGECSA) en el II Foro Regional de Empresas por la Igualdad de Genero, en Colombia.
 scale: country-country
 project_objective: Apoyada la gestion del conocimiento en genero a traves de la  presentacion de la experiencia cubana del Sistema de  Gestion de Calidad con Equidad de Genero (IGECSA) en el II Foro Regional de Empresas por la Igualdad de Generoy la Convocatoria “Experiencias que marcan la diferencia - Transversalidad de la igualdad de genero en las politicas publicas de America Latina y el Caribe”, donde IGECSA fue seleccionada entre las iniciativas destacadas de la region.
-territorial_focus: 
+territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
 published: true

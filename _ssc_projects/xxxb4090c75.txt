@@ -10,7 +10,7 @@ partner_type:
 project_title: Knowledge Exchange visit to Vietnam on law-making process and penal code
 scale: country-country
 project_objective: The Lao delegation led by Vice Minister of Justice went on a study tour to learn about the law-making process and penal code in Vietnam.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

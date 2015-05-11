@@ -10,7 +10,7 @@ partner_type:
 project_title: Africa Umbrella Trilateral Cooperation Programme
 scale: global 
 project_objective: In 2014, the trilateral umbrella programme in Africa ($1 million  contribution from MOFCOM) led to the design of two trilateral  cooperation projects with Burundi (renewable energy) and Malawi (disaster management). The two new trilateral projects will be launched in Q1 of 2015. In December 2014, MOFCOM allocated an additional $1 million contribution for another two new trilateral cooperation projects to be designed and launched in 2015.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
 published: true

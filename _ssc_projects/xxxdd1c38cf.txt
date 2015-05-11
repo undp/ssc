@@ -10,7 +10,7 @@ partner_type:
 project_title: National coffee platform initiative - experience sharing visit to Guatemala and Costa Rica on best implementation of the National Coffee Platform programme.
 scale: country-country
 project_objective: The major objective was to gain experience from the pineapple and coffee platforms in Costa Rica and Guatemala respectively. The visit in particular tried to see how policy initiatives and regulations on quality enhancement and sustainability of coffee export could be addressed through the establishment of a coffee platform.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

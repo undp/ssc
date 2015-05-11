@@ -10,7 +10,7 @@ partner_type:
 project_title: Platform /High Level Dialogue in the Area of Disaster Risk Reduction
 scale: regional
 project_objective: The Platform /high level dialogue in the area of disaster risk reduction achieved with Disaster Management Authorities of Central Asian countries
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

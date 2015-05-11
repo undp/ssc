@@ -10,7 +10,7 @@ partner_type:
 project_title: Mision e intercambio de experiencia del Ministerio de Agricultura de Cuba (MINAG)  y gobiernos locales cubanos, con el Ministerio de Agricultura Acuacultura y Pesca (MAGAP) de Ecuador y sus experiencias territoriales
 scale: country-country
 project_objective: En dos misiones diferentes (marzo y diciembre 2014) directivos del Ministerio de Agricultura de Cuba (MINAG)  y gobiernos locales cubanos, conocieron y analizaron conjuntamente con las autoridades y directivos del Ministerio de Agricultura Acuacultura y Pesca (MAGAP) de Ecuador y de provincias ecuatorianas, las experiencias relevantes y exitosas de implementacion de la articulacion publico - privada y nacional - local en el fomento de la produccion de alimentos y la seguridad alimentaria.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

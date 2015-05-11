@@ -10,7 +10,7 @@ partner_type:
 project_title: Consultation exchange on the national long term development strategy – lesson learnt from countries with a similar political system (Vietnam and China)
 scale: regional
 project_objective: The Government of Lao PDR through the Ministry of Planning and Investment is in the process of formulating the next five year development plan (8th NSEDP 2016-2020) and the long term development strategy 2025 which includes vision 2030. The government requested UNDP to facilitate and enable an exchange on lessons and experiences on the long term development strategy between Vietnam and Lao PDR on 24th June and with China on 12th September in Vientiane, Lao PDR.
-territorial_focus: 
+territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
 published: true

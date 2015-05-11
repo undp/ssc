@@ -10,7 +10,7 @@ partner_type:
 project_title: Visita de Cuba y Brasil de Cecilia Fonseca y Jose Luis RodriguezSeptiembre 2014
 scale: country-country
 project_objective: Se han fortalecidas las capacidades locales del Ministerio de Desarrollo Productivo para incorporar experiencias de industrialización inclusiva de otros países. Principalmente del Ministerio de Economía de Cuba y del Sebrae de Brasil. Las cuales se han han incorporado al Plan Sectorial Productivo 2014-2018.Instituciones - SEBRAE – Brasil y Gobierno Nacional de Cuba
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

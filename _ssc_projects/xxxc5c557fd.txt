@@ -10,7 +10,7 @@ partner_type:
 project_title: Healthcare waste management
 scale: country-country
 project_objective: ensured the sharing and exchange of methodologies and experiences and most importantly in the context of translating the results, findings and recommendations into the country specific situation
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

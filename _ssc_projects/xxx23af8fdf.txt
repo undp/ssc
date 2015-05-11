@@ -10,7 +10,7 @@ partner_type:
 project_title: Workshop on Legislative techniques and Legal Approximation
 scale: country-country
 project_objective: Exchange of experience on methods and technics of the parliament's legal work related to the legal approximation to EU
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

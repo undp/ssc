@@ -10,7 +10,7 @@ partner_type:
 project_title: Best Practices for Access to Electoral Justice and the promotion of  a Culture of Legality (The Federal Electoral, TEPJF)
 scale: regional
 project_objective: The project objective is to enhance the capabilities of the Electoral Tribunal for citizen democracy and promote participation and the rights of indigenous peoples in order to bridge the gaps of exclusion and inequality. A major component of the project is the bidirectional exchange of best practices in terms of access to electoral justice and promotion of the culture of legality - with special emphasis directed towards priority audiences such as the indigenous peoples and communities.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

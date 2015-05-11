@@ -10,7 +10,7 @@ partner_type:
 project_title: Study Tour to Kyrgyzstan
 scale: country-country
 project_objective: To obtain a broader understanding of the best practices of the introduced sustainable pasture management in Kyrgyzstan.
-territorial_focus: 
+territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
 published: true

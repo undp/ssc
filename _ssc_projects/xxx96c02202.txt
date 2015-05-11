@@ -10,7 +10,7 @@ partner_type:
 project_title: Support to Ministry of Environment and Spatial Planning
 scale: regional
 project_objective: 1. Study visit to BulgariaThe main goal of this study tour is that participants return to Kosovo and are able to initiate the procedures for the development of the QA/QC plan, and suggests modalities of selection of the GHG baseline year.2. Training held in AlbaniaThe aim of this training was to enable proper reporting to Energy Community Treaty. The training was on Monitoring, Verification and Evaluation of Energy Efficiency measures for the Kosovo Agency for Energy Efficiency staff.
-territorial_focus: 
+territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
 published: true
