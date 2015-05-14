@@ -13,9 +13,7 @@ project_objective: UNDP Barbados supported the 1st Regional South-South Cooperat
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
-project_link: Results/follow-up actions/Lessons learned: 
-Ref: http://saberdelsur.org/en
-
+project_link: http://saberdelsur.org/en
 published: true
 import_source: 275
 ---
