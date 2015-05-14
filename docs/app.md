@@ -1,10 +1,35 @@
-# Application structure
+# Information for developers
+
+Contents:
+
+- [Deployment](#deployment) and backup
+- [Development tools](#development-tools)
+- [Application structure](#application-structure) folders, etc
+- [Globals](#globals) used in application
+
+
+## Deployment
+
+Hosted on Github pages. 
+
+Push any changes onto the `gh-pages` branch, and the site will be rebuilt and redeployed almost immediately.
+
+### Backup deployment
+
+As a backup hosting option, we used [Netlify](https://www.netlify.com), which gives a simple drag-drop upload of the site, and makes it available [here](https://ssc.netlify.com).
+
+## Development tools
+
+The awesome folks at [Browserstack](https://www.browserstack.com) helped out with a free account to simplify the testing across multiple devices.
+
+
+## Application structure
 
 - Built for vanilla [Jekyll](www.jekyllrb.com), to use Github pages hosting. See [`deploy.md`](docs/deploy.md) for information on deployment.
 - It is a [Backbone](backbonejs.org) application written in [Coffeescript](coffeescript.org).
 - Makes use of the [Backbone.Facetr](https://github.com/arillo/Backbone.Facetr) library to simplify filtering the data.
 
-## Folder structure
+### Folder structure
 
 - **_includes** - main Backbone application (see [below](#_includes))
 - **_sass** - [SASS](http://sass-lang.com) files, compiled by Jekyll
@@ -25,7 +50,7 @@
 - **package.json** - used by admin scripts (*not in production*)
 
 
-### `_includes`
+#### `_includes`
 
 - **app.coffee** - creates the application (`app` global), and performs first fetch of data
 - **collections** - `Projects`, `Filters`, and some supporting Backbone Collections
@@ -47,11 +72,4 @@ Two global variables are used:
 
 - `app` has properties set in only `script.coffee` (`projects`, `filters`, `state` and `router`) and `utils.coffee` (`utils`).
 - `preloadData` contains the `countries` and `indices` data bootstrapped into `index.html` on page load.
-
-
-# Deployment
-
-Hosted on Github pages. 
-
-Push any changes onto the `gh-pages` branch, and the site will be rebuilt and redeployed almost immediately.
 
