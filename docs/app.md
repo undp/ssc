@@ -22,6 +22,7 @@ As a backup hosting option, we used [Netlify](https://www.netlify.com), which gi
 
 The awesome folks at [Browserstack](https://www.browserstack.com) helped out with a free account to simplify the testing across multiple devices.
 
+![BrowserStack](https://www.dropbox.com/s/at96ozgj3vc64cw/Screenshot%202015-05-14%2015.35.03.png?dl=1)
 
 ## Application structure
 
