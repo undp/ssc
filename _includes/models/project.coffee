@@ -11,5 +11,5 @@ class Project extends Backbone.Model
       if !_.isArray(@get(field))
         values = @get(field).split(",")
         @set(field, _.map(values, (i) -> 
-          s.underscored(i.trim().toLowerCase())
+          s.underscored(s.trim(i).toLowerCase())
         ))
