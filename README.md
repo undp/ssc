@@ -1,6 +1,6 @@
 # UNDP SSC Mapping and data explorer
 
-Based on a subset of data from http://open.undp.org, presents and maps additional attributes specific to South-South Cooperation.
+The application presents and maps project information about UNDP's South-South and Triangular Cooperation activities.
 
 ## Contents
 
