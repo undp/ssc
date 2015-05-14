@@ -14,6 +14,7 @@ project_objective: The Government of Ethiopia and UNDP have developed a robust p
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.et.undp.org/content/ethiopia/en/home/ourwork/democraticgovernance/successstories/Accessingfreelegalaid11/ 
 published: true
 import_source: 275
 ---

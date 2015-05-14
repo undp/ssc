@@ -13,6 +13,7 @@ project_objective: Training activities under Tonga Governance Strengthening Prog
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.undp.org/content/fiji/en/home/operations/projects/democratic_governance/TGSP.html
 published: true
 import_source: 469
 ---

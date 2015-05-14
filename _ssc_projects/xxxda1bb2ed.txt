@@ -13,6 +13,7 @@ project_objective: Malaria Concept note (CN) in Afghanistan finalized and submit
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

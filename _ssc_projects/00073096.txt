@@ -15,6 +15,7 @@ project_objective: One of the project objectives is to strengthen the structure 
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00073096
 published: true
 import_source: 275
 ---

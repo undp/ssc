@@ -16,6 +16,7 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
+project_link: http://www.pnud.org.co/img_upload/36353463616361636163616361636163/70219_PRODOC_2009.pdf
 published: true
 import_source: 275
 ---

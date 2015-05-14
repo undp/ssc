@@ -14,6 +14,7 @@ project_objective: To build upon and expand the UNDP Uzbekistan assistance to pa
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00060222
 published: true
 import_source: 275
 ---

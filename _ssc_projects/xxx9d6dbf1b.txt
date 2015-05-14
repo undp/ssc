@@ -15,6 +15,7 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
+project_link: http://www.cn.undp.org/content/china/en/home/library/south-south-cooperation/undp-china-south-south-cooperation-2013-highlights/
 published: true
 import_source: 275
 ---

@@ -13,6 +13,7 @@ project_objective: Teams of Nepalese and Pakistani officials visited Bhutan to l
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

@@ -13,6 +13,7 @@ project_objective: Based on requests received from national counterparts for ass
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

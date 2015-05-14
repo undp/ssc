@@ -13,6 +13,7 @@ project_objective: UNDP Belarus supported visit of representatives of the Minist
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

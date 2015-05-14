@@ -17,6 +17,7 @@ project_objective: To support modernization of agriculture in Cuba
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00057985
 published: true
 import_source: 275
 ---

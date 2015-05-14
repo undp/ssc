@@ -13,6 +13,7 @@ project_objective: The Conference was organized by Government of Turkey and UNDP
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: 
 published: true
 import_source: 469
 ---

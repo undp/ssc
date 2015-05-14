@@ -14,6 +14,7 @@ project_objective: To overcome barriers to sustainability of Thailand's protecte
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00059058
 published: true
 import_source: 275
 ---

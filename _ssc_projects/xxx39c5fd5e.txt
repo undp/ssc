@@ -13,6 +13,7 @@ project_objective: The major objective of the South-South initiative was to enha
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

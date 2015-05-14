@@ -13,6 +13,7 @@ project_objective: In 2013, it was carried on the first sub-regional workshop fo
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

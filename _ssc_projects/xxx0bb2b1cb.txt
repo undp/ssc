@@ -13,6 +13,7 @@ project_objective: These were benchmarking study visits to understand best pract
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

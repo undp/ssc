@@ -13,6 +13,7 @@ project_objective: Strengthen capacity of marginalized population of Somalia to 
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

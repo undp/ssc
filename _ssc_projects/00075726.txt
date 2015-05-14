@@ -15,6 +15,7 @@ project_objective: To support the Uruguayan Agency for International Cooperation
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00075726
 published: true
 import_source: 275
 ---

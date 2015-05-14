@@ -13,6 +13,7 @@ project_objective: WLP-SSTC aims to assess the potential for south-south coopera
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

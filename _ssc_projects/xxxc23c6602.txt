@@ -13,6 +13,7 @@ project_objective: Se compartió con el Ministerio de Desarrollo Social la exper
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

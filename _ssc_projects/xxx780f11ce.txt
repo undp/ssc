@@ -15,6 +15,7 @@ territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
+project_link: http://www.undp.org/content/dam/undp/documents/projects/KOS/00051398/Dragash%20Implementation%20ProDoc_August%2026%202010.pdf
 published: true
 import_source: 275
 ---

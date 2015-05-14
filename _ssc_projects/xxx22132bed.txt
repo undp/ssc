@@ -13,6 +13,7 @@ project_objective: Dans le cadre de cette cooperation, il s'agira de contribuer 
 territorial_focus: 
 undp_role_type: 
   - builder_of_capacities
+project_link: 
 published: true
 import_source: 469
 ---

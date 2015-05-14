@@ -13,6 +13,7 @@ project_objective: Se transfirieron las experiencias de Mexico y Haiti en el des
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

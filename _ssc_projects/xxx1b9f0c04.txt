@@ -14,6 +14,7 @@ project_objective: This workshop provided a platform where key stakeholders from
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

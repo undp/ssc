@@ -29,6 +29,7 @@ territorial_focus: sids
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
+project_link: http://crmi-undp.org/en/index.php/
 published: true
 import_source: 275
 ---

@@ -15,6 +15,7 @@ project_objective: The programme certifies companies with gender-friendly labour
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 275
 ---

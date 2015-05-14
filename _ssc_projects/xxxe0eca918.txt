@@ -13,6 +13,7 @@ project_objective: The scoping mission would engage with all stakeholders to col
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: 
 published: true
 import_source: 469
 ---

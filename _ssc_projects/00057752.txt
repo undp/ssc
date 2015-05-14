@@ -15,6 +15,7 @@ project_objective: To increase the democratic governance and the rule of law in 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00057752
 published: true
 import_source: 275
 ---

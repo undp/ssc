@@ -13,6 +13,7 @@ project_objective: GoPNG undertook a peer review of the Marshall Islands and the
 territorial_focus: sids
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: 
 published: true
 import_source: 469
 ---

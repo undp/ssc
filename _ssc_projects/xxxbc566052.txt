@@ -13,6 +13,7 @@ project_objective: The Cuban RRMC model was tested for adaptability to the natio
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

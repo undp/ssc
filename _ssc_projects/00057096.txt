@@ -15,6 +15,7 @@ project_objective: Embedding of globally significant agro-biodiversity conservat
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00057096
 published: true
 import_source: 275
 ---

@@ -14,6 +14,7 @@ scale: country-country
 project_objective: Se ha logrado promover un primer intercambio de experiencias, buenas prácticas, lecciones aprendidas en desarrollo económico local, relacionada a la articulación público – privado – academia, orientado principalmente a la temática de Uvas, vinos, singanis y otros. Actualmente se está buscando financiamiento para profundizar los intercambios en dos temáticas priorizadas comunes a cada territorios.
 territorial_focus: mic
 undp_role_type: 
+project_link: 
 published: true
 import_source: 469
 ---

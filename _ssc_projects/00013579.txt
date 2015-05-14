@@ -13,6 +13,7 @@ scale: country-country
 project_objective: The initiative includes  eight projects with high social and economic impact (among which are health issues, environment, natural disasters, housing, telecommunications, transport and energy) which have significant progress in strengthening policies for social development in the Mesoamerican region and have efficient mechanisms of coordination to achieve the MDGs.
 territorial_focus: mic
 undp_role_type: 
+project_link: http://open.undp.org/#project/00013579
 published: true
 import_source: 275
 ---

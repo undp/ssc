@@ -14,6 +14,7 @@ project_objective: To establish the necessary institutional and individual capac
 territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: Link: http://www.undp.org/content/dam/undp/documents/projects/SLB/Final%20UN-REDD%20Initial%20National%20Programme%20document%20Solomon%20Islands%203May2011%20(with%20Signed%20pages).pdf
 published: true
 import_source: 275
 ---

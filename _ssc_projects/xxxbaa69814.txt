@@ -13,6 +13,7 @@ project_objective: ensured the sharing and exchange of methodologies and experie
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

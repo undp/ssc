@@ -13,6 +13,7 @@ project_objective: In 2014, representatives of Kyrgyzstan Ministry of Defense ca
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

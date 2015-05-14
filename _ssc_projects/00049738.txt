@@ -14,6 +14,7 @@ project_objective: To strengthen national capacities for the Government of Turke
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: http://open.undp.org/#project/00049738
 published: true
 import_source: 275
 ---

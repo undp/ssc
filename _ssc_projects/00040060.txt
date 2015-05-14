@@ -14,6 +14,7 @@ project_objective: To support Niger in achieving MDG 5 UNDP Niger since 2006 has
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00040060
 published: true
 import_source: 275
 ---

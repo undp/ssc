@@ -13,6 +13,7 @@ project_objective: Definir les axes de partenariats et de collaboration techniqu
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

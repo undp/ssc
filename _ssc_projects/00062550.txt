@@ -18,6 +18,7 @@ undp_role_type:
   - builder_of_capacities
   - knowledge_broker
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00062550
 published: true
 import_source: 275
 ---

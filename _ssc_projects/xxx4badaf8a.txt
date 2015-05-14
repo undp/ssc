@@ -13,6 +13,7 @@ project_objective: Une visite d’étude  est  effectuée par une délégation M
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

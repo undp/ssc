@@ -13,6 +13,7 @@ project_objective: Officials from the Bangladesh Ministry of Power, Energy and M
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.undp.org/content/bangladesh/en/home/operations/projects/environment_and_energy/barrier-removal-to-the-cost-effective-development-and-implementa.html
 published: true
 import_source: 469
 ---

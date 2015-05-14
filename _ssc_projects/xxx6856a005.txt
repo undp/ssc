@@ -12,6 +12,7 @@ scale: regional
 project_objective: Se sistematizó la experiencia de movilización de las economías locales vinculadas al turismo interno que abarcó 197 municipios de 262 total del país. Que ha sido en presentada incluso en eventos internacionales, como el Foro Internacional de Desarrollo Económico Local en Iguazú, Brasil  en noviembre 2014.
 territorial_focus: mic
 undp_role_type: 
+project_link: 
 published: true
 import_source: 469
 ---

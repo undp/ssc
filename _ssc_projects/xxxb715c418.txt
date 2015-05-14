@@ -14,6 +14,7 @@ project_objective: To accelerate political commitment for the formulation and im
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.mapsprogramme.org/, http://www.southsouthnorth.org/
 published: true
 import_source: 275
 ---

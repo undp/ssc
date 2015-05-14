@@ -16,6 +16,7 @@ project_objective: To strengthen the management of the system of protected areas
 territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00056866
 published: true
 import_source: 275
 ---

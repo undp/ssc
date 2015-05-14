@@ -16,6 +16,7 @@ project_objective: To support regional food security through increased resilienc
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00069534
 published: true
 import_source: 275
 ---

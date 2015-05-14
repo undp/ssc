@@ -15,6 +15,7 @@ project_objective: To increase capacity & understanding of Government, private s
 territorial_focus: ldc
 undp_role_type: 
   - builder_of_capacities
+project_link: http://open.undp.org/#project/00072706
 published: true
 import_source: 275
 ---

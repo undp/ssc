@@ -14,6 +14,7 @@ project_objective: The was conceived as a South-South Cooperation between the Go
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 275
 ---

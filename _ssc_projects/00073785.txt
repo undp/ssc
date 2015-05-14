@@ -16,6 +16,7 @@ project_objective: To enhance national, regional and local capacity for disaster
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00073785
 published: true
 import_source: 275
 ---

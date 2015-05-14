@@ -13,6 +13,7 @@ project_objective: The Lao delegation led by Vice Minister of Justice went on a 
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

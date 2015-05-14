@@ -20,6 +20,7 @@ project_objective:
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.cehi.org.lc/index.php/projects/10-programmes-a-projects/28-sustainable-land-management
 published: true
 import_source: 275
 ---

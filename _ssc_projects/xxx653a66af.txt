@@ -13,6 +13,7 @@ project_objective: Del 19 al 21 de mayo tuvo lugar el V Encuentro de Magistradas
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

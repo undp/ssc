@@ -15,6 +15,7 @@ project_objective: To promote policy cooperation of the Government of Chile thro
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00062466
 published: true
 import_source: 275
 ---

@@ -14,6 +14,7 @@ project_objective: To consolidate Brazilian SSC throughout the institutional str
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: http://www.undp.org/content/dam/undp/documents/projects/BRA/13-08-16AR%20BRA13008%20PRODOC%20final%20%28arquivo
 published: true
 import_source: 275
 ---

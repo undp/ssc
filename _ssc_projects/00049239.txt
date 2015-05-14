@@ -14,6 +14,7 @@ project_objective: Capacity Building for Planning, Decision Making and Regulator
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00049239
 published: true
 import_source: 275
 ---

@@ -13,6 +13,7 @@ project_objective: Peer learning and knowledge transfer on opportunities and lim
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

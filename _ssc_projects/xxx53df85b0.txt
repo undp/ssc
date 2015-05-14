@@ -15,6 +15,7 @@ project_objective: To enhance parliamentary processes and procedures to improve 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.undp.org/content/dam/undp/documents/projects/TKM/00059442/Parliamentary%20Development_ProDoc.pdf
 published: true
 import_source: 275
 ---

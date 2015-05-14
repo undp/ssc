@@ -30,6 +30,7 @@ project_objective: To improve water resources management and water use efficienc
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00051446
 published: true
 import_source: 275
 ---

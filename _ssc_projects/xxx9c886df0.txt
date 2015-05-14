@@ -13,6 +13,7 @@ project_objective: The initiative seeks to strengthen the institutional capacity
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.undp.org/content/malaysia/en/home/operations/projects/crisis_prevention_and_recovery/86622-peacekeeping-phase2.html
 published: true
 import_source: 469
 ---

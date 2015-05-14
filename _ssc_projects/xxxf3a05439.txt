@@ -13,6 +13,7 @@ project_objective: IRAS Project based in the National Agriculture and Forestry R
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.undp.org/content/lao_pdr/en/home/operations/projects/environment_and_energy/IRAS.html
 published: true
 import_source: 469
 ---

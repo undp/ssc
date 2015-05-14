@@ -16,6 +16,7 @@ project_objective: To further develop the capacities of the IMPACT Centre to bec
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00039746
 published: true
 import_source: 275
 ---

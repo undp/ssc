@@ -13,6 +13,7 @@ project_objective: High level technical advice for drafting the country's new Na
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

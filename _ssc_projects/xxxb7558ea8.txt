@@ -13,6 +13,7 @@ project_objective: Presentados productos del conocimiento en gestion para la Red
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

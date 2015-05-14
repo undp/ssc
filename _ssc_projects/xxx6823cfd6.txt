@@ -13,6 +13,7 @@ project_objective: Serbia and several other UNDP offices in RBEC region develope
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: 
 published: true
 import_source: 469
 ---

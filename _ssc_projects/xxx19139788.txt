@@ -13,6 +13,7 @@ project_objective: UNDP organized a monitoring and evaluation workshop among cou
 territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
+project_link: 
 published: true
 import_source: 469
 ---

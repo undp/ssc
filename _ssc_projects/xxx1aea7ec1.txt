@@ -13,6 +13,7 @@ project_objective: The major objectives was to critically analyze the public adm
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

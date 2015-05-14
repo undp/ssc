@@ -15,6 +15,7 @@ project_objective: Coordination, Monitoring and Evaluation of Cuba Country Pilot
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00049286
 published: true
 import_source: 275
 ---

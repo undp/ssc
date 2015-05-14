@@ -13,6 +13,7 @@ project_objective: In 2013 UNDP was asked by the Ministry of Commerce and Chines
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: 
 published: true
 import_source: 469
 ---

@@ -13,6 +13,7 @@ project_objective: L’objet de ce projet promu par Barbados e l’OECS et de re
 territorial_focus: sids, mic
 undp_role_type: 
   - builder_of_capacities
+project_link: 
 published: true
 import_source: 469
 ---

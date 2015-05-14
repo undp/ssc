@@ -15,6 +15,7 @@ project_objective: To promote family/community vegetable gardens to fight food i
 territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00079220
 published: true
 import_source: 275
 ---

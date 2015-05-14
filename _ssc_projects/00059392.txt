@@ -16,6 +16,7 @@ project_objective: To contribute to the reduction of environment and security ri
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00059392
 published: true
 import_source: 275
 ---

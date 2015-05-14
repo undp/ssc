@@ -14,6 +14,7 @@ project_objective: To deploy the combined development strengths, expertise and e
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://www.cn.undp.org/content/china/en/home/library/south-south-cooperation/undp-china-south-south-cooperation-2013-highlights/
 published: true
 import_source: 275
 ---

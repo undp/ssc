@@ -13,6 +13,7 @@ project_objective: Government representatives from Gazipur city partnered with t
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

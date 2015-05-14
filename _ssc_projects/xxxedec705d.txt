@@ -13,6 +13,7 @@ project_objective: Officials from the National Development Bank of Palau visited
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.undp.org/content/fiji/en/home/operations/projects/environment_and_energy/Palau_SEDREA.html
 published: true
 import_source: 469
 ---

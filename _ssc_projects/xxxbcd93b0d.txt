@@ -13,6 +13,7 @@ project_objective: En el marco de un Acuerdo de asociación estratégica entre U
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

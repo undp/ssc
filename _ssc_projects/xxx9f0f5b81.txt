@@ -13,6 +13,7 @@ project_objective: Dans le cadre de l’appui que le PNUD apporte à la stratég
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

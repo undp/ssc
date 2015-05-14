@@ -13,6 +13,7 @@ project_objective: The study visit has contributed to the increase of knowledge 
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.undp.org/content/timor_leste/en/home/operations/projects/crisis_prevention_and_recovery/TL_CPR_Peacebuildingproject.html
 published: true
 import_source: 469
 ---

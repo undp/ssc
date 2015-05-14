@@ -15,6 +15,7 @@ project_objective: To strengthen institutional and human capacity in peace suppo
 territorial_focus: ldc
 undp_role_type: 
   - builder_of_capacities
+project_link: http://open.undp.org/#project/00056497
 published: true
 import_source: 275
 ---

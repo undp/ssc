@@ -13,6 +13,7 @@ project_objective: employ knowledge management and South-South and triangular pa
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

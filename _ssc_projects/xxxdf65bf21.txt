@@ -14,6 +14,7 @@ project_objective: The South African government hosted a high level delegation l
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

@@ -20,6 +20,7 @@ project_objective: To support countries from the South in the design, implementa
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.socialprotectionfloor-gateway.org/47.htm; file:///Users/AniaMac/Downloads/33235.pdf; http://www.social-protection.org/gimi/gess/ShowProjectPage.do?pid=1596
 published: true
 import_source: 275
 ---

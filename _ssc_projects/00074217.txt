@@ -15,6 +15,7 @@ project_objective: To contribute to the consolidation of Mexico as South-South c
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: http://open.undp.org/#project/00074217
 published: true
 import_source: 275
 ---

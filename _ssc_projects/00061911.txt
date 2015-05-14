@@ -14,6 +14,7 @@ project_objective: To support the national efforts to reduce income poverty thro
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00061911
 published: true
 import_source: 275
 ---

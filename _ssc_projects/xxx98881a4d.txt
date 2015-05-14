@@ -13,6 +13,7 @@ project_objective: 26 Zambian farmers (19 males & 7 females) visited Zimbabwe 3-
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

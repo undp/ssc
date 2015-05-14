@@ -14,6 +14,7 @@ project_objective: To build bridges between local government and young people by
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00068654
 published: true
 import_source: 275
 ---

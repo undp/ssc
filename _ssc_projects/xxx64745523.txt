@@ -13,6 +13,7 @@ project_objective: UNDP supported EMBs (NEC & ZEC) learning mission to Kenya and
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

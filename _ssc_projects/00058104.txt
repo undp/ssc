@@ -15,6 +15,7 @@ project_objective: To promote sustainable development through Peace Building, Go
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00058104
 published: true
 import_source: 275
 ---

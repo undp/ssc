@@ -15,6 +15,7 @@ project_objective: A 3 years initiative to promote stability and security in the
 territorial_focus: fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: 
 published: true
 import_source: 469
 ---

@@ -19,6 +19,7 @@ project_objective: To dismantle the barriers to the implementation of energy eff
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00061005
 published: true
 import_source: 275
 ---

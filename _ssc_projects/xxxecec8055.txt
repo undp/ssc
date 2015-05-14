@@ -14,6 +14,7 @@ project_objective: To support the Ministry of Foreign Affairs to assume a define
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: Prodoc was emailed to me.
 published: true
 import_source: 275
 ---

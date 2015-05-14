@@ -13,6 +13,7 @@ project_objective: The CBDM Asia project aims to strengthen regional South-South
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

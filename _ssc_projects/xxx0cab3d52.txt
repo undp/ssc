@@ -13,6 +13,7 @@ project_objective: UNDP supported climate risk management focal person from 3 mi
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

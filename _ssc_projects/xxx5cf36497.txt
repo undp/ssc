@@ -15,6 +15,7 @@ project_objective: To introduce the basic principles of Islamic micro-finance an
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: http://mirror.undp.org/sudan/Presspdf/2013/PR-%20Islamic%20Microfinance%20Workshop%20-English.pdf
 published: true
 import_source: 275
 ---

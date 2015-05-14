@@ -18,6 +18,7 @@ project_objective: To establish an integrated programme that facilitates results
 territorial_focus: sids
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00051472
 published: true
 import_source: 275
 ---

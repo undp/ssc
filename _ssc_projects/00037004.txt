@@ -14,6 +14,7 @@ project_objective: The project aims to design and implement Brazilian South-Sout
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: http://open.undp.org/#project/00037004
 published: true
 import_source: 275
 ---

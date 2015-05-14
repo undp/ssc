@@ -13,6 +13,7 @@ project_objective: The learning visit provided the platform for the Indian deleg
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

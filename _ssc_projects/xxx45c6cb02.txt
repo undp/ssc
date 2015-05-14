@@ -16,6 +16,7 @@ territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
+project_link: http://www.undp.org/content/dam/sierraleone/docs/projectdocuments/demgov/undp_sle_IBSAprodoc.pdf
 published: true
 import_source: 275
 ---

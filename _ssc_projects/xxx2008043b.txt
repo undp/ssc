@@ -13,6 +13,7 @@ project_objective: AREDP, RED KAN and HELMAND know-how trainings in New Delhi, I
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

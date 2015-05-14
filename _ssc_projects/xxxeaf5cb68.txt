@@ -13,6 +13,7 @@ project_objective: The platform brings together peace practitioners and mediator
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

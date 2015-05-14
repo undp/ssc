@@ -16,6 +16,7 @@ project_objective: To support the Government of Iraq's efforts in creating a rei
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00065578
 published: true
 import_source: 275
 ---

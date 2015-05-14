@@ -14,6 +14,7 @@ project_objective: To strengthen institutions by contributing to the removal of 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00059713
 published: true
 import_source: 275
 ---

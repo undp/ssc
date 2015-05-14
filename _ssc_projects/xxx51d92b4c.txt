@@ -13,6 +13,7 @@ project_objective: Assistance to design and develop technical solutions for use 
 territorial_focus: hic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

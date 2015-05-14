@@ -13,6 +13,7 @@ project_objective: Apoyada la gestion del conocimiento en genero a traves de la 
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

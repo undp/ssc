@@ -13,6 +13,7 @@ project_objective: To coordinate collaboration between the UN and the Mexican go
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: 
 published: true
 import_source: 469
 ---

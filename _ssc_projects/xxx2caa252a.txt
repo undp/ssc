@@ -18,6 +18,7 @@ project_objective: Deepen community engagement by scaling up citizen action for 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://web.ng.undp.org/projects/7th_CP/Capacity_Governance_Programme/dgttf.shtml
 published: true
 import_source: 275
 ---

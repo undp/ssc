@@ -15,6 +15,7 @@ project_objective: This programme will support and improve local management of e
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00048025
 published: true
 import_source: 275
 ---

@@ -13,6 +13,7 @@ project_objective: 1) I-Kiribati Environmental Impact Assessment (EIA)  (nationa
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

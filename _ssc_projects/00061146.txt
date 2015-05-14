@@ -15,6 +15,7 @@ project_objective: The objective of the project is to contribute to a more secur
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00061146
 published: true
 import_source: 275
 ---

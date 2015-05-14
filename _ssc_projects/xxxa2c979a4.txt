@@ -14,6 +14,7 @@ project_objective:
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.kh.undp.org/content/cambodia/en/home/ourwork/democraticgovernance/successstories1/undp-brings-indigenous-people-radio-experiences-from-laos-to-cam.html
 published: true
 import_source: 275
 ---

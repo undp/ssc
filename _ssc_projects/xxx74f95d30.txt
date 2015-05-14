@@ -13,6 +13,7 @@ project_objective: With facilitation from UN RC & UNDP RR, the GTI “Concept Pa
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://www.undp.org/content/china/en/home/operations/projects/poverty_reduction/northeast-asia-regional-cooperation-programme.html
 published: true
 import_source: 469
 ---

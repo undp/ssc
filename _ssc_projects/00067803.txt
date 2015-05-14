@@ -15,6 +15,7 @@ project_objective: Objectives- Strengthen South-South and Triangular Cooperation
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: http://open.undp.org/#project/00067803
 published: true
 import_source: 275
 ---

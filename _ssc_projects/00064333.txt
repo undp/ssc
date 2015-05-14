@@ -16,6 +16,7 @@ territorial_focus: ldc
 undp_role_type: 
   - builder_of_capacities
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00064333
 published: true
 import_source: 275
 ---

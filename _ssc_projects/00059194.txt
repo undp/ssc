@@ -16,6 +16,7 @@ project_objective: To improve the financial sustainability of protected area (PA
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00059194
 published: true
 import_source: 275
 ---

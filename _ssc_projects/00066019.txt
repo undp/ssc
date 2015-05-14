@@ -14,6 +14,7 @@ project_objective: To promote and facilitate the widespread application of build
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00066019
 published: true
 import_source: 275
 ---

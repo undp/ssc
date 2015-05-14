@@ -13,6 +13,7 @@ project_objective: UNDP's global forum for policy dialogue and South-South learn
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: http://open.undp.org/#project/00051146
 published: true
 import_source: 275
 ---

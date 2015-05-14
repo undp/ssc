@@ -16,6 +16,7 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
+project_link: http://open.undp.org/#project/00059731
 published: true
 import_source: 275
 ---

@@ -15,6 +15,7 @@ project_objective: To support new constitutional reforms, especially those relat
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00069719
 published: true
 import_source: 275
 ---

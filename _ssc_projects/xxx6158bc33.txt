@@ -13,6 +13,7 @@ project_objective: UNDP/PAPP was entrusted by the IBSA Forum (India, Brazil and 
 territorial_focus: n/a
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: 
 published: true
 import_source: 469
 ---

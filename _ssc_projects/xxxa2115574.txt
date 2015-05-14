@@ -13,6 +13,7 @@ project_objective: Desde el Programa DIPECHO VIII, el consorcio conformado por P
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

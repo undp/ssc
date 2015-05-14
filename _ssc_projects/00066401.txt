@@ -16,6 +16,7 @@ territorial_focus: sids
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
+project_link: http://open.undp.org/#project/00066401
 published: true
 import_source: 275
 ---

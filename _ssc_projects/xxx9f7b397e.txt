@@ -13,6 +13,7 @@ project_objective: The SME project objective is to support the strengthening of 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.undp.org/content/malaysia/en/home/operations/projects/poverty_reduction/77131_South-SouthSME.html
 published: true
 import_source: 469
 ---

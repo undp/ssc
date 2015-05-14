@@ -14,6 +14,7 @@ project_objective: To contribute to the government's efforts for enhancing inclu
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: http://open.undp.org/#project/00071181 
 published: true
 import_source: 275
 ---

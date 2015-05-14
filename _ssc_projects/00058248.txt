@@ -14,6 +14,7 @@ project_objective: To mainstream Climate Change Adaptation (CCA) mechanisms in M
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00058248
 published: true
 import_source: 275
 ---

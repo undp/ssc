@@ -14,6 +14,7 @@ project_objective: To achieve integral sustainable development in the region Tri
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://elibrary.worldbank.org/doi/pdf/10.1596/1020-797X_12_2_30
 published: true
 import_source: 275
 ---

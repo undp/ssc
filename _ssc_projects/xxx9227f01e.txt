@@ -13,6 +13,7 @@ project_objective: Le PTFM a suscité un partage d’expériences avec la Guiné
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

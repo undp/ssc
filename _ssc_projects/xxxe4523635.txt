@@ -13,6 +13,7 @@ project_objective: It is an opportunity for knowledge and information sharing ai
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

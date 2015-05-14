@@ -13,6 +13,7 @@ project_objective: Organized by UNDP, ESCAP and ADB, this event improved the par
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

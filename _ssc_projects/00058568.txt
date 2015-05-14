@@ -17,6 +17,7 @@ project_objective: The aim of this initiative is the economic integration for pe
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project-00058568
 published: true
 import_source: 275
 ---

@@ -13,6 +13,7 @@ project_objective: The initiatives enhanced the capacity of the various institut
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

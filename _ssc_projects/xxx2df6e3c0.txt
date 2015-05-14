@@ -13,6 +13,7 @@ project_objective: A draft policy on issues of financing and access to credit fo
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

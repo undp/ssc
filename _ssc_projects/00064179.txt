@@ -15,6 +15,7 @@ territorial_focus: fragile_states
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
+project_link: http://open.undp.org/#project/00064179
 published: true
 import_source: 275
 ---

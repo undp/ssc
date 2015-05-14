@@ -16,6 +16,7 @@ project_objective: The project would contribute to the overall goal of conservin
 territorial_focus: sids
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00056926
 published: true
 import_source: 275
 ---

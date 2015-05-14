@@ -14,6 +14,7 @@ project_objective: To develop technical and institutional capacities for the pre
 territorial_focus: sids,mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00061625
 published: true
 import_source: 275
 ---

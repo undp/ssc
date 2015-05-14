@@ -22,6 +22,7 @@ project_objective: To identify, plan and implement South-South cooperation proje
 territorial_focus: 
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00037179
 published: true
 import_source: 275
 ---

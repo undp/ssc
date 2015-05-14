@@ -15,6 +15,7 @@ project_objective: To contribute to social peace building, human development, de
 territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
+project_link: http://open.undp.org/#project/00058220
 published: true
 import_source: 275
 ---

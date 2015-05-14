@@ -15,6 +15,7 @@ project_objective: The project aims to remove capacity barriers to the sustainab
 territorial_focus: mic
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00049750
 published: true
 import_source: 275
 ---

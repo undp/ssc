@@ -15,6 +15,7 @@ project_objective: The project's strategy is based on the belief that the fulfil
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00064876
 published: true
 import_source: 275
 ---

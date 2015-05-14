@@ -13,6 +13,7 @@ project_objective: Quinze (15) responsables de la ville de Niamey, appuyés par 
 territorial_focus: ldc
 undp_role_type: 
   - builder_of_capacities
+project_link: 
 published: true
 import_source: 469
 ---

@@ -13,6 +13,7 @@ project_objective: The project objective is to enhance the capabilities of the E
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

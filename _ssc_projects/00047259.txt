@@ -15,6 +15,7 @@ project_objective: To support the Governmental Office of Gender Equality in the 
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00047259
 published: true
 import_source: 275
 ---

@@ -15,6 +15,7 @@ territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00070609 
 published: true
 import_source: 275
 ---

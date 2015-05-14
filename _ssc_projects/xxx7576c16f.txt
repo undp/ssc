@@ -13,6 +13,7 @@ project_objective: UNDP partnered with the Election Commission of India to promo
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.undp.org/content/india/en/home/operations/projects/democratic_governance/supporting-democratic-electoral-management0.html
 published: true
 import_source: 469
 ---

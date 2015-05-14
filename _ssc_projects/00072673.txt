@@ -16,6 +16,7 @@ project_objective: To further the legal empowerment agenda at the regional, nati
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00072673
 published: true
 import_source: 275
 ---

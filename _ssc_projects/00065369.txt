@@ -22,6 +22,7 @@ project_objective: To contribute to poverty reduction and food security strength
 territorial_focus: ldc,mic,sids
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00065369
 published: true
 import_source: 275
 ---

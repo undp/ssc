@@ -15,6 +15,7 @@ territorial_focus: mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker
+project_link: http://www.undp.org/content/dam/undp/documents/projects/THA/00057971/Final%20approved%20prodoc%20BRESL.pdf
 published: true
 import_source: 275
 ---

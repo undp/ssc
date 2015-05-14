@@ -13,6 +13,7 @@ project_objective: 130 people participated in study visits for Sustainable Manag
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

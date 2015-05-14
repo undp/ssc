@@ -13,6 +13,7 @@ project_objective: L initiative vise l’échange de bonnes pratiques entre pays
 territorial_focus: 
 undp_role_type: 
   - builder_of_capacities
+project_link: 
 published: true
 import_source: 469
 ---

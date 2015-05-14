@@ -13,6 +13,7 @@ project_objective: This Project seeks to develop a continuous training curriculu
 territorial_focus: sids
 undp_role_type: 
   - facilitator_of_partnerships
+project_link: http://www.undp.org/content/maldives/en/home/operations/projects/democratic_governance/igp-result-area-2.html
 published: true
 import_source: 469
 ---

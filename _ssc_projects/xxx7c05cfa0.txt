@@ -13,6 +13,7 @@ project_objective: The Indonesia and Vietnam COs jointly facilitated a knowledge
 territorial_focus: mic
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

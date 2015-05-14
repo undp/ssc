@@ -15,6 +15,7 @@ project_objective: To address the intersecting needs and challenges facing the j
 territorial_focus: fragile_states
 undp_role_type: 
   - knowledge_broker
+project_link: http://open.undp.org/#project/00073548
 published: true
 import_source: 275
 ---

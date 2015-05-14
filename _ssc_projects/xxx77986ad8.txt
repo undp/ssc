@@ -13,6 +13,7 @@ project_objective: In consultation with Vietnam line agencies and the Hue Univer
 territorial_focus: ldc
 undp_role_type: 
   - knowledge_broker
+project_link: 
 published: true
 import_source: 469
 ---

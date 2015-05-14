@@ -42,6 +42,7 @@ project_objective: To help countries share country level experiences in the Asia
 territorial_focus: fragile_states,ldc,mic
 undp_role_type: 
   - knowledge_broker
+project_link: http://www.aideffectiveness.org/CDDE-Capacity-Development-for-Development-Effectiveness-Facility.html#about_cdde
 published: true
 import_source: 275
 ---
