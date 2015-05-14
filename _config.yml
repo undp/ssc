@@ -13,6 +13,8 @@ exclude:
   - Gulpfile.js
   - package.json
   - admin_scripts
+  - ssc.paw
+  - ssc.sublime-project
 markdown: kramdown
 collections:
   ssc_projects:
