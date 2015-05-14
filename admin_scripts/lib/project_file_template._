@@ -14,6 +14,7 @@ project_objective: <%= project_objective %>
 territorial_focus: <%= territorial_focus %>
 undp_role_type: <% _.each(undp_role_type, function(i) { %>
   - <%= i %><% }); %>
+project_link: <%= project_link %>
 published: true
 import_source: <%= import_source %>
 ---

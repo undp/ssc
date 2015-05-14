@@ -9,6 +9,7 @@
   <div class="project-details">
     <div class="detail-title"><%= project.project_title %></div>
     <div class="detail-line">
+      <%= project.project_id %>
       <div class="detail-heading">Country</div>
       <div class="detail-content">
         <% _.each(project.country, function(item) { %>
@@ -44,6 +45,14 @@
         <% }) %>
       </div>
     </div>
+    <% if(project.project_link !== '') { %>
+      <div class="detail-line">
+        <div class="detail-heading">External project link</div>
+        <div class="detail-content">
+          <a href='<%= project.project_link %>' target='_blank'>Link</a>
+        </div>
+      </div>
+    <% } %>
     <div class="detail-line">
       <div class="detail-heading">Project objective</div>
       <div class="detail-content"><%= project.project_objective %></div>

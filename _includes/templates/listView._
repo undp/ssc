@@ -5,7 +5,7 @@
       </div>
       <div class="item-detail">
         <div class="project-title">
-        <%= project.project_title %>
+          <%= project.project_title %>
         </div>
       </div>
     </a>
