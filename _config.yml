@@ -1,3 +1,5 @@
+gems:
+  - jekyll-coffeescript
 editor:
   github_repo: undp/ssc
   url: "http://prose.io"

@@ -1,6 +1,6 @@
 ---
 ---
-[{% for project in site.collections.ssc_projects.docs %}
+[{% for project in site.ssc_projects %}
     {
         "project_id": "{{ project.relative_path | remove: "_ssc_projects/" | remove: ".txt" }}",
         "open_project_id": "{{ project.open_project_id }}",
