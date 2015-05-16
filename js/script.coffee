@@ -41,7 +41,8 @@ app.config =
 {% include routers/router.coffee %} # Router
 
 # Utilities
-{% include utils/utils.coffee%}
+{% include utils/utils.coffee %}
+{% include utils/console.coffee %} # Ensure 'console' exists, for IE8
 
 # Launch
 {% include app.coffee %}
