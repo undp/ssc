@@ -1,3 +1,7 @@
+API_KEY            = app.config.parse.apiKey
+APP_ID             = app.config.parse.appID
+API_URL            = app.config.parse.apiURL
+
 # 
 # Attached to StateModel to facilitate persisting of state to local 
 # and remote stores

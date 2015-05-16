@@ -1,7 +1,13 @@
 ---
 ---
-baseurl = "{{ site.baseurl }}"
-app = window.app = {}
+window.app ?= {}
+app.config = 
+  initialViewState: 'list'  # TODO: @prod Ensure this is 'map'
+  repo: '{{ site.editor.github_repo }}'
+  parse:
+    apiKey : 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
+    appID  : 'vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO'
+    apiURL : 'https://api.parse.com/1/classes/stateData'
 
 # Models and Collections
 {% include models/filter.coffee %}
@@ -39,5 +45,3 @@ app = window.app = {}
 
 # Launch
 {% include app.coffee %}
-app.config = 
-  repo: '{{ site.editor.github_repo }}'
