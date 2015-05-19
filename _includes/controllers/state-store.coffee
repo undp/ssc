@@ -70,17 +70,12 @@ class StateStore
   # RETRIEVE
   # 
   restore: (stateRef) => # Retores a StateModel from a `stateRef` 
-    return false unless stateRef?
-    deferred = $.Deferred()
-
-    foundLocal = @_findLocal(stateRef)
-
-    if foundLocal
-      deferred.resolve(foundLocal) 
-    else
-      @_findRemote(stateRef, deferred)
-
-    return deferred.promise()
+    new Promise( (resolve, reject) =>
+      if foundLocal = @_findLocal(stateRef)
+        resolve(foundLocal)
+      else
+        @_findRemote(stateRef, deferred)
+    )
 
   _findLocal: (stateRef) ->
     retrieved = localStorage.getItem(stateRef)

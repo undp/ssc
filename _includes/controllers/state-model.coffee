@@ -29,11 +29,11 @@ class StateModel extends Backbone.Model
       return callback()
 
     @_store.restore(stateRef) # Returns a $.Deferred().promise()
-      .done (stateData) => 
+      .then (stateData) => 
         state = _.extend(stateData, stateRef: stateRef)
         @_restoreFromFound(state)
         callback()
-      .fail => 
+      .catch (error) => 
         @_restoreFromFallbackState(fallbackState, stateRef)
         callback()
 
