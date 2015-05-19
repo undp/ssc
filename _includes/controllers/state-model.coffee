@@ -21,17 +21,11 @@ class StateModel extends Backbone.Model
 
   attemptRestoreStateFromUrl: (options, callback) ->
     throw 'No options given' unless options?
-
-    fallbackFilter = @_validFilter(options.action, options.value)
-    fallbackViewState = @_validViewState(options.viewState)
-
-    fallbackState  =
-      filterState: fallbackFilter
-      viewState  : fallbackViewState
+    fallbackState = @_buildFallbackState(options)
 
     stateRef = options.stateRef
     unless stateRef?
-      @_restoreFromFallback(fallbackFilter, stateRef) 
+      @_restoreFromFallbackState(fallbackState, stateRef) 
       return callback()
 
     @_store.restore(stateRef) # Returns a $.Deferred().promise()
@@ -40,8 +34,16 @@ class StateModel extends Backbone.Model
         @_restoreFromFound(state)
         callback()
       .fail => 
-        @_restoreFromFallback(fallbackFilter, stateRef)
+        @_restoreFromFallbackState(fallbackState, stateRef)
         callback()
+
+  _buildFallbackState: (options) ->
+    fallbackFilter = @_validFilter(options.action, options.value)
+    fallbackViewState = @_validViewState(options.viewState)
+
+    fallbackState  =
+      filterState: fallbackFilter
+      viewState  : fallbackViewState
 
   _updateUrlForState: ->
     if (projectId = @get('projectId'))
@@ -118,7 +120,8 @@ class StateModel extends Backbone.Model
     else
       @_resetState()
 
-  _restoreFromFallback: (fallbackFilter, stateRef) ->
+  _restoreFromFallbackState: (fallbackState, stateRef) ->
+    fallbackFilter = fallbackState.filterState
     if fallbackFilter
       @_setFiltersFromArray([fallbackFilter])
     else if stateRef
