@@ -142,14 +142,14 @@ class StateModel extends Backbone.Model
 
     @_addFilterState(facetName, facetValue)
     @collection.addFacet(facetName, facetValue)
-    @_trackFilterActions('add', facetName, facetValue) unless options.silent
+    @_trackFilterActions('add', facetName, facetValue) unless options.noTrack
 
   removeFilter: (options) ->
     {facetName, facetValue} = options
     throw "Can't remove non-existent Facet" unless @_facetAlreadyActive(facetName, facetValue)
     @_removeFilterState(facetName, facetValue)
     @collection.removeFacet(facetName, facetValue)
-    @_trackFilterActions('remove', facetName, facetValue) unless options.silent
+    @_trackFilterActions('remove', facetName, facetValue) unless options.noTrack
 
   clearFilters: ->
     @set 'filterState', []
@@ -164,7 +164,7 @@ class StateModel extends Backbone.Model
   _setFiltersFromArray: (filterArray) ->
     _.each filterArray, (filter) =>
       @_restoring = true
-      @addFilter(facetName: filter.name, facetValue: filter.value, silent: true)
+      @addFilter(facetName: filter.name, facetValue: filter.value, noTrack: true)
     @_restoring = false
 
   _addFilterState: (facetName, facetValue) ->
