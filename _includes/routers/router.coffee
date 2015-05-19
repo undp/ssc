@@ -16,9 +16,10 @@ Router = Backbone.Router.extend
       action: action
       value: value
       stateRef: app.utils.getUrlParams().stateRef
+      callback: =>
+        @_renderExplorerView()
     )
 
-    @_renderExplorerView()
 
   _notFound: (notFound) ->
     console.warn 'No route matched', notFound
