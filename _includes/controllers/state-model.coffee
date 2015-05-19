@@ -19,22 +19,29 @@ class StateModel extends Backbone.Model
 
     @_store = new StateStore(stateModel: @) # Mixin/Utility class
 
-  attemptRestoreStateFromUrl: (options) ->
+  attemptRestoreStateFromUrl: (options, callback) ->
     throw 'No options given' unless options?
-    fallbackFilter = @_validFallbackFilter(options.action, options.value)
+
+    fallbackFilter = @_validFilter(options.action, options.value)
+    fallbackViewState = @_validViewState(options.viewState)
+
+    fallbackState  =
+      filterState: fallbackFilter
+      viewState  : fallbackViewState
+
     stateRef = options.stateRef
     unless stateRef?
       @_restoreFromFallback(fallbackFilter, stateRef) 
-      return options.callback()
+      return callback()
 
     @_store.restore(stateRef) # Returns a $.Deferred().promise()
       .done (stateData) => 
         state = _.extend(stateData, stateRef: stateRef)
         @_restoreFromFound(state)
-        options.callback()
+        callback()
       .fail => 
         @_restoreFromFallback(fallbackFilter, stateRef)
-        options.callback()
+        callback()
 
   _updateUrlForState: ->
     if (projectId = @get('projectId'))
@@ -74,21 +81,31 @@ class StateModel extends Backbone.Model
 
   isValidState: (stateToValidate) => 
     # TODO: Change to `validate` and use `isValid` builtin method instead.
-    # Currenty operates on an object with StateModel attributes, not a full model.
-    if stateToValidate.filterState?.length > 0 || stateToValidate.viewState?
-      true
-    else
-      console.error 'Invalid filter state'
+    # Currently operates on an object with StateModel attributes, not a full StateModel instance.
+    messages = []
+
+    if stateToValidate.filterState?.length <= 0
+      messages.push 'Missing filterState'
+    unless stateToValidate.viewState?
+      messages.push 'Missing viewState'
+
+    if messages.length > 0
+      console.error 'Invalid filter state', messages
       false
+    else
+      true
 
-  _validFallbackFilter: (action, value) ->
-    return false unless action? and value?
-
-    if app.filters.validFilter(action, value)
+  _validFilter: (action, value) ->
+    if app.filters.validFilter(action, value) and (action? and value?)
       fallbackFilter = 
         name: action
         value: value
+    else
+      false
 
+  _validViewState: (viewState) ->
+    validViews = ['list', 'stats', 'map']
+    _.include(validViews, viewState)
 
   # 
   # STATE RESTORATION STRATEGIES

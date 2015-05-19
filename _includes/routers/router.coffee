@@ -12,13 +12,15 @@ Router = Backbone.Router.extend
   # ROUTES
   # 
   _explorerRoute: (action, value) ->
-    app.state.attemptRestoreStateFromUrl(
+    options = 
       action: action
       value: value
       stateRef: app.utils.getUrlParams().stateRef
-      callback: =>
-        @_renderExplorerView()
-    )
+      params: app.utils.getUrlParams()
+
+    callback = => @_renderExplorerView()
+
+    app.state.attemptRestoreStateFromUrl(options, callback)
 
 
   _notFound: (notFound) ->
