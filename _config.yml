@@ -15,6 +15,9 @@ exclude:
   - admin_scripts
   - ssc.paw
   - ssc.sublime-project
+  - api_static
+  - api_dynamic
+  - _ssc_projects
 markdown: kramdown
 collections:
   ssc_projects:
