@@ -13,10 +13,9 @@ Router = Backbone.Router.extend
   # 
   _explorerRoute: (action, value) ->
     options = 
-      action: action
-      value: value
-      stateRef: app.utils.getUrlParams().stateRef
-      params: app.utils.getUrlParams()
+      action : action
+      value  : value
+      params : app.utils.getUrlParamsHash()
 
     callback = => @_renderExplorerView()
 
