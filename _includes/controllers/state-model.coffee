@@ -76,33 +76,6 @@ class StateModel extends Backbone.Model
 
     return stateData
 
-  _getRetrievalStrategy: (options) ->
-    if options.params?.stateRef?
-      'strategy_stateRef'
-    else if options.action == 'project'
-      'strategy_project'
-    else if options.action? and options.value?
-      'strategy_filter'
-    else if options.params?.viewState
-      'stategy_viewState'
-    else
-      'strategy_reset'
-
-  _strategy_project: (stateData, callback) ->
-    @set 'projectId', stateData.projectId
-    callback()
-
-  _strategy_filter: (stateData, callback) ->
-    @_buildFallbackState(stateData)
-    callback()
-
-  _strategy_viewState: (stateData, callback) ->
-    @set 'viewState', stateData.viewState
-    callback()
-
-  _strategy_reset: (stateData) ->
-    console.log 'nowhere left to run!'
-    return 'reset strategy tried'
 
   _buildFallbackState: (options) ->
     fallbackFilter = @_validFilter(options.action, options.value)
