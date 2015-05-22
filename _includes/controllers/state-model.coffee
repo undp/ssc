@@ -21,21 +21,88 @@ class StateModel extends Backbone.Model
 
   attemptRestoreStateFromUrl: (options, callback) ->
     throw 'No options given' unless options?
-    fallbackState = @_buildFallbackState(options)
+    throw 'No callback given' unless callback?
 
-    stateRef = options.stateRef
-    unless stateRef?
-      @_restoreFromFallbackState(fallbackState, stateRef) 
-      return callback()
+    stateData = @_stateDataFromOptions(options)
 
-    @_store.restore(stateRef) # Returns a $.Deferred().promise()
-      .then (stateData) => 
-        state = _.extend(stateData, stateRef: stateRef)
-        @_restoreFromFound(state)
-        callback()
-      .catch (error) => 
-        @_restoreFromFallbackState(fallbackState, stateRef)
-        callback()
+    @_store.find(stateData.stateRef)
+    .then( (result) =>
+      foundState = result.results?[0]
+      if foundState?
+        return foundState
+      else
+        throw "No record matching #{stateData.stateRef} in local or remote stores"
+    ).then( (result) ->
+      console.log('found', result)
+      @_restoreFromFound(result)
+      callback()
+    ).catch( (error) =>
+      console.error(error)
+      delete stateData.stateRef # If can't find, remove invalid stateRef
+      @_restoreFromFound(stateData)
+      callback()
+    )
+
+  # 
+  # STATE RESTORATION STRATEGIES
+  # 
+
+  _restoreFromFound: (foundState) =>
+    if @isValidState(foundState)
+      @_setState(foundState)
+      @_trackRestoreAction(@.toJSON())
+      console.log 'do track event'
+    else
+      @_resetState()
+
+  _stateDataFromOptions: (options) ->
+    stateData = {}
+
+    if options.action? and !options.action?.match /\=/
+      stateData.action = options.action
+
+    if options.value?
+      stateData.value = options.value
+
+    if (options.action?.match /project/) and options.value?
+      stateData.projectId = options.value
+      delete stateData.value
+
+    if options.params?.stateRef?
+      stateData.stateRef = options.params.stateRef 
+
+    if options.params?.viewState?
+      stateData.viewState = options.params.viewState 
+
+    return stateData
+
+  _getRetrievalStrategy: (options) ->
+    if options.params?.stateRef?
+      'strategy_stateRef'
+    else if options.action == 'project'
+      'strategy_project'
+    else if options.action? and options.value?
+      'strategy_filter'
+    else if options.params?.viewState
+      'stategy_viewState'
+    else
+      'strategy_reset'
+
+  _strategy_project: (stateData, callback) ->
+    @set 'projectId', stateData.projectId
+    callback()
+
+  _strategy_filter: (stateData, callback) ->
+    @_buildFallbackState(stateData)
+    callback()
+
+  _strategy_viewState: (stateData, callback) ->
+    @set 'viewState', stateData.viewState
+    callback()
+
+  _strategy_reset: (stateData) ->
+    console.log 'nowhere left to run!'
+    return 'reset strategy tried'
 
   _buildFallbackState: (options) ->
     fallbackFilter = @_validFilter(options.action, options.value)
@@ -108,26 +175,6 @@ class StateModel extends Backbone.Model
   _validViewState: (viewState) ->
     validViews = ['list', 'stats', 'map']
     _.include(validViews, viewState)
-
-  # 
-  # STATE RESTORATION STRATEGIES
-  # 
-
-  _restoreFromFound: (foundState) =>
-    if @isValidState(foundState)
-      @_setState(foundState)
-      @_trackRestoreAction(@.toJSON())
-    else
-      @_resetState()
-
-  _restoreFromFallbackState: (fallbackState, stateRef) ->
-    fallbackFilter = fallbackState.filterState
-    if fallbackFilter
-      @_setFiltersFromArray([fallbackFilter])
-    else if stateRef
-      return # Nothing further needed
-    else
-      @_resetState()
 
 
   # 

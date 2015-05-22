@@ -12,8 +12,8 @@ app.utils.s4 = ->
   Math.floor((1 + Math.random()) * 0x10000) .toString(16) .substring(1)
 
 app.utils.getUrlParams = ->
-  return null unless window.location.href.match(/\?/)
-  window.location.href.slice(window.location.href.indexOf('?') + 1)
+  return null unless window.location.href.match(/\?/) # Can't get params if there aren't any
+  window.location.href.slice(window.location.href.indexOf('?') + 1).split('&')
 
 app.utils.getUrlParamsHash = ->
   hashes = app.utils.getUrlParams()
