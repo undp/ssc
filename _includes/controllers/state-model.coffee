@@ -32,12 +32,11 @@ class StateModel extends Backbone.Model
         return foundState
       else
         throw "No record matching #{stateData.stateRef} in local or remote stores"
-    ).then( (result) ->
-      console.log('found', result)
+    ).then( (result) =>
       @_restoreFromFound(result)
       callback()
     ).catch( (error) =>
-      console.error(error)
+      console.info(error)
       delete stateData.stateRef # If can't find, remove invalid stateRef
       @_restoreFromFound(stateData)
       callback()
@@ -51,25 +50,20 @@ class StateModel extends Backbone.Model
     if @isValidState(foundState)
       @_setState(foundState)
       @_trackRestoreAction(@.toJSON())
-      console.log 'do track event'
     else
       @_resetState()
 
   _stateDataFromOptions: (options) ->
     stateData = {}
 
-    if options.action? and !options.action?.match /\=/
-      stateData.action = options.action
-
-    if options.value?
-      stateData.value = options.value
-
-    if (options.action?.match /project/) and options.value?
-      stateData.projectId = options.value
-      delete stateData.value
-
     if options.params?.stateRef?
       stateData.stateRef = options.params.stateRef 
+
+    if filters = @_validFilter(options.action, options.value)
+      stateData.filterState = [filters]
+      stateData.fallbackFilters = filters
+    else if (options.action?.match /project/) and options.value?
+      stateData.projectId = options.value
 
     if options.params?.viewState?
       stateData.viewState = options.params.viewState 
@@ -214,11 +208,14 @@ class StateModel extends Backbone.Model
   _setState: (stateObject) ->
     extendState = _.omit(stateObject, ['filterState'])
     state = _.extend(@defaults, extendState)
+
     @clear(silent:true).set(state, silent: true)
-    if stateObject?.filterState.length > 0
+
+    if stateObject?.filterState?.length > 0
       @_setFiltersFromArray(stateObject.filterState) 
 
   _resetState: (stateObject) =>
+    console.log 'Could rescue something useful from', stateObject
     @set(@defaults, silent: true) 
     @_updateUrlForState()
 
