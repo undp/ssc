@@ -2,7 +2,7 @@
 ---
 window.app ?= {}
 app.config = 
-  initialViewState: 'list'  # TODO: @prod Ensure this is 'map'
+  initialViewState: 'maps'
   repo: '{{ site.editor.github_repo }}'
   parse:
     apiKey : 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
