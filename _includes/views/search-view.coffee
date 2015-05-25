@@ -61,7 +61,7 @@ class SearchView extends Backbone.View
     @state.trigger('search:foundProjects', projectsFound) 
 
   _searchFilters: (term) =>
-    filterGroups = @collection.prepareFilterGroups()
+    filterGroups = @collection.presentFilterGroups()
 
     _.each filterGroups, (group) => 
       group.values = @_filterValueObjects(group.values, term)

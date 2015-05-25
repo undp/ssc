@@ -20,7 +20,7 @@ class FilterView extends Backbone.View
     @render()
 
   render: (options) =>
-    filterGroups = options?.filterGroups || @_prepareFilterGroups()
+    filterGroups = options?.filterGroups || @_presentFilterGroups()
     compiled = @template()(
       activeFilters: @_prepareActiveFilters()
       collection: @collection
@@ -43,8 +43,8 @@ class FilterView extends Backbone.View
       filter.long = app.filters.nameFromShort(filter.value)
       filter
 
-  _prepareFilterGroups: =>
-    @collection.prepareFilterGroups()
+  _presentFilterGroups: =>
+    @collection.presentFilterGroups()
 
   _showHideAllFilters: (ev) ->
     ev.preventDefault()

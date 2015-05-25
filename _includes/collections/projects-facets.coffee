@@ -44,7 +44,7 @@ ProjectsFacets =
   # PRESENT FILTER GROUPS
   # 
 
-  prepareFilterGroups: -> # TODO: @refac This is for display, so could be in a Presenter
+  presentFilterGroups: -> # TODO: @refac This is for display, so could be in a Presenter
     @_sortFacetsByActiveCount()
 
     _.map(@_facets(), (facet) =>
