@@ -70,6 +70,8 @@ class StateStore
   # RETRIEVE
   # 
   find: (stateRef) => # Retores a StateModel from a `stateRef` 
+    return Promise.reject() unless stateRef?
+
     if foundLocal = @_findLocal(stateRef)
       foundLocal.stateRef = stateRef
       return Promise.resolve(results: [foundLocal]) # Structure to match remote

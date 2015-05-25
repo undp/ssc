@@ -36,7 +36,7 @@ class StateModel extends Backbone.Model
       @_restoreFromFound(result)
       callback()
     ).catch( (error) =>
-      console.info(error)
+      console.info(error) if error?
       delete stateData.stateRef # If can't find, remove invalid stateRef
       @_restoreFromFound(stateData)
       callback()
