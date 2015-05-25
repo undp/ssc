@@ -99,6 +99,8 @@ a.group-item[data-active-filter='true'] {
 // 
 .project-details {
   height: 410px;
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
 #contentTruncated {
   margin-top: 15px;
