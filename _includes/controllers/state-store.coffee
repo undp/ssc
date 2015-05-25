@@ -69,13 +69,12 @@ class StateStore
   # 
   # RETRIEVE
   # 
-  restore: (stateRef) => # Retores a StateModel from a `stateRef` 
-    new Promise( (resolve, reject) =>
-      if foundLocal = @_findLocal(stateRef)
-        resolve(foundLocal)
-      else
-        @_findRemote(stateRef, deferred)
-    )
+  find: (stateRef) => # Retores a StateModel from a `stateRef` 
+    if foundLocal = @_findLocal(stateRef)
+      foundLocal.stateRef = stateRef
+      return Promise.resolve(results: [foundLocal]) # Structure to match remote
+    else
+      return Promise.resolve(@_findRemote(stateRef))
 
   _findLocal: (stateRef) ->
     retrieved = localStorage.getItem(stateRef)
@@ -85,7 +84,7 @@ class StateStore
     else
       return false
 
-  _findRemote: (stateRef, deferred) ->
+  _findRemote: (stateRef) ->
     $.ajax(
       url: API_URL
       type: "GET"
@@ -94,14 +93,6 @@ class StateStore
       headers:
         "X-Parse-REST-API-Key": API_KEY
         "X-Parse-Application-Id": APP_ID
-      success: (data, textStatus, jqXHR) ->
-        if data.results? and data.results.length > 0
-          retrieved = data.results[0]
-          deferred.resolve(retrieved)
-        else
-          deferred.reject()
-      error: (jqXHR, textStatus, errorThrown) ->
-        deferred.reject()
     )
 
 

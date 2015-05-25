@@ -5,7 +5,7 @@ Router = Backbone.Router.extend
   routes:
     ''               : '_explorerRoute'
     'manage'          : '_renderAdminView'
-    ':action/:value' : '_explorerRoute'
+    ':action/:value' : '_explorerRoute' # Either filter or Project
     '*notFound'      : '_notFound'
 
   # 
@@ -13,10 +13,9 @@ Router = Backbone.Router.extend
   # 
   _explorerRoute: (action, value) ->
     options = 
-      action: action
-      value: value
-      stateRef: app.utils.getUrlParams().stateRef
-      params: app.utils.getUrlParams()
+      action : action
+      value  : value
+      params : app.utils.getUrlParamsHash()
 
     callback = => @_renderExplorerView()
 

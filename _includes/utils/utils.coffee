@@ -12,7 +12,11 @@ app.utils.s4 = ->
   Math.floor((1 + Math.random()) * 0x10000) .toString(16) .substring(1)
 
 app.utils.getUrlParams = ->
-  hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&')
+  return null unless window.location.href.match(/\?/) # Can't get params if there aren't any
+  window.location.href.slice(window.location.href.indexOf('?') + 1).split('&')
+
+app.utils.getUrlParamsHash = ->
+  hashes = app.utils.getUrlParams()
   _.object(
     _.map(hashes, (rawHash) ->
       hash = rawHash.split('=')
@@ -21,7 +25,7 @@ app.utils.getUrlParams = ->
   )
 
 app.utils.generateEditingUrl = (id) ->
-  "http://prose.io/##{app.config.repo}/edit/gh-pages/_ssc_projects/#{id}.txt"  
+  "{app.config.editor.url}/##{app.config.repo}/edit/gh-pages/_ssc_projects/#{id}.txt"  
 
 app.utils.newProjectId = ->
   "xxx" + Math.floor(Math.random()*4294967295).toString(16)
