@@ -4,6 +4,8 @@ class Projects extends Backbone.Collection
 
   model: Project
 
+  localStorage: new Backbone.LocalStorage("ProjectsCollection")
+
   initialize: ->
     _.extend @, ProjectsFacets
     @initializeFacets()
