@@ -3,3 +3,4 @@ _site
 *.sublime-*
 .sass-cache
 node_modules
+.jekyll-metadata
