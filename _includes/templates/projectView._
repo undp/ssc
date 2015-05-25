@@ -58,9 +58,6 @@
       <div class="detail-content"><%= project.project_objective %></div>
     </div>
     
-    <div class="w-clearfix"><a class="edit-project-link" href="<%= project.edit_link %>">Edit SSC data</a>
-    </div>
-
     <% if(project.open_project_id != ""){ %>
       <div class="external-project-info">
         <div class="detail-heading">Additional project information at <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a></div>        
