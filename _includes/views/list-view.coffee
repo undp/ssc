@@ -2,7 +2,8 @@ class ListView extends Backbone.View
   template: -> _.template($('#listView').html())
 
   events:
-    'click .results-list-item': '_showProject'
+    'click .project-list-item': '_showProject'
+    'click .clear-search': '_clearSearch'
 
   initialize: ->
     @state = app.state
@@ -30,3 +31,7 @@ class ListView extends Backbone.View
 
   _hideFoundProjects: =>
     @render() if @_receivedFoundProjects
+
+  _clearSearch: (ev) =>
+    ev.preventDefault()
+    @state.trigger 'search:cancel'

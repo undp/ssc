@@ -5,6 +5,7 @@ class SearchView extends Backbone.View
     @state = app.state
     @listenTo @state, 'search:start', @_activateSearch
     @listenTo @state, 'change:filterState', @_cancelSearch
+    @listenTo @state, 'search:cancel', @_cancelSearch
     @render()
 
   events: 
@@ -57,8 +58,7 @@ class SearchView extends Backbone.View
 
   _searchProjects: (term) =>
     projectsFound = @collection.search(term)
-    if projectsFound?.length > 0
-      @state.trigger('search:foundProjects', projectsFound) 
+    @state.trigger('search:foundProjects', projectsFound) 
 
   _searchFilters: (term) =>
     filterGroups = @collection.prepareFilterGroups()
