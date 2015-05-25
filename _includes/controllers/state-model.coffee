@@ -115,6 +115,7 @@ class StateModel extends Backbone.Model
   # 
 
   _isValidStateToRestore: (stateToValidate) => 
+  isValidStateToStore: (stateToValidate) =>
     # TODO: Change to `validate` and use `isValid` builtin method instead.
     # Currently operates on an object with StateModel attributes, not a full StateModel instance.
     messages = []
