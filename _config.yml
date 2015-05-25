@@ -15,7 +15,7 @@ exclude:
   - Gulpfile.js
   - package.json
   - admin_scripts
-  - ssc.paw
+  - ssc paw.paw
   - ssc.sublime-project
 markdown: kramdown
 collections:
