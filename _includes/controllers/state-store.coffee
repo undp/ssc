@@ -16,7 +16,7 @@ class StateStore
   # STORE
   # 
   store: => # Stores a `StateModel`, returns a stateRef
-    if @state.isValidState(@state.toJSON())
+    if @state.isValidStateToStore(@state.toJSON())
       stateRef = @_persistState(
         filterState: @state.get('filterState')
         viewState: @state.get('viewState')

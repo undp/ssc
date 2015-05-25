@@ -47,7 +47,7 @@ class StateModel extends Backbone.Model
   # 
 
   _restoreFromFound: (foundState) =>
-    if @isValidState(foundState)
+    if @_isValidStateToRestore(foundState)
       @_setState(foundState)
       @_trackRestoreAction(@.toJSON())
     else
@@ -69,7 +69,6 @@ class StateModel extends Backbone.Model
       stateData.viewState = options.params.viewState 
 
     return stateData
-
 
   _buildFallbackState: (options) ->
     fallbackFilter = @_validFilter(options.action, options.value)
@@ -115,7 +114,7 @@ class StateModel extends Backbone.Model
   # MODEL VALIDATION
   # 
 
-  isValidState: (stateToValidate) => 
+  _isValidStateToRestore: (stateToValidate) => 
     # TODO: Change to `validate` and use `isValid` builtin method instead.
     # Currently operates on an object with StateModel attributes, not a full StateModel instance.
     messages = []
