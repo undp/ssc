@@ -24,3 +24,7 @@ class Projects extends Backbone.Collection
     while @get(newId)
       newId = app.utils.newProjectId()
     app.utils.generateEditingUrl(newId)
+
+  findForIso3: (iso3) ->
+    @filter (i) ->
+      _.include i.get('country'), iso3
