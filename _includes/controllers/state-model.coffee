@@ -215,7 +215,6 @@ class StateModel extends Backbone.Model
       @_setFiltersFromArray(stateObject.filterState) 
 
   _resetState: (stateObject) =>
-    console.log 'Could rescue something useful from', stateObject
     @set(@defaults, silent: true) 
     @_updateUrlForState()
 
