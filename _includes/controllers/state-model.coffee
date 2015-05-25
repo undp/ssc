@@ -122,13 +122,13 @@ class StateModel extends Backbone.Model
     # Currently operates on an object with StateModel attributes, not a full StateModel instance.
     messages = []
 
-    if stateToValidate.filterState?.length <= 0
+    if stateToValidate.filterState?.length <= 0 # Nothing to store without a filter!
       messages.push 'Missing filterState'
     unless stateToValidate.viewState?
       messages.push 'Missing viewState'
 
     if messages.length > 0
-      console.error 'Invalid filter state', messages
+      console.error 'Invalid filter state', messages # TODO: console
       false
     else
       true
