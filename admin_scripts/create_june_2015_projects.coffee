@@ -5,13 +5,14 @@ async = require 'async'
 MatchingTerm = require './lib/matching_term'
 
 class Process
-  constructor: ->
+  constructor: (limit) ->
     @countries     = JSON.parse(fs.readFileSync(__dirname + '/../_includes/data/countries_tf.json', encoding: 'utf8'))
     @projects      = JSON.parse(fs.readFileSync(__dirname + '/june_2015_data/SSC_additional_data_June_2015.txt', encoding: 'utf8')).rows
     @template      = fs.readFileSync(__dirname + '/lib/project_file_template._', encoding: 'utf8')
 
-    # console.log @projects.length
-    # return
+    if limit?
+      @projects = @projects.slice(0, limit)
+
     # MatchingTerm#find takes `type` and `text` and returns matching term
     @matchingTerm = new MatchingTerm
     console.log "Loaded #{@projects.length} projects"
@@ -68,10 +69,10 @@ class Process
     return [] if !iso3?
     country = _.findWhere @countries, iso3: iso3.toUpperCase()
     if country? and country.territorial_focus?
-      country.territorial_focus
+      [country.territorial_focus]
     else
       console.log "#{iso3}: not matched for territorial_focus"
-      return
+      return []
 
   splitComma: (data) ->
     return unless data
@@ -83,5 +84,7 @@ class Process
     term.replace (/\(|\)/g), ""
 
 module.export = Process
-debugger
-s = new Process
+
+limit = process.argv[2]
+s = new Process(limit)
+
