@@ -11,7 +11,7 @@ partner_type:
 project_title: Professionnalisation de la Magistrature Burundaise
 scale: country-country
 project_objective: LE PNUD A SOUTENU LA MISE EN PLACE D’UN PARTENARIAT ENTRE LE CENTRE DE FORMATION PROFESSIONNELLE DE LA JUSTICE DU BURUNDI ET L’ECOLE NATIONALE D’ADMINISTRATION ET DE LA MAGISTRATURE DU MALI, DANS LE CADRE DE LA FORMULATION ET DE L’OPERATIONNALISATION D’UN PLAN DE FORMATION CONTINUE DES MAGISTRATS BURUNDAIS.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - builder_of_capacities
   - facilitator_of_partnerships

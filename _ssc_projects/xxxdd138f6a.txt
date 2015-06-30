@@ -11,7 +11,7 @@ partner_type:
 project_title: MISSION D’APPUI AU MINISTERE DE LA FONCTION PUBLIQUE DU BURUNDI DANS LA MISE EN ŒUVRE DE L’ARCHIVAGE ELECTRONIQUE DES DOSSIERS DES FONCTIONNAIRES ET AGENTS DE LA FONCTION PUBLIQUE
 scale: country-country
 project_objective: Mission d’assistance technique de deux experts du Ministère de la Fonction Publique du Burkina Faso au profit du Ministère de la Fonction Publique du Travail et de la Sécurité Sociale du Burundi pour- (i)  partager l’expérience burkinabè en matiere de digitalisation et de sécurisation des archives et (ii) aider le Burundi à développer une feuille de route en vue d'un archivage électronique des dossiers des agents publics de l'Etat dans un horizon de 5 ans .
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

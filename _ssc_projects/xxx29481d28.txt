@@ -11,7 +11,7 @@ partner_type:
 project_title: initiative ART Gold a ete entame par le Bureau en partenariat avec la Commune de Yaounde 7, la Municipalite de Malaga, et les communes au Maroc, en Tunisie et en Mauritanie.
 scale: country-country
 project_objective: Dans le cadre de cette cooperation, il s'agira de contribuer à l’amelioration du fonctionnement et de la qualite des services aux citoyens de la commune de Yaounde 7  par l’introduction des TIC à travers  l'équipement d’un réseau informatique et des applications de gestion.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

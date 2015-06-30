@@ -11,7 +11,7 @@ partner_type:
 project_title: The project “Training of Maize Breeding Experts for the Effective Use of Maize Genetic Resources in Developing Countries”, co-supported by PGTF and the government of DPR Korea, supported capacity building of total 35 maize breeding experts in Ethiopia, Tanzania, Rwanda and Guinea by DPRK trainers.
 scale: global 
 project_objective: The Academy of Agricultural Sciences(AAS) in DPRK proposed to PGTF the Project titled “Training of Maize Breeding Experts for the Effective Use of Maize Genetic Resources in Developing Countries” in 2006, with an objective to practically contribute to food security by training maize breeders in participants countries.   The Project was approved by the Committee of the Experts for PGTF and G-77 Ministerial Meeting in 2006. On 26/12/2013, the Project document was jointly signed by DPRK & UNDP.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

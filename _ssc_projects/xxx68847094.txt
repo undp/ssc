@@ -12,7 +12,7 @@ partner_type:
 project_title: Experience sharing field mission to Peru for the Aden Dismissals Commission
 scale: country-country
 project_objective: UNDP Yemen Transitional Justice Project organized experience sharing field visit to Peru. The purpose of the mission was to enable representatives of the Commission to get more information on issues which are of critical importance for the Commission’s work- screening; treating urgent claims; Grouping cases; innovative remedies that do not involve only monetary compensations; categorizing claims, so as to be able to make group decisions; Database; Evidences; sensitive cases; Public relations
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

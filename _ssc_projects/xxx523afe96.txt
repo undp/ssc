@@ -11,7 +11,7 @@ partner_type:
 project_title: Establishing a rights-based life-cycle approach to social protection
 scale: country-country
 project_objective: High- and mid-level representatives from the Bangladesh General Economic Division, Ministry of Planning undertook exchange visits to their counterparts in South Africa and Nepal, and applied the lessons learnt and best practices from these countries’ best social protection practices for the new Social Security Strategy.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

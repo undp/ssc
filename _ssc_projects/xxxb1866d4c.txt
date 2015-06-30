@@ -11,7 +11,7 @@ partner_type:
 project_title: Indigenous and Tribal Peoples participation in REDD+ and hands on knowledge exchange between Indigenous and Maroons Peoples on engagement structure use in the region of Letitia, Colombia.
 scale: country-country
 project_objective: Knowledge exchange that supports the preparation of a culturally sensitive, plain (local) language and information that is tailored to the local situation, whereby Indigenous and Tribal Peoples are able to understand and have insights about the contents. Building support networks and knowledge sharing to support Indigenous Peoples development agenda, rights and representation were critical pillars.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

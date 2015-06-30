@@ -11,7 +11,7 @@ partner_type:
 project_title: Experience sharing on Energy Efficient Standards (EESs), labelling and behaviour change
 scale: regional
 project_objective: Officials from the Bangladesh Ministry of Power, Energy and Mineral Resources are sharing experiences, lessons and expertise on energy efficiency standards, labelling and behaviour change with their counterparts in five Asian countries. The regional platform aims to advance progress in this area and includes participation from sector specialists and private-sector entrepreneurs. Technical Working Group Meetings occur semi-annually and a regional steering committee meeting is held annually.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

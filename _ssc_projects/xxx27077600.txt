@@ -11,7 +11,7 @@ partner_type:
 project_title: South-South Asia Pacific Development Effectiveness Facility
 scale: regional
 project_objective: The Bangladesh Economic Relations Division in the Ministry of Finance created the Asia Pacific Development Effectiveness Facility (AP-DEF), a South-South knowledge sharing platform. With UNDP support, it facilitated peer exchanges with Laos, Papua New Guinea and the Philippines on development effectiveness. The Facility’s objective is to strengthen cooperation in addressing common regional challenges and to promote the ongoing exchange of tested and best practices on human rights issues.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

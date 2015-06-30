@@ -11,7 +11,7 @@ partner_type:
 project_title: Intercambio de conocimentos entre la Secretaria de Emergencia Nacional (SEN) de Paraguay y la Unidad Nacional de Gestion de Riesgo de Desastres (UNGRD) de Colombia
 scale: country-country
 project_objective: La Secretaria de Emergencia Nacional (SEN) de Paraguay y la Unidad Nacional de Gestion de Riesgo de Desastres (UNGRD) de Colombia negociaron la posibilidad de un acuerdo de cooperacion mutua. El PNUD ha promovido el vinculo y la articulacion entre ambas instituciones en el marco del proyecto DIPECHO VIII. El memorando de entendimiento entre las partes tiene como objetivo la continuidad del intercambio de conocimientos en el area de la gestion y reduccion de riesgos.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

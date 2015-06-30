@@ -11,7 +11,7 @@ partner_type:
 project_title: UNDP Moldova study visits to Cyprus
 scale: country-country
 project_objective: In November 2014 Moldovan representatives of local authorities, civil society, and the business community visited Cyprus to learn from best practices of cooperation. Study visits were organized at the new Nicosia Wastewater Treatment Plant, and cultural heritage projects of the Technical Committee on Cultural Heritage and Nicosia Master Plan.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

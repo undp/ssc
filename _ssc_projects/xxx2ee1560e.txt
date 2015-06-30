@@ -11,7 +11,7 @@ partner_type:
 project_title: Enhancing Belize Social Protection System- Cooperation with the International Policy Center for inclusive growth
 scale: country-country
 project_objective: The IPC was invited to present on the role/use of ICT for enhancing Social Protection; the presentation was meant to offer wider conceptual and contextual frame for presentations and discussions to follow as well as presentations/discussion from earlier in the week on MIS for CCTs and single beneficiary registries.  This session covered Experiences and Lessons from LAC, Typology and Objectives of MIS systems, Role/Use of MIS and Management of Social Safety Net schemes/programmes
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

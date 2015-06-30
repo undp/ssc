@@ -11,7 +11,7 @@ partner_type:
 project_title:  Programme-based budgeting (PBB) within the context of a Medium Term Expenditure Framework (MTEF)
 scale: country-country
 project_objective: introduce  PBBs system as an integrated approach to change the focus of the budgetary process from an input-based annual activity to a performance-based exercise that improves the efficiency and effectiveness of expenditures and lays the foundations for the modernisation of public financial management.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.mu.undp.org/content/mauritius_and_seychelles/en/home/ourwork/democraticgovernance/successstories/pbbsuccessstory.html ;  http://www.undp.org/content/dam/mauritius_and_seychelles/docs/CABRI%20REPORT%20ON%20PBB%202010.pdf 

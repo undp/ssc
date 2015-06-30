@@ -11,7 +11,7 @@ partner_type:
 project_title: Prototype on innovative urban service delivery
 scale: regional
 project_objective: Government representatives from Gazipur city partnered with the China International Poverty Reduction Center in an exchange design lab to prototype a one-stop social service center for urban locations. Bangladesh and China developed the prototype through exchange visits and experience sharing, based on the success of China’s one-stop-shop social service stations in urban areas. The mayors of five Bangladeshi cities attended the lab and endorsed the model to be replicated in their cities.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

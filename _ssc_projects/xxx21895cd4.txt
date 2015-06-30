@@ -11,7 +11,7 @@ partner_type:
 project_title: Songhai Gambia Project
 scale: country-country
 project_objective: Development of a functional agricultural system in water farm and incubation of agro-entrepreneurs and promotion of services to leverage them thereby creating a spread effect by building a critical mass of successful young entrepreneurs throughout the country.The replication of the Songhai Centre Strategy based on the Benin model has a focused attention on youth employment and agricultural transformation through value-addition, thus creating opportunities for linkage with the President’s high profile Vision 2016 to achieve food security and poverty reduction
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: http://wp.observer.gm/chamen-agric-training-centre-now-under-songhai-gambia-project/ 

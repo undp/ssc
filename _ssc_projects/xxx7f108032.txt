@@ -12,7 +12,7 @@ partner_type:
 project_title: Rose Water distillation intervention
 scale: country-country
 project_objective: Planting Damascus roses to extract rose water and generate income. A farmer who introduced the practice to a whole village in Syria was hosted by UNDP to transfer experience to Jordanian local farmers.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

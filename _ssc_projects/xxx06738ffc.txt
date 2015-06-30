@@ -11,7 +11,7 @@ partner_type:
 project_title: Intercambio de experiencias exitosas en estimación de costos en la industria eléctrica
 scale: country-country
 project_objective: Intercambio de experiencias en métodos y herramientas de estimación de costos. Se abordaron las áreas de Transmisión y Distribución con la Agência Nacional de Energia Eléctrica y  Generación con la Empresa de Pesquisa Energética. El intercambio  permitió identificar aspectos clave en el proceso de fortalecimiento de las funciones estratégicas de estimación de costos y levantamiento de los activos, fijación de techos de costos y análisis de subasta inversa.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

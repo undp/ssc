@@ -11,7 +11,7 @@ partner_type:
 project_title: Study Visit for Parliamentarians to Indonesia
 scale: country-country
 project_objective: 13 MPs and staff from the Union Parliament and Sub-national parliaments went to Indonesia where they visited and learned from the experience there at both the sub-national and national level
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

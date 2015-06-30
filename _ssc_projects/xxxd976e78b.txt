@@ -11,7 +11,7 @@ partner_type:
 project_title: 1) Tuvalu National Adaptation Plan of Action (NAPA) 1- South South cooperation on Coastal Adaptation through Environmental Impact Assessment  and  2) Training and Knowledge Sharing on Fish Aggregation Devices -NAPA 2
 scale: regional
 project_objective: 1) I-Kiribati Environmental Impact Assessment (EIA)  (national) consultant specifically hired to carry out  coastal interventions EIA in Tuvalu given his experience in atoll island environment, and to share interventions that can be realistically adapted in atoll islands.  2) Fish Aggregate Devices (FAD) information sharing, lessons learnt and training provided for  4 fishery officers from Tahiti, Fiji and Samoa based on different experiences in developing and deploying FADs.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

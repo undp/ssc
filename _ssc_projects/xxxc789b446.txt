@@ -11,7 +11,7 @@ partner_type:
 project_title: Presentación y transferencia de la exitosa experiencia de la Agencia de Promoción de Inversiones y Exportaciones de Nicaragua (PRONicaragua) a la Cámara de Comercio de Cuba y Centro para la Promoción del Comercio Exterior y la Inversión Extranjera en Cuba (CEPEC)
 scale: country-country
 project_objective: Transferencia del proceso de creación, desarrollo y consolidación de la Agencia de Promoción de Inversiones y Exportaciones de Nicaragua (PRONicaragua), considerada por el WAIPA como la mejor agencia de promoción de inversiones del mundo en 2012. La Cámara de Comercio y Centro para la Promoción del Comercio Exterior y la Inversión Extranjera en Cuba (CEPEC) están interesados en conocer en detalle la experiencia para desarrollar el modelo cubano.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.pronicaragua.org/es/sala-de-prensa/noticias-sobre-nicaragua/1504-nicaragua-y-cuba-en-busca-de-negocios

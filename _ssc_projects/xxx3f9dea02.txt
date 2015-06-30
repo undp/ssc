@@ -11,7 +11,7 @@ partner_type:
 project_title: Projet Parlement pour le climat
 scale: country-country
 project_objective: L initiative vise l’échange de bonnes pratiques entre pays du sud afin de promouvoir le développement des énergies propres et renouvelables dans le cadre de la lutte contre les changements climatiques. Le PNUD a servi d'interface entre la pays et appuyé les activités.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

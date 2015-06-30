@@ -11,7 +11,7 @@ partner_type:
 project_title: The 3rd ASEAN Financial Inclusion Conference, October 29-30, 2014, Yangon, Myanmar
 scale: regional
 project_objective: As Chair of the 18th ASEAN Finance Ministers’ Meeting, Ministry of Finance-Government of Myanmar hosted the 3rd ASEAN Financial Inclusion Conference placed a special emphasis on “Enhancing Access to Finance for Unbanked People in the ASEAN Region”. UNDP with its sister agency UNCDF provided technical and financial support to the Government of Myanmar to host the 3rd ASEAN Financial Inclusion Conference. The event was further supported by ADB, Australian Aid, World Bank Group and KBZ Bank.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

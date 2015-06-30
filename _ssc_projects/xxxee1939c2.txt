@@ -11,7 +11,7 @@ partner_type:
 project_title: Programme Ecovillages
 scale: country-country
 project_objective: L’initiative a pour objectif de capitaliser les leçons d’expériences du concept Ecovillage au profit des pays couverts par la Grande Muraille Verte
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

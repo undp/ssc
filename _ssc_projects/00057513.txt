@@ -11,7 +11,7 @@ partner_type:
 project_title: Public Sector Reform  - Performance Management for the public service
 scale: regional
 project_objective: Building of the previous collaborative work of the Government of Lesotho (GoL) and UNDP in the area of capacity development for enhanced service delivery, this project is designed to support GoL in implementing these previous efforts and to support the establishment of sustainable national capacity to continue its programme of enhancing service delivery through business process reengineering and implementing a Performance-based-pay policy. 
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: http://open.undp.org/#project/00057513

@@ -11,7 +11,7 @@ partner_type:
 project_title: Public Service Capacity Development Project
 scale: country-country
 project_objective: further strengthen the capacity of the public service to better manage and deliver services by i)  Reviewing and implementing policies, rules and regulations that support efficient public service delivery; ii) Increasing leadership/management skills, competencies and ethical values to drive the national development agenda; iii)  Strengthening human resource planning and management capacities in the different MDAs within the public service; and IV) Promoting innovative and integrated application of ICT within public service.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: http://open.undp.org/#project/00069367 

@@ -11,7 +11,7 @@ partner_type:
 project_title: Multifunctional Platforms (MFP)
 scale: country-country
 project_objective: Supporting the formulation and adoption of pro-poor, climate-resilient strategy; climate change resilience, low carbon, energy, land use and coastal and marine management policies; supporting the integration of climate-resilient priorities and policies in development plans and processes; supporting the piloting of renewable energy and promote energy-efficient inititiatives and multifunctional platforms; supporting the revision of land use policy with special emphasis on women; and providing technical support to disaster risk reduction structures at decentralized levels.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.gm.undp.org/content/gambia/en/home/operations/projects/environment_and_energy/pro-poor-climate-resilient-development-strategy-formulated-and-a/ 

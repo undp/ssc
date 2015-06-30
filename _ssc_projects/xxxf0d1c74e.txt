@@ -12,7 +12,7 @@ partner_type:
 project_title: Technical and Scientific collaboration and knowledge sharing on Integrated Coastal Zone Management (ICZM) between MEDCOAST and Aqaba Special Economic Zone Authority (ASEZA)- ASEZA is a decentralized governmental body.
 scale: country-country
 project_objective: MEDCOAST is a scientific network that brings together a wide range of scientific institutions working in the field of ICZM. They offered a comprehensive training on topics related to ICZM, most importantly exposing the team to attend the training to a number of real case studies from Turkey, Romania, Malta & others. An agreement between both of them entails that ASEZA to be invited to participate in the annual training program held in Turkey on ICZM
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

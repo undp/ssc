@@ -12,7 +12,7 @@ partner_type:
 project_title: Municipalities Risks and Resources Mapping
 scale: country-country
 project_objective: UNDP Jordan has transferred a methodology applied by Ministry of Social affairs in Lebanon in support with UNDP Lebanon to assess the Risks and resources in a community consultative manner at municipalities in Lebanon affected by Syrian crisis which result in set of priority projects to be submitted by municipalities to donors and international organizations within all sectors
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

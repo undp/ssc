@@ -11,7 +11,7 @@ partner_type:
 project_title: Disaster Risk Management Support to Malawi
 scale: country-country
 project_objective: establish a comprehensive disaster risk management system for the country and  assist the Government of Malawi to reduce damage and losses caused by disasters. Thus, in the medium term, the project is expected to enable the government to mitigate the impact of natural disasters on the economy as a whole and on the vulnerable communities in particular. 
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: http://open.undp.org/#project/00067161 

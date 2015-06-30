@@ -12,7 +12,7 @@ partner_type:
 project_title: Appui à la réflexion sur le développement humain à l’aune de l’agenda post- 2015.
 scale: global 
 project_objective: En 2014, l’appui au Conseil National Economique et Social s’est principalement concentré sur les aspects relatifs à la coopération sud- sud. Ainsi  le projet a appuyé l’Algérie dans son rôle régional pour initier les discussions relatives  au  développement humain à l’aune de l’agenda post-2015. Ainsi une déclaration d’Alger a été adoptée par huit pays du Sud. Elle s’est à contribuer à définir la méthodologie de calcul de l’indice de développement  humain à l’échelle régionale.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

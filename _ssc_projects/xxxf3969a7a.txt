@@ -11,7 +11,7 @@ partner_type:
 project_title: Knowledge sharing on Recovery Planning (with ASEAN member States)
 scale: country-country
 project_objective: Preparation of a framework for guidelines on recovery planning in consultations and experience sharing among ASEAN member states
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 

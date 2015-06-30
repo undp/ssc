@@ -11,7 +11,7 @@ partner_type:
 project_title: GoWAMER  Gouvernance, politiques de gestion des ressources marines et reduction de la pauvrete dans l’Ecoregion WAMER  (Mauritanie, Senegal, Gambie, Guinee Conakry, Guinee Bissau et Cap-Vert)
 scale: regional
 project_objective: Le projet GoWAMER permet le partage d experiences sur  la gouvernance et l adoption de bonnes pratiques en matiere d utilisation durable des ressources marines et cotieres.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

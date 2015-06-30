@@ -11,7 +11,7 @@ partner_type:
 project_title: Training of Tonga Electoral Commission on civic education and electoral administration
 scale: regional
 project_objective: Training activities under Tonga Governance Strengthening Programme (TGSP) in 2014 used the South-South cooperation model such as the civic education-BRIDGE (electoral administration) training which Tong Electoral Commission (TEC). In the training, the members of the civic education Steering Committee had an exchange visit to  Samoa in Quarter 3.
-territorial_focus: 
+territorial_focus: none
 undp_role_type: 
   - knowledge_broker
 project_link: 
