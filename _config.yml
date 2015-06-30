@@ -3,6 +3,7 @@ gems:
 editor:
   github_repo: undp/ssc
   url: "http://prose.io"
+google_analytics_ua: UA-61266442-1
 baseurl: ""
 version: '1.5'
 title: UNDP South South Cooperation
