@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - SEN
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: GoWAMER  Gouvernance, politiques de gestion des ressources marines et reduction de la pauvrete dans l’Ecoregion WAMER  (Mauritanie, Senegal, Gambie, Guinee Conakry, Guinee Bissau et Cap-Vert)
+scale: regional
+project_objective: Le projet GoWAMER permet le partage d experiences sur  la gouvernance et l adoption de bonnes pratiques en matiere d utilisation durable des ressources marines et cotieres.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+project_link: 
+published: true
+import_source: june_2015
+---
+Facilitation of knowledge exchange around governance and good practices in the sustainable use of maritime and costal resources. In this sense the project has established a sub-regional working group that conducts annual evaluations of the national index of maritime and costal resources in the participating countries.  This exercise has allowed to develop an action plan for the improvement of fishing sector governance in each of the six programme countries, to increase coherence between politics in the fishing sector  and to establish national monitoring committees.

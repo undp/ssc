@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - NIC
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Transferencia de buenas prácticas de la Policía Nacional de Nicaragua a la Policía Nacional de El Salvador para el diseño y puesta en funcionamiento del sistema de Educación Superior Policial en El Salvador, a partir del modelo “Escuela Total” de la Policía de Nicaragua.
+scale: country-country
+project_objective: Apoyar el diseño y creación del sistema de Educación Superior Policial en El Salvador, a partir de la experiencia y modelo Educativo de la Policía Nacional de Nicaragua “Escuela Total”. La transferencia utilizó las sistematizaciones del Subsistema de Educación Superior y el Subsistema de Preparación Continua de Nicaragua, las buenas prácticas y lecciones aprendidas. Como resultado de la colaboración se han generado nuevas oportunidades de colaboración entre ambas instituciones.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+El PNUD facilitó el intercambio de experiencias, expertos  y el encuentro entre las partes interesadas. Se ha generado un informe del proceso de transferencia (E51 inf. Tranfer. PN) donde destaca la contribución de la Policía Nacional de Nicaragua al diseño del sistema de educación superior de la Policía de El Salvador. El proceso también permitió identificar fortalezas en el modelo educativo de El Salvador en temas administrativos, legales, sistemas de comunicación y divulgación, lo que generará solicitudes de apoyo y transferencia en sentido inverso.

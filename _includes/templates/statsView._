@@ -8,7 +8,7 @@
     </div>
   </div>
   <div class="w-col w-col-6">
-    <% _.each(stats, function(statArray){ %> 
+    <% _.each(stats, function(statArray){ %>
       <%= _.template.partial('stackedBarView', {statArray: statArray}) %>
     <% }); %>
   </div>

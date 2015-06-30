@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - PHL
+region: 
+  - asia_pacific
+partner_type: 
+  - cso
+project_title: Promoting the Rights - and Enhancing the Participation - of Women in the Bangsamoro Peace Consolidation and Development Process
+scale: country-country
+project_objective: UNDP sponsored Bangsamoro-based women CSOs to travel to Indonesia to learn from the best practices of mainstreaming gender concerns in transition processes and development plans in a post-conflict setting.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The initiative took place in mid December 2014, meaning that it had minimal impact on 2014 results. The results should be felt when the CSO representatives participate in the development and implementation of Bangsamoro-related plans and policies in 2015, as indicated in the 2014 UNDP-RHRC APR and the RHRC 2014 accomplishment report to the ARMM Regional Governor.

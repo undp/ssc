@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - AZE
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Study tour to learn advanced experiences in forest management and forest monitoring
+scale: country-country
+project_objective: The study tour was part of the broader capacity building component of the UNDP programme on sustainable land and forest management. It was organized by UNDP and hosted by the Ministry of Forests and Water Resources of Turkey. The participants of the study tour were national experts from the Forest Development Department of the Ministry of Ecology and Natural Resources of Azerbaijan.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The study tour contributed to improving capacities of the Forest Department to conserve and sustainably manage forest resources, as evidenced from the post-study questionnaire. Learning the Turkish experience was also critical for the process of establishment of training centres in forest management in 3 regions of Azerbaijan that is among the key results achieved in 2014 under this Outcome.

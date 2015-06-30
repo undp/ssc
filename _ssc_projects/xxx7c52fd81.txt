@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - TJK
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Learning experience of One Village - One Product initiative in Kyrgyzstan
+scale: regional
+project_objective: UNDP Tajikistan is implementing a 3 year initiative to promote stability and security in the bordering provinces of Tajikistan and Afghanistan (LITACA) by reducing poverty, supporting economic development and cross-border collaboration  along the Tajik-Afghan border, including replication of best practices in these areas, such as OVOP initiative in Kyrgyzstan.
+territorial_focus: ldc
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+UNDP Tajikistan organized a four-day study tour in Kyrgyzstan for high-level officials and donor representatives from Tajikistan and Afghanistan to learn from the experiences of the “One Village – One Product” initiative (OVOP) implemented by JICA Kyrgyzstan. During the study tour the participants learned about the successes and challenges of OVOP implementation in Kyrgyzstan and discussed opportunities to replicate OVOP in Afghanistan and Tajikistan (E26).

@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - ZAF
+region: 
+  - africa
+partner_type: 
+  - cso, national_governments
+project_title: Egyptian electoral study tour to South Africa on engendering the electoral process.
+scale: country-country
+project_objective: The South African government hosted a high level delegation led by the Secretary General of Egypt's Supreme Electoral Commission and comprising representatives from the Egyptian Government, NGOs, Women Organizations, and UNDP Egypt to increase the understanding and awareness of gender mainstreaming in electoral administration to allow for integration of this learning into Egypt's upcoming parliamentary elections in March 2015.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Based on the value perceived by the Egyptian delegation, South Africa was invited to participate in a follow-up international Conference in Egypt on Gender and Electoral Administration. Riding on this success the Independent Electoral Commission (IEC) of South Africa formally sent a request to the CO to provide further institutionalized support for similar SSC in the future.

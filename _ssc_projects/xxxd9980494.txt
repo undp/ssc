@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - MWI
+region: 
+  - africa
+partner_type: 
+  - cso, national_governments
+project_title: Africa Insider Mediators Platform (AIMP)
+scale: regional
+project_objective: The platform brings together peace practitioners and mediators (government, civil society) from across African with the aim of sharing best practice and experiences of successful mediation and peace building initiatives.  ACTION Support Centre with support from UNDP Regional Service Centre coordinates AIMP. 
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+project_link: http://www.asc.org.za/language/en/
+published: true
+import_source: june_2015
+---
+UNDP supported 2 Public Affairs Committee officials and coordinated the data collection for existing infrastructures for peace in Malawi which allowed Malawi to share it's experiences with other countries in the region.  As a result from the knowledge sharing between the participating countries in the region, the Government has embarked on the process of developing a Strategic Plan and Policy to the govern the establishment and operationalization of a National Peace Architecture for Malawi. NPA structure will be piloted in 3 districts in 2015.

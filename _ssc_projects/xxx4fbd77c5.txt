@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - NPL
+region: 
+  - asia_pacific
+partner_type: 
+  - cso, national_governments
+project_title: Asia Pacific Regional Workshop on Climate Responsive Budgeting (CRB) and Planning
+scale: regional
+project_objective: UNDP facilitated rejuvenation of Climate Finance Task Force (NPC, MoF, MoSTE and MoFALD) in 2014. The Task Force along with CSOs participated in workshop and shared Nepal’s experience in Climate Budget Code and its positive implications on allocations for climate/disaster related activities by major ministries. The Task Force members learnt about different methodologies, approaches and the achievements made by other countries of the region
+territorial_focus: fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The learnings of workshop would be helpful in designing Climate Finance regional project based on “whole of government approach”. Further, the workshop has contributed in enhancing knowledge on climate response budgeting and climate resilient planning among the key government officials constituting Climate Finance Task Force. In addition, Nepal team started engaging with CSO to foster partnership with CSOs for effective and efficient climate responsive budgeting and planning.

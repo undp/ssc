@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - PNG
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: South-South Cooperation - Strengthened Partnership Support Program - Engaging with China in the Pacific
+scale: regional
+project_objective: This research investigated aid from major development actors in the region, including China. It identify the main development challenges in three Pacific countries, key gaps in their development needs that are not being met, and areas for possible cooperation amongst development partners. It also investigated China’s aid priorities and practices, and identify Chinese actors’ desires for potential future cooperation.
+territorial_focus: sids
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+The research report, shared with GoPNG, fed into the ongoing formulation of the Development Finance and Aid Policy, which seeks to better align development finance (including aid) to PNG’s development priorities.

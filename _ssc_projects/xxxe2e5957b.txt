@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - BFA
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Programme d'Appui aux Parcs de l'Entente (PAPE) couvrant Benin, Burkina Faso et Niger
+scale: regional
+project_objective: L’objectif du programme est de renforcer durablement la conservation des écosystèmes du complexe WAP (W, Arly, Pendjari) dans une perspective régionale et avec optimisation des bénéfices pour la population riveraine. Il est mis en œuvre dans 3 pays (Bénin, Burkina Faso, Niger) et sous forme de 3 composantes. Le PNUD, avec le BP/Burkina comme chef de file met en œuvre la composante 2 - Renforcer les institutions nationales pour une gestion coordonnée des aires protégées du complexe WAP.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+project_link: 
+published: true
+import_source: june_2015
+---
+UNDP facilitated the agreement on a crossboarder  development plan for protected areas based on which the three countries developed their Parc development plan and anti-poaching strategy. The capacity of  the government of Burkina Faso to adopt legislation around the Arly Parc and a better ecosystem management and to influence the legislation of the neighboring countries was strengthened.

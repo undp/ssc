@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - COL
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Buenas prácticas en primera infancia y recuperación de espacios públicos abiertos a través de la artesanía y actividades artístico-recreativas en las ciudades de Medellín y Bogotá
+scale: country-country
+project_objective: La Primera Dama y la RR de Honduras visitaron el País para conocer programas en tema de Primera Infancia y buenas prácticas en la recuperación de espacios públicos abiertos a través de la artesanía y actividades artístico-recreativas en las ciudades de Medellín y Bogotá. Se generarán iniciativas para el apoyo de la producción de artesanías que generarán oportunidades de empleo, revalorizarán recursos culturales y fortalecerán procesos de desarrollo e identidad local
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://www.hn.undp.org/content/honduras/es/home/presscenter/articles/2014/11/03/en-misi-n-pnud-primera-dama-conocer-en-colombia-experiencias-en-espacios-seguros-desarrollo-artesanal-y-primera-infancia.html
+published: true
+import_source: june_2015
+---
+El PNUD Colombia facilitó el intercambio de experiencias entre los municipios participantes como facilitador de alianzas. Este intercambio consitió en una misión de dos expertos colombianos a los municipios de Tela y Choloma, en la cual se elaboró una propuesta de programa con diferentes posibles perfiles de proyectos. Estos perfiles han sido aprobados por gobierno y recibirán apoyo de PNUD Honduras en 2015.

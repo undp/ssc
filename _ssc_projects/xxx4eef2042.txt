@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - AFG
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Afghan Police training at Sivas Police Training Academy
+scale: regional
+project_objective: Basic and advanced police training for male and female Afghan National Police Officers funded by Japan and provided through the SIVAS Training Center in Turkey with facilitation support from the Turkish Embassy. The SIVAS Training Center applies conditions for participation such as higher education.
+territorial_focus: fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Indirectly the 'higher education' condition for entering may have led to more higher educated female police recruitment. There is no written evidence or evidence on how training is used on the job. Questions have been raised by donors and CO on training content;  cost, gender sensitivity (jealous colleagues; questions by family). In response the content has been revised and follow up trainings are provided in Kabul.

@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - IND
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Project on International Centre for Human Development (IC4HD)
+scale: regional
+project_objective: This is a joint initiative of UNDP and Government of India to support countries of the Global South to help them incorporate human development concerns as an integral part of planning processes. The initiative reached to 19 countries.  HD fellowships were awarded to researchers; NHDR teams from ten countries were provided technical support.  Study week on SAARC Development Goals, statisticians from seven South Asian countries released Outcome Statement outlining steps to be taken.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+The IC4HD-supported training programme on Energy Access and Human Development for Africa has now been included as part of GoI’s Indian Technical and Economic Cooperation (ITEC) Programme that reaches out to more than 150 countries.

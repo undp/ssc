@@ -1,0 +1,21 @@
+---
+open_project_id: "00061373"
+thematic_focus: 
+  - Resilience building
+country: 
+  - SWZ
+region: 
+  - africa
+partner_type: 
+  - cso, national_governments
+project_title: Climate Change Adaptation initiative through Sand Dams technology 
+scale: country-country
+project_objective: ensure that the management of Swaziland’s water resources is adapted to take into account the anticipated impacts of climate change.
+territorial_focus: none
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00061373
+published: true
+import_source: june_2015
+---
+UNDP brokered partnerships between Ministry of Natural Resources and Energy (MNRE) – Department of Water Affairs (DWA)  and the Africa Sand Dams Foundation (ASDF) of Kenya aimed at introducing climante change adaptation (CCA) through community based water harvesting and storage infrastructure. In February 2014, officials from MNRE, Public Works and Agriculture were facilitated by UNDP to collaborate with ASDF on the sand dam’s technology.This initiative resulted in the adoption by MNRE-DWA of the Kenya model and resulted in the construction of 5 pilot sand dams in the rural vulnerable communities in Swaziland. Over 900 community members participated and have the skills for the construction and maintenance of the sand dams.  UNDP funded the SSC and further supported the training for 37 Goverment of Swaziland officials, NGOs and Faith Based Organizations contributing to the uptake of CCA technology in vulnerable communities.

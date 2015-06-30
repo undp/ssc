@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - SSD
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: IGAD Regional Capacity Enhancement Initiative
+scale: regional
+project_objective: support the Government of South Sudan (GoSS) to place 200 civil servants from IGAD Member States on secondment with GoSS to mentor and coach the South Sudanese civil servants.  These seconded civil servants will serve as a form of rapid capacity enhancement support to strengthen the institutional capacity of GoSS institutions to deliver services.
+territorial_focus: fragile_states
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+project_link: http://www.ss.undp.org/content/south_sudan/en/home/operations/projects/closed-projects/democratic-governance/igad_regional_capacity.html 
+published: true
+import_source: june_2015
+---
+UNDP facilitated knowlege exchange and capacity building trainings from 200 Civil Service Support Offices (CSSOs) drawn from Ethiopia, Kenya and Uganda who engaged in strengthening South Sudan’s civil service capacity. 34 CSSOs from Phase 1 of the project were deployed to GRSS institutions. Phase 2 of the initiative began in 2014 with recruitment of 139 CSSOs who will be deployed to South Sudan in 2015. As a result of the South-South learning, the GOSS is inthe process of developing  legal and regulatory frameworks to strengthen public administration, and to introduce a 2 year coaching and mentoring programme which aims to build the capacity of a minimum of 200 civil servants across various sectors. 

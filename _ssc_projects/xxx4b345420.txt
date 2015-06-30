@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - BOL
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Visita de Cuba y Brasil de Cecilia Fonseca y Jose Luis Rodriguez Septiembre 2014
+scale: country-country
+project_objective: Se han fortalecidas las capacidades locales del Ministerio de Desarrollo Productivo para incorporar experiencias de industrialización inclusiva de otros países. Principalmente del Ministerio de Economía de Cuba y del Sebrae de Brasil. Las cuales se han han incorporado al Plan Sectorial Productivo 2014-2018. Instituciones- SEBRAE – Brasil y Gobierno Nacional de Cuba
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+El PNUD facilitó el intercambio de experiencias y el encuentro entre las partes interesadas a través de las oficinas de PNUD Brazil y PNUD Cuba. Así mismo contribuyó al desarrollo de capacidades y al fortalecimiento institucional del Ministerio de Desarrollo Productivo. Su participación incluyó la incorporación de conocimiento técnico al Plan Sectorial Productivo 2014-2018. [CoopSurSur14Entr] [NdP DP 2014]

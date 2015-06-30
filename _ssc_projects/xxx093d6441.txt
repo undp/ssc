@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - MLI
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Appui à  la Côte d’Ivoire pour l’organisation de la revue du Plan National de Développement
+scale: country-country
+project_objective: La Cellule Technique CSLP a apporté un appui à la Côte d’Ivoire dans le cadre l’organisation et de la tenue de la première revue du Plan National de Développement (PND). A cette occasion, le Coordonnateur du CSLP a présenté l’expérience malienne des revues du CSCRP.
+territorial_focus: fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Support of the Mali Technical Unit to the Ivory Coast Government in the roll out of the First Review of the National Development Plan. 

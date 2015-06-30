@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - EGY
+region: 
+  - arab_states
+
+partner_type: 
+  - national_governments
+project_title: Study Tour to Mexico on Election Management & Electoral Dispute Resolution (EDR)
+scale: country-country
+project_objective: In collaboration with the Instituto Federal Electoral, UNDP organized a workshop on Electoral Dispute Resolution (EDR) & the role of the electoral administration & courts in Mexico City, bringing together practitioners from Latin America who contributed with comparative experiences. Participants from Egypt, Libya & Tunisia included electoral & judicial authorities involved in electoral complaints & appeal processes and potential experts involved in electoral legislation in the 3 countries.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The study tour started up the dialogue in Egypt on Electoral Dispute Resolution (EDR). It was followed by a workshop in Tunisia bringing other comparative experiences from the Arab region and focusing on specific questions identified during discussions in Mexico. As a result/follow-up, a 2-day international conference on EDR was organized in Egypt in November inviting a more diverse range of Egyptian electoral stakeholders.

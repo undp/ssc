@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - SSD
+region: 
+  - africa
+partner_type: 
+  - cso, national_governments
+project_title: IGAD Regional Initiative for Capacity Enhancement in South Sudan
+scale: regional
+project_objective: 200 Civil Service Support Offices drawn from Ethiopia, Kenya and Uganda were engaged to build South Sudan’s civil service capacity. 34 CSOs from Phase 1 of the project were deployed to GRSS institutions. Phase 2 of the initiative began in 2014 with recruitment of 139 CSOs who will be deployed to South Sudan in 2015
+territorial_focus: fragile_states
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+Development of legal and regulatory frameworks as planned to strengthen public administration, 2 year coaching and mentoring of minimum 200 civil servants across various sectors resulting in increased skills

@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - YEM
+region: 
+  - arab_states
+
+partner_type: 
+  - national_governments
+project_title: Global Water Week in September 2014
+scale: regional
+project_objective: UNDP presented the Manakha for fog water haversting initiative during the World Water Week. The initiative introduce cost-effective fog harvesting techniques leveraging and emulating the locally innovative practices for collection and storage of water for domestic use and coffee production under the Water Governance Project for Arab States (WGP-AS). The initiative also includes improvement in the quality and quantity of water ponds and traditional structures.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The World Water Week was a platform for learning and Knowledge sharing. Good examples from Fog water harvesting in others countries were shared. UNDP draw upon the lessons learnt to enhance the fog harvesting technique in Yemen - technical design of the harvesting module, site selection and materials use were improved. Resulting a 40% improvement of quantity of water collected and 20% reduction of cost

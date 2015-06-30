@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - EGY
+region: 
+  - arab_states
+
+partner_type: 
+  - cso, national_governments
+project_title: Study tour to South Africa on gender mainstreaming in electoral administration
+scale: country-country
+project_objective: 12 participants, including representatives from the Presidential Election Commission, the Ministries of Planning & Transitional Justice & women NGOs, visited the Independent Electoral Commission (IEC) and the Gender Commission in South Africa to learn from their experience in gender mainstreaming in electoral administration. Participants were introduced to the mechanisms adopted by the IEC to promote gender equality & observed first-hand the functioning of an electoral management body (EMB).
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The Judge representing the Ministry of Transitional Justice in the Study Tour  announced in a newspaper article that the Ministry is currently drafting legislation for the establishment of commissions for non-discrimination, transitional justice, as well elections, building on the South African experience

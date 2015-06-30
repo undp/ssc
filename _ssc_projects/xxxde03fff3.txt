@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - SRB
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: sexual and gender-based violence
+scale: country-country
+project_objective: 
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Inter-regional knowledge exchange was facilitated between Egypt and Serbia Country Offices to help them advise national counterparts on policies and programming to address sexual and gender-based violence

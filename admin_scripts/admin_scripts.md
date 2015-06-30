@@ -3,7 +3,7 @@
 A couple of scripts for initial configuration. They're not part of the ongoing maintenance of projects data. Ongoing maintenance does not require any scripts being run on the server - it's all done through the online admin interface and Prose.io (see [here](../docs/manage.md))
 
 
-### Requirements 
+### Requirements
 
 **Cleaning and preparing data:**
 
@@ -69,9 +69,11 @@ This document outlines the steps taken to go from an Excel file of all the proje
     }
 ```
 
-### Helping hands
+### Helping hand
 
-`fswatch -0 ~/Downloads/SSC_additional_data_June_2015.txt | xargs -0 -n1
+- `fswatch -0 ~/Downloads/SSC_additional_data_June_2015.txt | xargs -0 -n1
 -I'{}' mv '{}' .` watches the Downloads folder for the next export, and
 moves into the right folder for processing. Useful while refining the
 field naming and import process.
+
+- `fswatch -0 june_2015_data/SSC_additional_data_June_2015.txt | xargs -0 -n1 -I'{}' coffee create_june_2015_projects.coffee` watches the copied file and re-runs the compilation

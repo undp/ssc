@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - MAR
+region: 
+  - arab_states
+
+partner_type: 
+  - national_governments
+project_title: coopération tripartite  entre le Tunisie, le Mexique et le Maroc (méthodologie mesure indicateurs pauvreté)
+scale: country-country
+project_objective: L'ONDH a signé deux partenariats avec des homologues en Tunisie et au Mexique pour affiner la méthodologie de mesure de la pauvreté.
+territorial_focus: mic
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+cette convention tripartite de partenariat va permettre une collaboration pour opérationnaliser les instruments d'évaluation des PP et d'échange fructeux entre les 3 pyas dans le domaine cité.

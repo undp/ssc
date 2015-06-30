@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - KHM
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: China-Cambodia-UNDP Trilateral Cooperation Cassava Project Phase II (CCPII)
+scale: country-country
+project_objective: CCP II aims  to move Cambodian producers (especially smallholders), processors and exporters of cassava up the value chain, therefore targeting more sustained growth of the sector, increased revenue and, possibly, employment generation. For the Government of China, this project reflects China’s efforts to further deepen its cooperation with other developing countries.
+territorial_focus: ldc
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+Capacity development provided to officials from Provincial Department of Agriculture and to processor/exporter/farmers.Ministry of Agriculture, Forestry and Fishery - MAFF - has allocated 1M of the their budget to continue the implementation of this capacity development plan for the next 4 years.

@@ -1,0 +1,21 @@
+---
+open_project_id: "00080950"
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - AGO
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Empowering Angolan Women - gender project in partnership with Minstry of Family and Women Promotion
+scale: country-country
+project_objective: With UN Women’s ESARO, regional gender budgeting best practices and experiences were shared with high levels policy makers. Gender empowerment tools and manuals were developed and disseminated widely in partnership with Portuguese government and the Commission for Citizenship and Gender Equity and relevant authorities. Four senior MINFAMU staff gained gender expertise and knowledge and management skills from Brazil and Italy for mainstreaming gender issues into national development programmes.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00080950
+published: true
+import_source: june_2015
+---
+UNDP facilitated  knowledge exchange  and capacity building between Angola national staff and Brazil and South Africa.

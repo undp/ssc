@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Resilience building
+country: 
+  - NER
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Voyage d’échange d’expériences sur la prévention et la gestion des inondations à Ouagadougou des cadres du Gouvernorat de Niamey
+scale: country-country
+project_objective: Quinze (15) responsables de la ville de Niamey, appuyés par le spécialiste des questions de prévention des crises et catastrophes du PNUD, se sont rendus à Ouagadougou pour un échange d’expériences et la visite de sites affectés par des inondations.
+territorial_focus: ldc
+undp_role_type: 
+  - builder_of_capacities
+project_link: 
+published: true
+import_source: june_2015
+---
+In the framework of a study visit of Nigerian professionals to Burkina Faso, UNDP supported knowledge exchange and capacity development in the area of crisis prevention. These exchanges have strongly sensitized the Niamey professionals from the Regional Committee of flood management around the importance of flood prevention. Following the visit, the region of Niamey has developed and validated a flood management action plan and organized a workshop where feedback of the findings and lessons learnt was provided to representatives from other regions.   

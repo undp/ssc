@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - BIH
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Regional Conference on Natural Disasters in South-East Europe
+scale: regional
+project_objective: Regional consultation platform for counterparts from BiH, Croatia, Macedonia, Montenegro, Slovenia, and Serbia in order to bring the problem of natural disaster preparedness to the regional level, and enhance the cooperation.
+territorial_focus: fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The Conference provided for sharing of information and solutions for reducing flood risk, and enhancing cross-border cooperation in risk mitigation and flood protection. It resulted in the review of concrete lessons learned and definition of ways ahead.

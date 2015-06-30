@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - RWA
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: African Media Peer Review   Forum
+scale: regional
+project_objective: During the Regional Dialogue on Media Self Regulations, 12 African  Media self regulations institutions present formed an African Media Peer Review Forum to assess and  provide each other feedback, on an annual basis, focusing on the state of the media and self regulation in each country.
+territorial_focus: ldc
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+The initiative emphasised African Media telling Africans telling  stories.

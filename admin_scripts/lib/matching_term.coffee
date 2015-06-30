@@ -46,7 +46,7 @@ class MatchingTerm
     _.map(@splitComma(data), (i) ->
       _.str.underscored(i)
     )
-    
+
   splitComma: (data) ->
     return unless data
     data.split(',').map (i) ->

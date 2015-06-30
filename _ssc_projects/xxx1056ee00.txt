@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - CPV
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Gestion integree des ressources en eau et la gestion de l’eau residuelle
+scale: global 
+project_objective: Cabo Verde, a travers la D.G de l’Environnement dans ce projet SIDS/GEF/UNPD/UNEP d appui la gestion integree des ressources en eau et la gestion de l’eau residuelle. Des actions pilotes sont conduites au niveau pays pour le recyclage des eaux usees dans l’agriculture. Les actions regionales permettent l echange d’experiences pour la promotion d’un cadre legislative, institutionnel et politique pour la gestion integree des ressources en eau dans les petits pays insulaires.
+territorial_focus: sids, mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+  UNDP supported this initiative as a knowledge broker and capacity developer for the promotion of a legal, institutional and political framework for integrated water management in SIDS at the regional level. Technical experts of the General Management of the Ministry of Environment and the National Water Agency of the Governments  have participated in different technical knowledge exchange sessions of the technical and regional committee meetings. Therefore, the activities within the pilot project as well as the diagnosis of the residential water treatment system and its recommendations have progressed. 

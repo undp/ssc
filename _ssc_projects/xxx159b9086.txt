@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Resilience building
+country: 
+  - NAM
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Implementation of the Benguela Current LME Action Program for Restoring Depleted Fisheries and Reducing Coastal Resources Degradation
+scale: regional
+project_objective: implement a Strategic Action Programme for the development and adoption of an effective transboundary Large Marine Ecosystme (LME) management structure primarily addressing fish stock and fisheries rejuvenation and sustainability, supported and made operational by functioning and sustainable transboundary and national level institutions, and guided by a series of lessons and best practices. Such lessons and best practices would further form the basis of replicable procedures to secure management strategies in similar global LMEs. Three countries are invovled in this project- Angola, Namibia and South Africa.
+territorial_focus: mic
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: http://iwlearn.net/iw-projects/3305 ; http://erc.undp.org/evaluationadmin/manageevaluation/viewevaluationdetail.html;jsessionid=46FA25467596F35AB1F8D3D2456A9027?evalid=7382 
+published: true
+import_source: june_2015
+---
+UNDP-supported tripartite development initiative by Angola, Namibia and South Africa that aims to improve the use and management of marine resources and the facilitation of knowlege exchange and lessons learnt between them. As a result of the collobaration,country contributions were paid to the Commission Secretariat; ratification of the Benguela Current Convention by Angola; approval by ministers of the Strategic Action Programme for 2015-2019;  the the moblilization of US$23 million in donor funds for the period 2015-2020.

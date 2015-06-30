@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: The 8th China-ASEAN Forum on Social Development and Poverty Reduction (7-8 August 2014)
+scale: country-country
+project_objective: “Deepening ASEAN-China Regional Cooperation on Poverty Reduction” addressing regional cooperation for poverty reduction & social inclusion, good practices, and emerging new partners, was co-organized by Leading Group Office on Poverty Alleviation and Development/International Poverty Reduction Center in China & the Ministry of Livestock, Fisheries and Rural Development of Myanmar, supported by UNDP, the ASEAN Secretariat, China International Center for Economic and Technical Exchanges and ADB.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+UNDP (Regional Center for Asia-Pacific and CO in Myanmar and China), in close collaboration with IPRCC, brought on board all the ASEAN member countries for this year’s Forum and contributed significantly to the design of the forum agenda, identification of appropriate international speakers. Presentation of UNDP APRC’s study on MDGs Progress and Post 2015 Agenda in a Sub-regional Context and Making Access to Finance Possible for the Poor in Myanmar by Myanmar CO garnered significant attention.

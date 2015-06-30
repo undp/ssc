@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - SLE
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Strengthening women in Parliament and  gender equality and womens' empowerment.
+scale: country-country
+project_objective: Chair of Women caucus attended the CPA workshop for Women Members in the Parliament of Ghana where cooperative efforts and information exchange with other development partners were pursued and established.
+territorial_focus: fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The Chair of the Women Caucus in Parliament has led a number of gender sensitive and women empowerment initiatives including a dedicated radio programme targeting women as part of the Ebola Support and gender mainstreaming in Parliamentary support services.

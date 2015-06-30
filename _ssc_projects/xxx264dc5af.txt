@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - GEO
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments, private_sector
+project_title: Visit from Nepal government Delegation - economic development and private sector support
+scale: country-country
+project_objective: UNDP has supported to establishing cooperation between the government institutions of Nepal and Georgia related to private sector support and vocational education and training systems development. The activities in 2014 were limited to introductions of the Georgian model- policy, institutions, state programmes and reforms implementation.
+territorial_focus: mic
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+The results in 2014 were limited to the introductory phase of the cooperation while it laid down the ground for further cooperation for developing new policies and schemes for support of private sector and VET. Evidence - Nepmission. Web -http -//www.geotimes.ge/en/index.php/en/2014-05-06-22-51-46/home-today/item/1727-from-georgia-to-nepal

@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - GNB
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Projet d electrification rurale en utilisant des systemes d energie solaire
+scale: global 
+project_objective: Le projet vise a contribuer a  la qualite de vie des communautes en reduisant la pauvrete; et possiblitant l access a l energie solaire durable
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+project_link: 
+published: true
+import_source: june_2015
+---
+The IBSA fund for South-South Cooperation, managed by UNOSSC within UNDP, has provided 24 partner communities with access to sustainable solar energy in the main access roads towards the local initiatives (youth centres) allowing to improve communal security, access to water pumps and functional literacy.

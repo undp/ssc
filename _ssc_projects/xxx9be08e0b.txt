@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - PNG
+region: 
+  - asia_pacific
+partner_type: 
+  - cso, national_governments, private_sector
+project_title: Training course on Natural Resource Management and Human Development at Columbia University
+scale: global 
+project_objective: To support the formulation of, and ensure follow-up on the recommendations from the NHDR, GoPNG participated in this training course, exchanging lessons and experiences with representatives from Government, civil society and private sector from other countries.
+territorial_focus: sids
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+GoPNG actively participated in NHDR formulation process, and committed to presenting and discussing the NHDR policy options with Parliamentarians as well as Secretaries of Government Departments, both planned for 2015.

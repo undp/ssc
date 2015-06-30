@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - GIN
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Mise en place du Forum des femmes parlementaires de Guinee
+scale: regional
+project_objective: Suite a installation de Assemblee nationale, les femmes elues ont exprime le besoin de se constituer en reseau. Pour ce faire, le PNUD a apporte une assistance pour la venue de 3 femmes deputes du Burundi et de la Cote Ivoire en vue de partager leurs experiences dans ce domaine
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+UNDP facilitated exchanges between Burundi, Ivory Coast and Guinee that led to the creation of a Forum of Women’s Parlementarians (Constitutive General Assembly) and members of this forum have conducted advocacy and lobby campaigns for gender mainstreaming into public policies and decision making bodies.

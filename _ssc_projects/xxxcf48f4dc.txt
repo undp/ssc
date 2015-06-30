@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - MDA
+region: 
+  - europe_cis
+partner_type: 
+  - private_sector
+project_title: Trade mission to Poland on learning about modern technologies in production and use of biomass fuel
+scale: country-country
+project_objective: The mission contributed to increased cooperation between the private sector of Moldova and Poland resulting in transfer of modern technology for biomass fuel production and advancement of respective market in the country. As a result, 24 boilers out of 182 installed by the project are of Polish origin and are considered the most efficient, and two Moldovan companies  assembling boilers of Polish origin became the main suppliers of the household boilers under the subsidy programme
+territorial_focus: mic
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+Moldovan businessmen get to know Poland’s experience in bioenergy development - http -//trm.md/en/economic/businessmeni-moldoveni-descopera-experienta-poloniei-in-dezvoltarea-bioenergiei Moldovenii experimenteaza „Modelul polonez”, http -//evzmd.md/ro/economic/item/10410-moldovenii-experimenteaza-modelul-polonez.html

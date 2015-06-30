@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - NGA
+region: 
+  - africa
+partner_type: 
+  - cso, national_governments
+project_title: Learning Exchange for Nigerian Legislators, CSOs, NACA and Media on the Anti-Stigma HIV legislation in Kenya
+scale: regional
+project_objective: The stakeholders were sponsored on a learning visit to the Kenyan Parliament and also interacted with CSOs, media at the forefront of developing and implementing the anti-stigma law in Kenya.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Results from this exercise  include the incorporation of  a of innovative provisions such as; establishment of a special tribunal; provision for funding mechanisms such as levy/tax; capacity development plans for judges, lawyers, media to  enrich and make the anti-stigma -bill more result-focused. The bill has been passed by both houses and awaits the Presidents assent. (Source NACA-Learning visit to Kenya on the HIV Anti-Discrimination Legislation 7-12th March, 2014, Pg.22)

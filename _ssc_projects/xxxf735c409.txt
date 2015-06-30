@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - MDA
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Development of the economic potential of the Euroregion Dniester promoting  transborder cooperation between neighboring communities in Ukraine and Moldova, including its Transnistrian region
+scale: regional
+project_objective: Capacity building events and public forums (with participation of central/local gov, businesses, experts) were organized in 2014 to discuss the priorities for euroregion development. The recommendations will be used in designing the strategy for the economic development of the euroregion (Feb 2015). A 25-people study visit to Poland took place; the lessons and best practices learned there are being embedded in the strategy.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The initiative managed to develop considerable interest with the local authorities in both countries to deepen cross-border cooperation (see declarations in the Newsletter no. 5 http -//dniester.eu/en/article/1179 ) and enabled a participatory process that is currently being finalized into a strategic document for the economic development of the region

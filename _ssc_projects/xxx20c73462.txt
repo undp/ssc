@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Resilience building
+country: 
+  - HND
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Intercambio de experiencias  en gestión del riesgo de desastres entre Colombia y Honduras - avances en la planificación, el ordenamiento territorial y la gestión ambiental.
+scale: country-country
+project_objective: Una delegación de COPECO y la Alcaldía de Tegucigalpa se desplazó a Bogotá (Colombia) para el intercambio de prácticas locales (organizacionales, normativas y metodológicas) de gestión de riesgos de desastres. La misión fue coordinada y asistida por la Unidad de Medio Ambiente de la CO. Se prestó especial atención a las experiencias de constitución de un fondo municipal para la gestión local de riesgos y la organización y funcionamiento de la unidad técnica municipal de gestión de riesgos.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+El PNUD facilitó el intercambio de experiencias, expertos  y el encuentro entre las partes interesadas. La Alcaldía de Tegucigalpa adoptó el modelo de unidad técnica municipal (mediante Acuerdo de Delegación Núm 009-2014) y el compromiso de crear un fondo propio para su política local de gestión de riesgos en el municipio. B1.1_2

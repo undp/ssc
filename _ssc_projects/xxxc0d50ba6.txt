@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Resilience building
+country: 
+  - ZAF
+region: 
+  - africa
+partner_type: 
+  - cso, national_governments
+project_title: Building national and local capacity for the treatment of healthcare waste in countries impacted by the Ebola epidemic
+scale: regional
+project_objective: supports Governments of Ebola affected countries to improve their capacities to manage and treat healthcare waste resulting from the care of Ebola patients, by using environmentally safe, long-term solutions. The project provides autoclaves, which apply high-pressure steam to disinfect infectious healthcare waste, and are especially designed for Sub-Saharan Africa.
+territorial_focus: mic
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: http://www.undp.org/content/dam/undp/library/Poverty%20Reduction/Development%20Cooperation%20and%20Finance/South%20South%20Quarterly_Issue%203_Final.pdf
+published: true
+import_source: june_2015
+---
+UNDP in partnership with WHO, NGO Health Care without Harm with the support of the Goverment of South Africa developed Autoclaves  through the GEF programme which were deployed with UNDP’s financial and logistical support to Guinea, Liberia and Sierra Leone to safely dispose medical waste.

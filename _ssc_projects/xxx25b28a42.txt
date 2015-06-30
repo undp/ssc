@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - IRQ
+region: 
+  - arab_states
+
+partner_type: 
+  - cso, national_governments
+project_title: Participatory Governance/ support to Human Rights and Family Support, Justice and Security
+scale: country-country
+project_objective: UNDP Iraq formulated a programme in Iraq to support the Government’s efforts in creating a strategy to ensure that victims of DGBV and trafficking are offered refuge and support. This programme provides comprehensive technical and advisory support combined with extensive capacity building of known key stakeholders in Iraqi government as well as with non-governmental and civil society organizations and international support missions
+territorial_focus: fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Iraq has established sustainable institutions at federal and regional to combat DGBV with UNDP support. Family Protection directorates constitute the governmental reporting mechanism on DGBV. Iraq established the independent Human Rights Committee as federal National human rights institution and the Independent Board for Human Rights in KR-I to promote and protect Human Rights in the country. With UNDP support Budget developed and approved by the COR to ensure the sustainability

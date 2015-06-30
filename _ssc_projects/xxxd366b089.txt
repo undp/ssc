@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - JOR
+region: 
+  - arab_states
+
+partner_type: 
+  - national_governments
+project_title: Independent Election Commission of Jordan visits Bosnia and Herzegovina to observe elections 16 October 2014
+scale: country-country
+project_objective: The IEC officials visited numerous polling stations on election day. They observed polling and counting processes, as well as the announcement of preliminary results, and shared their impressions with the Central Election Commission of Bosnia and Herzegovina.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The IEC team proposed in their back to office reports measures to adjust internal practices of the IEC based on the knowledge gained during the study tour.

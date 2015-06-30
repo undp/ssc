@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - MDA
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Internship of two advisers from the Parliament Committee on National Security to the Parliament of Georgia
+scale: country-country
+project_objective: The advisers from the Moldovan Parliament Committee on National Security have recieved a hands-on experience, recieved knowledge from peers and developed the skills in the parliament oversight on the security sector
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The Parliament Committe on National Security organised 2 public hearings and 3 fact finding filed visits to get first-hand information on the progress of the security sector reform (http -//www.parlament.md/…/Page/0/language/ro-RO/Default.aspx)

@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - STP
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Stratégie de co-financement pour la mise en œuvre du Programme de Réforme de la Justice
+scale: country-country
+project_objective: Pour Timor-Leste, il y a eu une visite d’étude conduite par La Ministre de la Justice, le Procureur-Général de la République et le Président de la Cour Suprême ; Relativement au Brésil, les agents de la Police d’Investigation Criminelle (PIC) ont été outillés en techniques d’investigation et d’approche policières.
+territorial_focus: sids
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+  UNDP facilitated the signature of a Partnership MoU betwen Sao Tome & Principe and Timor Leste in the area of justice reform.

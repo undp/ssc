@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - WSM
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Pacific Adaptation to Climate Change  Regional Project (PACC) & Pacific Island Greenhouse Gas Abatement through Renewable Energy Project (PIGGAREP)
+scale: regional
+project_objective: The 2 projects are focused on CC and united 50 reps from 15 countries to discuss progress, challenges, lessons learned and share advice, experience, technology and solutions. Both projects participated in common trainings on M&E and on renewable energy through IRENA. For the SIDS Conference there was joint planning for side events and presentation of project results to donors. After the SIDS conference, the projects prepared statements for the UN Climate Summit.
+territorial_focus: sids
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+PACC -  construction of a climate proof harbor in Cook Islands; completion of 8.5km climate resilient roads in Micronesia & Vanuatu; installation of water tanks and solar purifiers in Tonga, Nauru, Niue through; research and promotion of climate resilient crops (taro, cassava, potatoes) in Fiji. PIGGAREP - Installation of 10 solar water pump systems in Tonga, and sharing their knowledge with Palau; change from fossil fuel to solar the main power source of Palmerston in Cook Islands.

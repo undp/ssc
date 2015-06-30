@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - TUN
+region: 
+  - arab_states
+
+partner_type: 
+  - national_governments
+project_title: Cooperation sud-sud dans le cadre de la promotion de l efficacite energetique en Tunisie.
+scale: country-country
+project_objective: Echange d experiences entre l Agence Nationale de Maitrise de l energie et son homologue a Djibouti sur les questions liees a l efficacite energetique.
+territorial_focus: mic
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+Signature d un protocole d’accord d une duree de deux ans renouvelables entre l’Agence Nationale de Maitrise de l Energie (Tunisie) et son homologue a Djibouti (Agence Djiboutienne de Maitrise de l Energie.

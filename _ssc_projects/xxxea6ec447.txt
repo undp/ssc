@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - GTM
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Intercambio de experiencias entre el Archivo Histórico de la Policía Nacional de Guatemala y el Archivo Histórico de Colombia.
+scale: country-country
+project_objective: Esta iniciativa se realizó con el objetivo de que el HPN dió a conocer al Archivo histórico de Colombia, los protocolos y modelos de trabajo para la estabilización archivística, incluyendo, procesamiento digitalización, resguardo y puesta a disposición del público de los archivos históricos.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://www.co.undp.org/content/colombia/es/home/presscenter/articles/2014/10/20/seminario-internacional-archivos-para-la-paz.html
+published: true
+import_source: june_2015
+---
+El PNUD facilitó el intercambio de experiencias, expertos  y el encuentro entre las partes interesadas. Resultado - Informe anual del Archivo Histórico de la Policía Nacional.

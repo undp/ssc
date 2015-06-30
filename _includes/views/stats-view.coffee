@@ -16,17 +16,17 @@ class StatsView extends Backbone.View
 
   _calculateStats: ->
     types = ['territorial_focus', 'thematic_focus', 'undp_role_type', 'partner_type']
-    # TODO: Check this is sensible - i.e. 
+    # TODO: Check this is sensible - i.e.
     #       - exclude filters where only one option
     #       - exclude filters where no options
-    _.map types, (type) => 
+    _.map types, (type) =>
       type: s.humanize(type)
       values: @_createArrayFor(type)
 
   _createArrayFor: (type) ->
     rawInput = app.projects.prepareFilterGroupForType(type, sortBy: 'name')
 
-    total = _.inject(rawInput, (memo, value) -> 
+    total = _.inject(rawInput, (memo, value) ->
       memo + value.activeCount
     , 0)
 
@@ -41,7 +41,7 @@ class StatsView extends Backbone.View
 
     # Ensure proportions add to 100
     vals = @_roundly(_.pluck(output, 'proportion'), 100)
-    
+
     _.map output, (i, index) ->
       i.proportion = vals[index]
       i

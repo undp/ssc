@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - GEO
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Support to Ukraine Ombudsperson visit to Georgia
+scale: country-country
+project_objective: Delegation of Ukrainian officials headed by the Ombudsperson visited Georgia to study country experiences concerning work of Public defender, development of national human rights strategy and action plan, protection of personal data, safeguarding rights of IDPs , including issues related to national preventive mechanism, anti-discrimination legislation, etc. The delegation had high-level meetings with Georgian MPs, Public Defender, Ministers and Deputy Ministers.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The Government of Ukraine actively works on elaboration/adoption of national human rights strategy

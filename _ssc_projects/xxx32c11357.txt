@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - BIH
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Regional Conference on Victim Witness Support
+scale: regional
+project_objective: UNDP BiH funded participation of 37 WS practitioners from BiH, FYR Macedonia, Montenegro, Serbia, Croatia at the Regional Conference of Victim Witness Support in Belgrade, offering them an opportunity to exchange their experience and knowledge.
+territorial_focus: fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The conference helped unifying operational procedures of witness support offices and  devising ways to strengthen institutional referral mechanisms relevant for systemic and long-term support to victims and witnesses. The findings also facilitated UNDP’s continued support to relevant state and entity level institutions and partners in the process of forming efficient and functioning network of victim-witness support providers.

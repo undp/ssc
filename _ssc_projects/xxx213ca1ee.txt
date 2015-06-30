@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - NER
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Formation des ONG intervenant dans le cadre des Plateformes Multi fonctionnelles
+scale: country-country
+project_objective: Un expert du projet national de Plateformes Multifonctionnelles (PTFM) au Mali est venu au Niger pour dispenser une formation à 10 ONG, 1 bureau d’études et l’équipe du projet PTFM Niger en suivi évaluation des PTFM
+territorial_focus: ldc
+undp_role_type: 
+  - builder_of_capacities
+project_link: 
+published: true
+import_source: june_2015
+---
+UNDP facilitated capacity development in the area of data collection and processing of Niger national stakeholders involved in the Multifunctional Platform (MFPT) through a training by a MFPT expert from Mali. This allowed for substantial quality improvement of the 2014 self-evaluation of MFPTs. 

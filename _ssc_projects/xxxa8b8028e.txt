@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - DJI
+region: 
+  - arab_states
+
+partner_type: 
+  - national_governments
+project_title: Initiative de coopération  Sud-Sud entre l’Agence Djiboutienne de Maitrise de l’Energie et l’Agence Nationale pour la Maitrise de l’Energie de Tunisie
+scale: country-country
+project_objective: L’initiative consiste à organiser des échanges  entre les deux agences en matière de maitrise de l’énergie. L’Agence Djiboutienne est nouvelle et n’a que deux années d’existence alors que l’Agence Tunisienne a été créée en 1985 et possède une expérience solide en matière de politique de maitrise de l’énergie. L’initiative a établi un accord de coopération de deux années entre les deux agences. Deux missions d’échange ont été organisés entre les deux agences
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+La mission  de l’Agence Tunisienne à Djibouti a fait un plaidoyer auprès du Ministre de l’Energie  et auprès  des ministères du budget et du ministère de l’environnement. Grace à ce plaidoyer, le gouvernement a décidé d’allouer un budget pour des projets de maitrise de l’énergie en 2015. D’autre part la coopération avec la Tunisie et celle entre le PNUD Tunisie et le PNUD Djibouti a permis d’identifier des axes de coopération dans le domaine de la  maitrise de l’énergie.

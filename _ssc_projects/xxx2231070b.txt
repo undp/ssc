@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - MKD
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Forms of education (formal, informal) available to people serving prison sentences
+scale: country-country
+project_objective: Overview of forms of education (formal, informal, vocational) available to people serving prison sentences has been initiated in 2014. Distribution of mandates and responsibilities of all actors involved in providing educational services to people serving prison sentences has been analysed through the Croatian case.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The acquired knowledge was reflected in the developing protocol within the Directorate for Execution of Sanctions for the establishment and methodology for delivery of trainings to inmates. This initiative will continue in 2015 with additional forms of transfer of know-how, aiming at delivering specific training curricula to country structures.

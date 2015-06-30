@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - UGA
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Capital freight reversal and development financing and Project management and financial resource mobilization
+scale: regional
+project_objective: The UNDP-funded initiative was to guide developing countries within East African region in building strong relationships with local, regional, and International development partners and be able to manage their freight, manage projects and their corresponding resources.
+territorial_focus: ldc
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+Existence of a functional Public Investment management Information system. 

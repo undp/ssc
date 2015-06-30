@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - IDN
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Knowledge Exchange on the Development of the Forest Governance Index for REDD+ Implementation (Participatory Governance Assessment for REDD+, PGA-REDD+ 71337)
+scale: country-country
+project_objective: The Indonesia and Vietnam COs jointly facilitated a knowledge sharing activity on the implementation of the PGA for REDD+ in Indonesia. Indonesia officials shared  information on their work in providing robust REDD+ governance data, lessons learned, & also strategies to fit PGA into the implementation of the larger REDD+ programme. Participants also looked at examples of how different Indonesian actors are using the PGA data & stakeholder platforms in their work.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+After the April visit, Lam Dong (VNM) and Jambi (IDN) provinces have signed a MoU on 18 Sep 2014 to strengthen cooperation in the following areas -  1)High Tech Agriculture Development 2)Exchange and share experience in forest management, protection and development, & other activities related to REDD+ 3)Exchange information & experts between the 2 provinces 4)Share and exchange agricultural techniques & methods (E111 MoU IDN-VNM; E112 IDN-VNM Visit)

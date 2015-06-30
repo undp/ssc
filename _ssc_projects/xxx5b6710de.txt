@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - CIV
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Echange d experiences et de participation a la quatrieme Assemblee Generale de la  Kigali International Conference  Declaration – KICD;  au Rwanda - 22 novembre au 01 decembre 2014
+scale: country-country
+project_objective: Le bureau pays a favorise une mission de cooperation entre la Cote d’Ivoire et le Rwanda, qui a permis aux acteurs nationaux de securite ( police, gendarmerie, conseil National de securite, Ministere de l’interieur, Assemblee nationale) de s’impregner des bonnes pratiques de ce pays en matiere surtout de strategies et d’indicateurs de performance policiere et de controle democratique de l’action des forces de police.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+ UNDP has facilitated a study tour between Ivory Coast and Rwanda allowing National Security Stakeholders (Police, Gendarms, National Security Council, Ministry of Internal Affairs and National Assembly) to study good practices. The initiative has taken place at the end of 2014 (December) and has so far allowed for initial meetings for the development of performance indicators of the National Police. Participants were satisfied by the tour. 

@@ -1851,7 +1851,8 @@
     "iso3": "RWA",
     "lon": "29.917652",
     "type": "country",
-    "map_short": "RW"
+    "map_short": "RW",
+    "territorial_focus": "ldc"
   },
   {
     "name": "Saudi Arabia",
@@ -2016,7 +2017,8 @@
     "iso3": "SWZ",
     "lon": "31.497528",
     "type": "country",
-    "map_short": "SZ"
+    "map_short": "SZ",
+    "territorial_focus": "none"
   },
   {
     "name": "Seychelles",
@@ -2140,7 +2142,8 @@
     "iso3": "TTO",
     "lon": "-61.253177",
     "type": "country",
-    "map_short": "TT"
+    "map_short": "TT",
+    "territorial_focus": "sids"
   },
   {
     "name": "Tunisia",
@@ -2365,7 +2368,8 @@
     "iso3": "ZWE",
     "lon": "29.729518",
     "type": "country",
-    "map_short": "ZW"
+    "map_short": "ZW",
+    "territorial_focus": "none"
   },
   {
     "name": "Kosovo (SCR 1244)",

@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - URY
+region: 
+  - lac
+partner_type: 
+  - cso, national_governments
+project_title: Politicas publicas del cuidado en Cuba.
+scale: country-country
+project_objective: Cuba avizora poner en marcha politicas de cuidados. En ese marco, con apoyo de PNUD (Cuba y Regional) y CEPAL se identificaron experiencias de la region entre ellas la de Uruguay. Parte del elenco de gobierno y de una cooperativa social de la Red Por cuidados realizaron asistencia tecnica y presentaron la experiencia en un taller en diciembre de 2014.
+territorial_focus: hic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+El PNUD facilitó el intercambio de experiencias, expertos  y el encuentro entre las partes interesadas. En base a la informacion enviada por la oficina del PNUD Cuba, el aporte de las experiencias de Uruguay, tanto desde la representacion gubernamental como de la sociedad civil, fue muy pertinente y util en la fase actual de debate en el pais. En ese sentido, los insumos provistos por la delegacion de Uruguay fueron incorporados y se consolido una linea de intercambio permanente entre los actores claves de los dos paises.

@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - HRV
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: The Regional EU Advisors Facility
+scale: country-country
+project_objective: Based on requests received from national counterparts for assistance to provide policy advice and support related to the EU accession, UNDP has set up a regional facility that provided expertise through advisors on regional and rural development policy and on rule of law policy. Approximately 2660- public servants in all beneficiary countries have been involved in different types of training and knowledge-sharing activities, 94 missions were carried out and roster of 50 experts was established.
+territorial_focus: hic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+each EU candidate country monitoring progress report issued by EC annualy

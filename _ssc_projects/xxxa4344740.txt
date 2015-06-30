@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - SLV
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Intercambios de experiencia sobre la aplicación de las cuotas de participación política de las mujeres
+scale: country-country
+project_objective: Como parte de los apoyos brindados a la Asamblea Legislativa tuvo lugar una conferencia web sobre “Aplicación de Leyes de Cuota en El Salvador” entre las magistradas del TSE y diputadas de la Asamblea Legislativa de El Salvador con magistradas del Tribunal Supremo Electoral de México (Magistrada María del Carmen Alanis)  y Ecuador (Roxana Silva, Consejera Nacional Electoral) para profundizar en los mecanismos de cuota institucional.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://www.asamblea.gob.sveparlamento/indice-legislativo/buscador-de-documentos-legislativos/ley-de-partidos-politicos
+published: true
+import_source: june_2015
+---
+El PNUD tuvo el rol de broker de conocmiento y facilitó el intercambio de experiencias así como en el encuentro entre los interesados .Como resultado de esta iniciativa, el Grupo Parlamentario de Mujeres reforzó el artículo sobre la cuota de participación política para asegurar que la cuota se cumpliera en la elección de Concejos Municipales plurales.  

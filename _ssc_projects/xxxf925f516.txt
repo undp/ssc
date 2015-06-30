@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - EGY
+region: 
+  - arab_states
+
+partner_type: 
+  - national_governments
+project_title: Participation of an Egyptian delegation in  the Association of European Electoral Officials’ Meeting in Romania
+scale: country-country
+project_objective: The Electoral Advisor to the Prime Minister, the Minister of Transitional Justice & the High Elections Committee Spokesperson attended the Annual Conference & General Assembly Meeting of the Association of European Electoral Officials organized in Romania. It reflected on topics such as the participation of women in electoral processes & current trends in electoral management. 2 of the Egyptian participants are involved in the legislative drafting for the future electoral management body
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The event is one of a series of events to raise awareness and advocate for increased women representation and gender mainstreaming in electoral administration. These efforts eventually contributed to increasing women members in the Secretariat of the High Elections Committee from 1 to 4

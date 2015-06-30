@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - MNE
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Regional EU Integration Facility
+scale: country-country
+project_objective: Croatia is leading the regional Eu integration facility and Montenegro benefited from expert support for Chapter 24
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Revision of the Action Plans for Chapter 23 and 24 ongoing.

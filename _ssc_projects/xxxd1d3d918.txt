@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - PAK
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Scoping mission on extractives industry in Pakistan with reference to Article 172(3)- Joint and Equal Ownership of Oil and Gas Resources
+scale: country-country
+project_objective: The scoping mission would engage with all stakeholders to collect data, generate interest, and identify entry points to operationalize  the constitutional provisions regarding sharing of revenues from extractive industries and using the revenues for development projects, particularly for the sustainable livelihood and job creation in the provinces. Subsequently, it is expected that the mission would be able to prepare a strategy document for UNDP Pakistan to work on Extractive Industries.
+territorial_focus: mic
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+The engagement in 2014 was only to finalize terms of reference and agree upon the composition of the scoping mission. The scoping mission would arrive in 2015 and complete its deliverable during the same year as well.

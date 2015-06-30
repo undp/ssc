@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - NGA
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Strategic planning, policy and operational capacities of INEC in ICT and Election 
+scale: regional
+project_objective: Peer learning and knowledge transfer on opportunities and limitations on ICTs in the electoral process
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Lessons learned from the conference contributed to INEC developing   contingency plans to support the deployment of ICTs for the 2015 electoral process

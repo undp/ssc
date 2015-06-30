@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - BDI
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: ’PLAN DIRECTEUR INNOVANT POUR GUIDER LE DEVELOPPEMENT A VENIR DE LA CAPITALE DU BURUNDI’’
+scale: country-country
+project_objective: Elaborer le Plan strategique directeur de Bujumbura 2015 (Bujumbura et ses environs)
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+project_link: 
+published: true
+import_source: june_2015
+---
+ UNDP facilitated a partnership agreement between the Government of Burundi and Singapore for the development of the Bujumbura Master Plan 2040; This project will be implemented during 14 months in Bujumbura aiming to improve urban planning towards a more harmonic occupation of the city;

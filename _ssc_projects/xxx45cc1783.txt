@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - UZB
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Mission of the Deputy Director of the UNDP Global Centre for Public Service Excellence (GCPSE) to Tashkent, Uzbekistan (December 2014)
+scale: country-country
+project_objective: Mission of the Deputy Director (Arndt Husar) of the UNDP Global Centre for Public Service Excellence (GCPSE, Singapore) to Tashkent, Uzbekistan  to provide consultations with the stakeholders, and contribute to the discussion at the workshop on regulatory impact assessment (RIA). The focus of the mission was to examine how Singaporean example could be utilized in the context of Uzbekistan.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+In particular the workshop on RIA served as a new platform to exchange knowledge, to further strengthen multilateral partnership, and to support the ongoing legal and regulatory reforms by setting new standards and qualitative benchmarks to lawmaking. It also helped to discuss the ways to improve relevant legislation and procedural provisions with a view to implement RIA, and to increase the quality of regulations and law making.[57]

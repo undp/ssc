@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - GNB
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Projet Appui a la rehabilitation des rizieres et le traitement des produits agricoles et animaux
+scale: global 
+project_objective: LThe project and its knowledge exchange aspects has allowed rehabilitation of rice fields to increase production, conservation of soil and water, avoidance of deforestation of new areas ; Seeds and Vegetables have been distributed to contribute to the nutrition of beneficiaries; new technologies were introduced for reduction of manual labor (peeling, mixing) and for meat and fish transformation.
+territorial_focus: 
+undp_role_type: 
+  - builder_of_capacities
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The project and its knowledge exchange aspects has allowed rehabilitation of rice fields to increase production, conservation of soil and water, avoidance of deforestation of new areas ; Seeds and Vegetables have been distributed to contribute to the nutrition of beneficiaries; new technologies were introduced for reduction of manual labor (peeling, mixing) and for meat and fish transformation.

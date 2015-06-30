@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - YEM
+region: 
+  - arab_states
+
+partner_type: 
+  - national_governments
+project_title: Experience sharing field mission to Peru for the Aden Dismissals Commission
+scale: country-country
+project_objective: UNDP Yemen Transitional Justice Project organized experience sharing field visit to Peru. The purpose of the mission was to enable representatives of the Commission to get more information on issues which are of critical importance for the Commission’s work- screening; treating urgent claims; Grouping cases; innovative remedies that do not involve only monetary compensations; categorizing claims, so as to be able to make group decisions; Database; Evidences; sensitive cases; Public relations
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Until June 2014 the commission finalized only 3000 cases. During the mission in Peru the Commission had the opportunity to concretely observe how reparation was functioning in Peru and was confronted to specific cases and how cases were solved. By providing range of technical information and solutions relevant to the Commission’s work, the Commission managed to define appropriate resolutions. Following the mission in Peru, the Dismissals Commission solved 15000 of individual and mass claims

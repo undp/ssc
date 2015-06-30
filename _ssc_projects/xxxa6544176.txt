@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - SLV
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Ahorro familiar y mejoramiento de dieta de mujeres y hombres de familias pobres de El Salvador utilizando artefactos mejorados para disminuir el consumo de leña y usar la energía solar
+scale: country-country
+project_objective: 180 familias de zonas rurales con alta vulnerabilidad ante la pobreza y el hambre son beneficiadas. Participó en intercambio y aprendizaje de  transferencia de tecnologías socialmente apropiadas al fabricar e instalar 4 diferentes tipos de  cocinas ahorradoras de leña,
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: https://undp-my.sharepoint.com/personal/rene_guzman_undp_org/Documents/Shared%20with%20Everyone/Coop%20Sur-Sur
+published: true
+import_source: june_2015
+---
+El PNUD tuvo el rol de broker de conocmiento y facilitó el intercambio y la sistematización de las experiencias. Resultado - documento de sistematización 

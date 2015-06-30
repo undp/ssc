@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: China-Ghana South-South Cooperation on Renewable Energy Technology Transfer
+scale: regional
+project_objective: The project will ensure that 1) Ghana has an enabling environment in place for the transfer, 2) production and regulation of the use of Renewable Energy Technologies in Ghana, has and increased access to and use of relevant Renewable Energy Technologies (RETs) and 3) that China’s has strengthened capacity for South South Cooperation in relation to RET transfer.
+territorial_focus: mic
+undp_role_type: 
+  - builder_of_capacities
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The project formulation was ended with an official submission to the Danish Government in may 2014. This was followed by an approval and the signing of a cost share agreement between the Danish Embassy in Beijing and UNDP China. In August 2014 the Project documents for the Chinese sub-project were signed in China.

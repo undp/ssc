@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - PAK
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: “Legal Empowerment and Capacity Building” at BRAC Centre, Dhaka - Bangladesh on 14-15 December 2014.
+scale: country-country
+project_objective: The South Asian Institute of Advanced Legal and Human Rights Studies (SAILS) has organized a workshop “Legal Empowerment and Capacity Building”. The Workshop was a step to discuss the possibility of a regional level training curriculum for the Community Paralegals. The curriculum will focus on local dispute resolution, gender and legal right.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+There was general consensus on a training curriculum for the key personnel responsible for designing and implementation of paralegals and legal aid projects at regional level and a second curriculum for the paralegals at the regional level.  It was also agreed that a ‘Board’ on the subject will be established having membership from the South Asian Countries.

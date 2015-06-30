@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - ARG
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Transferencia de conocimiento sobre la gestión de MYPYMES y Grupos asociativos/Cooperativas para conformación de Sistemas Productivos Locales
+scale: regional
+project_objective: Intercambio de experiencias y asistencias técnicas para la transferencia de conocimiento sobre la gestión de MYPYMES y Grupos asociativos/Cooperativas para conformación de Sistemas Productivos Locales.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://www.ar.undp.org/content/argentina/es/home/operations/projects/poverty_reduction/sistprodlocales.html, http://www.ar.undp.org/content/dam/argentina/Des%20Inclusivo/undp_ar-desprod_12005evisi%C3%B3n%20B.pdf
+published: true
+import_source: june_2015
+---
+El PNUD facilitó el intercambio de la experiencia argentina sirviendo como broker de conocimiento entre los expertos argentinos y los tecnicos visitantes de los países socios.  El intercambio se tradujo en que el Gobierno de Santa Lucía pudiese replicar la experiencia diseñando un proyecto con instrumentos de gestión y metodologías similares al proyecto de Argentina. La transferencia de conocimientos fue teórica y de trabajo de campo para funcionarios y grupos asociativos. Se desarrollaron misiones inversas para conocer experiencias de grupos asociativos y cooperativas de provincias y agencias argentinas de interés para el proyecto.

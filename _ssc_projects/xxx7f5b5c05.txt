@@ -1,0 +1,20 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Sustainable development pathways
+country: 
+  - SLV
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Pueblos Vivos, experiencia de desarrollo económico para el Desarrollo Humano
+scale: regional
+project_objective: Se sistematizó la experiencia de movilización de las economías locales vinculadas al turismo interno que abarcó 197 municipios de 262 total del país. Que ha sido en presentada incluso en eventos internacionales, como el Foro Internacional de Desarrollo Económico Local en Iguazú, Brasil  en noviembre 2014.
+territorial_focus: mic
+undp_role_type: 
+project_link: http://www.sv.undp.org/content/el_salvador/es/home/presscenter/articles/2014/06/10/pnud-entreg-sistematizaci-n-de-estrategia-tur-stica-pueblos-vivos-.html
+published: true
+import_source: june_2015
+---
+El PNUD tuvo el rol de broker de conocmiento y facilitó el intercambio de experiencias. Resultado - documento de sistematización de la experiencia

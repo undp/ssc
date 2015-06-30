@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - UKR
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Study tour by the Ukrainian Parliament Commissioner for Human Rights (Ombudsperson), its office and representatives of relevant ministries to Georgia
+scale: country-country
+project_objective: Representatives of state authorities (Office of the Ombudsperson, Ministry of Justice, Ministry of Foreign Affairs, Secretariat of the Cabinet of Ministers, and Parliament Committee on Human Rights) visited Tbilisi to gain insight into the experience of their Georgian counterparts in the development of the National Strategy on Human Rights and Action Plan.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Following the study tour the Office of the Ombudsperson kick-started the process of bringing stakeholders and responsible parties to discuss the structure of the Ukrainian National Strategy on Human Rights which was later picked by the Ministry of Justice of Ukraine who chaired the process and through establishment of a number of thematic working groups (of which UNDP was member of) ensured the development of the first draft of the National Strategy for public discussion.

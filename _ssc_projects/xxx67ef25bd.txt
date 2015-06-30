@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - MKD
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Business-to Business meetings
+scale: country-country
+project_objective: The initiative derives from UNDP's support to inclusive development at sub-national level. Through the  inclusive, multi-stakehodler network established in one of the regions with UNDP support, UNDP supported business-to-business partnership between the region and Kosovo businesses, focused on investments and business development. The is listed for FYR Macedonia because Kosovo is not in the list.
+territorial_focus: mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The initiative fed directly in the achievemnts of the UNDP supported Inclusive Network of the Vardar Planning Region, part of the UNDP Local Development Programme. The results can be verified in the records of the council of the planning region.

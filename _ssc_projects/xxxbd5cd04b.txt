@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - SOM
+region: 
+  - arab_states
+
+partner_type: 
+  - national_governments
+project_title: Community Capacity enhancement  refresher trainings and onsite support visit
+scale: regional
+project_objective: There has been a peer review and onsite community-to-community exchanges aimed at generating an intensive co-learning opportunity in which communities share strengths, challenges, results, ways of working, and ways forward. CCE practitioners from Zambia and Senegal led and guided the exchange process
+territorial_focus: ldc
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+The CCE-CC approach is outstanding and has been embraced in pilot communities with early signs of its potential to achieve great impact on transforming GEWE issues. CCE-CC facilitating organizations observed and reported positive changes in community perspectives and attitudes. The reported changes will have to be validated by in-depth interviews with more community members and others not involved in facilitating conversations.

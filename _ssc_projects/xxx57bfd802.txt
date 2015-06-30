@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - KGZ
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Providing Technical Support to Improve Sanitary, Phytosanitary, and Veterinary Safety, Including the Work Towards Kyrgyzstan’s Accession to the Customs Union
+scale: country-country
+project_objective: providing expertise and technical assistance in preparation and implementation of first-priority measures for improving sanitary, phytosanitary and veterinary safety in the Kyrgyz Republic in accordance with the requirements of the Customs Union
+territorial_focus: ldc
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Technical consultations organized, scoping exercise completed for a full-scale project that can potentially be funded from the grant that Russia had allocated to Kyrgyzstan as technical assistance for Customs Union accession. The knowledge and experience sharing on sanitary, phytosanitary and veterinary standards in Kyrgyzstan has been adapted for implementation in Tajikistan. Project funded by Russia

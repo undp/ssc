@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - Inclusive and effective democratic governance
+country: 
+  - NAM
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Support the review of the Environmental Impact Assessment for the Kazungula bridge to mitigate the spread of HIV to adjacent countries (Zambia, Namibia, Botswana and Zimbabwe)
+scale: regional
+project_objective:  strengthen regional cooperation on integrating CCIs in cross-border infrastructure projects using the Kazungula Bridge Project. The aim of the project is to 1) formulate standard operating procedures from developed guidelines for practical integration of HIV and Gender into EIAs; AND 2) reach consensus on a common engagement framework for SADC or COMESA , with clarity on Division of Labor among Countries and Stakeholders on how to strengthen the integration of health, HIV, Gender and Human rights
+territorial_focus: mic
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: 
+published: true
+import_source: june_2015
+---
+Supported the review process of the EIA to ensure the integration HIV and gender into the EIA process.

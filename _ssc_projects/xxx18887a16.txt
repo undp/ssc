@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - SOM
+region: 
+  - arab_states
+
+partner_type: 
+  - national_governments
+project_title: Transformational political leadership for Somalia
+scale: regional
+project_objective: UNDP Somalia provided support to UN Women to conduct a workshop on transformational political leadership for Somalia. Women Political Leaders, including female MPs benefited from the workshop with held in Ethiopia on 12th -17th May 2014.  Parliament Experts, women MPs from Uganda, Tanzania and Kenya were invited to the workshop to share experience and exchange knowledge.
+territorial_focus: ldc
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Transformational political leadership for Somalia enhanced the leadership skills of women MPs and revived the Somali women parliamentary association

@@ -1,0 +1,21 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - 
+country: 
+  - FJI
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Sharing of best practices from Palau - Renewable Energy Subsidy Program and the Renewable Energy Fund Window
+scale: regional
+project_objective: Officials from the National Development Bank of Palau visited the Republic of Marshall Islands and the Federated States of Micronesia (as per official request) to provide advice on the establishment and operation of the Renewable Energy Subsidy Program and the Renewable Energy Fund Window.
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: june_2015
+---
+Strong buy-in from Development Bank in the Marshall  to establish a Renewable Energy (RE) subsidy programme, with support from UNDP and other partners. Contract was signed between the Government and the Marshall Islands Development Bank (MIDB)  to establish a seed fund for the purchase of viable RE products to be made available to consumers.  Training  for local financial institutions on how to develop a RE & Energy Efficiency loan scheme was done that went a long way in effective implementation
