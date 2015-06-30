@@ -19,6 +19,7 @@
       window.preloadData = {};
       preloadData.countries = {% include data/countries.json %};
       preloadData.indices = {% include data/indices.json %};
+      preloadData.updated_at = "{{ site.time }}";
     </script>
 
     {% include footer.html %}

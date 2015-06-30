@@ -6,23 +6,17 @@ $(document).ready ->
 
 # TODO: @refactor to Projects collection
 app.checkCachedDataAndLaunch = ->  # Check whether cached data is up-to-date
-  $.getJSON('/api/projects_updated_at.json'
-  ).done( (data) -> 
-    updated_at = data.updated_at # Last projects data update date
-    cached_updated_at = localStorage.getItem('updated_at')
+  updated_at = preloadData.updated_at # Last projects data update date
+  cached_updated_at = localStorage.getItem('updated_at')
 
-    if Date.parse(cached_updated_at) >= Date.parse(updated_at)
-      # No updated data available
-      localLaunch(updated_at)
-    else 
-      # Updated data available. Force retrieve from remote
-      console.info 'Updating cached Projects data'
-      remoteLaunch(updated_at)
+  if Date.parse(cached_updated_at) >= Date.parse(updated_at)
+    # No updated data available
+    localLaunch(updated_at)
+  else 
+    # Updated data available. Force retrieve from remote
+    console.info 'Updating cached Projects data'
+    remoteLaunch(updated_at)
 
-  ).fail( (error) ->
-    # Getting project updated date has failed
-    console.error(error)
-  )
 
 # Launch trying localStorage first
 localLaunch = (updated_at) ->
