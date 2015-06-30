@@ -3426,7 +3426,7 @@
       "source_file" : "2014_ROAR_main.csv",
       "bureau" : "RBEC",
       "region" : "europe_cis",
-      "country_iso3" : "Czk",
+      "country_iso3" : "Cze",
       "project_title" : "Czech-UNDP Trust Fund",
       "project_objective" : "South-South/East-East initiative involving Kazakhstan, Kyrgyzstan and Armenia on sharing Czech experience in implementing the EU Energy Performance in Buildings Directive).",
       "partner_countries" : null,
