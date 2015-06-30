@@ -11,7 +11,8 @@ partner_type: <% _.each(partner_type, function(i) { %>
 project_title: <%= project_title %>
 scale: <%= scale %>
 project_objective: <%= project_objective %>
-territorial_focus: <%= territorial_focus %>
+territorial_focus: <% _.each(territorial_focus, function(i) { %>
+  - <%= i %><% }); %>
 undp_role_type: <% _.each(undp_role_type, function(i) { %>
   - <%= i %><% }); %>
 project_link: <%= project_link %>
