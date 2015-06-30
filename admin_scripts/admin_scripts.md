@@ -68,3 +68,10 @@ This document outlines the steps taken to go from an Excel file of all the proje
       "project_link"      : project.project_link
     }
 ```
+
+### Helping hands
+
+`fswatch -0 ~/Downloads/SSC_additional_data_June_2015.txt | xargs -0 -n1
+-I'{}' mv '{}' .` watches the Downloads folder for the next export, and
+moves into the right folder for processing. Useful while refining the
+field naming and import process.
