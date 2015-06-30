@@ -1,0 +1,23 @@
+---
+open_project_id: "00058496"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+country: 
+  - AZE
+region: 
+  - europe_cis
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: Supporting integrated border management systems in the South Caucasus Integrated Boarder Management (SCIBM)
+scale: country-country
+project_objective: Objectives- To enhance inter-agency, bilateral and regional co-operation between the SC countries, EUMS and other international stakeholders; To facilitate the movement of persons and goods across borders. Develop and establish broad BCP level procedures and operations. Enhance strategic border management capacities; target groups- Armenia, Azerbaijan, Georgia. Project is funded by the EU and UNDP. 
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00058496
+published: true
+import_source: 275
+---
+UNDP facilitates study tours for decision makers and operational staff from all three countries to EU member states. UNDP will facilitate the information exchange between the three countries which allow for the improved border management capacities and strengthened cooperation. The agency has the lead in the consortium composed by several members (national, law-enforcement institutions), and is in charge of selecting a Principle Advisor.

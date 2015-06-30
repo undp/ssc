@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+country: 
+  - SLE
+region: 
+  - africa
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: The India-Brazil-South Africa (IBSA) partnership - Project on Leadership Development and Institutional Capacity Building in Sierra Leone
+scale: country-country
+project_objective: To strengthen the capacity of key central institutions – the Ministry of Foreign Affairs, the Cabinet Secretariat and the Strategy and Policy Unit in the Office of the President - to implement reforms that promote good governance and improved service delivery. This includes supporting Human Resource planning and management, strategy and policy development, and the implementation and monitoring of delivery. The Project's overall goal is to ensure these agencies and their senior staff have the capacity for strategic and modern management and decision-making that supports improved service delivery so as to reduce poverty, achieve the Millennium Development Goals (MDGs) and support human development in Sierra Leone. 
+territorial_focus: 
+  - fragile_states
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+project_link: http://www.undp.org/content/dam/sierraleone/docs/projectdocuments/demgov/undp_sle_IBSAprodoc.pdf
+published: true
+import_source: 275
+---
+UNDP facilitated a working relationship and co-operation between IBSA members and Sierra Leone and advancing South-South cooperation.  Given that some of the IBSA members, such as South Africa, went through some of the challenges that Sierra Leone had undergone, UNDP can assist the government in drawing upon lessons from both its successes and failures and best practices as it makes it through its post-war construction and development. 

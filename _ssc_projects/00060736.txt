@@ -1,0 +1,22 @@
+---
+open_project_id: "00060736"
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - BRA
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: South-South Project to Strengthen the Ministry of Public Health and Population
+scale: country-country
+project_objective: This project falls within the framework of the Memorandum of Understanding between Brazil, Cuba and Haiti, to the strengthening of the health system and epidemiological surveillance in Haiti between the Ministries of Health of Brazil, Cuba and Haiti in the context of reconstruction of that country. It seeks the institutional strengthening of the health authority- Ministry of Public Health and Population of Haiti, strengthening the capacity of epidemiological surveillance, vocational training of Haitian health technicians and training of community health workers. 
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00060736
+published: true
+import_source: 275
+---
+UNDP supports knowledge exchange among Haiti, Cuba and Brazil. UNDP Haiti experience and know-how in rebuilding the country will serve as an important component. Missions to monitor the progress and exchange experience are planned. UNDP is also responsible for the development of planning activities, monitoring and assistance in the procurement of goods and services. 

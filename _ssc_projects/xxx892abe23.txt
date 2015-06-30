@@ -1,0 +1,27 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+country: 
+  - CHL
+  - JAM
+  - VGB
+  - TTO
+  - BRB
+region: 
+  - lac
+partner_type: 
+  - regional_inter_governmental_organizations
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: Caribbean Risk Management Initiative (CRMI), phase II
+scale: regional
+project_objective: 
+territorial_focus: 
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: 275
+---
+UNDP facilitated the systematization of lessons learned and the promotion of exchanges of experiences to disseminate them at the national and regional level in LAC, in support of capacity strengthening for the Disaster Risk Management of government and key stakeholders at the local level. 

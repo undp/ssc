@@ -1,0 +1,52 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - AFG
+  - BGD
+  - BTN
+  - KHM
+  - COK
+  - FJI
+  - IND
+  - IDN
+  - JPN
+  - KIR
+  - KOR
+  - KGZ
+  - LAO
+  - MDV
+  - MNG
+  - NPL
+  - PAK
+  - PNG
+  - PHL
+  - WSM
+  - SLB
+  - LKA
+  - THA
+  - TLS
+  - TON
+  - VUT
+  - VNM
+region: 
+  - asia_pacific
+partner_type: 
+  - regional_inter_governmental_organizations
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: Capacity development for  development effectiveness (CDDE) facility for Asia and Pacific
+scale: regional
+project_objective: To help countries share country level experiences in the Asia-Pacific region to enhance development effectiveness. It also seeks to support wider development effectiveness knowledge with on the ground examples of successes and lessons learned on the demand-driven basis. CDDE has over 1,000 members from 74 countries across Asia and the Pacific, Middle-East, Africa, North America, Latin America, Europeand CIS countries. 27Asia-Pacific countries have so far benefited from the CDDE Facility, including- Afghanistan, Bangladesh, Bhutan, Cambodia, Cook Islands, Fiji, India, Indonesia, Japan, Kiribati, Korea, Kyrgyzstan, Lao PDR, Maldives, Mongolia, Nepal, Pakistan, Papua New Guinea, Philippines, Samoa,Solomon Islands, Sri Lanka, Thailand, Timor-Leste, Tonga, Vanuatu and Vietnam.
+territorial_focus: 
+  - fragile_states
+  - ldc
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://www.aideffectiveness.org/CDDE-Capacity-Development-for-Development-Effectiveness-Facility.html#about_cdde
+published: true
+import_source: 275
+---
+UNDP co-funds the initiative through its Asia-Pacific Regional Centre in Bangkok. UNDP's role is to facilitate knowledge exchange between the participating countries.

@@ -1,0 +1,24 @@
+---
+open_project_id: "00060163"
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - TKM
+region: 
+  - europe_cis
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+  - cso
+project_title: Purposeful strengthening and expanding of qualified services on TB diagnostics and treatment in Turkmenistan
+scale: country-country
+project_objective: To reduce the burden of tuberculosis in Turkmenistan by consolidation of DOTS framework, its expansion by introducing and scaling up the management of drug-resistant tuberculosis and strengthening the health system performance for effective TB control. The project will contribute to reaching the TB control targets that have been set in line with the international strategies such as the revised WHO Stop TB Strategy and the Global Plan to Stop TB 2006-2015, and reiterated in the National Strategy for Prevention and Control of Tuberculosis in Turkmenistan for Years 2008-2015. The overall impact of the project is in line with the national goals, such as those identified in the proposal approved by the Global Fund for Round 9, in line with the Strategy of Economic, Political and Cultural Development of Turkmenistan for the period of up to 2020 and sector national programmes, such as the National Programme for Improvement of Social and Living Conditions of the Rural Population for the period up to 2020. 
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00060163
+published: true
+import_source: 275
+---
+UNDP will facilitate knowledge exchange study tours and training in priority issues of DR-TB management in Latvia, the Russian Federation and othr relevant countries.

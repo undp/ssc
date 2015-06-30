@@ -1,0 +1,26 @@
+---
+open_project_id: "00070616"
+thematic_focus: 
+  - resilience_building
+country: 
+  - CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+  - cso
+  - academia
+project_title: Zambia-China Climate Change & Sustainable Development
+scale: country-country
+project_objective: Transfer of Renewable Energy Technologies from China and Africa- Zambia Renewable Energy Trilateral.  to introduce solar and hydropower technology in rural Zambia under a partnership between UNDP, MOST, the Ministry of Mines, Energy and Water Development of Zambia, research institutions, the private sector and local communities.
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - builder_of_capacities
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00070616 
+published: true
+import_source: 275
+---
+UNDP facilitates knowledge transfer and provides capacity building. It helps China strengthen the impact of SSC on renewable energies, and brings Zambia a step closer toward its goal of broader rural electrification by removing legal and market barriers to the transfer and use of renewable technologies.

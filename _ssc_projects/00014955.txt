@@ -1,0 +1,22 @@
+---
+open_project_id: "00014955"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+country: 
+  - TLS
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Enhancing the Democratic Rule of Law through Strengthening the Justice System in Timor-Leste (Revised Justice System Programme)
+scale: country-country
+project_objective: To consolidate the Democratic Rule of Law and Peace through a strong Justice System in Timor-Leste (Revised Justice System Programme)
+territorial_focus: 
+  - fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00014955
+published: true
+import_source: 275
+---
+Brazil had entered into an agreement with the Government of Timor-Leste since 2002 to support the justice sector, and currently channels technical expertise through a Memorandum of Understanding with the UNDP Justice System Programme which enables the secondment of Brazilian judges, prosecutors, public defenders and administrative staff to the judiciary in Timor-Leste.

@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+country: 
+  - KHM
+region: 
+  - asia_pacific
+partner_type: 
+  - private_sector
+project_title: Indigenous Radio
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - ldc
+undp_role_type: 
+  - knowledge_broker
+project_link: http://www.kh.undp.org/content/cambodia/en/home/ourwork/democraticgovernance/successstories1/undp-brings-indigenous-people-radio-experiences-from-laos-to-cam.html
+published: true
+import_source: 275
+---
+UNDP supported knowledge exchange between Laos and Cambodia. A visit of Laos delegation was organized to Cambodia with an aim to share experience of an indigenous radio programme in Laos with the Cambodian national and provincial governments as well as community media practitioners. A workshop and field trip to Ratanak Kiri province were organized to share Laos' best practices and lessons learnt.

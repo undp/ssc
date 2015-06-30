@@ -1,0 +1,22 @@
+---
+open_project_id: "00057935"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+country: 
+  - GEO
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: A Strong Parliament in a Consolidated Democracy
+scale: country-country
+project_objective: To support the parliament in the four main areas of its constitutional responsibility- law-making, setting policy direction, executive oversight, and representation.
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00057935
+published: true
+import_source: 275
+---
+UNDP will act as knowledge broker. The project is structured around a partnership between the Georgian parliament and the Eastern European, Baltic and Nordic parliaments; including GUAM countries and those with a similar history to Georgia but now members of the European Union, and countries that are longstanding advanced democracy. The partnerships will provide access to expertise and capacity-development opportunities for both parliamentarians and staff. A plan will be developed for legislative exchanges and provision of legislative expert advice to Parliament of Georgia in the priority areas of the project. 

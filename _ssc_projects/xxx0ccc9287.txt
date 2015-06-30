@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+country: 
+  - DOM
+region: 
+  - lac
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: Institutional and operational strengthening of the Chamber of Deputies of the Dominican Republic
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - sids
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: 275
+---
+UNDP facilitated information and knowledge exchange on the establishment and functioning of parliamentarian structures for gender equality and for promoting a gender equality agenda at the Congress level. A Parliamentary Group for the Promotion of Gender Equality and Women's Rights was established. UNDP hosted a one week exchange workshop and promoted further virtual exchange with participants.

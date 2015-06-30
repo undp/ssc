@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - SDN
+region: 
+  - africa
+partner_type: 
+  - national_governments
+  - cso
+project_title: Enhancing South South Cooperation UNDP Sudan and Central Bank of Sudan Support Micro-finance Development in Somalia (workshop)
+scale: country-country
+project_objective: To introduce the basic principles of Islamic micro-finance and examine best practices in the region. In particular, the workshop will also help in plotting the future course of action for Somalia to institutionalize the micro-finance industry and integrate it in the recovery and development planning of the country. From Somalia, participants are selected from government officials who are engaged in micro-finance policies and active NGOs in the field of micro-finance. The workshop will be attended by representatives from neighbouring countries of Djibouti, Ethiopia and Kenya. 
+territorial_focus: 
+  - fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: http://mirror.undp.org/sudan/Presspdf/2013/PR-%20Islamic%20Microfinance%20Workshop%20-English.pdf
+published: true
+import_source: 275
+---
+This workshop is an example of a good practice of South-South cooperation by taking Sudan Islamic microfinance experience as a model, and links UNDP Somalia with the appropriate knowledge, resources, and micro-finance actors from neighbouring countries such as Djibouti, Ethiopia and Kenya. 
