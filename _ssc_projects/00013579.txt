@@ -1,5 +1,5 @@
 ---
-open_project_id: "00013579"
+open_project_id: 00013579
 thematic_focus: 
   - sustainable_development_pathways
 country: 
@@ -14,8 +14,10 @@ project_objective: The initiative includes  eight projects with high social and 
 territorial_focus: 
   - mic
 undp_role_type: 
-project_link: http://open.undp.org/#project/00013579
+  - knowledge_broker
+project_link: "http://open.undp.org/#project/00013579"
 published: true
 import_source: 275
 ---
-UNDP provides technical assistance. 
+
+SSC description in here. UNDP provides technical assistance.
