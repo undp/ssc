@@ -1,0 +1,32 @@
+---
+open_project_id: "00051250"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+country: 
+  - ALB
+  - BIH
+  - BGR
+  - HRV
+  - MNE
+  - MDA
+  - ROU
+  - MKD
+  - SRB
+region: 
+  - europe_cis
+partner_type: 
+  - regional_inter_governmental_organizations
+  - national_governments
+project_title: The South Eastern and Eastern Europe Clearinghouse for the Control of Small Arms and Light Weapons (SEESAC)
+scale: regional
+project_objective: To enhance regional cooperation providing information sharing and local standard setting geared toward direct project formulation and implementation. 
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - knowledge_broker
+  - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00051250
+published: true
+import_source: 275
+---
+UNDP will help establish regional cooperation to reach project outcomes on improved arms control and strengthening of regional cooperation on gender mainstreaming in security sector reform in the Western Balkans. Regional network of the Ministries of Defence gender focal points, trainers and HR specialists will be established in order to foster information and best practice sharing. 

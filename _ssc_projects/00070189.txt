@@ -1,0 +1,22 @@
+---
+open_project_id: "00070189"
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - VNM
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Capacity Enhancement for Intensive International Integration of Viet Nam towards 2020
+scale: country-country
+project_objective: To develop national capacity for formulating and implementing international integration policies that best serve Viet Nam's development needs and the targets of the Socio-Economic Development Strategy 2011-2020.
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - builder_of_capacities
+project_link: http://open.undp.org/#project/00070189
+published: true
+import_source: 275
+---
+UNDP will facilitate capacity building initiatives, including international exchange and South-South cooperation.

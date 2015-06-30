@@ -1,0 +1,23 @@
+---
+open_project_id: "00048025"
+thematic_focus: 
+  - resilience_building
+country: 
+  - BIH
+region: 
+  - europe_cis
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: Enhancing BIH Environmental Policies planning by introducing and developing local environmental and energy action plans
+scale: country-country
+project_objective: This programme will support and improve local management of environmental resources and service delivery through improving local level environmental governance and developing replicable models for local level environmental planning. The experiences and knowledge base generated will inform and support national level planning and policy development. This will help secure the achievement of MDGs 1, 6, 7 and 8 in BiH . The proposed programme offers an innovative approach to strengthening the capacities for mainstreaming environment issues into policy planning, resource management and service delivery in BiH, reviving the environment sector which is critically stagnant and threatens to become one of the most serious obstacles on the country's road to European integration. The programme highlights the links between environment and poverty, in a country with a highly inequitable growth pattern, with an approach based on the principles of social inclusion, a cross cutting issue that is a concern of all the UN agencies in the country. Social inclusion sharpens the MDG framework in the context of EU pre-accession countries such as BiH.
+territorial_focus: 
+  - fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00048025
+published: true
+import_source: 275
+---
+UNDP facilitated the knowledge exchange on environmental management at the local level. With this aim, study trips to Hungary, Slovenia and Estonia were organized. 

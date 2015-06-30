@@ -1,0 +1,22 @@
+---
+open_project_id: "00046916"
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - MAR
+region: 
+  - arab_states
+partner_type: 
+  - national_governments
+project_title: Support for the Realisation CAP UNDAF 2012-2016 (Appui à la Realisation du CAP UNDAF 2012-2016)
+scale: country-country
+project_objective: Reinforcement of cooperation programmes of UNDP in Morocco. to promote and reinforce Morocco's participation in the internationla networks of cooperation and development.
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - builder_of_capacities
+project_link: http://open.undp.org/#project/00046916 
+published: true
+import_source: 275
+---
+UNDP provides technical assistance  to capacity building and knowledge exchange, supporting Ministry of Foreign Affairs and Cooperation (Directorate of Multilateral Cooperation) effort to engage more actively in multilateral cooperation. Morocco's participation in internationlal cooperation networks was promoted and reinforced. To this end, participation of Morocco's delegation from the Ministry of Foreign Affairs and Cooperation (Directorate of Multilateral Cooperation) in South-South conferences was supported by UNDP. 

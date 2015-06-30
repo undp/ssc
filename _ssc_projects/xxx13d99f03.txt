@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - resilience_building
+country: 
+  - PER
+region: 
+  - lac
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: Bi-national Humboldt Current Large Marine Ecosystem (HCLME) Project
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: 275
+---
+UNDP provides technical assistance and facilitates knowledge exchange between Chile and Peru on the marine ecosystem management.

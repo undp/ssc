@@ -1,0 +1,22 @@
+---
+open_project_id: "00078703"
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - HTI
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Site and Services
+scale: country-country
+project_objective: The Site and Services project aims to develop a diverse range of housing, support the implementation of Furnishing suggestions and d'autoconstruction operations and provide basic services to the low income population.
+territorial_focus: 
+  - fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00078703
+published: true
+import_source: 275
+---
+UNDP facilitates exchanges between Chile and Haiti, and administrates the programme's funds. The Chilean government supports Haiti on housing through the implementation of a pilot project of sites and services. Following the UNDP-supported mission to El Salvador and Chile, a project was formulated and resources obtained (2 million USD) from the Government of Chile to replicate its experience in Haiti. Additionally, the Government of Haiti invested their own resources 3 million USD and an additional 4 million USD came from Jaloussie en Coleur. Also a Memorandum of Understanding to implement the Site and Services project was signed between the government of Chile, Haiti and UNDP.

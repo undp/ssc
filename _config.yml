@@ -4,7 +4,7 @@ editor:
   github_repo: undp/ssc
   url: "http://prose.io"
 baseurl: ""
-version: '1.4'
+version: '1.5'
 title: UNDP South South Cooperation
 domain: "http://www.undp-ssc-mapping.org"
 email: "js@ppls.io"

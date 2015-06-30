@@ -1,0 +1,22 @@
+---
+open_project_id: "00060771"
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+country: 
+  - EGY
+region: 
+  - arab_states
+partner_type: 
+  - national_governments
+project_title: Strengthening Capacities for Results Based Management
+scale: country-country
+project_objective: To strengthen the capacity for Results Based Management (RBM) in Egypt to increase the effectiveness of national development efforts. The project is the first phase of a two phase process that will initially strengthen internal capacities for RBM in the Ministry of State of Administrative Development and extend RBM technical support to a number of priority ministries during the course of Phase II. The project aims to strengthen capacities through a multi-phased approach designed to build on existing capacities and the demonstration effects of a few pilot entities. At the end of the project (phases 1 and 2), Government, national stakeholders and development partners should have customized, strong and useful frameworks, systems and tools to support results based planning, monitoring, evaluation and reporting of the National Development Plan and other National Entities' Development Plans.
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00060771
+published: true
+import_source: 275
+---
+UNDP will conduct two study tours to Latin America and the Asia Pacific region, which championed in applying the Results Based Management (RBM) models. The study tours will enable the Egyptian counterparts to examine the degree to which RBM has fostered a results culture within national entities, increased aid effectiveness and enhanced capacity to achieve development results. 

@@ -1,0 +1,23 @@
+---
+open_project_id: "00058104"
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - PAK
+region: 
+  - asia_pacific
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: Sustainable Development through Peace Building, Governance and Economic Recovery in Khyber Pakhtunkhwa/FATA
+scale: country-country
+project_objective: To promote sustainable development through Peace Building, Governance and Economic Recovery in Khyber Pakhtunkhwa Programme
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00058104
+published: true
+import_source: 275
+---
+With the financial assistance from the Saudi Fund for Development (SFD) and seed funding, UNDP has provided targeted recovery assistance to women and men through cash for work, and rehabilitated community infrastructure for access to basic social services. 

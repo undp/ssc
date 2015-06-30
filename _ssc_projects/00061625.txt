@@ -1,0 +1,23 @@
+---
+open_project_id: "00061625"
+thematic_focus: 
+  - resilience_building
+country: 
+  - CPV
+region: 
+  - africa
+partner_type: 
+  - national_governments
+project_title: Enabling Activities for the Preparation of Cape Verde´s Third National Communication to the UNFCCC
+scale: country-country
+project_objective: To develop technical and institutional capacities for the preparation of National Communications in a more sustainable manner. Three major outcomes are proposed- (i) Technical and institutional capacities for the preparation of National Communications are developed in a more sustainable manner (ii) Linkage between climate change and development priorities/planning process is strengthened through the National Communication (iii) Public awareness and institutional capacities are strengthened for information management and technology transfer for effective climate change issues understanding and integration in national agendas.
+territorial_focus: 
+  - sids
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00061625
+published: true
+import_source: 275
+---
+UNDP will support the Government of Cape Verde in its endeavour to facilitate knowledge exchanges among national practitioners / researchers and international communities of practices. UNDP will also support participation of Cape Verde in international networks on climate change. 

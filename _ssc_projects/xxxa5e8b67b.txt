@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+country: 
+  - URY
+region: 
+  - lac
+partner_type: 
+  - national_governments
+  - cso
+project_title: Quality Management With Equity Programme
+scale: country-country
+project_objective: The programme certifies companies with gender-friendly labour policies
+territorial_focus: 
+  - hic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: 275
+---
+UNDP is a knowledge broker- experts from Uruguay travelled to Colombia to exchange knowledge in order to support the implementation of a similar programme in Colombia called EQUIPARES.

@@ -1,0 +1,22 @@
+---
+open_project_id: "00075032"
+thematic_focus: 
+country: 
+  - STP
+region: 
+  - asia_pacific
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: Strengthening climate information and early warning systems in Western and Central Africa for climate resilient development and adaptation to climate change São Tomé and Príncipe
+scale: country-country
+project_objective: To promote environmentally sustainable and climate-resilient grid-based hydroelectric electricity through an integrated approach in São Tomé and Principe
+territorial_focus: 
+  - sids
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00075032
+published: true
+import_source: 275
+---
+UNDP will facilitate access to knowledge. Similar activities within the country or region will be approached to learn from their experiences (e.g. the Weather Information for Development (WIND) initiative in Kenya).  Lessons and experiences in other parts of Africa will be assessed for their potential to upscale e.g. using innovative techniques to communicate agrometeorological advisories.

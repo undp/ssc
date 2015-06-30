@@ -1,0 +1,25 @@
+---
+open_project_id: "00057359"
+thematic_focus: 
+  - resilience_building
+country: 
+  - AFG
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+  - cso
+  - academia
+project_title: The National Area-Based Development Programme (NABDP)
+scale: country-country
+project_objective: To promote recovery and longer term development in Afghanistan while building the government's capacity to lead and coordinate participatory approaches to development. Partners involved in SSC- Afghanistan Ministry of Rural Rehabilitation and Development (MRRD) and India's The Energy and Resources Institute (TERI)
+territorial_focus: 
+  - fragile_states
+undp_role_type: 
+  - builder_of_capacities
+  - facilitator_of_partnerships
+project_link: http://open.undp.org/#project/00057359
+published: true
+import_source: 275
+---
+UNDP facilitated a landmark agreement between Afghanistan's Ministry of Rural Rehabilitation and Development (MRRD) and The Energy and Resources Institute (TERI) in India to develop capacity, assist in programme design and provide other institutional support to provide electricity to Afghanistan's rural population nationwide. India's regional expertise is utilised to help build Afghanistan's rural energy initiatives.

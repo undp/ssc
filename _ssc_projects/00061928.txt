@@ -1,0 +1,22 @@
+---
+open_project_id: "00061928"
+thematic_focus: 
+  - resilience_building
+country: 
+  - BLR
+region: 
+  - europe_cis
+partner_type: 
+  - national_governments
+project_title: Management of the Niemen River basin with account of adaptation to climate change
+scale: country-country
+project_objective: To improve of the integrated water resources management using the basin approach in the climate change context by the example of the Niemen River 
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00061928
+published: true
+import_source: 275
+---
+UNDP facilitated knowledge exchange by supporting the creation of a common information platform (Internet database), containing data on water resources management and adaptation to climate change for the Niemen River basin countries- Belarus, Lithuania and Russia.

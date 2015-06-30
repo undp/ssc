@@ -1,0 +1,22 @@
+---
+open_project_id: "00065586"
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - TLS
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Mobilize Social Business to Accelerate Achievement of Timor-Leste MDGs
+scale: country-country
+project_objective: To engage social enterprises will contribute to the reduction of poverty in rural Timor-Leste and generate rural employment and income.
+territorial_focus: 
+  - fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00065586
+published: true
+import_source: 275
+---
+Project is funded by the Republic of Korea through its UNDP MDG Trust Fund. UNDP Seoul Policy Centre on Global Development Partnership is a facilitator of knowledge development and transfer/sharing among countries in the global South, building on experiences and success stories of Asian economies. In the area of social enterprise development, the Centre engages in action research for new partnerships and business linkages such as with entrepreneurs, business corporations, think tanks and academic institutions, and is developing its capacity to be the hub and a meeting point across UNDP Country Offices as a headquarters in this area.

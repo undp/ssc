@@ -1,0 +1,21 @@
+---
+open_project_id: "00068002"
+thematic_focus: 
+country: 
+  - HTI
+region: 
+  - lac
+partner_type: 
+  - national_governments
+project_title: Technical support to conditional transfer
+scale: country-country
+project_objective: To provide technical support  to the Government of Haiti for the formulation and implementation of conditional transfer programs gender sensitive species
+territorial_focus: 
+  - fragile_states
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00068002
+published: true
+import_source: 275
+---
+UNDP facilitated the knowledge exchange between Dominican Republic, El Salvador and Haiti, among SSC activities are- (1) Study visit from the Fund of Economic and Social Assistance (FAES, Haiti) to its counterpart in Dominican Republic to learn the experience of the cash transfer programme “SOLIDARIDAD”, in particular the use of a consolidated beneficiary register for different type of social cash transfers; (2) Study visit of FAES (Haiti) to its counterpart in El Salvador - Social Investment Fund for Local Development (FIDSL) - with the aim to replicate lessons learned and organizational structure. As a result, a bilateral agreement was signed between El Salvador and Haiti; IDB approved funding for further FAES-FISDL institutional exchange in 2014. 

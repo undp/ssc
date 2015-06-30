@@ -1,0 +1,22 @@
+---
+open_project_id: "00061539"
+thematic_focus: 
+  - resilience_building
+country: 
+  - WSM
+region: 
+  - asia_pacific
+partner_type: 
+  - national_governments
+project_title: Integration of Climate Change Risks and Resilience into Forestry Management in Samoa (ICCRIFS)
+scale: country-country
+project_objective: To  provide technical advice of specific lowland and upland forestry and biodiversity, water resource management issues, and identification of drought tolerant crop species for agriculture. By addressing climate change and adaptation, the project will be implemented as a nexus of strong linkages between national stakeholders, regional organizations, and development partners. Partnerships with regional agencies, namely Secretariat for the Pacific Community (SPC), SPREP (Secretariat for the Pacific Regional Environment Programme), University of the South Pacific (USP) and Conservation Internationa (CI). 
+territorial_focus: 
+  - sids
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00061539
+published: true
+import_source: 275
+---
+UNDP will support sharing knowledge on adaptation practices through regional and global platforms and events. Among the planned activities are- (1) incorporation of project lessons learnt in the Adaptation Learning Mechanism (ALM), the SPREP Climate Change Portal, MNRE website and other appropriate web-based platforms; (2) Sharing of project results in relevant regional events related to forestry management and climate change adaptation. It is plannes that the project experience and KM materials will be presented in at least 2 national workshops, 2 regional events, and in at least 2 international web-based platforms.

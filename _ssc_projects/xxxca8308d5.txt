@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - PER
+region: 
+  - lac
+partner_type: 
+  - national_governments
+  - private_sector
+project_title: Quality Control System for added value wooden products of South America
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: 
+published: true
+import_source: 275
+---
+UNDP supports knowledge exchange between Chile, Argentina, Uruguay and Peru. This pilot project will allow to standardize procedures in technology centers and to create a Regional Quality System offering better quality wooden products. International seminar on quality marks in wood products was organized in participation of experts from Uruguay, Chile, Argentina and Spain, INTImaderas and furniture Tecnologicos Laboratories of Uruguay, LATU TASTING (Chile) and Tecnalia Research & Innovation of Spain. UNDP also supported in the elaboration of a regulations protocol for the fabrication of wood furniture under quality criteria and application of ISO international norms.  

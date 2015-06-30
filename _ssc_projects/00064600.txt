@@ -1,0 +1,23 @@
+---
+open_project_id: "00064600"
+thematic_focus: 
+  - sustainable_development_pathways
+country: 
+  - GEO
+region: 
+  - europe_cis
+partner_type: 
+  - international_cooperation_development_agencies
+  - national_governments
+project_title: UN Joint Programme to Enhance Gender Equality in Georgia
+scale: country-country
+project_objective: To promote gender equality and women's empowerment through strengthening capacities in the government, civil society and communities. The overall goal will be achieved by realization of the following outcomes 1. Enhanced women's political and economic empowerment; 2. Creating an enabling environment to eliminate violence against women, especially domestic violence (DV); 3. Gender Equality advanced by creating enabling environment to realize Sexual and Reproductive Rights of population
+territorial_focus: 
+  - mic
+undp_role_type: 
+  - knowledge_broker
+project_link: http://open.undp.org/#project/00064600
+published: true
+import_source: 275
+---
+UNDP will act as knowledge broker- the Joint Programme will refer to the experience of a joint UNDP-UN Women project in Moldova on social and  community mobilization for empowerment.
