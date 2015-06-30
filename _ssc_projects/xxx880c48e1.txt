@@ -11,7 +11,8 @@ partner_type:
 project_title: Protection of Cultural Heritage and Cross-Border Cooperation
 scale: country-country
 project_objective: Catalyzing sustainable economic development and preservation of endangered world cultural heritage.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

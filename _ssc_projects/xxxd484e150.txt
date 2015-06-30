@@ -11,7 +11,8 @@ partner_type:
 project_title: Introduction of Public Expenditure and Financial Accountability (PEFA) standards in PNG
 scale: country-country
 project_objective: To introduce PEFA standards in PNG, GoPNG officials from the Department of Finance received guidance from senior civil servants from Fiji’s Ministry of Finance to carry out a country self-assessment, identifying critical support needs for effective public financial management.
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Cadre de concertation des Secrétariats Exécutifs/Secrétariats Permanents CNLS de la zone UEMOA et de la Mauritanie.
 scale: regional
 project_objective: Renforcer la concertation entre les deux structures sur des thématiques communes et sur les aspects de gouvernance de la réponse au VIH. Redynamisation du cadre de concertation des Secrétariats Exécutifs/Secrétariats Permanents CNLS de la zone UEMOA et de la Mauritanie dont le Burkina assure le secrétariat depuis sa mise en place en 2008.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

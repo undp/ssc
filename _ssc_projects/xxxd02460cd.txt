@@ -11,7 +11,8 @@ partner_type:
 project_title: Support to EU accession through exchange between Croatian and Macedonian institutions
 scale: country-country
 project_objective: With four missions from Croatian experts, the Macedonian institutions managed to acquire in-depth knowledge from their counterparts on priority EU issues including on home affairs sector planning, visa regime, law on foreigners and how should municipalities prepare for EU funds. UNDP also brokered exchange of knowledge between the City of Zagreb and municipality of Tetovo on urban governance.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

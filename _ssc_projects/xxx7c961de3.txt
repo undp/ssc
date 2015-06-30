@@ -11,7 +11,8 @@ partner_type:
 project_title: Aid Management Platform (AMP) experience sharing best practice workshop
 scale: global 
 project_objective: Nepal co-hosted AMP Experience Sharing Best Practice Workshop with Development Gateway in December 2014. The workshop was attended by more than 30 participants from various 11 countries. The workshop provided excellent opportunities to share and exchange best practices among the countries.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

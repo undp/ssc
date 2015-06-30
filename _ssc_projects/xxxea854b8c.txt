@@ -11,7 +11,8 @@ partner_type:
 project_title: Atelier Binational (Haïti -  Républiques Dominicaine) sur la Tuberculose transfrontalière
 scale: country-country
 project_objective: Dans le cadre de la lutte contre la tuberculose en Haïti et en Républiques dominicaine, les deux programme nationaux ont entrepris de partager leurs expériences sur la prise en charge de la maladie et d’harmoniser leur stratégies pour la prise en charge des migrants entre les deux pays
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

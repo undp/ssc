@@ -11,7 +11,8 @@ partner_type:
 project_title: INTERCAMBIO MUNICIPIO FILADELFIA, PARAGUAY- CUMANDA, ECUADOR
 scale: country-country
 project_objective: Se realizó un intercambio ida y vuelta entre alcaldes y delegacion de los municipios de Filadelfia, Paraguay y Cumanda, Ecuador en el marco de la Campaña Global ‘Desarrollando Ciudades Resilientes’. El intercambio tuvo como objetivo  fortalecer la cooperación y colaboración en temas relacionados con la gestión del riesgo de desastres entre Gobiernos locales de la región.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link:  http://www.cumanda.gob.ec/alcaldia/transicion

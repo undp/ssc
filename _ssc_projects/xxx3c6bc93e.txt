@@ -11,7 +11,8 @@ partner_type:
 project_title: Voyage d’étude de la Mauritanie sur le Programme  National de Volontariat du Burkina (PNVB)
 scale: country-country
 project_objective: En decembre 2014, une mission gouvernementale de la Mauritanie a sejourne au Burkina dans le cadre d’un voyage d’etude et d’echange d’experience sur la gestion du Programme  National de Volontariat du Burkina pour s’inspirer de l’experience du Burkina sur sa mise en œuvre et son ancrage institutionnel. Un partenariat entre les deux pays va etre cree pour mutualiser les experiences sur la promotion de l’emploi des jeunes.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Study Mission on Training Curricula Development to the Civil Service College in Singapore
 scale: country-country
 project_objective: Twelve Senior Officials received exposure to Training Curricula Development techniques and tools at the Singapore Civil Service Training College.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

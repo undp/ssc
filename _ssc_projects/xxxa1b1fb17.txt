@@ -11,7 +11,8 @@ partner_type:
 project_title: Sharing learning on Disaster Risk Reduction (DRR) and Climate Change Adaptation (CCA)
 scale: regional
 project_objective: Officials from the Bangladesh Department of Disaster Management and Relief shared knowledge and lessons learned on disaster management and CCA with their counterparts from China and Nepal. A Bangladesh-hosted visit focused on flash flood early warning. A follow-up visit to China focused on disaster information management and earthquake risk management. Bangladesh also shared some of its best practices at the 6th Asian Ministerial Conference on DRR in 2014.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

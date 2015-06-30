@@ -11,7 +11,8 @@ partner_type:
 project_title: Learning experience of One Village - One Product initiative in Kyrgyzstan
 scale: regional
 project_objective: UNDP Tajikistan is implementing a 3 year initiative to promote stability and security in the bordering provinces of Tajikistan and Afghanistan (LITACA) by reducing poverty, supporting economic development and cross-border collaboration  along the Tajik-Afghan border, including replication of best practices in these areas, such as OVOP initiative in Kyrgyzstan.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

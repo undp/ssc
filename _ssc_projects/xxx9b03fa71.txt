@@ -11,7 +11,8 @@ partner_type:
 project_title:  Malaria Global Fund New Funding Model (NFM)
 scale: country-country
 project_objective: UNDP = provided technical support to UNDP Afghanistan in the development of a Concept Note (CN) for theMalaria Concept note (CN) in Afghanistan finalized and submitted to the Global Fund.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

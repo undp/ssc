@@ -11,7 +11,8 @@ partner_type:
 project_title: Partnership Initiatives - Follow-up of China Study Programme on Environment Conservation and Livelihoods Promotion for MENARID visit to Iran
 scale: country-country
 project_objective: Following the 14 Iranians visit to China on Study Programme of Environment Conservation and Livelihoods Promotion for MENARID in 2013, four Chinese  visited Iran and shared knowledge on best practices on renewable energies techniques and traditional greenhouses and familiarized them with Iranian ecological situation. As a result 6 Pilot sites in Yazd province were identified to pilot the Chinese greenhouses.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

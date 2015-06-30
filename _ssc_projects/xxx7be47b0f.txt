@@ -11,7 +11,8 @@ partner_type:
 project_title: Promoting Energy Efficiency in Haiti (Transformational and Strengthening Initiative for the Solar Water Heater Market)
 scale: country-country
 project_objective: UNDP Mexico participated in the seminar on Promoting Energy Efficiency in Haiti (June 2014) to share experiences on collaboration between Mexico and the UNDP regarding Solar Water Heaters. The seminar was organized by the National Commission for Efficient Energy Use in Haiti through its collaboration with the Organization of American States (OAS).
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

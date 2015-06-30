@@ -11,7 +11,8 @@ partner_type:
 project_title: Afghanistan-Central Asia Trade and Migration’ workshop
 scale: regional
 project_objective: The overall aim of the event was to support implementation of the Confidence Building Measures of Istanbul Process through encouraging and assisting collective engagement towards development of capacity and strengthening of coordination and communication between the governments of the Islamic Republic of Afghanistan, and its northern neighbours, including the Republics of Tajikistan, Uzbekistan and Turkmenistan, in the field of international border management.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

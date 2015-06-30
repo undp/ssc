@@ -11,7 +11,8 @@ partner_type:
 project_title: Deepening Democracy through Srengthening Citizen Participation and Accountable Governance 
 scale: regional
 project_objective: deepen democracy, strengthen inclusive citizen participation and accountability in governance. The project places special emphasis on media-sector reforms to enhance accountability as well as gender and human rights as tools to strengthen citizen participation.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

@@ -11,7 +11,8 @@ partner_type:
 project_title: Aid for Trade Project/Support to implementation of post WTO accession plan
 scale: country-country
 project_objective: Project supports inclusive growth in Central Asia via promotion of trade and enhancement of competitiveness to support these countries’ efforts to reduce poverty and improve peoples’ lives. The objective will be achieved through implementation of trade policy; support to trade institutions and private sector representatives in better formulation and implementation of trade-related policies and scaling up successful initiatives to increase productivity
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Workshop for Pacific Island Countries (PIC) on the post-2015 Development Agenda and the Sustainable Development Goals
 scale: regional
 project_objective: Organized by UNDP, ESCAP and ADB, this event improved the participants’ understanding of challenges and lessons learned by PIC in their MDGs implementation journey, as well as the post-2015 development agenda and the SDGs.
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Study tour to learn advanced experiences in forest management and forest monitoring
 scale: country-country
 project_objective: The study tour was part of the broader capacity building component of the UNDP programme on sustainable land and forest management. It was organized by UNDP and hosted by the Ministry of Forests and Water Resources of Turkey. The participants of the study tour were national experts from the Forest Development Department of the Ministry of Ecology and Natural Resources of Azerbaijan.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

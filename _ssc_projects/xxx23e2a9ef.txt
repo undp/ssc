@@ -11,7 +11,8 @@ partner_type:
 project_title: Viaje de estudios del Ministerio de Desarrollo Industrial y Promoción de la Inversión del Gobierno de Argelia a Santiago de Chile
 scale: country-country
 project_objective: La misión buscaba recoger mejores prácticas de Estado chileno en la promoción de las pymes con una mirada a largo plazo para desarrollar la competitividad y promover una mayor inclusión de la mujer.
-territorial_focus: hic
+territorial_focus: 
+  - hic
 undp_role_type: 
   - knowledge_broker
 project_link:  http://www.dz.undp.org/content/algeria/fr/home/presscenter/articles/2014/03/25/echanges-d-exp-riences-entre-l-alg-rie-et-le-chili-en-mati-re-de-d-veloppement-industriel.html

@@ -11,7 +11,8 @@ partner_type:
 project_title: Climate Change Adaptation initiative through Sand Dams technology 
 scale: country-country
 project_objective: ensure that the management of Swaziland’s water resources is adapted to take into account the anticipated impacts of climate change.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: http://open.undp.org/#project/00061373

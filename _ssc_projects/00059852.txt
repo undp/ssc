@@ -11,7 +11,8 @@ partner_type:
 project_title: Support Agency 'Horizon 2020 Equatorial Guinea'
 scale: country-country
 project_objective: Provide technical and financial support to the Government of Equatorial Guinea in the implementation of the 'National Plan for Economic and Social Development, Horizon 2020'. It is expected to improve the living conditions of the population through the formulation, adoption and application effectiveness of the National Strategy for Poverty Reduction.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: http://open.undp.org/#project/00059852   

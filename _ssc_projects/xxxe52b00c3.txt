@@ -11,7 +11,8 @@ partner_type:
 project_title: A training workshop for the Officials of the Government of Uzbekistan to learn about the industrial development strategies of China (October 2014)
 scale: country-country
 project_objective: The participants took part in the UNDESA organized workshop, led by the former World Bank Chief Economist Justin Lin. The purpose of the initiative was to support Uzbekistan’s Vision 2030 formulation process.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

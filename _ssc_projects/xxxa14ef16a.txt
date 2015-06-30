@@ -12,7 +12,8 @@ partner_type:
 project_title: Tunisian and Libyan youth Cooperation and exchange of experience
 scale: country-country
 project_objective: Tunisian-Libyan Youth Forum which brought together over 50 youth from both countries created a framework for dialogue amongst youth and activated way of cooperation between young representatives of both societies in issues related to post revolution democratic transitions.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

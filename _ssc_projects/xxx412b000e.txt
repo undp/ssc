@@ -11,7 +11,8 @@ partner_type:
 project_title: Presentacion de sus resultados y productos del conocimiento en Plataforma Regional para la Reduccion de Riesgos de Desastres, Guayaquil, Ecuador
 scale: country-country
 project_objective: Presentados productos del conocimiento en gestion para la Reduccion de Riesgos en Foro multisectorial en Guayaquil con resultados de 2 proyectos claves- DIPECHO_Fortalecimiento del Sistema de Alerta Temprana Hidrometeorologico y  ECHO_ Recuperacion de danos del huracan Sandy. Guayaquil fue un foro de amplia participacion que reflejo los compromisos y preocupaciones de los Gobiernos y otras organizaciones en el tema de Reduccion de Riesgos de Desastres.
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
 project_link: 

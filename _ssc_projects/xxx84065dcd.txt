@@ -11,7 +11,8 @@ partner_type:
 project_title: Seventh Ministerial Forum on Development in Latin America and the Caribbean
 scale: regional
 project_objective: Based on this initiative, UNDP Mexico’s interagency working group supported organization of the Seventh Ministerial Forum on Development in LAC, a UNDP initiative , as a forum for South-South regional exchange on social development. The Seventh Forum focused on the experience of countries like Mexico and Colombia regarding multidimensional poverty and inclusive development , relevant topics for joint work between the Mexican government (especially SEDESOL) and UNDP Mexico (E84 PNUD).
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

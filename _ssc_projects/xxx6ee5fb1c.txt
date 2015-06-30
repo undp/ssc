@@ -11,7 +11,8 @@ partner_type:
 project_title: Parliamentary Development for Social Policies
 scale: regional
 project_objective: The project facilitated South-South cooperation with Albania. The Committee on Health, Labour and Social Welfare, had the opportunity to analyse the regional arrangement on policies regulated by the “Law on Medications” and the “Law on Vocational Ability, Rehabilitation and Employment of People with Disabilities”.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

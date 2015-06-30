@@ -12,7 +12,8 @@ partner_type:
 project_title: Visite d’étude de l’Instance Verité et Dignité (Tunisie) au Maroc
 scale: country-country
 project_objective: visite d’étude des commissaires de l’Instance Vérité et Dignité (IVD) tunisienne au Maroc avec l’appui du PNUD Maroc et le HCDH dans le cadre de l’accompagnement du processus de la réconciliation nationale et la justice transitionnelle.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

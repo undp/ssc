@@ -11,7 +11,8 @@ partner_type:
 project_title: Introducing and improving basic education for prisoners
 scale: country-country
 project_objective: Study visit for national actors working in prisons, education and social protection in FRY Macedonia to Croatian counterparts organised
-territorial_focus: hic
+territorial_focus: 
+  - hic
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Assist  the Government of Sri Lanka to initiate an Integrated Results Based Management System (IRBM)
 scale: country-country
 project_objective: UNDP has been supporting Government partners and the Sri Lanka Evaluation Association to share experiences with, and learn from, their Malaysian counterparts with a view to introduce an IRBM system so that plans and initiatives in Sri Lanka can be linked to larger, visible national results, whereby a national Programme Planning and Budgeting system can help Ministries to align and carryout identical activities to achieve common goals
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

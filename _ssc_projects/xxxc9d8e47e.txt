@@ -11,7 +11,8 @@ partner_type:
 project_title: Learning visit on agriculture extension and vocational education
 scale: country-country
 project_objective: Seven government staff from Ministry of Industry, Ministry of Education visited Georgia for seven days to learn from Georgia’s experience on enterprise development and agriculture extension and vocational education.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

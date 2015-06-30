@@ -11,7 +11,8 @@ partner_type:
 project_title: Strengthened capacity of Judicial Officers on non-litigation settlements of labour disputes in line with international labour standards and trends that encompass human right issues
 scale: country-country
 project_objective: The purpose of the project is to study experiences on Court Annexed mediation and alternative dispute resolution mechanisms and draw lessons to inform Botswana’s development of its own alternative dispute resolution mechanisms.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

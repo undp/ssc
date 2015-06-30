@@ -11,7 +11,8 @@ partner_type:
 project_title: study visit to Ghana on peace architecture
 scale: country-country
 project_objective: This three year program targets building national and local capacities of government and local communities to prevent, manage conflicts and build peace culture.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: http://open.undp.org/#project/00059867 

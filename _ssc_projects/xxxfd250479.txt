@@ -12,7 +12,8 @@ partner_type:
 project_title: Participation des cadres à des ateliers sud/sud ( Kuwait, Algérie, Brésil, Colombie)
 scale: country-country
 project_objective: Politiques du travail pour accroître les opportunités d’emploi chez les populations de la zone Moyen-Orient et Afrique du Nord - méthodes de mesure de la pauvreté; méthodes de ciblage de la pauvreté; Rôle des registres administratifs et des enquêtes de panel dans le suivi-évaluation des pouvoirs publics.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

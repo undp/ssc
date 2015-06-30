@@ -11,7 +11,8 @@ partner_type:
 project_title: Round table -Effective public service delivery- (Baku, Azerbaijan, October 3) hosted by Civil Service Commission of Azerbaijan in cooperaion with Agency for Civil Service Affairs of Kazakhstan.
 scale: regional
 project_objective: The event targeted at the civil servants involved in the public service delivery in the countries of the Region. The round table came up with analyzing the current trends and achieved results among participating countries to increase the access to the public services and the quality of public service delivery in three dimensions-  - changes in normative legal acts; - changes in the public service delivery practice; - development of the public feedback system;
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

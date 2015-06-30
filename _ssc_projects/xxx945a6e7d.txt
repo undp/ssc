@@ -11,7 +11,8 @@ partner_type:
 project_title: Developpement de la recherche sur le Eulemur Mongoz dans le cadre de la mise en oeuvre du programme sur les aires protegees en Union des Comores.
 scale: country-country
 project_objective: Definir les axes de partenariats et de collaboration technique pour le developpement et la mise en œuvre d’un programme de protection de l Eulemur mongoz en Union des Comores en vue de sa conservation in situ ainsi que sa valorisation en tant que partie integrante du potentiel eco touristique.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

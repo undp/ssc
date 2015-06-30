@@ -11,7 +11,8 @@ partner_type:
 project_title: Elaboration des plans nationaux d’adaptation au changement climatique.
 scale: country-country
 project_objective: Missions de Formation/ partage experience sur elaboration plan nationaux adaptation changement climatique. Deux cadres nationaux formes sur outils et methodes  pour elaborer des plans strategiques adaptation au changement
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

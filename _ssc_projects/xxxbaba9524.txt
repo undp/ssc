@@ -11,7 +11,8 @@ partner_type:
 project_title: International Parliamentary Conference in Visegrad Plus Georgia format
 scale: regional
 project_objective: Conference “Georgia’s Next Steps Towards the European Union- Sharing Parliamentary Experiences of Visegrad Group States” brought together the Georgian MPs and their colleagues from the Visegrad states. The conference was devoted to discussing the parliamentary experiences in European integration, including the challenges and the effective tools of parliamentary contribution into the process, especially after signing of the Association Agreement with the European Union
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

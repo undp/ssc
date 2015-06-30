@@ -11,7 +11,8 @@ partner_type:
 project_title: Amelioration du reseau national d’observation du temps a travers un etat des lieux des dispositifs et systemes de telecommunication existants
 scale: country-country
 project_objective: Etat de lieu sur les infrastructures existantes et proposer des solutions adequates sur l’interconnexion entre la Direction de la Meteorologie et les autres institutions en charge des observations climatiques et meteorologique en altitude (etat des lieux des systemes-acquisitions, transferts et traitement des donnees ; Evaluation des besoins en Equipements ; plan de renforcement des capacites de l’ANACM)
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker

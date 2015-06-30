@@ -11,7 +11,8 @@ partner_type:
 project_title: Pan-African Conference on Inequalities in the context of Structural transformation, Ghana, June 28-30, 2014
 scale: regional
 project_objective:  The objective-  Promoting an African agenda to tackle inequalities and foster transformation; enhance understanding of the structural character and economic and social drivers of African inequalities and share knowledge of effective social, macro-economic and sectoral policies for addressing inequalities.
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
 project_link: http://africainequalities.org/conference/ 

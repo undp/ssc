@@ -11,7 +11,8 @@ partner_type:
 project_title: Descentralización y Profundización Sectorial
 scale: country-country
 project_objective: Comisión de alto nivel del Gobierno de Honduras inició intercambio de experiencias de descentralización en sectores como educación, medio ambiente e infraestructura, teniendo en cuenta que la experiencia colombiana, en esta materia, es reconocida nivel regional. Como resultado el Gobierno de Honduras impulsó revisiones para definir una ruta crítica y viable en descentralización para 2015.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.hn.undp.org/content/honduras/es/home/presscenter/articles/2014/05/14/-funcionarios-y-alcaldes-conocen-experiencia-colombiana-en-prevenci-n-de-violencia.html 

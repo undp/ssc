@@ -11,7 +11,8 @@ partner_type:
 project_title: Voyage d’échange d’expériences sur la prévention et la gestion des inondations à Ouagadougou des cadres du Gouvernorat de Niamey
 scale: country-country
 project_objective: Quinze (15) responsables de la ville de Niamey, appuyés par le spécialiste des questions de prévention des crises et catastrophes du PNUD, se sont rendus à Ouagadougou pour un échange d’expériences et la visite de sites affectés par des inondations.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - builder_of_capacities
 project_link: 

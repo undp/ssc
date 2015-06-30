@@ -11,7 +11,8 @@ partner_type:
 project_title: Piloting of Climate Change Adaptation initiative through Sand Dams technology -  Ministry of Natural Resources and Energy (MNRE) – Department of Water Affairs (DWA) - GoS.
 scale: country-country
 project_objective: UNDP brokered partnerships between MNRE – DWA and the Africa Sand Dams Foundation (ASDF) of Kenya aimed at introducing CCA through community based water harvesting and storage infrastructure. In February 2014, officials from MNRE, Public Works and Agriculture were facilitated by UNDP to collaborate with ASDF on the sand dam’s technology.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: 

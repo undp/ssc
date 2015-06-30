@@ -12,7 +12,8 @@ partner_type:
 project_title: voyage d’étude en Indonésie sur la coordination horizontale et la convergence des politiques publiques.
 scale: country-country
 project_objective: Dix cadres marocains de haut niveau (directeurs et secrétaire général) de différents ministères ont participé à une mission d'échange en Indonésie sur les mécanismes de coordination horizontale des politiques sectorielles dans le cadre de la mise en place de la structure de convergence des PP au Maroc. A leur retour,  des propositions pour renforcer  la convergence des politiques publiques ont été formulées.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Gestion integree des ressources en eau et la gestion de l’eau residuelle
 scale: global 
 project_objective: Cabo Verde, a travers la D.G de l’Environnement dans ce projet SIDS/GEF/UNPD/UNEP d appui la gestion integree des ressources en eau et la gestion de l’eau residuelle. Des actions pilotes sont conduites au niveau pays pour le recyclage des eaux usees dans l’agriculture. Les actions regionales permettent l echange d’experiences pour la promotion d’un cadre legislative, institutionnel et politique pour la gestion integree des ressources en eau dans les petits pays insulaires.
-territorial_focus: sids, mic
+territorial_focus: 
+  - sids, mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

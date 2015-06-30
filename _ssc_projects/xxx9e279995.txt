@@ -11,7 +11,8 @@ partner_type:
 project_title: Ensuring Provision of Support to South-South and Triangular Cooperation (Strengthening Innovative Partnership for Development Cooperation Project, SIPDC 67418)
 scale: country-country
 project_objective: -Strengthen the National Coordination Team for SSTC (NCT-SSTC), which includes- 1) stocktaking exercise; recommendation on country’s international development cooperation, 2) provision of resources and technical advice to strengthen the NCT-SSTC Secretariat’s coordination and facilitation roles. -Facilitation of knowledge sharing between Indonesia; other southern countries on issues such as aid management, coordination of public policies, and planning ; budgeting.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker

@@ -11,7 +11,8 @@ partner_type:
 project_title: Intercambio de experiencias de descentralizacion y desarrollo local entre los gobiernos de Marruecos y de Ecuador
 scale: country-country
 project_objective: En el marco de los procesos de descentralizacion que estan en marcha en ambos paises, se crearon sinergias de trabajo entre Marruecos y Ecuador sobre el modelo de gestion de la descentralizacion y sus mecanismos de aplicacion, asi como de las estrategias de desarrollo territorial implementadas en los territorios ecuatorianos
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.ec.undp.org/content/ecuador/es/home/presscenter/articles/2014/12/05/delegaci-n-marroqu-visita-el-ecuador-para-intercambio-de-experiencias-sobre-descentralizaci-n-.html

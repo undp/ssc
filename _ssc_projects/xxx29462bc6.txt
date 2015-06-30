@@ -11,7 +11,8 @@ partner_type:
 project_title: Strengthening women in Parliament and  gender equality and womens' empowerment.
 scale: country-country
 project_objective: Chair of Women caucus attended the CPA workshop for Women Members in the Parliament of Ghana where cooperative efforts and information exchange with other development partners were pursued and established.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

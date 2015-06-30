@@ -11,7 +11,8 @@ partner_type:
 project_title: Regional conference for Belarus, Moldova and Ukraine within the Environment and Security Initiative.
 scale: regional
 project_objective: Priorities for future cooperation within in the area linking environment and security, along with a common vision of Belarus, Moldova and Ukraine of the ways to integrate issues of environment and security into the system of regional cooperation were discussed during an international conference in Minsk.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

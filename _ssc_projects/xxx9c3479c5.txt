@@ -11,7 +11,8 @@ partner_type:
 project_title: Visita de intercambio de experiencias para el sector cafetalero entre Guatemala y Etiopía.
 scale: country-country
 project_objective: Intercambio de experiencias en procesos de productos, distribución y exportación en el sector cafetalero.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.et.undp.org/content/ethiopia/en/home/presscenter/articles/2014/01/31/-south-south-cooperation-energises-ethiopia-s-plans-to-launch-a-national-coffee-platform.html

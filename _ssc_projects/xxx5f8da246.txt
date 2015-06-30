@@ -12,7 +12,8 @@ partner_type:
 project_title: Exchange of knowledge and best practices
 scale: country-country
 project_objective: Sudan National Human Rights Commission visited the Jordan Human Rights Center in 2014 to study their experience, including in terms of prison inmates rights, human rights monitoring, and the role of media in human rights promotion.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

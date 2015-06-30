@@ -11,7 +11,8 @@ partner_type:
 project_title: Police reforms in Rwanda by Ivory Coast 
 scale: regional
 project_objective: A delegation from UNDP Ivory Coast visited Rwanda in September 2014 to learn how to apply ICT innovations in their Police and GBV projects, by using mobile phone short text messages to address SGBV issues. Officials from the Government of Ivory Coast conducted a second exchange visit to Rwanda in November 2014 to share experiences on security policies, social cohesion and measuring performance in these areas, especially in terms of best practices and lessons learned from both countries.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

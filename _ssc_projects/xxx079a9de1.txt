@@ -11,7 +11,8 @@ partner_type:
 project_title: Professionnalisation des services du Fonds national de Finance Inclusive
 scale: country-country
 project_objective: Analyser aupres des autorites de tutelle et de controle en charge de la microfinance, des deux Fonds Nationaux de microfinance, des institutions de microfinance et des bailleurs de fonds des modalites d’accords et de gestion de partenariat avec les prestataires de services financiers.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - builder_of_capacities
   - facilitator_of_partnerships

@@ -11,7 +11,8 @@ partner_type:
 project_title: Regional Platform of the Americas for Disaster Risk Reduction
 scale: regional
 project_objective: It is an opportunity for knowledge and information sharing aimed at the promotion of coordinated planning, monitoring and decision-making processes with the purpose to increase the implementation level of the Hyogo Framework for Action (HFA), in the context of the United Nations Framework Convention on Climate Change (UNFCCC).
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Gouvernance, politiques de gestion des ressources marines et reduction la pauvrete dans l’Ecoregion WAMER
 scale: regional
 project_objective: Cabo Verde participe au projet régional de Gouvernance, politiques de gestion des ressources marines et réduction la pauvreté dans l’Ecoregion WAMER. La D.G. des Ressources Marines et la D.G. de l’Environnement participent aux rencontres techniques contribuant au partage de meilleures pratiques et implémentent des activités nationales qui contribuent à la définition d’un cadre régionale pour la fiscalisation de la pêche et protection des environnement côtières et ressources marines
-territorial_focus: sids, mic
+territorial_focus: 
+  - sids, mic
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker

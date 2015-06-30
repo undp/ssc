@@ -11,7 +11,8 @@ partner_type:
 project_title: Afghan Police training at Sivas Police Training Academy
 scale: regional
 project_objective: Basic and advanced police training for male and female Afghan National Police Officers funded by Japan and provided through the SIVAS Training Center in Turkey with facilitation support from the Turkish Embassy. The SIVAS Training Center applies conditions for participation such as higher education.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

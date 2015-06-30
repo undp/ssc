@@ -11,7 +11,8 @@ partner_type:
 project_title: The visit had two fold objectives - to learn from the experiences of Bangladesh Human Rights Commission, and to explore the partnership opportunities with other stakeholders and civil society to combat against caste based discrimination.
 scale: regional
 project_objective: The visit resulted in a concept of holding a regional conference of human rights institutions of the South Asian Association for Regional Cooperation (SAARC) countries. It also contributed to bring all concerned agencies together to organize an interaction on this issues during the SAARC summit held in November 2014 in Nepal.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

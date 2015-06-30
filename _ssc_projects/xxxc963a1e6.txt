@@ -11,7 +11,8 @@ partner_type:
 project_title: Development of autoclaves to be used in Ebola affected countries
 scale: global 
 project_objective: Autoclaves developed in South Africa through GEF programme were deployed with UNDP’s financial and logistical support in Guinea, Liberia and Sierra Leone to safely dispose medical waste
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: 

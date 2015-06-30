@@ -11,7 +11,8 @@ partner_type:
 project_title: Viet Nam’s participation in the international network on Multidimensional Poverty supported
 scale: country-country
 project_objective: UNDP supported Viet Nam in taking an active part in the international network of 32 countries engaged in multidimensional poverty initiatives. This provided opportunities for south-south exchange and cooperation
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

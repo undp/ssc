@@ -11,7 +11,8 @@ partner_type:
 project_title: Pacific Adaptation to Climate Change  Regional Project (PACC) & Pacific Island Greenhouse Gas Abatement through Renewable Energy Project (PIGGAREP)
 scale: regional
 project_objective: The 2 projects are focused on CC and united 50 reps from 15 countries to discuss progress, challenges, lessons learned and share advice, experience, technology and solutions. Both projects participated in common trainings on M&E and on renewable energy through IRENA. For the SIDS Conference there was joint planning for side events and presentation of project results to donors. After the SIDS conference, the projects prepared statements for the UN Climate Summit.
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
 project_link: 

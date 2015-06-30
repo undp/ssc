@@ -12,7 +12,8 @@ partner_type:
 project_title: Middle East and North African Public Administration Research (MENAPAR)
 scale: regional
 project_objective: UNDP supported capacities in establishing an Arab network of research in public administration called MENAPAR.  This fills a major gap in developing policies and methodologies in public administration reform in the Arab world. It was formally rolled in April in a conference in Bahrain that established a Founding Board from 6 countries of the Arab region and participation of 270 professionals & practitioners representing government institutions; academic researchers and CSOs
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

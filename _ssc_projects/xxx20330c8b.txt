@@ -11,7 +11,8 @@ partner_type:
 project_title: Regional Hub of Civil Service
 scale: regional
 project_objective: employ knowledge management and South-South and triangular partnership approaches that are customized to contribute to the establishment of modern, effective and fiscally sustainable civil service systems in the region towards meeting society’s expectations for the responsive and transparent delivery of public goods and services
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: International Symposium on Excellence in Public Service and Public Administration
 scale: global 
 project_objective: UNDP partnered with the Department of Administrative Reforms and Public Grievances, Government of India to promote the exchange of knowledge and experience in the field of improving public services and public administration in the context of South-South cooperation. Participants from 23 countries were able to disseminate and learn from the innovative best practices and extraordinary achievements in improving public administration and governance.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

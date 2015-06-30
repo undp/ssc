@@ -11,7 +11,8 @@ partner_type:
 project_title: Share experience of Malaria Elimination  projects of Islamic Republic of Iran in cross-bordering areas with Afghanistan, Pakistan
 scale: regional
 project_objective: Tajik specialists from Ministry of Health including regional offices have participated in study tour to Islamic Republic of Iran to learn cross-bordering project successfully implemented by Iranian colleagues from Institute of Medicine
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

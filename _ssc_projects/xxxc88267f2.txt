@@ -11,7 +11,8 @@ partner_type:
 project_title: Le South-South Global Assets and Technology Exchange (SS-GATE) Developpement communautaire a travers le programme Territoire d’Apprentissage Territorio de Aprendizaje La deuxième Route d’Apprentissage–entreprenariat des jeunes en Colombie
 scale: regional
 project_objective: le 29 Juillet, 2014, le projet d’appui a la  mise en place du Business Promotion Center a signe un accord avec le  SS- GATE pour accueillir le centre de transfert de technologie Sud-Sud en faveur des PMA , afin de  permettre le transfert Sud-Sud de technologies viables, sectorielles visant a developper et renforcer les capacites et la production dans les PMA
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

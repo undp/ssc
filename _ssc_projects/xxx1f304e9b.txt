@@ -11,7 +11,8 @@ partner_type:
 project_title: Partage de l’expérience du Niger pour l’Installation d’une  base de données historiques des impacts des catastrophes et formation des cadres sur son utilisation au Mali.
 scale: country-country
 project_objective: La base de données Desinventar est un outil de recueil des données historiques des impacts des catastrophes qui permet de développer le profil du pays en matière de catastrophes et de dégager des preuves d’impacts des catastrophes sur le développement. Cet outil est déjà opérationnel au Niger. Le spécialiste en prévention des crises et catastrophes du bureau a partagé l’expérience du Niger et appuyé l’installation d’une base de données similaire au Mali et formé les cadres à son utilisation.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - builder_of_capacities
 project_link: 

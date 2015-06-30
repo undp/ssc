@@ -11,7 +11,8 @@ partner_type:
 project_title: Mainstreaming HIV/AIDS and Gender into Environmental Assessments
 scale: regional
 project_objective: ensure full integration of HIV and Gender issues into policies and guidelines governing EIAs by 2014. The main issues to be addressed through this project are i) customization and implementation of the generic EIA, guidelines; ii) Training of EIA practitioners; iii) Integration of HIV and Gender Issues into policies, guidelines, and legislation governing EIA processes; and iv) Getting buy in from stakeholders on the broader integration process.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: http://www.na.undp.org/content/namibia/en/home/operations/projects/hiv_aids/HIVEIAs.html

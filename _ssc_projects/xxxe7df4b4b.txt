@@ -11,7 +11,8 @@ partner_type:
 project_title: SIDS DOCK
 scale: global 
 project_objective: Encadres dans l’Alliance des petits Etats insulaires (AOSIS), SIDS DOCK c’est un mecanisme institutionnel collectif pour assister la transformation des secteurs energetiques en catalyseurs d’un developpement durable et appuyer la mobilisation de ressources.
-territorial_focus: sids, mic
+territorial_focus: 
+  - sids, mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

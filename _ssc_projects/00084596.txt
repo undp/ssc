@@ -11,7 +11,8 @@ partner_type:
 project_title: China-Zambia South-South Cooperation on Renewable Energy
 scale: regional
 project_objective:  integrate HIV and related gender aspects into capital projects using Environmental Assessments (EAs) as entry points.  
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

@@ -11,7 +11,8 @@ partner_type:
 project_title: China-Bangladesh Urban Solutions Lab
 scale: regional
 project_objective: The Lab applied design thinking methodology in south-south government-to-government knowledge sharing (Between China and Bangladesh) to adapt China’s one-stop-shop urban service centre model to the Bangladesh context. After a study tour and design thinking workshop in Beijing, a one-stop shop was prototyped in Bangladesh.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Via Dinarica
 scale: regional
 project_objective: Development of touristic facilities capacities along the Via Dinarica mountain trail that connects Albania, BiH, Kosovo, Montenegro, Croatia, Slovenia, and Serbia.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

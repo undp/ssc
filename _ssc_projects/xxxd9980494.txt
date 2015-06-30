@@ -11,7 +11,8 @@ partner_type:
 project_title: Africa Insider Mediators Platform (AIMP)
 scale: regional
 project_objective: The platform brings together peace practitioners and mediators (government, civil society) from across African with the aim of sharing best practice and experiences of successful mediation and peace building initiatives.  ACTION Support Centre with support from UNDP Regional Service Centre coordinates AIMP. 
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.asc.org.za/language/en/

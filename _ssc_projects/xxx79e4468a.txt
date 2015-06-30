@@ -11,7 +11,8 @@ partner_type:
 project_title: Mahallae is a digital neighbourhood for civic engagement developed by Cypriot civil society and innovators from the Euro-Mediterranean region.
 scale: country-country
 project_objective: UNDP-ACT, through the Mahallae project, and the Egypt CO, through their Innovation for Development Unit, have developed a strong cooperation in the area of innovation.  The support of cooperation between Cypriot and Egyptian NGOs working in innovation continued and in 2014 Egyptian NGOs participated in a Mahallae event.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: 

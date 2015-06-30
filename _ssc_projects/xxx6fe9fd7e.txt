@@ -11,7 +11,8 @@ partner_type:
 project_title: Performance based budgeting and public expenditure and Results Based management and performance indicators
 scale: regional
 project_objective: The  UNDP-funded initiative gave a guide to selected African countries, on identifying and managing risk while bearing in mind the expected results and necessary resources;increasing knowledge by learning lessons and integrating them into decisions; and reporting on the results achieved and resources involved. SSC will be promoted aimed at strengthening or establishing close ties with other policy research analysis institutions in the South, to share knowledge and to address issues that of a particular concern to the global South.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

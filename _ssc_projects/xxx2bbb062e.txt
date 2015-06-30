@@ -11,7 +11,8 @@ partner_type:
 project_title: 2nd High-Level Policy Forum on Global Governance
 scale: global 
 project_objective: In 2012, UNDP China initiated the biannual High-Level Policy Forum on Global Governance to tackle global issues in innovative ways and to feed into the thinking of China’s new leaders. A comprehensive report based on Forum discussions was also developed and launched in 2013.  On 22 October 2014, the 2nd High-Level Forum was organized with the theme of economic governance, representing a valuable step forward in providing a neutral space for exchange on strategically important global issues.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

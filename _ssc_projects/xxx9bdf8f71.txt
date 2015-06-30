@@ -11,7 +11,8 @@ partner_type:
 project_title: MISSION D’ECHANGE SUR LES EXPERIENCES TOGOLAISE ET SUD AFRICAINE DANS LA CONDUITE DE LA RECONCILIATION NATIONALE
 scale: regional
 project_objective: Les visites avaient pour but de s’enquerir des experiences et bonnes pratiques en matiere de processus de reconciliation nationale au Togo et en Afrique du sud. L'appui du PNUD a consiste a la mise en relation et a la preparation technique de la partie malgache a mieux dialoguer avec la partie togolaise. Les representants de la Presidence, Primature, Assemblee Nationale, Conseil de Reconciliation et Ministere de la Communication y ont participe.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

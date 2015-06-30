@@ -3,7 +3,7 @@ open_project_id: ""
 thematic_focus: 
   - 
 country: 
-  - CZK
+  - CZE
 region: 
   - europe_cis
 partner_type: 
@@ -12,6 +12,7 @@ project_title: Czech-UNDP Trust Fund
 scale: global 
 project_objective: South-South/East-East initiative involving Kazakhstan, Kyrgyzstan and Armenia on sharing Czech experience in implementing the EU Energy Performance in Buildings Directive).
 territorial_focus: 
+  - none
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: 

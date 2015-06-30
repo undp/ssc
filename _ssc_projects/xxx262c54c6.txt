@@ -11,7 +11,8 @@ partner_type:
 project_title: Viaje de estudio del Instituto de Planificación de Jamaica para el fortalecimiento de su Red de Proteccion Social
 scale: country-country
 project_objective: Una delegación del Instituto de Planificación Social y del Ministerio de Trabajo de Jamaica participaron en una visita de una semana a Chile para conocer la experiencia de dicho país en el fortalecimiento y consolidación de su sistema de protección social.
-territorial_focus: hic
+territorial_focus: 
+  - hic
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.cl.undp.org/content/chile/es/home/presscenter/articles/2014/11/18/delegaci-n-de-jamaica-visita-chile-para-estudiar-pol-ticas-de-reducci-n-de-la-pobreza1.html

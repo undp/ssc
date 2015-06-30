@@ -11,7 +11,8 @@ partner_type:
 project_title: Capacity Strengthening for Industrial Development
 scale: country-country
 project_objective: To stregthening the national capacity for enterprise development in the area of the industrial sector and make contribution to the attainment of the goals set in the Growth and Transformation Plan (GTP).  The key project interventions include the following- i) making available and usign industrial sector wide advisory services; ii) formulating policies/strategies and solutions for enhanced growth in manufacturing sector; iii) building institutional capacity of the Ministry of Industry, selected insitutions to promote thier effectiveness in industrial and private sector development;  iv) developmnet of inputs-outputs coeffiencet for export products;  v) establishment of sector wide database and resource centre; and vi) promotion of investment in the industrial sector. 
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: http://open.undp.org/#project/00070488 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Enhanced capacities of selected state, district and township administrations and state parliaments to establish participatory and responsive planning, budgeting and monitoring mechanisms
 scale: country-country
 project_objective: UNDP facilitated a study visit for a delegation from Myanmar Gvt to Turkey and Sweden in Sept.-Oct. The delegation led by Deputy Minister for Home Affairs and 2 Ministers from Mon State and Ayarwady region, discussed with a wide range of Turkish and Swedish stakeholders from government and civil society at national and local levels, and exchanged ideas and information on issues relating to decentralization, regional development and local governance. Follow up activities are planned.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

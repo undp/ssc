@@ -11,7 +11,8 @@ partner_type:
 project_title: Southern Africa Regional Exchange Platform on the role of Dialogue for Inclusive community Peace and Reconciliation in Southern Africa
 scale: regional
 project_objective: This workshop provided a platform where key stakeholders from the Southern African region shared country-specific knowledge and experiences on the role of community dialogue for peace and reconciliation. Jointly hosted by ACCORD and ECLF, the participants were drawn from Government and Civil Society within the Southern African region.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

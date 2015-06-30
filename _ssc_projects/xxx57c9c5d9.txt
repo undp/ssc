@@ -11,7 +11,8 @@ partner_type:
 project_title: Politicas publicas del cuidado en Cuba.
 scale: country-country
 project_objective: Cuba avizora poner en marcha politicas de cuidados. En ese marco, con apoyo de PNUD (Cuba y Regional) y CEPAL se identificaron experiencias de la region entre ellas la de Uruguay. Parte del elenco de gobierno y de una cooperativa social de la Red Por cuidados realizaron asistencia tecnica y presentaron la experiencia en un taller en diciembre de 2014.
-territorial_focus: hic
+territorial_focus: 
+  - hic
 undp_role_type: 
   - knowledge_broker
 project_link: 

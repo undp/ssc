@@ -11,7 +11,8 @@ partner_type:
 project_title: Formation des ONG intervenant dans le cadre des Plateformes Multi fonctionnelles
 scale: country-country
 project_objective: Un expert du projet national de Plateformes Multifonctionnelles (PTFM) au Mali est venu au Niger pour dispenser une formation à 10 ONG, 1 bureau d’études et l’équipe du projet PTFM Niger en suivi évaluation des PTFM
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - builder_of_capacities
 project_link: 

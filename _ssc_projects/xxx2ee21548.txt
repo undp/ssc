@@ -11,7 +11,8 @@ partner_type:
 project_title: Pilot 3 - Ministry of Natural Resource and Agriculture - Climate Change  and Food Security - Building resilience among cattle producers of the Belize District
 scale: country-country
 project_objective: The pilot carried out in the Agriculture sector worked with livestock small holders in adaptation to climate change and climate variability. Technical knowledge and know how was exchanged with the Ministry of Agriculture and cattle small holders through expert affiliates of CATIE Guatemala. Farmers were introduced to new techniques for silage, making/ stockpiling of low cost nutritional blocks and  in the development, management and protection of water sources for livestock rearing.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

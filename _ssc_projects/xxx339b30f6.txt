@@ -11,7 +11,8 @@ partner_type:
 project_title: Study Visit to the Justice Law and Order Sector (JLOS) in Uganda
 scale: country-country
 project_objective: JLOS representatives undertook an exchange visit to learn from the Ugandan model. Five departments in the Ministry of Justice, the Zimbabwe Republic Police, the Zimbabwe Prison and Correctional Services and UNDP undertook the mission under the leadership of the Deputy Minister for Justice. UNDP supported a technical expert to share the Ugandan experience as well as technical and financial support for the exchange visit.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

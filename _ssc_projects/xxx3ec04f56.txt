@@ -11,7 +11,8 @@ partner_type:
 project_title: Conference Organization INTERNATIONAL DEVELOPMENT COOPERATION - TRENDS and EMERGING OPPORTUNITIES-PERSPECTIVES OF THE NEW ACTORS
 scale: global 
 project_objective: The Conference was organized by Government of Turkey and UNDP (with support from Bratislava Regional Center) to bring together the emerging providers of development cooperation, primarily from the South, to discuss topics relating to international development cooperation.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: 

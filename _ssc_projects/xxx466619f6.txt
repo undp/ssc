@@ -11,7 +11,8 @@ partner_type:
 project_title: Exposure visits for Kandahar and Helmand SMEs under Rural Enterprise Development Programme.
 scale: regional
 project_objective: AREDP, RED KAN and HELMAND know-how trainings in New Delhi, India and Islamabad, Pakistan
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

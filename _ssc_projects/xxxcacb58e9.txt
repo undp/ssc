@@ -11,7 +11,8 @@ partner_type:
 project_title: Buenas prácticas en primera infancia y recuperación de espacios públicos abiertos a través de la artesanía y actividades artístico-recreativas en las ciudades de Medellín y Bogotá
 scale: country-country
 project_objective: La Primera Dama y la RR de Honduras visitaron el País para conocer programas en tema de Primera Infancia y buenas prácticas en la recuperación de espacios públicos abiertos a través de la artesanía y actividades artístico-recreativas en las ciudades de Medellín y Bogotá. Se generarán iniciativas para el apoyo de la producción de artesanías que generarán oportunidades de empleo, revalorizarán recursos culturales y fortalecerán procesos de desarrollo e identidad local
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.hn.undp.org/content/honduras/es/home/presscenter/articles/2014/11/03/en-misi-n-pnud-primera-dama-conocer-en-colombia-experiencias-en-espacios-seguros-desarrollo-artesanal-y-primera-infancia.html

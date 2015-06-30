@@ -11,7 +11,8 @@ partner_type:
 project_title: Replica Buenas prácticas en Estrategias de Desarrollo Económico Local.
 scale: country-country
 project_objective: Por petición de la primera Dama de Honduras en colaboración del PNUD de ese país, se brindó asistencia técnica en el modelo implementado en Bello/Antioquia, para replicar y promover Estrategias de Desarrollo Económico Local sobre Líneas de base socioeconómicas y Rutas de Desarrollo Económico que comprenden emprendimientos, empleabilidad y productividad entre otras. Como resultado, el coordinador territorial esta trabajando conjuntamente con el Gobierno de Honduras para establecer la estrategia.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.hn.undp.org/content/honduras/es/home/presscenter/articles/2014/11/03/en-misi-n-pnud-primera-dama-conocer-en-colombia-experiencias-en-espacios-seguros-desarrollo-artesanal-y-primera-infancia.html

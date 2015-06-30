@@ -11,7 +11,8 @@ partner_type:
 project_title: Cook stove technology in the framework of Energy4All.
 scale: country-country
 project_objective: To learn about different aspects of cook stove technology (technological developments, institutional set-up, private sector engagement, R&D) as part of the Energy4All initiative. A second study visit took place to Kenya on detailed technological training around cook stove technology (ToT).
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

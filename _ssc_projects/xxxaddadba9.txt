@@ -11,7 +11,8 @@ partner_type:
 project_title:  Economic Association of Malawi (ECAMA) Annual Conference -  Achieving Inclusive Sustainable Economic Growth - From Rhetoric to Practice
 scale: country-country
 project_objective: Objective of the iniaitive- The conference explored long term strategies for sustainable economic growth in the next 50 year vision of Malawi from best practices from the Southern African Development Community (SADC) countries that achieved growth. Attendance included- public service, academia, CSOs, and donors. Mauritius was invited to share success stories based on Mauritian model of economic diversification and how policies can be applied by Malawi Government to achieve industrial transformation.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: http://massp.ifpri.info/files/2014/06/Final-Symposium-Report.pdf 

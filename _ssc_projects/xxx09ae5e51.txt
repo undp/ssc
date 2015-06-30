@@ -11,7 +11,8 @@ partner_type:
 project_title: Voyage d etude au Burkina Faso sur l approche budget programme
 scale: country-country
 project_objective: La Mauriatnie s apprete a utiliser l approche budget programme. Pour se donner les meilleures chances de succes, il est important d apprendre des pays qui utilisent deja cette approche. C est le cas du Burkina Faso qui est l un des pays de l Afrique de l Ouest ou cette approche est la mieux utilisee.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

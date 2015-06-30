@@ -11,7 +11,8 @@ partner_type:
 project_title: Mission of the Deputy Director of the UNDP Global Centre for Public Service Excellence (GCPSE) to Tashkent, Uzbekistan (December 2014)
 scale: country-country
 project_objective: Mission of the Deputy Director (Arndt Husar) of the UNDP Global Centre for Public Service Excellence (GCPSE, Singapore) to Tashkent, Uzbekistan  to provide consultations with the stakeholders, and contribute to the discussion at the workshop on regulatory impact assessment (RIA). The focus of the mission was to examine how Singaporean example could be utilized in the context of Uzbekistan.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

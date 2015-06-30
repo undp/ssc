@@ -11,7 +11,8 @@ partner_type:
 project_title: Workshop on “Public Service Excellence and the Post-2015 Agenda” (PSP-2015)  organized by the UNDP Global Centre for Public Service Excellence, Singapore, 17-19 November, 2014
 scale: country-country
 project_objective: CO mobilized funds/supported participation of Acting Financial Secretary in the workshop aimed at engaging participants on deploying the core themes of the GCPSE in the wider context of public sector reforms in developing countries, sharing current practices and debating challenges and opportunities, promote Learning Alliances on Public Sector Reform developed by the Effective Institutions Platform (EIP) to address such challenges and strengthen governance for delivering Post 2015 Agenda.
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

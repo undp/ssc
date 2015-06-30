@@ -11,7 +11,8 @@ partner_type:
 project_title: Women's Political Participation and Leadership, SAARC
 scale: country-country
 project_objective: SAARC level meeting on women’s political participation and leadership was jointly organized by UNDP Pakistan, Nepal and UNWOMEN in Kathmandu from 15-17 July, 2014. A total of 40 international and 10 national participants from women caucus, election management bodies, civil society etc participated.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: 

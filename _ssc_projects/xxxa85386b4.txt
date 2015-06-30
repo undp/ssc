@@ -11,7 +11,8 @@ partner_type:
 project_title: Trinidad Pilot Replication of Cuban Risk Reduction Management Centre (RRMC) Model
 scale: country-country
 project_objective: The Cuban RRMC model was tested for adaptability to the national context by piloting it in one of the fourteen regional administrative areas in Trinidad and Tobago. The elements to be replicated were decided based on an assessment of the capacity of the Disaster Management Units to prepare for and respond to disasters in the administrative area.
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
 project_link: 

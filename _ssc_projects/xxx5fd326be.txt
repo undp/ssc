@@ -11,7 +11,8 @@ partner_type:
 project_title: “Support to Youth Employment Creation” Cote d’Ivoire
 scale: country-country
 project_objective: Assist the Government of Cote d'Ivoire in developing an Operational Action-Plan the would support youth employment creation. 
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
 project_link: 

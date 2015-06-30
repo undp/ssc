@@ -11,7 +11,8 @@ partner_type:
 project_title: Strategic planning, policy and operational capacities of INEC in ICT and Election 
 scale: regional
 project_objective: Peer learning and knowledge transfer on opportunities and limitations on ICTs in the electoral process
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

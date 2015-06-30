@@ -11,7 +11,8 @@ partner_type:
 project_title: Inter-agency Coordination and Articulation meeting  for Monitoring the MDGs. November 2014. Mexico
 scale: regional
 project_objective: This capacity building/ south-south knowledge exchange session was developed to share information on how Mexico was able to successfully monitor the MDGs and its social Programmes and how these have informed Social Development Policy in Mexico. The Ministry of Human Development, Social Transformation and Poverty Alleviation, the Ministry of Finance and Economic Development, the Statistical Institute of Belize and UNDP Belize attended on behalf of Belize
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

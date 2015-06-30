@@ -11,7 +11,8 @@ partner_type:
 project_title: IGAD Regional Capacity Enhancement Initiative
 scale: regional
 project_objective: support the Government of South Sudan (GoSS) to place 200 civil servants from IGAD Member States on secondment with GoSS to mentor and coach the South Sudanese civil servants.  These seconded civil servants will serve as a form of rapid capacity enhancement support to strengthen the institutional capacity of GoSS institutions to deliver services.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

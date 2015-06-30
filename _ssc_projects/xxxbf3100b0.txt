@@ -11,7 +11,8 @@ partner_type:
 project_title: Project regarding the introduction of added value products in China.  Project was executed by PROMPERU (Peruvian Agency responsible of promoting tourism and Peruvian products)
 scale: regional
 project_objective: The initiative was created in order to study Chinese market in order to promote exports of fruits and vegetables from Peru, Colombia and Ecuador.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

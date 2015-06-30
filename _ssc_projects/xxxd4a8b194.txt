@@ -11,7 +11,8 @@ partner_type:
 project_title: Public Administration Reforms
 scale: regional
 project_objective: Development of a functional civil service system which meets the demand of a modern public administration, and supports the government’s goal of European Integration, and development of professional civil service through mandatory, gender responsive, training.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Ethiopia National Coffee Platform- experience sharing visit to Guatemala and Costa Rica on best implementation of the National Coffee Platform programme.
 scale: country-country
 project_objective: Ethiopian coffee has been identified as an essential commodity during the Rio +20 conference where the Danish Development Agency publicly announced its support to fund a pilot coffee platform in Ethiopia. Thus, since 2013, UNDP is assisting the Government to establish a National Coffee Platform, building on the existing National Coffee Plenary which meets once a year. The Platform will connect key stakeholders, including international coffee buyers, as well as various on-ground initiatives to work on a systemic and coordinated approach to improve the Ethiopian coffee sector.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.undp.org/content/undp/en/home/ourwork/environmentandenergy/projects_and_initiatives/green-commodities-programme/projects/coffee---ethiopia.html

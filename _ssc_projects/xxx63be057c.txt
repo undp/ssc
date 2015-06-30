@@ -11,7 +11,8 @@ partner_type:
 project_title: China-Ghana South-South Cooperation on Renewable Energy Technology Transfer project
 scale: country-country
 project_objective: The objective of the  project- To facilitate the development and transfer of renewable energy technologies from China to Ghana along with the support required to make the technologies effective, including capacity building, transfer of know-how and best practices. The project will operate both at the upstream level (supporting the creation of an enabling environment for technology transfer) and downstream level (actual transfer and demonstration of technologies with potential upscaling by the private sector).
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - builder_of_capacities
   - knowledge_broker

@@ -11,7 +11,8 @@ partner_type:
 project_title: the Persian Outreach Programme organized by GICHD and supported by UNDP
 scale: country-country
 project_objective: Three UNDP STMAP Land Release staff and representatives from TNMAC and the Government of Tajikistan participated in the 2nd Persian Outreach Programme (POP) workshop in Tehran, Iran in May 2014. The workshop allowed exchanging experience in Land Release among the Persian speaking countries, discussing the existing challenges and proposing the best practical solutions. All participants obtained knowledge on operational efficiency, International and the National Mine Action Standards (NMAS).
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Transferencia de conocimiento sobre la gestión de MYPYMES y Grupos asociativos/Cooperativas para conformación de Sistemas Productivos Locales
 scale: regional
 project_objective: Intercambio de experiencias y asistencias técnicas para la transferencia de conocimiento sobre la gestión de MYPYMES y Grupos asociativos/Cooperativas para conformación de Sistemas Productivos Locales.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.ar.undp.org/content/argentina/es/home/operations/projects/poverty_reduction/sistprodlocales.html, http://www.ar.undp.org/content/dam/argentina/Des%20Inclusivo/undp_ar-desprod_12005evisi%C3%B3n%20B.pdf

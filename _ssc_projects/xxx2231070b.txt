@@ -11,7 +11,8 @@ partner_type:
 project_title: Forms of education (formal, informal) available to people serving prison sentences
 scale: country-country
 project_objective: Overview of forms of education (formal, informal, vocational) available to people serving prison sentences has been initiated in 2014. Distribution of mandates and responsibilities of all actors involved in providing educational services to people serving prison sentences has been analysed through the Croatian case.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

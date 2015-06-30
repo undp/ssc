@@ -11,7 +11,8 @@ partner_type:
 project_title: Support to Constitutional Reform Project
 scale: country-country
 project_objective:  support the Constitutional Review Committee (CRC) in advancing a people driven review and amendment of the constitution. The project’s specific goal is to strengthen national capacity for the implementation of a transparent, impartial, inclusive, participatory and creditable constitution making process.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

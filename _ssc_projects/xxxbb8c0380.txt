@@ -11,7 +11,8 @@ partner_type:
 project_title: Peer Review of UN Convention Against Corruption (UNCAC)
 scale: country-country
 project_objective: GoPNG undertook a peer review of the Marshall Islands and their status of implementation of the UNCAC.
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: 

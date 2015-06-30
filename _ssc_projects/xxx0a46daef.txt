@@ -11,7 +11,8 @@ partner_type:
 project_title: Preparation of strategy document for the establishment of Special Economic Zones (SEZ)
 scale: country-country
 project_objective: UNDP was approached by the GoZ in mooting the idea of establishing SEZ. Accordingly, UNDP, in collaboration with the Office of the President and Cabinet, the Ministry of Finance, the Ministry of Foreign Affairs and other relevant ministries facilitated a high level knowledge sharing seminar in the area of SEZ with experts from China, Mauritius, South Africa and UAE. The experts shared their experiences in establishing SEZs in their respective countries and lessons to be leaned by Zimbabwe.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

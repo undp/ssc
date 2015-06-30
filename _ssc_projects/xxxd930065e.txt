@@ -11,7 +11,8 @@ partner_type:
 project_title: Mision de formacion, aprendizaje e intercambio de experiencias en gestion estrategica territorial y procesos de gobernabilidad local, de autoridades locales cubanas y del Centro para el Desarrollo Local de Cuba, a Ecuador
 scale: country-country
 project_objective: En el marco de la politica de actualizacion del modelo de desarrollo en Cuba, directivos y especialistas nacionales y locales que trabajan y gestionan estos procesos en el ambito local, analizaron e intercambiaron con autoridades y tecnicos nacionales y locales ecuatorianos, asi como con la academia y ongs, las diferentes perspectivas sobre el Desarrollo Local, con experiencias concretas desde los territorios y a nivel nacional entre Ecuador y Cuba
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.ec.undp.org/content/ecuador/es/home/presscenter/articles/2014/07/08/desaf-os-del-desarrollo-local-visiones-e-intercambios-desde-ecuador-y-cuba-.html

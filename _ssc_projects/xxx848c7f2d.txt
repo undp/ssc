@@ -11,7 +11,8 @@ partner_type:
 project_title: INTERCAMBIO DE BUENAS PRACTICAS ENTRE LA SECRETARIA DE EMERGENCIA NACIONAL DEL GOBIERNO DE PARAGUAY Y EL CENTRO NACIONAL DE MONITOREO DE ALERTAS DEL GOBIERNO DE BRASIL (CEMADEN)
 scale: country-country
 project_objective: La iniciativa consistió en compartir e intercambiar entre las instituciones en referencia buenas practicas sobre acciones para el mejoramiento y consolidación de un Sistema de Alerta Temprana adecuado a las características del funcionamiento de las instituciones involucradas.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.sen.gov.py/noticia/183-sen-y-dinac-trabajan-con-planes-de-optimizar-el-sistema-de-alerta-temprana.html#.VLe0nyuG8wE

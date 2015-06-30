@@ -11,7 +11,8 @@ partner_type:
 project_title: Programme National Plateformes multifonctionnelles pour la lutte contre la pauvrete(PTFM)
 scale: country-country
 project_objective: Le PTFM a suscité un partage d’expériences avec la Guinée qui a bénéficié de l’expertise en matière de micro industrialisation villageoise et de promotion de l'entreprenariat rural
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

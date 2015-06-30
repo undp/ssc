@@ -11,7 +11,8 @@ partner_type:
 project_title: Proyecto marco de apoyo a la estrategia de Cooperacion Sur Sur  a través del apoyo a iniciativas de cooperacion tecnica especificas, en el marco de acuerdos de cooperacion bilateral suscritos por el Gobierno (AUCI)
 scale: country-country
 project_objective: En el marco de un Acuerdo de asociación estratégica entre Uruguay y Mexico se conformo un Fondo Conjunto de cooperacion, que se implementa por AUCI y AMEXID con apoyo de PNUD.
-territorial_focus: hic
+territorial_focus: 
+  - hic
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.uy.undp.org/content/uruguay/es/home/presscenter/articles/2014/12/02/evaluan-resultados-de-desarrollo-del-programa-de-pa-s-del-pnud-uruguay.html

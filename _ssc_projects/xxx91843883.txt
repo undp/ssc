@@ -11,7 +11,8 @@ partner_type:
 project_title: Exchange of Disaster Management Practices with Focus on Agricultural Assets
 scale: country-country
 project_objective: Peer to peer exchange on disaster management practice in Thailand with focus on protection of agricultural assets, particularly in response to climate related events, protection of agricultural land and assessing potential for cross-border cooperation. National participants included the National Agriculture and Forestry Research Institute, the Provincial Agriculture and Forestry office and the National Disaster Management Office.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

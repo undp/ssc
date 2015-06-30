@@ -11,7 +11,8 @@ partner_type:
 project_title: Project to strengthen the process of REDD +preparation  in Mexico and promote  South-South cooperation
 scale: 
 project_objective: The project focuses on preparation for the REDD + process in Mexico, particularly in terms of deforestation monitoring and measuring, reporting and verification (MRV) mechanisms. The SSC project strategy includes development of a Virtual Center of Excellence with regional scope and focusing on forest monitoring and MRV. The Project will be implemented in coordination with CONAFOR and the FAO with funding from the Government of Norway.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - builder_of_capacities
 project_link: 

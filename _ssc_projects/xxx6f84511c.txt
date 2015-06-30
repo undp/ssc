@@ -11,7 +11,8 @@ partner_type:
 project_title: Integrated Entrepreneurship and Enterprise Development Project (EMPRETEC).
 scale: country-country
 project_objective: Since the informal sector is the biggest employer, promotion of MSME and entrepreneurship is key to ensuring youth employment. The project aims to achieve the following- i) Build and strengthen institutional capacities to implement entrepreneurship and enterprise development programmes; ii) To foster the emergence and development of a sustainable productive and competitive private sector in The Gambia; and iii) To create a platform to enhance stakeholder dialogue and advocacy for MSME development
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.gm.undp.org/content/dam/gambia/docs/GMB_UNDP_EMPRETECDocument.pdf; 

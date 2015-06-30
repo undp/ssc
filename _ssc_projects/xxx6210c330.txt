@@ -11,7 +11,8 @@ partner_type:
 project_title: Mission of staff from Ministry of Economy and Finance in Peru to Minas Gerais (Brazil) and Costa Rica to visit experiences of national supply chain management systems.
 scale: regional
 project_objective: With financial and technical support from UNDP country office, staff of procurement area of Ministry of Economy and Finance visited Minas Gerais (Brazil) and Costa Rica, where  federal or national supply chain systems are in place, to learn about these experiences and acquire knowledge about lessons learned and challenges. Findings were utilized to fine-tune national supply system proposal for Peru's case.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

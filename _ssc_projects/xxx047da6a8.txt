@@ -11,7 +11,8 @@ partner_type:
 project_title:  Performance based budgeting and public expenditurs and Results Based management and performance indicators
 scale: regional
 project_objective: the UNDP-funded initiative gave a guide to selected African countries, on identifying and managing risk while bearing in mind the expected results and necessary resources;increasing knowledge by learning lessons and integrating them into decisions; and reporting on the results achieved and resources involved. 
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
   - facilitator_of_partnerships

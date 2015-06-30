@@ -12,7 +12,8 @@ partner_type:
 project_title: Appui au processus electoral en Tunisie
 scale: regional
 project_objective: Le projet vise a aider a la mise en place d un organe de gestion electorale pour superviser le premier evenement electoral et contribuer a la construction d’une gestion future independante des elections en Tunisie. D autres acteurs impliques dans le processus electoral sont egalement vises, y compris la societe civile (en particulier les femmes et les jeunes), les medias et d autres institutions nationales qui jouent un role dans la diffusion de l information.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

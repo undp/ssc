@@ -11,7 +11,8 @@ partner_type:
 project_title: Projet d electrification rurale en utilisant des systemes d energie solaire
 scale: global 
 project_objective: Le projet vise a contribuer a  la qualite de vie des communautes en reduisant la pauvrete; et possiblitant l access a l energie solaire durable
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

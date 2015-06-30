@@ -11,7 +11,8 @@ partner_type:
 project_title: Capacity Building Support for Malaysia's Role in Multidimensional Peacekeeping Training - Phase 2
 scale: regional
 project_objective: The initiative seeks to strengthen the institutional capacity of the Malaysian Peacekeeping Training Centre to develop training modules and research focused on issues related to gender, protection of civilians and cultural diversity in peacekeeping operations and providing workshops, seminars, training of trainers on these topics to build capacity of peacekeeping trainers and personnel particularly from Asia and Africa.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

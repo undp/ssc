@@ -11,7 +11,8 @@ partner_type:
 project_title: Voyage d’étude du Premier Ministère au Gabon
 scale: country-country
 project_objective: Dans le cadre de l’appui à la mise en œuvre du programme de renforcement des capacités du Premier Ministère, il était prévu dans la première quinzaine du mois de novembre 2014 un voyage d’étude au Gabon.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

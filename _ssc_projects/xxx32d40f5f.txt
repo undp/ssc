@@ -11,7 +11,8 @@ partner_type:
 project_title: Exchange on human trafficking and smuggling investigations
 scale: regional
 project_objective: Representatives from the Bangladesh Police and the Ministries of Foreign Affairs and Planning and the Economic Relations Division undertook an exchange visit to the Human Trafficking Investigation and Protection Center in the Philippines. Effective techniques for investigating human trafficking and special transnational crimes were shared, as well as support mechanisms for women and child victims (with additional expertise from the Australian Federal Police).
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

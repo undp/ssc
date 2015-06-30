@@ -11,7 +11,8 @@ partner_type:
 project_title: Climate Change Adaptation Programme in the coastal zone of Mauritius
 scale: country-country
 project_objective: The objective of the project is to protect the communities living in the coastal areas of Mauritius from the adverse effects of Climate Change. Planned activities include implementation of soft and hard beach protection measures, setting up of an early-warning system for storm surges, construction of a refuge center, improvement of institutional framework for coastal management and trainings.
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
 project_link: http://open.undp.org/#project/00062857 ;  http://environment.govmu.org/English/Documents/speeches/14.05.22%20MoU-University%20of%20Mauritius.docx ; http://www.mu.undp.org/content/mauritius_and_seychelles/en/home/operations/projects/environment_and_energy/climate-change-adaptation-programme-in-the-coastal-zone-of-mauri.html 

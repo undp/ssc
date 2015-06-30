@@ -11,7 +11,8 @@ partner_type:
 project_title: Appui à  la Côte d’Ivoire pour l’organisation de la revue du Plan National de Développement
 scale: country-country
 project_objective: La Cellule Technique CSLP a apporté un appui à la Côte d’Ivoire dans le cadre l’organisation et de la tenue de la première revue du Plan National de Développement (PND). A cette occasion, le Coordonnateur du CSLP a présenté l’expérience malienne des revues du CSCRP.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

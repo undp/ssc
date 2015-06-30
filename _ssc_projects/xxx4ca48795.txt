@@ -11,7 +11,8 @@ partner_type:
 project_title: South-south and triangular cooperation
 scale: country-country
 project_objective: Three countries had sought Botswana’s assistance- Malawi on anti-corruption, Liberia on tertiary education and the management of extractives and South Sudan on the management of extractives and anti-corruption campaign. A forensic audit of the Malawi treasury was recommended and approved following exchange missions. Funding was secured from the UK. Exchange missions took place in the case of both Liberia and South Sudan.  Botswana assigned a Policy Advisor to the Presidency in South Sudan.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

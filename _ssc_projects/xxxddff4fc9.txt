@@ -11,7 +11,8 @@ partner_type:
 project_title: 00080714 RCC - Apoyada la gestion del conocimiento en respuesta al VIH en - Republica Dominicana y Programa multi-pais del Fondo Mundial, para Asia-Pacifico y en recuperación temprana en respuesta a la Epidemia de Ebola, bajo Equipo SURGE de Naciones Unidas, en Guinea Conakri.
 scale: country-country
 project_objective: Apoyada la gestion del conocimiento en el nuevo Mecanismo de Financiamiento del Fondo Mundial en Republica Dominicana y ofrecida asistencia tecnica en el desarrollo del sistema de reportes financieros para sub-receptores del Programa multi-pais del Fondo Mundial, para la region Asia-Pacifico. Brindada asesoria tecnica en apoyo y recuperacion temprana a la epidemia de Ebola en Guinea-Conakri, como Equipo SURGE de las Naciones Unidas
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
 project_link: 

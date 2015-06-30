@@ -11,7 +11,8 @@ partner_type:
 project_title: COOPERACION ENTRE MUNICIPIOS ASUNCION  Y LA PAZ
 scale: country-country
 project_objective: Desde el Programa DIPECHO VIII, el consorcio conformado por PNUD, OXFAM y PLAN, bajo el liderazgo de la Secretaría de Emergencia Nacional,  implementan un proyecto que involucra a la Municipalidad de Asunción para fortalecer sus capacidades de preparación para la respuesta. Una de las actividades de este proyecto, es el intercambio de experiencias en el marco de cooperación Sur-Sur en busca de fortalecer las capacidades de las ciudades que forman parte del DIPECHO, en materia de GRR.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.py.undp.org/content/paraguay/es/home/presscenter/articles/2013/12/05/la-paz-y-asunci-n-intercambian-experiencias-para-la-gesti-n-de-riesgos-urbanos.html

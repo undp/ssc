@@ -11,7 +11,8 @@ partner_type:
 project_title: Climate change adaptation in the agricultural sector
 scale: country-country
 project_objective: IRAS Project based in the National Agriculture and Forestry Research Institute in the Ministry of Agriculture and Forestry, hosted peer-to-peer learning, including farmers, project staff, government officials, government extension workers and gender-based organizations from Kingdom of Cambodian agencies and led by the Ministry of Agriculture, Forestry and Fisheries of Cambodia for site visit and knowledge exchange, in climate change adaption for small holder farmers.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Knowledge sharing on natural lake Management mechanism
 scale: country-country
 project_objective: Providing Inle Lake stakeholders with options for an effective lake management mechanism through consultations and knowledge exchange with experts and officials in the field of lake management in neighboring countries
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

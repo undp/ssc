@@ -12,7 +12,8 @@ partner_type:
 project_title: Echange en matière de promotion de la compétitivité et des PME.
 scale: country-country
 project_objective: Dans le cadre de l’appui que le PNUD apporte à la stratégie industrielle, 13 cadres du Ministère de l’Industrie te des Mines ont participé à un voyage d’étude au Chili afin de s’inspirer des leçons tirées de l’expérience du chili en matière d’appui à la compétitivité des PME, avec un appui spécifique au développement de entrepreneuriat féminin.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -12,7 +12,8 @@ partner_type:
 project_title: Community Capacity enhancement  refresher trainings and onsite support visit
 scale: regional
 project_objective: There has been a peer review and onsite community-to-community exchanges aimed at generating an intensive co-learning opportunity in which communities share strengths, challenges, results, ways of working, and ways forward. CCE practitioners from Zambia and Senegal led and guided the exchange process
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

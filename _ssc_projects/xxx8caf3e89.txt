@@ -11,7 +11,8 @@ partner_type:
 project_title: Learning management and technology for Fish farming (caging and ponds) 
 scale: regional
 project_objective: Through PEI for pro-poor growth and environmental sustainability to promote sustainable fishing, curbing overfishing in the Lake Victoria, conserve ecosystem - a learning mission between Tanzania and Uganda/Kenya institutions took place in March 2014. UNDP provided financial, logistic and access to information. after the learning mission, fish farming initiative was launched in Dec. 2014 by Minister for Livestock & Fishery; another follow up learning JKT/Uganda took place in Dec. 2014.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

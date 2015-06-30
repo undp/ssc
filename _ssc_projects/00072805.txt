@@ -11,7 +11,8 @@ partner_type:
 project_title: Support to Media Development
 scale: country-country
 project_objective: Strengthen capacity of democratic institutions including Electoral Management Bodies, parliament and Media with aim to promote democratic governance.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: http://open.undp.org/#project/00072805

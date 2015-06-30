@@ -11,7 +11,8 @@ partner_type:
 project_title: Ethiopia Health and Nutrition Institute, EPHA
 scale: country-country
 project_objective: Technical support to the implementation of the  TB Prevalence Survey (TPS)
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

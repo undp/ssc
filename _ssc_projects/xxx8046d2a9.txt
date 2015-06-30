@@ -11,7 +11,8 @@ partner_type:
 project_title: South Asia Regional Exchange Meeting of Women Parliamentarians
 scale: regional
 project_objective: The purpose of the meeting was to create a regional network/platform for learning and sharing of best practices, setting up regional advocacy agenda to support legal and institutional reforms for improved women leadership at all levels particularly in political processes and find ways of advocating and promoting women’s empowerment and political leadership through SAARC processes to ensure improved political will and resources at the regional level.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

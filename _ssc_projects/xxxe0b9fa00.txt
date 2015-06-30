@@ -11,7 +11,8 @@ partner_type:
 project_title: Exchange mission between University of Rwanda and Kenyatta University for Human Development based planning and teaching facilitated by both bureaus of UNDP Rwanda and Kenya
 scale: country-country
 project_objective: An exchange visit between UNDP Rwanda and the University of Rwanda on one part and UNDP Kenya and Kenyatta University on the other was organized in order to share experience and learn from each other as how the Human Development paradigm is entrenched in national higher education curricula and planning.  The mission was held in November 2014.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

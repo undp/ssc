@@ -11,7 +11,8 @@ partner_type:
 project_title: Master’s Programme in Economics, Cooperation & Human Development Launched at the Kenyatta University
 scale: country-country
 project_objective: Kenyatta University,  Pavia University in Italy and UNDP developed a Master’s course on Economic and Human Development aimed at building a pool of experts with human development skills to advocate for the mainstreaming these components in policies and programme. 
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: http://www.ke.undp.org/content/kenya/en/home/presscenter/pressreleases/2014/master_s-programme-in-economics--cooperation---human-development/ 

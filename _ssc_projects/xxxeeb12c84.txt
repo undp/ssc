@@ -11,7 +11,8 @@ partner_type:
 project_title: Intercambio con el proyecto-institucion Pronicaragua (Agencia de Promocion de Inversiones y Exportaciones de Nicaragua),  sobre Inversion Extranjera y Comercio Exterior
 scale: country-country
 project_objective: Promovido intercambio con el proyecto-institucion Pronicaragua sobre Inversion Extranjera y Comercio Exterior. Acordado Memorandum of Understanding (MoU) entre el  Centro de Promocion de Inversiones  y Exportaciones de Cuba y  ProNicaragua, prevista mision comercial de empresarios radicados en Nicaragua a Cuba (marzo 2015) y valorado proyecto CEPEC PNUD sobre Inversion Extranjera y Exportaciones
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: 

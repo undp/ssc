@@ -11,7 +11,8 @@ partner_type:
 project_title: Livelihood Improvement in Tajik-Afghan Cross-border Areas (LITACA)  High Level Study Tour to visit the “One Village – One Product (OVOP)” Project in Kyrgyzstan
 scale: regional
 project_objective: A High Level delegation representing LITACA project partners from Afghanistan and Tajikistan visited One Village One Product (OVOP)  successful model in Kyrgyzstan.  The delegation exchanged experiences with Kyrgyzstan officials and rural development practitioners and visited their OVOP initiative.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

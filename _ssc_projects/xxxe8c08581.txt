@@ -11,7 +11,8 @@ partner_type:
 project_title: Centre de contrôle inter-pays (Cameroun-Congo-Gabon)
 scale: country-country
 project_objective: Le centre vise a lutter contre le braconnage des espèces menacées. Le PNUD a facilité la coopération entre les pays impliqués ainsi que la mise en oeuvre des activités du projet.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

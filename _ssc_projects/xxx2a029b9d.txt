@@ -11,7 +11,8 @@ partner_type:
 project_title:  Youth Innovation Hub for ICT
 scale: country-country
 project_objective: to fostering an innovative culture by providing a platform for sharing ideas and experiences, and involving young people in finding solutions to development problems. This UNDP supported initiative aims to grow from an ICT Hub to providing  tools for other sectors such as energy and environment, agriculture, bio-technology, mining and electrical engineering.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: http://www.sz.undp.org/content/swaziland/en/home/presscenter/articles/2014/08/19/undp-to-establish-youth-innovation-hubs-for-ict-in-swaziland.html 

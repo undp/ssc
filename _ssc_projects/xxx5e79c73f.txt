@@ -11,7 +11,8 @@ partner_type:
 project_title: Study visit to Czech Republic  of representatives from the National Ecological Fund (NEF), Ministry of Finance and State Chancellery
 scale: country-country
 project_objective: In the view of enhancing the capacities of NEF and Ministry of Environment staff to reform and apply improved management and operational procedures of the NEF, a study visit to Czech Republic was organized in partnership with the UNDP Czech Trust Fund, to get first hand exposure to the long-standing Czech Environment Fund which can be considered best practice in the region.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - facilitator_of_partnerships
 project_link: 

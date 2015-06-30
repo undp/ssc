@@ -11,7 +11,8 @@ partner_type:
 project_title: Support to sharing Mauritius reform experience in High-level Brainstorming Meeting on Transforming Senegal into a Middle Income Country
 scale: regional
 project_objective: Implement the transformation plan of Senegal into a Middle-Income country (MIC) (Plan Senegal Emergent) by seeking experiences from other countries that have achieved MIC status.
-territorial_focus: sids
+territorial_focus: 
+  - sids
 undp_role_type: 
   - knowledge_broker
 project_link: 

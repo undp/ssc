@@ -11,7 +11,8 @@ partner_type:
 project_title:  building a capable, career-oriented and Professional Public Service for a developmental state.
 scale: country-country
 project_objective: A delegation of commissioners from the PSC were hosted by the government of China to expand their knowledge on building a capable, career-oriented and Professional Public Service for a developmental state. The process is further envisaged to inform public sector policy debates on a developmental state.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 

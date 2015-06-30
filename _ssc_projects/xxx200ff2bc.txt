@@ -11,7 +11,8 @@ partner_type:
 project_title: VISITE DE SYSTEMES D’ALERTE PRECOCE EXISTANTS ET FONCTIONNELS AU KENYA
 scale: country-country
 project_objective: Renforcement des capacites  des pays les moins avances pour contrer les effets nefastes des changements climatiques a travers la formulation et la mise en œuvre du Plan National d’Adaptation aux changements climatiques. L’objectif etait le transfert de connaissances et de competences a travers les echanges en profitant des experiences des pays invites.
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - builder_of_capacities
 project_link: 

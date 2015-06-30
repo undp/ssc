@@ -11,7 +11,8 @@ partner_type:
 project_title:  BRIDGE  training programme and learning mission to Kenya's Electoral Commission and Mexico's Electoral Commission in using eletronic BVR for registration.
 scale: country-country
 project_objective: UNDP supported EMBs (NEC & ZEC) learning mission to Kenya and Mexico. These created opportunities for peer learning and experience sharing especially on election management and reform between the two Tanzanian EMBs (NEC &ZEC) and their counterparts i.e. Electroal Commissions in Kenya and Mexico. UNDP provided financial support, identification of EMBs in Kenya and Mexico and logistic support.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

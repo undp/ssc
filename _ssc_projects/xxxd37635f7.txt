@@ -11,7 +11,8 @@ partner_type:
 project_title: Transferencia de conocimiento mediante la sistematización y difusión de buenas prácticas de inclusión social y modelo pedagógico entre Venezuela y Haití y Triangulación con el gobierno de Brasil.
 scale: country-country
 project_objective: Se ha avanzado con Fundamusical de Venezuela para definir los términos y alcances la CSS con Haití y se ha recogido la información básica sobre las prioridades de esta cooperación (creación de núcleos (escuelas).
-territorial_focus: none
+territorial_focus: 
+  - none
 undp_role_type: 
   - knowledge_broker
 project_link: 

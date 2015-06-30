@@ -11,7 +11,8 @@ partner_type:
 project_title: Support for the Development of an Informal Sector Pension Scheme (ISPS) as a channel for long term savings mobilization and financial risk mitigation
 scale: country-country
 project_objective: In December 2014 UNDP/UNCDF Inclusive Finance project team with the Rwanda Ministry of Finance conducted a study tour in India to learn 1) how the informal sector schemes are designed, 2) how they are functioning, 3) challenges encountered and 4) key success factors.  India was selected because of its registered success in implementing informal sector schemes. The expected output of the study tour is the development of a Pension Scheme for Informal sector.
-territorial_focus: ldc
+territorial_focus: 
+  - ldc
 undp_role_type: 
   - knowledge_broker
 project_link: 

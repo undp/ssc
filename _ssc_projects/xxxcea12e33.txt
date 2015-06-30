@@ -11,7 +11,8 @@ partner_type:
 project_title: MOGA official visit to Malaysia
 scale: country-country
 project_objective: As Nepal is moving towards federal administrative structure, four MoGA officials visited Malaysia to learn about the civil service management on federal context. The objective of the visit was to enhance participants’ knowledge on civil service management and public administrative structure in federal context.
-territorial_focus: fragile_states
+territorial_focus: 
+  - fragile_states
 undp_role_type: 
   - knowledge_broker
 project_link: 

@@ -11,7 +11,8 @@ partner_type:
 project_title: Participation in “Global South-South Development Expo 2014”, Washington.
 scale: global 
 project_objective: UNDP supported the participation of DRR National Platform in “Global South-South Development Expo 2014” taking place in Washington, where the experience of Armenia was presented.
-territorial_focus: mic
+territorial_focus: 
+  - mic
 undp_role_type: 
   - knowledge_broker
 project_link: 
