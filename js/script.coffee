@@ -4,6 +4,8 @@ window.app ?= {}
 app.config = 
   initialViewState: 'map'
   repo: '{{ site.editor.github_repo }}'
+  editor:
+    url: '{{ site.editor.url }}'
   parse:
     apiKey : 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
     appID  : 'vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO'

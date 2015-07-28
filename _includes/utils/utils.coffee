@@ -25,7 +25,7 @@ app.utils.getUrlParamsHash = ->
   )
 
 app.utils.generateEditingUrl = (id) ->
-  "{app.config.editor.url}/##{app.config.repo}/edit/gh-pages/_ssc_projects/#{id}.txt"  
+  "#{app.config.editor.url}/##{app.config.repo}/edit/gh-pages/_ssc_projects/#{id}.txt"  
 
 app.utils.newProjectId = ->
   "xxx" + Math.floor(Math.random()*4294967295).toString(16)
