@@ -20,5 +20,4 @@ published: true
 import_source: 275
 ---
 
-
-SSC description in here. UNDP provides technical assistance.  
+UNDP provides technical assistance.
