@@ -1,0 +1,25 @@
+---
+open_project_id: ""
+project_title: "South- South and Triangular Cooperation in DRR"
+project_objective: "South- South and Triangular Cooperation in DRR facilitate Angola’s access to regional and global knowledge sharing on Disaster Risk Management."
+project_link: "http://www.ao.undp.org/content/angola/en/home/operations/projects/crisis_prevention_and_recovery/drr-project.html"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - resilience_building
+territorial_focus: 
+  - mic
+  - ldc
+scale: regional
+region: 
+  - africa
+country: 
+  - AGO
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
