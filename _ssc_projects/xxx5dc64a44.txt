@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+project_title: Renforcement des capacités des Cours de Comptes
+project_objective: Promotion des échanges d’expériences avec paires visant le renforcement des Cour des Comptes.
+project_link: "http://www.undp.org/content/dam/undp/documents/iati_xml/CO/CO_RBA_CPV_projects.xml"
+undp_role_type: 
+  - builder_of_capacities
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - mic
+  - sids
+scale: national
+region: 
+  - africa
+country: 
+  - CPV
+partner_type: 
+  - national_governments
+published: false
+---
+
+2 auditeurs généraux formateurs en diagnostique de capacités et planification stratégique pour le contrôle externe des comptes publiques;
