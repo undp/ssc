@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+project_title: APPUI A LA FORMULATION DES PLANS NATIONAUX D’ADAPTATION (PNA) AUX EFFETS NEFASTES DES CHANGEMENTS CLIMATIQUES (CC)
+project_objective: Renforcement des capacites des pays les moins avances pour contrer les effets nefastes des CC a travers la formulation et la mise en œuvre du Plan National d’Adaptation aux CC. L objectif etait le transfert de connaissances et de competences en profitant des experiences des pays invites.
+project_link: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0CDYQFjADahUKEwiCvuyWmfXIAhWIGz4KHZ28Bo4&url=http%3A%2F%2Fwww.thegef.org%2Fgef%2Fsites%2Fthegef.org%2Ffiles%2Fgef_prj_docs%2FGEFProjectDocuments%2FNAPA%2FBenin-Project%2520for%2520Elaboration%2520of%2520National%2520Programme%2520of%2520Action%2520for%2520Adaptation%2520for%2520Climate%2520Change%2FBENIN-NAPA%2520Proposal-020904.doc&usg=AFQjCNEm9kUZl6C2OjP6Ytlp8pM0dz5QMg&sig2=KWX-BYSo3hVZCm0FteWP-A&bvm=bv.106379543,d.cWw"
+undp_role_type: 
+  - builder_of_capacities
+thematic_focus: 
+  - resilience_building
+territorial_focus: 
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - BEN
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
