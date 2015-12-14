@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+project_title: study visit to Ghana on peace architecture
+project_objective: "Objective of the project: This three year program targets building national and local capacities of government and local communities to prevent, manage conflicts and build peace culture."
+project_link: "http://open.undp.org/#project/00059867 "
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - resilience_building
+territorial_focus: 
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - ETH
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
