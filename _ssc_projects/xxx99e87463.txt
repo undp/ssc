@@ -14,7 +14,7 @@ scale: national
 region: 
   - africa
 country: 
-  - CMR
+  - COD
 partner_type: 
   - national_governments
 published: false
