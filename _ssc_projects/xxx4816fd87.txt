@@ -9,13 +9,13 @@ undp_role_type:
 thematic_focus: 
   - sustainable_development_pathways
 territorial_focus: 
-  - mic
-  - sids
+  - fragile_states
+  - ldc
 scale: regional
 region: 
   - africa
 country: 
-  - CPV
+  - ERI
 partner_type: 
   - national_governments
 published: false
