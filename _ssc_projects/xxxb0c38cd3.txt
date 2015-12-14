@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+project_title: Voyage d’étude de la Mauritanie sur le Programme  National de Volontariat du Burkina (PNVB)
+project_objective: "En decembre 2014, une mission gouvernementale de la Mauritanie a sejourne au Burkina dans le cadre d’un voyage d’etude et d’echange d’experience sur la gestion du Programme  National de Volontariat du Burkina pour s’inspirer de l’experience du Burkina sur sa mise en œuvre et son ancrage institutionnel. Un partenariat entre les deux pays va etre cree pour mutualiser les experiences sur la promotion de l’emploi des jeunes."
+project_link: "http://www.fasovolontariat.bf/"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - sustainable_development_pathways
+territorial_focus: 
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - BFA
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
