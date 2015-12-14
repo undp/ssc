@@ -9,7 +9,7 @@ thematic_focus:
   - resilience_building
 territorial_focus: 
   - mic
-scale: national
+scale: regional
 region: 
   - africa
 country: 
