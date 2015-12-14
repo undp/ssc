@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+project_title: "Renforcement des Capacités de l'Administration Publique"
+project_objective: "Dans le cadre de la mise en place du système de renforcement des capacités des fonctionnaires de l'Administration Publique, une coopération avec l’institution brésilienne spécialisée en gestion de l'Administration Publique (FUNDAP) a été définie. Les institutions nationaux impliquées sont le Secrétariat d’Administration Publique et la Direction National de planification."
+project_link: "http://documents.worldbank.org/curated/en/2001/10/5148536/cape-verde-public-sector-reform-capacity-building-cap-vert-reforme-du-secteur-public-renforcement-des-capacites"
+undp_role_type: 
+  - builder_of_capacities
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - mic
+  - sids
+scale: national
+region: 
+  - africa
+country: 
+  - CPV
+partner_type: 
+  - national_governments
+published: false
+---
+
+250 cadres de haut niveau formées; Secrétariat de l'Etat de l'Administration Publique ont identifiés les cours et les scenarios de formation selon le profil des fonctionnaires publiques.
