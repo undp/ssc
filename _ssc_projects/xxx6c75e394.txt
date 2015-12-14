@@ -8,13 +8,13 @@ undp_role_type:
 thematic_focus: 
   - resilience_building
 territorial_focus: 
-  - mic
-  - sids
+  - fragile_states
+  - ldc
 scale: national
 region: 
   - africa
 country: 
-  - CPV
+  - ERI
 partner_type: 
   - national_governments
 published: false
