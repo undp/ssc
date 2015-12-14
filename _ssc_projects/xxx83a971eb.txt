@@ -1,0 +1,26 @@
+---
+open_project_id: ""
+project_title: "Echange d experiences et de participation a la quatrieme Assemblee Generale de la  Kigali International Conference  Declaration – KICD;  au Rwanda - 22 novembre au 01 decembre 2014"
+project_objective: "Le bureau pays a favorise une mission de cooperation entre la Cote d’Ivoire et le Rwanda, qui a permis aux acteurs nationaux de securite ( police, gendarmerie, conseil National de securite, Ministere de l’interieur, Assemblee nationale) de s’impregner des bonnes pratiques de ce pays en matiere surtout de strategies et d’indicateurs de performance policiere et de controle democratique de l’action des forces de police."
+project_link: "http://www.ci.undp.org/content/dam/cote_divoire/docs/newsletter/civ_EcHO_N_1_2015.pdf"
+undp_role_type: 
+  - builder_of_capacities
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - mic
+  - fragile_states
+scale: national
+region: 
+  - africa
+country: 
+  - CIV
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
