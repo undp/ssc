@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+project_title: Regional Policy for Universal Access to Modern Energy Services and Economic and Social Development”
+project_objective: "This joint ECCAS-CEMAC initiative, which aims to formulate a strategic framework or “White Paper” highlighting the relation between access to energy and sustainable development, constitutes the response.of the Regional Community to the needs of the populations in its ten (10) Member States in terms of universal access to modern energy services, renewable energy development and energy efficiency."
+project_link: "http://www.afdb.org/en/news-and-events/article/central-african-countries-commit-to-move-forward-on-se4all-and-address-energy-access-challenge-13649/"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - resilience_building
+territorial_focus: 
+  - mic
+scale: national
+region: 
+  - africa
+country: 
+  - CMR
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
