@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+project_title: Renforcement des capacités des cadres du Ministère de l’Energie pour l’élaboration d’un Projet pilote d’accès à l’energie en milieu rural
+project_objective: "Sur requête du Ministère de l’Energie, le Bureau a mobilisé le Mali pour accompagner le Gabon dans  l’élaboration d’un Projet pilote d’accès à l’énergie pour sa politique énergétique en milieu rural. L'initiative va permettre Mali d'accompagner la mise en oeuvre du projet d'accès à l'énergie en milieu rural. En 2014 l'équipe du Mali a formé 5 cadres de la Direction des énergies et les accompagner pour mener 2 études de faisabilité participative ainsi que le dimensionnement de 2 projets."
+project_link: "http://www.undp.org/content/dam/undp/library/MDG/english/MDG%20Country%20Reports/Gabon/gabon_september2010.pdf"
+undp_role_type: 
+  - builder_of_capacities
+  - knowledge_broker
+thematic_focus: 
+  - sustainable_development_pathways
+territorial_focus: 
+  - mic
+scale: national
+region: 
+  - africa
+country: 
+  - GAB
+partner_type: 
+  - national_governments
+  - cso
+published: false
+---
+
+Un plan d’action a été élaboré et qui donnera lieu à l’élaboration d’un programme national de plateforme multifonctionnelle pour l’accès à l’énergie en milieu rural.
