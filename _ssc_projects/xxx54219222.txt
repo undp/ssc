@@ -1,0 +1,24 @@
+---
+open_project_id: ""
+project_title: VISITE DE SYSTEMES D’ALERTE PRECOCE EXISTANTS ET FONCTIONNELS AU KENYA
+project_objective: Renforcement des capacites  des pays les moins avances pour contrer les effets nefastes des changements climatiques a travers la formulation et la mise en œuvre du Plan National d’Adaptation aux changements climatiques. L’objectif etait le transfert de connaissances et de competences a travers les echanges en profitant des experiences des pays invites.
+project_link: "http://nouvelle-expression.net/?p=4249"
+undp_role_type: 
+  - builder_of_capacities
+thematic_focus: 
+  - sustainable_development_pathways
+territorial_focus: 
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - BEN
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
