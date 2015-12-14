@@ -1,0 +1,25 @@
+---
+open_project_id: ""
+project_title: "Strengthened capacity of Judicial Officers on non-litigation settlements of labour disputes in line with international labour standards and trends that encompass human right issues"
+project_objective: The purpose of the project is to study experiences on Court Annexed mediation and alternative dispute resolution mechanisms and draw lessons to inform Botswana’s development of its own alternative dispute resolution mechanisms.
+project_link: "http://www.bw.undp.org/content/botswana/en/home/operations/projects/democratic_governance/improving-efficiency-and-accountability-of-public-oversight-inst.html"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - mic
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - BWA
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
