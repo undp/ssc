@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+project_title: Gestion integree des ressources en eau et la gestion de l’eau residuelle
+project_objective: ""
+project_link: "Cabo Verde, a travers la D.G de l’Environnement dans ce projet SIDS/GEF/UNPD/UNEP d appui la gestion integree des ressources en eau et la gestion de l’eau residuelle. Des actions pilotes sont conduites au niveau pays pour le recyclage des eaux usees dans l’agriculture. Les actions regionales permettent l echange d’experiences pour la promotion d’un cadre legislative, institutionnel et politique pour la gestion integree des ressources en eau dans les petits pays insulaires."
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - sustainable_development_pathways
+territorial_focus: 
+  - mic
+  - sids
+scale: national
+region: 
+  - africa
+country: 
+  - CPV
+partner_type: 
+  - national_governments
+published: false
+---
+
+Les techniciens de la D.G de l’environnement, ainsi bien que de l’Agence Nationale d’Eau et assainissement ont participé aux différentes séances d’échange et partage technique tenus lors des réunions des comités techniques et régionales. Ainsi, les actions sur le projet démonstratif ont avancé avec le diagnostic du système de traitement de l’eau résiduelle et des recommandations pour son amélioration.
