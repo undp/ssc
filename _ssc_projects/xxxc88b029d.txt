@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+project_title: "Ethio-China cooperation on DRR and dryland management"
+project_objective: "The Ethio-China cooperation aims to enhance Africa-China South-South cooperation on integrated climate change adaptation & disaster risk management (DRM), strengthening resilience in the fields of anti-desertification & drought risk management, and sustainable natural resource management."
+project_link: "http://www.undp.org/content/dam/undp/documents/projects/CHN/Mission%20Report_Ethiopia%20Kenya_30Apr-8May%202014-DDC%20(1).pdf."
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - resilience_building
+territorial_focus: 
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - ETH
+partner_type: 
+  - national_governments
+published: false
+---
+
+UNDP facilitated knowlege exchange between Ethiopia and China on disater risk managment (DRM).  Chinese experts provided capacity developmnet training to Ethiopian officials which ehanced their institutional capacity on DRM . The trained experts successfully managed the planning and trained other experts and community members. This led to the preparation of the Federal DRM plan which was prepared under the guidance of the trained expects. The contribution of  South-South cooperation with ADPC was significant in the preparation of regional DRM plans and implementation of CBDRM approaches at community level.
