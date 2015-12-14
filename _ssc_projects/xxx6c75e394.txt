@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+project_title: "STRENGTHENING CAPACITY OF THE WATER RESOURCES DEPARTMENT TO PLAN, DEVELOP, MONITOR AND SUSTAINABLY UTILIZE THE WATER RESOURCESs"
+project_objective: "The objective of the project address the vulnerability of the water resource in the country by developing the capacity of staff at the Department of Water (DOW) and equipping them with necessary geophysics, hydrological and hydromet and water quality testing equipment, thus enhancing the knowledge base of existing ground/surface water resources, data acquisition and information management systems and regularly monitoring water quality to facilitate the delivery of efficient and sustainable water resource management practices."
+project_link: "http://open.undp.org/#project/00062488 "
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - resilience_building
+territorial_focus: 
+  - mic
+  - sids
+scale: national
+region: 
+  - africa
+country: 
+  - CPV
+partner_type: 
+  - national_governments
+published: false
+---
+
+UNDP facilitated a study tour  to Swaziland  which face similar challenges to water access as Eritrea. The purpose of the study tour is for government officials from DOW  to learn and apply Swaziland good practices (water works structures, waste water treatment plant, climate change adaptations practices, large Reservoirs management) in water use and management.
