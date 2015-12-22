@@ -17,7 +17,7 @@ country:
   - CPV
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 
 250 cadres de haut niveau formées; Secrétariat de l'Etat de l'Administration Publique ont identifiés les cours et les scenarios de formation selon le profil des fonctionnaires publiques.

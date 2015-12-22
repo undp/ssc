@@ -16,7 +16,7 @@ country:
   - ETH
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 
 UNDP facilitated knowlege exchange between Ethiopia and China on disater risk managment (DRM).  Chinese experts provided capacity developmnet training to Ethiopian officials which ehanced their institutional capacity on DRM . The trained experts successfully managed the planning and trained other experts and community members. This led to the preparation of the Federal DRM plan which was prepared under the guidance of the trained expects. The contribution of  South-South cooperation with ADPC was significant in the preparation of regional DRM plans and implementation of CBDRM approaches at community level.

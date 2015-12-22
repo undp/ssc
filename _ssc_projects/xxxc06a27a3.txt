@@ -18,7 +18,7 @@ country:
 partner_type: 
   - regional_inter_governmental_organizations
   - national_governments
-published: false
+published: true
 ---
 
 ## A New Post

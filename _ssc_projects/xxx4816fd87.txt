@@ -18,7 +18,7 @@ country:
   - ERI
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 
 Through Eritrea's engagment in the Regional Symposium, UNDP facilitated partnership between the National Union of Eritrean Women (NUEW), a body charged with spearheading empowerment of Eritrean women, and the Sudanese Women's General Union.  An agreement was signed between the two agencies on  exchanging  experiences and  collaboration on iniaitives in the health and education sectors (ISR 2014)

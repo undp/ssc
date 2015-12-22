@@ -1,7 +1,7 @@
 ---
 open_project_id: ""
 project_title: Inclusion Social des jeunes
-project_objective: "En 2013 Cabo Verde a  bénéficié des fonds de la Match contre la pauvreté de l’UNDP pour développer un projet d’inclusion social des jeunes et renforcement des capacités des communautés. Ce projet favorise le partenariat Sud-Sud au niveau de la communauté et le transfert des technologies social innovantes de l'ONG brésilienne 'Afro Reggae' aux ONG du pays."
+project_objective: "En 2013 Cabo Verde a  bénéficié des fonds de la Match contre la pauvreté de l’UNDP pour développer un projet d’inclusion social des jeunes et renforcement des capacités des communautés. Ce projet favorise le partenariat Sud-Sud au niveau de la communauté et le transfert des technologies social innovantes de l'ONG brésilienne \"Afro Reggae\" aux ONG du pays."
 project_link: "http://www.un.cv/agency-undp.php"
 undp_role_type: 
   - builder_of_capacities
@@ -18,7 +18,7 @@ country:
   - CPV
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 
 4 ONGs nationales ont été formées en matière d’intervention communautaire et auprès de jeunes, par le transfert de technologie sociale (coopération Sud-Sud), notamment à travers 4 missions des 9 spécialistes d´AfroReggae durant 1 mois, et une formation intensive sur l´élaboration de projets comptant une soixantaine de participants.

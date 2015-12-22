@@ -18,7 +18,7 @@ country:
 partner_type: 
   - national_governments
   - cso
-published: false
+published: true
 ---
 
 Un plan d’action a été élaboré et qui donnera lieu à l’élaboration d’un programme national de plateforme multifonctionnelle pour l’accès à l’énergie en milieu rural.

@@ -19,7 +19,7 @@ country:
 partner_type: 
   - national_governments
   - private_sector
-published: false
+published: true
 ---
 
 The development of this initiative, in which UNDP facilitiated the partnership, funded by Denmark and run in parallel with a similar initiative between China and Zambia, was completed this year with approval from the donor and the signing of the project documents in Ghana and China. Implementation will start in 2015 until 2018. 
