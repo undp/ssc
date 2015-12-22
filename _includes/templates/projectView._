@@ -9,7 +9,6 @@
   <div class="project-details">
     <div class="detail-title"><%= project.project_title %></div>
     <div class="detail-line">
-      <%= project.project_id %>
       <div class="detail-heading">Country</div>
       <div class="detail-content">
         <% _.each(project.country, function(item) { %>
@@ -58,7 +57,9 @@
       <div class="detail-content"><%= project.project_objective %></div>
     </div>
     
+    <%= project.project_id %>
     <% if(project.open_project_id != ""){ %>
+
       <div class="external-project-info">
         <div class="detail-heading">Additional project information at <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a></div>        
       </div>
