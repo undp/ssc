@@ -1,0 +1,26 @@
+---
+"11": "As a result, a technical report on alternative financing for women was developed, drawing on the lessons learned based on the different models showcased during the respective visits."
+open_project_id: ""
+project_title: "Study visit to Tanzania, Bangladesh and India on alternative financing for women"
+project_objective: "Senior government, reserve bank officials and representatives from the Banking Sector conducted a study tour to Tanzania, Bangladesh and India were they were exposed to various micro-financing, special financing and women’s banks models. UNDP provided technical support in the development of a concept note, as well as financial support for the exchange visit."
+project_link: "https://info.undp.org/docs/pdc/Documents/ZWE/2014%20Annual%20Report.pdf"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - sustainable_development_pathways
+territorial_focus: 
+  - fragile_states
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - ZWE
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
