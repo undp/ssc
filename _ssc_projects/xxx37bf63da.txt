@@ -15,7 +15,7 @@ scale: national
 region: 
   - africa
 country: 
-  - SSD
+  - TCD
 partner_type: 
   - national_governments
 published: false
