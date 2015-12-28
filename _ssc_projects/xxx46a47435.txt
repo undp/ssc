@@ -1,0 +1,26 @@
+---
+"11": "[object Object]"
+open_project_id: ""
+project_title: Exposure visits for Kandahar and Helmand SMEs under Rural Enterprise Development Programme.
+project_objective: "AREDP, RED KAN and HELMAND know-how trainings in New Delhi, India and Islamabad, Pakistan"
+project_link: "http://www.undp.org/content/dam/afghanistan/docs/Reports/RED-Helmand-APR-2013.pdf"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - sustainable_development_pathways
+territorial_focus: 
+  - fragile_states
+  - ldc
+scale: regional
+region: 
+  - asia_pacific
+country: 
+  - AFG
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
