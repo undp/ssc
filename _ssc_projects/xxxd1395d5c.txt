@@ -1,0 +1,27 @@
+---
+"11": "The government has invited several of the stakeholders met to participate in the Good governance Forum, Feb 2015. Further discussions on how a partnership can be established  will be facilitated by UNDP during the Forum. In addition a meeting with the delegation and the Ambassadors from Turkey and Sweden is planned to further seek bilateral collaborations"
+open_project_id: ""
+project_title: "Enhanced capacities of selected state, district and township administrations and state parliaments to establish participatory and responsive planning, budgeting and monitoring mechanisms"
+project_objective: "UNDP facilitated a study visit for a delegation from Myanmar Gvt to Turkey and Sweden in Sept.-Oct. The delegation led by Deputy Minister for Home Affairs and 2 Ministers from Mon State and Ayarwady region, discussed with a wide range of Turkish and Swedish stakeholders from government and civil society at national and local levels, and exchanged ideas and information on issues relating to decentralization, regional development and local governance. Follow up activities are planned."
+project_link: "http://www.mm.undp.org/content/myanmar/en/home/presscenter/events/2015/february/Myanmar_Good_Governance_Forum.html"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - fragile_states
+  - ldc
+scale: national
+region: 
+  - asia_pacific
+country: 
+  - MMR
+partner_type: 
+  - national_governments
+  - cso
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
