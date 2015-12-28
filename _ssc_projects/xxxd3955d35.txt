@@ -1,0 +1,26 @@
+---
+"11": "WLP-SSTC was formulated as a follow-up to the Indonesia study-visit, as this was an area identified for further learning and exchange"
+open_project_id: ""
+project_title: "Strengthening women’s leadership and participation in peace building and social cohesion through South-South and Triangular Cooperation (WLP-SSTC)"
+project_objective: "WLP-SSTC aims to assess the potential for south-south cooperation between Myanmar and Indonesia on women’s leadership in social cohesion and peace building. Through country assessments, the initiative will identify strategic and concrete areas for future learning, support and partnership between the 2 countries. The findings of these assessments will be presented to stakeholders in Feb. 2015, and will enable the 2 countries to agree on potential SSTC activities that can be supported by UNDP"
+project_link: "http://www.mm.undp.org/content/dam/myanmar/docs/Publications/UNDP_MM_Annual_Report_2014ENG_web.pdf"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - fragile_states
+  - ldc
+scale: national
+region: 
+  - asia_pacific
+country: 
+  - MMR
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
