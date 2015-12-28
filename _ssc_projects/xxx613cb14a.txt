@@ -12,7 +12,7 @@ thematic_focus:
 territorial_focus: 
   - fragile_states
   - ldc
-scale: global
+scale: regional
 region: 
   - asia_pacific
 country: 
