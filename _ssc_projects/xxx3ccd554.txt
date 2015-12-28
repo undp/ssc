@@ -1,0 +1,26 @@
+---
+"11": This was followed up by a UNDP supported retreat for the production of a strategy paper for SEZs. Experiences from the South presented at the high level seminar were utilized in the design of the strategy for Zimbabwe. Strategy Paper on Special Economic Zones produced and submitted to the Minister of Finance and Cabinet paper on Special Economic Zones was submitted and approved. The initiative was reflected in the Budget Statement 2015.
+open_project_id: ""
+project_title: Preparation of strategy document for the establishment of Special Economic Zones (SEZ)
+project_objective: "UNDP was approached by the GoZ in mooting the idea of establishing SEZ. Accordingly, UNDP, in collaboration with the Office of the President and Cabinet, the Ministry of Finance, the Ministry of Foreign Affairs and other relevant ministries facilitated a high level knowledge sharing seminar in the area of SEZ with experts from China, Mauritius, South Africa and UAE. The experts shared their experiences in establishing SEZs in their respective countries and lessons to be leaned by Zimbabwe."
+project_link: "http://www.zw.undp.org/content/zimbabwe/en/home/presscenter/articles/2014/04/20/special-economic-zones-to-the-rescue.html"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - fragile_states
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - ZWE
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
