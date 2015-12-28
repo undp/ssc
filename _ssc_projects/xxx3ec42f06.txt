@@ -1,0 +1,25 @@
+---
+"11": "UNDP facilitated a South-South knoledge exchange visit to Mauritius  to learn how Programme Based Budgeting (PBB) and Medium Term Expenditure Framework (MTEF) reforms work and understand pre-conditions necessary for implementation. The study tour involved officials from the then Ministry of Finance and Ministry of Economic Planning and Development.  UNDP provided financial assistance and contact points to facilitate the tour. As a result of the exchange, the government has introduced pilot programme based budgeting in 6 pilot institutions and trained budget personnel.  A decision has  been taken by the government to increase the number of pilot ministries further in 2015."
+open_project_id: ""
+project_title: " Programme-based budgeting (PBB) within the context of a Medium Term Expenditure Framework (MTEF)"
+project_objective: "Objective of the project: introduce  PBBs system as an integrated approach to change the focus of the budgetary process from an input-based annual activity to a performance-based exercise that improves the efficiency and effectiveness of expenditures and lays the foundations for the modernisation of public financial management."
+project_link: "http://open.undp.org/#project/00069367 "
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - fragile_states
+  - ldc
+scale: national
+region: 
+  - africa
+country: null
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
