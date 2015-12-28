@@ -1,0 +1,26 @@
+---
+"11": "UNDP facilitated benchmarking study visits to Kenya and Singapore to assist them in gathering best practices in public sector reforms.  The tours, involved six members from the newly constituted Public Service Reform Commission, UNDP and Public Sector Reforms Unit.  UNDP provided financial and technical assistance and study tour logistics and ensured propoer follow-ups. Following the study tours and the South-South exchanges, the Commission prepared a report \"Looking into the Future: Making Malawi Work: Transforming Malawi's Public Service\" and launched in Dec 2014.  The report made a number of observations and recommendations based on insights from and discussions during the study tour.  In addition, the Government of Malawi is working on  establishing a long-term relationship between Kenya School of Government and the Malawi Institute of Management and UNDP Singapore Centre to remain innovative."
+open_project_id: ""
+project_title: Public Service Capacity Development Project
+project_objective: "Objective of the project: further strengthen the capacity of the public service to better manage and deliver services by: i)  Reviewing and implementing policies, rules and regulations that support efficient public service delivery; ii) Increasing leadership/management skills, competencies and ethical values to drive the national development agenda; iii)  Strengthening human resource planning and management capacities in the different MDAs within the public service; and IV) Promoting innovative and integrated application of ICT within public service."
+project_link: "http://open.undp.org/#project/00069367 "
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - fragile_states
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - MWI
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
