@@ -1,0 +1,26 @@
+---
+"11": "The fifth meeting of FEMBOS approved 10- point Kathmandu Resolution as a commitment to further strengthen to enhance the capacity of the EMBs through regional cooperation. The ECN is leading in preparing the action plan for implementation of the Kathmandu Resolution. The meeting also established the ‘South Asian Institute for Democracy and Electoral Reforms (SAIDES)’ in Nepal, where the ECN is taking a lead in promoting research, exchange and dissemination of electoral learning and innovations."
+open_project_id: ""
+project_title: Forum of Electoral Management Bodies of South Asia (FEMBoSA)
+project_objective: "UNDP supported the Election Commission, Nepal in conducting the fifth meeting of the Forum of Electoral Management Bodies of South Asia (FEMBoSA) from 29-30 November, 2014 in Nepal. The theme of the meeting was “Regulating Campaign Finance: Ensuring Free and Fair Elections\". The high level delegations led by Commissioners\\senior officials of the Election Management Bodies of SAARC countries were present in the meeting for sharing lessons learned and best practices."
+project_link: "http://www.election-bhutan.org.bt/rnp/fembosa.pdf"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - fragile_states
+  - ldc
+scale: national
+region: 
+  - asia_pacific
+country: 
+  - NPL
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
