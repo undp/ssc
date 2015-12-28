@@ -9,6 +9,7 @@ undp_role_type:
 thematic_focus: 
   - inclusive_and_effective_democratic_governance
 territorial_focus: 
+  - sids
   - fragile_states
   - ldc
 scale: national
