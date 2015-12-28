@@ -13,7 +13,7 @@ territorial_focus:
   - fragile_states
 scale: global
 region: 
-  - asia_pacific
+  - arab_states
 country: 
   - IRQ
 partner_type: 
