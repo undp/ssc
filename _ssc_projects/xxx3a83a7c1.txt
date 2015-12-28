@@ -1,0 +1,26 @@
+---
+"11": "The National Electoral Commission of Sierra Leone is working to mainstream disability at all levels and across all processes in the electoral management (National Electoral Commission, Annual Report 2014)."
+open_project_id: ""
+project_title: Study Exchange between the Ugandan Electoral Commission and the National Electoral Commission (NEC) of Sierra Leone
+project_objective: UNDP supported the hosting of a study tour between the Ugandan Electoral Commission and the National Electoral Commission (NEC) of Sierra Leone on “Political Participation of Persons with Disabilities” with a view to sustained relationship on capacity support and information exchange on electoral management.
+project_link: "http://www.nec-sierraleone.org/index_files/ANNUAL%20REPORT/Annual%20Report%202014.pdf"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - fragile_states
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - SLE
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
