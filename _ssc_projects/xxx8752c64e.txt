@@ -18,6 +18,7 @@ country:
   - AFG
 partner_type: 
   - national_governments
+  - cso
 published: false
 ---
 
