@@ -9,8 +9,8 @@ undp_role_type:
 thematic_focus: 
   - resilience_building
 territorial_focus: 
+  - mic
   - fragile_states
-  - ldc
 scale: regional
 region: 
   - europe_cis
