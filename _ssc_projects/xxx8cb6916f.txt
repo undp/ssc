@@ -11,7 +11,7 @@ thematic_focus:
 territorial_focus: 
   - mic
   - fragile_states
-scale: regional
+scale: national
 region: 
   - europe_cis
 country: 
