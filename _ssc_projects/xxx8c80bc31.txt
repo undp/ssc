@@ -13,9 +13,9 @@ territorial_focus:
   - ldc
 scale: regional
 region: 
-  - arab_states
+  - europe_cis
 country: 
-  - SOM
+  - BIH
 partner_type: 
   - national_governments
 published: false
