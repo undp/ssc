@@ -1,0 +1,25 @@
+---
+"11": "The exchange visit, which took place in Nov 2014,  has informed the Sudan national Human Rights Commission approach to protection prison inmates."
+open_project_id: ""
+project_title: Exchange of knowledge and best practices
+project_objective: "Sudan National Human Rights Commission visited the Jordan Human Rights Center in 2014 to study their experience, including in terms of prison inmates rights, human rights monitoring, and the role of media in human rights promotion."
+project_link: "http://www.sd.undp.org/content/sudan/en/home/operations/projects/democratic_governance/strengthening-the-capacity-of-the-sudan-national-human-rights-co.html"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - fragile_states
+scale: national
+region: 
+  - arab_states
+country: 
+  - SDN
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
