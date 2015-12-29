@@ -1,0 +1,26 @@
+---
+"11": "The conference helped unifying operational procedures of witness support offices and  devising ways to strengthen institutional referral mechanisms relevant for systemic and long-term support to victims and witnesses. The findings also facilitated UNDP’s continued support to relevant state and entity level institutions and partners in the process of forming efficient and functioning network of victim-witness support providers."
+open_project_id: ""
+project_title: Regional Conference on Victim Witness Support
+project_objective: "UNDP BiH funded participation of 37 WS practitioners from BiH, FYR Macedonia, Montenegro, Serbia, Croatia at the Regional Conference of Victim Witness Support in Belgrade, offering them an opportunity to exchange their experience and knowledge."
+project_link: "http://www.ba.undp.org/content/bosnia_and_herzegovina/en/home/operations/projects/crisis_prevention_and_recovery/introduction-of-victim-witness-support-services-project.html"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - mic
+  - fragile_states
+scale: regional
+region: 
+  - europe_cis
+country: 
+  - BIH
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
