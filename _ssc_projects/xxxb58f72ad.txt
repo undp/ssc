@@ -1,0 +1,26 @@
+---
+"11": Document d Options des politiques pour un programme de transfert sociaux techniquement approuve.
+open_project_id: ""
+project_title: Options des politiques pour un programme de transfert sociaux
+project_objective: "Programme de Transfert Social realise conjointement avec IPC-IG (International Partenariat avec le Policy Centre for inclusive growth et IPEA Instituto de Pesquisa Economico Aplicada, dont le but est de presenter des options pour un programme de transferts sociaux au Cabo Verde. Une forte cooperation triangulaire fut developpée avec les institutions du  Bresil qui ont mené les analyses relatives au programme de transferts sociaux"
+project_link: "https://info.undp.org/docs/pdc/Documents/CPV/Programme%20creation%20d'emploi%20signe.pdf"
+undp_role_type: 
+  - builder_of_capacities
+  - knowledge_broker
+thematic_focus: 
+  - sustainable_development_pathways
+territorial_focus: 
+  - sids
+scale: national
+region: 
+  - africa
+country: 
+  - CPV
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
