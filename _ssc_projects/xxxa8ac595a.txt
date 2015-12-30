@@ -1,0 +1,25 @@
+---
+"11": "UNDP facilitated two study tour to India and Kenya which involved goverment counterparts (13 high-level government officials form central and regioanl goverment) and the private sector to learn about the different aspects of cook stove technology and to seek technological training around the cook stove technology.  The study visits helped transfer the technologies to private sector who are producing modern cookstoves. It also created awareness  for households of the necessity and usefulness to adopt modern cookstoves. The institutional capacity, technical capacity of staff and laboratory capacity have been enhanced in government and regional energy bureau, which allow them to promote cook stove technology."
+open_project_id: ""
+project_title: Cook stove technology in the framework of Energy4All.
+project_objective: "Objective of the project: To learn about different aspects of cook stove technology (technological developments, institutional set-up, private sector engagement, R&D) as part of the Energy4All initiative. A second study visit took place to Kenya on detailed technological training around cook stove technology (ToT)."
+project_link: "http://cookstoves.lbl.gov/ethiopia.php"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - resilience_building
+territorial_focus: 
+  - ldc
+scale: national
+region: 
+  - africa
+country: 
+  - ETH
+partner_type: 
+  - national_governments
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
