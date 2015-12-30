@@ -1,5 +1,4 @@
 ---
-"11": "La mission des experts Nigeriens au Tchad a permis d accelerer le processus AGIR (Alliance Globale pour l initiative Resilience dans le Sahel) au Tchad notamment en ce qui concerne la definition des priorites, ainsi que les differents piliers de l initiative. Les prochaines etapes planifies incluant la visite de la partie tchadienne au Niger pour s enrichir de l experience  et le renforcement de la cooperation entre ces deux pays dans le cadre de la resilience."
 open_project_id: ""
 project_title: Mission d appui d experts 3N initiee (LES NIGERIENS NOURRISSENT LES NIGERIENS) dans le cadre du processus de formulation des priorites de resilience/AGIR Sahel au Tchad
 project_objective: "Dans le cadre de l alliance Globale pour la initiative Resilience dans le Sahel(AGIR) au Tchad, le PNUD a appuye le deploiement des experts 3N du Niger au Tchad en vue d accelerer le processus de formulation des priorites nationales en matiere de resilience."
@@ -18,9 +17,5 @@ country:
   - TCD
 partner_type: 
   - national_governments
-published: false
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+La mission des experts Nigeriens au Tchad a permis d accelerer le processus AGIR (Alliance Globale pour l initiative Resilience dans le Sahel) au Tchad notamment en ce qui concerne la definition des priorites, ainsi que les differents piliers de l initiative. Les prochaines etapes planifies incluant la visite de la partie tchadienne au Niger pour s enrichir de l experience  et le renforcement de la cooperation entre ces deux pays dans le cadre de la resilience.

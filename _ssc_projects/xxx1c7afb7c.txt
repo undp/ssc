@@ -1,5 +1,4 @@
 ---
-"11": "The government officials learnt about sustainable operational modality of the GLOF Early Warning System (EWS) through active involvement of local communities and in coordination with key stakeholders and partners in Bhutan, which would be helpful to adopt in Nepali context. The learning is being utilized in the ongoing joint efforts of UNDP Nepal and the Department of Hydrology and Meteorology to establish EWS at Tsho Rolpa Glacial Lake in Dolakha district."
 open_project_id: ""
 project_title: "Study mission to Bhutan on \"Learning on  the good practices of GLOF early warning system\""
 project_objective: UNDP supported climate risk management focal person from 3 ministries to Bhutan recently on the operationalization of early warning system (EWS) in Bhutan. Learning visit was aimed at sharing knowledge and expertise gained from GLOF mitigation works and implementation of EWS and its practices in Nepal and Bhutan. The knowledge and experience gained from the visit would be further applied in the GLOF risk reduction and the installation of the GLOF early warning system at Imja and Tsho Rolpa
@@ -18,9 +17,6 @@ country:
   - NPL
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The government officials learnt about sustainable operational modality of the GLOF Early Warning System (EWS) through active involvement of local communities and in coordination with key stakeholders and partners in Bhutan, which would be helpful to adopt in Nepali context. The learning is being utilized in the ongoing joint efforts of UNDP Nepal and the Department of Hydrology and Meteorology to establish EWS at Tsho Rolpa Glacial Lake in Dolakha district.

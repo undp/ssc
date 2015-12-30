@@ -1,5 +1,4 @@
 ---
-"11": "During the regional dialogue, the operationalization of the NPRC was presented as one of the most critical process to be achieved in Zimbabwe, along with all the ongoing efforts of national and community work. Acknowledging the importance of existing platform provided by ACCORD and ECLF, efforts were made to continuously encourage and foster regional coordination and promote knowledge sharing. As a result a follow-up knowledge exchange has been planned for 2015."
 open_project_id: ""
 project_title: Southern Africa Regional Exchange Platform on the role of Dialogue for Inclusive community Peace and Reconciliation in Southern Africa
 project_objective: "Analyser aupres des autorites de tutelle et de controle en charge de la microfinance, des deux Fonds Nationaux de microfinance, des institutions de microfinance et des bailleurs de fonds des modalites d’accords et de gestion de partenariat avec les prestataires de services financiers."
@@ -21,7 +20,4 @@ partner_type:
   - cso
 published: false
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+During the regional dialogue, the operationalization of the NPRC was presented as one of the most critical process to be achieved in Zimbabwe, along with all the ongoing efforts of national and community work. Acknowledging the importance of existing platform provided by ACCORD and ECLF, efforts were made to continuously encourage and foster regional coordination and promote knowledge sharing. As a result a follow-up knowledge exchange has been planned for 2015.
