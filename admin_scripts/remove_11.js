@@ -2,7 +2,6 @@
 
 var fs = require('fs'),
     path = require('path'),
-    fm = require('front-matter'),
     _ = require('lodash');
 
 ROOT = '../_ssc_projects/';
