@@ -1,5 +1,4 @@
 ---
-"11": "5 DRM officials participated in 3 regional seminars, sharing experiences and views on such issues as Post-Crisis Needs Assessment, Southern African Regional Strategy on Resilience Building, and Emergency Environment Management. A representative of Mozambican DRM authority also shared with Angolan colleagues its experience in the management of Early Warning Systems. Contributions made by Angola for example is being utilized in the development of Regional Strategy for Building Resilience at SADC."
 open_project_id: ""
 project_title: "South- South and Triangular Cooperation in DRR"
 project_objective: "South- South and Triangular Cooperation in DRR facilitate Angola’s access to regional and global knowledge sharing on Disaster Risk Management."
@@ -20,9 +19,4 @@ partner_type:
   - national_governments
 published: true
 ---
-
-
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+5 DRM officials participated in 3 regional seminars, sharing experiences and views on such issues as Post-Crisis Needs Assessment, Southern African Regional Strategy on Resilience Building, and Emergency Environment Management. A representative of Mozambican DRM authority also shared with Angolan colleagues its experience in the management of Early Warning Systems. Contributions made by Angola for example is being utilized in the development of Regional Strategy for Building Resilience at SADC.

@@ -1,5 +1,4 @@
 ---
-"11": "la rehabilitation de leurs champs de riz afin d augmenter la productivite, la conservation des sols, l eau et eviter la deforestation de nouvelles zones; varietes de semences de legumes ont ete distribues a contribuer au regime alimentaire; nouvelles technologies ont ete introduites pour reduire le travail manuel (eplucheurs, meuleuses); de nouvelles techniques de transformation de la viande et du poisson"
 open_project_id: ""
 project_title: Projet Appui a la rehabilitation des rizieres et le traitement des produits agricoles et animaux
 project_objective: Le projet vise a contribuer a  la qualite de vie des communautes en reduisant la pauvrete; et la faim.
@@ -20,9 +19,6 @@ country:
   - GNB
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+La rehabilitation de leurs champs de riz afin d augmenter la productivite, la conservation des sols, l eau et eviter la deforestation de nouvelles zones; varietes de semences de legumes ont ete distribues a contribuer au regime alimentaire; nouvelles technologies ont ete introduites pour reduire le travail manuel (eplucheurs, meuleuses); de nouvelles techniques de transformation de la viande et du poisson

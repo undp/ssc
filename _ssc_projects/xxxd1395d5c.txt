@@ -19,7 +19,7 @@ country:
 partner_type: 
   - national_governments
   - cso
-published: false
+published: true
 ---
 
 ## A New Post

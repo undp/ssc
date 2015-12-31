@@ -17,6 +17,6 @@ country:
   - SDN
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 The launch a labor-intensive employment model in collaboration with the Ministry of Labor, drawing on experiences from Kenya, South Africa and India (evidence 9).

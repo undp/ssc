@@ -17,6 +17,6 @@ country:
   - KOS
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 South-South cooperation with Turkey included a study visit on the civil service system, training and professional development of civil servants, and HR management  Civil service system and mandatory trainings  Five targeted workshops 

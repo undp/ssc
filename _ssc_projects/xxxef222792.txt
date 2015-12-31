@@ -18,7 +18,7 @@ country:
   - MLI
 partner_type: 
   - sub_national_governments
-published: false
+published: true
 ---
 
 ## A New Post

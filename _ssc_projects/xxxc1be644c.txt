@@ -19,7 +19,7 @@ country:
 partner_type: 
   - cso
   - academia
-published: false
+published: true
 ---
 
 ## A New Post

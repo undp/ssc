@@ -18,6 +18,6 @@ country:
 partner_type: 
   - national_governments
   - cso
-published: false
+published: true
 ---
 During the regional dialogue, the operationalization of the NPRC was presented as one of the most critical process to be achieved in Zimbabwe, along with all the ongoing efforts of national and community work. Acknowledging the importance of existing platform provided by ACCORD and ECLF, efforts were made to continuously encourage and foster regional coordination and promote knowledge sharing. As a result a follow-up knowledge exchange has been planned for 2015.

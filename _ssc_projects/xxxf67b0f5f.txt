@@ -17,6 +17,6 @@ country:
   - ZWE
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 As a result, the draft JLOS policy that submitted to Cabinet for consideration was informed by the lessons learned based on the legal structures from the Uganda JLOS. Similarly, the first ever strategic plan developed for the JLOS is also borrowing heavily on the Ugandan one Sector Plan lessons learned. Furthermore, a plan of action to implement recommendations from the visit was developed to further strengthen the JLOS.

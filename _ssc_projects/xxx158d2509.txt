@@ -17,6 +17,6 @@ country:
   - ZWE
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 Report of the Study Tour to Zimbabwe for Livelihoods, Climate Change Adaptation (3rd – 9th August 20214)

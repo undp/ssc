@@ -18,7 +18,7 @@ country:
   - MDG
 partner_type: 
   - cso
-published: false
+published: true
 ---
 
 ## A New Post

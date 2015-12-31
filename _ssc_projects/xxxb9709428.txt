@@ -17,7 +17,7 @@ country:
   - CPV
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 
 ## A New Post

@@ -17,6 +17,6 @@ country:
   - MWI
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 UNDP facilitated benchmarking study visits to Kenya and Singapore to assist them in gathering best practices in public sector reforms.  The tours, involved six members from the newly constituted Public Service Reform Commission, UNDP and Public Sector Reforms Unit.  UNDP provided financial and technical assistance and study tour logistics and ensured propoer follow-ups. Following the study tours and the South-South exchanges, the Commission prepared a report 'Looking into the Future: Making Malawi Work: Transforming Malawi's Public Service' and launched in Dec 2014. The report made a number of observations and recommendations based on insights from and discussions during the study tour. In addition, the Government of Malawi is working on  establishing a long-term relationship between Kenya School of Government and the Malawi Institute of Management and UNDP Singapore Centre to remain innovative.
