@@ -1,5 +1,4 @@
 ---
-"11": Representatives of the Myanmar Government learned about best practices through sharing experiences with representatives from ASEAN countries. These knowledge gains will be reflected in the ASEAN Recovery guidelines which the Myanmar Government is developing as chair of the ASEAN.
 open_project_id: ""
 project_title: Knowledge sharing on Recovery Planning (with ASEAN member States)
 project_objective: Preparation of a framework for guidelines on recovery planning in consultations and experience sharing among ASEAN member states
@@ -18,9 +17,6 @@ country:
   - MMR
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Representatives of the Myanmar Government learned about best practices through sharing experiences with representatives from ASEAN countries. These knowledge gains will be reflected in the ASEAN Recovery guidelines which the Myanmar Government is developing as chair of the ASEAN.

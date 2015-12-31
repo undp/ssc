@@ -1,26 +1,24 @@
 ---
-"11": "The Conference provided for sharing of information and solutions for reducing flood risk, and enhancing cross-border cooperation in risk mitigation and flood protection. It resulted in the review of concrete lessons learned and definition of ways ahead."
-open_project_id: ""
-project_title: "Regional Conference on Natural Disasters in South-East Europe"
-project_objective: "Regional consultation platform for counterparts from BiH, Croatia, Macedonia, Montenegro, Slovenia, and Serbia in order to bring the problem of natural disaster preparedness to the regional level, and enhance the cooperation."
-project_link: "http://www.ba.undp.org/content/bosnia_and_herzegovina/en/home/presscenter/articles/2014/11/06/strategic-preparation-and-prevention-within-and-between-states-crucial-for-managing-natural-disasters-south-east-europe-conference-concludes.html"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - resilience_building
-territorial_focus: 
-  - mic
-  - fragile_states
+open_project_id: ''
+project_title: Regional Conference on Natural Disasters in South-East Europe
+project_objective: Regional consultation platform for counterparts from BiH, Croatia,
+  Macedonia, Montenegro, Slovenia, and Serbia in order to bring the problem of natural
+  disaster preparedness to the regional level, and enhance the cooperation.
+project_link: http://www.ba.undp.org/content/bosnia_and_herzegovina/en/home/presscenter/articles/2014/11/06/strategic-preparation-and-prevention-within-and-between-states-crucial-for-managing-natural-disasters-south-east-europe-conference-concludes.html
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- resilience_building
+territorial_focus:
+- mic
+- fragile_states
 scale: regional
-region: 
-  - europe_cis
-country: 
-  - BIH
-partner_type: 
-  - national_governments
-published: false
+region:
+- europe_cis
+country:
+- BIH
+partner_type:
+- national_governments
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The Conference provided for sharing of information and solutions for reducing flood risk, and enhancing cross-border cooperation in risk mitigation and flood protection. It resulted in the review of concrete lessons learned and definition of ways ahead.

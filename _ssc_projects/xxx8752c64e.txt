@@ -1,27 +1,27 @@
 ---
-"11": "As this is a new initiative, 2014 work focus was on preparations and  the initiative  reached milestones but  no results achieved at this stage.  The project conducted Training Needs Assessments and also reviewed the District Development Plans for the three targeted districts as ground work for its development interventions."
-open_project_id: ""
-project_title: "Livelihood Improvement in Tajik-Afghan Cross-border Areas (LITACA)"
-project_objective: "A 3 years initiative to promote stability and security in the bordering provinces of Tajikistan and Afghanistan. This will be achieved by reducing poverty, supporting economic development and cross-border collaboration among the communities along the Tajik-Afghan border. Additionaly, the project will offer capacity development opportunities for the local governments, civil society and private sector organizations"
-project_link: "https://info.undp.org/docs/pdc/Documents/TJK/00080167_ProDoc_2014-2017_00089951_00089982_LITACA_eng.pdf"
-undp_role_type: 
-  - facilitator_of_partnerships
-thematic_focus: 
-  - sustainable_development_pathways
-territorial_focus: 
-  - fragile_states
-  - ldc
+open_project_id: ''
+project_title: Livelihood Improvement in Tajik-Afghan Cross-border Areas (LITACA)
+project_objective: A 3 years initiative to promote stability and security in the bordering
+  provinces of Tajikistan and Afghanistan. This will be achieved by reducing poverty,
+  supporting economic development and cross-border collaboration among the communities
+  along the Tajik-Afghan border. Additionaly, the project will offer capacity development
+  opportunities for the local governments, civil society and private sector organizations
+project_link: https://info.undp.org/docs/pdc/Documents/TJK/00080167_ProDoc_2014-2017_00089951_00089982_LITACA_eng.pdf
+undp_role_type:
+- facilitator_of_partnerships
+thematic_focus:
+- sustainable_development_pathways
+territorial_focus:
+- fragile_states
+- ldc
 scale: regional
-region: 
-  - asia_pacific
-country: 
-  - AFG
-partner_type: 
-  - national_governments
-  - cso
-published: false
+region:
+- asia_pacific
+country:
+- AFG
+partner_type:
+- national_governments
+- cso
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+As this is a new initiative, 2014 work focus was on preparations and  the initiative  reached milestones but  no results achieved at this stage.  The project conducted Training Needs Assessments and also reviewed the District Development Plans for the three targeted districts as ground work for its development interventions.

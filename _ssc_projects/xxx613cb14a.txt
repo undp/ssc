@@ -1,5 +1,4 @@
 ---
-"11": The concept of holding a regional conference of human rights institutions of South Asian Association for Regional Cooperation (SAARC) where the National Human Rights Commission of Bangladesh has made a strong commitment to initiate for the conference.  The issues of caste based discrimination was also discussed during the discussion organized by people.
 open_project_id: ""
 project_title: "The visit had two fold objectives: to learn from the experiences of Bangladesh Human Rights Commission, and to explore the partnership opportunities with other stakeholders and civil society to combat against caste based discrimination."
 project_objective: The visit resulted in a concept of holding a regional conference of human rights institutions of the South Asian Association for Regional Cooperation (SAARC) countries. It also contributed to bring all concerned agencies together to organize an interaction on this issues during the SAARC summit held in November 2014 in Nepal.
@@ -19,9 +18,6 @@ country:
   - NPL
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The concept of holding a regional conference of human rights institutions of South Asian Association for Regional Cooperation (SAARC) where the National Human Rights Commission of Bangladesh has made a strong commitment to initiate for the conference.  The issues of caste based discrimination was also discussed during the discussion organized by people.

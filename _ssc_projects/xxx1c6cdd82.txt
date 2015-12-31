@@ -1,5 +1,4 @@
 ---
-"11": "The mission team shared about research initiatives under the CDBD Asia project and its linkage to fulfill research needs on flash flood and other disaster risk management in Nepal and Bangladesh. The mission team was briefed on different issues and initiatives being taken by the Government of Nepal and research needs as well. The team visited communities at Maadi, Chitwan district as well to interact with the communities for exploring future needs and priorities."
 open_project_id: ""
 project_title: "Visit under \"Sharing and Learning on Community Based Disaster Management in Asia (CBDM Asia)\" project, China"
 project_objective: "The CBDM Asia project aims to strengthen regional South-South cooperation and build a strong global partnership through joint initiatives on community based disaster management in parts of Asia. The expert mission to Nepal aimed at building and strengthening the partnership between Chinese institute on water resource management and the government bodies as well as the research entities in Bangladesh and Nepal."
@@ -19,9 +18,6 @@ country:
   - NPL
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The mission team shared about research initiatives under the CDBD Asia project and its linkage to fulfill research needs on flash flood and other disaster risk management in Nepal and Bangladesh. The mission team was briefed on different issues and initiatives being taken by the Government of Nepal and research needs as well. The team visited communities at Maadi, Chitwan district as well to interact with the communities for exploring future needs and priorities.

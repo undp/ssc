@@ -1,5 +1,4 @@
 ---
-"11": "Since this visit took place in mid-December, we are yet to see its contribution. Nevertheless, as a result, government of Nepal is partnering with UNDP to strengthen policy environment, harmonization and  coordination in the area of TVET."
 open_project_id: ""
 project_title: Learning visit on agriculture extension and vocational education
 project_objective: "Seven government staff from Ministry of Industry, Ministry of Education visited Georgia for seven days to learn from Georgia’s experience on enterprise development and agriculture extension and vocational education."
@@ -18,9 +17,6 @@ country:
   - NPL
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Since this visit took place in mid-December, we are yet to see its contribution. Nevertheless, as a result, government of Nepal is partnering with UNDP to strengthen policy environment, harmonization and  coordination in the area of TVET.

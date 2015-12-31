@@ -1,5 +1,4 @@
 ---
-"11": It is too early to observe evidence of its contribution to results for 2014
 open_project_id: ""
 project_title: Strengthening Social Cohesion in Myanmar
 project_objective: "UNDP facilitated a study visit for a 5-member delegation from Myanmar Government to Indonesia in February 2014. During their visit, the delegation of a Deputy Minister  for  Border Affairs and 3 Ministers from Rakhine State Government, had discussions with a wide range of Indonesia stakeholders from government and civil society, both at the national and  provincial level, and exchanged ideas and information on many issues relating to social cohesion and peace building"
@@ -18,9 +17,6 @@ country:
   - MMR
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+It is too early to observe evidence of its contribution to results for 2014

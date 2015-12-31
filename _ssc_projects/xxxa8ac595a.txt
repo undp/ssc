@@ -16,7 +16,7 @@ country:
   - ETH
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 
 UNDP facilitated two study tour to India and Kenya which involved goverment counterparts (13 high-level government officials form central and regioanl goverment) and the private sector to learn about the different aspects of cook stove technology and to seek technological training around the cook stove technology.  The study visits helped transfer the technologies to private sector who are producing modern cookstoves. It also created awareness  for households of the necessity and usefulness to adopt modern cookstoves. The institutional capacity, technical capacity of staff and laboratory capacity have been enhanced in government and regional energy bureau, which allow them to promote cook stove technology.

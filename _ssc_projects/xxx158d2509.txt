@@ -1,5 +1,4 @@
 ---
-"11": "Report of the Study Tour to Zimbabwe for Livelihoods, Climate Change Adaptation (3rd – 9th August 20214)"
 open_project_id: ""
 project_title: "Study tour for 26 Zambian farmers on livelihoods and climate change adaptation 3-9 August 2014"
 project_objective: "26 Zambian farmers (19 males & 7 females) visited Zimbabwe 3-9 August 2014 to exchange experiences and share lessons and best practices from Zimbabwe on climate change adaptation practices and livelihoods. This was done through visits to a diversity of projects (small irrigation schemes, organic farming, environmental protection, water harvesting, beekeeping and honey processing, and tourism) throughout Zimbabwe and holding discussions with Zimbabwean farmers and officials."
@@ -18,9 +17,6 @@ country:
   - ZWE
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Report of the Study Tour to Zimbabwe for Livelihoods, Climate Change Adaptation (3rd – 9th August 20214)

@@ -1,26 +1,26 @@
 ---
-"11": Transformational political leadership for Somalia enhanced the leadership skills of women MPs and revived the Somali women parliamentary association
-open_project_id: ""
+open_project_id: ''
 project_title: Transformational political leadership for Somalia
-project_objective: "UNDP Somalia provided support to UN Women to conduct a workshop on transformational political leadership for Somalia. Women Political Leaders, including female MPs benefited from the workshop with held in Ethiopia on 12th -17th May 2014.  Parliament Experts, women MPs from Uganda, Tanzania and Kenya were invited to the workshop to share experience and exchange knowledge."
-project_link: "http://www.so.undp.org/content/somalia/en/home/ourwork/womenempowerment/successstories/devt.html"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - fragile_states
-  - ldc
+project_objective: UNDP Somalia provided support to UN Women to conduct a workshop
+  on transformational political leadership for Somalia. Women Political Leaders, including
+  female MPs benefited from the workshop with held in Ethiopia on 12th -17th May 2014.  Parliament
+  Experts, women MPs from Uganda, Tanzania and Kenya were invited to the workshop
+  to share experience and exchange knowledge.
+project_link: http://www.so.undp.org/content/somalia/en/home/ourwork/womenempowerment/successstories/devt.html
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- fragile_states
+- ldc
 scale: regional
-region: 
-  - arab_states
-country: 
-  - SOM
-partner_type: 
-  - national_governments
-published: false
+region:
+- arab_states
+country:
+- SOM
+partner_type:
+- national_governments
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Transformational political leadership for Somalia enhanced the leadership skills of women MPs and revived the Somali women parliamentary association

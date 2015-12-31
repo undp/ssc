@@ -1,5 +1,4 @@
 ---
-"11": "3 Social Enterprises are established in close cooperation with municipalities and civil society organizations. In parallel, the concept document to initiate the law on social enterprises is finalized. Progress reports."
 open_project_id: ""
 project_title: "Human Security Trust Fund - Better livelihoods for citizens of FKP and Obiliq/c  The overall goal of the project is to achieve better livelihoods for the most vulnerable communities."
 project_objective: "Social Enterprises are promoted under this project. As a concept, SE’s are new in Kosovo. Lessons and best practices were learned from Italy Social Enterprises model – the legal frameworks, tax implication and impact on the disadvantage population. MLSW is in the process of the development of Social Enterprises law. In order to determine the types of SE’s it wants to develop, the team learned from Italy model SE types, the legal framework and the challenges."
@@ -19,9 +18,6 @@ country:
 partner_type: 
   - national_governments
   - cso
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+3 Social Enterprises are established in close cooperation with municipalities and civil society organizations. In parallel, the concept document to initiate the law on social enterprises is finalized. Progress reports.

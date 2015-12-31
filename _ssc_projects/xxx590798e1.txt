@@ -1,5 +1,4 @@
 ---
-"11": "The external evaluation of the DEEP programme (2011) recommended the duplication of some activities in other Arab countries. Therefore an exchange of knowledge between women entrepreneurs from Palestine and other Arab countries in Northern Africa took place to better market their products, increase their export channels and share lessons learned and challenges."
 open_project_id: ""
 project_title: "Economic Empowerment and micro-business development"
 project_objective: "The cooperation came in the form of exchanging of knowledge and experience mainly among women entrepreneurs. Beneficiaries from our Economic Employment programme traveled to other Middle East countries and shared their experiences, success and challenges with other women. They also had the opportunity to market their products in these countries."
@@ -16,9 +15,6 @@ region:
 country: null
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The external evaluation of the DEEP programme (2011) recommended the duplication of some activities in other Arab countries. Therefore an exchange of knowledge between women entrepreneurs from Palestine and other Arab countries in Northern Africa took place to better market their products, increase their export channels and share lessons learned and challenges.

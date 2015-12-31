@@ -1,26 +1,29 @@
 ---
-"11": Les associations de femmes beneficient de suivi medicaux gratuits pour lesquels les analyses sont faites a la Reunion.
-open_project_id: ""
-project_title: "Integration du Reseau MAD AIDS et de AFEP (Association des femmes positves), membre de MAD AIDS de Madagascar dans le reseau RAVANE OCEAN INDIEN et FEMMES OCEAN INDIEN POSITIVES"
-project_objective: "Partage des informations, donnees et experiences pour lutter contre le VIH/SIDA dans l’Ocean Indien. En plus de l'organisation du voyage, l'appui du PNUD a consiste entre autre i) a mettre en relation les OSC malgaches et les reseaux en question, ii) a former les OSC malgaches sur des themes tels que le role des OSC dans la lutte contre le VIH, la discrimination et la stigmatisation pour un leur permettre de participer activement aux activites des reseaux."
-project_link: "http://www.mg.undp.org/content/madagascar/fr/home/operations/projects/hiv_aids/project_sample.html"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - sustainable_development_pathways
-territorial_focus: 
-  - fragile_states
-  - ldc
+open_project_id: ''
+project_title: Integration du Reseau MAD AIDS et de AFEP (Association des femmes positves),
+  membre de MAD AIDS de Madagascar dans le reseau RAVANE OCEAN INDIEN et FEMMES OCEAN
+  INDIEN POSITIVES
+project_objective: Partage des informations, donnees et experiences pour lutter contre
+  le VIH/SIDA dans l’Ocean Indien. En plus de l'organisation du voyage, l'appui du
+  PNUD a consiste entre autre i) a mettre en relation les OSC malgaches et les reseaux
+  en question, ii) a former les OSC malgaches sur des themes tels que le role des
+  OSC dans la lutte contre le VIH, la discrimination et la stigmatisation pour un
+  leur permettre de participer activement aux activites des reseaux.
+project_link: http://www.mg.undp.org/content/madagascar/fr/home/operations/projects/hiv_aids/project_sample.html
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- sustainable_development_pathways
+territorial_focus:
+- fragile_states
+- ldc
 scale: regional
-region: 
-  - africa
-country: 
-  - MDG
-partner_type: 
-  - cso
-published: false
+region:
+- africa
+country:
+- MDG
+partner_type:
+- cso
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Les associations de femmes beneficient de suivi medicaux gratuits pour lesquels les analyses sont faites a la Reunion.

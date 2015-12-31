@@ -1,5 +1,4 @@
 ---
-"11": "The Timor Leste government runs a very successful EWER system, and this prompted the Nepalese authorities to undertake, in coordination with UNDP, the development of a similar system in Nepal."
 open_project_id: ""
 project_title: Learning visit on Conflict Early Warning and Early Response
 project_objective: "UNDP undertook SS&TC effort to East Timor involving senior MoPR officials. The purpose of this cooperation was to provide opportunities for the government officials to see EWER system in action, understand its benefits and identify learning for Nepal."
@@ -18,9 +17,6 @@ country:
   - NPL
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The Timor Leste government runs a very successful EWER system, and this prompted the Nepalese authorities to undertake, in coordination with UNDP, the development of a similar system in Nepal.

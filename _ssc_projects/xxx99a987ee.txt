@@ -1,26 +1,27 @@
 ---
-"11": "La resultante de cet atelier est l’evaluation, dans les 32 juridictions, des besoins en equipements, infrastructures reseaux, ressources humaines et formation en vue de la mise en place de l’application informatique des chaines judiciaires. Le rapport diagnostic est disponible."
-open_project_id: ""
+open_project_id: ''
 project_title: Partage d’experience sur l’application informatique des chaines judiciaires
-project_objective: "Le PNUD a soutenu une rencontre de partage de l’experience du Senegal sur l informatisation des chaines judiciaires du 8 au 11 juillet 2014 a Lome. Cette activite a reuni des experts senegalais (du ministere de la justice, de l universite Cheikh Anta Diop et du Barreau) et leurs homologues togolais et vise a aider le systeme judicaire togolais a entamer le processus de son informatisation en vue d assurer la rapidite et la securite des decisions de justice."
-project_link: "http://news.alome.com/h/23686.html"
-undp_role_type: 
-  - builder_of_capacities
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - fragile_states
-  - ldc
+project_objective: Le PNUD a soutenu une rencontre de partage de l’experience du Senegal
+  sur l informatisation des chaines judiciaires du 8 au 11 juillet 2014 a Lome. Cette
+  activite a reuni des experts senegalais (du ministere de la justice, de l universite
+  Cheikh Anta Diop et du Barreau) et leurs homologues togolais et vise a aider le
+  systeme judicaire togolais a entamer le processus de son informatisation en vue
+  d assurer la rapidite et la securite des decisions de justice.
+project_link: http://news.alome.com/h/23686.html
+undp_role_type:
+- builder_of_capacities
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- fragile_states
+- ldc
 scale: national
-region: 
-  - africa
-country: 
-  - TGO
-partner_type: 
-  - national_governments
-published: false
+region:
+- africa
+country:
+- TGO
+partner_type:
+- national_governments
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+La resultante de cet atelier est l’evaluation, dans les 32 juridictions, des besoins en equipements, infrastructures reseaux, ressources humaines et formation en vue de la mise en place de l’application informatique des chaines judiciaires. Le rapport diagnostic est disponible.

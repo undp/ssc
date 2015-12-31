@@ -1,27 +1,26 @@
 ---
-"11": "The study visit has contributed to enhance existing knowledge and skills of the justice institutions in understanding the system’s potential, strengths and areas for improvement."
-open_project_id: ""
-project_title: "Study visit  by senior officials from Sao Tome and Principe to Timor-Leste to learn about the Integrated Information Management Systems (IIMS)"
-project_objective: "The Minister of Justice, Prosecutor General and Chief Justice of Sao Tome and Principe visited Timor-Leste from 23 – 28 February for a study trip to gather information about the Integrated Information Management Systems (IIMS)."
-project_link: "https://info.undp.org/docs/pdc/Documents/TLS/2014%20JSP%20Annual%20Report%20-FINAL.pdf"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - sids
-  - fragile_states
-  - ldc
+open_project_id: ''
+project_title: Study visit  by senior officials from Sao Tome and Principe to Timor-Leste
+  to learn about the Integrated Information Management Systems (IIMS)
+project_objective: The Minister of Justice, Prosecutor General and Chief Justice of
+  Sao Tome and Principe visited Timor-Leste from 23 – 28 February for a study trip
+  to gather information about the Integrated Information Management Systems (IIMS).
+project_link: https://info.undp.org/docs/pdc/Documents/TLS/2014%20JSP%20Annual%20Report%20-FINAL.pdf
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- sids
+- fragile_states
+- ldc
 scale: national
-region: 
-  - asia_pacific
-country: 
-  - TLS
-partner_type: 
-  - national_governments
-published: false
+region:
+- asia_pacific
+country:
+- TLS
+partner_type:
+- national_governments
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The study visit has contributed to enhance existing knowledge and skills of the justice institutions in understanding the system’s potential, strengths and areas for improvement.

@@ -1,26 +1,28 @@
 ---
-"11": Termes de référence et Rapport de mission de la délégation du Sénégal
-open_project_id: ""
-project_title: Mission d’échange de deux membres du réseau citoyen pour la transparence budgétaire du Sénégal au Mali
-project_objective: "Deux membres du réseau citoyen pour la transparence budgétaire au Sénégal ont séjourné au Mali pour échanger avec le Groupe de Suivi Budgétaire du Mali sur le dispositif organisationnel, opérationnel, les relations avec l’exécutif et le parlement ainsi que avec les organes de contrôle, les mécanismes de financement, les modalités de coopération entre réseaux de l’espace de l’Union Economique Monétaire Ouest Africaine."
-project_link: "http://web.undp.org/drylands/docs/DGNR-French.pdf"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - fragile_states
-  - ldc
+open_project_id: ''
+project_title: Mission d’échange de deux membres du réseau citoyen pour la transparence
+  budgétaire du Sénégal au Mali
+project_objective: Deux membres du réseau citoyen pour la transparence budgétaire
+  au Sénégal ont séjourné au Mali pour échanger avec le Groupe de Suivi Budgétaire
+  du Mali sur le dispositif organisationnel, opérationnel, les relations avec l’exécutif
+  et le parlement ainsi que avec les organes de contrôle, les mécanismes de financement,
+  les modalités de coopération entre réseaux de l’espace de l’Union Economique Monétaire
+  Ouest Africaine.
+project_link: http://web.undp.org/drylands/docs/DGNR-French.pdf
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- fragile_states
+- ldc
 scale: national
-region: 
-  - africa
-country: 
-  - MLI
-partner_type: 
-  - sub_national_governments
-published: false
+region:
+- africa
+country:
+- MLI
+partner_type:
+- sub_national_governments
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Termes de référence et Rapport de mission de la délégation du Sénégal

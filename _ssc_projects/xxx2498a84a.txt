@@ -1,5 +1,4 @@
 ---
-"11": The evidence is clarified in the stock management report from the Ministry of Health. The report provided by the end of the year showed no surplus in the drug (Truvada) which was sent to Thailand and which could have led to wastage of drugs. It also showed no shortage in the drug (Lamividune) which was brought from IRAN which could have led to interruption of treatment.
 open_project_id: ""
 project_title: Exchange of drugs
 project_objective: "At the time of surpluss of drugs, UNDP (Global Fund unit) was able to identify partners in Thailand requiring same drugs and arrangements were made to send those drugs for the use of People Living with HIV (PLHIV) in Thailand.   In another instance, UNDP was short of a drug and through exchanges we were able to identify that UNDP IRAN CO had surplus of that drug and subsequently this drug was shipped from IRAN to Palestine."
@@ -16,9 +15,7 @@ region:
 country: null
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The evidence is clarified in the stock management report from the Ministry of Health. The report provided by the end of the year showed no surplus in the drug (Truvada) which was sent to Thailand and which could have led to wastage of drugs. It also showed no shortage in the drug (Lamividune) which was brought from IRAN which could have led to interruption of treatment.

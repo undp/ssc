@@ -1,0 +1,6 @@
+{
+  "execMap": {
+    "py": "python",
+    "rb": "ruby"
+  }
+}

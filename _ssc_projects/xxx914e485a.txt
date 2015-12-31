@@ -1,26 +1,28 @@
 ---
-"11": "The learning especially on data and information management system was useful to implement data generation and management through implementation of electronic building permit system (e-BPS) for earthquake-safe building construction practices in the Kathmandu valley."
-open_project_id: ""
-project_title: "Workshop on \"Experience and Lessons Learned from Earthquakes\" organized by \"Sharing and Learning on Community Based Disaster Management in Asia (CBDM Asia)\" project, China."
-project_objective: "The CBDM Asia project aims to strengthen regional South-South cooperation and build a strong global partnership through joint initiatives on community based disaster management in parts of Asia. It aids to disseminate learning of disaster risk reduction approaches through the extensive sharing of experience of China and other Asian countries that regularly experience large-scale natural disasters."
-project_link: "http://www.dochas.ie/blog/nepal-earthquake-lessons-learnt-responding-earthquakes"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - resilience_building
-territorial_focus: 
-  - fragile_states
-  - ldc
+open_project_id: ''
+project_title: Workshop on "Experience and Lessons Learned from Earthquakes" organized
+  by "Sharing and Learning on Community Based Disaster Management in Asia (CBDM Asia)"
+  project, China.
+project_objective: The CBDM Asia project aims to strengthen regional South-South cooperation
+  and build a strong global partnership through joint initiatives on community based
+  disaster management in parts of Asia. It aids to disseminate learning of disaster
+  risk reduction approaches through the extensive sharing of experience of China and
+  other Asian countries that regularly experience large-scale natural disasters.
+project_link: http://www.dochas.ie/blog/nepal-earthquake-lessons-learnt-responding-earthquakes
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- resilience_building
+territorial_focus:
+- fragile_states
+- ldc
 scale: regional
-region: 
-  - asia_pacific
-country: 
-  - NPL
-partner_type: 
-  - national_governments
-published: false
+region:
+- asia_pacific
+country:
+- NPL
+partner_type:
+- national_governments
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The learning especially on data and information management system was useful to implement data generation and management through implementation of electronic building permit system (e-BPS) for earthquake-safe building construction practices in the Kathmandu valley.

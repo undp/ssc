@@ -1,5 +1,4 @@
 ---
-"11": "The presentations and sharing from six countries on different aspects of CRM followed by discussions among the participants were helpful to consolidate the progress and learning in order to make a future roadmap for further integration of disaster risk reduction and climate change adaptation at global, regional and national levels."
 open_project_id: ""
 project_title: International Workshop on Integrated Climate Risk Management
 project_objective: UNDP Nepal became one of the six countries implementing Integrated Climate Risk Management Programme (ICRMP) piloted globally by UNDP’s Bureau of Crisis Prevention and Recovery. International workshop of the ICRMP countries was held in Kathmandu to share the experiences gained through this pilot programme and foster the cross country practice among the UNDP COs and their respective partners.
@@ -19,9 +18,6 @@ country:
   - NPL
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The presentations and sharing from six countries on different aspects of CRM followed by discussions among the participants were helpful to consolidate the progress and learning in order to make a future roadmap for further integration of disaster risk reduction and climate change adaptation at global, regional and national levels.

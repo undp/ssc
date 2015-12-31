@@ -1,5 +1,4 @@
 ---
-"11": "ECAMA in collaboration with UNDP organized the annual conference in Malawi from 16 to 18 October 2014. Based on this event and on the sharing of best practices from SADC on sustainale economic development, the Government of Malawi published the Public Service Reform Commission Report entitled “Looking into the Future: Making Malawi Work by Transforming Malawi’s Public Service”. The report reflects some of the resolutions noted during the experience sharing on making the public service efficient and support economic growth by empowering commercial parastatal organization to be given more autonomy to operate like companies and enter into joint ventures."
 open_project_id: ""
 project_title: " Economic Association of Malawi (ECAMA) Annual Conference:  Achieving Inclusive Sustainable Economic Growth: From Rhetoric to Practice"
 project_objective: "Objective of the iniaitive: The conference explored long term strategies for sustainable economic growth in the next 50 year vision of Malawi from best practices from the Southern African Development Community (SADC) countries that achieved growth. Attendance included: public service, academia, CSOs, and donors. Mauritius was invited to share success stories based on Mauritian model of economic diversification and how policies can be applied by Malawi Government to achieve industrial transformation."
@@ -18,9 +17,6 @@ country:
   - MWI
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+ECAMA in collaboration with UNDP organized the annual conference in Malawi from 16 to 18 October 2014. Based on this event and on the sharing of best practices from SADC on sustainale economic development, the Government of Malawi published the Public Service Reform Commission Report entitled “Looking into the Future: Making Malawi Work by Transforming Malawi’s Public Service”. The report reflects some of the resolutions noted during the experience sharing on making the public service efficient and support economic growth by empowering commercial parastatal organization to be given more autonomy to operate like companies and enter into joint ventures.

@@ -1,26 +1,24 @@
 ---
-"11": "Knowledge gained on natural lake management mechanism through SSC, provided the government at national and local levels with necessary information to set up an Inle Lake management mechanism"
-open_project_id: ""
+open_project_id: ''
 project_title: Knowledge sharing on natural lake Management mechanism
-project_objective: Providing Inle Lake stakeholders with options for an effective lake management mechanism through consultations and knowledge exchange with experts and officials in the field of lake management in neighboring countries
-project_link: "http://www.mm.undp.org/content/myanmar/en/home/presscenter/articles/2014/06/06/sharing-knowledge-on-lake-management-practices.html"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - sustainable_development_pathways
-territorial_focus: 
-  - fragile_states
-  - ldc
+project_objective: Providing Inle Lake stakeholders with options for an effective
+  lake management mechanism through consultations and knowledge exchange with experts
+  and officials in the field of lake management in neighboring countries
+project_link: http://www.mm.undp.org/content/myanmar/en/home/presscenter/articles/2014/06/06/sharing-knowledge-on-lake-management-practices.html
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- sustainable_development_pathways
+territorial_focus:
+- fragile_states
+- ldc
 scale: national
-region: 
-  - asia_pacific
-country: 
-  - MMR
-partner_type: 
-  - national_governments
-published: false
+region:
+- asia_pacific
+country:
+- MMR
+partner_type:
+- national_governments
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Knowledge gained on natural lake management mechanism through SSC, provided the government at national and local levels with necessary information to set up an Inle Lake management mechanism

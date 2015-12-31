@@ -1,5 +1,4 @@
 ---
-"11": "The establishment of the South-South Unit in PMAC"
 open_project_id: ""
 project_title: Initiating South South Cooperation in the Government of Iraq
 project_objective: "UNDP organized a monitoring and evaluation workshop among countries which receive large volume of concessional loans. The workshop was held as a concrete South-South Cooperation initiative among 7 countries which receive a large volume of concessional loans (Iraq, Philippines, Vietnam, Bangladesh, India, Egypt, and Tunisia) for enhanced M&E mechanism to improve the social and economic infrastructure. The PMAC established a South -South Unit."
@@ -18,9 +17,6 @@ country:
   - IRQ
 partner_type: 
   - national_governments
-published: false
+published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The establishment of the South-South Unit in PMAC
