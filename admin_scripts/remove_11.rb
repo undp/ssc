@@ -41,7 +41,7 @@ end
 
 def write_file(filename, content)
   content = fix_content(content)
-  File.open('output.txt', 'w') do |file|
+  File.open(File.join(ROOT_DIR, filename), 'w') do |file|
     file << "---"
     file << YAML.dump(content[:data])
     file << "---\n"
@@ -52,23 +52,19 @@ end
 def process_all
   # get all files
   # for each
+  count = 0
   project_filenames.each do |filename|
     content = load_content(filename)
     # check if broken
     if broken_content(content)
       # puts "Need to fix #{filename}"
       fixed_content = fix_content(content)
-      puts "Fixed #{filename}", fixed_content
+      write_file(filename, fixed_content)
+      puts "Updated #{filename}"
+      count += 1
     end
   end
-  #   if broken, fix
-  #   write
-  #   log/mark progress
+  puts "Finished. Wrote #{count} files"
 end
 
-# data = load_content("00045776.txt")[:data]
-# content = load_content("xxx742ba697.txt")
-# data = content[:data]
-# puts broken_content(content)
-# write_file(nil, content)
 process_all
