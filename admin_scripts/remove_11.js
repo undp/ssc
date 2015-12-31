@@ -5,7 +5,8 @@ var fs = require('fs'),
     _ = require('lodash');
 
 ROOT = '../_ssc_projects/';
-DEFAULT_TEXT = "\n\n\n## A New Post\n\nEnter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.\n'"
+ELEVEN_REGEX = /---\n\"11\":\s\"?(.*)\"?$/m;
+DEFAULT_TEXT_REGEX = /---\n{2,4}## A New Post\n\nEnter text in \[Markdown]\(http:\/\/daringfireball\.net\/projects\/markdown\/\)\. Use the toolbar above, or click the \*\*\?\*\* button for formatting help\./gm;
 
 function project_files(){
   return _.reject(fs.readdirSync(ROOT), function(entry){
@@ -15,33 +16,35 @@ function project_files(){
 
 function broken_files(){
   return _.select(project_files(), function(file){
-    var data = project_data_from(file);
-    return has_eleven(data.attributes) && default_content(data.body);
+    var content = project_content_from(file);
+    return has_eleven(content) && has_default_content(content);
   })
 }
 
-function project_data_from(file){
+function project_content_from(file){
   var path = ROOT + file;
-  var data = fs.readFileSync(ROOT + file, 'utf8')
-  return fm(data);
+  return fs.readFileSync(ROOT + file, 'utf8');
 }
 
 function fixed_content(file){
   // Only receiving projects with '11' and unchanged default body content
-  var data = project_data_from(file);
-  data.body = data.attributes['11'];
-  delete data.attributes['11'];
-  return data;
+  
+  // var data = project_data_from(file);
+  // data.body = data.attributes['11'];
+  // delete data.attributes['11'];
+  // return data;
 }
 
-function default_content(body) {
-  return true
-  return body === DEFAULT_TEXT;
+function is_broken(content){
+  return has_eleven(content) && has_default_content(content);
 }
 
-function has_eleven(attributes) {
-  var keys = _.keys(attributes);
-  return _.includes(keys, "11");
+function has_eleven(content) {
+  return (ELEVEN_REGEX.exec(content) !== null);
+}
+
+function has_default_content(content) {
+  return (DEFAULT_TEXT_REGEX.exec(content) !== null);
 }
 
 function create_text_file(data){
@@ -49,10 +52,13 @@ function create_text_file(data){
 
 }
 
-function stringify_attributes(attributes){
-  var string = "";
-  return _.each(attributes, function (key, value) {
-  })
+
+function move_11(content){
+  
+}
+
+function set_published(content){
+  
 }
 
 function process_all(){
@@ -62,10 +68,4 @@ function process_all(){
 
 
 
-// console.log(project_data_from(broken_files()[0]));
-// console.log(project_files().length)
-// console.log(broken_files().length)
-console.log(fixed_content('xxxc7fbab17.txt'))
-content = fixed_content('xxxc7fbab17.txt');
-// console.log(project_data_from('xxxc7fbab17.txt'))
-fs.writeFileSync('test_output.txt', JSON.stringify(content));
+
