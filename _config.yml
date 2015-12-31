@@ -609,7 +609,3 @@ prose:
               value: academia
             - name: Private sector
               value: private_sector
-      - name: published
-        field: 
-          element: text
-          value: true
