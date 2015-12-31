@@ -1,5 +1,4 @@
 ---
-"11": "La visite d echange ayant ete organisee en novembre 2014, l experience acquise par les fonctionnaires sera mise a contribution en 2015."
 open_project_id: ""
 project_title: Renforcement des capacites des fonctionnaires de l Assemblee Nationale en matiere de controle  et de suivi de l execution budgetaire.
 project_objective: "Visite d echanges permettant aux fonctionnaires de la Cellule d Analyse du Budget National (CABAN) de l Assemblee Nationale de s impregner des modalites pratiques dans le cadre de la lecture, l examen et le vote de la loi de finance, de l effectivite du controle et du suivi de l execution budgetaire."
@@ -21,7 +20,4 @@ partner_type:
   - national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+La visite d echange ayant ete organisee en novembre 2014, l experience acquise par les fonctionnaires sera mise a contribution en 2015.

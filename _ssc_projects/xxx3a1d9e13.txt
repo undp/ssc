@@ -1,5 +1,4 @@
 ---
-"11": The Ministry of Justice rolled out a case management system enabling accountability and addressing case backlog
 open_project_id: ""
 project_title: Access to Justice and Rule of Law programme
 project_objective: "Through South-South cooperation with two sub-regional countries judges and prosecutors engaged with the Judiciary of Kenya and Directorate Public Prosecution of Uganda to benchmark best practice. In addition, experts drawn from the sub-region provided the substantive technical content for training on international criminal law and transitional justice"
@@ -20,7 +19,4 @@ partner_type:
   - national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The Ministry of Justice rolled out a case management system enabling accountability and addressing case backlog

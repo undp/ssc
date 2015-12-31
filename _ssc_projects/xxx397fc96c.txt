@@ -1,5 +1,4 @@
 ---
-"11": This visit is a second visit conducted by government of Nepal and some follow up such as curriculum development and ToT will be implemented through TL National Training Institution in 2015.
 open_project_id: ""
 project_title: "Nepal Government study visit to Timor-Leste on Peace-building and social cohesion initiatives"
 project_objective: The study visit has contributed to the increase of knowledge on peace building and social cohesion for both countries and follow up initiative such as curriculum development and ToT will be implemented through TL National Training Institution in 2015.
@@ -21,7 +20,4 @@ partner_type:
   - national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+This visit is a second visit conducted by government of Nepal and some follow up such as curriculum development and ToT will be implemented through TL National Training Institution in 2015.
