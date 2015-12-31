@@ -1,26 +1,25 @@
 ---
-"11": "As a results of this exposure visit, some of the senior MOGA officials imparted their knowledge to refine and strengthen the review of the management audit system of MOGA."
-open_project_id: ""
+open_project_id: ''
 project_title: MOGA official visit to Malaysia
-project_objective: "As Nepal is moving towards federal administrative structure, four MoGA officials visited Malaysia to learn about the civil service management on federal context. The objective of the visit was to enhance participants’ knowledge on civil service management and public administrative structure in federal context."
-project_link: "http://www.np.undp.org/content/dam/nepal/docs/projects/apr-2014/UNDP_NP_PREPARE_APR-2014.pdf"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - fragile_states
-  - ldc
+project_objective: As Nepal is moving towards federal administrative structure, four
+  MoGA officials visited Malaysia to learn about the civil service management on federal
+  context. The objective of the visit was to enhance participants’ knowledge on civil
+  service management and public administrative structure in federal context.
+project_link: http://www.np.undp.org/content/dam/nepal/docs/projects/apr-2014/UNDP_NP_PREPARE_APR-2014.pdf
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- fragile_states
+- ldc
 scale: national
-region: 
-  - asia_pacific
-country: 
-  - NPL
-partner_type: 
-  - national_governments
+region:
+- asia_pacific
+country:
+- NPL
+partner_type:
+- national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+As a results of this exposure visit, some of the senior MOGA officials imparted their knowledge to refine and strengthen the review of the management audit system of MOGA.

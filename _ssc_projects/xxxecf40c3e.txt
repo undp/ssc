@@ -1,26 +1,25 @@
 ---
-"11": This visit has helped familiarize NPC officials on LDC agenda. They have become more familiar on the LDC graduation process too and its linkage with national planning.
-open_project_id: ""
-project_title: Mutual exchange and learning of country experience and expertise on efforts towards graduating from LDC status
-project_objective: "In view of Nepal's decision to graduate from LDC by 2022, team of six government officials visited Bangladesh to learn from Bangladesh's experience in integrating LDC agenda into Planning, policy making and budgeting."
-project_link: "http://www.np.undp.org/content/nepal/en/home/operations/projects/poverty_reduction/snpc/nepal-braces-for-graduation-from-an-ldc.html"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - sustainable_development_pathways
-territorial_focus: 
-  - fragile_states
-  - ldc
+open_project_id: ''
+project_title: Mutual exchange and learning of country experience and expertise on
+  efforts towards graduating from LDC status
+project_objective: In view of Nepal's decision to graduate from LDC by 2022, team
+  of six government officials visited Bangladesh to learn from Bangladesh's experience
+  in integrating LDC agenda into Planning, policy making and budgeting.
+project_link: http://www.np.undp.org/content/nepal/en/home/operations/projects/poverty_reduction/snpc/nepal-braces-for-graduation-from-an-ldc.html
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- sustainable_development_pathways
+territorial_focus:
+- fragile_states
+- ldc
 scale: national
-region: 
-  - asia_pacific
-country: 
-  - NPL
-partner_type: 
-  - national_governments
+region:
+- asia_pacific
+country:
+- NPL
+partner_type:
+- national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+This visit has helped familiarize NPC officials on LDC agenda. They have become more familiar on the LDC graduation process too and its linkage with national planning.

@@ -1,27 +1,26 @@
 ---
-"11": "UNDP supported 2 Public Affairs Committee officials and coordinated the data collection for existing infrastructures for peace in Malawi which allowed Malawi to share it's experiences with other countries in the region.  As a result from the knowledge sharing between the participating countries in the region, the Government has embarked on the process of developing a Strategic Plan and Policy to the govern the establishment and operationalization of a National Peace Architecture for Malawi. NPA structure will be piloted in 3 districts in 2015."
-open_project_id: ""
+open_project_id: ''
 project_title: Africa Insider Mediators Platform (AIMP)
-project_objective: "Objective of project: The platform brings together peace practitioners and mediators (government, civil society) from across African with the aim of sharing best practice and experiences of successful mediation and peace building initiatives.  ACTION Support Centre with support from UNDP Regional Service Centre coordinates AIMP. "
-project_link: "http://www.asc.org.za/language/en/"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - fragile_states
-  - ldc
+project_objective: 'Objective of project: The platform brings together peace practitioners
+  and mediators (government, civil society) from across African with the aim of sharing
+  best practice and experiences of successful mediation and peace building initiatives.  ACTION
+  Support Centre with support from UNDP Regional Service Centre coordinates AIMP. '
+project_link: http://www.asc.org.za/language/en/
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- fragile_states
+- ldc
 scale: regional
-region: 
-  - africa
-country: 
-  - MWI
-partner_type: 
-  - regional_inter_governmental_organizations
-  - national_governments
+region:
+- africa
+country:
+- MWI
+partner_type:
+- regional_inter_governmental_organizations
+- national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+UNDP supported 2 Public Affairs Committee officials and coordinated the data collection for existing infrastructures for peace in Malawi which allowed Malawi to share it's experiences with other countries in the region.  As a result from the knowledge sharing between the participating countries in the region, the Government has embarked on the process of developing a Strategic Plan and Policy to the govern the establishment and operationalization of a National Peace Architecture for Malawi. NPA structure will be piloted in 3 districts in 2015.

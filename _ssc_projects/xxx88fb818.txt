@@ -1,26 +1,23 @@
 ---
-"11": "The initiative did not yield results on this particular case but it has laid a foundation for further cooperation with both, the Orthodox church and neighbouring countries in the area of cultural heritage, employment boost with emphasis on rural women entrepreneurship."
-open_project_id: ""
-project_title: "Protection of Cultural Heritage and Cross-Border Cooperation"
-project_objective: Catalyzing sustainable economic development and preservation of endangered world cultural heritage.
-project_link: "http://www.ks.undp.org/content/dam/kosovo/docs/Dragash/mdp/MDP%20Part%202%202013-2023%20Dragash%20Final%2026.08.2013.pdf"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - mic
-  - fragile_states
+open_project_id: ''
+project_title: Protection of Cultural Heritage and Cross-Border Cooperation
+project_objective: Catalyzing sustainable economic development and preservation of
+  endangered world cultural heritage.
+project_link: http://www.ks.undp.org/content/dam/kosovo/docs/Dragash/mdp/MDP%20Part%202%202013-2023%20Dragash%20Final%2026.08.2013.pdf
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- mic
+- fragile_states
 scale: national
-region: 
-  - europe_cis
-country: 
-  - KOS
-partner_type: 
-  - national_governments
+region:
+- europe_cis
+country:
+- KOS
+partner_type:
+- national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The initiative did not yield results on this particular case but it has laid a foundation for further cooperation with both, the Orthodox church and neighbouring countries in the area of cultural heritage, employment boost with emphasis on rural women entrepreneurship.

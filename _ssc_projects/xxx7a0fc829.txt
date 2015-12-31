@@ -1,27 +1,29 @@
 ---
-"11": "Rapport de mission du Directeur de l'Observatoire du Mali; Projet d'accord de partenariat entre l'Observatoire du Mali et celui du Maroc"
-open_project_id: ""
-project_title: Partenariat entre l’Observatoire du Développement Humain du Maroc et celui du Mali
-project_objective: "L’Observatoire du Développement Humain du Mali a participé à l’invitation de l’Observatoire du  Maroc, à la Conférence sur les méthodes de mesure de développement humain et les approches d’évaluation axées sur l’équité en faveur des nouvelles générations. Le Directeur de l’ODHD a présenté la démarche d’élaboration de l’indice de pauvreté des communes du Mali. Un accord de partenariat est cours de conclusion entre les observatoires du Maroc et du Mali."
-project_link: "http://www.ondh.ma/fr/evenements/conference-internationale-methodes-mesure-developpement-humain-et-approches-devaluation"
-undp_role_type: 
-  - knowledge_broker
-  - facilitator_of_partnerships
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - fragile_states
-  - ldc
+open_project_id: ''
+project_title: Partenariat entre l’Observatoire du Développement Humain du Maroc et
+  celui du Mali
+project_objective: L’Observatoire du Développement Humain du Mali a participé à l’invitation
+  de l’Observatoire du  Maroc, à la Conférence sur les méthodes de mesure de développement
+  humain et les approches d’évaluation axées sur l’équité en faveur des nouvelles
+  générations. Le Directeur de l’ODHD a présenté la démarche d’élaboration de l’indice
+  de pauvreté des communes du Mali. Un accord de partenariat est cours de conclusion
+  entre les observatoires du Maroc et du Mali.
+project_link: http://www.ondh.ma/fr/evenements/conference-internationale-methodes-mesure-developpement-humain-et-approches-devaluation
+undp_role_type:
+- knowledge_broker
+- facilitator_of_partnerships
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- fragile_states
+- ldc
 scale: national
-region: 
-  - africa
-country: 
-  - MLI
-partner_type: 
-  - national_governments
+region:
+- africa
+country:
+- MLI
+partner_type:
+- national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Rapport de mission du Directeur de l'Observatoire du Mali; Projet d'accord de partenariat entre l'Observatoire du Mali et celui du Maroc

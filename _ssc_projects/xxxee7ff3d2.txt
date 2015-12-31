@@ -1,27 +1,29 @@
 ---
-"11": Rapport de mission de la délégation de Guinée
-open_project_id: ""
-project_title: Mission du Ministère du commerce de la Guinée au Mali sur l’expérience de la mise en oeuvre du cadre intégré
-project_objective: "Une mission d’échange du Ministère du Commerce de la Guinée, de l’Unité de mise en œuvre du Cadre intégré a séjourné en décembre  2014 à Bamako au Mali pour s’enquérir de l’expérience Malienne dans la mise en œuvre du Cadre intégré. La mission a rencontré les structures du gouvernement, du secteur privé et des partenaires pour s‘enquérir du diapositif institutionnel, organisationnel et résultats obtenus."
-project_link: "https://www.google.com/url?q=http://www.undp.org/content/dam/undp/library/corporate/Executive%2520Board/2015/French/DPDCPMLI3_Statement%2520of%2520Challenges%2520and%2520Performance%252020%2520October%25202014.doc&sa=U&ved=0CAYQFjABahUKEwi909C8to7JAhVBEHIKHcC7COI&client=internal-uds-cse&usg=AFQjCNGogLwg7oK42IAnm2Cwhh8devQMKg"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - fragile_states
-  - ldc
+open_project_id: ''
+project_title: Mission du Ministère du commerce de la Guinée au Mali sur l’expérience
+  de la mise en oeuvre du cadre intégré
+project_objective: Une mission d’échange du Ministère du Commerce de la Guinée, de
+  l’Unité de mise en œuvre du Cadre intégré a séjourné en décembre  2014 à Bamako
+  au Mali pour s’enquérir de l’expérience Malienne dans la mise en œuvre du Cadre
+  intégré. La mission a rencontré les structures du gouvernement, du secteur privé
+  et des partenaires pour s‘enquérir du diapositif institutionnel, organisationnel
+  et résultats obtenus.
+project_link: https://www.google.com/url?q=http://www.undp.org/content/dam/undp/library/corporate/Executive%2520Board/2015/French/DPDCPMLI3_Statement%2520of%2520Challenges%2520and%2520Performance%252020%2520October%25202014.doc&sa=U&ved=0CAYQFjABahUKEwi909C8to7JAhVBEHIKHcC7COI&client=internal-uds-cse&usg=AFQjCNGogLwg7oK42IAnm2Cwhh8devQMKg
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- fragile_states
+- ldc
 scale: national
-region: 
-  - africa
-country: 
-  - MLI
-partner_type: 
-  - national_governments
-  - private_sector
+region:
+- africa
+country:
+- MLI
+partner_type:
+- national_governments
+- private_sector
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Rapport de mission de la délégation de Guinée

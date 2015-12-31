@@ -1,26 +1,24 @@
 ---
-"11": This activity was carried out in November/ December 2014 so it is too early to observe evidence of its contribution to results for 2014. It is however informing activities for 2015.
-open_project_id: ""
+open_project_id: ''
 project_title: Study Visit for Parliamentarians to Indonesia
-project_objective: "13 MPs and staff from the Union Parliament and Sub-national parliaments went to Indonesia where they visited and learned from the experience there at both the sub-national and national level"
-project_link: "http://www.mm.undp.org/content/myanmar/en/home/presscenter/articles/2014/12/11/myanmar-mps-and-parliament-staff-conclude-study-visit-to-australian-and-indonesian-parliaments.html"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - fragile_states
-  - ldc
+project_objective: 13 MPs and staff from the Union Parliament and Sub-national parliaments
+  went to Indonesia where they visited and learned from the experience there at both
+  the sub-national and national level
+project_link: http://www.mm.undp.org/content/myanmar/en/home/presscenter/articles/2014/12/11/myanmar-mps-and-parliament-staff-conclude-study-visit-to-australian-and-indonesian-parliaments.html
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- fragile_states
+- ldc
 scale: national
-region: 
-  - asia_pacific
-country: 
-  - MMR
-partner_type: 
-  - national_governments
+region:
+- asia_pacific
+country:
+- MMR
+partner_type:
+- national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+This activity was carried out in November/ December 2014 so it is too early to observe evidence of its contribution to results for 2014. It is however informing activities for 2015.

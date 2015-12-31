@@ -1,25 +1,24 @@
 ---
-"11": "Participation de Cabo Verde dans la Conference International de SIDS- SAMO. Apresentation des initiatives de projets pour financement atravers le mecanisme SIDS DOCK sur la base des reflexions, echanges et partage d'experiences"
-open_project_id: ""
+open_project_id: ''
 project_title: SIDS DOCK
-project_objective: "Encadres dans l’Alliance des petits Etats insulaires (AOSIS), SIDS DOCK c’est un mecanisme institutionnel collectif pour assister la transformation des secteurs energetiques en catalyseurs d’un developpement durable et appuyer la mobilisation de ressources."
-project_link: "http://sidsdock.org/"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - sustainable_development_pathways
-territorial_focus: 
-  - sids
+project_objective: Encadres dans l’Alliance des petits Etats insulaires (AOSIS), SIDS
+  DOCK c’est un mecanisme institutionnel collectif pour assister la transformation
+  des secteurs energetiques en catalyseurs d’un developpement durable et appuyer la
+  mobilisation de ressources.
+project_link: http://sidsdock.org/
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- sustainable_development_pathways
+territorial_focus:
+- sids
 scale: global
-region: 
-  - africa
-country: 
-  - CPV
-partner_type: 
-  - national_governments
+region:
+- africa
+country:
+- CPV
+partner_type:
+- national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Participation de Cabo Verde dans la Conference International de SIDS- SAMO. Apresentation des initiatives de projets pour financement atravers le mecanisme SIDS DOCK sur la base des reflexions, echanges et partage d'experiences

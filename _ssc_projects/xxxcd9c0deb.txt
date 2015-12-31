@@ -1,27 +1,25 @@
 ---
-"11": Rapport de mission Plan strategique du Ministere et programme de reforme en cours d elaboration
-open_project_id: ""
-project_title: "Mission d etudes du Gouvernement dans 3 pays (Mozambique, Mali et Benin)"
-project_objective: Elle avait pour objet pour l equipe de la fonction de publique d aller s enquerir des experiences  en reformes de l administration publique des 3 pays pour redynamiser le processus de reforme au niveau de la Guinee Bissau.
-project_link: "http://www.gw.undp.org/content/guinea_bissau/fr/home/operations/projects/democratic_governance/reformeadministrationpublique.html"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - inclusive_and_effective_democratic_governance
-territorial_focus: 
-  - sids
-  - fragile_states
-  - ldc
+open_project_id: ''
+project_title: Mission d etudes du Gouvernement dans 3 pays (Mozambique, Mali et Benin)
+project_objective: Elle avait pour objet pour l equipe de la fonction de publique
+  d aller s enquerir des experiences  en reformes de l administration publique des
+  3 pays pour redynamiser le processus de reforme au niveau de la Guinee Bissau.
+project_link: http://www.gw.undp.org/content/guinea_bissau/fr/home/operations/projects/democratic_governance/reformeadministrationpublique.html
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- inclusive_and_effective_democratic_governance
+territorial_focus:
+- sids
+- fragile_states
+- ldc
 scale: regional
-region: 
-  - africa
-country: 
-  - GNB
-partner_type: 
-  - national_governments
+region:
+- africa
+country:
+- GNB
+partner_type:
+- national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Rapport de mission Plan strategique du Ministere et programme de reforme en cours d elaboration

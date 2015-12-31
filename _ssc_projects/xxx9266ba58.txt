@@ -1,26 +1,28 @@
 ---
-"11": "The learnings of workshop would be helpful in designing Climate Finance regional project based on “whole of government approach”. Further, the workshop has contributed in enhancing knowledge on climate response budgeting and climate resilient planning among the key government officials constituting Climate Finance Task Force. In addition, Nepal team started engaging with CSO to foster partnership with CSOs for effective and efficient climate responsive budgeting and planning."
-open_project_id: ""
-project_title: Asia Pacific Regional Workshop on Climate Responsive Budgeting (CRB) and Planning
-project_objective: "UNDP facilitated rejuvenation of Climate Finance Task Force (NPC, MoF, MoSTE and MoFALD) in 2014. The Task Force along with CSOs participated in workshop and shared Nepal’s experience in Climate Budget Code and its positive implications on allocations for climate/disaster related activities by major ministries. The Task Force members learnt about different methodologies, approaches and the achievements made by other countries of the region"
-project_link: "http://www.climatefinance-developmenteffectiveness.org/ClimateResponsiveBudgeting2014"
-undp_role_type: 
-  - knowledge_broker
-thematic_focus: 
-  - resilience_building
-territorial_focus: 
-  - fragile_states
-  - ldc
+open_project_id: ''
+project_title: Asia Pacific Regional Workshop on Climate Responsive Budgeting (CRB)
+  and Planning
+project_objective: UNDP facilitated rejuvenation of Climate Finance Task Force (NPC,
+  MoF, MoSTE and MoFALD) in 2014. The Task Force along with CSOs participated in workshop
+  and shared Nepal’s experience in Climate Budget Code and its positive implications
+  on allocations for climate/disaster related activities by major ministries. The
+  Task Force members learnt about different methodologies, approaches and the achievements
+  made by other countries of the region
+project_link: http://www.climatefinance-developmenteffectiveness.org/ClimateResponsiveBudgeting2014
+undp_role_type:
+- knowledge_broker
+thematic_focus:
+- resilience_building
+territorial_focus:
+- fragile_states
+- ldc
 scale: regional
-region: 
-  - asia_pacific
-country: 
-  - NPL
-partner_type: 
-  - national_governments
+region:
+- asia_pacific
+country:
+- NPL
+partner_type:
+- national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The learnings of workshop would be helpful in designing Climate Finance regional project based on “whole of government approach”. Further, the workshop has contributed in enhancing knowledge on climate response budgeting and climate resilient planning among the key government officials constituting Climate Finance Task Force. In addition, Nepal team started engaging with CSO to foster partnership with CSOs for effective and efficient climate responsive budgeting and planning.
