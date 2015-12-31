@@ -1,5 +1,4 @@
 ---
-"11": "There are propositions for joint research and publication work between Mass Communication of Fourah Bay College and the University of Ghana,  in particular, for Mass Communication Department to be upgraded into a full-fledged Centre of Excellence. (Support to Media Programme, Annual Report, 2014)"
 open_project_id: ""
 project_title: "Sierra Leone - Ghana Media Collaboration"
 project_objective: "A media delegation from Sierra Leone vsisted Ghana and interacted with the Ghana Broadcasting Corporation, Ghana Institute of Journalism, African College of Communication, UNESCO, Ghana Network of Community Radio Network and West Africa Media with a view to establish collaboration between the stakeholders in the media sector of the two countries."
@@ -20,7 +19,4 @@ partner_type:
   - national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+There are propositions for joint research and publication work between Mass Communication of Fourah Bay College and the University of Ghana,  in particular, for Mass Communication Department to be upgraded into a full-fledged Centre of Excellence. (Support to Media Programme, Annual Report, 2014)

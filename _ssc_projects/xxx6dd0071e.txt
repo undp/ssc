@@ -1,5 +1,4 @@
 ---
-"11": Le Togo qui a beneficie des experiences malgaches .
 open_project_id: ""
 project_title: Visite de la delegation togolaise a Madagascar dans le cadre de la mise en place de la base de donnees sur la gestion des aides (AMP).Le PNUD a aide la partie malgache a la preparation technique de la mission (le contenu de la mission).
 project_objective: "Suite a un appui du Secretaire Technique Permanent en charge de la Coordination de lAide (Madagascar) aupres du Togo en 2013, une delegation togolaise est venue a Madagascar pour renforcer ses capacites dans la gestion de la base de donnees sur le suivi des aides grace a la transmission de savoir-faire des equipes malgaches en charge de la base (AMP) pour le pays."
@@ -20,7 +19,4 @@ partner_type:
   - national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Le Togo qui a beneficie des experiences malgaches .

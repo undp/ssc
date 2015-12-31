@@ -1,5 +1,4 @@
 ---
-"11": "The CCE-CC approach is outstanding and has been embraced in pilot communities with early signs of its potential to achieve great impact on transforming GEWE issues. CCE-CC facilitating organizations observed and reported positive changes in community perspectives and attitudes. The reported changes will have to be validated by in-depth interviews with more community members and others not involved in facilitating conversations."
 open_project_id: ""
 project_title: Community Capacity enhancement  refresher trainings and onsite support visit
 project_objective: "There has been a peer review and onsite community-to-community exchanges aimed at generating an intensive co-learning opportunity in which communities share strengths, challenges, results, ways of working, and ways forward. CCE practitioners from Zambia and Senegal led and guided the exchange process"
@@ -19,7 +18,4 @@ partner_type:
   - national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The CCE-CC approach is outstanding and has been embraced in pilot communities with early signs of its potential to achieve great impact on transforming GEWE issues. CCE-CC facilitating organizations observed and reported positive changes in community perspectives and attitudes. The reported changes will have to be validated by in-depth interviews with more community members and others not involved in facilitating conversations.

@@ -1,5 +1,4 @@
 ---
-"11": "After the Lao initiative, the government agreed to develop two tools: 1) an investment database to enhance capacity for investment planning, monitoring and evaluation; and 2) a financial model to screen mining investment proposals for financial feasibility."
 open_project_id: ""
 project_title: Strengthening national capacities in investment planning and monitoring
 project_objective: Six Myanmar officials visited the Lao PDR to learn about national capacities in investment planning and monitoring.
@@ -20,7 +19,4 @@ partner_type:
   - national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+After the Lao initiative, the government agreed to develop two tools: 1) an investment database to enhance capacity for investment planning, monitoring and evaluation; and 2) a financial model to screen mining investment proposals for financial feasibility.

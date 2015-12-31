@@ -1,5 +1,4 @@
 ---
-"11": End of Conference Technical Report December 2014 (Draft)
 open_project_id: ""
 project_title: "International Conference of Local Authorities in Solidarity with the Palestinian People: Local Authorities at the Heart of the State of Palestine November 21-23, 2014"
 project_objective: "At the end of 2014, an international conference was co-organized by UNDP to discuss the role of Palestinian local authorities in participating in the Palestinian Statebuilding process and its sustainable development for the future. Over 230 representatives from 20 countries, both from the North and South participated in this three day event, where knowledge and capacities were shared and partnerships built."
@@ -18,7 +17,4 @@ partner_type:
   - national_governments
 published: true
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+End of Conference Technical Report December 2014 (Draft)
