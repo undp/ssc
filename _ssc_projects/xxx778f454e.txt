@@ -21,4 +21,4 @@ partner_type:
 - national_governments
 published: true
 ---
-c)	The TPS is the first of its kind in Zimbabwe and the results will provide a more accurate representative data to determine the true TB disease burden in the country and it will be used to inform proper planning and programming. During the mid-term review, the WHO External reviewers applauded the survey team for a good work done. The participation rate is fairly good (about 80%)
+c) The TPS is the first of its kind in Zimbabwe and the results will provide a more accurate representative data to determine the true TB disease burden in the country and it will be used to inform proper planning and programming. During the mid-term review, the WHO External reviewers applauded the survey team for a good work done. The participation rate is fairly good (about 80%)
