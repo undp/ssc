@@ -28,7 +28,7 @@ def load_content(filename)
 end
 
 def broken_content(content)
-  data = content[:data]
+  data = content.fetch(:data){[]}
   data.keys.include? "11"
 end
 
@@ -40,9 +40,7 @@ def fix_content(content)
 end
 
 def write_file(filename, content)
-  content = fix_content(content)
   File.open(File.join(ROOT_DIR, filename), 'w') do |file|
-    file << "---"
     file << YAML.dump(content[:data])
     file << "---\n"
     file << content[:body]
@@ -54,6 +52,7 @@ def process_all
   # for each
   count = 0
   project_filenames.each do |filename|
+    puts "doing #{filename}"
     content = load_content(filename)
     # check if broken
     if broken_content(content)
