@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+project_title: Capacity Building of SIDS Climate Change Negotiators
+project_objective: "Through establishing international partnerships, a curriculum was developed to strengthen the negotiating skills of the SIDS climate change negotiators and improve their understanding of the technical content of the UNFCCC negotiations and work programs. This year-long blended approach to learning concluded with a study tour hosted by the Singapore Cooperation Programme [E14;E37]."
+project_link: "https://info.undp.org/docs/pdc/Documents/BRB/13%2010%2010%20UNDP%20progress%20report%201st%20workshop.pdf"
+undp_role_type: 
+  - facilitator_of_partnerships
+thematic_focus: 
+  - resilience_building
+territorial_focus: 
+  - mic
+  - sids
+scale: global
+region: 
+  - lac
+country: 
+  - BRB
+partner_type: 
+  - national_governments
+published: false
+---
+
+The Alliance for Small Island States was able to use face-to-face instruction, e.g. NYC course to discuss common positions for the 2014/2015 climate change negotiations [E59].  A participant of the Singapore workshop also noted,"Participants worked together, to arrive at a point where national, regional and international interests converge to reach a mutual agreement." [E37]
