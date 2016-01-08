@@ -1,0 +1,22 @@
+---
+open_project_id: ""
+project_title: Exchange on human trafficking and smuggling investigations
+project_objective: "Representatives from the Bangladesh Police and the Ministries of Foreign Affairs and Planning and the Economic Relations Division undertook an exchange visit to the Human Trafficking Investigation and Protection Center in the Philippines. Effective techniques for investigating human trafficking and special transnational crimes were shared, as well as support mechanisms for women and child victims (with additional expertise from the Australian Federal Police)."
+project_link: "http://www.undp.org/content/dam/undp/documents/projects/BGD/PRP%20Annual%20Report%202013.pdf"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - inclusive_and_effective_democratic_governance
+territorial_focus: 
+  - ldc
+scale: regional
+region: 
+  - asia_pacific
+country: 
+  - BGD
+partner_type: 
+  - national_governments
+published: false
+---
+
+Key Ministries (including the Ministries of Home and Foreign Affairs) participated in a National Consultation on human trafficking. The Consultation prioritized developing ongoing cooperation mechanisms between SAARC countries (IOM/UNHCR 2014). The Bangladesh Police will convene a SAARC meeting in 2015 to strengthen regional cooperation in human trafficking investigations and prosecutions. This will draw on lessons learnt from Philippines and Australia.
