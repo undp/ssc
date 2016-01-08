@@ -1,0 +1,18 @@
+---
+open_project_id: ""
+project_title: ""
+project_objective: ""
+project_link: ""
+undp_role_type: null
+thematic_focus: null
+territorial_focus: null
+scale: global
+region: null
+country: null
+partner_type: null
+published: false
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
