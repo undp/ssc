@@ -1,15 +1,21 @@
 ---
 open_project_id: ""
-project_title: ""
-project_objective: ""
-project_link: ""
-undp_role_type: null
-thematic_focus: null
-territorial_focus: null
-scale: global
-region: null
-country: null
-partner_type: null
+project_title: Support to  Cotton Sector Development  BRA 12/002 Cotton 4
+project_objective: "In 2014, Cotton 4 project that  improved productivity of  cotton crop in Benin, Chad, Mali and Burkina Faso, initiated the  second phase, being extended to: i) Togo  ; ii) Lake Victoria Basin in Burundi, Uganda, Kenya and Tanzania and iii) Shire and  Zambeze Rivers in Malawi e Mozambique"
+project_link: "https://info.undp.org/docs/pdc/Documents/BRA/13-12-27MA_BRA09008%20Rev.%20Substantiva%2026-12-2013.pdf"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - sustainable_development_pathways
+territorial_focus: 
+  - mic
+scale: regional
+region: 
+  - lac
+country: 
+  - BRA
+partner_type: 
+  - national_governments
 published: false
 ---
 
