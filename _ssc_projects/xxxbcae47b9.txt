@@ -1,0 +1,23 @@
+---
+open_project_id: ""
+project_title: Project regarding the introduction of added value products in China.  Project was executed by PROMPERU (Peruvian Agency responsible of promoting tourism and Peruvian products)
+project_objective: "The initiative was created in order to study Chinese market in order to promote exports of fruits and vegetables from Peru, Colombia and Ecuador."
+project_link: "http://www.promperu.gob.pe/english/ppInstitucional.aspx"
+undp_role_type: 
+  - knowledge_broker
+thematic_focus: 
+  - sustainable_development_pathways
+territorial_focus: 
+  - mic
+scale: regional
+region: 
+  - lac
+country: 
+  - PER
+partner_type: 
+  - national_governments
+published: false
+---
+
+Study regarding Chinese Markets
+Project's Final Report
