@@ -4,16 +4,10 @@
     <% _.each(statArray.values, function(array){ %>
       <div
         class="bar-chart-element tooltip"
-        title='<%= array.long %> (<%= array.proportion %>%)' 
+        title='<%= array.long %> (<%= array.proportion %>%)'
         style='width: <%= array.proportion %>%; background-color: <%= array.colour %>'
       >
       </div>
     <% }) %>
-  </div>
-  <div class="block-detail-text">
-    <% var shorts = _.map(statArray.values, function(el){ %>
-      <% return el.long.slice(0,1) %>
-    <% }).join("  ") %>
-    <%= shorts %>
   </div>
 </div>
