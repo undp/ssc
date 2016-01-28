@@ -94,9 +94,9 @@ a.group-item[data-active-filter='true'] {
 }
 
 
-// 
+//
 // ProjectView
-// 
+//
 .project-details {
   height: 410px;
   overflow-y: scroll;
@@ -109,6 +109,10 @@ a.group-item[data-active-filter='true'] {
   background: rgb(221, 221, 221);
   padding: 5px;
   border: 1px solid rgb(215, 215, 215);
+}
+.project-id {
+  float: right;
+  color: rgb(220, 220, 220);
 }
 
 @media screen and (max-width: 767px) {

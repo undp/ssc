@@ -12,7 +12,7 @@
       <div class="detail-heading">Country</div>
       <div class="detail-content">
         <% _.each(project.country, function(item) { %>
-          <%= _.template.partial('filterItem', {item: item, type: 'country'}) %> 
+          <%= _.template.partial('filterItem', {item: item, type: 'country'}) %>
         <% }) %>
       </div>
     </div>
@@ -56,12 +56,12 @@
       <div class="detail-heading">Project objective</div>
       <div class="detail-content"><%= project.project_objective %></div>
     </div>
-    
-    <%= project.project_id %>
+
+    <small class='project-id'><%= project.project_id %></small>
     <% if(project.open_project_id != ""){ %>
 
       <div class="external-project-info">
-        <div class="detail-heading">Additional project information at <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a></div>        
+        <div class="detail-heading">Additional project information at <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a></div>
       </div>
       <iframe id='project_iframe' src="http://open.undp.org/embed.html#widget/project/<%= project.open_project_id %>?stats&documents&outputs" width="100%" height="200px" frameborder="0" marginheight="0" scrolling="no"></iframe>
     <% } else { %>

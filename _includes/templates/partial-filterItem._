@@ -4,6 +4,4 @@
     data-filter-value='<%= item %>'>
     <%= app.filters.nameFromShort(item)%>
   </a>
-<% } else { %>
-  n/a
 <% } %>

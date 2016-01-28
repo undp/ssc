@@ -11,8 +11,9 @@ app.checkCachedDataAndLaunch = ->  # Check whether cached data is up-to-date
 
   if Date.parse(cached_updated_at) >= Date.parse(updated_at)
     # No updated data available
+    console.info('Local launch')
     localLaunch(updated_at)
-  else 
+  else
     # Updated data available. Force retrieve from remote
     console.info 'Updating cached Projects data'
     remoteLaunch(updated_at)
@@ -38,7 +39,7 @@ remoteLaunch = (updated_at) ->
       localStorage.setItem('updated_at', updated_at)
       app.launch(app.projects)
   )
-  
+
 
 app.launch = (collection) ->
   app.state = new StateModel({}, collection: collection)
