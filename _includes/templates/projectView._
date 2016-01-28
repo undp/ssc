@@ -29,20 +29,26 @@
       </div>
     </div>
     <div class="detail-line">
+      <% if (!_.isEqual(project.thematic_focus, [''])) { %>
       <div class="detail-heading">Thematic focus</div>
       <div class="detail-content">
         <% _.each(project.thematic_focus, function(item) { %>
           <%= _.template.partial('filterItem', {item: item, type: 'thematic_focus'}) %>
         <% }) %>
       </div>
+      <% } %>
     </div>
     <div class="detail-line">
+      <% if (!_.isEqual(project.territorial_focus, ['none'])) { %>
+
       <div class="detail-heading">Territorial focus</div>
       <div class="detail-content">
         <% _.each(project.territorial_focus, function(item) { %>
+          <% if (item == 'none') return %>
           <%= _.template.partial('filterItem', {item: item, type: 'territorial_focus'}) %>
         <% }) %>
       </div>
+      <% } %>
     </div>
     <% if(project.project_link !== '') { %>
       <div class="detail-line">

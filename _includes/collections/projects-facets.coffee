@@ -13,9 +13,9 @@ ProjectsFacets =
   initializeFacets: (options) ->
     @listenTo @, 'reset', @_initializeFacetr
 
-  # 
+  #
   # Backbone.Facetr setup
-  # 
+  #
 
   _initializeFacetr: ->
     @facetr ||= Facetr(@, 'projects')
@@ -26,9 +26,9 @@ ProjectsFacets =
       @facetr.facet(type).desc()
 
 
-  # 
+  #
   # FACET ACTIONS
-  # 
+  #
 
   addFacet: (facetName, facetValue) ->
     @facetr.facet(facetName).value(facetValue, 'and')
@@ -40,9 +40,9 @@ ProjectsFacets =
     @facetr.clearValues()
 
 
-  # 
+  #
   # PRESENT FILTER GROUPS
-  # 
+  #
 
   presentFilterGroups: -> # TODO: @refac This is for display, so could be in a Presenter class/mixin
     @_sortFacetsByActiveCount()
@@ -61,7 +61,14 @@ ProjectsFacets =
       filterGroup = _.sortBy(filterGroup, 'long')
     else
       filterGroup = @_removeZeroActiveCount(filterGroup)
-    
+
+
+    # TODO: @temp_fix Removing 'None' in territorial_focus filter
+    if facetName == 'territorial_focus'
+      filterGroup = _.filter(filterGroup, (i) ->
+        i.value != 'none'
+      )
+
     # Convert values from short to long names
     _.map filterGroup, (filterItem) ->
       filterItem.long = app.filters.nameFromShort(filterItem.value)
@@ -75,9 +82,9 @@ ProjectsFacets =
     _.findWhere(facet, {value: facetValue.toLowerCase()})?.activeCount || 0
 
 
-  # 
+  #
   # FACET UTILITIES
-  # 
+  #
 
   _facets: -> @facetr.toJSON()
 
@@ -101,4 +108,3 @@ ProjectsFacets =
     _.filter(values, (i) ->
       i.activeCount > 0
     )
-

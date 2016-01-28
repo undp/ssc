@@ -118,10 +118,6 @@
       {
         "name": "High Income Countries",
         "short": "hic"
-      },
-      {
-        "name": "None or unknown",
-        "short": "none"
       }
     ]
   },
