@@ -1,0 +1,22 @@
+---
+open_project_id: "<%= project.open_project_id %>"
+thematic_focus: <% project.thematic_focus.split(',').each do |i| %>
+  - <%= i %><% end %>
+country: <% project.country.split(',').each do |i| %>
+  - <%= i %><% end %>
+region: 
+  - <%= project.region %>
+partner_type: <% project.partner_type.split(',').each do |i| %>
+  - <%= i %><% end %>
+project_title: <%= project.project_title %>
+scale: <%= project.scale %>
+project_objective: <%= project.project_objective %>
+territorial_focus: <% project.territorial_focus.split(',').each do |i| %>
+  - <%= i %><% end %>
+undp_role_type: <% project.undp_role_type.split(',').each do |i| %>
+  - <%= i %><% end %>
+project_link: <%= project.project_link %>
+published: true
+import_source: <%= project.import_source %>
+---
+<%= project.ssc_description %>
