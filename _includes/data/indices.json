@@ -13,7 +13,7 @@
       },
       {
         "name": "National governments",
-        "short": "national_governments"
+        "short": "government"
       },
       {
         "name": "Sub-national governments",
@@ -22,6 +22,10 @@
       {
         "name": "CSO",
         "short": "cso"
+      },
+      {
+        "name": "Research",
+        "short": "research"
       },
       {
         "name": "Academia",
@@ -83,15 +87,15 @@
     "values": [
       {
         "name": "Builder of capacities",
-        "short": "builder_of_capacities"
+        "short": "cb"
       },
       {
-        "name": "Knowledge broker",
-        "short": "knowledge_broker"
+        "name": "Knowledge sharing",
+        "short": "ks"
       },
       {
         "name": "Facilitator of partnerships",
-        "short": "facilitator_of_partnerships"
+        "short": "pf"
       }
     ]
   },
@@ -109,7 +113,7 @@
       },
       {
         "name": "Fragile States",
-        "short": "fragile_states"
+        "short": "fs"
       },
       {
         "name": "Least Developed Countries",
