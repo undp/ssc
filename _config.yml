@@ -5,7 +5,7 @@ editor:
   url: "http://prose.io"
 google_analytics_ua: UA-61266442-1
 baseurl: ""
-version: '1.5'
+version: '1.6'
 title: UNDP South South Cooperation
 domain: "http://www.undp-ssc-mapping.org"
 email: "js@ppls.io"
