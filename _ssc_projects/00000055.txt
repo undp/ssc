@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ZAF
+  -  TGO
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Mission d’échange sur les Expériences Togolaise Et Sud-Africaine Dans La Conduite de la Réconciliation Nationale
+scale: regional
+project_objective: Les visites avaient pour but de s’enquérir des expériences et bonnes pratiques en matière de processus de réconciliation nationale au Togo et en Afrique du sud. 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.mg.undp.org/content/madagascar/fr/home/operations/projects/democratic_governance/project_sample.html
+published: true
+import_source: 
+---
+Le PNUD a permis aux représentants des institutions nationales en charge de la réconciliation ont participé à ces échanges d'expériences. Les missions ont permis aux acteurs nationaux d’avoir une meilleure compréhension et une vision commune sur le processus de réconciliation nationale. Des réflexions sont engagées pour valoriser les expériences de ces deux pays,  en les adaptant au contexte de Madagascar.

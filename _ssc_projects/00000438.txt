@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - COL
+  -  ECU
+  -  PER
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Project regarding the introduction of added value products in China.  Project was executed by PROMPERU (Peruvian Agency responsible of promoting tourism and Peruvian products)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.promperu.gob.pe/english/ppInstitucional.aspx
+published: true
+import_source: 
+---
+Study regarding Chinese Markets Project's Final Report

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - KEN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Exchange mission between University of Rwanda and Kenyatta University for Human Development based planning and teaching facilitated by both bureaus of UNDP Rwanda and Kenya
+scale: country-country
+project_objective: The objective is knowledge and experience sharing on how the Human Development paradigm in national higher education curricula and planning
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.rw.undp.org/content/dam/rwanda/docs/Research%20and%20publications/Human%20development%20reports/UNDP_RW_NHDR-final-March%2031.pdf
+published: true
+import_source: 
+---
+UNDP is liaising with University of Rwanda for a swift follow up to implement key recommendations from the mission which includes an official negation with Pavia University in Italy. The university is the global pioneer of the Human Development and Cooperation network.

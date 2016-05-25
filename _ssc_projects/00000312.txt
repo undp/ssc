@@ -1,0 +1,32 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AFG
+  -  AZE
+  -  BLR
+  -  GEO
+  -  KAZ
+  -  KGZ
+  -  RUS
+  -  TJK
+  -  THA
+  -  TKM
+  -  UZB
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Round table -Effective public service delivery- (Baku, Azerbaijan, October 3) hosted by Civil Service Commission of Azerbaijan in cooperaion with Agency for Civil Service Affairs of Kazakhstan.
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.kz.undp.org/content/kazakhstan/en/home/operations/projects/democratic_governance/assistance-in-improving-the-system-of-provision-and-evaluation-o.html
+published: true
+import_source: 
+---
+The initiatives for 2014 were set according to the findings of the Baseline study 2013 following initatives were specified based on the findings of the study  • strategic state planning; • civil servants' performance appraisal; • anti-corruption policy (ethics and integrity); • e-government; The round table covered most of the priority topics set for this year.

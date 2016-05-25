@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - NPL
+region: 
+  - europe_cis
+partner_type: 
+  - private sector
+  -  government
+project_title: Visit from Nepal government Delegation - economic development and private sector support
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.ge.undp.org/content/georgia/en/home/presscenter/pressreleases/2014/12/18/from-georgia-to-nepal.html
+published: true
+import_source: 
+---
+The results in 2014 were limited to the introductory phase of the cooperation while it laid down the ground for further cooperation for developing new policies and schemes for support of private sector and VET. Evidence Nepmission. Webhttp//www.geotimes.ge/en/index.php/en/2014-05-06-22-51-46/home-today/item/1727-from-georgia-to-nepal

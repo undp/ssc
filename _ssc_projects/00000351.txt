@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - JOR
+  -  TJK
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: The study tour to Jordan to learn the experience of the National Committee for Demining and Rehabilitation of Jordan
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.jmu.edu/cisr/journal/15.1/feature/Shepp/shepp.shtml
+published: true
+import_source: 
+---
+The new obtained knowledge has strengthened the advocacy in favor of Tajikistan Joining to Convention on the Rights of Persons with Disabilities (CRPD) and were at the seminars conducted at the regional  (in Khujand, Gharm and Khorog) and national level (in Dushanbe).

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - SYR
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Rose Water distillation intervention
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.un.org.jo/sites/default/files/NRP.pdf;http//www.arabstates.undp.org/content/dam/rbas/doc/Energy%20and%20Environment/Arab_Water_Gov_Report/Arab_Water_Gov_Report_Full_Final_Nov_27.pdf
+published: true
+import_source: 
+---
+the initiative was adopted by the Ministry of Agriculture and a brochure was developed to raise awareness on the new intervention

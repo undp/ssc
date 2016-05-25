@@ -1,0 +1,40 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - AFG
+  -  BGD
+  -  BTN
+  -  KHM
+  -  IND
+  -  IDN
+  -  IRN
+  -  LAO
+  -  MYS
+  -  MDV
+  -  MUS
+  -  NPL
+  -  PAK
+  -  PNG
+  -  PHL
+  -  LKA
+  -  THA
+  -  TUN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Project on International Centre for Human Development (IC4HD)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.in.undp.org/content/india/en/home/operations/projects/human-development/the-international-centre-for-human-development.html
+published: true
+import_source: 
+---
+The IC4HD-supported training programme on Energy Access and Human Development for Africa has now been included as part of GoI’s Indian Technical and Economic Cooperation (ITEC) Programme that reaches out to more than 150 countries.

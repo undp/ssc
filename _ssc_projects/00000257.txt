@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - LBY
+  -  TUN
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Exchanges of Experience Between Libya and Tunisia Electoral Body
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ly.undp.org/content/libya/en/home/operations/projects/democratic_governance/project_sample3.html
+published: true
+import_source: 
+---
+Due to the crises, the impact for the initiative can not be measured at the current stage. However, in the future the initiative will contribute in realizing results.

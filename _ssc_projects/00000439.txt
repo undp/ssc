@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BOL
+  -  COL
+  -  ECU
+  -  PER
+  -  VEN
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Legal Services regarding people living with HIV and LGBT populations workshop.
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//aidforaids.org/aid-for-aids-hosts-series-of-workshops-for-beneficiaries-in-panama/;http//blog.iasociety.org/post/2014/06/13/The-Centre-for-the-Oversight-of-LGBT-and-HIV-Rights-in-Peru-a-strategy-to-improve-the-Situation-of-Human-Rights-of-Key-Affected-Populations.aspx
+published: true
+import_source: 
+---
+Workshop Report

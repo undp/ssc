@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BGD
+  -  CHN
+  -  NPL
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Visit by Nepalese team to China under "Sharing and Learning on Community Based Disaster Management in Asia (CBDM Asia)" project, China.
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.cn.undp.org/content/china/en/home/operations/projects/south-south-cooperation/overview-trilateral-cooperation-projects/sharing-and-learning-on-community-based-disaster-management-in-a.html
+published: true
+import_source: 
+---
+The new learning to the beneficiaries, stakeholders and UNDP staff was useful to implement community based disaster/climate risks initiatives more effectively in Chitwan, Sindhupalchowk, Dolakha, and Surkhet districts of Nepal.

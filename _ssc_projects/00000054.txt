@@ -1,0 +1,27 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - COM
+  -  FRA
+  -  MDG
+  -  MUS
+  -  SYC
+region: 
+  - africa
+partner_type: 
+  - cso
+project_title: Intégration du Réseau MAD AIDS et de AFEP (Association des femmes positives), membre de MAD AIDS de Madagascar dans le réseau Ravane Océan Indien et Femmes Océan Indien Positives
+scale: regional
+project_objective: L'object du project est le partage des informations, données et expériences pour lutter contre le VIH/SIDA dans l’Océan Indien. En plus de l'organisation du voyage, l'appui du PNUD a consisté entre autre i) à mettre en relation les OSC malgaches et les réseaux en question, ii) a former les OSC malgaches sur des thèmes tels que le rôle des OSC dans la lutte contre le VIH, la discrimination et la stigmatisation pour un leur permettre de participer activement aux activités des réseaux.
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.mg.undp.org/content/madagascar/fr/home/operations/projects/hiv_aids/project_sample.html
+published: true
+import_source: 
+---
+Le PNUD a permis aux associations de femmes de bénéficier de suivi médicaux gratuits pour lesquels les analyses sont faites à la Réunion.

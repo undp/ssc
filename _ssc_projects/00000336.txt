@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ROU
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Workshop on Legislative techniques and Legal Approximation
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/MDA/DPB_EN_NarrativeReport2013_Joint%20final_JH%2014-1-2014%20(15%2001).docx
+published: true
+import_source: 
+---
+The capacities of parliamentary staff to apply different legislative techniques increased (Workshop evaluation forms)

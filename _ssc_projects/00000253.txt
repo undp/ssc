@@ -1,0 +1,27 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ITA
+  -  LBN
+  -  QAT
+  -  RUS
+  -  ARE
+  -  USA
+region: 
+  - arab_states
+partner_type: 
+  - cso
+project_title: Dar al-Athar al-Islamiyyah (DAI) Training of national staff in renovation and restoration of Kuwait Museums
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//open.undp.org/#project/00058304
+published: true
+import_source: 
+---
+An external evaluation was commissioned and carried out by the  National Council for Culture, Arts and Letters in 2014

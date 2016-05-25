@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - GIN
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: 00080714 RCC - Apoyada la gestion del conocimiento en respuesta al VIH en Republica Dominicana y Programa multi-pais del Fondo Mundial, para Asia-Pacifico y en recuperación temprana en respuesta a la Epidemia de Ebola, bajo Equipo SURGE de Naciones Unidas, en Guinea Conakri.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/undp/documents/iati_xml/CO_2014/Cuba_projects.xml
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias, expertos  y el encuentro entre las partes interesadas. Enviada al Fondo Mundial nueva nota conceptual del nuevo Mecanismo de Financiamiento del Fondo Mundial en Republica Dominicana e implementados sistema de reportes financieros para sub-receptores del Programa multi-pais del Fondo Mundial, para la region Asia-Pacifico. Mejorada la capacidad tecnica de respuesta a la epidemia de Ebola en Guinea-Conakri.

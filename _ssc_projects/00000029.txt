@@ -1,0 +1,27 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - COM
+  -  MDV
+  -  MUS
+  -  STP
+  -  SYC
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Gestion integree des ressources en eau et la gestion de l’eau residuelle
+scale: global 
+project_objective: L’objet de ce projet est d’instaurer une gestion intégrée, solidaire et durable des ressources en eau à travers le renforcement des capacités des différents acteurs et à l’adaptation des instruments juridiques et institutionnels actuellement en place
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.un.cv/agency-undp.php
+published: true
+import_source: 
+---
+Le PNUD a soutenu la participation des techniciens de la D.G de l’environnement, ainsi bien que de l’Agence Nationale d’Eau et assainissement aux différentes séances d’échange et partage technique tenus lors des réunions des comités techniques et régionales. Ainsi, les actions sur le projet démonstratif ont avancé avec le diagnostic du système de traitement de l’eau résiduelle et des recommandations pour son amélioration.

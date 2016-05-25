@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BDI
+  -  CHN
+  -  MWI
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Africa Umbrella Trilateral Cooperation Programme
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.undp.org/content/dam/china/docs/Publications/UNDP-CH-SSC-SSC%202013%20Highlights.pdf
+published: true
+import_source: 
+---
+Although the projects have not begun implementation yet, the evidence that this initiative contributed to result such as building trust and an enduring partnership with MOFCOM is the $1 million contribution provided by MOFCOM in December 2014 for additional trilateral cooperation projects.

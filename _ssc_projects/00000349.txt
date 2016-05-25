@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ARM
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: East-East workshop in Belgrade in April 2014
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: https//prezi.com/qugqaf1z7g0i/undp-workshop-on-advancing-east-east-cooperation-15-16-april-2014-belgrade-serbia/
+published: true
+import_source: 
+---
+Moldova, Armenia and Serbia developed joint programme (Youth Bridge) for DGTTF submission. The objective is to build coalitions of youth organizations to crowdsource, pitch their ideas/causes on the open space platforms for possible solutions for increased transparency and accountability in the respective sectors

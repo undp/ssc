@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BGD
+  -  CHN
+  -  NPL
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Sharing learning on Disaster Risk Reduction (DRR) and Climate Change Adaptation (CCA)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//6thamcdrr-thailand.net/6thamcdrr/Portals/0/FINAL-6%20AMC%20Consolidated%20background%20document%20version%2009%20June-clean-for%20design-sent%20to%20DDPM-12%20june%20.pdf
+published: true
+import_source: 
+---
+Bangladesh and China established a multi-year partnership to exchange knowledge and practices on DRR and CC, opening new avenues for bilateral cooperation (China Plan 2013-15). The 6th Asian Ministerial Conference on DRRs established a declaration to integrate DRR and CCA into sustainable development goals and to strengthen regional cooperation (CBDM Eval 2014).

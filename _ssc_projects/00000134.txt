@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - AFG
+  -  TJK
+region: 
+  - asia_pacific
+partner_type: 
+  - cso
+  -  government
+  -  private sector
+project_title: Livelihood Improvement in Tajik-Afghan Cross-border Areas (LITACA)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - PF
+project_link: https//info.undp.org/docs/pdc/Documents/TJK/00080167_ProDoc_2014-2017_00089951_00089982_LITACA_eng.pdf
+published: true
+import_source: 
+---
+As this is a new initiative, 2014 work focus was on preparations and  the initiative  reached milestones but  no results achieved at this stage.  The project conducted Training Needs Assessments and also reviewed the District Development Plans for the three targeted districts as ground work for its development interventions.

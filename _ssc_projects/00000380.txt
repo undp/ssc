@@ -1,0 +1,31 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BEN
+  -  BFA
+  -  BDI
+  -  TCD
+  -  KEN
+  -  MLI
+  -  TZA
+  -  TGO
+  -  UGA
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Support to  Cotton Sector Development  BRA 12/002 Cotton 4
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: https//info.undp.org/docs/pdc/Documents/BRA/13-12-27MA_BRA09008%20Rev.%20Substantiva%2026-12-2013.pdf
+published: true
+import_source: 
+---
+(https//www.embrapa.br/cotton-4-togo); (http//www.abc.gov.br/imprensa/mostrarnoticia/575.)

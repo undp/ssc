@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ETH
+  -  GIN
+  -  RWA
+  -  TZA
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: The project “Training of Maize Breeding Experts for the Effective Use of Maize Genetic Resources in Developing Countries”, co-supported by PGTF and the government of DPR Korea, supported capacity building of total 35 maize breeding experts in Ethiopia, Tanzania, Rwanda and Guinea by DPRK trainers.
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.g77.org/pgtf/finalrpt/INT-07-K04-FinalReport.pdf
+published: true
+import_source: 
+---
+The result of evaluation which was exercised by using the Participant Training Evaluation Forms after each of the training workshop showed that the total of 35 maize breeding experts in Ethiopia, Tanzania, Rwanda and Guinea were well benefited from the training workshops facilitated by the trainers from the Academy of Agricultural Science in DPRK.

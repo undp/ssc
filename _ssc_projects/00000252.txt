@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BIH
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Independent Election Commission of Jordan visits Bosnia and Herzegovina to observe elections 16 October 2014
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//open.undp.org/#project/00068722
+published: true
+import_source: 
+---
+The IEC team proposed in their back to office reports measures to adjust internal practices of the IEC based on the knowledge gained during the study tour.

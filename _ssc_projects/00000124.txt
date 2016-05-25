@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BWA
+  -  NAM
+  -  ZMB
+  -  ZWE
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: China-Zambia South-South Cooperation on Renewable Energy
+scale: regional
+project_objective: Objective of the project  integrate HIV and related gender aspects into capital projects using Environmental Assessments (EAs) as entry points.  
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//open.undp.org/#project/00084596;http//open.undp.org/#project/00084596
+published: true
+import_source: 
+---
+UNDP facilitated parnterhisp between Zambia and China to promote renewable energy (RE) technologies. Zambia will be supplied with appropriate technologies in RE while China will learn from Zambia how to provide technical assistance for capacity development which could be replicated in other developing countries. As a result of partnership the exchange expert missions between China and Zambia enabled China to plan effectively for the transfer of RE technologies while Zambia learnt from china what technologies were available and appropriate for Zambia. This exchange resulted in development of a project that meets both countries needs in terms of technologies and providing capacity development. The funding for implementing this initiative is from the Government of Denmark.

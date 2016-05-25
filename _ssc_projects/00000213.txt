@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BGD
+  -  CHN
+  -  NPL
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Visit under "Sharing and Learning on Community Based Disaster Management in Asia (CBDM Asia)" project, China
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.cn.undp.org/content/china/en/home/operations/projects/south-south-cooperation/overview-trilateral-cooperation-projects/sharing-and-learning-on-community-based-disaster-management-in-a.html
+published: true
+import_source: 
+---
+The mission team shared about research initiatives under the CDBD Asia project and its linkage to fulfill research needs on flash flood and other disaster risk management in Nepal and Bangladesh. The mission team was briefed on different issues and initiatives being taken by the Government of Nepal and research needs as well. The team visited communities at Maadi, Chitwan district as well to interact with the communities for exploring future needs and priorities.

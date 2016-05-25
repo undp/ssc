@@ -1,0 +1,29 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BWA
+  -  LSO
+  -  MOZ
+  -  NAM
+  -  ZAF
+  -  SWZ
+  -  ZMB
+region: 
+  - africa
+partner_type: 
+  - cso
+  -  government
+project_title: Southern Africa Regional Exchange Platform on the role of Dialogue for Inclusive community Peace and Reconciliation in Southern Africa
+scale: regional
+project_objective: The objective of the workshop is knowledge and experience exchange on the role of community dialogue for peace and reconciliation
+territorial_focus: 
+  - FS
+undp_role_type: 
+  - KS
+project_link: http//www.accord.org.za/
+published: true
+import_source: 
+---
+During the regional dialogue, the operationalization of the NPRC was presented as one of the most critical process to be achieved in Zimbabwe, along with all the ongoing efforts of national and community work. Acknowledging the importance of existing platform provided by ACCORD and ECLF, efforts were made to continuously encourage and foster regional coordination and promote knowledge sharing. As a result a follow-up knowledge exchange has been planned for 2015.

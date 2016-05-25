@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - COL
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: 00088474 Proyecto Agrocadenas - Apoyada la gestion del conocimiento en genero a traves de la  presentacion de la experiencia cubana del Sistema de  Gestion de Calidad con Equidad de Genero (IGECSA) en el II Foro Regional de Empresas por la Igualdad de Genero, en Colombia.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.cu.undp.org/content/cuba/es/home/library/womens_empowerment/folletoIGECSAcuba.html
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias y el encuentro entre las partes interesadas. Socializada la experiencia Cubana del Sistema de  Gestion de Calidad con Equidad de Genero (IGECSA), entre actores de Empresas publicas y privadas y seleccionada como iniciativa destacada en el Foro.

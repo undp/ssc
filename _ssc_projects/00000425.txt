@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MEX
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: UN/Mexican Government Coordination Initiative de led by AMEXCID and UNDP
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: http//en.sre.gob.mx/index.php/archived-press-releases/2831-amexcid-and-undp--mexico-join-forces-to-strengthen-south-south-cooperation
+published: true
+import_source: 
+---
+Based on this initiative, the SSC interagency group began working in February to coordinate UN support to the SSC in Mexico . AMEXCID and UNDP launched a publication entitled “Towards a global development partnership the UN and South-South cooperation in Mexico”  - identifying the inherent strengths and weakness of UN support, the methodology of which has served for systemizing all joint work. UNDP also supported UNFPA and UN Women in their efforts to develop closer ties with AMEXCID.

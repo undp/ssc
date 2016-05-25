@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BRA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Renforcement des capacités des Cours de Comptes
+scale: country-country
+project_objective: L'objectif est la  promotion des échanges d’expériences avec paires visant le renforcement des Cour des Comptes.
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - CB
+project_link: http//www.undp.org/content/dam/undp/documents/iati_xml/CO/CO_RBA_CPV_projects.xml
+published: true
+import_source: 
+---
+2 auditeurs généraux formateurs en diagnostique de capacités et planification stratégique pour le contrôle externe des comptes publiques;

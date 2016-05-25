@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - GEO
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Learning visit on agriculture extension and vocational education
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.ge.undp.org/content/georgia/en/home/presscenter/pressreleases/2014/12/18/from-georgia-to-nepal.html
+published: true
+import_source: 
+---
+Since this visit took place in mid-December, we are yet to see its contribution. Nevertheless, as a result, government of Nepal is partnering with UNDP to strengthen policy environment, harmonization and  coordination in the area of TVET.

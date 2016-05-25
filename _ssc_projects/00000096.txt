@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - UGA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Study Exchange between the Ugandan Electoral Commission and the National Electoral Commission (NEC) of Sierra Leone
+scale: country-country
+project_objective: The objective of the project is knowledge and experience sharing on Political Participation of Persons with Disabilities with a view to sustained relationship on capacity support and information exchange on electoral management.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.nec-sierraleone.org/index_files/ANNUAL%20REPORT/Annual%20Report%202014.pdf
+published: true
+import_source: 
+---
+The National Electoral Commission of Sierra Leone is working to mainstream disability at all levels and across all processes in the electoral management (National Electoral Commission, Annual Report 2014).

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MEX
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Support Agency "Horizon 2020 Equatorial Guinea"
+scale: country-country
+project_objective: The  objective of the project provide technical and financial support to the Government of Equatorial Guinea in the implementation of the "National Plan for Economic and Social Development, Horizon 2020". Is expected to improve the living conditions of the population through the formulation, adoption and application effectiveness of the National Strategy for Poverty Reduction.
+territorial_focus: 
+  - MIC
+  -  LDC
+undp_role_type: 
+  - KS
+project_link: http//open.undp.org/#project/00059852
+published: true
+import_source: 
+---
+UNDP provided a high-level technical advice for drafting the country's new National Poverty Profile to the Ministry of Economics and Planning by the National Statistics Institute of Mexico, in which UNDP facilitated. As a result of the knowlege exhcnage and capacity building provided by the Mexican counterparts, the Equatorial Guinea was able to prepare all of the needed  technical documentation, including a very detailed road map for undertaking its new poverty strategy. 

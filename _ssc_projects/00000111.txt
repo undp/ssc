@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - KEN
+  -  UGA
+region: 
+  - africa
+partner_type: 
+  - cso
+  -  government
+  -  private sector
+project_title: Learning management and technology for Fish farming (caging and ponds) between the Bunda district staff, CSO and Private Sector in Tz and Uganda/Kenya Govt; and again JKT-Govt Tz and Uganda Govt.
+scale: regional
+project_objective: The objective of the project is capacity building on management and technology for Fish farming (caging and ponds)
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.unpei.org/what-we-do/pei-countries/tanzania;https//www.dropbox.com/s/x0g0nqrt38h0jcd/Final_Study%20visit%20report260314_NO_PHOTO_comments-2.doc?dl=0
+published: true
+import_source: 
+---
+UNDP supported the launch of the initiative by the Minister at Bulamba JKT along the Lake PEI Tanzania Annual report 2014; 

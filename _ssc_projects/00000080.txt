@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - SEN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Voyage d’études au Sénégal au profit des experts du projet Africa Adaptation Programme (AAP) 2
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience en matière d’assurance climatique
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.ne.undp.org/content/niger/fr/home/operations/projects/environment_and_energy/programme-africain-dadaptation-0.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu l'organisation d'un voyage d’étude les cadres nigériens qui leur a permis de mieux comprendre les méthodes utilisées au Sénégal par le projet d’assurance indicielle agricole pour identifier et choisir les sites d’intervention et collecter les données de base. Grâce aux leçons apprises le Niger a mieux préparé son projet pilote d’assurance climatique indicielle contre la sècheresse, en adoptant une méthodologie similaire d’identification des sites de mise en œuvre du projet et de meilleurs moyens de collecter les données.

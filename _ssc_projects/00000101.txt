@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - TLS
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Stratégie de co-financement pour la mise en œuvre du Programme de Réforme de la Justice
+scale: country-country
+project_objective: L'objectif de ce project est le renforcement des capacités en techniques d’investigation et d’approche policières.
+territorial_focus: 
+  - SIDS
+  -  LDC
+undp_role_type: 
+  - KS
+project_link: http//www.st.undp.org/content/saotome_and_principe/fr/home/operations/projects/democratic_governance/reforme-de-la-justice.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu la signature d'un Le Mémorandum entre STP et TL dans le domaine du Programme de la réforme de la justice

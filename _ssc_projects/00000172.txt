@@ -1,0 +1,42 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BHR
+  -  BGD
+  -  BTN
+  -  BRA
+  -  CAN
+  -  ECU
+  -  ETH
+  -  GHA
+  -  IND
+  -  JPN
+  -  MYS
+  -  NPL
+  -  PER
+  -  SEN
+  -  SGP
+  -  LKA
+  -  TZA
+  -  THA
+  -  TTO
+  -  GBR
+  -  URY
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: International Symposium on Excellence in Public Service and Public Administration
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.in.undp.org/content/india/en/home/presscenter/articles/2014/10/07/international-symposium-on-excellence-in-public-service-public-a.html
+published: true
+import_source: 
+---
+Knowledge Network established for all participants and to continue to share exchanges between participating countries.

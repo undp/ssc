@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - UKR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Support to Ukraine Ombudsperson visit to Georgia
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.ua.undp.org/content/ukraine/en/home/presscenter/articles/2014/11/21/national-human-rights-institutions-of-ukraine-and-georgia-sharing-experiences.html
+published: true
+import_source: 
+---
+The Government of Ukraine actively works on elaboration/adoption of national human rights strategy

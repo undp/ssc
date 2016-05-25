@@ -1,0 +1,32 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - DOM
+region: 
+  - lac
+partner_type: 
+  - government
+  -  government
+  -  government
+  -  cso
+  -  government
+  -  private sector
+  -  academia
+  -  cso
+  -  government
+  -  private sector
+  -  academia
+project_title: Intercambio de experiencias exitosas en estimación de costos en la industria eléctrica
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/VEN/CI%20013%20MPPEE%202014%20Metodolog%C3%ADa%20CORPOELEC%20v5%201.pdf
+published: true
+import_source: 
+---
+El PNUD en Cuba facilitó el intercambio de experiencias y el encuentro entre las partes interesadas a través de las oficinas de PNUD en RD. La incorporación de los elementos identificados en la base de datos de costos de inversión establecida y en el modelo estructural denominado “Unidades Constructivas Estándares” UCEs, para valorizar los activos

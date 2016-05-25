@@ -1,0 +1,35 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ARG
+  -  BRA
+  -  CHL
+  -  COL
+  -  CRI
+  -  ECU
+  -  GTM
+  -  GUY
+  -  HND
+  -  MEX
+  -  PAN
+  -  PRY
+  -  PER
+  -  SUR
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Desarrollo de Estrategias Nacionales REDD+ en el marco del programa ONU-REDD
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.ec.undp.org/content/ecuador/es/home/presscenter/articles/2014/07/30/ecuador-es-sede-del-primer-encuentro-regional-sobre-desarrollo-de-estrategias-nacionales-redd-.html
+published: true
+import_source: 
+---
+El PNUD en Ecuador tuvo el rol de broker de conocimiento y organizador del encuentro regional sobre Desarrollo de Estrategias Nacionales REDD+ en 2014. como resultado se generó el Reporte Tecnico Intercambio Sur-Sur Region de Latinoamerica y el Caribe; el Desarrollo de Estrategias REDD; Programa ONUREDD

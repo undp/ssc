@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - KAZ
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Knowledge and experience exchange with Kazakhstan in the area of energy efficiency.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//open.undp.org/#project/00061054
+published: true
+import_source: 
+---
+not evident at this stage

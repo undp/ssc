@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - RWA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: La gestion et la préservation des eaux dans le bassin du lac Kivu et de la rivière Ruzizi
+scale: country-country
+project_objective: L'objectif de ce atelier est d'établir une coopération régionale entre le Burundi, la RDC et le Rwanda pour assurer la pérennité de ces ressources naturelles essentielles  l’eau, la forêt et la biodiversité. Et à terme, éviter la guerre de l’eau.
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - CB
+  -  PF
+project_link: http//www.adiac-congo.com/content/atelier-labakir-et-pnud-preoccupes-par-la-gestion-des-eaux-du-lac-kivu-et-de-la-riviere;http//www.undp.org/content/dam/dem_rep_congo/docs/pressrelease/UNDP-CD-Communiqu%C3%A9%20de%20presse%20conjoint-Atelier%20A%20BAKIR-PNUD-Goma-oct-2014.doc/_jcr_content/renditions/page.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu l'organisation d'un  atelier de développement du projet sur « la gestion et la préservation des eaux dans le bassin du lac Kivu et de la rivière Ruzizi » et d'un conseil des ministres de l’Auttorite du bassin du Lac Kivu et de la riviere Ruzizi (Abakir) qui ont endossé le mardi 4 octobre 2014 à Kinshasa la convention internationale relative a la gestion intégrée des ressources en eau de ce bassin. Ce qui permet de fixer des mesures appropriées et de fixer des règles communes pour la régulation des activités anthropiques et endogènes au Lac Kivu.

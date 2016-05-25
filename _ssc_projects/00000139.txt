@@ -1,0 +1,28 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AFG
+  -  BGD
+  -  IND
+  -  NPL
+  -  PAK
+  -  LKA
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Integrating Regional Human Rights Mechanism through the South Asian Association for Regional Cooperation (SAARC)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//documents.jdsupra.com/7193cd55-1008-469b-9de0-bf34a8776084.pdf
+published: true
+import_source: 
+---
+The National Human Rights Institutions of the SAARC member states issued the Dhaka Declaration 2014, a joint call to establish a robust South Asia Human Rights monitoring mechanism modelled on the UN Human Rights Council Universal Periodic Review. The Declaration also promotes the ongoing exchange of tested and best practices and provides a clear roadmap towards a Regional Human Rights Mechanism for SAARC countries. (Declaration 2014).

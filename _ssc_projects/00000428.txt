@@ -1,0 +1,29 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BOL
+  -  COL
+  -  CRI
+  -  ECU
+  -  GTM
+  -  MEX
+  -  NIC
+  -  PAN
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Best Practices for Access to Electoral Justice and the promotion of  a Culture of Legality (The Federal Electoral, TEPJF)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.thefreelibrary.com/Buenas+prEicticas+para+el+acceso+a+la+justicia+electoral+y+el+fomento...-a0412219476
+published: true
+import_source: 
+---
+UNDP Mexico organized consultations with experts on indigenous peoples from countries in the region to identify best practices in the area of electoral justice and select outstanding examples to then incorporate or enhance them as part of a strategy to be developed with the Electoral Tribunal.   Based on this input, an institutional model is being created that will enable the TEPJF to enhance its role as guarantor of political electoral rights for indigenous communities (E86 PNUD).

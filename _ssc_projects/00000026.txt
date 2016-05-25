@@ -1,0 +1,32 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - GRD
+  -  VCT
+  -  MDV
+  -  MHL
+  -  VCT
+  -  LCA
+  -  WSM
+  -  STP
+  -  SYC
+  -  SLB
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: SIDS DOCK
+scale: global 
+project_objective: L’objectif est de mobiliser les fonds pour la promotion de l’énergie renouvelable d’ici à 2033, et renforcer la capacité des PEID à travailler ensembles de manière coordonnée.  
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//sidsdock.org/
+published: true
+import_source: 
+---
+Le PNUD a facilité la participation de Cabo Verde à la Conference International de SIDS- SAMO. Une présentation des initiatives de projets pour financement à travers le mécanisme SIDS DOCK sur la base des réflexions, échanges et partage d'expériences a été faite.

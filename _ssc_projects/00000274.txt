@@ -1,0 +1,27 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BEL
+  -  CAN
+  -  CHL
+  -  FRA
+  -  MAR
+region: 
+  - arab_states
+partner_type: 
+  - cso
+project_title: Projet d appui au processus constitutionnel, au developpement parlementaire et au dialogue national en Tunisie.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//open.undp.org/#project/00064278
+published: true
+import_source: 
+---
+• Maroc et Union Interparlementaire  expertise internationale sur le cadre juridique garantissant la mise en œuvre de l’autonomie administrative et financiere du parlement tunisien. • 4 femmes deputees a l Assemblee nationale francaise lois relatives a l egalite, le renforcement du role des femmes et des legislations recentes en France pour lutter contre la violence domestique • 4 fonctionnaires parlementaires seniors formes par le Parlement canadien.

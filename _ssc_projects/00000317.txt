@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - TJK
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Providing Technical Support to Improve Sanitary, Phytosanitary, and Veterinary Safety, Including the Work Towards Kyrgyzstan’s Accession to the Customs Union
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.kg.undp.org/content/kyrgyzstan/en/home/presscenter/pressreleases/2014/08/25/strengthening-health-phytosanitary-and-veterinary-safety-towards-international-standards.html
+published: true
+import_source: 
+---
+Technical consultations organized, scoping exercise completed for a full-scale project that can potentially be funded from the grant that Russia had allocated to Kyrgyzstan as technical assistance for Customs Union accession. The knowledge and experience sharing on sanitary, phytosanitary and veterinary standards in Kyrgyzstan has been adapted for implementation in Tajikistan. Project funded by Russia

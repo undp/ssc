@@ -1,0 +1,27 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - GTM
+  -  KEN
+  -  MAR
+  -  PER
+  -  POL
+  -  ZAF
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Renforcement des capacites des commissaires de l’Instance verite et dignite (IVD) a travers l’echange d’experiences avec d’autres pays ayant mise en œuvre des processus de justice transitionnelle.
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: http//open.undp.org/#project/00080346
+published: true
+import_source: 
+---
+Ces activites ont permis aux membres de l’IVD d’enrichir et de finaliser les principaux travaux preparatoires necessaires a la realisation de leurs missions, notamment le reglement interieur, le plan d’action et leur budget. Tous ces travaux etaient acheves avant le 10 decembre, date butoir etablie par la loi organique sur la justice transitionnelle de decembre 2013.

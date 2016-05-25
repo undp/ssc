@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MKD
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Business-to Business meetings
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.mk.undp.org/content/the_former_yugoslav_republic_of_macedonia/en/home/presscenter/articles/2014/07/17/award-for-best-practice-in-inter-municipal-cooperation-given-to-the-vardar-planning-region-s-network-for-inclusive-development.html
+published: true
+import_source: 
+---
+The initiative fed directly in the achievemnts of the UNDP supported Inclusive Network of the Vardar Planning Region, part of the UNDP Local Development Programme. The results can be verified in the records of the council of the planning region.

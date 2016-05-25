@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - POL
+region: 
+  - europe_cis
+partner_type: 
+  - private sector
+  -  government
+project_title: Improving local capacity to promote and sustain entrepreneurship and SMEs development in Chernobyl affected territories by transferring best practices and experience of using smart instruments for boosting business (joint initiative of UNDP Ukraine and Polish Agency for Enterprise Development)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.ua.undp.org/content/ukraine/en/home/presscenter/articles/2014/10/10/new-project-to-promote-entrepreneurship-and-smes-development-in-chernobyl-affected-territories.html
+published: true
+import_source: 
+---
+Decisions on establishment of 3 Business Information Points taken by the local authorities of 3 small towns in the rural part of Ukraine after the start of the initiative proved the success and importance of the ‘neighbor’s’  experience transfer both for public institutions as well as for private sector (SMEs)

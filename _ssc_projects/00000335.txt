@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - POL
+  -  MDA
+  -  UKR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Development of the economic potential of the Euroregion Dniester promoting  transborder cooperation between neighboring communities in Ukraine and Moldova, including its Transnistrian region
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/eu-border-assistance-mission-to-moldova-and-ukraine-.html
+published: true
+import_source: 
+---
+The initiative managed to develop considerable interest with the local authorities in both countries to deepen cross-border cooperation (see declarations in the Newsletter no. 5 http//dniester.eu/en/article/1179 ) and enabled a participatory process that is currently being finalized into a strategic document for the economic development of the region

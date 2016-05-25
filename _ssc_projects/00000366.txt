@@ -1,0 +1,30 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ARM
+  -  BLR
+  -  KAZ
+  -  KGZ
+  -  MDA
+  -  RUS
+  -  TJK
+  -  TKM
+  -  UZB
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Thematic meeting on implementation of HCFC Phase-out Management Plans in Dushanbe, Tajikistan
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.unep.org/ozonaction/ecanetwork/Portals/138/documents/7703-Info_note_Thematic_Meeting_HPMP_Tajikistan.pdf
+published: true
+import_source: 
+---
+Meeting's Resolution and Regional Action Plan

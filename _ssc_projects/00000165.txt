@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - IDN
+  -  MAR
+  -  MMR
+  -  UZB
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Ensuring Provision of Support to South-South and Triangular Cooperation (Strengthening Innovative Partnership for Development Cooperation Project, SIPDC 67418)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.undp.org/content/dam/undp/documents/projects/IDN/2014%2004%2016%20QMR3%20and%20IPAR%20SIPDC_Q3%202013_rev140407.pdf
+published: true
+import_source: 
+---
+The stocktaking exercise on the country’s international development cooperation produced recommendations that were adopted in the draft National Medium Term Development Plan 2015-2019 (E45 RPJMN 2015-19 Book II; E109 SSTC Review). The NCT-SSTC Secretariat has improved coordination by having better information and knowledge sharing among members with well documented follow-up actions. It has become the hub for SSTC initiatives for development partners.

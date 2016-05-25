@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: 2nd High-Level Policy Forum on Global Governance
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.cn.undp.org/content/china/en/home/presscenter/speeches/2014/10/remarks-on-2nd-high-level-policy-forum-on-global-governance.html
+published: true
+import_source: 
+---
+The Forum resulted in high-level interest and engagement from both UNDP Headquarters and the Chinese government on global issues, and also addressed the issue of the voice of the South in global economic governance while directly contributing to the international debate and the corporate positioning of UNDP regarding this important topic.

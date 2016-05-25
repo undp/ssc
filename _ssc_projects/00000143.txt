@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BGD
+  -  NPL
+  -  ZAF
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Establishing a rights-based life-cycle approach to social protection
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/bangladesh/docs/Publications/Pub-2014/UNDP%20annual%20report%202013_v28.pdf
+published: true
+import_source: 
+---
+Bangladesh is finalizing its National Social Security Strategy. The Strategy provides a right-based life-cycle approach to social protection, reflecting the strategies and lessons from South Africa and Nepal (Draft NSSS 2014; SP in BGD 2014; SP Paper 2014). Bangladesh exchange visit participants played a leadership role in finalizing and generating national consensus on key Strategy elements (Minutes 2014).

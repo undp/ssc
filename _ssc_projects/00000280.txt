@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - JOR
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Emergency Capacity Development Facility
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ye.undp.org/content/yemen/en/home/operations/projects/democratic_governance/emergency-capacity-development-facility-project.html
+published: true
+import_source: 
+---
+As the Ministry of Interior of Yemen recently underwent a restructuring, the learning experience and pairing the their Jordanian counterparts contributed to the introduction of new working modalities and procedures and established a mentoring system whereby Yemenis official can refer to their Jordanian colleagues for advice and sharing of experiences as needed

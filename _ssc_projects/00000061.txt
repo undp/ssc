@@ -1,0 +1,28 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - MWI
+  -  MOZ
+  -  NGA
+  -  TZA
+  -  UGA
+  -  ZMB
+  -  ZWE
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Africa Regional Platform on Disaster Risk Reduction (DRR)
+scale: regional
+project_objective: The objective of the 5th regional platform was to review the progress of DRR in Africa and consolidate the African contribution to the post-2015 framework for DRR towards eradicating poverty in Africa. 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.unisdr.org/we/inform/events/35308
+published: true
+import_source: 
+---
+UNDP supported the platform, which underscored Mozambique leadership in the continent on DRR and recommended Mozambique as one of the 5 selected countries to pilot proposed SDGs, Hyogo Framework of Action 2 indicators and targets to ascertain their feasibility. As a follow up, a consultation workshop was held by HQ in Maputo with participants from the main line ministers to discuss on those frameworks, development of indicators and enhanced understanding of the nexus between disaster risk and development process.

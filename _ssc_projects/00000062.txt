@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - GHA
+  -  MAR
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Echange de coopération Sud-Sud avec le Maroc pour la mise en place de la base de données pour le casier judiciaire, la Matrice de comptabilité sociale; ainsi qu'avec le Ghana pour la mise en œuvre du Cadre d'accélération de l'OMD5
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience dans la mise en place de la base de données pour le casier judiciaire, la Matrice de comptabilité sociale, et la mise en œuvre du Cadre d'accélération de l'OMD5
+territorial_focus: 
+  -  LDC
+undp_role_type: 
+  - CB
+project_link: http//www.mr.undp.org/content/mauritania/fr/home/presscenter/articles/2015/04/09/le-pnud-appuie-la-mise-en-uvre-du-cadre-d-acc-l-ration-de-l-omd-5-relatif-l-am-lioration-de-la-sant-maternelle-en-mauritanie/
+published: true
+import_source: 
+---
+Le PNUD a soutenu la mise en place de la MCS à partir de l’ébauche faite par les marocains; les structures en charge du suivi des OMD et de la santé de la mère et de enfant ont élaboré un plan d’action tire de l’expérience ghanéenne

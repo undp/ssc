@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ALB
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: The Active Labour Market Programmes Project  The main focus of the project is to strengthen the capacities of the local and central institutions to provide employment services, providing them with tools and mechanisms and support them on evidence based decision making
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ks.undp.org/content/kosovo/en/home/operations/projects/poverty_reduction/ALMP.html
+published: true
+import_source: 
+---
+UNDP supported capacity building of Kosovo institutions to design strategic documents and policies and  providing training and internship opportunities to Kosovo citizens, mainly young people

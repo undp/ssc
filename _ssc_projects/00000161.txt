@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - FJI
+  -  KIR
+  -  WSM
+  -  TUV
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: 1) Tuvalu National Adaptation Plan of Action (NAPA) 1- South South cooperation on Coastal Adaptation through Environmental Impact Assessment  and  2) Training and Knowledge Sharing on Fish Aggregation Devices -NAPA 2
+scale: regional
+project_objective: 
+territorial_focus: 
+  - SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.fj.undp.org/content/fiji/en/home/operations/projects/environment_and_energy/Tuv_NAPA.html
+published: true
+import_source: 
+---
+1) Tuvalu communities better informed and gained better understanding of coastal adaptation that actually worked on neighbouring island nations 2)The FAD training resulted in the construction and deployment of two Fish Aggregating Devices for Funafuti. The SPC and Department of Fishery have planned for follow up training in second quarter 2015 –fishing techniques around FADS and maintenance.

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - JOR
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Exchange of knowledge and best practices
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.sd.undp.org/content/sudan/en/home/operations/projects/democratic_governance/strengthening-the-capacity-of-the-sudan-national-human-rights-co.html
+published: true
+import_source: 
+---
+The exchange visit, which took place in Nov 2014,  has informed the Sudan national Human Rights Commission approach to protection prison inmates.

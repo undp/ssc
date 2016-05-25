@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+  -  ZMB
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: China-Zambia South-South Cooperation on Renewable Energy Technology Transfer
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.cn.undp.org/content/china/en/home/operations/projects/south-south-cooperation/overview-trilateral-cooperation-projects/china--zambia-undp-trilateral-cooperation.html
+published: true
+import_source: 
+---
+The project formulation was ended with an official submission to the Danish Government in may 2014. This was followed by an approval and the signing of a cost share agreement between the Danish Embassy in Beijing and UNDP China. In August 2014 the Project documents for the Chinese sub-project were signed in China.

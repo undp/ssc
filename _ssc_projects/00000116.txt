@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ETH
+  -  NPL
+  -  NGA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Regional DRR Platform and Integrated Climate Risk management Programme
+scale: regional
+project_objective: The objective project is learning and experience sharing on DRM, particularly, on the areas of tapping parliamentary support, climate change and adaptation and building community resilience.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.undp-alm.org/projects/dc-uganda-tacc
+published: true
+import_source: 
+---
+UNDP supported this initiative. It has provided knowledge and skills in the development of the DRM Act which is now being reviewed by the National Platform for DRR.

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MEX
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Visita de Bolivia a  México  Oficial Mayor de Promoción Económica Sr. Francisco Balderrama Coordinadora del Programa Lourdes Carvajal Socio Rolando Saunero  FUNDAPRO Junio 2014
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//http//www.latinamerica.undp.org/content/rblac/es/home/ourperspective/ourperspectivearticles/2014/09/12/experiencias-compartidas-en-cooperacion-sur-sur-marcan-la-diferencia-lourdes-carvajal
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias y el encuentro entre las partes interesadas. A partir de los insumos y experiencias de este intercambio, se está en proceso de implementación un modelo de incubación – aceleración de empresas en el Gobierno Municipal de La Paz [Coop Sur Sur 2014]

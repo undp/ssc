@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CRI
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: 00088474 Proyecto Agrocadenas - Apoyo al acceso a redes regionales del conocimiento  sobre encadenamientos productivos y cadenas de valor, para fortalecimiento de cadenas productivas alimentarias claves (frijoles, maiz , carne, leche vacuna)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/CUB/Revision%20Sustantiva%20No.2.AGROCADENAS.pdf
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias y el encuentro entre las partes interesadas a través de las oficinas de PNUD Costa Rica. Así mimso contribuyó al desarrollo de capacidades y al fortalecimiento institucional de los Actores nacionales y locales los cuales ahora cuentan con conocimientos actualizados especializados en cadenas productivas (mejor articulacion de eslabones), asi como en politicas sectoriales, tecnologias de produccion, manejo post-cosecha, comercializacion, almacenamiento. Esto impactara su capacidad para implementar las 4 cadenas claves.

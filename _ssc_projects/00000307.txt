@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - TUR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Implementation of UN Convention on the Rights of Persons with Disabilities.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.tr.undp.org/content/turkey/en/home/operations/projects/poverty_reduction/support-to-the-implementation-and-monitoring-of-the-un-conventio.html
+published: true
+import_source: 
+---
+no evidence

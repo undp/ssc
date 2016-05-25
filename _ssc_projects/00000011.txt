@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ISL
+  -  IND
+  -  IDN
+  -  IRN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Voyage d’étude de la Mauritanie sur le Programme  National de Volontariat du Burkina (PNVB)
+scale: country-country
+project_objective: L'objectif du voyage d’etude est d’échanger sur l'experience de la gestion du Programme  National de Volontariat du Burkina pour s’inspirer de l’experience du Burkina sur sa mise en œuvre et son ancrage institutionnel. 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.fasovolontariat.bf/
+published: true
+import_source: 
+---
+Le PNUD a facilité l'accord entre les deux Etats afin d'organiser une visite des autorites du burkina faso en Mauritanie pour renforcer les echanges et developper un accord cadre de cooperation sur le PNVB. 

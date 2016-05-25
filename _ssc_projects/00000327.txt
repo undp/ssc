@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - GEO
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Internship of two advisers from the Parliament Committee on National Security to the Parliament of Georgia
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/support-to-justice-sector-reform-.html
+published: true
+import_source: 
+---
+The Parliament Committe on National Security organised 2 public hearings and 3 fact finding filed visits to get first-hand information on the progress of the security sector reform (http//www.parlament.md/…/Page/0/language/ro-RO/Default.aspx)

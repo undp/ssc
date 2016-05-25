@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - FSM
+  -  MHL
+  -  PLW
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Sharing of best practices from Palau Renewable Energy Subsidy Program and the Renewable Energy Fund Window
+scale: regional
+project_objective: 
+territorial_focus: 
+  - SIDS
+undp_role_type: 
+  - KS
+project_link: http//erc.undp.org/evaluationadmin/downloaddocument.html?docid=8434
+published: true
+import_source: 
+---
+Strong buy-in from Development Bank in the Marshall  to establish a Renewable Energy (RE) subsidy programme, with support from UNDP and other partners. Contract was signed between the Government and the Marshall Islands Development Bank (MIDB)  to establish a seed fund for the purchase of viable RE products to be made available to consumers.  Training  for local financial institutions on how to develop a RE & Energy Efficiency loan scheme was done that went a long way in effective implementation

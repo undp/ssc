@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - IDN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Knowledge sharing on Recovery Planning (with ASEAN member States)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.mm.undp.org/content/dam/myanmar/docs/Publications/UNDP_MM_AnnualReport2013.pdf
+published: true
+import_source: 
+---
+Representatives of the Myanmar Government learned about best practices through sharing experiences with representatives from ASEAN countries. These knowledge gains will be reflected in the ASEAN Recovery guidelines which the Myanmar Government is developing as chair of the ASEAN.

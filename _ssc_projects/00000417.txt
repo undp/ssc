@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ARG
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Projet ProHuerta
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - SIDS
+  -  LDC
+  -  FS
+undp_role_type: 
+  - PF
+project_link: http//www.ht.undp.org/content/haiti/fr/home/operations/projects/poverty_reduction/elargissement-de-prohuerta-haiti-avec-lunasur.html
+published: true
+import_source: 
+---
+En el contexto del proyecto Prohuerta-Haití la oficina de país de Haiti facilito el intermcabio de experiencias, el encuentro entre las partes interesadas y la implementación del proyecto.   Le rapport trimestriel au bailleur rapporte les résultats suivants de l’initiative  Une centaine de jardins potagers mis en place dans les communautés et pour lesquels les semences ont été distribuées. Formation de promoteurs sur la gestion des jardins potagers, des semences et la génération de semences locales.

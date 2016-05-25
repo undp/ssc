@@ -1,0 +1,31 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BHR
+  -  EGY
+  -  KWT
+  -  LBN
+  -  LBY
+  -  QAT
+  -  SDN
+  -  YEM
+region: 
+  - arab_states
+partner_type: 
+  - cso
+  -  academia
+project_title: Regional consultation and CDA Observatory
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ly.undp.org/content/libya/en/home/operations/projects/democratic_governance/project_sample31.html
+published: true
+import_source: 
+---
+The objectives of the consultation was to discuss the different best practices in the region and globally; to discuss partnership modalities with national institutions, academic institutions, civil society groups, donors, and the media; to discuss a strategy for networking as well as exchange of experiences regionally and globally. The Libyan participants gained experience from other countries and  working  through CSOs encouraging women's wider participation in political process.

@@ -1,0 +1,30 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BOL
+  -  COL
+  -  CRI
+  -  DOM
+  -  ECU
+  -  SLV
+  -  GTM
+  -  PRY
+  -  VEN
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Quinto Encuentro de Magistradas Electorales de Iberoamerica
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.slideshare.net/roxanasilvach/declaratoria-de-el-salvador-2
+published: true
+import_source: 
+---
+El PNUD tuvo el rol de broker de conocmiento y facilitó el intercambio de experiencias así como en el encuentro entre los interesados. Se generaron acuerdos entre magistradas de organismos electorales con los cuales se buscará profundizar la participación política de las mujeres 

@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - CHN
+  -  MUS
+  -  ZAF
+  -  ARE
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Preparation of strategy document for the establishment of Special Economic Zones (SEZ)
+scale: country-country
+project_objective: The objective of the project is knowledge and experience sharing on Special Economic Zones (SEZ)
+territorial_focus: 
+  - FS
+undp_role_type: 
+  - KS
+project_link: http//www.zw.undp.org/content/zimbabwe/en/home/presscenter/articles/2014/04/20/special-economic-zones-to-the-rescue.html
+published: true
+import_source: 
+---
+This was followed up by a UNDP supported retreat for the production of a strategy paper for SEZs. Experiences from the South presented at the high level seminar were utilized in the design of the strategy for Zimbabwe. Strategy Paper on Special Economic Zones produced and submitted to the Minister of Finance and Cabinet paper on Special Economic Zones was submitted and approved. The initiative was reflected in the Budget Statement 2015.

@@ -1,0 +1,29 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AFG
+  -  BGD
+  -  BTN
+  -  IND
+  -  MDV
+  -  NPL
+  -  PAK
+  -  LKA
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: South Asia Regional Exchange Meeting of Women Parliamentarians
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/pakistan/docs/Democratic%20Governance/Strengthening%20Democracy/South%20Asia%20Regional%20Exchange%20Meeting%20-%20Joint%20Resolution.pdf;http//www.pk.undp.org/content/pakistan/en/home/presscenter/pressreleases/2014/07/17/women-parliamentarians-agree-on-resolutions-to-improve-leadership-and-political-opportunities-for-women.html
+published: true
+import_source: 
+---
+The initiative provided an opportunity for women lawmakers from all the four provincial assemblies to participate in the regional meeting  and  share and learn about new ideas in terms of promoting women entrepreneurship especially on a small-scale. It is envisaged that the participants shall work for promotion of the new ideas to benefit their constituents—the ordinary women. Immediate outcome of the initiative can however not be measured within the timespan of a few months.

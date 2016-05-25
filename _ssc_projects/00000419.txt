@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHL
+  -  PER
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Study Tour on Social Protection and Poverty for the Government of Jamaica (GOJ) in Peru and Chile in cooperation with the International Policy Centre for Inclusive Growth (IPC-IG)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.ipc-undp.org/pub/eng/IPC_IG_Activity_Report_2014.pdf
+published: true
+import_source: 
+---
+PIOJ met Chilean and Peruvian senior officials/management personnel from various Government agencies and was given presentations/field visits in management information systems, active labour market policies/programmes and cash/in-kind benefit transfer programmes. A Policy Brief on the Tour’s best practices is being developed as well as an online discussion forum on Best Practices & Institutional Frameworks for Poverty Reduction. A debriefing session with stakeholders is scheduled 1st qtr 2015

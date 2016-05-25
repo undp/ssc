@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ROU
+  -  UKR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Improving the Financial Sustainability of the Carpathian System of Protected Areas
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//www.thegef.org/gef/sites/thegef.org/files/repository/Romania_10-19-09_ID3849_Improving_Financial_Sustainability_Carpathian_Syst.pdf
+published: true
+import_source: 
+---
+Financial analysis models and on-line PAs training modules were disseminated in the region, and supported other Carpathian countries (including Ukraine) to improve their protected areas governance; these products are hosted online by the Carpathian Network of Protected Areas (under the Carpathian Convention) and have reached over 200 people and over 60 participated in the online training courses.

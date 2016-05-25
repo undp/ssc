@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - SEN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Mission d’échange de deux membres du réseau citoyen pour la transparence budgétaire du Sénégal au Mali
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience sur le dispositif organisationnel, opérationnel, les relations avec l’exécutif et le parlement ainsi que avec les organes de contrôle, les mécanismes de financement, les modalités de coopération entre réseaux de l’espace de l’Union Economique Monétaire Ouest Africaine. 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//web.undp.org/drylands/docs/DGNR-French.pdf
+published: true
+import_source: 
+---
+Le PNUD a soutenu les Termes de référence et Rapport de mission de la délégation du Sénégal

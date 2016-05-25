@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BRA
+  -  PRY
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: INTERCAMBIO DE BUENAS PRACTICAS ENTRE LA SECRETARIA DE EMERGENCIA NACIONAL DEL GOBIERNO DE PARAGUAY Y EL CENTRO NACIONAL DE MONITOREO DE ALERTAS DEL GOBIERNO DE BRASIL (CEMADEN)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.sen.gov.py/noticia/183-sen-y-dinac-trabajan-con-planes-de-optimizar-el-sistema-de-alerta-temprana.html#.VLe0nyuG8wE
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias, expertos  y el encuentro entre las partes interesadas. Como resultado del trabajo realizado por equipos de la SEN, la Direccion de Meteorologia e Hidrologia de Paraguay y CEMADEN  se definieron propuestas tecnicas con la finalidad de ser analizadas y tomar decisiones politicas que respalden su implementacion para el mejoramiento y la consolidacion del sistema de alerta temprana en Paraguay. 

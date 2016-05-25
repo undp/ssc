@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AFG
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: UNDP Co provided technical support to UNDP Afghanistan in the development of a Concept Note (CN) for the Malaria Global Fund New Funding Model (NFM)
+scale: country-country
+project_objective: The objective of the project is capacity building and technical support in  developing a Concept Note (CN) for the Malaria Global Fund New Funding Model (NFM)
+territorial_focus: 
+  - FS
+undp_role_type: 
+  - KS
+project_link: http//www.undp-globalfund-capacitydevelopment.org/media/405185/zimbabwe_nfm_experience_-_14_june_2013.pdf
+published: true
+import_source: 
+---
+Following the quality technical inputs provided by the UNDP Zimbabwe CO, the Afghanistan’s CN was successfully submitted to the Global Fund and is awaiting TRP comments

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - TGO
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Visite de la délégation togolaise à Madagascar dans le cadre de la mise en place de la base de données sur la gestion des aides (AMP). Le PNUD a aidé la partie malgache à la préparation technique de la mission (le contenu de la mission).
+scale: country-country
+project_objective: L’objectif est le renforcement des capacités de le délégation togolaise dans la gestion de la base de données sur le suivi des aides
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.mg.undp.org/content/madagascar/fr/home/operations/projects/poverty_reduction/appui-a-la-finance-inclusive.html
+published: true
+import_source: 
+---
+Le PNUD a permis que le Togo beneficie des experiences malgaches .

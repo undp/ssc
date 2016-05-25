@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+  -  RUS
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Partnership between Russian testing labs and Beijing Lighting Testing Laboratory for cross verification/testing of energy efficient light bulbs (CFLs and LED) initiated and facilitated by the Russian UNDP/GEF EE Lighting project
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: https//www.thegef.org/gef/sites/thegef.org/files/publication/Complete%20EnlightenToolkit_1.pdf
+published: true
+import_source: 
+---
+The initiative directly contributes to strengthening the market of EE lighting through increased capacities of the testing laboratories. The evidence of immediate relevance is the willingness of direct beneficiaries - Russian and Chinese laboratories to continue the collaboration through an adjusted approach to cross-testing. Indirect beneficiaries - the manufacturers and consumers of the EE light bulbs will potentially benefit from reduced access to market of low quality inefficient bulbs

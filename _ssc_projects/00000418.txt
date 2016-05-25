@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - DOM
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Atelier Binational (Haïti -  Républiques Dominicaine) sur la Tuberculose transfrontalière
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - SIDS
+  -  LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.paho.org/hai/index2.php?option=com_docman&task=doc_view&gid=841&Itemid=222
+published: true
+import_source: 
+---
+Las oficinas de país de Haiti y Republica Dominicana desarrollaron conjuntamente su rol de agentes facilitadores y desarrolladores de capacidades en el programa binacional de lucha contra la Tuberculosos. La Républiques Dominicaine a partagé un manuel de formation pour les accompagnateurs des patients tuberculeux.  Ce document a servi de référence au programme national de lutte contre la Tuberculose Haïtien pour mettre à jour les normes nationales de prise en charge de la maladie.

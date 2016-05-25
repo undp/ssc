@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ECU
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Presentacion de sus resultados y productos del conocimiento en Plataforma Regional para la Reduccion de Riesgos de Desastres, Guayaquil, Ecuador
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.latinamerica.undp.org/content/rblac/es/home/presscenter/articles/2014/05/29/el-pnud-promueve-nuevos-compromisos-para-la-reducci-n-de-riesgo-de-desastres-en-am-rica-latina-y-el-caribe.html
+published: true
+import_source: 
+---
+Difundidos y socializados mensajes claves sobre Sistemas de Alerta Temprana y recuperacion post - desastres. A partir del alto interes mostrado por la audiencia al foro, se han mantenido los contactos para continuar la asesoria sobre los temas y la posible inclusion en futuras acciones conjuntas.

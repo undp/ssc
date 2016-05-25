@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MRT
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Programme Ecovillages
+scale: country-country
+project_objective: L’initiative a pour objectif de capitaliser les leçons d’expériences du concept Ecovillage au profit des pays couverts par la Grande Muraille Verte
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.ecovillages.sn/
+published: true
+import_source: 
+---
+Le PNUD a soutenu ce projet dont les résultats enregistrés par le Sénégal dans l'opérationnalisation du concept d'Eco villages (création d’une agence dédiée, 10 Eco villages existants) ont inspiré la Mauritanie à mener une visite d’échange au Sénégal. Par ailleurs, le sommet mondial des Ecovillages de Dakar en 2014 a été une opportunité d’échange entre le Sénégal et d'autres pays.

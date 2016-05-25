@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - NPL
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Nepal Government study visit to Timor-Leste on Peace-building and social cohesion initiatives
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - SIDS
+  -  LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//reliefweb.int/report/timor-leste/nepalese-government-officials-visit-timor-leste-study-country-s-peace-building;http//www.tl.undp.org/content/timor_leste/en/home/presscenter/pressreleases/2013/07/26/mss-leaders-return-from-study-tour-of-nepal.html
+published: true
+import_source: 
+---
+This visit is a second visit conducted by government of Nepal and some follow up such as curriculum development and ToT will be implemented through TL National Training Institution in 2015.

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - LAO
+  -  VNM
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Studying agricultural climate change adaptation practice with selected adaptive crops and varieties
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.la.undp.org/content/lao_pdr/en/home/operations/projects/environment_and_energy/IRAS.html
+published: true
+import_source: 
+---
+Knowledge gained on new adaptation technologies in vegetable production have been integrated into climate resilient farming practices which have started to rolling out in 2014 and will continue into 2015 in a drought prone and a flood prone area (IRAS APRR).

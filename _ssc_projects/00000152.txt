@@ -1,0 +1,28 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - CHN
+  -  EGY
+  -  NPL
+  -  SYC
+region: 
+  - asia_pacific
+partner_type: 
+  - cso
+  -  government
+  -  private sector
+project_title: South-South Cooperation on Climate Change Forum
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//climate-l.iisd.org/events/international-conference-on-south-south-cooperation-on-climate-change/
+published: true
+import_source: 
+---
+The Forum focused on three main aspects of SSC (a) the basic value proposition and importance of South-South cooperation, (b) the enablers and constraints for South-South cooperation, and (c) the options and mechanisms for South-South cooperation. The Forum is contributing to  a successful post-2015 climate agreement by promoting South-South Cooperation as an integral part of global action on combating climate change.

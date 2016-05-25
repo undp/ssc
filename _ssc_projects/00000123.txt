@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - GIN
+  -  LBR
+  -  SLE
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Building national and local capacity for the treatment of healthcare waste in countries impacted by the Ebola epidemic
+scale: global 
+project_objective: The project aims at building national and local capacity and skills for the treatment of healthcare waste in countries impacted by the Ebola epidemic 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.undp.org/content/undp/en/home/presscenter/pressreleases/2014/12/22/sierra-leone-undp-begin-eco-friendly-disposal-of-ebola-medical-waste-.html
+published: true
+import_source: 
+---
+UNDP in partnership with WHO, NGO Health Care without Harm with the support of the Goverment of South Africa developed Autoclaves  through the GEF programme which were deployed with UNDP’s financial and logistical support to Guinea, Liberia and Sierra Leone to safely dispose medical waste.

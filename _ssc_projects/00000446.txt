@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - CRI
+  -  SLV
+region: 
+  - lac
+partner_type: 
+  - private sector
+project_title: Promoción y restablecimiento del derecho a la salud, protección social y laboral de trabajadoras y trabajadores del sector privado
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.sv.undp.org/content/dam/el_salvador/docs/odms/ES.AgendaPost2015.ConsultasLocalizacion_SV.pdf
+published: true
+import_source: 
+---
+El PNUD tuvo el rol de broker de conocmiento y facilitó el intercambio de experiencias así como en el encuentro entre los interesados. Algunos de los mecanismos de la Caja Costarricense del Seguro Social están sirviendo de análisis para que el ISSS adapte en sus procedimientos institucionales en virtud de consecución de un mecanismos más afinado, consensuado y discutido con el sector privado, para restablecer el derecho a la salud de las y los trabajadores.

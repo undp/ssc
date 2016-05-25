@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AUS
+  -  BGD
+  -  PHL
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Exchange on human trafficking and smuggling investigations
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/undp/documents/projects/BGD/PRP%20Annual%20Report%202013.pdf
+published: true
+import_source: 
+---
+Key Ministries (including the Ministries of Home and Foreign Affairs) participated in a National Consultation on human trafficking. The Consultation prioritized developing ongoing cooperation mechanisms between SAARC countries (IOM/UNHCR 2014). The Bangladesh Police will convene a SAARC meeting in 2015 to strengthen regional cooperation in human trafficking investigations and prosecutions. This will draw on lessons learnt from Philippines and Australia.

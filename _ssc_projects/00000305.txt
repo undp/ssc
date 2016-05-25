@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - EST
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Visits of Georgian Ministry of Interior and Revenue Service officials to Estonia and Latvia on border management issues
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//bpg.gov.ge/en/border-police/international-cooperation
+published: true
+import_source: 
+---
+Migration Department was created within the Ministry of Interior of Georgia and the Illegal Migrants Detention Center was opened in October 2014. On-the-job and advanced training topics are planned in 2015 curriculum

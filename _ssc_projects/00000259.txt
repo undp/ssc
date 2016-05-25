@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MAR
+  -  TUN
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Visite d’étude de l’Instance Verité et Dignité (Tunisie) au Maroc
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/TUN/Rapport%20final%20PIP%20JT_vf.pdf
+published: true
+import_source: 
+---
+cet échange fut une occasion d'apprentissage de l'IVD suceptible d'etre réinvestie dans l'opartionnalisation et la mise en oeuvre du procesus de la justice transitionnelles en Tunisie; étant donné l'expérince confirmée du Maroc en la matière.

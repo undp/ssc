@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - HND
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Viaje de estudios del gobierno central y de municipios hondureños para recoger experiencias sobre la promoción de la seguridad ciudadana utilizando la metodologia CPTED.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/undp/documents/projects/HND/Attachment%20Modif%203%20(2)%20USAID.pdf;https//info.undp.org/docs/pdc/Documents/HND/00050266%20Semiannual%20Report%20-%20Period%20October%202014-March%202015%20and%20Annex%20period%20April-June%202015.docx
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias como facilitador del encuentro entre delegados por los gobiernos. El Gobierno de Honduras y el Gobierno de Chile están en conversaciones para sistematizar intercambios en tema de seguridad ciudadana con el apoyo de USAID y las oficinas de país de PNUD en Chile y Honduras.

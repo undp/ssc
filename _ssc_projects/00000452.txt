@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MEX
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Proyecto marco de apoyo a la estrategia de Cooperacion Sur Sur  a través del apoyo a iniciativas de cooperacion tecnica especificas, en el marco de acuerdos de cooperacion bilateral suscritos por el Gobierno (AUCI)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.uy.undp.org/content/uruguay/es/home/presscenter/articles/2014/12/02/evaluan-resultados-de-desarrollo-del-programa-de-pa-s-del-pnud-uruguay.html
+published: true
+import_source: 
+---
+La oficina PNUD en Uruguay tuvo el rol de broker de conomiento, y socio facilitador con la AUCI. Resultado Diez proyectos de cooperacion conjunta fueron implementados, y otros diez seleccionados en el marco de una segunda convocatoria 2014/2015.

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BGD
+  -  CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: China-Bangladesh Urban Solutions Lab
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.cn.undp.org/content/china/en/home/presscenter/articles/2014/08/china-bangladesh-cooperation--using-design-thinking-for-urban-so.html
+published: true
+import_source: 
+---
+Preliminary designs of a one-stop service centre and testing of the design through the prototype method were completed in Bangladesh. The methodology was acknowledged as robust and is being codified to be used in conducting such S-S exchanges in the future.

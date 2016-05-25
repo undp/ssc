@@ -1,0 +1,29 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BEN
+  -  BFA
+  -  CIV
+  -  MLI
+  -  MRT
+  -  NER
+  -  SEN
+  -  TGO
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Cadre de concertation des Secrétariats Exécutifs/Secrétariats Permanents CNLS de la zone UEMOA et de la Mauritanie.
+scale: regional
+project_objective: L'objectif général de contribuer à la mise en œuvre du CSLS 2011-2015 à travers un appui institutionnel au SP/CNLS-IST par le renforcement de ses capacités de coordination aussi bien au niveau central qu’au niveau régional. Il prend en compte les impératifs de l’accélération de l’atteinte des objectifs du Millénaire pour le développement, l’égalité de genre et les droits humains.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.bf.undp.org/content/burkina_faso/fr/home/operations/projects/hiv_aids/spcnls.html;http//www.cnls.bf/index.php/component/k2/item/56-dispositif-de-mise-en-oeuvre-de-la-lutte?tmpl=component&print=1
+published: true
+import_source: 
+---
+Le PNUD a soutenu les activités qui ont permis de jeter les bases de la préparation  (note technique, détermination des thèmes,…) de la rencontre de concertation de l’ensemble des pays membres de cette initiative qui était été  prévue pour le mois de septembre 2014. Malheureusement celle-ci a été reportée en 2015 du fait de la crise de l’épidémie à virus Ebola.

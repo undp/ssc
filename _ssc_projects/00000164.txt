@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - WSM
+  -  TON
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Training of Tonga Electoral Commission on civic education and electoral administration
+scale: regional
+project_objective: 
+territorial_focus: 
+  - SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.fj.undp.org/content/fiji/en/home/presscenter/pressreleases/2014/07/23/elections-training-for-women-candidates-in-tonga.html
+published: true
+import_source: 
+---
+The November general elections were managed peacefully with a voter turnout of 76.8%.

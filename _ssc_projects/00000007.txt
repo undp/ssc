@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BEN
+  -  KEN
+  -  NLD
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Visite de systèmes d’alerte précoce existants et fonctionnels au Kenya
+scale: country-country
+project_objective: L'objectif du project est de renforcer les capacités de surveillance météorologique, climatique, hydrologique et océanologique ainsi que les systèmes d'alerte précoce et d’information climatique en vue de faire face aux extrêmes hydrométéorologiques et planifier l'adaptation au changement climatique au Bénin. L’objectif principal de la mission est de visiter et prendre connaissance du fonctionnement et des différentes composantes des systèmes d’alerte précoce au Kenya.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: http//nouvelle-expression.net/?p=4249
+published: true
+import_source: 
+---
+Le PNUD a facilité les échanges des experiences qui ont permis de renforcer les capacites des structures nationales intervenant dans la mise en place du SAP. Elles ont permis mettre en place un SAP transitoire pour la gestion des inondations de 2014 a travers  La couverture nationale pour la surveillance du climat / meteo s est amelioree de 26% passant de 30% a 56%  La periodicite de collecte et de transmission des donnees des stations difficilement mensuelle au depart est devenue quotidienne de facon assuree.

@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MDG
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Développement de la recherche sur le Eulemur Mongoz dans le cadre de la mise en œuvre du programme sur les aires protégées en Union des Comores.
+scale: country-country
+project_objective: L'objectif du projet est de definir les axes de partenariats et de collaboration technique pour le developpement et la mise en œuvre d’un programme de protection de l Eulemur mongoz en Union des Comores en vue de sa conservation in situ ainsi que sa valorisation en tant que partie integrante du potentiel eco touristique.
+territorial_focus: 
+  - SIDS
+  -  LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//daharicomores.org/nos-actions/conservation/#;http//www.lemurreserve.org/mongooselemur.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu la mission effectueequi  a permis d etablir une feuille de route pour l etablissement d un partenariat entre les acteurs nationaux et internationaux concernes par programme de protection de l Eulemur mongoz ainsi que  leurs roles respectifs, et une meilleure comprehension par les acteurs nationaux des enjeux lies au programme de protection de l Eulemur Mongoz - definir les modalites de collaboration technique entre le Groupe d Experts pour la Recherche sur les Primates et les acteurs locaux

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MEX
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: AMEXCID-UNDP Cooperation Program
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: http//en.sre.gob.mx/index.php/archived-press-releases/2831-amexcid-and-undp--mexico-join-forces-to-strengthen-south-south-cooperation
+published: true
+import_source: 
+---
+In order to achieve AMEXCID’s institutional strengthening, the Project was supported for the launching of the CID National Registry (RENCID) through capacity-building workshops (with the participation of more than 100 officials from 22 different Government agencies and entities), the publication and dissemination of teaching materials, public awareness videos and tutorials that have facilitated effective use of the platform (E81 PNUD).

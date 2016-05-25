@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - KGZ
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Study Tour to Kyrgyzstan
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.am.undp.org/content/armenia/en/home/operations/projects/environment_and_energy/clima-east-pilot-project-.html
+published: true
+import_source: 
+---
+UNDP facilitated the exchange of knowledge, which resulted in a Developed Pasture Management Concept Design as basis for the pasture rehabilitation pilots in Armenia.

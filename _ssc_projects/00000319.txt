@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ALB
+  -  NPL
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Diaspora Engagement for Economic Development  The DEED programme is jointly implemented by the United Nations Development Programme (UNDP) and the International Organization for Migration (IOM).
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ks.undp.org/content/kosovo/en/home/operations/projects/poverty_reduction/DEED.html
+published: true
+import_source: 
+---
+http//medrks-gov.net/ministry-diaspora-establishes-first-student-youth-network-austria/?lang=en http//medrks-gov.net/network-albanian-businesses-italy-slovenia-croatia/?lang=en http//medrks-gov.net/was-established-the-network-of-diaspora-businesses-in-germany/?lang=en http//deed-ks.org/index.php/2014/186-meeting-in-pogradec-on-the-national-plan-on-economic-zones-for-kosovo http//deed-ks.org/index.php/2014/17-deed-sharing-its-successes-with-its-neighbours

@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - AFG
+  -  IND
+  -  PAK
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Exposure visits for Kandahar and Helmand SMEs under Rural Enterprise Development Programme.
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/afghanistan/docs/Reports/RED-Helmand-APR-2013.pdf;http//www.undp.org/content/dam/afghanistan/docs/Reports/REDKAN-APR-2013.pdf
+published: true
+import_source: 
+---
+NA

@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BRA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Inclusion Social des jeunes
+scale: country-country
+project_objective: L'objectif du project est de renforcer le partenariat Sus-Sud en faveur deux projets axés sur les jeunes, l'un au Brésil et l'autre au Cap-Vert, en Afrique.
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.un.cv/agency-undp.php
+published: true
+import_source: 
+---
+Le PNUD a soutenu la formation de 4 ONGs nationales en matière d’intervention communautaire et auprès de jeunes, par le transfert de technologie sociale (coopération Sud-Sud), notamment à travers 4 missions des 9 spécialistes d´AfroReggae durant 1 mois, et une formation intensive sur l´élaboration de projets comptant une soixantaine de participants.

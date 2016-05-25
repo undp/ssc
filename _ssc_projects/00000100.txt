@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - KEN
+  -  UGA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Access to Justice and Rule of Law programme
+scale: regional
+project_objective: The objective is capacity building on international criminal law and transitional justice
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ss.undp.org/content/south_sudan/en/home/ourwork/democraticgovernance/our_stories/increasing-access-to-justice--fostering-the-rule-of-law.html
+published: true
+import_source: 
+---
+The Ministry of Justice rolled out a case management system enabling accountability and addressing case backlog

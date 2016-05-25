@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: A training workshop for the Officials of the Government of Uzbekistan to learn about the industrial development strategies of China (October 2014)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.uz.undp.org/content/uzbekistan/en/home/presscenter/pressreleases/2014/10/06/an-inception-workshop-took-place-in-tashkent-.html
+published: true
+import_source: 
+---
+The knowledge obtained is being used by the national experts in the process of Vision 2030 formulation and its thematic chapters on economic modernization.[59]

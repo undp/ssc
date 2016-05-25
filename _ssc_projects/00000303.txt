@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - HRV
+  -  EST
+  -  LVA
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Visits of Georgian MPs and staff to Croatia, Estonia and Latvia on parliamentary communications and European integration
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//erc.undp.org/evaluationadmin/downloaddocument.html?docid=7535
+published: true
+import_source: 
+---
+Work on Parliaments communications action plan, as well as the action plan of the European Integration Committee is successfully underway

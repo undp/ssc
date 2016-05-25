@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BFA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Voyage d’étude au Burkina Faso sur l’approche budget programme
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience sur la mise en place de l’approche budget programme
+territorial_focus: 
+  -  LDC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/undp/documents/projects/MRT/00050943_MOU%20MDGF%20%20ENV%201724%20FINAL.pdf
+published: true
+import_source: 
+---
+Le PNUD a soutenu cette activité fait pattie d'un processus dont la finalisation est prevue en 2015

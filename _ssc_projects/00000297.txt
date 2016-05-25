@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - EGY
+region: 
+  - europe_cis
+partner_type: 
+  - cso
+project_title: Mahallae is a digital neighbourhood for civic engagement developed by Cypriot civil society and innovators from the Euro-Mediterranean region.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//open.undp.org/#project/00076232
+published: true
+import_source: 
+---
+Staff members from both offices have participated in workshops in both countries on innovation and are currently working with RBEC in developing an inter-regional challenges competition.  A result of the cooperation between NGOs from both countries has been the successful proposal to the Mahallae challenges by two organizations from Cyprus and Egypt, for the development of a mobile game that support volunteerism, called i-Vee.

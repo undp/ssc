@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - NPL
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Learning visit on process of developing National Strategy for the Development of Statistics (NSDS)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.np.undp.org/content/nepal/en/home/presscenter/articles/2013/10/24/nepal-s-roadmap-on-statistical-development-likely-by-november-end/
+published: true
+import_source: 
+---
+As a result of this visit, the engagement of CBS staff on NSDS preparation has increased significantly. This will obviously enhance the ownership and will ensure the implementation of the plan.

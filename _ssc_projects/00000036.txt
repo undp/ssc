@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CRI
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Ethiopia National Coffee Platform- experience sharing visit to Guatemala and Costa Rica on best implementation of the National Coffee Platform programme.
+scale: country-country
+project_objective: The objective of the platform  is to connect key stakeholders, including international coffee buyers, as well as various on-ground initiatives to work on a systemic and coordinated approach to improve the Ethiopian coffee sector.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/undp/en/home/ourwork/environmentandenergy/projects_and_initiatives/green-commodities-programme/projects/coffee---ethiopia.html
+published: true
+import_source: 
+---
+UNDP accompanied the Ethiopian Minister of Commerce to visit Costa Rica and Guatemala to learn about their experiences in production and trade of sustainable commodities, in January 2014,. The major objective was to gain experience from the pineapple and coffee platforms in Costa Rica and Guatemala respectively which UNDP facilitated both study tours. The Ethiopian Minister of Commerce, through the visits, tried to see how policy initiatives and regulations on quality enhancement and sustainability of coffee export could be addressed through the establishment of a coffee platform. The initiative helped Ethiopia to get a better understanding of the role of national coffee platforms including best practices of such platforms that contribute to ensure productivity, quality, sustainability and traceability of coffee. The government expressed keen interest on fostering this type of south-south cooperation to facilitate replication of well established mechanisms.

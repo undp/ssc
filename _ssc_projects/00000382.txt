@@ -1,0 +1,47 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ATG
+  -  BHS
+  -  BRB
+  -  CPV
+  -  COM
+  -  COK
+  -  DMA
+  -  FJI
+  -  GRD
+  -  MDV
+  -  MHL
+  -  PLW
+  -  KNA
+  -  VCT
+  -  LCA
+  -  WSM
+  -  STP
+  -  SYC
+  -  SGP
+  -  SLB
+  -  TLS
+  -  TON
+  -  TTO
+  -  TUV
+  -  VUT
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Capacity Building of SIDS Climate Change Negotiators
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - PF
+project_link: https//info.undp.org/docs/pdc/Documents/BRB/13%2010%2010%20UNDP%20progress%20report%201st%20workshop.pdf
+published: true
+import_source: 
+---
+The Alliance for Small Island States was able to use face-to-face instruction, e.g. NYC course to discuss common positions for the 2014/2015 climate change negotiations [E59].  A participant of the Singapore workshop also noted,"Participants worked together, to arrive at a point where national, regional and international interests converge to reach a mutual agreement." [E37]

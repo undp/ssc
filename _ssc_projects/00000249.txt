@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - TUR
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Technical and Scientific collaboration and knowledge sharing on Integrated Coastal Zone Management (ICZM) between MEDCOAST and Aqaba Special Economic Zone Authority (ASEZA)- ASEZA is a decentralized governmental body.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.jo.undp.org/content/jordan/en/home/operations/projects/environment_and_energy/project_sample.html
+published: true
+import_source: 
+---
+Integration of “beach and visitation management” concept into the ASEZA’s workplans. This has always been referred to as a part of the coastal management. The concept has been introduced into the training program held in Turkey

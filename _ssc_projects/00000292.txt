@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - KGZ
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Experience exchange with Kyrgyzstan in the area of management of small arms and lights weapons and ensuring their safekeeping
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.by.undp.org/content/belarus/en/home/operations/projects/democratic_governance/SALW.html
+published: true
+import_source: 
+---
+The evidence on the results and effectiveness of the initiative rests with the Kyrgyz Ministry of Defense.

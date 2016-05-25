@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - TUR
+region: 
+  - europe_cis
+partner_type: 
+  - private sector
+  -  government
+project_title: Support to development of employment policies and new forms of enterprise development
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.me.undp.org/content/montenegro/en/home/operations/projects/democratic_governance/LocDev/
+published: true
+import_source: 
+---
+Applications of new models into CO entrepreneurship programme have been discussed among national partners and considered for future development depending on national priorities and readiness of UNDP counterparts to move into other models of support in this area.

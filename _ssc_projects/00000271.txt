@@ -1,0 +1,35 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BHR
+  -  LBY
+  -  MYS
+  -  MAR
+  -  OMN
+  -  PAK
+  -  QAT
+  -  SAU
+  -  SEN
+  -  SOM
+  -  TUN
+  -  TUR
+  -  YEM
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Livelihoods Improvement and Economic Regeneration through South-South Cooperation in Somalia
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//doha.southsouthexpo.org/
+published: true
+import_source: 
+---
+Somalia delegation participate in South-South Expo held in Qatar; Programme has been submitted to the OIC for funding.

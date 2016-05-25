@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - GHA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Support to Media Development
+scale: country-country
+project_objective: Objective of project is to strengthen capacity of democratic institutions including Electoral Management Bodies, parliament and Media with aim to promote democratic governance.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - PF
+project_link: http//open.undp.org/#project/00072805
+published: true
+import_source: 
+---
+UNDP facilitated a knowlege exchagne visit for a media delegation from Sierra Leone to visit Ghana and interact with the Ghana Broadcasting Corporation, Ghana Institute of Journalism, African College of Communication, UNESCO, Ghana Network of Community Radio Network and West Africa Media with a view to establish collaboration between the stakeholders in the media sector of the two countries. As a result of the exchange, there are propositions for joint research and publication work between Mass Communication of Fourah Bay College and the University of Ghana,  in particular, for Mass Communication Department to be upgraded into a full-fledged Centre of Excellence. (Support to Media Programme, Annual Report, 2014)

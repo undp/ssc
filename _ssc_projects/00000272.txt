@@ -1,0 +1,27 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - KEN
+  -  SEN
+  -  TZA
+  -  UGA
+  -  ZMB
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Community Capacity enhancement  refresher trainings and onsite support visit
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/somalia/Reports/AnnualProgressReports-2014/APR%202014%20-Gender%20Project%20-%20narrative-%20Final.pdf
+published: true
+import_source: 
+---
+The CCE-CC approach is outstanding and has been embraced in pilot communities with early signs of its potential to achieve great impact on transforming GEWE issues. CCE-CC facilitating organizations observed and reported positive changes in community perspectives and attitudes. The reported changes will have to be validated by in-depth interviews with more community members and others not involved in facilitating conversations.

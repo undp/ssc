@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ETH
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Ethiopia Health and Nutrition Institute, EPHA, provided external technical support to the 2014 TB Prevalence Survey (TPS).
+scale: country-country
+project_objective: The objective of the project is capacity building and technical support on TB Prevalence Survey (TPS)
+territorial_focus: 
+  - FS
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/ZWE/TB%20Prevalence%20Mid%20Term%20Review%20BTOR%20July%202014.pdf
+published: true
+import_source: 
+---
+c) The TPS is the first of its kind in Zimbabwe and the results will provide a more accurate representative data to determine the true TB disease burden in the country and it will be used to inform proper planning and programming. During the mid-term review, the WHO External reviewers applauded the survey team for a good work done. The participation rate is fairly good (about 80%)

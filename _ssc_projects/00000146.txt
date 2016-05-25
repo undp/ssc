@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - KHM
+  -  CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: China-Cambodia-UNDP Trilateral Cooperation Cassava Project Phase II
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: https//info.undp.org/docs/pdc/Documents/KHM/Project%20Document_84497_CCP2.pdf
+published: true
+import_source: 
+---
+The Trilateral Cassava Project Phase 2 supported the development of Chinese capacity in Trilateral Cooperation. Chinese Ministry of Commerce officials took part in official missions in Guangxi and Cambodia, contributing to knowledge exchange. In Cambodia, cassava farmers and processors were trained in modern cultivation techniques using Chinese expertise. Connectivity between Cambodian farmers and the Chinese market was improved, enabling Cambodian farmers to move up the value chain.

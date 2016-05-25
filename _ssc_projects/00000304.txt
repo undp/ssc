@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - CZE
+  -  HUN
+  -  POL
+  -  SVK
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: International Parliamentary Conference in Visegrad Plus Georgia format
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.parliament.ge/en/saparlamento-saqmianoba/komitetebi/evropastan-integraciis-komiteti-143/axali-ambebi1910/saertashoriso-saparlameto-konferenciam-saqartvelos-shemdgomi-nabidjebi-evrokavshirisken-vishegradis-djgufis-wevri-saxelmwiofebis-saparlameto-gamocdileba-mushaoba-daiwyo.page
+published: true
+import_source: 
+---
+Parliament is actively engaged in developing its strategic action plan covering legislative, oversight and citizen awareness raising activities related to European integration. Cooperation document has been sgined between Georgia and Visegrad groups states on further cooperation steps in the V4 Plus Georgia format, including actions to be taken before the 2015 Riga Eastern Partnership Summit.

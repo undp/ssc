@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BGD
+  -  CHN
+  -  NPL
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Workshop on "Experience and Lessons Learned from Earthquakes" organized by "Sharing and Learning on Community Based Disaster Management in Asia (CBDM Asia)" project, China.
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.dochas.ie/blog/nepal-earthquake-lessons-learnt-responding-earthquakes;http//www.cn.undp.org/content/china/en/home/operations/projects/south-south-cooperation/overview-trilateral-cooperation-projects/sharing-and-learning-on-community-based-disaster-management-in-a.html
+published: true
+import_source: 
+---
+The learning especially on data and information management system was useful to implement data generation and management through implementation of electronic building permit system (e-BPS) for earthquake-safe building construction practices in the Kathmandu valley.

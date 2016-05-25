@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - JAM
+  -  PER
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Government of Jamaica Study Tour in Chile and Peru
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.ipc-undp.org/inclusive-growth-bulletin-issue-35-october-2014
+published: true
+import_source: 
+---
+The Peru UNDP CO does not have evidence of results that may have been achieved in Jamaica in 2014 as a result of this mission.

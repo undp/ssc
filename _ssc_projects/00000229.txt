@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - IDN
+  -  MMR
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: “Thailand as an Active Global Partner for Development”
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+  -  PF
+project_link: http//www.th.undp.org/content/thailand/en/home/operations/projects/map.html
+published: true
+import_source: 
+---
+The development of the Thailand-Myanmar Joint Operational Plan to Ensure the Universal Access to HIV Testing and Counseling (HTC) and Antiretroviral Treatment (ART) for Cross-border Myanmar migrants to and from Thailand.

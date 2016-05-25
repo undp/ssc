@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ETH
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Visita de intercambio de experiencias para el sector cafetalero entre Guatemala y Etiopía.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.et.undp.org/content/ethiopia/en/home/presscenter/articles/2014/01/31/-south-south-cooperation-energises-ethiopia-s-plans-to-launch-a-national-coffee-platform.html
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias, expertos  y el encuentro entre las partes interesadas. Resultado Informe de Visita de la delegación de Etiopía.

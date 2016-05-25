@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MDG
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Study tour on Truth and Reconciliation Commission
+scale: country-country
+project_objective:  The study tour aims to knowledge and experience sharing on Truth and Reconciliation Commission.
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/undp/en/home/presscenter/articles/2014/06/09/tunisia-launches-truth-and-dignity-commission.html
+published: true
+import_source: 
+---
+Feedback from the Delegation from Madagascar was positive

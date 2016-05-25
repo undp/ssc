@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AFG
+  -  TJK
+  -  TKM
+  -  UZB
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Afghanistan-Central Asia Trade and Migration’ workshop
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.tj.undp.org/content/tajikistan/en/home/presscenter/pressreleases/2014/09/26/-afghanistan-central-asia-trade-and-migration-workshop.html
+published: true
+import_source: 
+---
+The conference recommendations were reported to the London conference on Afghanistan Development (November 2014) Ministerial meeting to assess progress of the Tokyo Mutual Accountability Framework including regional cooperation as a precursor of economic growth.    More importantly, the result contributed to implementation of Confidence Building Measures of Heart of Asia - Istanbul Process (E13)

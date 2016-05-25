@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - UKR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Georgia-Ukraine Business incubator support
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.ge.undp.org/content/georgia/en/home/ourwork/povertyreduction/successstories/building-better-future--business-incubator-in-batumi.html
+published: true
+import_source: 
+---
+The new Business Incubator was established in Dnepropetrovsk region of Ukraine as a result of the cooperation between regional authorities of Ajara (Georgia) and Dnepropetrovsk (Ukraine). Evidence DBI web http//dia.dp.ua/en/news/1137/

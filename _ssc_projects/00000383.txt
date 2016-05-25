@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - DZA
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Viaje de estudios del Ministerio de Desarrollo Industrial y Promoción de la Inversión del Gobierno de Argelia a Santiago de Chile
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.dz.undp.org/content/algeria/fr/home/presscenter/articles/2014/03/25/echanges-d-exp-riences-entre-l-alg-rie-et-le-chili-en-mati-re-de-d-veloppement-industriel.html
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de la experiencia Chilena sirviendo como broker de conocimiento y facilitador del encuentro e intermcambio entre los oficiales de Gobierno que participaron en la visita. Ellos recogieron múltiples experiencias de su viaje a Chile que esperan transformar en una nueva política pública hacia las pequeñas y medianas empresas.

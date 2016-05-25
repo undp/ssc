@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AUS
+  -  CHN
+  -  WSM
+  -  TON
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: South-South Cooperation Strengthened Partnership Support Program - Engaging with China in the Pacific
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - PF
+project_link: http//www.samoastrong.ws/assets/rse-spp-newsletter-march-2014.pdf
+published: true
+import_source: 
+---
+The research report, shared with GoPNG, fed into the ongoing formulation of the Development Finance and Aid Policy, which seeks to better align development finance (including aid) to PNG’s development priorities.

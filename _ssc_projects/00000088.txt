@@ -1,0 +1,33 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BEL
+  -  BEN
+  -  BDI
+  -  COD
+  -  GHA
+  -  KEN
+  -  RWA
+  -  TZA
+  -  UGA
+  -  ZMB
+  -  ZWE
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: African Media Peer Review  Forum
+scale: regional
+project_objective: Objective of the project is to deepen democracy, strengthen inclusive citizen participation and accountability in governance. The project places special emphasis on media-sector reforms to enhance accountability as well as gender and human rights as tools to strengthen citizen participation.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//open.undp.org/#project/00075985;http//www.rw.undp.org/content/rwanda/en/home/presscenter/articles/2014/12/05/time-to-take-stock-6th-annual-media-dialogue/;http//www.rwandajournalists.com/spip.php?article74
+published: true
+import_source: 
+---
+UNDP facilitated the Regional Dialogue on Media Self Regulations, in which 12 African  Media self regulations institutions  formed an African Media Peer Review Forum to assess and  provide each other feedback, on an annual basis, focusing on the state of the media and self regulation in each country.

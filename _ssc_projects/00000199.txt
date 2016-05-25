@@ -1,0 +1,34 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BGD
+  -  BTN
+  -  KHM
+  -  CHN
+  -  IND
+  -  LAO
+  -  MYS
+  -  MMR
+  -  PAK
+  -  PHL
+  -  LKA
+  -  THA
+  -  VNM
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: South-South and Triangular Cooperation of SME Development in Asia
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.my.undp.org/content/malaysia/en/home/operations/projects/poverty_reduction/77131_South-SouthSME.html
+published: true
+import_source: 
+---
+Materials and knowledge products developed and made available on the CO's webpage and Facebook.

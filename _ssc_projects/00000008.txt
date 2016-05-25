@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BEN
+  -  ETH
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Appui à la formulation des plans nationaux d’adaptation (PNA) aux effets néfastes des changements climatiques (CC)
+scale: country-country
+project_objective: L'objectif du project est l'appui au renforcement des capacités des communautés agricoles pour mieux s’adapter aux changements climatiques dans 4 zones agro écologiques vulnérables au Bénin.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: http//www.thegef.org/gef/sites/thegef.org/files/gef_prj_docs/GEFProjectDocuments/NAPA/Benin-Project%20for%20Elaboration%20of%20National%20Programme%20of%20Action%20for%20Adaptation%20for%20Climate%20Change/BENIN-NAPA%20Proposal-020904.doc
+published: true
+import_source: 
+---
+Le PNUD a facilité le renforcement des competences du Benin ainsi que celle d’autres PMA dans la formulation des PNA avec la participation des experts et specialistes en changements climatiques  des bureaux pays.

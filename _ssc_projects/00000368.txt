@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - IDN
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Study tour to Indonesia to gain experience and knowledge on Aid Coordination and Aid Effectiveness (March 2014)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.uz.undp.org/content/uzbekistan/en/home/operations/projects/poverty_reduction/Uzbekistan-aid-effectiveness-project.html
+published: true
+import_source: 
+---
+Lessons related to aligning aid with the state budget, and creation of sector coordination groups[58] are now being implemented in the Aid effectiveness project in Uzbekistan.

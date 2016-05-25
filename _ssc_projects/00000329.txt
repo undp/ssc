@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - LTU
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Study visit of memebrs of the Parliament Committee on Social Protection
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//trm.md/en/politic/deputa-i-moldoveni-studiaza-experien-a-lituaniei-in-domeniul-asisten-ei-sociale
+published: true
+import_source: 
+---
+Capacities of MPs in legislative function strengthened contributing to the reform in the sector. Public Hearings organised on pension system, Government requested to develop an Action Plan based on findings discussed during the hearing. Parliament press release 

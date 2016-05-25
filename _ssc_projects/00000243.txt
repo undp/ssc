@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MEX
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Study Tour to Mexico on Election Management & Electoral Dispute Resolution (EDR)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.eg.undp.org/content/egypt/en/home/presscenter/pressreleases/EDR-Pres-Release.html
+published: true
+import_source: 
+---
+The study tour started up the dialogue in Egypt on Electoral Dispute Resolution (EDR). It was followed by a workshop in Tunisia bringing other comparative experiences from the Arab region and focusing on specific questions identified during discussions in Mexico. As a result/follow-up, a 2-day international conference on EDR was organized in Egypt in November inviting a more diverse range of Egyptian electoral stakeholders.

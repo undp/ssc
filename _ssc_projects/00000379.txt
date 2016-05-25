@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - URY
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Visita de Uruguay Sebastian Torres Noviembre 2014
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.uy.undp.org/content/dam/uruguay/docs/GD/undp-uy-buenas-practicas-com-ceibal-2014.pdf
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias y el encuentro entre las partes interesadas a través de las oficinas de PNUD Brazil y PNUD Cuba. Así mimso contribuyó al desarrollo de capacidades y al fortalecimiento institucional del Ministerio de Desarrollo Productivo. Su participación incluyó la incorporación de conocimiento técnico al Plan Sectorial 2014-2018. [NdP DP 2014]

@@ -1,0 +1,48 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AFG
+  -  AUS
+  -  BGD
+  -  KHM
+  -  COK
+  -  FSM
+  -  FJI
+  -  IDN
+  -  KIR
+  -  LAO
+  -  MDV
+  -  MHL
+  -  MMR
+  -  NRU
+  -  NPL
+  -  NZL
+  -  NIU
+  -  PNG
+  -  PHL
+  -  KOR
+  -  WSM
+  -  SLB
+  -  TLS
+  -  TON
+  -  TUV
+  -  VUT
+  -  VNM
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: South-South Asia Pacific Development Effectiveness Facility
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//asiapacificdc.com/wp-content/uploads/2014/09/Annual-Report_AS-PRINTED_low-res-for-website.pdf
+published: true
+import_source: 
+---
+The Bangladesh Ministry of Finance learned from the experience and skills of counterparts on effectively aligning ODA with other sources of development finance, through their preparation of ‘Development Finance and Aid Assessments.’ Bangladesh’s AP-DEF will undertake a series of comparative Development Finance and Aid Assessments in 2015, helping Bangladesh to identify the most effective development financing options (APDC Report 2014; Mexico Report 2014).

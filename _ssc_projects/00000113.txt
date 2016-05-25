@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - KEN
+  -  MEX
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: The EMBs i.e. NEC (Tz Mainland) and ZEC (Zanzibar) undertook staff professional development through BRIDGE  training programme and learning mission to Kenya's Electoral Commission and Mexico's Electoral Commission in using eletronic BVR for registration.
+scale: country-country
+project_objective: The objective is learning and experience sharing on election management and reform
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/TZA/DEP%20Quarter%202%20Report%20April%20to%20June%202014.pdf;http//www.tz.undp.org/content/dam/tanzania/DEP%20Prodoc.pdf
+published: true
+import_source: 
+---
+There is marked efforts to improve business processes including strategic planning and development of institutional policies. This is evidenced by the development of the Elections calendar and logistics plan by Zanzibar Electoral Commission (ZEC) completed, A gender and social inclusion policy (ZEC) developed and adopted, Voter Education strategy by National Electoral Commission (NEC) completed. Project report 2014., ADR 2014,

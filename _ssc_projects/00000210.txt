@@ -1,0 +1,31 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BGD
+  -  KHM
+  -  CHN
+  -  FJI
+  -  IND
+  -  IDN
+  -  NPL
+  -  PAK
+  -  THA
+region: 
+  - asia_pacific
+partner_type: 
+  - cso
+  -  government
+project_title: Asia Pacific Regional Workshop on Climate Responsive Budgeting (CRB) and Planning
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.climatefinance-developmenteffectiveness.org/ClimateResponsiveBudgeting2014
+published: true
+import_source: 
+---
+The learnings of workshop would be helpful in designing Climate Finance regional project based on “whole of government approach”. Further, the workshop has contributed in enhancing knowledge on climate response budgeting and climate resilient planning among the key government officials constituting Climate Finance Task Force. In addition, Nepal team started engaging with CSO to foster partnership with CSOs for effective and efficient climate responsive budgeting and planning.

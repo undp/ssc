@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - KEN
+  -  LSO
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Enhancing Service Delivery
+scale: regional
+project_objective: The objective of the project is, building of the previous collaborative work of the Govement of Lesotho (GoL) and UNDP in the area of capacity development for enhanced service delivery, this project is designed to support GoL in implementing these previous efforts and to support the establishment of sustainable national capacity to continue its programme of enhancing service delievery thorugh business process reengineering and implementing a Performance-based-pay policy. 
+territorial_focus: 
+  - MIC
+  -  LDC
+undp_role_type: 
+  - KS
+project_link: http//open.undp.org/#project/00057513
+published: true
+import_source: 
+---
+UNDP supported Public Service Reform using best practices and expertise of other developing countries that have functioning public performance management systems. UNDP facilitated the exchange & analysis of models of Kenya on public sector reform, specifically on the performance management system in public service.  After analysis, a Kenyan expert from GoK was selected to support the GoL to implement the performance management system (initially as Gov2Got support, then longer term consultancy). The performance management system, as a result of the South-South knowlege exchange and capacity buidling, was developed and approved for the Lesotho civil service, modeled after the Kenya experience. As a result, the Performance Agreement Frameworks (similarly as done in Kenya) have been signed off by 23 of 24 Cabinet Ministers.

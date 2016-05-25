@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+  -  LAO
+  -  VNM
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Consultation exchange on the national long term development strategy – lesson learnt from countries with a similar political system (Vietnam and China)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.vientianetimes.org.la/
+published: true
+import_source: 
+---
+Events were chaired by Deputy Prime Minister and attended by high level participants from line ministries. The peer to peer exchange and learning activity resulted in useful recommendations on the focus for the next planning cycle. This was reported to the government cabinet and included in the drafting of the 8th NSEDP and the National Long Term Development Strategy 2025 In terms of evidence. Vientiane Times 25 June 2014.

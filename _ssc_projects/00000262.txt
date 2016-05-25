@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - DZA
+  -  BRA
+  -  COL
+  -  KWT
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Participation des cadres à des ateliers sud/sud ( Kuwait, Algérie, Brésil, Colombie)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.ma.undp.org/content/morocco/fr/home/operations/projects/poverty_reduction/AIE-PP.html
+published: true
+import_source: 
+---
+Le PNUD a facilité les opportunités pour la promotion de la coopération sud-sud et a un retour au profit du Maroc garanti à travers  l'apprentissage en matière d'évaluation des PP ce qui va permettre d'éclairer les décisions  au niveau national pour un impact positif sur les conditiosn d evies des citoyens.

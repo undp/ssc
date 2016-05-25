@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - LAO
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Strengthening national capacities in investment planning and monitoring
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.mm.undp.org/content/dam/myanmar/docs/Documents/UNDP_MM_Pillar_1_Project_Doc.pdf
+published: true
+import_source: 
+---
+After the Lao initiative, the government agreed to develop two tools 1) an investment database to enhance capacity for investment planning, monitoring and evaluation; and 2) a financial model to screen mining investment proposals for financial feasibility.

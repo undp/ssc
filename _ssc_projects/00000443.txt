@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - COL
+  -  PRY
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Intercambio de conocimentos entre la Secretaria de Emergencia Nacional (SEN) de Paraguay y la Unidad Nacional de Gestion de Riesgo de Desastres (UNGRD) de Colombia
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.sen.gov.py/noticia/407-taller-regional-dipecho-america-del-sur-2014-29-30-setiembre-1-y-2-de-octubre-bogota-colombia.html#.VLkq5izkq3p
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias, expertos  y el encuentro entre las partes interesadas. Mención al Acuerdo marco el cual todavia se encuentra en negociación 

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BFA
+  -  NER
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Voyage d’échange d’expériences sur la prévention et la gestion des inondations à Ouagadougou des cadres du Gouvernorat de Niamey
+scale: country-country
+project_objective: L’objectif est l’échange d’expériences sur la prévention et la gestion des inondations
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: http//www.lesahel.org/index.php/societe/item/7172-ouverture-de-latelier-de-validation-du-plan-dactions-r%C3%A9gional-de-pr%C3%A9vention-des-inondations-dans-la-r%C3%A9gion-de-niamey--le-choix-dune-option-strat%C3%A9gique-dans-un-esprit-de-d%C3%A9veloppement
+published: true
+import_source: 
+---
+Le PUND a soutenu la forte sensibilisation du comité régional de gestion des inondations de Niamey sur l’importance des mesures de prévention des inondations. Suite à ce voyage, la région de Niamey a élaboré et validé un plan d’action pour la prévention et la gestion des inondations et  organisé un atelier de restitution auquel ont été invités les représentants d’autres régions du pays afin de leur faire bénéficier des leçons apprises.

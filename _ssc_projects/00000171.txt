@@ -1,0 +1,43 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AFG
+  -  BGD
+  -  BTN
+  -  EGY
+  -  IRQ
+  -  KEN
+  -  LSO
+  -  MYS
+  -  MDV
+  -  MUS
+  -  MAR
+  -  MMR
+  -  NAM
+  -  NPL
+  -  NGA
+  -  OMN
+  -  PAK
+  -  SAU
+  -  SOM
+  -  LKA
+  -  TUN
+  -  UGA
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Supporting Democratic Electoral Management
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.in.undp.org/content/india/en/home/operations/projects/democratic_governance/supporting-democratic-electoral-management0.html;http//www.undp.org/content/dam/undp/documents/projects/IDN/PRO%20DOC%20Elections%20MDP_FINAL.PDF
+published: true
+import_source: 
+---
+Learning on election management for 25 countries was arranged and women’s participation increased significantly during the elections. Namibia used the India experience to implement Electronic Voter Technology

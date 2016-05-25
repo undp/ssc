@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BRA
+  -  MEX
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Tripartite agreement (MOU) between Ministry of Planning Development and Reforms, UNDP and Oxford Poverty and Human Development Initiative for Multi-dimensional Poverty Index.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//nation.com.pk/business/18-Apr-2014/undp-congratulates-pakistan-for-mpi-development;http//www.dawn.com/news/1100643;https//info.undp.org/docs/pdc/Documents/PAK/Annual%20Progress%20Report%20PSP%202014.docx
+published: true
+import_source: 
+---
+The Planning Commission of Pakistan learned from the experience of Brazil and Mexico in the use of MPI for poverty targeting and monitoring. The Planning Commission is using the examples of these countries and a few others to design Pakistan specific MPI.

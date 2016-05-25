@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ERI
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Integrated Water Resource Management Knowledge Sharing- GoS and the State of Eritrea Ministry of Land, Water and Environment (MLWE)
+scale: country-country
+project_objective: Objective of of the project is capacity building technical knowledge and information on water governance and IWRM practices
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//adaptation-undp.org/projects/sccf-swaziland
+published: true
+import_source: 
+---
+UNDP supported an increased knowledge and sharing of information as well as commitment for future collaboration for the two Governments in the area of integrated water resources management.

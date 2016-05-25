@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - KAZ
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Developing the cooperation between civil service academies in the Central Asia
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.undp.org/content/kazakhstan/en/home/presscenter/articles/2014/10/14/baku-hosted-a-round-table-dedicated-to-the-effective-public-service-delivery-.html
+published: true
+import_source: 
+---
+NDP facilitated the participation of the Rector of Civil Service Academy under the President of Turkmenistan in the round-table on Effective Public Services organized by the Regional Hub of Civil Service of UNDP in Kazakhstan. Turkmenistan CSA was able to establish important contacts with the peers in the region and currently entertains the idea of joining the Hub. In 2015 colleagues from Azerbaijan’s State Agency on Public Services and Social Innovations are planning working visit to CSA.

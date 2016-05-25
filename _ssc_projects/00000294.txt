@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - UKR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Joint study by Belarusian and Ukrainian experts of the actual environmental impact of chalk extraction activities.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.oecd.org/environment/outreach/UNECE_EIA%20in%20transboundary%20context.pdf
+published: true
+import_source: 
+---
+A monitoring system reporting to the both sides, Belarus and Ukraine, established. Recommendations for post-project analysis, including public participation, were developed and submitted to Belarus and Ukraine. The study results were presented and discussed during an international sub-regional conference in Minsk on 15-16 April 2014 with participants from UNEP, UNECE, Ukraine, Lithuania, Poland, Armenia, Georgia and other countries.

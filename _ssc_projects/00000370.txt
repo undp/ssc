@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - TKM
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Training provided on land laser leveling in Ashgabat, Turkmenistan (October 2014)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.tm.undp.org/content/turkmenistan/en/home/presscenter/pressreleases/2013/10/21/strengthening-south-south-cooperation-introduction-of-resource-saving-technologies-for-the-sustainable-development-of-irrigated-agriculture/
+published: true
+import_source: 
+---
+The training demonstrated how the land-laser leveling can be utilized as a tool for more efficient use of irrigation water and mitigation of its deficiency. Based on the feedback received from the project manager at UNDP Turkmenistan theoretical and practical knowledge gained by the project beneficiaries helps them to use laser leveling equipment in an area of 25 hectares. This new technique is also now applied in other areas with similar issues of water and land management in Turkmenistan [60]

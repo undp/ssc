@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - UZB
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Laser land levelling in the Sakarchaga area of the Mary province
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp-alm.org/sites/default/files/downloads/introduction_of_land_levelling_technology.docx
+published: true
+import_source: 
+---
+According to the farmer association in the pilot area, this new technique is now being applied in other areas with similar issues of water and land management.

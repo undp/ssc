@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MUS
+  -  SGP
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Workshop on “Public Service Excellence and the Post-2015 Agenda” (PSP-2015)  organized by the UNDP Global Centre for Public Service Excellence, Singapore, 17-19 November, 2014
+scale: country-country
+project_objective: The objectif of the meeting was to bring together experts and practitioners, including government officials, networks/NGOs/think tanks, bilateral agencies and multilateral organisations, to (1) consider the research, evidence and knowledge needs of the post-2015 public service reform agenda; (2) explore alternative futures of the public service in 2030, and (3) agree on learning topics for the establishment of Learning Alliances on Public Sector Reform between EIP members and/or GCPSE stakeholders.
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.us.undp.org/content/undp/en/home/ourwork/global-policy-centres/publicservice/convening-hub/;http//www.effectiveinstitutions.org/media/Public_Sector_Reform_Max_Everest_Phillips.pdf
+published: true
+import_source: 
+---
+UNDP facilitated knowledge sharing and exchange with participants from various countries. As the Workshop was in late November, it was too early to expect results. Expected to forge linkages with GCPSE and support public sector reforms in Mauritius.

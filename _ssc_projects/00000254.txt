@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - JOR
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Supporting UNDP Jordan and the Ministry of Planning in Jordan to conduct needs assessments in relation to the Syrian refugees crisis
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/rbas/doc/SyriaResponse/Jordan%20Needs%20Assessment%20-%20November%202013.pdf
+published: true
+import_source: 
+---
+UNDP Jordan and the Ministry of Planning in Jordan adopted MRR as their methodology to assess the needs at the community level in relation to the Syrian refugees crisis.

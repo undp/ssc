@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ZAF
+region: 
+  - africa
+partner_type: 
+  - government
+project_title:  Youth Innovation Hub for ICT
+scale: country-country
+project_objective: The objective of the project is to foster an innovative culture by providing a platform for sharing ideas and experiences, and involving young people in finding solutions to development problems. This UNDP supported initiative aims to grow from an ICT Hub to providing  tools for other sectors such as energy and environment, agriculture, bio-technology, mining and electrical engineering.
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.sz.undp.org/content/swaziland/en/home/presscenter/articles/2014/08/19/undp-to-establish-youth-innovation-hubs-for-ict-in-swaziland.html
+published: true
+import_source: 
+---
+Leveraging on the Innovation Fund, UNDP facilitated partnerships between Swaziland and South Africa to collaborate on establishing an innovation hub for ICT.In September 2014, the Prime Minister’s Office (PMO) and the Innovation Association of Swaziland (IAS) established partnership with Tshwane Innovation Hub in South Africa in the area of innovation development. The partnership between the two countries resulted in the adoption by Swaziland of the SA Youth Innovation Hub model which is established at the University of Swaziland. UNDP provided the seed money for the establishment of the Youth Innovation Hub.  The Goverment of Swaziland has commitment to actively involve the newly established IAS to lead in the implementation of the e-governance strategy.  The initiative has also provided impetus for the UNISWA to integrate innovation in the institution’s research agenda.

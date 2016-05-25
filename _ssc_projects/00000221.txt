@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - IND
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Learning Visit Coastal and Marine Biodiversity Conservation Project
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/undp/en/home/ourwork/environmentandenergy/focus_areas/ecosystems_and_biodiversity/projects/philippines_-_samarislandbiodiversity.html;http//www.ph.undp.org/content/philippines/en/home/presscenter/pressreleases/2015/05/28/new-partnership-launched-to-strengthen-marine-key-biodiversity-areas-in-the-philippines.html
+published: true
+import_source: 
+---
+No evidence of contribution to results

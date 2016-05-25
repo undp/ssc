@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ECU
+  -  SLV
+  -  MEX
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Intercambios de experiencia sobre la aplicación de las cuotas de participación política de las mujeres
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.asamblea.gob.sveparlamento/indice-legislativo/buscador-de-documentos-legislativos/ley-de-partidos-politicos
+published: true
+import_source: 
+---
+El PNUD tuvo el rol de broker de conocmiento y facilitó el intercambio de experiencias así como en el encuentro entre los interesados .Como resultado de esta iniciativa, el Grupo Parlamentario de Mujeres reforzó el artículo sobre la cuota de participación política para asegurar que la cuota se cumpliera en la elección de Concejos Municipales plurales.  

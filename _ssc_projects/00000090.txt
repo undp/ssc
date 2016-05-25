@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BGD
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Experience sharing with Bangladesh Government on aid effectiveness agenda and best practices
+scale: country-country
+project_objective: The objective is knowledge and experience sharing on aid effectiveness agenda and best practices in managing aid effectiveness agendas
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/uspc/docs/Progress%20Report%202011%20-%20Capacity%20Development%20for%20Aid%20Effectiveness.pdf
+published: true
+import_source: 
+---
+UNDP supported the visit, which contributed to promoting pro poor growth and economic transformation by sharing the best practices on how development partners’ contributions are aligned with national development agenda on economic transformation.  The Bangladesh team has been informed on aid effectiveness in Rwanda in order to inform their system.

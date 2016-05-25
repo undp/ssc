@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - COL
+  -  CRI
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Convenio de cooperacion entre el INA (Costa Rica) y el SENA (Colombia), para mejorar el curriculo de los cursos para tecnicos en refrigeracion y aire acondicionado ecoeficiente
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.senac.br/BTS/252/boltec252a.htm;http//redifp.net/web/home/noticias/item/31-delegados-de-institutos-de-formacion-profesional-culminan-proceso-de-evaluacion-de-competencias-laborales
+published: true
+import_source: 
+---
+El PNUD Colombia facilitó el intercambio de experiencias entre los municipios participantes como facilitador de alianzas. El curriculo esta en  proceso de elaboracion, y los resultados se veran en un medio- largo plazo

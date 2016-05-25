@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - COD
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Professionnalisation des services du Fonds national de Finance Inclusive
+scale: country-country
+project_objective: L’objectif est le renforcement des capacités sur services du Fonds National de Finance Inclusive
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - CB
+  -  PF
+project_link: http//fnfi.tg/
+published: true
+import_source: 
+---
+Le PNUD a soutenu un partenariat avec 18 prestataires de services financiers a été conclu. Le FNFI a pu performer la mise en œuvre du produit financier Accès des pauvres aux Services financiers - qui a touché plus de 331.000 bénéficiaires en 2014 avec un total de crédits de plus de 9,7 milliards FCFA, soit un taux de performance de 110% . L’échange a également permis de convenir d’une étude sur le SIG permettant à terme de disposer de moyens professionnels de gestion, d’accès et de collecte de l’information.

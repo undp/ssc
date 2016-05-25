@@ -1,0 +1,93 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AFG
+  -  ATG
+  -  ARG
+  -  AUS
+  -  AUT
+  -  AZE
+  -  BHS
+  -  BGD
+  -  BIH
+  -  BRA
+  -  BGR
+  -  BDI
+  -  CAN
+  -  CHN
+  -  COL
+  -  COM
+  -  HRV
+  -  CZE
+  -  COD
+  -  DNK
+  -  DMA
+  -  EGY
+  -  ETH
+  -  FIN
+  -  FRA
+  -  DEU
+  -  GHA
+  -  GNB
+  -  GUY
+  -  HTI
+  -  HND
+  -  IND
+  -  IDN
+  -  ITA
+  -  JAM
+  -  JPN
+  -  KAZ
+  -  KWT
+  -  KGZ
+  -  LSO
+  -  MDG
+  -  MDV
+  -  MUS
+  -  MEX
+  -  MMR
+  -  NLD
+  -  NOR
+  -  PNG
+  -  PER
+  -  PHL
+  -  MDA
+  -  ROU
+  -  RUS
+  -  VCT
+  -  STP
+  -  SAU
+  -  SEN
+  -  SOM
+  -  ZAF
+  -  SUR
+  -  SWZ
+  -  SWE
+  -  CHE
+  -  TJK
+  -  THA
+  -  TLS
+  -  TTO
+  -  ARE
+  -  GBR
+  -  USA
+  -  URY
+  -  UZB
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Conference Organization INTERNATIONAL DEVELOPMENT COOPERATION TRENDS and EMERGING OPPORTUNITIES-PERSPECTIVES OF THE NEW ACTORS
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.tr.undp.org/content/turkey/en/home/new-horizons/idc-conference-istanbul.html
+published: true
+import_source: 
+---
+-Official commitment by these countries to reflect the initiated partnership in a regional sustainable forest management project. - A forest management plan in Kosovo has been prepared by GDF’s staff in 2014. -A regional Project preparation workshop has been organized with participation of officials from Kosovo, Bosnia and Herzegovina, Macedonia, and Turkey.

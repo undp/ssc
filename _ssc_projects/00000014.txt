@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BFA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Voyage d’étude du Premier Ministère au Gabon
+scale: country-country
+project_objective: L’objectif de ce voyage d’études était de s’imprégner de l’expérience gabonaise en matière de fonctionnement de la Primature du pays afin de capitaliser les bonnes pratiques pour enrichir et renforcer la performance du Premier Ministère du Burkina Faso. 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: Notrealizedduetothemilitarypush
+published: true
+import_source: 
+---
+Le PNUD a facilité un voyage d’études en vu de s’imprégner de l’expérience gabonaise en matière de fonctionnement de la Primature du pays afin de capitaliser les bonnes pratiques pour enrichir et renforcer la performance du Premier Ministère du Burkina Faso. Mais le voyage n'a pas pu de réaliser compte tenu de la situation nationale.

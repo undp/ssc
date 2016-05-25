@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - KEN
+  -  UGA
+  -  TZA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: 1.Capital freight reversal and development financing 2. Project management and financial resource mobilization
+scale: regional
+project_objective: The objective of the project is building capacity and skills on capital freight reversal and development financing and project management and financial resource mobilization.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - PF
+project_link: http//www.uncdf.org/en/content/uncdf-uganda
+published: true
+import_source: 
+---
+UNDP supported the establishment of a functional Public Investment management Information system. (Source  Briefing Note on CDAE Project Capacity Development Programme for MoFPED/ALD, p.2)

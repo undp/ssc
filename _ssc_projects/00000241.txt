@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - TUR
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Echange en matière de développement rural
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//open.undp.org/#project/00040875;http//www.dz.undp.org/content/algeria/fr/home/presscenter/articles/2014/11/30/l-observatoire-du-d-veloppement-des-territoires-ruraux1/
+published: true
+import_source: 
+---
+Le PNUD a facilite les echanges de connaissance. Les acquis de ce voyage d'études, sont en cours de capitalisation.

@@ -1,0 +1,48 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - AGO
+  -  BEN
+  -  BTN
+  -  BFA
+  -  BDI
+  -  COM
+  -  DJI
+  -  ERI
+  -  ETH
+  -  GMB
+  -  GIN
+  -  GNB
+  -  LSO
+  -  LBR
+  -  MDG
+  -  MWI
+  -  MLI
+  -  MRT
+  -  MOZ
+  -  NER
+  -  SEN
+  -  SLE
+  -  SOM
+  -  SDN
+  -  TZA
+  -  TGO
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Le South-South Global Assets and Technology Exchange (SS-GATE) Developpement communautaire a travers le programme Territoire d’Apprentissage Territorio de Aprendizaje La deuxième Route d’Apprentissage–entreprenariat des jeunes en Colombie
+scale: regional
+project_objective: Contribuer à la promotion et au développement de l’entreprenariat au niveau local à travers la mise en service de centres régionaux de ressources pour l’entrepreneuriat, les toutes petites entreprises et le développement local au Bénin
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.bj.undp.org/content/benin/fr/home/operations/projects/poverty_reduction/project_sample.html
+published: true
+import_source: 
+---
+Le PNUD a facilite l'establissement des Business Promotion Center et un investissement potentiel de plus de 10 millions de dollars. Ce premier accord de fonds PMA,  a ete signe; par M. Matia Kasaija, Ministre d’Etat ougandais des finances et M. Tony Wamala, representant de la Chambre nationale de commerce, vise a reproduire le Songhai; en Ouganda

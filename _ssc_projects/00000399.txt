@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - DOM
+  -  HTI
+  -  MEX
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Taller de intercambio de experiencias en gestión de cuencas compartidas
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.do.undp.org/content/dominican_republic/es/home/presscenter/articles/2013/05/31/realizan-encuentro-binacional-del-sector-energ-tico.html
+published: true
+import_source: 
+---
+El PNUD en RD facilitó el intercambio de experiencias y el encuentro entre las partes interesadas a través de las oficinas de PNUD México y PNUD Haiti. El taller posibilitó que la República Dominicana y Haití elaboraran un documento “cero” con los arreglos de gestión de la cuenca del río Artibonito

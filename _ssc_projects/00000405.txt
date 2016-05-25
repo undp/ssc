@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - HTI
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Identificacion, estructuracion y formulacion del programa En Marcha en Quito
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.ec.undp.org/content/ecuador/es/home/presscenter/articles/2015/10/31/pnud-promueve-emprendimiento-e-innovaci-n-en-ecuador.html
+published: true
+import_source: 
+---
+Informe visita a Haiti Informe consultor Jorge Garcia

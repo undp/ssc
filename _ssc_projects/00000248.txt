@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - JPN
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Initiating South South Cooperation in the Government of Iraq
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - CB
+project_link: http//www.jica.go.jp/english/news/field/2014/141017_02.html
+published: true
+import_source: 
+---
+The establishment of the South-South Unit in PMAC

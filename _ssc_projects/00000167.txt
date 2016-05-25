@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MMR
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Parliamentarian Visit (Strengthening Women's Participation and Representation in Governance in Indonesia, SWARGA 66891)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.id.undp.org/content/indonesia/en/home/operations/projects/democratic_governance/strengthening-womens-participation-and-representation-in-governa.html
+published: true
+import_source: 
+---
+The study visit was intended to benefit primarily the Myanmar parliamentarians. The visit was very successful and the parliamentarians showed strong interest in continuing to learn about Indonesia’s democracy and parliamentary system which are regarded as good practices in the region. Indonesia’s parliamentarians also acknowledged that there is still room to continue strengthening Indonesia’s democracy and parliamentary system based on the discussions during the study visit

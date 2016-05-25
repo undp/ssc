@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BFA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Voyage d’étude au Burkina Faso dans le cadre de la mise en œuvre du Programme national de volontariat
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience sur la mise en place de la structure nationale de volontariat (PNVB)
+territorial_focus: 
+  -  LDC
+undp_role_type: 
+  - KS
+project_link: http//www.mr.undp.org/content/mauritania/fr/home/presscenter/articles/2014/01/30/lancement-du-projet-d-appui-la-mise-en-place-d-un-programme-national-de-volontariat.html
+published: true
+import_source: 
+---
+Le PNUD a facilité l’organisation du voyage d’étude. Cependant ayant eu lieu à la fin de l’année, sa contribution aux résultats ne sera déterminée que l’année prochaine. Cette contribution pourra être évaluée par l’adoption des mécanismes de mise en place du corps des jeunes volontaires pour assurer un démarrage effectif des activités du projet.

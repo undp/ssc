@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MKD
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Exchange of experience on employment programmes
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//open.undp.org/#project/00063639
+published: true
+import_source: 
+---
+While a new programme based on that experience was approved and financed in December 2014, results will be visible in 2015 and onward.

@@ -1,0 +1,27 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BDI
+  -  CMR
+  -  CAF
+  -  COD
+  -  STP
+  -  SEN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Regional Policy for Universal Access to Modern Energy Services and Economic and Social Development
+scale: regional
+project_objective: The purpose of the gathering was to validate the white paper on regional policy for universal access to modern energy services and economic and social development in the context of UN-led Sustainable Energy for All (SE4ALL) initiative. 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.afdb.org/en/news-and-events/article/central-african-countries-commit-to-move-forward-on-se4all-and-address-energy-access-challenge-13649/
+published: true
+import_source: 
+---
+UNDP in this regional initiative, facilitated knowledge exchange between the following countriesBurundi,Cameroon,Central African Republic,Democratic Republic of the Congo,São Tomé and Príncipe,Senegal.  The result of this  ECCAS-CEMAC regional initiative lead to the development of a policy document, “White Paper”, entitled “Regional Policy for Universal Access to Modern Energy Services and Economic and Social Development” which has been validated and adopted by the participating countries.  

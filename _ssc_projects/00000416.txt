@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - COL
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Intercambio de experiencias sobre procesos de descentralización en Colombia, sobre todo en aquellos aspectos relacionados con la educación, salud, infraestructura, manejo ambiental y presupuestación tanto a nivel nacional como local
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.hn.undp.org/content/honduras/es/home/presscenter/articles/2014/08/13/comparten-experiencias-del-modelo-colombiano-de-descentralizaci-n-administrativa.html
+published: true
+import_source: 
+---
+El PNUD en Honduras facilitó el intercambio de experiencias y el encuentro entre las partes interesadas a través de las oficinas de PNUD en Colombia. El nuevo gobierno solicitó conocer esta experiencia para consolidar su posición en temas de descentralización del gobierno para centrar su intervención de descentralización en temas de educación, salud e infraestructura; estos como modelos experimentales

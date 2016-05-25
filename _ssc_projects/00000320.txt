@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ALB
+  -  ITA
+  -  NPL
+region: 
+  - europe_cis
+partner_type: 
+  - cso
+  -  government
+project_title: Human Security Trust Fund - Better livelihoods for citizens of FKP and Obiliq/c  The overall goal of the project is to achieve better livelihoods for the most vulnerable communities.
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ks.undp.org/content/kosovo/en/home/operations/projects/poverty_reduction/HTSF.html
+published: true
+import_source: 
+---
+3 Social Enterprises are established in close cooperation with municipalities and civil society organizations. In parallel, the concept document to initiate the law on social enterprises is finalized. Progress reports. http//kk.rks-gov.net/fushekosove/News/Nderohet-Drejtoria-per-Bujqesi-dhe-Zhvillim-Rural.aspx http//kk.rks-gov.net/fushekosove/News/Vazhdon-implementimi-i-projektit-per-skamnore.aspx https//kk.rks-gov.net/obiliq/News/Kryetari-i--komunes-se-bashku-me-perfaqsuesin-e-UN.aspx

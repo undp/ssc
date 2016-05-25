@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - IDN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Study Visit for Parliamentarians to Indonesia
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.mm.undp.org/content/myanmar/en/home/presscenter/articles/2014/12/11/myanmar-mps-and-parliament-staff-conclude-study-visit-to-australian-and-indonesian-parliaments.html
+published: true
+import_source: 
+---
+This activity was carried out in November/ December 2014 so it is too early to observe evidence of its contribution to results for 2014. It is however informing activities for 2015.

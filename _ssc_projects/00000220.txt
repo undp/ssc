@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - IDN
+region: 
+  - asia_pacific
+partner_type: 
+  - cso
+project_title: Promoting the Rights - and Enhancing the Participation - of Women in the Bangsamoro Peace Consolidation and Development Process
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/PHL/2015%20AWP_Sustaining%20Peace%20in%20the%20Bangsamoro.pdf
+published: true
+import_source: 
+---
+The initiative took place in mid December 2014, meaning that it had minimal impact on 2014 results. The results should be felt when the CSO representatives participate in the development and implementation of Bangsamoro-related plans and policies in 2015, as indicated in the 2014 UNDP-RHRC APR and the RHRC 2014 accomplishment report to the ARMM Regional Governor.

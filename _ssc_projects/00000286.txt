@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - TUR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Study tour to learn advanced experiences in forest management and forest monitoring
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.az.undp.org/content/azerbaijan/en/home/operations/projects/sustain_development/_sustainable-land-and-forest-management-in-the-greater-caucasus-.html
+published: true
+import_source: 
+---
+The study tour contributed to improving capacities of the Forest Department to conserve and sustainably manage forest resources, as evidenced from the post-study questionnaire. Learning the Turkish experience was also critical for the process of establishment of training centres in forest management in 3 regions of Azerbaijan that is among the key results achieved in 2014 under this Outcome.

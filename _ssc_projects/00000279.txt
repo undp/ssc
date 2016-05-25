@@ -1,0 +1,30 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - DZA
+  -  EGY
+  -  IRQ
+  -  JOR
+  -  LBN
+  -  QAT
+  -  SDN
+  -  ARE
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Global Water Week in September 2014
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ye.undp.org/content/yemen/en/home/operations/projects/environment_and_energy/projet-preparation-grant-for-integrated-water-harvesting-technol/
+published: true
+import_source: 
+---
+The World Water Week was a platform for learning and Knowledge sharing. Good examples from Fog water harvesting in others countries were shared. UNDP draw upon the lessons learnt to enhance the fog harvesting technique in Yemen technical design of the harvesting module, site selection and materials use were improved. Resulting a 40% improvement of quantity of water collected and 20% reduction of cost

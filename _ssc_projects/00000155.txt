@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+  -  RUS
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Northeast Asia Regional Cooperation Programme and Support to the Greater Tumen Initiative (GTI)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.cn.undp.org/content/china/en/home/operations/projects/poverty_reduction/northeast-asia-regional-cooperation-programme.html
+published: true
+import_source: 
+---
+GTI is now in a position to transit into a strategically focused, pragmatic and result-oriented organization to enhance mutual benefits, and accelerate economic growth as well as sustainability in the priority areas of transport, trade and investment, tourism, energy, environment, and other areas such as, but not limited to, agriculture.

@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BWA
+  -  NAM
+  -  ZWE
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Integrating crosscutting issues (CCIs)  in cross-border infrastructure projects using the Kazungula Bridge Project as a case study.
+scale: regional
+project_objective: Objective of project share country and regional experiences on the status of integrating crosscutting issues (CCIs) particularly health, HIV and gender in the EA processes in accordance with the project phases and strengthen regional cooperation on integrating CCIs in cross-border infrastructure projects using the Kazungula Bridge Project as a case study.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Multinational__Zambia-Bostwana__-_AR_-_Kazungula_Bridge_Project_.pdf
+published: true
+import_source: 
+---
+UNDP facilitated  south to south engagement for the Government of Botswana, Namibia, and Zimbabwe.As a result of the knowledgy exchange the four countries reached consensus on a common engagement framework on how to strengthen the integration of health, HIV, Gender and Human rights and learning from countries that have managed to mainstream Human rights issues in the HIV and AIDS response

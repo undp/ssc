@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - TUR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Match Making of SMEs
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - PF
+project_link: http//open.undp.org/#project/00057201
+published: true
+import_source: 
+---
+10 BiH SMEs participated in the event, with one concrete deal being stricken with a Turkish partner.

@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - GIN
+region: 
+  - africa
+partner_type: 
+  - private sector
+  -  government
+project_title: Mission du Ministère du commerce de la Guinée au Mali sur l’expérience de la mise en oeuvre du cadre intégré
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience dans le cadre de la mise en œuvre du Cadre intégré
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/undp/library/corporate/Executive%20Board/2015/French/DPDCPMLI3_Statement%20of%20Challenges%20and%20Performance%2020%20October%202014.doc
+published: true
+import_source: 
+---
+Le PNUD a soutenu le rapport de mission de la délégation de Guinée.

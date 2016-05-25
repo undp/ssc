@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MEX
+  -  MAR
+  -  TUN
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: coopération tripartite  entre le Tunisie, le Mexique et le Maroc (méthodologie mesure indicateurs pauvreté)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.leconomistemaghrebin.com/2014/06/09/tunisie-maroc-mexique-cooperation-politiques-sociales/
+published: true
+import_source: 
+---
+cette convention tripartite de partenariat va permettre une collaboration pour opérationnaliser les instruments d'évaluation des PP et d'échange fructeux entre les 3 pyas dans le domaine cité.

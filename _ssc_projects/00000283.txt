@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - KGZ
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Cooperation between the Disaster Risk Reduction National Platforms of Armenia and Kyrgyzstan.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.arnap.am/
+published: true
+import_source: 
+---
+Creation of the website of the National Platform for Disaster Risk Reduction

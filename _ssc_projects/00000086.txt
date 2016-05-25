@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - CIV
+  -  RWA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Learning tour on police reforms in Rwanda by Ivory Coast and UNDP Governance Team in Ivory Coast
+scale: regional
+project_objective: The objective was knowledge exchange and sharing on how to apply ICT innovations in their Police and GBV projects, by using mobile phone short text messages to address SGBV issues
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/rwanda/docs/Research%20and%20publications/Annual%20reports/RW_rp_rwanda_annual_report_2008.pdf
+published: true
+import_source: 
+---
+The initiative benefited Ivory coast more but the Governance programme (the Access to Justice programme and the Rwanda National Police Project in particular) was used as a case study for learning purposes. In addition to this, it is worth noting that the Rwanda National Police has learned a lot from the exchange.  After the first learning visit, Ivory coast initiated SMS Polling (UN TEAMWORKS).

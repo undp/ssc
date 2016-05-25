@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MKD
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Introducing and improving basic education for prisoners
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.hr.undp.org/content/croatia/en/home/operations/projects/crisis_prevention_and_recovery/arms-control.html
+published: true
+import_source: 
+---
+Consultations with CO FRY Macedonia for a follow up exchange - Cro national counterparts visit to Macedonia

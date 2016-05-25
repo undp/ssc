@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - JAM
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Proyecto CRMI Transferencia del modelo cubano de los Centros de Gestion para la Reduccion de Riesgos (CGRR) a 5 paises caribenos Jamaica, Republica Dominicana, Islas Virgenes Britanicas, Guyana, y Trinidad y Tobago, a traves del proyecto regional CRMI.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.cu.undp.org/content/cuba/es/home/presscenter/articles/2014/11/17/cuba-y-pnud-celebran-xitos-conjuntos-en-cooperaci-n-sur-sur.htmlhttp//www.cu.undp.org/content/cuba/es/home/library/crisis_prevention_and_recovery/CRMI_CGRR.html
+published: true
+import_source: 
+---
+EL PNUD en Cuba en alianza con el Centro Regional del PNUD y las oficinas de pais participates, tuvo el rol de broker de conocimiento, desarrollador de capacidades y facilitador de alianzas. El proyecto se desarrollo en 5 Centros pilotos de Gestion para la Reduccion de Riesgos y 9 puntos de Alerta Temprana se encuentran funcionando en  5 paises del Caribe para la proteccion de 573,379 habitantes. Se esta apoyando el desarrollo de un plan de sostenibilidad de los centros pilotos en cada pais en que se esta implementando la experiencia.

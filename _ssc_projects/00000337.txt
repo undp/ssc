@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - HRV
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Support to EU accession through exchange between Croatian and Macedonian institutions
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//www.fas.org/sgp/crs/row/RS21344.pdf;http//www.undp.org/content/dam/rbec/docs/undp-demgov-ombudsman%20workshop%20zagreb%20croatia.pdf
+published: true
+import_source: 
+---
+The initiative is strongly linked to our work on rule of law and integrity. The exchanges enabled the national institutions to establish longer term partnerships and also enhance the Macedonian efforts to adhere to the EU requirements. Results are being/will be recorded in the EU progress reports.

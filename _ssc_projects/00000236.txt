@@ -1,0 +1,35 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - COK
+  -  FSM
+  -  FJI
+  -  KIR
+  -  MHL
+  -  NRU
+  -  NIU
+  -  PLW
+  -  PNG
+  -  WSM
+  -  SLB
+  -  TON
+  -  TUV
+  -  VUT
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Pacific Adaptation to Climate Change  Regional Project (PACC) & Pacific Island Greenhouse Gas Abatement through Renewable Energy Project (PIGGAREP)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - SIDS
+undp_role_type: 
+  - KS
+project_link: https//www.sprep.org/Pacific-Islands-Greenhouse-Gas-Abatement-through-Renewable-Energy-Project/about-piggarep
+published: true
+import_source: 
+---
+PACC  construction of a climate proof harbor in Cook Islands; completion of 8.5km climate resilient roads in Micronesia & Vanuatu; installation of water tanks and solar purifiers in Tonga, Nauru, Niue through; research and promotion of climate resilient crops (taro, cassava, potatoes) in Fiji. PIGGAREP Installation of 10 solar water pump systems in Tonga, and sharing their knowledge with Palau; change from fossil fuel to solar the main power source of Palmerston in Cook Islands.

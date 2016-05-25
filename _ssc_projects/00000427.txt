@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MEX
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Project to strengthen the process of REDD +preparation  in Mexico and promote  South-South cooperation
+scale: Regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: https//info.undp.org/docs/pdc/_layouts/AccessDenied.aspx?Source=https%3A%2F%2Finfo%2Eundp%2Eorg%2Fdocs%2Fpdc%2FDocuments%2FMEX%2F00062001_79208%2Epdf&Type=item&name=9150d3a2-2448-43db-9138-2d483a392da8&listItemId=4584
+published: true
+import_source: 
+---
+The conceptual basis for the Virtual Center of Excellence was prepared and persons participated in a regional workshop in El Salvador to share Mexico’s experience regarding REDD +. At present, the business plan for the Center is being drawn up and will serve as a basis for making progress with the political negotiations. The project has been reflected in AMEXCID workshops and a publication on UN support for Mexico’s South-South cooperation efforts (E85 PNUD).

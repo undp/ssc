@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BIH
+  -  SRB
+  -  MKD
+  -  TUR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Forest and Water Management
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.tr.undp.org/content/turkey/en/home/operations/projects/environment_and_energy/enhancing_implementation_capacity_of_general_directorate_of_forestry_for_sustainable_forest_management.html
+published: true
+import_source: 
+---
+-Official commitment by these countries to reflect the initiated partnership in a regional sustainable forest management project. - A forest management plan in Kosovo has been prepared by GDF’s staff in 2014. -A regional Project preparation workshop has been organized with participation of officials from Kosovo, Bosnia and Herzegovina, Macedonia, and Turkey.

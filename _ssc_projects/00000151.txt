@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BGD
+  -  CHN
+  -  NPL
+  -  GBR
+region: 
+  - asia_pacific
+partner_type: 
+  - academia
+  -  government
+project_title: Sharing and Learning on Community Based Disaster Management in Asia (CBDM Asia)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.cn.undp.org/content/china/en/home/presscenter/articles/2013/01/sharing-and-learning-on-community-based-disaster-management-in-a.html
+published: true
+import_source: 
+---
+The project organized a mid-term review and an independent evaluation including assessment of reports and interviews with all stakeholders. Community-based disaster management approaches and increased engagement with China was seen as very relevant to all participating countries. Around a thousand individuals participated in project related consultations, meetings and workshops. Workshops were highly rated by participants and there is some evidence that learning is being put into practice.

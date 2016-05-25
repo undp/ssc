@@ -1,0 +1,40 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ARG
+  -  BEL
+  -  CHL
+  -  DNK
+  -  EST
+  -  FRA
+  -  DEU
+  -  GRC
+  -  IRL
+  -  ITA
+  -  NLD
+  -  NOR
+  -  RUS
+  -  SRB
+  -  ZAF
+  -  ESP
+  -  TUR
+  -  GBR
+  -  ZWE
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: International Conference of Local Authorities in Solidarity with the Palestinian People Local Authorities at the Heart of the State of Palestine November 21-23, 2014
+scale: global 
+project_objective: 
+territorial_focus: 
+  - FS
+undp_role_type: 
+  - KS
+project_link: http//middleeast-business.com/international-conference-of-local-authorities/
+published: true
+import_source: 
+---
+End of Conference Technical Report December 2014 (Draft)

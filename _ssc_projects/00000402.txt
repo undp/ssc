@@ -1,0 +1,34 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ARG
+  -  BOL
+  -  BRA
+  -  CHL
+  -  COL
+  -  CRI
+  -  CUB
+  -  DOM
+  -  ECU
+  -  GTM
+  -  HND
+  -  PRY
+  -  PER
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Taller de la Red Iberoamericana de Bosques Modelo
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.bosquesmodelo.net/wp-content/uploads/2014/06/Directorio-RIABM-y-Taller-Ecuador-marzo-2014.pdf
+published: true
+import_source: 
+---
+El PNUD en Ecuador tuvo el rol de broker de conocimiento y organizador del Taller de la Red Iberoamericana de Bosques Modelo. Abril –Junio 2014 Publicacion Ministerio del Ambiente, Boletin Somos SNAP No. 6, 2014 Memoria el Taller “La construccion de la sostenibilidad para la gestion territorial

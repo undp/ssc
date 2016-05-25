@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MHL
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Peer Review of UN Convention Against Corruption (UNCAC)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - PF
+project_link: http//www.undp.org/content/dam/rbap/docs/Research%20&%20Publications/mdg/PC_UNDP_UNODC_Joint_Pacific_ProDoc.pdf
+published: true
+import_source: 
+---
+Carrying out an UNCAC peer review of another country increases the responsibility and obligation of GoPNG review/lead by example in the fight against corruption. This increased obligation and slowly growing commitment has allowed new anti-corruption initiatives, such as ‘Phones Against Corruption’.

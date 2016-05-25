@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AUT
+  -  BGR
+  -  MNE
+  -  TUR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Parliamentary Development for Social Policies
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ks.undp.org/content/kosovo/en/home/operations/projects/democratic_governance/PDSP.html
+published: true
+import_source: 
+---
+Coordinated AoK MPs participation in study tours and conferences in Montenegro, Macedonia, Bulgaria, Turkey and Austria,  AoK Committee on Health, Labour and Social Welfare undertook a knowledge and experience exchange visit to Albania to analyze the regional arrangement on policies regulated by the Law on Medications and the Law on Vocational Ability, Rehabilitation and Employment of People with Disabilities.  Workshop held for drafting the ‘Law on Medications”

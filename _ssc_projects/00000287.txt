@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - HRV
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Regional Conference on Natural Disasters in South-East Europe
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ba.undp.org/content/bosnia_and_herzegovina/en/home/presscenter/articles/2014/11/06/strategic-preparation-and-prevention-within-and-between-states-crucial-for-managing-natural-disasters-south-east-europe-conference-concludes.html
+published: true
+import_source: 
+---
+The Conference provided for sharing of information and solutions for reducing flood risk, and enhancing cross-border cooperation in risk mitigation and flood protection. It resulted in the review of concrete lessons learned and definition of ways ahead.

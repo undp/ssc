@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MYS
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: The Development of the Continuous Education Curriculum of the Judiciary in the Maldives
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - SIDS
+undp_role_type: 
+  - PF
+project_link: http//www.mv.undp.org/content/maldives/en/home/presscenter/articles/2015/08/20/supreme-court-endorses-a-new-continuous-education-curriculum-for-judicial-training.html
+published: true
+import_source: 
+---
+The curriculum will be completed in the first quarter of 2015

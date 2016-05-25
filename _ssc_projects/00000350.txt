@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - EGY
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: sexual and gender-based violence
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.rs.undp.org/content/serbia/en/home/ourwork/povertyreduction/successstories/combating-the-violence-against-women-.html
+published: true
+import_source: 
+---
+Inter-regional knowledge exchange was facilitated between Egypt and Serbia Country Offices to help them advise national counterparts on policies and programming to address sexual and gender-based violence

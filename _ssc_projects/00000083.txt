@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - RWA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Voyage d’étude sur les bonnes pratiques en matière de modernisation de services publiques.
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience sur  sur les bonnes pratiques en matière de modernisation de services publiques
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.ne.undp.org/content/niger/fr/home/operations/projects/democratic_governance/ficheDecentralisation.html;http//www.ambafrance-ne.org/FSP-MEDEN-Modernisation-de-l-Etat
+published: true
+import_source: 
+---
+Le PNUD a facilite cette mission, qui a permis au Haut-Commissariat à la Modernisation de l’Etat d’apprécier les outils et procédés utilisés par le Rwanda dans le cadre de la simplification des procédures des services publics et de comprendre les axes stratégiques constituant la base de l’édification d’une administration publique moderne. L’exploitation des enseignements de la mission pour améliorer les résultats au Niger est en cours, la mission ayant eu lieu fin novembre (Rapport disponible).

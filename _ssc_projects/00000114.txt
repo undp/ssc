@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ETH
+  -  KEN
+  -  NPL
+  -  PHL
+  -  VNM
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Through the Climate Change Africa Adaptation Initiative, Tanzania engaged with Ethiopia, Philippines and Kenya in addition to Community Based Adaptation Conference (CBA 8) in Nepal.
+scale: country-country
+project_objective: The objective project is learning and experience sharing on the establishment, institutional structure, and management and governance of CC financing mechanism.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.tz.undp.org/content/tanzania/en/home/operations/projects/climatechange_energy/mainstreaming-climate-change-adaptation-through-small-grants-pro.html
+published: true
+import_source: 
+---
+UNDP supported the capacity development of key institutions capacity of VPO, MoF, NEMC improved - ADR 2014, there is an increased number of community based small-scale mitigation and adaptation projects implemented in Zanzibar as a result of knowledge and experience gained in Nepal which contributed to a proper assessment of projects and improved management; capacity of programme managers enhanced. Ref ADR 2014, Project Progress Report

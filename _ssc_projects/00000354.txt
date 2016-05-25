@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - TJK
+  -  TUR
+region: 
+  - europe_cis
+partner_type: 
+  - private sector
+  -  government
+project_title: Aid for Trade Project/Support to implementation of post WTO accession plan
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/SVK/Aid%20for%20Trade%20phase%20III_signed.pdf;https//www.unece.org/fileadmin/DAM/SPECA/documents/gc/session9/ProjProp1_TradeFacilitation.pdf
+published: true
+import_source: 
+---
+The tour was organized in the framework of its Aid for Trade Project in close cooperation with the Embassy of Turkey in Tajikistan. During the tour delegates got acquainted with the multilateral trade system, market access negotiations for non-agricultural goods and agreement of IT, trade defense policy, technical barriers to trade and other WTO related issues. They learnt how to benefit from the WTO membership and promote interests of local entrepreneurs on the global trading arena.

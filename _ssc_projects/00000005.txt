@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BDI
+  -  SGP
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: ’Plan directeur innovant pour guider le développement à venir de la capitale du Burundi’’
+scale: country-country
+project_objective: Elaborer le Plan strategique directeur de Bujumbura 2045 (Bujumbura et ses environs) pour guider le futur développement de la capitale du Burundi 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: http//www.bi.undp.org/content/burundi/fr/home/presscenter/articles/2014/07/10/bujumbura-2045-un-developpement-durable-pour-une-capitale-tournee-vers-l-avenir.html;http//www.bi.undp.org/content/burundi/fr/home/presscenter/speeches/2014/07/10/signature-du-document-de-projet-et-de-l-accord-de-cooperation-entre-les-gouvernements-du-burundi-et-de-singapour.html
+published: true
+import_source: 
+---
+ Le PNUD a soutienu l’organisation générale de la planification dans la préparation de la vision de développement stratégique et du Plan directeur pour la capitale. Rapport 2014 de mis en oeuvre du projet par Singapore CE

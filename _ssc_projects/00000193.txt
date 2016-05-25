@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - TUR
+region: 
+  - asia_pacific
+partner_type: 
+  - cso
+  -  government
+project_title: Enhanced capacities of selected state, district and township administrations and state parliaments to establish participatory and responsive planning, budgeting and monitoring mechanisms
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.mm.undp.org/content/myanmar/en/home/presscenter/events/2015/february/Myanmar_Good_Governance_Forum.html
+published: true
+import_source: 
+---
+The government has invited several of the stakeholders met to participate in the Good governance Forum, Feb 2015. Further discussions on how a partnership can be established  will be facilitated by UNDP during the Forum. In addition a meeting with the delegation and the Ambassadors from Turkey and Sweden is planned to further seek bilateral collaborations

@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - KEN
+  -  TZA
+  -  UGA
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Transformational political leadership for Somalia
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.so.undp.org/content/somalia/en/home/ourwork/womenempowerment/successstories/devt.html
+published: true
+import_source: 
+---
+Transformational political leadership for Somalia enhanced the leadership skills of women MPs and revived the Somali women parliamentary association

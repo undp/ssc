@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - MUS
+  -  SYC
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Grid Connected Rooftop PV Systems Project- Renewable Energy Technologies (GEF)
+scale: country-country
+project_objective: Objective of the project is to initiate a programme for the training of PV system trainers and installers in the Seychelles. The aim is for the Seychelles Institute of Technology (SIT) to be able to train and award certification in the design and installation of PV systems.
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.unicnairobi.org/newsletter/UNSeychellesNewsletter_July-Oct2014.pdf;http//www.mu.undp.org/content/mauritius_and_seychelles/en/home/ourwork/environmentandenergy/successstories/energy-efficiency.html
+published: true
+import_source: 
+---
+Through UNDP's technical expertise and faclilitation of knowlege exchanges between Mauritius and the Seychelles, helped the Seychelles Energy Commission gather information on capacity building, technical and legal aspects of PV. Following the visit, the Seychelles Institute of Training developed a course for PV installers.   The legal framework for the implementation of Grid connected PV is already in place as a result of the exchange initiatives.

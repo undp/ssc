@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - LBY
+  -  TUN
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Tunisian and Libyan youth Cooperation and exchange of experience
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ly.undp.org/content/libya/en/home/presscenter/articles/2014/12/16/libyan-tunisian-youth-forum.html
+published: true
+import_source: 
+---
+The initiative created a platform for exchanging the experience the youth in post revolution transitions. It contributed to transitional governance through civic engagement and dialogue as it created an enabling environment for Libyan youth to gain knowledge from Tunisian democratic processes.

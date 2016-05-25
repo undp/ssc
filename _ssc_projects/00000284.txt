@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - EGY
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Spot the future
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//europeandcis.undp.org/blog/2014/03/31/back-to-the-future-innovation-takes-flight/;http//europeandcis.undp.org/blog/2014/04/28/riding-edge-future-we-want-today/;https//edgeryders.eu/en/futurespotters-workshops-the-aftermath
+published: true
+import_source: 
+---
+UNDP supported Edgeryders'  foresight exercise “Spot the Future” to open their web home to the fresh voices of social innovators in the three countries, engage them in a global conversation and figure out  what works and what doesn’t. They presented their findings as valuable inspiration for the UN’s development programmes across Europe, and not least, for people who were building the future everywhere. Their achievements included Developed Pasture Management Concept Design as basis for the pasture rehabilitation pilots in Armenia. 1- A fledgling network that connected people doing innovative work at the edges across Armenia, Egypt and Georgia 2- Discovery of unknown societal challenges and exchange of new perspectives, knowledge and solutions, across countries 3- Emergent, bottom up collaboration between the Spot the Future protagonists and Edgeryders wider community. (Georgian unMonasteries, anyone?!)

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MYS
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Knowledge sharing on natural lake Management mechanism
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.mm.undp.org/content/myanmar/en/home/presscenter/articles/2014/06/06/sharing-knowledge-on-lake-management-practices.html
+published: true
+import_source: 
+---
+Knowledge gained on natural lake management mechanism through SSC, provided the government at national and local levels with necessary information to set up an Inle Lake management mechanism

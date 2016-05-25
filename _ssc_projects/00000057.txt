@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MAR
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Partenariat entre l’Observatoire du Développement Humain du Maroc et celui du Mali
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience entre l’Observatoire du Développement Humain du Maroc et celui du Mali
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.ondh.ma/fr/evenements/conference-internationale-methodes-mesure-developpement-humain-et-approches-devaluation;http//www.ml.undp.org/content/mali/fr/home/presscenter/articles/2013/07/25/au-mali-le-rapport-national-sur-le-d-veloppement-humain-a-pour-th-me-la-protection-sociale.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu le Rapport de mission du Directeur de l'Observatoire du Mali et le projet d'accord de partenariat entre l'Observatoire du Mali et celui du Maroc

@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BEN
+  -  MLI
+  -  MOZ
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Mission d’études du Gouvernement dans 3 pays (Mozambique, Mali et Benin)
+scale: regional
+project_objective: L’objectif de la mission pour l’équipe de la fonction de publique était d’aller s’enquérir des expériences  en reformes de l’administration publique des 3 pays pour redynamiser le processus de réforme au niveau de la Guinée-Bissau.
+territorial_focus: 
+  - SIDS
+  -  LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.gw.undp.org/content/guinea_bissau/fr/home/operations/projects/democratic_governance/reformeadministrationpublique.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu la production du rapport de mission sur le Plan stratégique du Ministère et programme de réforme en cours d’élaboration.

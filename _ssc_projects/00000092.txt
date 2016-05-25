@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BFA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Cooperation between Burkina Faso and Rwanda on Poverty and Environment Initiative (PEI)
+scale: country-country
+project_objective: The objective was to learn about Environment and Natural Resources mainstreaming in the development agenda and to understand contribution of Green villages in the poverty reduction process. 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.unpei.org/what-we-do/pei-countries/rwanda
+published: true
+import_source: 
+---
+UNDP facilitated the exchange between the two countries and has provided Rwandan authorities with a motivation to develop toolkits of green village standards. Likewise Burkina Faso was committed to apply the green village approach to their country.

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CMR
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Centre de contrôle inter-pays (Cameroun-Congo-Gabon)
+scale: country-country
+project_objective: L'objectif du projet est de réduire l’impact des menaces et à mettre en place les systèmes de gestion des ressources et de financement à long terme.
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: http//www.cm.undp.org/content/cameroon/fr/home/operations/projects/environment_and_energy/programme-d-adaptation-au-changement-climatique.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu l'établissement des centre de contrôle et l'association des ex-braconniers (ARBRAT). Ces centres sont opérationnels.

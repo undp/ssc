@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BGD
+  -  CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Prototype on innovative urban service delivery
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.asia-pacific.undp.org/content/rbap/en/home/blog/2015/1/13/Inspired-by-China-Made-in-Bangladesh-.html
+published: true
+import_source: 
+---
+The city of Gazipur prepared a field-level implementation plan to introduce a one-stop social service centre, replicating the prototype developed during the exchange (Gazipur Minutes 2014). The prototype has been endorsed by the mayors of five cities. The service centres will provide a central location for public service delivery, reducing waiting times and increasing accessibility to the urban poor.

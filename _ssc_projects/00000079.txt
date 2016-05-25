@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MLI
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Formation des ONG intervenant dans le cadre des Plateformes Multi fonctionnelles
+scale: country-country
+project_objective: L’objectif est le renforcement des capacités sur la gestion des Plateformes Multi fonctionnelles
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: http//www.ne.undp.org/content/niger/fr/home/operations/projects/environment_and_energy/promotion-des-energies-renouvelables-.html
+published: true
+import_source: 
+---
+Le PNDU a soutenu l'amélioration de la qualité de l’auto-évaluation 2014 des PTFM suite à la formation qui a permis aux acteurs impliqués dans la mise en œuvre du projet au Niger de renforcer leurs capacités en matière de collecte et traitement des données.

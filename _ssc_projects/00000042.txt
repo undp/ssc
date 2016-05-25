@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ETH
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Economie du changement climatique
+scale: country-country
+project_objective: Missions de formation/échange expérience à Addis Abeba portant sur économie du changement climatique. Prise en compte d’économie du changement climatique dans programme et politique
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: http//www.undp.org/content/guinea/fr/home/operations/projects/environment_and_energy/renforcement-de-la-resilience-et-adaptation-aux-impacts-negatifs-du-changement-climatique-dans-les-zones-cotieres-vulnerables-de-la-guinee.html
+published: true
+import_source: 
+---
+Quoique les resultats  tangibles ne soient pas perceptibles en ce moment, en raison du fait que initiative vient de se realiser y a quelques mois, elle a toutefois, permis de rencorcer les capacites de 2 cadres du pays sur la thematique

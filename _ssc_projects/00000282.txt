@@ -1,0 +1,47 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ALB
+  -  ARG
+  -  BLR
+  -  BOL
+  -  BIH
+  -  BRA
+  -  BGR
+  -  CHL
+  -  HRV
+  -  GEO
+  -  KAZ
+  -  KGZ
+  -  MNE
+  -  PRY
+  -  PER
+  -  MDA
+  -  ROU
+  -  RUS
+  -  SRB
+  -  TJK
+  -  MKD
+  -  TKM
+  -  UKR
+  -  URY
+  -  UZB
+  -  VEN
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Participation in “Global South-South Development Expo 2014”, Washington.
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//ssc.undp.org/content/ssc/services/expo/main.html
+published: true
+import_source: 
+---
+http//ssc.undp.org/content/ssc/services/expo/main.html

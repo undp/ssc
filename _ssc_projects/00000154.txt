@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+  -  ETH
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: The 5th Africa-China Poverty Reduction and Development Conference
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.cn.undp.org/content/china/en/home/presscenter/pressreleases/2014/11/countries-in-africa-and-china-renew-their-commitment-to-jointly-.html
+published: true
+import_source: 
+---
+Several participants from African countries stated that they will use conference findings and studies (presented and forthcoming) in their future industrialization plans. IPRCC, UNDP and the AUC noted that the findings could be helpful for preparations for the forthcoming 6th Africa-China Poverty Reduction and Development Conference in late 2015 in South Africa, and help strengthen the political momentum behind China and Africa initiatives for structural transformation and poverty reduction.

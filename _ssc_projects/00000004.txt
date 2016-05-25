@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BDI
+  -  MLI
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Professionnalisation de la Magistrature Burundaise
+scale: country-country
+project_objective: Contribuer au renforcement des capacités de la Magistrature Burundaise
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+  -  PF
+project_link: http//www.bi.undp.org/content/dam/burundi/docs/Fiches%20projet/Fiche%20projet%20Appui%20SNBGLC.pdf
+published: true
+import_source: 
+---
+Le PNUD a facilité une echange de  correspondances entre les Ministres de la Justice Burundais et Malien et l’existence de l’accord de partenariat.

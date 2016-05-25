@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - TUN
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Initiative de coopération  Sud-Sud entre l’Agence Djiboutienne de Maitrise de l’Energie et l’Agence Nationale pour la Maitrise de l’Energie de Tunisie
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.dj.undp.org/content/djibouti/fr/home/presscenter/articles/2013/11/03/signature-du-projet-d-appui-l-agence-djiboutienne-pour-la-maitrise-de-l-energie-.html
+published: true
+import_source: 
+---
+La mission  de l’Agence Tunisienne à Djibouti a fait un plaidoyer auprès du Ministre de l’Energie  et auprès  des ministères du budget et du ministère de l’environnement. Grace à ce plaidoyer, le gouvernement a décidé d’allouer un budget pour des projets de maitrise de l’énergie en 2015. D’autre part la coopération avec la Tunisie et celle entre le PNUD Tunisie et le PNUD Djibouti a permis d’identifier des axes de coopération dans le domaine de la  maitrise de l’énergie.

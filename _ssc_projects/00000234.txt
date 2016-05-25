@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MEX
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Viet Nam’s participation in the international network on Multidimensional Poverty supported
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.mppn.org/mppn_news/ho-chi-minh-takes-lead-in-piloting-a-new-multidimensional-poverty-measure-in-vietnam/
+published: true
+import_source: 
+---
+Viet Nam’s participation in international MDP network resulted in its high commitment and progress on adapting MDP to national poverty reduction framework.

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BFA
+  -  EGY
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Certificat de Gouvernance Locale des Zones Humides
+scale: country-country
+project_objective: L'objectif du project est de former des étudiants, des cadres de conception, des gestionnaires et planificateurs des zones humides et singulièrement des Sites de Ramsar en vue de disposer d’une masse critique de ressources humaines à même d’insuffler une nouvelle dynamique de gestion rationnelle des espèces et des écosystèmes humides.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: http//fr.allafrica.com/stories/201412291678.html;http//www.usenghor-francophonie.org/Events/2089/AppelCertificat.html
+published: true
+import_source: 
+---
+Le PNUD a facilité et soutenu le Projet COGEL qui a permis la mise en place d’un certificat sur la Gouvernance Locale des Zones Humides en Afrique

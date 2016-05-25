@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - IRN
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: the Persian Outreach Programme organized by GICHD and supported by UNDP
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.gichd.org/what-we-do/calendar-of-events/training/event/persian-language-outreach-programme-workshop-national-mine-action-standards-1358246923/#.VjdroLerTIU
+published: true
+import_source: 
+---
+The Persian Outreach Programme (POP) workshop in Tehran contributed efficiency and effectiveness of the Land Release activities in general. UNDP STMAP and TNMAC staff upgraded their knowledge on operational efficiency, developing/updating the National Mine Action Standards (NMAS) as well as in developing the Completion Plan. This experience was used while developing the NMAS and other Land Release related documents (E41)

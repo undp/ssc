@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MDA
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: UNDP Moldova study visits to Cyprus
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.cy.undp.org/content/cyprus/en/home/operations/projects/partnershipforthefuture/support-to-cultural-heritage-monuments-of-great-importance-for-t.html
+published: true
+import_source: 
+---
+This was an initiative of UNDP Moldova to which both UNDP-PFF and UNDP-ACT contributed by providing logistic assitance and facilitating exchange of experiences with local counterparts.

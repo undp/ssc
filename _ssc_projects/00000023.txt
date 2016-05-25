@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - KEN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Amélioration du réseau national d’observation du temps à travers un état des lieux des dispositifs et systèmes de télécommunication existants
+scale: country-country
+project_objective: L'objectif du projet est d'evaluer les capacités, outils et de technologies pour réduire leurs vulnérabilité face aux changement climatiquesdes 
+territorial_focus: 
+  - SIDS
+  -  LDC
+  -  FS
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.km.undp.org/content/comoros/fr/home/operations/projects/environment_and_energy/renforcement-des-capacites-d-adaptation-et-de-resilience-du-sect.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu la mission qui a permis  d’etablir un diagnostic du systeme de telecommunication et du reseau d’observation meteorologique ; de proposer des solutions pour les telecommunications meteorologiques ; de redefinir les besoins en equipements de collecte et de retransmission des donnees (comprenant les liens avec d autres institutions et les solutions pour l amelioration de la collecte de donnees) ; proposer des solutions d’acquisition de donnees satellites, et de produits meteorologiques et climatiques

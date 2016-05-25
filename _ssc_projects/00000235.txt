@@ -1,0 +1,36 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - COK
+  -  FSM
+  -  FJI
+  -  MHL
+  -  NRU
+  -  NIU
+  -  PLW
+  -  PNG
+  -  WSM
+  -  SLB
+  -  TON
+  -  TUV
+  -  VUT
+region: 
+  - asia_pacific
+partner_type: 
+  - cso
+  -  government
+  -  private sector
+project_title: SIDS Conference, SAMOA Pathway and SIDS Action Platform
+scale: global 
+project_objective: 
+territorial_focus: 
+  - SIDS
+undp_role_type: 
+  - PF
+project_link: http//www.sids2014.org/samoapathway
+published: true
+import_source: 
+---
+301 partnerships, valued at over USD 1.9 billion [UN], were registered during the conference, to address a broad range of challenges facing SIDS, between governments, businesses and CSOs from all over the world. Over one-third of the partnerships registered were announced during the conference, including new partnerships worth potential USD625 million, while existing partnerships made new commitments amounting to USD $1.28 billion.

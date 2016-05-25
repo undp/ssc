@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BGD
+  -  IND
+  -  TZA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Study visit to Tanzania, Bangladesh and India on alternative financing for women
+scale: country-country
+project_objective: The objective of the study visit is knowledge and experience sharing on micro-financing, special financing and women’s banks models
+territorial_focus: 
+  - FS
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/ZWE/2014%20Annual%20Report.pdf
+published: true
+import_source: 
+---
+UNDP facilitated a study visit. As a result, a technical report on alternative financing for women was developed, drawing on the lessons learned based on the different models showcased during the respective visits.

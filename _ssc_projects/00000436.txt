@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - PER
+  -  YEM
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Mission of support to implementation of transitional justice by Commission on Forcibly Dismissed Employees.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//www.ictj.org/sites/default/files/ICTJ-Book-Truth-Seeking-2013-English.pdf
+published: true
+import_source: 
+---
+The Peru UNDP CO does not have evidence of results that may have been achieved in Yemen in 2014 as a result of this mission.

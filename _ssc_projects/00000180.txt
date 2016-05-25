@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - KHM
+  -  LAO
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Climate change adaptation in the agricultural sector
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.undp-alm.org/projects/ldcf1-lao-pdr
+published: true
+import_source: 
+---
+Information shared on specific crops and vegetables adapted to drought and flood conditions, school visits to view student climate adaptation study plots and meetings with high level Government officials resulted in constructive feedback from Cambodian delegates for continued implementation.

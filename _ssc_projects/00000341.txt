@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - HRV
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Regional EU Integration Facility
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.me.undp.org/content/montenegro/en/home/operations/projects/democratic_governance/eu-accession.html
+published: true
+import_source: 
+---
+Revision of the Action Plans for Chapter 23 and 24 ongoing.

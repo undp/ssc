@@ -1,0 +1,28 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - CHN
+  -  DNK
+  -  GHA
+  -  ZWE
+region: 
+  - africa
+partner_type: 
+  - private sector
+  -  government
+project_title: China-Ghana South-South Cooperation on Renewable Energy Technology Transfer project
+scale: country-country
+project_objective: The objective of the  project To facilitate the development and transfer of renewable energy technologies from China to Ghana along with the support required to make the technologies effective, including capacity building, transfer of know-how and best practices. The project will operate both at the upstream level (supporting the creation of an enabling environment for technology transfer) and downstream level (actual transfer and demonstration of technologies with potential upscaling by the private sector).
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+  -  PF
+project_link: http//www.gh.undp.org/content/ghana/en/home/operations/projects/environment_and_energy/china-ghana-south-south-cooperation-on-renewable-energy-technolo.html;http//www.cn.undp.org/content/china/en/home/presscenter/articles/2014/05/meeting-finalize-RETT-project-china-ghana/
+published: true
+import_source: 
+---
+The development of this initiative, in which UNDP facilitiated the partnership, funded by Denmark and run in parallel with a similar initiative between China and Zambia, was completed this year with approval from the donor and the signing of the project documents in Ghana and China. Implementation will start in 2015 until 2018. 

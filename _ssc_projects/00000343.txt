@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - TJK
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: carbon foot printing 
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.eurasia.undp.org/content/rbec/en/home/library/hiv_aids/Carbon_footprint_UNDP_Global_Fund_health_initiatives_Montenegro_Tajikistan.html
+published: true
+import_source: 
+---
+Sharing of knowledge and experiences

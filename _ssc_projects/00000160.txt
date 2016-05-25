@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: UNDP-China MOFCOM Secondment Programme
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: http//www.cn.undp.org/content/china/en/home/presscenter/speeches/2014/01.html
+published: true
+import_source: 
+---
+Two Chinese officials gained experience working in international organization and brought back to MOFCOM’s Department of Foreign Aid a better understanding of international best practices and standards for evaluation. Secondees received optimal exposure of UNDP’s expertise, experience and methodological know-how.

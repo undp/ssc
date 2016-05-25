@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - IND
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Support for the Development of an Informal Sector Pension Scheme (ISPS) as a channel for long term savings mobilization and financial risk mitigation
+scale: country-country
+project_objective: Objective of the project was knowledge exchange on the development of a Pension Scheme for Informal sector.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//tcdc2.undp.org/GSSDAcademy/SIE/Docs/Vol18/SIE_v18_ch15.pdf
+published: true
+import_source: 
+---
+UNDP supported the Pension Scheme for Informal sector, which once implemented,  will significantly contribute to reducing economic shocks/risks for the elderly age population and also minimize the government’s risks pertaining to the cross-generational burden, which contributes to one of the CO results on pro poor growth and economic transformation.

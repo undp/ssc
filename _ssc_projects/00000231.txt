@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - STP
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Study visit  by senior officials from Sao Tome and Principe to Timor-Leste to learn about the Integrated Information Management Systems (IIMS)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - SIDS
+  -  LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/TLS/2014%20JSP%20Annual%20Report%20-FINAL.pdf
+published: true
+import_source: 
+---
+The study visit has contributed to enhance existing knowledge and skills of the justice institutions in understanding the system’s potential, strengths and areas for improvement.

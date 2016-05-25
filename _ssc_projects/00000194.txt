@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - IDN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Strengthening Social Cohesion in Myanmar
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.mm.undp.org/content/myanmar/en/home/presscenter/pressreleases/2013/04/social-cohesion.html
+published: true
+import_source: 
+---
+It is too early to observe evidence of its contribution to results for 2014

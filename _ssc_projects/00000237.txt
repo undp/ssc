@@ -1,0 +1,29 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - DZA
+  -  EGY
+  -  JOR
+  -  LBN
+  -  MAR
+  -  QAT
+  -  SAU
+  -  ARE
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Arab Regional South/south expo
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//doha.southsouthexpo.org/
+published: true
+import_source: 
+---
+UNDP facilited the exchange of experiences through the organization of the first Arab States Regional South-South Development Expo, hosted by the State of Qatar to raise regional awareness by showcasing and scaling up the impact of successful evidence-based solutions crafted and tested by countries in the Arab States region in addressing development challenges pertinent to their specific needs and aspirations. The EXPO results report produced and the level of participation was very high.

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ZAF
+region: 
+  - arab_states
+partner_type: 
+  - cso
+  -  government
+project_title: Study tour to South Africa on gender mainstreaming in electoral administration
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.derebus.org.za/lssa-hosts-egyptian-electoral-study-delegation/
+published: true
+import_source: 
+---
+The Judge representing the Ministry of Transitional Justice in the Study Tour  announced in a newspaper article that the Ministry is currently drafting legislation for the establishment of commissions for non-discrimination, transitional justice, as well elections, building on the South African experience

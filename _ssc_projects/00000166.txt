@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - IDN
+  -  MMR
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Strengthening Women’s Leadership & Participation in Social Cohesion and Peacebuilding initiatives through SSTC between Indonesia and Myanmar (Peace Through Development in Disadvantage Areas Project, PTDDA 60770)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.id.undp.org/content/indonesia/en/home/operations/projects/crisis_prevention_and_recovery/the-peace-through-development-in-disadvantaged-areas--ptdda-.html
+published: true
+import_source: 
+---
+The initial work has produced an assessment of women’s leadership and participation issues in social cohesion and peacebuilding initiatives in both Indonesia and Myanmar. This was an initial activity implemented in November-December 2014.   A workshop to discuss the assessment results was conducted during December 2014 in Indonesia, with participants from Myanmar (E110 Social Cohesion). This work will be built on in 2015.

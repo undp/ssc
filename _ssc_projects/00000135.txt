@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AFG
+  -  JPN
+  -  TUR
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Afghan Police training at Sivas Police Training Academy
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.af.undp.org/content/dam/afghanistan/docs/crisisprev/LOTFA/LOTFA-3QPR-2013.pdf;http//www.af.undp.org/content/afghanistan/en/home/presscenter/pressreleases/2013/11/30/afghan-police-cadets-return-from-training-in-turkey.html
+published: true
+import_source: 
+---
+Indirectly the 'higher education' condition for entering may have led to more higher educated female police recruitment. There is no written evidence or evidence on how training is used on the job. Questions have been raised by donors and CO on training content;  cost, gender sensitivity (jealous colleagues; questions by family). In response the content has been revised and follow up trainings are provided in Kabul.

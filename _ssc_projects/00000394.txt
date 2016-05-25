@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MEX
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Proyecto 00083239 - Apoyo para acceso a redes del conocimiento del Sur Participacion de autoridades del Gobierno de Artemisa en Foro Geoespacial Latinoamericano realizado en Mexico.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/CUB/00083239-00091821%20PRODOC%20ARTEMISA.pdf
+published: true
+import_source: 
+---
+El PNUD en Cuba facilitó el intercambio de experiencias y el encuentro entre las partes interesadas a través de las oficinas de PNUD en México. Resultado de esta Propuesta actividad especifica dentro del proyecto para la creacion de infraestructura de datos espaciales en Artemisa, a partir de la participacion en el foro y en Alianza con la Universidad Politecnica cubana

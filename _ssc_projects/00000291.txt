@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - HRV
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Study Visit to LAG in Croatia
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//open.undp.org/#project/00057476
+published: true
+import_source: 
+---
+The lessons learned from the study visit were incorporated in the establishment of LAG for Birac Region, officialised in December 2014.

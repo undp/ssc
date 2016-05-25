@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - GHA
+  -  KEN
+  -  ZMB
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Strategic planning, policy and operational capacities of INEC strengthened;ICT and Election Conference
+scale: regional
+project_objective: Peer learning and knowledge transfer on opportunities and limitations on ICTs in the electoral process
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/nigeria/en/home/operations/projects/democratic_governance/democratic-governance-for-development.html
+published: true
+import_source: 
+---
+Lessons learned from the conference contributed to INEC developing   contingency plans to support the deployment of ICTs for the 2015 electoral process

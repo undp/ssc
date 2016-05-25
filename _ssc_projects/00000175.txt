@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Partnership initiative Four Study Tours on Sustainable Management of Land and Water Resource Phase II Project conducted within Iran and visit by a Chinese delegation.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.ir.undp.org/content/iran/en/home/operations/projects/inclusive_growth_development/SMLWR.html
+published: true
+import_source: 
+---
+The herbal production through local community was promoted and proved as the best sustainable industry, as well as management of water in the arid region&reducing in energy use thereby reducing.Also pilot sites were identified for institutional strengthening. These efforts once will fully implemented will contribute to the development of an integrated planning &management of land & water resources in a water basin for achieving sustainable development.

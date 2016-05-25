@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ARG
+region: 
+  - lac
+partner_type: 
+  - private sector
+  -  government
+  -  academia
+project_title: Visita de Argentina – Salta al departamento de Tarija Noviembre 2014 Instituciones Salta Ministerio Desarrollo Social, Educación y Municipalidad Salta. Bolivia Gobierno Dep. Tarija, Subgobernación Cercado, Universidad Pública, Agencia Desarrollo Económico LP
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/BOL/Informe%20semestral%20ART%20Diciembre%202014.pdf
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias y el encuentro entre las partes interesadas. Actualmente se está buscando financiamiento para profundizar los intercambios en dos temáticas priorizadas comunes a cada territorios - Turismo  - Participación de la academia el desarrollo de la economía social comunitaria

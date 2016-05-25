@@ -1,0 +1,30 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BGD
+  -  CRI
+  -  IDN
+  -  MWI
+  -  NGA
+  -  ZAF
+  -  TUR
+region: 
+  - lac
+partner_type: 
+  - cso
+  -  government
+  -  private sector
+project_title: Support for the  Global Partnership for Effective Development Cooperation (AGCED)
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: http//effectivecooperation.org/
+published: true
+import_source: 
+---
+Follow-up is currently underway on the AGCED regional strategy, led AMEXCID. Within the framework of AGCED’s first HLM, UNDP Mexico facilitated (together with AMEXCID, the OECD, UNDP HQ and the Regional Center in Panama) the participation of more than 200 representatives from middle-income and lower-income countries, as well as representatives from civil society, the private sector, local government agencies and UN agencies.

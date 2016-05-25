@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BRA
+  -  IND
+  -  ZAF
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Construction of Nablus Special Needs Center
+scale: global 
+project_objective: 
+territorial_focus: 
+  - FS
+undp_role_type: 
+  - PF
+project_link: http//tcdc2.undp.org/IBSA/documents/UNDP_IBSA_Brochure.pdf
+published: true
+import_source: 
+---
+The project under the SSC framework considered one of the key achievements for supporting the national development agenda in 2014. The result outlined under the IBSA Fund Annual report 2014 - http//tcdc2.undp.org/ibsa/documents/Q1%202014/IBSA%20Report%202014_sm.pdf.

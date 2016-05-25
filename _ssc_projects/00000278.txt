@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - DJI
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Cooperation sud-sud dans le cadre de la promotion de l efficacite energetique en Tunisie.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.tn.undp.org/content/tunisia/fr/home/presscenter/articles/2014/06/14/signature-d-un-m-morandum-d-accord-dans-le-domaine-de-la-ma-trise-de-l-nerg-tique-.html
+published: true
+import_source: 
+---
+Signature d un protocole d’accord d une duree de deux ans renouvelables entre l’Agence Nationale de Maitrise de l Energie (Tunisie) et son homologue a Djibouti (Agence Djiboutienne de Maitrise de l Energie.

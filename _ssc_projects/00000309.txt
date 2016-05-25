@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - TJK
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Sustainable energy solutions
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.hr.undp.org/content/croatia/en/home/operations/projects/environment_and_energy/RemovingBarriers.html
+published: true
+import_source: 
+---
+initiative only started in 2014, will continue in 2015

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ETH
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Elaboration des plans nationaux d’adaptation au changement climatique.
+scale: country-country
+project_objective: Missions de Formation/ partage experience sur elaboration plan nationaux adaptation changement climatique. Deux cadres nationaux formes sur outils et methodes  pour elaborer des plans strategiques adaptation au changement
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: http//unfccc.int/resource/docs/napa/gin01f.pdf
+published: true
+import_source: 
+---
+Quoique les resultats  tangibles ne soient pas perceptibles en ce moment, en raison du fait que initiative vient de se realiser y a quelques mois elle a toutefois, permis de doter le pays en outils et methode pour elaboration des plans strategique nationaux d’adaptation au changement climatique.

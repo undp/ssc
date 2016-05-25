@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BDI
+  -  CIV
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Mise en place du Forum des femmes parlementaires de Guinee
+scale: regional
+project_objective: L’objectif est l’échange des expériences sur comment mettre les questions liées au genre au centre des débats au Parlement à travers le Forum des Femmes Parlementaires de Guinée (FOFPAG)
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.gn.undp.org/content/guinea/fr/home/presscenter/articles/2014/07/08/le-forum-renforce-lengagement-des-femmes-parlementaires-de-guinee.html
+published: true
+import_source: 
+---
+Le PNUD a appuyé la mise en place du Forum des Femmes Parlementaires de Guinée (FOFPAG) qui été crée (PV Assemblée générale constitutive) et les députes membres de ce forum ont mené des actions de plaidoyer et de lobbying en faveur de la prise en compte du genre dans les politiques publique et les instances de prise de décision.

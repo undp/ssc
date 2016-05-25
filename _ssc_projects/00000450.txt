@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - CUB
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Trinidad Pilot Replication of Cuban Risk Reduction Management Centre (RRMC) Model
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.odpm.gov.tt/sites/default/files/RRMC%20OVERVIEW%20POSTER_0.pdf
+published: true
+import_source: 
+---
+In 2014 the pilot administrative area experienced intense rainfall resulting in major flooding of low lying areas and the collapse of the main roadway. An independent rapid assessment of the capacity built by the pilot was conducted by the national DRM entity. The systems were shown to be still in use and working well to reduce response time for the provision of relief and the evacuation of at risk persons.

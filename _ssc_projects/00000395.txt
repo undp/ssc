@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - PER
+region: 
+  - lac
+partner_type: 
+  - private sector
+project_title: 00091822 - Apoyo al Banco Central de Cuba - para acceso a redes del conocimiento del Sur en temas especializados bancario-financieros Riesgos operativos, Balanza de pagos, planificacion estrategica, microcreditos y microfinanzas.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.undp.org/content/dam/undp/documents/iati_xml/CO_2014/Cuba_projects.xml;http//www.cu.undp.org/content/cuba/es/home/presscenter/articles/2014/11/03/apoya-el-pnud-en-cuba-la-modernizaci-n-del-sistema-bancario.html
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias y el encuentro entre las partes interesadas a través de las oficinas de PNUD en Perú. Como resultado El Banco Central y los Bancos comerciales cuentan con conocimientos actualizados especializados y mejores capacidades de analisis, proyeccion financiera y de nuevos instrumentos para ofrecer servicios financieros a la poblacion, cooperativas y privados.

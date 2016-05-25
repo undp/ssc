@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BWA
+  -  NAM
+  -  ZMB
+  -  ZWE
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Support the review of the Environmental Impact Assessment for the Kazungula bridge to mitigate the spread of HIV to adjacent countries (Zambia, Namibia, Botswana and Zimbabwe)
+scale: regional
+project_objective: Objective of project is to  strengthen regional cooperation on integrating CCIs in cross-border infrastructure projects using the Kazungula Bridge Project; formulate standard operating procedures from developed guidelines for practical integration of HIV and Gender into EIAs; and reach consensus on a common engagement framework for SADC or COMESA , with clarity on Division of Labor among Countries and Stakeholders on how to strengthen the integration of health, HIV, Gender and Human rights.
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.na.undp.org/content/namibia/en/home/operations/projects/hiv_aids/HIVEIAs.html
+published: true
+import_source: 
+---
+UNDP facilitated knowledge exchange between Zambia, Namibia, Botswana and Zimbabwe in order to support the review of the Environmental Impact Assessment (EIA) for the Kazungula bridge to mitigate the spread of HIV to adjacent countries  UNDP also supported the involved countries to review the process of the EIA to ensure the integration HIV and gender. As a result, the project was able to strengthen regional cooperation on integrating CCIs in cross-border infrastructure projects using the Kazungula Bridge Project.  It was also able to assist eh countries in formulating standard operating procedures from developed guidelines for practical integration of HIV and Gender into EIAs. And lastely, to reach consensus on a common engagement framework for SADC or COMESA , with clarity on division of labour among Countries and Stakeholders on how to strengthen the integration of health, HIV, Gender and Human rights

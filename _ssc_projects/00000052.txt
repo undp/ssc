@@ -1,0 +1,29 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - KEN
+  -  LSO
+  -  MWI
+  -  ZAF
+  -  TZA
+  -  UGA
+  -  ZWE
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Sustainable Land Management in Lesotho
+scale: regional
+project_objective: The goal of this project is that sustainable land management provides a strong base for sustainable development in Lesotho while providing a range of global benefits to the region. 
+territorial_focus: 
+  - MIC
+  -  LDC
+undp_role_type: 
+  - KS
+project_link: http//open.undp.org/#project/00050861
+published: true
+import_source: 
+---
+UNDP supported the SLM model in Lesotho while integrating some lessons learnt and techniques of other African countries, which now form part of the model taken over by communities through the Grazing Associations. Secondly, the conference itself benefited the SLM project in achieving its third outcome related to awareness raising and knowledge sharing. – all participating countries benefitting from understanding other practices.

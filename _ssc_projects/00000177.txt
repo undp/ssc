@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: China-Cambodia-UNDP Trilateral Cooperation Cassava Project Phase II (CCPII)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: https//info.undp.org/docs/pdc/Documents/KHM/Budget_Revision_G00_2013_84497_CCP2.pdf
+published: true
+import_source: 
+---
+Capacity development provided to officials from Provincial Department of Agriculture and to processor/exporter/farmers.Ministry of Agriculture, Forestry and Fishery - MAFF - has allocated 1M of the their budget to continue the implementation of this capacity development plan for the next 4 years.

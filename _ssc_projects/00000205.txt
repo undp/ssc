@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - PAK
+region: 
+  - asia_pacific
+partner_type: 
+  - cso
+  -  government
+project_title: Women's Political Participation and Leadership, SAARC
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - PF
+project_link: http//www.undp.org/content/dam/pakistan/docs/Democratic%20Governance/Strengthening%20Democracy/South%20Asia%20Regional%20Exchange%20Meeting%20-%20Joint%20Resolution.pdf
+published: true
+import_source: 
+---
+The Kathmandu declaration was the outcome of the meeting. It focuses on further  strengthening regional cooperation in advancing women economic, social and political empowerment. Since strengthening women electoral participation is one of the key results of this outcome, collective regional advocacy at different levels will contribute towards  achieving this result.

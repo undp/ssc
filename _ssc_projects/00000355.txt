@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - AFG
+  -  KGZ
+  -  TJK
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Learning experience of One Village - One Product initiative in Kyrgyzstan
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/undp/en/home/presscenter/pressreleases/2014/11/01/high-level-visitors-from-tajikistan-and-afghanistan-study-the-best-practices-of-one-village-one-product-initiative-in-kyrgyzstan.html
+published: true
+import_source: 
+---
+UNDP Tajikistan organized a four-day study tour in Kyrgyzstan for high-level officials and donor representatives from Tajikistan and Afghanistan to learn from the experiences of the “One Village – One Product” initiative (OVOP) implemented by JICA Kyrgyzstan. During the study tour the participants learned about the successes and challenges of OVOP implementation in Kyrgyzstan and discussed opportunities to replicate OVOP in Afghanistan and Tajikistan (E26).

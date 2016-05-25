@@ -1,0 +1,27 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - UGA
+  -  TZA
+  -  USA
+  -  ZMB
+  -  ZWE
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: 1. Performance based budgeting and public expenditure 2. Results Based management and performance indicators
+scale: regional
+project_objective: The objective of the project is building capacity and skills on  performance based budgeting and public expenditure and results Based management and performance indicators.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.undp.org/content/dam/undp/library/corporate/Executive%20Board/2015/Annual-session/English/DPDCPUGA3_CO%20Statement%20of%20Challenges%20%20Performance%2030%20Jan%202015.doc
+published: true
+import_source: 
+---
+UNDP supported the establishment of an existence of a functional Public Investment management Information system. (Source  Briefing Note on CDAE Project Capacity Development Programme for MoFPED/ALD, p.2)

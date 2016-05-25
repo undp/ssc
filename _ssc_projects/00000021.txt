@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - TZA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Projet Parlement pour le climat
+scale: country-country
+project_objective: Cette initative fournit aux parlementaires une plate-forme qui leur permet de se connecter, partager leurs expériences et promouvoir les énergies renouvelables dans leur pays. 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: http//www.cg.undp.org/content/congo/fr/home/operations/projects/environment_and_energy/projet-aap.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu l'établissement de la commission environnement, développement durable et affaires sociales au niveau du parlement a mis en place une sous-commission en charge de ces questions. L ’ONG a mis en place un réseau de producteurs des Foyers améliores. Au cours de la conférence avec les parlementaires, l’ONG a procédé a une exposition vente des prototypes des FAM; 3 campagnes de sensibilisation appuyées par des tests d efficacité des FAM ont été organisées.

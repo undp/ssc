@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - GHA
+region: 
+  - africa
+partner_type: 
+  - cso
+  -  government
+project_title: Integrated Entrepreneurship and Enterprise Development Project (EMPRETEC).
+scale: country-country
+project_objective:  The project aims to achieve the following i) Build and strengthen institutional capacities to implement entrepreneurship and enterprise development programmes; ii) To foster the emergence and development of a sustainable productive and competitive private sector in The Gambia; and iii) To create a platform to enhance stakeholder dialogue and advocacy for MSME development
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.gm.undp.org/content/dam/gambia/docs/GMB_UNDP_EMPRETECDocument.pdf;
+published: true
+import_source: 
+---
+UNDP facilitated knowlege exchange between EMPRETEC-Ghana and Gambia in which EMPRETEC-Ghana has provided technical inputs in helping the Gambia  finalize and sign a new project document on “Entrepreneurship and Enterprise Development” with the Ministry of Trade, Industry and Employment to support employment creation especially among women and youth. The South-South learning contributed to the development of a new integrated entrepreneurship and enterprise development project to improve the livelihood, employment opportunities as well as the management and leadership skills of women and youths.

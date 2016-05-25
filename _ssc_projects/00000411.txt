@@ -1,0 +1,30 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BLZ
+  -  BTN
+  -  FRA
+  -  GUY
+  -  PAN
+  -  SUR
+  -  CHE
+  -  USA
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: First International Conference on the impacts of REDD+for high-forest low-deforestation (HFLD) countries (E19)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//guianashield.org/index.php/projects-output/suriname;http//theredddesk.org/countries/guyana
+published: true
+import_source: 
+---
+Countries agreed to form a block and to make a strong case at international negotiations. 

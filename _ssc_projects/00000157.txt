@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+  -  MMR
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: The 8th China-ASEAN Forum on Social Development and Poverty Reduction (7-8 August 2014)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//news.xinhuanet.com/english/china/2014-08/07/c_133540063.htm;http//iipdigital.usembassy.gov/st/english/texttrans/2014/08/20140811305409.html#axzz3rIc4Zpqa
+published: true
+import_source: 
+---
+UNDP (Regional Center for Asia-Pacific and CO in Myanmar and China), in close collaboration with IPRCC, brought on board all the ASEAN member countries for this year’s Forum and contributed significantly to the design of the forum agenda, identification of appropriate international speakers. Presentation of UNDP APRC’s study on MDGs Progress and Post 2015 Agenda in a Sub-regional Context and Making Access to Finance Possible for the Poor in Myanmar by Myanmar CO garnered significant attention.

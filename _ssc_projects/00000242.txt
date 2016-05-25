@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - CHL
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Echange en matière de promotion de la compétitivité et des PME.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.dz.undp.org/content/algeria/fr/home/presscenter/articles/2014/03/25/echanges-d-exp-riences-entre-l-alg-rie-et-le-chili-en-mati-re-de-d-veloppement-industriel.html
+published: true
+import_source: 
+---
+Le PNUD a facilite les echanges de connaissance. Cette mission a offert l’opportunité aux fonctionnaires algériens d’approfondir leurs connaissances en matière de facilitation de la création d’entreprises et de start-up, de diversification des méthodes d’accompagnement immatériel et financier, d’attractivité des programmes destinés à la PME pour les étrangers tout en préservant l’intérêt national, coordination équilibrée entre toutes les institutions chargées de la création de la PME et enfin l’efficacité dans l’utilisation des moyens techniques et la généralisation des moyens de communication.

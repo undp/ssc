@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MUS
+  -  SEN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Support to sharing Mauritius reform experience in High-level Brainstorming Meeting on Transforming Senegal into a Middle Income Country
+scale: regional
+project_objective: The objective was the implement the transformation plan of Senegal into a Middle-Income country (MIC) (Plan Senegal Emergent) by seeking experiences from other countries that have achieved MIC status.
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.imf.org/external/pubs/ft/survey/so/2015/car020215a.htm
+published: true
+import_source: 
+---
+UNDP contributed to sharing the experience of Mauritius in 5 specific areas through presentations facilitated by a senior governmetn official from Cape Verde, Mauritius and Seychelles on  budget reform, investment planning reform, Performace Managemet system, client-oriented strategy in the public sector, and Stakeholder response Mechanism

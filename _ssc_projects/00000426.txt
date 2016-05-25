@@ -1,0 +1,42 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ARG
+  -  BLZ
+  -  BOL
+  -  BRA
+  -  CHL
+  -  COL
+  -  CRI
+  -  ECU
+  -  SLV
+  -  GTM
+  -  GUY
+  -  HND
+  -  MEX
+  -  NIC
+  -  PAN
+  -  PRY
+  -  PER
+  -  SUR
+  -  URY
+  -  VEN
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Seventh Ministerial Forum on Development in Latin America and the Caribbean
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.latinamerica.undp.org/content/rblac/en/home/ourwork/spain-undp-fund/foro-ministerial-sobre-desarrollo-.html
+published: true
+import_source: 
+---
+With help from UNDP, the Government of St. Lucia is in contact with the Mexican authorities to learn from the Mexican experience on multidimensional poverty. A Memorandum of Understanding between UNDP and ECLAC was signed in order to join forces and share expertise; it has been confirmed that the next Forum will take place in 2015 in Peru as a joint initiative  .

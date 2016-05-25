@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - NPL
+  -  PAK
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: South-South Cooperation on Climate Risk Management (Glacial Lake Outburst Floods)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.np.undp.org/content/nepal/en/home/presscenter/articles/2015/03/05/undp-annual-report-2014.html
+published: true
+import_source: 
+---
+Nepal and Pakistan were able to capture best practices on sustainable operation of GLOF Early Warning System - through active engagement of local communities and stakeholders. These lessons are being replicated in the ongoing projects in the respective countries (Refer Nepal ROAR)

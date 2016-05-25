@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - CZE
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Study visit to Czech Republic  of representatives from the National Ecological Fund (NEF), Ministry of Finance and State Chancellery
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//procurement-notices.undp.org/view_file.cfm?doc_id=26930
+published: true
+import_source: 
+---
+Memorandum of cooperation signed between the Ministries of Environment of Moldova and the Czech Republic

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MYS
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: MOGA official visit to Malaysia
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.np.undp.org/content/dam/nepal/docs/projects/apr-2014/UNDP_NP_PREPARE_APR-2014.pdf
+published: true
+import_source: 
+---
+As a results of this exposure visit, some of the senior MOGA officials imparted their knowledge to refine and strengthen the review of the management audit system of MOGA.

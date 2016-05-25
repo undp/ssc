@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BIH
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: The Social Cohesion and Reconciliation Index (SCORE)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/cyprus/en/home/operations/projects/action_for_cooperation_and_trust/social-cohesion-and-reconciliation--score--index-.html
+published: true
+import_source: 
+---
+The utility of SCORE also outside of Cyprus, even before its official launch, resulted in the  successful implementation of the SCORE methodology in Bosnia with the support of USAID in 2014. ZDF in Nepal has also agreed to roll out the SCORE in Nepal in 2015.

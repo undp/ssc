@@ -1,0 +1,34 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - ARM
+  -  BDI
+  -  IRQ
+  -  KEN
+  -  LSO
+  -  MRT
+  -  NGA
+  -  PHL
+  -  RWA
+  -  SOM
+  -  TJK
+  -  USA
+  -  YEM
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Participation in the Third Global Conference of the Development Assistance Database Community of Practice (DAD CoP), 21-23 January 2014 in Nairobi (Kenya)
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.synisys.com/impact/dad-community-of-practice
+published: true
+import_source: 
+---
+In 2014 a new Results-Based Public Investment System for the Aid Information Management System was ‘installed results-driven Public Investment System includes project proposal entry form, including logframe, and advancement of project proposal through all stages of project cycle. The system has undergone through operation testing in August-October with necessary adjustments and improvements (E11, E12)

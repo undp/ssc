@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - NPL
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Aid Management Platform (AMP) experience sharing best practice workshop
+scale: global 
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/NPL/DCEAMC-%20APR%202014%20final.pdf;http//amis.mof.gov.np/portal/
+published: true
+import_source: 
+---
+Nepal team presented its showcase of AMP implementation and the use of AMP data do develop an evidence based development cooperation policy. Nepal team also shared its experiene on the use of geocoded data and innovative products such as Development Cooperation Report, District Aid Profile, Aid Leaflet, bi-monthly newsletter, and  donor profile. The workshop also provided the common forum to discuss about sustainability of AMP. Additionally,  5 member from the Ministry of Finance visited Timor-Leste to learn the overall implementation of AMP. The visiting team took stock of AMP implementation, and customization done by Timor-Leste.  The team also learnt the data management, geo-coding and coordination maintained. Nepal team brought with them knowledge of improving data quality and making the public portal user friendly and expand knowledge to using this tool among the stakeholders.

@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ALB
+  -  BGR
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Support to Ministry of Environment and Spatial Planning
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ks.undp.org/content/kosovo/en/home/operations/projects/environment_and_energy/support_to_mesp.html
+published: true
+import_source: 
+---
+KAEE is using the skills learned in the training to report more precisely and accurately to the Energy Community Treaty.  The study visit to Bulgaria contributed to the improvement of the quality of the Kosovar GHG inventory for 2012, which was completed in December 2014  http//www.kosova.com/artikulli/106395 http//www.kosova.info/lajme/prezantohet-inventari-i-gazeve-serre-ne-kosove.html

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - LAO
+  -  VNM
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Knowledge Exchange visit to Vietnam on law-making process and penal code
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.laos-lsmp.gov.la/sites/default/files/users/85/2015-10-08%20newsletter%20Vol2-Eng.pdf
+published: true
+import_source: 
+---
+Lessons learnt from the Vietnam penal code and its application have had a positive impact on the drafting committee and provided the needed empirical evidence to eliminate certain outdated provisions from the Lao Penal code. The first draft of the revised penal code was circulated before end of 2014 for public comment (Penal Code). This version included a call for public consultation in the process.

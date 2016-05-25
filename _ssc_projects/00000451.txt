@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CUB
+  -  URY
+region: 
+  - lac
+partner_type: 
+  - cso
+  -  government
+project_title: Politicas publicas del cuidado en Cuba.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.cu.undp.org/content/cuba/es/home/presscenter/articles/2014/12/04/granma-cuidado-al-pr-jimo-retos-para-el-bienestar.html
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias, expertos  y el encuentro entre las partes interesadas. En base a la informacion enviada por la oficina del PNUD Cuba, el aporte de las experiencias de Uruguay, tanto desde la representacion gubernamental como de la sociedad civil, fue muy pertinente y util en la fase actual de debate en el pais. En ese sentido, los insumos provistos por la delegacion de Uruguay fueron incorporados y se consolido una linea de intercambio permanente entre los actores claves de los dos paises.

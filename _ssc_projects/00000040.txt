@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MLI
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Renforcement des capacités des cadres du Ministère de l’Energie pour l’élaboration d’un Projet pilote d’accès à l’energie en milieu rural
+scale: country-country
+project_objective: Objective of the project S’informer de la démarche du Mali en matière de l’élaboration d’un projet pilote d’accès à l’énergie en milieu rural
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.undp.org/content/dam/undp/library/MDG/english/MDG%20Country%20Reports/Gabon/gabon_september2010.pdf
+published: true
+import_source: 
+---
+Le PNUD a soutenu la mise en œuvre d'un plan d’action a été élaboré et qui donnera lieu à l’élaboration d’un programme national de plateforme multifonctionnelle pour l’accès à l’énergie en milieu rural.

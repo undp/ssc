@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MWI
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: South-south and triangular cooperation
+scale: country-country
+project_objective: The objective of the project is to learn from the experience of Botswana in good governance
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//www.gov.uk/government/uploads/system/uploads/attachment_data/file/285877/20140221_National_Audit_Office_Malawi_-_Forensic_Audit_Report_-_FINAL_ISSUED.pdf
+published: true
+import_source: 
+---
+UNDP facilitated a forensic audit of the Malawi Treasury was undertaken, with British funding. This was the key recommendation of the exchange missions undertaken. Botswana also took a decision to include south-south cooperation in the national budget, which is a significant recognition of the role such cooperation can play in development. Work in Liberia and South Sudan was put on hold by the outbreak of Ebola (Liberia) and conflict (South Sudan)

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - SGP
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Mission of the Deputy Director of the UNDP Global Centre for Public Service Excellence (GCPSE) to Tashkent, Uzbekistan (December 2014)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/undp/en/home/ourwork/global-policy-centres/publicservice.html
+published: true
+import_source: 
+---
+In particular the workshop on RIA served as a new platform to exchange knowledge, to further strengthen multilateral partnership, and to support the ongoing legal and regulatory reforms by setting new standards and qualitative benchmarks to lawmaking. It also helped to discuss the ways to improve relevant legislation and procedural provisions with a view to implement RIA, and to increase the quality of regulations and law making.[57]

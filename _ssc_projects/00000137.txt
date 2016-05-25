@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - AFG
+  -  KGZ
+  -  TJK
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Livelihood Improvement in Tajik-Afghan Cross-border Areas (LITACA)  High Level Study Tour to visit the “One Village – One Product (OVOP)” Project in Kyrgyzstan
+scale: regional
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.tj.undp.org/content/tajikistan/en/home/presscenter/pressreleases/2014/11/01/-gh-level-visitors-from-tajikistan-and-afghanistan-study-the-best-practices-of-one-village-one-product-initiative-in-kyrgyzstan.html;http//www.mrrd-nabdp.org/attachments/article/121/Annual%20Report%202014.pdf
+published: true
+import_source: 
+---
+Learning from the Kyrgyz OVOP example, the project piloted One District One Product (ODOP) in Dand district in Kandahar and selected to improve the value chain for grapes  as it has high potential to increase productivity.The project has analyzed producers, processors, services and marketing related to grapes in Dand District.

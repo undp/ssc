@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MRT
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Initiative ART Gold a été entame par le Bureau en partenariat avec la Commune de Yaoundé 7, la Municipalité de Malaga, et les communes au Maroc, en Tunisie et en Mauritanie.
+scale: country-country
+project_objective: L'objectif ce programme est de contribuer à l’amélioration de la qualité des prestations de services publics au Cameroun
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: http//www.mr.undp.org/content/mauritania/fr/home/presscenter/articles/2014/01/30/art-gold-coop-ration-entre-malaga-espagne-chefchaouen-maroc-ka-di-mauritanie-.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu cette initiative. Mais étant encore à ses débuts et les résultats actuels ne peuvent pas encore être mesurables.

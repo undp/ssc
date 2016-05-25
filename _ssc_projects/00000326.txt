@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - HRV
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: First meeting of the Moldovan-Croatian Intergovernmental Commission for European Integration in Zagreb
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.md.undp.org/content/moldova/en/home/operations/projects/poverty_reduction/confidence-building-measures-programme-.html
+published: true
+import_source: 
+---
+Moldovan officials strengthened capacities to further progress on the reform agenda related to the EU integration  (http//www.mfa.gov.md/comunicate-presa-md/498149/)

@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BRB
+  -  DOM
+  -  SLV
+  -  NIC
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Pueblos Vivos, experiencia de desarrollo económico para el Desarrollo Humano
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.sv.undp.org/content/el_salvador/es/home/presscenter/articles/2014/06/10/pnud-entreg-sistematizaci-n-de-estrategia-tur-stica-pueblos-vivos-.html
+published: true
+import_source: 
+---
+El PNUD tuvo el rol de broker de conocmiento y facilitó el intercambio de experiencias. Resultado documento de sistematización de la experiencia

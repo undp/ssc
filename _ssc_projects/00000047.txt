@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BEN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Songhai Gambia Project
+scale: country-country
+project_objective: The objective of the project Development of a functional agricultural system in water farm and incubation of agro-entrepreneurs and promotion of services to leverage them thereby creating a spread effect by building a critical mass of successful young entrepreneurs throughout the country.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//wp.observer.gm/chamen-agric-training-centre-now-under-songhai-gambia-project/
+published: true
+import_source: 
+---
+UNDP facilitated a knowledge exchange visit forthe Ministers of Youth and Agriculture to the Songhai Centre in Benin provided the opportunity to study the Benin's Songhai centre’s integrated sustainable agricultural development strategy for employment creation and poverty reduction. As a result of this ministerial study tour, a project document based on the Songhai strategy has been formulated and approved by cabinet.

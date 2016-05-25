@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - CHL
+  -  COL
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Apoyo a la implementación de estrategias de seguridad y convivencia  Gira de estudio de proyectos aplicando la metodología CPTED en Chile/Colombia.
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+  -  PF
+project_link: http//www.undp.org/content/dam/undp/documents/projects/HND/Attachment%20Modif%203%20(2)%20USAID.pdf
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias y el encuentro entre las partes interesadas a través de las oficinas de PNUD Costa Rica. Como resultado de la experiencia se firmó el acuerdo entre PNUD y el Instituto de Desarrollo Comunitario, Agua y Saneamiento-FHIS para el fortalecimiento de las capacidades del FHIS en el diseño, gestión e implementación de proyectos de infraestructura  social bajo metodología CPTED, facilitando a su vez la transferencia de conocimientos a funcionarios y actores locales B.1.1_3

@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+  -  IND
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: China-India Low Carbon Study
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.in.undp.org/content/india/en/home/library/environment_energy/low-carbon-development-in-china-and-india--issues-and-strategies.html
+published: true
+import_source: 
+---
+This project strengthened south-south cooperation between Indian and Chinese think-tanks on low-carbon policy research and reached policy makers responsible for the 5-year plans in each country through its presentation at the high-profile ‘Third Strategic Economic Dialogue’ between China and India. It influenced the Asia Development Bank to launch a Technical Assistance Project on low-carbon development in China and India.

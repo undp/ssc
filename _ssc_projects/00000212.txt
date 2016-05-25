@@ -1,0 +1,28 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ARM
+  -  HND
+  -  IDN
+  -  KEN
+  -  NPL
+  -  UGA
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: International Workshop on Integrated Climate Risk Management
+scale: global 
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.np.undp.org/content/nepal/en/home/presscenter/pressreleases/2014/09/10/-integrate-climate-and-disaster-risks-into-national-policies-.html
+published: true
+import_source: 
+---
+The presentations and sharing from six countries on different aspects of CRM followed by discussions among the participants were helpful to consolidate the progress and learning in order to make a future roadmap for further integration of disaster risk reduction and climate change adaptation at global, regional and national levels.

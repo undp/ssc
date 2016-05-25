@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BEN
+  -  BFA
+  -  MLI
+  -  NER
+  -  TGO
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: le benin a reçu deux delegations d’experts venus de la cote d’ivoire et du mali qui se sont interessees au programme d’appui a la bonne gouvernance et a la consolidation de la democratie a travers la mise en œuvre du mecanisme africain d’evaluation par les pairs (maep).
+scale: regional
+project_objective: L'objectif du project est la mise en œuvre le Mécanisme Africain d’Evaluation par les Pairs (MAEP) axé sur l’évaluation périodique des politiques et des pratiques de l’Etat béninois pour s’assurer des progrès enregistrés dans la réalisation des objectifs convenus et du respect des valeurs de la gouvernance politique, démocratique, économique et des entreprises.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: http//www.grip.org/sites/grip.org/files/NOTES_ANALYSE/2014/na_2014-09-12_fr_c-magnoux.pdf
+published: true
+import_source: 
+---
+Le PNUD a soutenu les echanges de missions entre le Benin et les autres pays de la sous-region lui ont permis d’apprecier son propre niveau en matiere de mise en œuvre du plan national d’action du MAEP, de s’enrichir des experiences des autres pays et de noter les domaines dans lesquels il doit mieux faire.

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ROU
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Study visit by representatives of the penitentiary system on the implementation of reintegration programmes and activities for and with juvenile inmates
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/support-to-police-reform-in-the-republic-of-moldova.html
+published: true
+import_source: 
+---
+UNDP facilited the exchange of knowledge through a study vist. The study visit report was produced; vocational education programme for juvenile inmates

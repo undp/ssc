@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - IND
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Employment Creation through labor-intensive models
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - PF
+project_link: http//www.sd.undp.org/content/sudan/en/home/operations/projects/poverty_reduction/creation_of_job_opportunities/
+published: true
+import_source: 
+---
+The launch a labor-intensive employment model in collaboration with the Ministry of Labor, drawing on experiences from Kenya, South Africa and India (evidence 9).

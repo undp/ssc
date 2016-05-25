@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - LBY
+  -  MAR
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Economic Empowerment and micro-business development
+scale: regional
+project_objective: 
+territorial_focus: 
+  - FS
+undp_role_type: 
+  - KS
+project_link: http//www.ps.undp.org/content/papp/en/home/operations/projects/poverty_reduction/deprived-families-economic-empowerment-programme.html
+published: true
+import_source: 
+---
+The external evaluation of the DEEP programme (2011) recommended the duplication of some activities in other Arab countries. Therefore an exchange of knowledge between women entrepreneurs from Palestine and other Arab countries in Northern Africa took place to better market their products, increase their export channels and share lessons learned and challenges.

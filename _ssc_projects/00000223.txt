@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - FJI
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Introduction of Public Expenditure and Financial Accountability (PEFA) standards in PNG
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.pg.undp.org/content/papua_new_guinea/en/home/presscenter/articles/2013/05/20/public-expenditure-and-financial-accountability-pefa-in-papua-new-guinea.html
+published: true
+import_source: 
+---
+During 2014, a draft report on the PEFA country self-assessment was produced.  The document outlines critical gaps that need to be addressed through the public financial management reform process.

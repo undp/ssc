@@ -1,0 +1,27 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - JPN
+  -  KAZ
+  -  KGZ
+  -  TJK
+  -  TKM
+  -  UZB
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Platform /High Level Dialogue in the Area of Disaster Risk Reduction
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.kg.undp.org/content/kyrgyzstan/en/home/operations/projects/crisis_prevention_and_recovery/effective-disaster-risk-management-for-sustainable-development-a.html
+published: true
+import_source: 
+---
+Established expert group developed a draft of strategic documents aimed at strengthening of the regional cooperation. Evidence Chair’s summary of the regional ministerial conference - http//npdrr.kg/main_news/102-japan-activates-cooperation-with-central-asian-countries-in-disaster-risk-reduction.html

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - TZA
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Capacity-building workshop for the  Tanzania y Zanzibar Electoral Committees
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/undp/documents/projects/TZA/DEP%202014%20Quarter%201%20Report.pdf
+published: true
+import_source: 
+---
+Participation by more than 40 officials from the Tanzania y Zanzibar Electoral Committees . According to the President of Zanzibar’s Electoral Committee, Jecha Salim Jecha, this initiative "will have a crucial impact on democratic reform at the level of electoral institutions and at the country level" (E87 PNUD).

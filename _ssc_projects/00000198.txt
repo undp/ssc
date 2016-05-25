@@ -1,0 +1,34 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BGD
+  -  BTN
+  -  KHM
+  -  CHN
+  -  IND
+  -  LAO
+  -  MMR
+  -  NPL
+  -  PAK
+  -  PHL
+  -  LKA
+  -  THA
+  -  VNM
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Capacity Building Support for Malaysia's Role in Multidimensional Peacekeeping Training Phase 2
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.my.undp.org/content/malaysia/en/home/operations/projects/crisis_prevention_and_recovery/86622-peacekeeping-phase2.html
+published: true
+import_source: 
+---
+Materials available on the Ministry Of Defence and UNDP webpages and national media.  http//www.mafhq.mil.my/mpc/index.php/en/component/content/article/34-news/197-tot-gender

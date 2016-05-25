@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - HND
+  -  MEX
+  -  PAN
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Inter-agency Coordination and Articulation meeting  for Monitoring the MDGs. November 2014. Mexico
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/dam/belize/docs/UNDP%20BZ%20Publications/BELIZE%20CPAP%202013-2017.pdf
+published: true
+import_source: 
+---
+The development of the M and E framework and system to track  development progress and progress of Belize midterm strategy emanated out of experiences shared by the four countries participating in the inter-articulation session, particularly Mexico CONEVAL evaluation of  Social Programmes. A mission report was completed post the south-south exchange by the participants and it is based on the experiences shared through the SSC that a tailored structure is being developed for monitoring the GSDS

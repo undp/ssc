@@ -1,0 +1,29 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BHR
+  -  KWT
+  -  LBN
+  -  MAR
+  -  TUN
+region: 
+  - arab_states
+partner_type: 
+  - cso
+  -  government
+  -  private sector
+  -  academia
+project_title: Middle East and North African Public Administration Research (MENAPAR)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: http//menapar.net/wp-content/uploads/bsk-pdf-manager/15_PROFILE_OF_THE_MENAPAR_-_ENGLISH.PDF
+published: true
+import_source: 
+---
+Too early for results as initiative just launched It is expected to provide capacity building & local governance, public governance, performance management quality management in the public sector, public management education in the Arab region , public administration research, public finance, E-Government etc.

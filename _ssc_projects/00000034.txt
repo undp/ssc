@@ -1,0 +1,32 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BDI
+  -  KEN
+  -  RWA
+  -  ZAF
+  -  SDN
+  -  TZA
+  -  UGA
+  -  ZWE
+region: 
+  - africa
+partner_type: 
+  - cso
+  -  government
+project_title: Women International Symposium on Peace and Economic Empowerment
+scale: regional
+project_objective: The objective of the  symposium was to facilitate an invaluable exchange of experiences, including those of Eritrean women as a powerful example of women’s participation.
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.er.undp.org/content/eritrea/en/home/operations/projects/womens_empowerment/j-oint-programme-on-gender-equity-.html
+published: true
+import_source: 
+---
+Through Eritrea's engagment in the Regional Symposium, UNDP facilitated partnership between the National Union of Eritrean Women (NUEW), a body charged with spearheading empowerment of Eritrean women, and the Sudanese Women's General Union.  An agreement was signed between the two agencies on  exchanging  experiences and  collaboration on iniaitives in the health and education sectors (ISR 2014)

@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - KEN
+  -  MYS
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Establishing a Center for South-South Cooperation for better coordination and agreed by Government - PMO, MoF, MFA, POPC. The BRN was a result of Tz learning from Malaysia
+scale: country-country
+project_objective: The objective of the project is knowledge and experience sharing on coordination of Center for South-South Cooperation
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//iati.dfid.gov.uk/iati_documents/3750164.docx
+published: true
+import_source: 
+---
+THe UNDP supported the initiative which also influenced the Cabinet Secretariat to visit and learn from Kenya. In addition, the report helped key central ministries to reflect on institutional reforms required in the future and inform the contents of the center to be established at POPC/CS.

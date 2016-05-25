@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - AGO
+  -  ZAF
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Implementation of the Benguela Current LME Action Program for Restoring Depleted Fisheries and Reducing Coastal Resources Degradation
+scale: regional
+project_objective: The Objective of this second phase of the BCLME Programme will be to deliver the following outcomes that reflect BCLME SAP implementation requirements and recommendations -Strengthening the institutional capacity and effectiveness of the regional Benguela Current Commission -Negotiating and securing an agreed and appropriate BCLME Treaty to support the BCC -National Level Implementation of the BCLME SAP (through appropriate Policy, Legislative and Management Reforms) which are extended to the community level through the support of partners such as D-LIST -Securing Sustainable Capacity for Long-Term Maintenance of the LME Management Components -Overall Capture and Transfer of Knowledge Products and Best Practices, and Information Networking through cooperation and coordination with GEF/IWLEARN
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//iwlearn.net/iw-projects/3305;http//erc.undp.org/evaluationadmin/manageevaluation/viewevaluationdetail.html;jsessionid=46FA25467596F35AB1F8D3D2456A9027?evalid=7382
+published: true
+import_source: 
+---
+UNDP-supported tripartite development initiative by Angola, Namibia and South Africa that aims to improve the use and management of marine resources and the facilitation of knowlege exchange and lessons learnt between them. As a result of the collobaration,country contributions were paid to the Commission Secretariat; ratification of the Benguela Current Convention by Angola; approval by ministers of the Strategic Action Programme for 2015-2019;  the the moblilization of US$23 million in donor funds for the period 2015-2020.

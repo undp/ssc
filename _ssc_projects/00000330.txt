@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - POL
+region: 
+  - europe_cis
+partner_type: 
+  - private sector
+project_title: Trade mission to Poland on learning about modern technologies in production and use of biomass fuel
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//trm.md/en/economic/businessmeni-moldoveni-descopera-experienta-poloniei-in-dezvoltarea-bioenergiei;http//evzmd.md/ro/economic/item/10410-moldovenii-experimenteaza-modelul-polonez.html
+published: true
+import_source: 
+---
+Moldovan businessmen get to know Poland’s experience in bioenergy development  Moldovenii experimenteaza „Modelul polonez”, 

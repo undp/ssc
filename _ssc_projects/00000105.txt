@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - NER
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Mission d’appui d’experts 3N initiée (Les Nigériens Nourrissent Les Nigériens) dans le cadre du processus de formulation des priorités de résilience/AGIR Sahel au Tchad
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience en matière de formulation des priorités nationales en matière de résilience.
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.initiative3n.ne/index.php/agir;http//operations.ifad.org/documents/654016/9de39e0c-830a-4d01-b790-36d24db7b181
+published: true
+import_source: 
+---
+La mission des experts Nigeriens au Tchad a permis d accelerer le processus AGIR (Alliance Globale pour l initiative Resilience dans le Sahel) au Tchad notamment en ce qui concerne la definition des priorites, ainsi que les differents piliers de l initiative. Les prochaines etapes planifies incluant la visite de la partie tchadienne au Niger pour s enrichir de l experience  et le renforcement de la cooperation entre ces deux pays dans le cadre de la resilience.

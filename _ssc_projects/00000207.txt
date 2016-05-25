@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BGD
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Mutual exchange and learning of country experience and expertise on efforts towards graduating from LDC status
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.np.undp.org/content/nepal/en/home/operations/projects/poverty_reduction/snpc/nepal-braces-for-graduation-from-an-ldc.html
+published: true
+import_source: 
+---
+This visit has helped familiarize NPC officials on LDC agenda. They have become more familiar on the LDC graduation process too and its linkage with national planning.

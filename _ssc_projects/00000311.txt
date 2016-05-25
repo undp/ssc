@@ -1,0 +1,29 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - AFG
+  -  KAZ
+  -  KGZ
+  -  RUS
+  -  TJK
+  -  TUR
+  -  TKM
+  -  UZB
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Central Asian Regional Conference on Wheat Production Sector in the face of Climate Change Adverse Impacts
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.kz.undp.org/content/kazakhstan/en/home/operations/projects/environment_and_energy/vulnerability-of-wheat-sector-to-climate-change.html
+published: true
+import_source: 
+---
+Based on the experts' and decision makers' meetings at the Conference and their exchange of information, Uzbekistan and Tajikistan lifted the ban on the re-export Kazakhstan's wheat to Afghanistan.

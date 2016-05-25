@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BFA
+  -  BDI
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Mission d’appui au Ministère de la Fonction Publique Du Burundi dans la mise en œuvre de l’archivage électronique des dossiers des fonctionnaires et agents de la fonction publique.
+scale: country-country
+project_objective: Objective of the project doter le Burundi d’un archivage électronique qui va permettre le traitement rapide et une meilleure conservation des dossiers des fonctionnaires de l’Etat et des agents de l’Etat. 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - CB
+project_link: http//www.bi.undp.org/content/burundi/fr/home/operations/projects/democratic_governance/reforme-de-l-administration-publique.html
+published: true
+import_source: 
+---
+Le PNUD a facilité la mise en place d'une feuille de route pour l'archivage électronique validée par le Ministère de la Fontion Publique.

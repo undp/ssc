@@ -1,0 +1,29 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - LAO
+  -  VNM
+  -  UGA
+  -  RWA
+  -  BOL
+  -  MMR
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Lao PDR Towards Inclusive and Sustainable New Communities
+scale: global 
+project_objective: The objective of the project will be to focus on local level implementation with linkages to national policies and programmes
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  CB
+  -  PF
+project_link: http//www.undp.org/content/undp/en/home/ourwork/development-impact/south-south-cooperation/saemaul-initiative-towards-inclusive-and-sustainable-new-communi.html
+published: true
+import_source: 
+---
+UNDP supported this initiative in 6 countries. There are no results at this stage as the project is in implementation stage.

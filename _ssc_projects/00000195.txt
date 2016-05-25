@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - IDN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Strengthening women’s leadership and participation in peace building and social cohesion through South-South and Triangular Cooperation (WLP-SSTC)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.mm.undp.org/content/dam/myanmar/docs/Publications/UNDP_MM_Annual_Report_2014ENG_web.pdf;https//info.undp.org/docs/pdc/Documents/MMR/Report%20to%20Output%20Board%20P1-05%20Jan-Dec2014%20Jan.docx
+published: true
+import_source: 
+---
+WLP-SSTC was formulated as a follow-up to the Indonesia study-visit, as this was an area identified for further learning and exchange

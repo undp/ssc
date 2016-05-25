@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - HRV
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Forms of education (formal, informal) available to people serving prison sentences
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/MNE/00060348_Project%20Document%20on%20GFATM%20HIV%20Programme.docx.docx.docx
+published: true
+import_source: 
+---
+The acquired knowledge was reflected in the developing protocol within the Directorate for Execution of Sanctions for the establishment and methodology for delivery of trainings to inmates. This initiative will continue in 2015 with additional forms of transfer of know-how, aiming at delivering specific training curricula to country structures.

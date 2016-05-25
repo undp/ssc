@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - COL
+  -  HND
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Replica Buenas prácticas en Estrategias de Desarrollo Económico Local.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.hn.undp.org/content/honduras/es/home/presscenter/articles/2014/11/03/en-misi-n-pnud-primera-dama-conocer-en-colombia-experiencias-en-espacios-seguros-desarrollo-artesanal-y-primera-infancia.html
+published: true
+import_source: 
+---
+El PNUD Colombia facilitó el intercambio de experiencias como facilitador del encuentro entre la primera dama de Honduras Sra. Ana Rosalinda Garcia y las instituciones de la ciudad de Medellín que han participado de los programas de inclusión social en mencionada ciudad.  

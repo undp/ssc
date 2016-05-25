@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - CYP
+  -  MDA
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Study visits to Cyprus to research the experience of bi-communal cooperation in the fields of economy/trade and local community development
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.md.undp.org/content/moldova/en/home/operations/projects/poverty_reduction/improving-trade-and-productive-capacities-of-fresh-fruit-produce.html
+published: true
+import_source: 
+---
+As witnessed by the participants (http//europeandcis.undp.org/blog/2015/01/13/one-step-at-a-time-why-moldova-came-to-cyprus/), the examples observed in Cyprus inspired the generation of several ideas for joint work that would be used in the future. As the Support to Confidence Building Programme continues in a new 2015-2018 phase, these ideas will contribute to the development of sustainable partnership across the divide, taking into consideration the Cypriot experience also.

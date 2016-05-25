@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - PHL
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Coastal area governance and management– sharing experiences with Philippines
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.sciencedirect.com/science/article/pii/S0964569105000554
+published: true
+import_source: 
+---
+Learnings from the experience in Philippines offered lessons on locally managed marine areas in India and provided inputs for inclusion of coastal and marine governance concerns in relevant policies in India.

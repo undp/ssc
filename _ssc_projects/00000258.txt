@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ECU
+  -  MAR
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Mission de partage d’expériences entre le Maroc et l’Equateur dans le domaine de régionalisation et développement au regard des processus de décentralisation engagés dans les deux pays
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.ma.undp.org/content/morocco/fr/home/presscenter/articles/2014/11/27/les-relations-de-cooperation-entre-le-maroc-et-l-quateur-en-matiere-de-decentralisation-et-developpement-territorial-se-renforcent.html
+published: true
+import_source: 
+---
+les 3 conventions signées ont permis l'ouverture à des opportunités de coopération entre les collectivités térritoriales des deux pays en mlatère économique , sociale et culturelles.

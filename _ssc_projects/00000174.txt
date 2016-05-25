@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - WSM
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Support to  Secretariat of Convention on Biological Diversity (CBD) to set up and launch a Global E-Network on Access and Benefit Sharing (ABS) for Capacity Building of Governments on the Nagoya Protocol.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: https//www.cbd.int/abs/infokit/revised/web/all-files-en.pdf
+published: true
+import_source: 
+---
+Government of India’s publication “A Panoramic view of India’s Presidency of CoP to CBD 2012-2014” acknowledges support provided by UNDP in establishing and moderating a global e-network helping countries in building their capacities in the ratification of Nagoya Protocol

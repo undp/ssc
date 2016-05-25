@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - HTI
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Support to Haiti Sanitary Authority  Bra 10/005
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.pnud.org.br/Noticia.aspx?id=3853;;http//www.agencia.fiocruz.br/ms-inaugura-complexo-hospitalar-no-haiti-com-coopera%C3%A7%C3%A3o-da-fiocruz
+published: true
+import_source: 
+---
+UNDP facilitates the cooperation, which resulted in a hospital complex that will  include a support network of medium complexity and consists of the Community Hospital Bon Repos, the Haitian Rehabilitation Institute and the Orthotics and Prosthetics Laboratory - the latter will be a national reference in treatment to people with disabilities (auditory, visual, motor and maimed). The Brazilian government has invested about $ 25 million in buildings and equipment. The units have an outpatient clinic for consultations and minor surgery, emergency response and 52 inpatient beds, taking care to about 250,000 Haitians in vulnerable situations.

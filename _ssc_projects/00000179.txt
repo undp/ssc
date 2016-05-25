@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - LAO
+  -  THA
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Exchange of Disaster Management Practices with Focus on Agricultural Assets
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//gfdrr.org/sites/gfdrr/files/New%20Folder/Lao%20April%202014.pdf
+published: true
+import_source: 
+---
+There is a difference between the technical capacities of the two countries, Thailand being more advanced in institutional organization, man-power, coordination of work flow and implementation of techniques on disaster management and agricultural assets. There is agreement between both countries for real-time, informal, cross-border communication in the event of pending disaster, not yet been tested. Due to insufficient national budget there has been no implementation of the best practices.

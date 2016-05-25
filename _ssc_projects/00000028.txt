@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BRB
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Renforcement des capacites de negociations des conventions sur le changement climatique
+scale: country-country
+project_objective: L’objet de ce projet promu par Barbados e l’OECS et de renforcer les capacites de negociation ainsi que la comprehension des mecanismes de negociation dans le cadre des negociations et conventions sur le changement climatique.
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - CB
+project_link: http//www.tg.undp.org/content/dam/undp/library/Environment%20and%20Energy/Climate%20Change/PNUD-Gu%C3%ADaCambioClim%C3%A1ticoFR-Web.pdf
+published: true
+import_source: 
+---
+Le PNUD a soutenu la participation de 2 techniciens ( junior experts) de Cabo Verde dans des actions de renforcement de capacités organisés dans le cadre de ce projet.

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - POL
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Study visit to the Parliament of Poland on constituency relations and work of constituency offices
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//crjm.org/wp-content/uploads/2014/09/Newsletter-no-1-2.pdf
+published: true
+import_source: 
+---
+Four constituency offices established by the Parliament of Moldova Parliament Newsletter, No.1 2014, p. 34-35.

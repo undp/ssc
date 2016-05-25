@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHL
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Enhancing the economic livelihood of the poor (E9)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.gy.undp.org/content/guyana/en/home/presscenter/articles/2015/03/12/new-eco-tourism-action-plan-and-strategy-being-developed-for-guyana-.html
+published: true
+import_source: 
+---
+Inception report on economics of starting up a small business in Guyana.  Inception report for development of a compendium of "South South Policy Options and Best Practices for the eco-tourism sector in Guyana.

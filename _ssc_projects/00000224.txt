@@ -1,0 +1,33 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BRA
+  -  BDI
+  -  CHL
+  -  GIN
+  -  KAZ
+  -  PER
+  -  SLE
+  -  TZA
+  -  ZMB
+region: 
+  - asia_pacific
+partner_type: 
+  - cso
+  -  government
+  -  private sector
+project_title: Training course on Natural Resource Management and Human Development at Columbia University
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//ccsi.columbia.edu/work/projects/exectraining/
+published: true
+import_source: 
+---
+GoPNG actively participated in NHDR formulation process, and committed to presenting and discussing the NHDR policy options with Parliamentarians as well as Secretaries of Government Departments, both planned for 2015.

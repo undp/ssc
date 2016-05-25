@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BRA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Renforcement des Capacités de l'Administration Publique
+scale: country-country
+project_objective: L'objectif est la mise en place du système de renforcement des capacités des fonctionnaires de l'Administration Publique
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - CB
+project_link: http//documents.worldbank.org/curated/en/2001/10/5148536/cape-verde-public-sector-reform-capacity-building-cap-vert-reforme-du-secteur-public-renforcement-des-capacites
+published: true
+import_source: 
+---
+Le PNUD a soutenu la formation de 250 cadres de haut niveau; Le  Secrétariat de l'Etat de l'Administration Publique a identifié les cours et les scenarios de formation selon le profil des fonctionnaires publiques. 

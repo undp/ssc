@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - GHA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Strengthening women in Parliament and  gender equality and womens' empowerment.
+scale: country-country
+project_objective: The objective is capacity building of women in Parliament on gender equality and womens' empowerment
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.cpahq.org/cpahq/
+published: true
+import_source: 
+---
+UNDP supported the Chair of the Women Caucus in Parliament in leading a number of gender sensitive and women empowerment initiatives including a dedicated radio programme targeting women as part of the Ebola Support and gender mainstreaming in Parliamentary support services.

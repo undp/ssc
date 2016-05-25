@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ALB
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Study visit of elections administrators to the Albanian Elections Management Body
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.md.undp.org/content/moldova/en/home/operations/projects/democratic_governance/moldova-democracy-programme.html
+published: true
+import_source: 
+---
+CEC developed the “Instruction on the processing of personal data in electoral purposes" to recieve the certification from the National Center for Personal Data Protection; Cooperation Agreement signed between the Election Training Centers (Project Report and Central Elections Commission Report)

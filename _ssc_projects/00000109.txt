@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BEN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Renforcement des capacités des fonctionnaires de l’Assemblée Nationale en matière de contrôle  et de suivi de l’exécution budgétaire.
+scale: country-country
+project_objective: L’objectif est le renforcement des capacités en matière de contrôle  et de suivi de l’exécution budgétaire.
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.tg.undp.org/content/togo/fr/home/operations/projects/democratic_governance/renforcement-des-capacites-de-l-assemblee-nationale-en-preventio.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu une visite d’échange qui ayant été organisée en novembre 2014, l’expérience acquise par les fonctionnaires sera mise à contribution en 2015.

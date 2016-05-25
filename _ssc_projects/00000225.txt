@@ -1,0 +1,32 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - COK
+  -  FSM
+  -  KIR
+  -  NRU
+  -  NIU
+  -  WSM
+  -  SLB
+  -  TON
+  -  TUV
+  -  VUT
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Workshop for Pacific Island Countries (PIC) on the post-2015 Development Agenda and the Sustainable Development Goals
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.unescap.org/sites/default/files/Final%20Pacific%20MDG%20Consultation%20Final%20Report.pdf
+published: true
+import_source: 
+---
+Following the GoPNG’s engagement with other Government officials and other representatives at the workshop, as well as the NHDR publication, Dep. Of National Planning and Monitoring decided to undertake a final MDG Progress Report and sub-national HDI mapping, and requested UNDP for technical support. Further, immediately after the event, GoPNG revived and convened the National MDG Working Group.

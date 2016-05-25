@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CIV
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Renforcement des capacités en planification urbaine
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience et renforcement des capacités en planification urbaine
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.agetur.agency/?projet=projet-delaboration-de-la-strategie-de-developpement-urbain-du-grand-lome-cds-greater-lome
+published: true
+import_source: 
+---
+Cette visite d’echanges d’experiences a permis aux acteurs nationaux du Togo en charge  de l’elaboration du schema d’amenagement et de developpement urbain du grand Lome;(SDAU), de bien maitriser la demarche, les outils et les bonnes pratiques qui ont  permis au Togo d’approfondir le diagnostic de base et de lancer dans de bonnes conditions le processus d’elaboration du SDAU.

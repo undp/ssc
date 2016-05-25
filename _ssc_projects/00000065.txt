@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CIV
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: “Support to Youth Employment Creation” Cote d’Ivoire
+scale: country-country
+project_objective: The objective of the project is to assist the Government of Cote d'Ivoire in developing an Operational Action-Plan the would support youth employment creation. 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//www.mu.undp.org/content/dam/mauritius_and_seychelles/docs/MDG%20Status%20Report%20Mauritius.pdf
+published: true
+import_source: 
+---
+UNDP Mauritius  facilitated participation of Senior Government official/employment specialist from Finance Ministry in a high-level expert mission to share Mauritius experience with the Cote d’Ivoire Government and assist in developing an Operational Action-Plan to ensure tangible results, strengthen institutional coherence and the relevance of the Ivory Coast Government’s .  As a resulte of the study tour, Cote d"Ivoire  developed a policy on youth employment creation that was delivered at the level of the President.  

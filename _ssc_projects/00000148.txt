@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - CHN
+  -  GHA
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: China-Ghana South-South Cooperation on Renewable Energy Technology Transfer
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.gh.undp.org/content/ghana/en/home/operations/projects/environment_and_energy/china-ghana-south-south-cooperation-on-renewable-energy-technolo.html
+published: true
+import_source: 
+---
+The project formulation was ended with an official submission to the Danish Government in may 2014. This was followed by an approval and the signing of a cost share agreement between the Danish Embassy in Beijing and UNDP China. In August 2014 the Project documents for the Chinese sub-project were signed in China.

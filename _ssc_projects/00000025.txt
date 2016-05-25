@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BRA
+region: 
+  - africa
+partner_type: 
+  - government
+  -  research
+project_title: Options des politiques pour un programme de transfert sociaux
+scale: country-country
+project_objective: L’objectif est d’apporter un soutien financier au Cape Vert pour réaliser les programmes de protection sociaux
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+  -  CB
+project_link: https//info.undp.org/docs/pdc/Documents/CPV/Programme%20creation%20d'emploi%20signe.pdf
+published: true
+import_source: 
+---
+Le PNUD a soutenu la mise en place de document d'Options des politiques pour un programme de transfert sociaux techniquement approuvé.

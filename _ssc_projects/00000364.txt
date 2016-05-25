@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - GEO
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Knowledge sharing on the successful practices of business development between Georgia and Ukraine.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.ua.undp.org/content/ukraine/en/home/operations/projects/poverty_reduction/improving-local-capacity-to-promote-and-sustain-entrepreneurship.html
+published: true
+import_source: 
+---
+Following the concept and detailed implementation plan elaborated with the support of Georgian experts, business incubator was recently established in Dnipropetrovsk oblast. The initiative will be used as a model pilot with further expansion throughout the oblast and in Ukraine.

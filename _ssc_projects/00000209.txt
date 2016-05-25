@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - BTN
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Study mission to Bhutan on "Learning on  the good practices of GLOF early warning system"
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//climatechange-asiapac.com/system/files/resource/ALM%20Case%20Study%20-%20Bhutan%20-%20GLOF.doc
+published: true
+import_source: 
+---
+The government officials learnt about sustainable operational modality of the GLOF Early Warning System (EWS) through active involvement of local communities and in coordination with key stakeholders and partners in Bhutan, which would be helpful to adopt in Nepali context. The learning is being utilized in the ongoing joint efforts of UNDP Nepal and the Department of Hydrology and Meteorology to establish EWS at Tsho Rolpa Glacial Lake in Dolakha district.

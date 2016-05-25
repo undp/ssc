@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - GHA
+region: 
+  - africa
+partner_type: 
+  - cso
+  -  government
+project_title: study visit to Ghana on peace architecture
+scale: country-country
+project_objective: Objective of the project how Ethiopia could benefit from the observations and the lessons learned from Ghana and potential areas of partnership between the two Government to strengthen the evolving infrastructure for peace.
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//open.undp.org/#project/00059867
+published: true
+import_source: 
+---
+UNDP facilitated a South-South knwoledge exchange visit,  composed of government, the Interreligious council and religious leaders, to Ghana to learn about Ghana’s peace structures as a good practice that will help the government and UNDP develop a robust peace architecture for Ethiopia that would embrace mechanisms for dealing with ethnic religious and political conflicts. As a result of the study visit, a MoU was signed between the UNCT and different religious groups in Ethiopia. Within the framework of the conflict programme, UNDP further supported the Ministry of Federal Affairs, and important elements from the study tour were incorporated in the electoral support programme for 2015.

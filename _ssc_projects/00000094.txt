@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - GIN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Programme National Plateformes multifonctionnelles pour la lutte contre la pauvrete(PTFM)
+scale: country-country
+project_objective: Le PTFM a suscité un partage d’expériences avec la Guinée qui a bénéficié de l’expertise en matière de micro industrialisation villageoise et de promotion de l'entreprenariat rural
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.sn.undp.org/content/senegal/fr/home/operations/projects/poverty_reduction/pnptfm.html
+published: true
+import_source: 
+---
+L'initiative a permis le renforcement de la cooperation entre le senegal et la Guinee dans le domaine de la micro industrialisation villageoise. Il a été ainsi convenu que les experts du senegal se rendent en guinee pour appporter un appui dans ce domaine, une fois que les restrictions liées a Ebola seront levees.

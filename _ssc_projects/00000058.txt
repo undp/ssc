@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - CIV
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Appui à  la Côte d’Ivoire pour l’organisation de la revue du Plan National de Développement
+scale: country-country
+project_objective: L’objectif est le renforcement des capacités dans le cadre l’organisation et de la tenue de la première revue du Plan National de Développement (PND)
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//www.ci.undp.org/content/cote_divoire/fr/home/library/poverty/publication_2.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu le rapport de mission du Coordonnateur de la Cellule CSLP

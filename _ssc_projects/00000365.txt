@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - GEO
+  -  RUS
+region: 
+  - europe_cis
+partner_type: 
+  - cso
+  -  government
+  -  academia
+project_title: Establishment and support to the comprehensive partnership of the Governments and expert’s communities of the Georgia, Russian Federation and Ukraine on the Environmental Monitoring in the Black Sea
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.ua.undp.org/content/dam/ukraine/EMBLAS__Inception_Report_final%20(1).pdf
+published: true
+import_source: 
+---
+Development of the Diagnostic Report II guiding improvements in the Black Sea Monitoring (400 pages, 8 chapters + 9 amendments)

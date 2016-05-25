@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MYS
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Assist  the Government of Sri Lanka to initiate an Integrated Results Based Management System (IRBM)
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/LKA/PIP%20for%20SS2SLCDMP-%20Final%20December%2030%202013.docx
+published: true
+import_source: 
+---
+Enhanced awareness on the IRBM system, its challenges and factors for success amongst government officers resulted in the identification of a sub-sector (Export Agriculture and Plantations) through which the IRBM system will be piloted. As a result, the government is in the process of developing an integrated sectoral strategic plan and budgeting model piloted in this sector.

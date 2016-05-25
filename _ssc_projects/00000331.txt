@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ROU
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Cooperation with Romanian National Institute of Statistics to improve availability and reliability of regional statistics for Moldova’s decision-makers
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.zdg.md/social/divizarea-regionala-este-una-dintre-temele-de-acasa-ale-r-moldova-inainte-de-aderarea-la-ueandhttp//www.europalibera.org/content/article/25426906.html
+published: true
+import_source: 
+---
+UNDP facilitated the the cooperation project, which  primary purposes of this system are planning and sharing funds

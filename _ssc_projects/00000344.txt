@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - UZB
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Healthcare waste management
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.uz.undp.org/content/uzbekistan/en/home/operations/projects1/environment_and_energy/Capacity_development_for_radioactive_waste_management_and_early_warning_system_in_the_Ferghana_Valley.html
+published: true
+import_source: 
+---
+UNDP facilitated the sharing of knowledge and experiences on developing an understanding of the carbonfootprint of a range of UNDP implemented GFATM,  and gain insight on how UNDP and other stakeholders might begin to manage scope of emissions on an-on-going basis,  other stakeholders might the focus has been on HIV/AIDS and Tuberculosis(TB) grants in Montenegro and Tajikistan

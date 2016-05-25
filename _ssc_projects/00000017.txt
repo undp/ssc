@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - RWA
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Echange d experiences et de participation a la quatrieme Assemblee Generale de la  Kigali International Conference  Declaration – KICD;  au Rwanda - 22 novembre au 01 decembre 2014
+scale: country-country
+project_objective: L’objectif général de cette conférence était de passer en revue les progrès de la mise en place de la Déclaration de la Conférence Internationale de Kigali pour montrer la marche à suivre pour le futur.
+territorial_focus: 
+  - MIC
+  -  FS
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.securitepublique.gov.bi/IMG/pdf/indd_revue2014_final_msp1_finale_a_imprimer.pdf
+published: true
+import_source: 
+---
+Le PNUD a soutenu cette initiative qui s’est realisee en fin d’annee 2014 (decembre). Les acteurs nationaux ayant pris part a ce voyage d’echange d’experience ont exprime leur satisfecit et initie des rencontres en vue d’elaborer les indicateurs de performance de la police Nationale.

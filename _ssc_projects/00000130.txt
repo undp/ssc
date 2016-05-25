@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ZMB
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Study tour for 26 Zambian farmers on livelihoods and climate change adaptation 3-9 August 2014
+scale: country-country
+project_objective: The objective of the study visit is knowledge and experience sharing on on livelihoods and climate change adaptation
+territorial_focus: 
+  - FS
+undp_role_type: 
+  - KS
+project_link: http//stage.undp-ssc-mapping.org/#?viewState=map
+published: true
+import_source: 
+---
+Report of the Study Tour to Zimbabwe for Livelihoods, Climate Change Adaptation (3rd – 9th August 20214)

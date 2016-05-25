@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - PAK
+  -  THA
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Scoping mission on extractives industry in Pakistan with reference to Article 172(3)- Joint and Equal Ownership of Oil and Gas Resources
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.pk.undp.org/content/pakistan/en/home/operations/procurement0/pu-rfp-2015-024--request-for-proposal-for-mapping-and-analyzing-.html;http//www.undp.org/content/undp/en/home/librarypage/poverty-reduction/inclusive_development/strategy-note--undps-strategy-for-supporting-sustainable-and-equ.html
+published: true
+import_source: 
+---
+The engagement in 2014 was only to finalize terms of reference and agree upon the composition of the scoping mission. The scoping mission would arrive in 2015 and complete its deliverable during the same year as well.

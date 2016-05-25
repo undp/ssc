@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - AFG
+  -  IRN
+  -  PAK
+  -  TJK
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Share experience of Malaria Elimination  projects of Islamic Republic of Iran in cross-bordering areas with Afghanistan, Pakistan
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.tj.undp.org/content/tajikistan/en/home/operations/projects/hiv_aids/malaria.html
+published: true
+import_source: 
+---
+Case detection of Malaria cases have been improved in cross bordering areas, stock balance of spraying equipment and insecticides was developed for vector control activities in bordering areas based on knowledge from Iran. As a follow up Afghan colleagues visited Tajikistan to learn best practices for Malaria Elimination in Tajikistan (E27)

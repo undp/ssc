@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - JAM
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Viaje de estudio del Instituto de Planificación de Jamaica para el fortalecimiento de su Red de Proteccion Social
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.cl.undp.org/content/chile/es/home/presscenter/articles/2014/11/18/delegaci-n-de-jamaica-visita-chile-para-estudiar-pol-ticas-de-reducci-n-de-la-pobreza1.html
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias y el encuentro entre las partes interesadas (ministerios involucrados) a través de la oficina de PNUD Jamaica. El Gobierno de Jamaica esta actualmente desarrollando una nueva estrategia para la lucha contra la pobreza, en la cual incorporará diversos elementos extraidos de la visita a Chile. Esto se esta desarrollando con el apoyo del IPC de PNUD en Brasilia, quienes han sistematizado la información recogida durante la visita y se encuentran desarrollando un paper al respecto.

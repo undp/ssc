@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ARM
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Advocating conclusion of cooperation plans and agreements between Georgian and Armenian border agencies.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.entwicklung.at/uploads/media/20101115_Cross_Border_Study__FINAL.pdf
+published: true
+import_source: 
+---
+Draft Agreement on Border Representatives between Georgia and Armenia is undergoing state procedures for adoption.

@@ -1,0 +1,44 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ARG
+  -  BOL
+  -  BRA
+  -  CAN
+  -  CHL
+  -  COL
+  -  CRI
+  -  CUB
+  -  ECU
+  -  SLV
+  -  GTM
+  -  GUY
+  -  HTI
+  -  HND
+  -  JAM
+  -  JPN
+  -  MEX
+  -  PAN
+  -  PER
+  -  TTO
+  -  USA
+  -  URY
+  -  VEN
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Regional Platform of the Americas for Disaster Risk Reduction
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.unisdr.org/we/coordinate/regional-platforms
+published: true
+import_source: 
+---
+The initiative contributed to give regional visibility to the outcomes and results achived [E mission report]

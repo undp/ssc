@@ -1,0 +1,32 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BRN
+  -  KHM
+  -  IDN
+  -  LAO
+  -  MYS
+  -  PHL
+  -  SGP
+  -  THA
+  -  TLS
+  -  VNM
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Connecting ASEAN Provinces and Strengthening Partnership through South-South Cooperation (Provincial Governance Strengthening Programme Project, PGSP 57787)
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//www.id.undp.org/content/indonesia/en/home/operations/projects/democratic_governance/pgsp.html
+published: true
+import_source: 
+---
+The South-South Cooperation is built through exchanging resources, sharing knowledge and technology amongst developing countries. ASEAN Foundation and UNDP selected 8 provinces as target areas. It is expected that pilot initiative will trigger more local government to play active roles and participate in South-South decentralized cooperation. The key outcome was the signing of two MoUs. The pilot led ASEAN Foundation to produce an option paper on South-South Cooperation within ASEAN.

@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - TLS
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: Learning visit on Conflict Early Warning and Early Response
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//www.np.undp.org/content/dam/nepal/docs/projects/UNDP_NP_CPP-factsheet.pdf
+published: true
+import_source: 
+---
+The Timor Leste government runs a very successful EWER system, and this prompted the Nepalese authorities to undertake, in coordination with UNDP, the development of a similar system in Nepal.

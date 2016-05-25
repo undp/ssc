@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MKD
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: The Regional EU Advisors Facility
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.hr.undp.org/content/croatia/en/home/operations/projects/democratic_governance/EU_CAP.html
+published: true
+import_source: 
+---
+each EU candidate country monitoring progress report issued by EC annualy

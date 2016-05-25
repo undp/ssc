@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BGD
+  -  PAK
+region: 
+  - asia_pacific
+partner_type: 
+  - government
+project_title: “Legal Empowerment and Capacity Building” at BRAC Centre, Dhaka - Bangladesh on 14-15 December 2014.
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.sails-law.org/img/Dec_2014_WorkshopReportonLegalEmpowermentandCapacityBuildingWorkshop.pdf
+published: true
+import_source: 
+---
+There was general consensus on a training curriculum for the key personnel responsible for designing and implementation of paralegals and legal aid projects at regional level and a second curriculum for the paralegals at the regional level.  It was also agreed that a ‘Board’ on the subject will be established having membership from the South Asian Countries.

@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - NIC
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Intercambio con el proyecto-institucion Pronicaragua (Agencia de Promocion de Inversiones y Exportaciones de Nicaragua),  sobre Inversion Extranjera y Comercio Exterior
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+  -  PF
+project_link: https//info.undp.org/docs/pdc/Documents/NIC/Proyecto%20NIM%20-%20China%20v20Feb2014.docx
+published: true
+import_source: 
+---
+El PNUD en Cuba facilitó el intercambio de experiencias y el encuentro entre las partes interesadas a través de las oficinas de PNUD Nicaragua. Acordado Memorandum of Understanding (MoU) entre el  Centro de Promocion de Inversiones  y Exportaciones de Cuba y  ProNicaragua, acordada mision comercial de empresarios radicados en Nicaragua a cuba (marzo 2015) y valorado proyecto CEPEC PNUD sobre Inversion Extranjera y Exportaciones

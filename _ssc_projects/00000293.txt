@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - AZE
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Experience exchange with Azerbaijan in the area of management of small arms and lights weapons and ensuring their safekeeping
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.by.undp.org/content/belarus/en/home/operations/projects/democratic_governance/SALW.html
+published: true
+import_source: 
+---
+In view of the focus of the project (security at a national level), the external evidences of the visits are not available. However, a note was prepared by the Ministry of Defense officials on the findings from their visit to Azerbaijan.

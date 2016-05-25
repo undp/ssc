@@ -1,0 +1,29 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - GMB
+  -  GIN
+  -  GNB
+  -  MRT
+  -  SEN
+  -  SLE
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Gouvernance, politiques de gestion des ressources marines et reduction la pauvrete dans l’Ecoregion WAMER
+scale: regional
+project_objective: L’objectif général de ce projet est de contribuer à la réduction de la pauvreté et au renforcement de la sécurité alimentaire des communautés côtières de l’écorégion WAMER. L’objectif spécifique est d'améliorer la gouvernance et de promouvoir l’adoption de bonnes pratiques en matière d'utilisation durable des ressources marines et côtières dans l'écorégion WAMER. 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.sn.undp.org/content/senegal/fr/home/operations/projects/environment_and_energy/WAMER.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu l'evaluation a mis parcours du projet. Il identifie que le projet a contribué à créer des synergies subrégionales en relation a la surveillance participative des pêcheries, et a la pêche INN (Illégale, non-déclaré, non-règlementée)

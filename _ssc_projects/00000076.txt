@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - MUS
+region: 
+  - africa
+partner_type: 
+  - cso
+  -  academia
+project_title:  Economic Association of Malawi (ECAMA) Annual Conference  Achieving Inclusive Sustainable Economic Growth From Rhetoric to Practice
+scale: country-country
+project_objective: Objective of the conference is to explore long term strategies for sustainable economic growth in the next 50-year vision of Malawi from best practices from the Southern African Development Community (SADC) countries that achieved growth. 
+territorial_focus: 
+  - LDC
+undp_role_type: 
+  - KS
+project_link: http//massp.ifpri.info/files/2014/06/Final-Symposium-Report.pdf
+published: true
+import_source: 
+---
+ECAMA in collaboration with UNDP organized the annual conference in Malawi from 16 to 18 October 2014. Based on this event and on the sharing of best practices from SADC on sustainale economic development, the Government of Malawi published the Public Service Reform Commission Report entitled “Looking into the Future Making Malawi Work by Transforming Malawi’s Public Service”. The report reflects some of the resolutions noted during the experience sharing on making the public service efficient and support economic growth by empowering commercial parastatal organization to be given more autonomy to operate like companies and enter into joint ventures.

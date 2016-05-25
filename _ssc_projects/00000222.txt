@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - COL
+  -  CRI
+  -  LBN
+region: 
+  - asia_pacific
+partner_type: 
+  - private sector
+  -  government
+project_title: UNFCCC 20th Conference of Parties (COP20) Side Event "Designing a Low Carbon Future Experiences from the Low Emission Capacity Building (LECB) Programme"
+scale: global 
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//mitigationpartnership.net/mitigation-side-events-and-workshops-alongside-unfccc-cop-19
+published: true
+import_source: 
+---
+For 2014, the framework for the NICCDIES was developed and the actual system is expected to be established in 2015

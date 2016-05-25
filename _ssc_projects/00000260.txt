@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - MLI
+  -  MAR
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Mission d’études et d’échanges sur la consolidation et la modernisation de l’état civil et la gestion du fichier électoral au profit d’une délegation malienne de haut niveau
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.pncl.gov.ma/fr/grandchantiers/Pages/MajEtatCivil.aspx;http//www.ma.undp.org/content/dam/morocco/docs/Cadre-Legal/Descriptif_du_Programme_de_Pays_CPD.pdf
+published: true
+import_source: 
+---
+Cette visite d'étude à eclairer aux maliens les formules à adopter dans leur propre contexte dans le domaine de la modernisation de l'état civil  et la gestion du processus électorale.

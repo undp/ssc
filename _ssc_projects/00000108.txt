@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - SEN
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Partage d’expérience sur l’application informatique des chaines judiciaires
+scale: country-country
+project_objective: L’objectif est l’échange d’expérience et connaissance sur l’informatisation des chaines 
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - CB
+project_link: http//news.alome.com/h/23686.html
+published: true
+import_source: 
+---
+La resultante de cet atelier est l’evaluation, dans les 32 juridictions, des besoins en equipements, infrastructures reseaux, ressources humaines et formation en vue de la mise en place de l’application informatique des chaines judiciaires. Le rapport diagnostic est disponible.

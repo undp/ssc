@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - ECU
+  -  PRY
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: INTERCAMBIO MUNICIPIO FILADELFIA, PARAGUAY- CUMANDA, ECUADOR
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.cumanda.gob.ec/alcaldia/transicion;http//www.abc.com.py/nacionales/sobrevivencia-en-el-chaco-es-increible-dice-alcalde-ecuatoriano-1289176.html
+published: true
+import_source: 
+---
+El PNUD facilitó el intercambio de experiencias, expertos  y el encuentro entre las partes interesadas. Como resultado del intercambio los gobiernos locales firmaron un convenio de hermandad y trabajaron principalmente en el  intercambio de herramientas tales como  - Sistemas de tratamiento de agua  - Fuentes alternativas de producción para le generación de ingresos a nivel familiar  - Modelos de trabajos en GRR en escuelas.  

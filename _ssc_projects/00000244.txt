@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - ROU
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Participation of an Egyptian delegation in  the Association of European Electoral Officials’ Meeting in Romania
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.aceeeo.org/hu/node/71
+published: true
+import_source: 
+---
+The event is one of a series of events to raise awareness and advocate for increased women representation and gender mainstreaming in electoral administration. These efforts eventually contributed to increasing women members in the Secretariat of the High Elections Committee from 1 to 4

@@ -1,0 +1,25 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Resilience Building
+country: 
+  - CUB
+  -  DOM
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Proyecto Piloto de un Centro de Gestión para la Reducción del Riesgo (CGRR) en el Distrito Municipal La Victoria y Punto de Alerta Temprana (PAT) en la  Hacienda Estrella
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+  -  CB
+project_link: http//www.do.undp.org/content/dominican_republic/es/home/presscenter/articles/2013/10/12/cooperaci-n-sur-sur-expertos-de-cuba-brindan-apoyo-t-cnico-para-la-reducci-n-de-riesgos-a-nivel-local.html
+published: true
+import_source: 
+---
+EL rol del PNUD en alianza con la oficina del PNUD en Cuba fue de broker de conocimiento, desarrollador de capacidades y facilitador. Como resultado  se han fortalecido las capacidades de respuesta a la Defensa Civil del Municipio de la Victoria dotándolas de capacitación, equipos y planes de emergencia.
