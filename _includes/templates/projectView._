@@ -64,15 +64,6 @@
     </div>
 
     <small class='project-id'><%= project.project_id %></small>
-    <% if(project.open_project_id != ""){ %>
-
-      <div class="external-project-info">
-        <div class="detail-heading">Additional project information at <a href="http://open.undp.org/#project/<%= project.open_project_id %>">open.undp.org</a></div>
-      </div>
-      <iframe id='project_iframe' src="http://open.undp.org/embed.html#widget/project/<%= project.open_project_id %>?stats&documents&outputs" width="100%" height="200px" frameborder="0" marginheight="0" scrolling="no"></iframe>
-    <% } else { %>
-      <p>No project data from <a href="http://open.undp.org">open.undp.org</a></p>
-    <% } %>
 
   </div>
 </div>
