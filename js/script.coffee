@@ -6,10 +6,6 @@ app.config =
   repo: '{{ site.editor.github_repo }}'
   editor:
     url: '{{ site.editor.url }}'
-  parse:
-    apiKey : 'h3cXWSFS9SYs4QRcZIOF7qvMJcI4ejKDAN1Gb93W'
-    appID  : 'vfp0fnij23Dd93CVqlO8fuFpPJIoeOFcE2eslakO'
-    apiURL : 'https://api.parse.com/1/classes/stateData'
 
 # Models and Collections
 {% include models/filter.coffee %}
@@ -24,7 +20,6 @@ app.config =
 
 # Controllers and ViewModels
 {% include controllers/state-model.coffee %}
-{% include controllers/state-store.coffee %} # Mixin on StateModel
 
 # Views
 {% include views/project-view.coffee %}
