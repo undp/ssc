@@ -2,7 +2,6 @@
 
 require 'json'
 require 'erb'
-
 # 
 # GET COLUMNS NAMED RIGHT
 # 
@@ -11,7 +10,7 @@ def fields
   # Parses column names
   columns = JSON.parse(File.read("column_names.json"))
   # Keep track of which fields have transform entries
-  fields = columns.select { |k,v| v != "null" }
+  columns.select { |k,v| v != "null" }
 end
 
 def load
@@ -19,13 +18,18 @@ def load
   projects = JSON.parse(File.read('export.json'))
   projects = projects['rows']
 
+  cache_fields = fields
+
   # Renames the columns if they are kept
   projects = projects.map  do |i| 
     output = {}
-    i.each { |k,v| output[fields[k]] = v if fields.include? k }
+    i.each do |k,v| 
+      output[cache_fields[k]] = v if cache_fields.include? k
+    end
     output
   end
 end
+
 
 #
 # CLEAN EACH PROJECT
