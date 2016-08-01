@@ -1,0 +1,28 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BRA
+  -  GNB
+  -  IND
+  -  ZAF
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Projet Appui à la réhabilitation des rizières et le traitement des produits agricoles et animaux
+scale: global
+project_objective: Le projet vise à contribuer à  la qualité de vie des communautés en réduisant la pauvreté et la faim.
+territorial_focus: 
+  - SIDS
+  -  LDC
+  -  FS
+undp_role_type: 
+  - KS
+  -  CB
+project_link: https//erc.undp.org/evaluation/documents/download/9335
+published: true
+import_source: 
+---
+Le PNUD a soutenu la réhabilitation de leurs champs de riz afin d’augmenter la productivité, la conservation des sols, l’eau et éviter la déforestation de nouvelles zones; variétés de semences de légumes ont été distribués à contribuer au régime alimentaire; nouvelles technologies ont été introduites pour réduire le travail manuel (éplucheurs, meuleuses); de nouvelles techniques de transformation de la viande et du poisson.

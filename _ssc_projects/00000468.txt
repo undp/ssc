@@ -1,0 +1,21 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: A Regional Strategy in support of South-South Cooperation (SSC) in the Arab States
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - CB
+project_link: http//ssc.undp.org/content/ssc/about/regional_services.html
+published: true
+import_source: 
+---
+The strategy was presented in the framework of the First Arab States Regional South-South Development EXPO.

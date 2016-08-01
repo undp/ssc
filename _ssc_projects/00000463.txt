@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - LVA
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Workshop on parliamentary oversight on state budget
+scale: country-country
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//info.undp.org/docs/pdc/Documents/MDA/DP_%20Progress%20Report(Engl).pdf.
+published: true
+import_source: 
+---
+UNDP supported capacity building of parliamentary staff to support the MPs in the oversight of state budget increased (workshop evaluation forms). Two committee senior advisers and one former MP from Baltic States Parliaments –Estonia, Latvia and Lithuania - made presentations, sharing their experience and best practices. In the result, 23 staffers learned about different models of parliamentary control over Government’s spending. Further capacity development in this area was also achieved through the participation of three advisers from the Committee on Economy, Finance and Budget in an intensive training course in UK on Scrutiny of public accounts by Parliament and relations between Parliament and National Audit Institution. All three advisors received certificates of successful completion of the training. However, further follow up in 2015 for strengthening the capacities of both MPs and staff in this area is needed.

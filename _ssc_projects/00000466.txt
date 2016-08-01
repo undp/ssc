@@ -1,0 +1,26 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BLZ
+  -  BTN
+  -  GUY
+  -  SUR
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: REDD+ High Forest Low Deforestation Countries international conference, Paramaribo 14 - 15 May 2014.
+scale: global
+project_objective: 
+territorial_focus: 
+  - MIC
+  -  SIDS
+undp_role_type: 
+  - KS
+project_link: http//guianashield.org/index.php/publications-home/doc_download/518-international-conference-on-the-impact-of-redd-for-hfld-countries
+published: true
+import_source: 
+---
+The recognition that there is a space for Highly Forested, Low Deforestation countries as Suriname but requires appropriate policies with support of national partners as expressed during the Readiness Preparation Project Inception workshop in December, 2014.

@@ -1,0 +1,21 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - cso
+project_title: HuRiLab - Human Rights Laboratory is a platform
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: https//hurilab.wordpress.com/author/hurilab/
+published: true
+import_source: 
+---
+South-South Cooperation (SSC) is integrated into many components of the governance agenda in the region, including through innovation for the HuRiLab platform

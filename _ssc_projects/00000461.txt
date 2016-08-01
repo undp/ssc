@@ -1,0 +1,21 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Czech-UNDP Trust Fund
+scale: global
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - PF
+project_link: http//www.eurasia.undp.org/content/rbec/en/home/about_us/partners/czech-undp-trust-fund.html
+published: true
+import_source: 
+---
+Initiative consolidated 3 separate proposals into one as part of the Czech-UNDP Trust Fund.

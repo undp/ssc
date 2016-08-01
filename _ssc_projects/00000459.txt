@@ -1,0 +1,21 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Customs Union
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.by.undp.org/content/belarus/en/home/presscenter/pressreleases/2014/03/19/minsk-hosts-discussion-on-ozone-depleting-substances-tracking-in-the-customs-union.html
+published: true
+import_source: 
+---
+UNDP also facilitated the cooperation between countries participating in the Customs Union, to make sure that proper border controls are maintained for Ozone Depleting Substances after the entry into force of the Customs Union, in compliance with the Montreal Protocol (4 participating countries and their neighbours in the region)

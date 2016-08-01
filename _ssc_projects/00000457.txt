@@ -1,0 +1,23 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - PER
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Experience sharing field mission to Peru for the Aden Dismissals Commission
+scale: country-country
+project_objective: Experience sharing missions, to increase the technical knowledge of the members of the Commissions organized.
+territorial_focus: 
+  - LDC
+  -  FS
+undp_role_type: 
+  - KS
+project_link: http//mptf.undp.org/document/download/13567
+published: true
+import_source: 
+---
+Until June 2014 the commission finalized only 3000 cases. During the mission in Peru the Commission had the opportunity to concretely observe how reparation was functioning in Peru and was confronted to specific cases and how cases were solved. By providing range of technical information and solutions relevant to the Commission’s work, the Commission managed to define appropriate resolutions. Following the mission in Peru, the Dismissals Commission solved 15000 of individual and mass claims

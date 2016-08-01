@@ -1,0 +1,22 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+region: 
+  - arab_states
+partner_type: 
+  - government
+project_title: Online South-South Cooperation Portal for Real-time Access to South-South-related Information
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+  -  PF
+project_link: http//ssc.undp.org/content/ssc/about/regional_services.html
+published: true
+import_source: 
+---
+UNDP facilitated the exchange of knowledge through the establishment of a regional SSC portal that would provide an equitable approach for all the players in the Arab region in scaling up exchanges of solutions, techno

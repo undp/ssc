@@ -1,0 +1,27 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Sustainable Development Pathways
+country: 
+  - BRA
+  -  GNB
+  -  IND
+  -  ZAF
+region: 
+  - africa
+partner_type: 
+  - government
+project_title: Projet d’électrification rurale en utilisant des systèmes d’énergie solaire
+scale: global
+project_objective: Le projet vise à contribuer à  la qualité de vie des communautés en réduisant la pauvreté; et possibilités l’access a l’énergie solaire durable
+territorial_focus: 
+  - SIDS
+  -  LDC
+  -  FS
+undp_role_type: 
+  - CB
+project_link: http//www.undp.org/content/undp/fr/home/ourwork/ourstories/solar-panels-light-rural-districts-of-lesotho.html
+published: true
+import_source: 
+---
+Le PNUD a soutenu les 24 communautés partenaires projet IBSA, qui ont bénéficié de l’accès à l’énergie solaire durable dans les principales vois d’accès aux locaux des initiatives (centre de jeunes, éclairage public) offrant une plus grande sécurité aux communautés, a l’eau par pompage  et  a l’alphabétisation fonctionnelle.

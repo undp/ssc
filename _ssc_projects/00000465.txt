@@ -1,0 +1,24 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+  - BRA
+  -  CRI
+  -  PER
+region: 
+  - lac
+partner_type: 
+  - government
+project_title: Mission of staff from Ministry of Economy and Finance in Peru to Minas Gerais (Brazil) and Costa Rica to visit experiences of national supply chain management systems.
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//webcache.googleusercontent.com/search?q=cacheMJ4P9v1EtoAJwww.undp.org/content/dam/undp/library/Environment%2520and%2520Energy/biodiversity/Community_Biodiversity_Products_From_Latin_America_and_the_Caribbean.pdf+&cd=9&hl=en&ct=clnk&gl=us
+published: true
+import_source: 
+---
+The evidence is the law project for the establishment of a national supply chain system in Peru that was drafted as a result of the mission. The law project is expected to be presented by the Ministry to Congress in the next ordinary legislature starting in March 2015.

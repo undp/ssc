@@ -1,0 +1,21 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Regional Hub of Civil Service
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.undp.org/content/undp/en/home/presscenter/pressreleases/2015/06/19/kazakhstan-undp-regional-hub-civil-service-astana-host-conference-civil-service-excellence.html
+published: true
+import_source: 
+---
+In Kazakhstan, RBEC supported the formulation of a US$14M project to establish the Regional Hub of Civil Service

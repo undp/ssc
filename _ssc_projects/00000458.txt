@@ -1,0 +1,21 @@
+---
+open_project_id: "1"
+thematic_focus: 
+  - Inclusive and Effective Democratic Governance
+country: 
+region: 
+  - europe_cis
+partner_type: 
+  - government
+project_title: Roma project
+scale: regional
+project_objective: 
+territorial_focus: 
+  - MIC
+undp_role_type: 
+  - KS
+project_link: http//www.hr.undp.org/content/croatia/en/home/presscenter/articles/2015/04/30/a-new-project-for-the-brighter-future-of-roma-in-croatia.html
+published: true
+import_source: 
+---
+facilitated exchange of experience between the countries
